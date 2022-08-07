@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README.md",
+      "path": "README.md.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
@@ -53,16 +61,8 @@
       "path": "_EE.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "___virtual plaza",
-      "path": "___virtual plaza.md"
     },
     {
       "basename": "date",
