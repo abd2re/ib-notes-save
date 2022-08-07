@@ -12,91 +12,25 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"___virtual plaza.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"people/Peres.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"___virtual plaza.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"people/Peres.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -108,33 +42,99 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"people/Peres.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":194.85358255451715}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0.33027522935779813}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":0},\"to\":{\"line\":213,\"ch\":0}},\"scroll\":194.11783854166666}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science IA.md",
+            "file": "Latex.md",
             "mode": "source",
             "source": false
           }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "Latex.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science IA.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -315,7 +315,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "Latex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,7 +338,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 241,
-                  "scale": 0.5060981477429647,
+                  "scale": 0.7095409477317994,
                   "close": true
                 }
               }
@@ -348,19 +348,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "active": "a0a4ae052f5f1ee2",
   "lastOpenFiles": [
-    "_computer science.md",
-    "__dashboard.md",
+    "people/Peres.md",
+    "people/Mahouna.md",
     "_TOK.md",
-    "_EE.md",
-    "_CAS.md",
-    "___virtual plaza.md",
+    "_economy.md",
     "Computer Science IA.md",
-    "_physics.md",
+    "Latex.md",
+    "Flask.md",
+    "_computer science.md",
     "_math.md",
-    "people/Mahouna.md"
+    "SQLite.md"
   ]
 }

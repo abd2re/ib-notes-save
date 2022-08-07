@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
+      "basename": "Latex",
+      "path": "Latex.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Peres",
+      "path": "people/Peres.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
+      "basename": "Mahouna",
+      "path": "people/Mahouna.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "_CAS",
@@ -27,30 +63,6 @@
     {
       "basename": "___virtual plaza",
       "path": "___virtual plaza.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Mahouna",
-      "path": "people/Mahouna.md"
-    },
-    {
-      "basename": "Peres",
-      "path": "people/Peres.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
     },
     {
       "basename": "date",
@@ -71,10 +83,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "CAS template",
@@ -103,10 +111,6 @@
     {
       "basename": "economy template",
       "path": "template/economy template.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "vectors",

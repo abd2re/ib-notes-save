@@ -2,4 +2,5 @@
 tags: [MOC] 
 ---
 
-# title
+# Math
+## Learn [[Latex]]

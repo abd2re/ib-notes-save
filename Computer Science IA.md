@@ -10,3 +10,8 @@ up:: [[_computer science]]
 	- [Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech with Tim)
 	- have to find [[SQLite]] tutorials with [[Flask]] using [[SQLAlchemy]] ?
 - Database backed application ?
+
+| colonne 1 | collone 2 | collone 3 |
+| --------- | --------- | --------- |
+| adaklks   | lamsdlas  | almdla    |
+| amdslsam  | mkams     | daml          |
