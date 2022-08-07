@@ -1,7 +1,7 @@
 ## Welcome to the
 # *virtual plaza*
-### Go to --> [[__dashboard]] 👀
+### Go to --> [Dashboard](__dashboard.md) 👀
 ***
 Those are my IB Obsidian notes 👍
 
-[Dashboard](__dashboard.md)
+
