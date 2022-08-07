@@ -12,8 +12,8 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":97.475}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -99,7 +99,7 @@
           "type": "markdown",
           "state": {
             "file": "Flask.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -263,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "6299f388c1ecfa05",
