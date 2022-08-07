@@ -12,8 +12,8 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":49.55865921787709}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -132,8 +132,12 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Flask.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -226,6 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flask.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -246,6 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +281,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flask.md"
+              }
             }
           },
           {
@@ -307,6 +315,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Flask.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",

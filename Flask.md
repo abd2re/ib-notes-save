@@ -66,8 +66,6 @@ HTML template
     <body>
         <h1>hello !!</h1>
         <p>{{content}}</p>
-        <p>{{r}}</p>
-
         {% for i in names %}
             <p>{{i}}</p>
             {% if i == 'wahab' %}<p>hello {{i}}</p>{% endif %}
