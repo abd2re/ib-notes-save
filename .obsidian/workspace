@@ -12,8 +12,20 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":171.57142857142858}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -116,18 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -135,7 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "Latex.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -353,13 +353,13 @@
   },
   "active": "a0a4ae052f5f1ee2",
   "lastOpenFiles": [
+    "Flask.md",
+    "Latex.md",
     "people/Peres.md",
     "people/Mahouna.md",
     "_TOK.md",
     "_economy.md",
     "Computer Science IA.md",
-    "Latex.md",
-    "Flask.md",
     "_computer science.md",
     "_math.md",
     "SQLite.md"
