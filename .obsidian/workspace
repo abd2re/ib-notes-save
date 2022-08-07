@@ -13,6 +13,48 @@
               "leaf": "dc742785ed53f19f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "dc742785ed53f19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":10.212853752054045}"
             },
             {
@@ -257,15 +299,15 @@
   },
   "active": "dc742785ed53f19f",
   "lastOpenFiles": [
-    "_french B.md",
-    "README.md",
+    "SQLite.md",
     "__dashboard.md",
+    "README.md",
+    "Latex.md",
+    "_french B.md",
     "nice art.png",
     "___virtual plaza.md",
-    "Latex.md",
     "Flask.md",
     "people/Peres.md",
-    "people/Mahouna.md",
-    "_TOK.md"
+    "people/Mahouna.md"
   ]
 }

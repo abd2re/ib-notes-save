@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
     },
     {
       "basename": "_physics",
