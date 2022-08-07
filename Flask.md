@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
 ### tutorial 2: html templates
 HTML template
-```Django
+```haml
 <!DOCTYPE html>
 <html>
     <head>
@@ -94,7 +94,7 @@ if __name__ == "__main__":
 ***
 ### tutorial 3: Bootstrap and Temple inheritance
 Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-```Django
+```haml
 <!DOCTYPE html>
 <html>
     <head>
@@ -126,7 +126,7 @@ Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started
 </html>
 ```
 template inheritance with index
-```Django
+```haml
 {% extends 'base.html' %}
 
 {% block title %}Home page{% endblock %}
@@ -136,7 +136,7 @@ template inheritance with index
 {% endblock %}
 ```
 template inheritance with other page
-```Django
+```haml
 {% extends 'base.html' %}
 
 {% block title %}Server{% endblock title %}
@@ -165,6 +165,48 @@ def server():
 @app.route('/<name>')
 def hello(name):
     return f'hello ! "{name}" is an invalid link maybe ?'
+
+if __name__ == "__main__":
+    app.run(debug=True)
+```
+***
+### tutorial 4: HTTP Methods (GET/POST) & Retrieving Form Data
+login form page (extended from a base.html template)
+```haml
+{% extends 'base.html' %}
+
+{% block title %}Login Page{% endblock title %}
+
+{% block content %}
+<form method="POST">
+    <p>Username: </p>
+    <p><input type='text' name='nm'></p>
+    <p><input type='submit' value='submit'></p>
+</form>
+{% endblock content %}
+```
+Flask request code
+```python
+from flask import Flask, render_template, request, redirect, url_for
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return render_template("index.html",
+                           name='Wahab')
+
+@app.route("/login", methods=["POST", "GET"])
+def login():
+    if request.method == "POST":
+        user = request.form["nm"]
+        return redirect(url_for("user", usr=user))
+    else:
+        return render_template("login.html")
+
+@app.route("/<usr>")
+def user(usr):
+    return f"<h1>{usr}</h1>"
 
 if __name__ == "__main__":
     app.run(debug=True)

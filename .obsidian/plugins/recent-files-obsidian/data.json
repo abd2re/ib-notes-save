@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
-    },
-    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
     },
@@ -21,8 +13,44 @@
       "path": "__dashboard.md"
     },
     {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "___virtual plaza",
       "path": "___virtual plaza.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Mahouna",
+      "path": "people/Mahouna.md"
+    },
+    {
+      "basename": "Peres",
+      "path": "people/Peres.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
     },
     {
       "basename": "date",
@@ -43,14 +71,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "Peres",
-      "path": "people/Peres.md"
-    },
-    {
-      "basename": "Mahouna",
-      "path": "people/Mahouna.md"
     },
     {
       "basename": "_economy",
@@ -85,28 +105,8 @@
       "path": "template/economy template.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "vectors",
