@@ -4,4 +4,4 @@
 ***
 Those are my IB Obsidian notes 👍
 
-[a relative link](__dashboard.md)
+[Dashboard](__dashboard.md)
