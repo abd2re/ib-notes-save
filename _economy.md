@@ -1,0 +1,4 @@
+---
+tags: [MOC]
+alias: econ
+---

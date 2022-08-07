@@ -1,0 +1,4 @@
+---
+tags: [concept, economy] 
+---
+# Concept

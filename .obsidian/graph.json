@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "-path:template",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#people",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 16337071
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
+      }
+    },
+    {
+      "query": "tag:#computer_science",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    },
+    {
+      "query": "tag:#english",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#french_B",
+      "color": {
+        "a": 1,
+        "rgb": 5439366
+      }
+    },
+    {
+      "query": "tag:#economy",
+      "color": {
+        "a": 1,
+        "rgb": 6280500
+      }
+    },
+    {
+      "query": "tag:#TOK",
+      "color": {
+        "a": 1,
+        "rgb": 15785046
+      }
+    },
+    {
+      "query": "tag:#EE",
+      "color": {
+        "a": 1,
+        "rgb": 15050296
+      }
+    },
+    {
+      "query": "tag:#CAS",
+      "color": {
+        "a": 1,
+        "rgb": 8882055
+      }
+    },
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00042735042735,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.517094017094017,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7000528043680141,
+  "close": false
+}

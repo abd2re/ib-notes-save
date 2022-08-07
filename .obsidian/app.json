@@ -1,0 +1,9 @@
+{
+  "spellcheckLanguages": [
+    "en-US",
+    "fr-FR"
+  ],
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
