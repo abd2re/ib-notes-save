@@ -12,8 +12,8 @@
             {
               "leaf": "dc742785ed53f19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":10.212853752054045}"
             },
             {
               "leaf": "dc742785ed53f19f",
@@ -30,7 +30,7 @@
             {
               "leaf": "dc742785ed53f19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":36},\"to\":{\"line\":7,\"ch\":36}},\"scroll\":0}"
             }
           ]
@@ -38,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,15 +257,15 @@
   },
   "active": "dc742785ed53f19f",
   "lastOpenFiles": [
+    "_french B.md",
+    "README.md",
     "__dashboard.md",
     "nice art.png",
-    "README.md.md",
     "___virtual plaza.md",
     "Latex.md",
     "Flask.md",
     "people/Peres.md",
     "people/Mahouna.md",
-    "_TOK.md",
-    "_economy.md"
+    "_TOK.md"
   ]
 }
