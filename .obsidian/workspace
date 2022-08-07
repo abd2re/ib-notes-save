@@ -13,7 +13,19 @@
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.8333333333333335}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -304,15 +316,15 @@
   },
   "active": "a0a4ae052f5f1ee2",
   "lastOpenFiles": [
-    "_computer science.md",
+    "_english.md",
     "Flask.md",
+    "_computer science.md",
     "Computer Science IA.md",
     "0 Computer Science IA.md",
     "template/english template.md",
     "template/computer science template.md",
     "template/math template.md",
     "2022-08-06.md",
-    "__dashboard.md",
-    "people/Peres.md"
+    "__dashboard.md"
   ]
 }
