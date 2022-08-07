@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "file:___virtual plaza",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
     {
       "query": "tag:#MOC",
       "color": {
@@ -25,14 +32,14 @@
       "query": "tag:#math",
       "color": {
         "a": 1,
-        "rgb": 16337071
+        "rgb": 14240413
       }
     },
     {
       "query": "tag:#physics",
       "color": {
         "a": 1,
-        "rgb": 10965728
+        "rgb": 9914826
       }
     },
     {
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7000528043680141,
+  "scale": 0.9814620592641549,
   "close": false
 }

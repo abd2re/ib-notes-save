@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
       "basename": "Flask",
       "path": "Flask.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "___virtual plaza",
+      "path": "___virtual plaza.md"
+    },
+    {
+      "basename": "date",
+      "path": "template/date.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "english template",
@@ -27,10 +43,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "Peres",

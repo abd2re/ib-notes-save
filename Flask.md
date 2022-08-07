@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
 ### tutorial 2: html templates
 HTML template
-```html
+```Django
 <!DOCTYPE html>
 <html>
     <head>
@@ -95,8 +95,8 @@ if __name__ == "__main__":
 ```
 ***
 ### tutorial 3: Bootstrap and Temple inheritance
-Base template with Bootstrap
-```html
+Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+```Django
 <!DOCTYPE html>
 <html>
     <head>
@@ -128,7 +128,7 @@ Base template with Bootstrap
 </html>
 ```
 template inheritance with index
-```html
+```Django
 {% extends 'base.html' %}
 
 {% block title %}Home page{% endblock %}
@@ -138,7 +138,7 @@ template inheritance with index
 {% endblock %}
 ```
 template inheritance with other page
-```html
+```Django
 {% extends 'base.html' %}
 
 {% block title %}Server{% endblock title %}
@@ -163,6 +163,10 @@ def home():
 @app.route('/server')
 def server():
     return render_template('page.html')
+
+@app.route('/<name>')
+def hello(name):
+    return f'hello ! "{name}" is an invalid link maybe ?'
 
 if __name__ == "__main__":
     app.run(debug=True)

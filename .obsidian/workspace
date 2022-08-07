@@ -12,32 +12,38 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":97.475}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.8333333333333335}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":62.64312267657993}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -48,8 +54,26 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":8},\"to\":{\"line\":0,\"ch\":8}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":61.810483870967744}"
+              "eState": "{\"scroll\":73.47955390334573}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
@@ -60,48 +84,56 @@
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"___virtual plaza.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a0a4ae052f5f1ee2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"___virtual plaza.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":1},\"to\":{\"line\":12,\"ch\":1}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/date.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"___virtual plaza.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":21},\"to\":{\"line\":5,\"ch\":21}}}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}},\"scroll\":0}"
             },
             {
               "leaf": "a0a4ae052f5f1ee2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a0a4ae052f5f1ee2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":136.912}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Flask.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -194,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flask.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,7 +246,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +275,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flask.md"
-              }
+              "state": {}
             }
           },
           {
@@ -279,7 +307,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Flask.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,7 +329,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 241,
-                  "scale": 1.0083002810478445,
+                  "scale": 0.7191958494267398,
                   "close": true
                 }
               }
@@ -316,15 +343,15 @@
   },
   "active": "a0a4ae052f5f1ee2",
   "lastOpenFiles": [
-    "_english.md",
+    "SQLite.md",
     "Flask.md",
-    "_computer science.md",
     "Computer Science IA.md",
+    "_computer science.md",
+    "__dashboard.md",
+    "___virtual plaza.md",
+    "template/date.md",
+    "_english.md",
     "0 Computer Science IA.md",
-    "template/english template.md",
-    "template/computer science template.md",
-    "template/math template.md",
-    "2022-08-06.md",
-    "__dashboard.md"
+    "template/english template.md"
   ]
 }
