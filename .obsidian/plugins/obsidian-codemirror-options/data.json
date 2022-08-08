@@ -6,7 +6,7 @@
   "enablePrismJSStyling": true,
   "editModeHideTokens": false,
   "editModeClickHandler": false,
-  "showLineNums": true,
+  "showLineNums": false,
   "copyButton": true,
   "copyButtonOnPRE": false,
   "enableOpenMD": false,

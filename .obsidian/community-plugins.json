@@ -13,8 +13,10 @@
   "recent-files-obsidian",
   "tag-wrangler",
   "hotkeysplus-obsidian",
-  "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-discordrpc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-codemirror-options",
+  "better-word-count",
+  "obsidian-style-settings"
 ]
