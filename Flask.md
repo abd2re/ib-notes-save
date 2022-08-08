@@ -51,11 +51,10 @@ def admin():
 if __name__ == "__main__":
     app.run()
 ```
----
 
 ### tutorial 2: html templates
 HTML template
-```haml
+```django
 <!DOCTYPE html>
 <html>
     <head>
@@ -91,10 +90,9 @@ def home(name):
 if __name__ == "__main__":
     app.run(debug=True)
 ```
-***
 ### tutorial 3: Bootstrap and Temple inheritance
 Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-```haml
+```django
 <!DOCTYPE html>
 <html>
     <head>
@@ -126,7 +124,7 @@ Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started
 </html>
 ```
 template inheritance with index
-```haml
+```django
 {% extends 'base.html' %}
 
 {% block title %}Home page{% endblock %}
@@ -136,7 +134,7 @@ template inheritance with index
 {% endblock %}
 ```
 template inheritance with other page
-```haml
+```django
 {% extends 'base.html' %}
 
 {% block title %}Server{% endblock title %}
