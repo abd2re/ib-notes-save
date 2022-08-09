@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
     },
     {
       "basename": "Peres",
