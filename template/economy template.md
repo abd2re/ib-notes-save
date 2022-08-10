@@ -1,4 +1,5 @@
 ---
 tags: [concept, economy] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

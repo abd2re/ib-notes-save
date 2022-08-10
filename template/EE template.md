@@ -1,4 +1,5 @@
 ---
 tags: [concept, EE] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

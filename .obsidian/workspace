@@ -4,24 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "dc742785ed53f19f",
+        "id": "c9426aa67074b847",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "dc742785ed53f19f",
+              "leaf": "c9426aa67074b847",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":234.3992015968064}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c9426aa67074b847",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flask.md",
-            "mode": "preview",
+            "file": "_french B.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -104,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flask.md",
+                "file": "_french B.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flask.md",
+                "file": "_french B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flask.md"
+                "file": "_french B.md"
               }
             }
           },
@@ -169,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Flask.md",
+                "file": "_french B.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,17 +211,17 @@
     "width": 366.5,
     "collapsed": true
   },
-  "active": "dc742785ed53f19f",
+  "active": "c9426aa67074b847",
   "lastOpenFiles": [
-    "Latex.md",
-    "README.md",
-    "SQLite.md",
+    "_math.md",
+    "test.md",
     "__dashboard.md",
-    "_french B.md",
-    "nice art.png",
-    "___virtual plaza.md",
-    "Flask.md",
-    "people/Peres.md",
-    "people/Mahouna.md"
+    "template/TOK template.md",
+    "template/physics template.md",
+    "template/people template.md",
+    "template/math template.md",
+    "template/french B template.md",
+    "template/english template.md",
+    "template/EE template.md"
   ]
 }

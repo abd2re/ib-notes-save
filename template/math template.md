@@ -1,4 +1,5 @@
 ---
 tags: [concept, math] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

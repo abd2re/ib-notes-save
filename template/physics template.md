@@ -1,4 +1,5 @@
 ---
 tags: [concept, physics] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

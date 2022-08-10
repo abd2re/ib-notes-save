@@ -1,4 +1,4 @@
 ---
 tags: [people]
 ---
-# Name
+# {{title}} 

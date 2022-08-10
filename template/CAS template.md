@@ -1,4 +1,5 @@
 ---
 tags: [concept, CAS] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

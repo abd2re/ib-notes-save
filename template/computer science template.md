@@ -1,4 +1,5 @@
 ---
 tags: [concept, computer_science] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

@@ -1,4 +1,5 @@
 ---
 tags: [concept, english] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}

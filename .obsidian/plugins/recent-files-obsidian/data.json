@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "TOK template",
+      "path": "template/TOK template.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "people template",
+      "path": "template/people template.md"
+    },
+    {
+      "basename": "math template",
+      "path": "template/math template.md"
+    },
+    {
+      "basename": "french B template",
+      "path": "template/french B template.md"
+    },
+    {
+      "basename": "english template",
+      "path": "template/english template.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "date",
+      "path": "template/date.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
+      "basename": "CAS template",
+      "path": "template/CAS template.md"
+    },
+    {
       "basename": "Flask",
       "path": "Flask.md"
     },
@@ -15,10 +71,6 @@
     {
       "basename": "SQLite",
       "path": "SQLite.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "Peres",
@@ -45,16 +97,8 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "_EE",
@@ -65,52 +109,8 @@
       "path": "_CAS.md"
     },
     {
-      "basename": "date",
-      "path": "template/date.md"
-    },
-    {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "english template",
-      "path": "template/english template.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
-      "basename": "math template",
-      "path": "template/math template.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
-    },
-    {
-      "basename": "french B template",
-      "path": "template/french B template.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     },
     {
       "basename": "vectors",
@@ -131,10 +131,6 @@
     {
       "basename": "newthing",
       "path": "newthing.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
     },
     {
       "basename": "Chemistry",

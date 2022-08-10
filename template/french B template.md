@@ -1,4 +1,5 @@
 ---
 tags: [concept, french_B] 
 ---
-# Concept
+# {{title}} Concept
+Created: {{date}}
