@@ -13,7 +13,7 @@
               "leaf": "dc742785ed53f19f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":234.3992015968064}"
             }
           ]
         },
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "active": "dc742785ed53f19f",
   "lastOpenFiles": [
