@@ -322,4 +322,9 @@ HTML snippet for flashing implementation
 ```
 
 ### Tutorial 7: SQLAlchemy Database
+- Download SQLAlchemy first
+```bash
+pip install flask-sqlalchemy
+```
+
 

@@ -12,8 +12,8 @@
             {
               "leaf": "c9426aa67074b847",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":305.625}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":328,\"ch\":0},\"to\":{\"line\":328,\"ch\":0}},\"scroll\":308.19483568075117}"
             },
             {
               "leaf": "c9426aa67074b847",
@@ -75,7 +75,7 @@
           "type": "markdown",
           "state": {
             "file": "Flask.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
