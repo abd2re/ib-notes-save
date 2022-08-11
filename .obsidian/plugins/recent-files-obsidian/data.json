@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_french B",
-      "path": "_french B.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "_math",
       "path": "_math.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
     },
     {
       "basename": "TOK template",
@@ -91,14 +99,6 @@
     {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_EE",
