@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "_computer science",
@@ -65,10 +73,6 @@
       "path": "template/CAS template.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
       "basename": "Latex",
       "path": "Latex.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Computer Science IA",

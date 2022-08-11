@@ -320,3 +320,6 @@ HTML snippet for flashing implementation
 <p1> {{userid}} </p1>
 {% endblock content %}
 ```
+
+### Tutorial 7: SQLAlchemy Database
+
