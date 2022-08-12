@@ -7,16 +7,16 @@
   "dataview",
   "obsidian-mind-map",
   "obsidian-auto-link-title",
-  "obsidian-hover-editor",
   "pane-relief",
   "url-into-selection",
   "recent-files-obsidian",
   "tag-wrangler",
-  "hotkeysplus-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-discordrpc",
   "obsidian-git",
   "obsidian-codemirror-options",
   "better-word-count",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "hotkeysplus-obsidian",
+  "obsidian-hover-editor"
 ]
