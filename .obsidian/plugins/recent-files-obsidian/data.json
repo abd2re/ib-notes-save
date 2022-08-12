@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
       "basename": "Flask",
       "path": "Flask.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "CAS template",
       "path": "template/CAS template.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     },
     {
       "basename": "README",
