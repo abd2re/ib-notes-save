@@ -8,14 +8,7 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": [
-            {
-              "leaf": "2406cf8e8df02515",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0.8333333333333334}"
-            }
-          ]
+          "stack": []
         },
         "state": {
           "type": "markdown",
@@ -40,10 +33,6 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -205,7 +194,7 @@
     "width": 366.5,
     "collapsed": true
   },
-  "active": "2406cf8e8df02515",
+  "active": "d1b6639e49a5eb49",
   "lastOpenFiles": [
     "Latex.md",
     "_computer science.md",
