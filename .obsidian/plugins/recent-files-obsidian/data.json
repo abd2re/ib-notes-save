@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
@@ -9,16 +17,8 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
     },
     {
       "basename": "_TOK",
