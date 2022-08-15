@@ -12,4 +12,7 @@ up:: [[_computer science]]
 
 ## Idea 1
 Using flask to make a event organiser application where users can create events with details and customers can buy or reserve a ticket for that event.
-- 
+- See hosted events
+- Create an event
+- See reserved tickets
+- Search for events
