@@ -1,5 +1,5 @@
 ---
-tags: [MOC, computer_science]
+tags: [MOC, IA, computer_science]
 ---
 up:: [[_computer science]]
 ## Progress
@@ -10,26 +10,27 @@ up:: [[_computer science]]
 	- [Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech with Tim) (almost done)
 	- have to find [[SQLite]] tutorials 
 
-## Idea: School event planner
-Students or teachers would be able to set up events like revision sessions, tutoring sessions, school tournaments, school charity events and more... Other students can then also enlist in these events and the organiser would be able to see the list of people joining.
-- Users have to sign up or log in to be able to use the features
-- Users can create an event, and see the list of events he/she created
-- Users can see the list of active events and join them
-- Users can see the list of events they joined
-- Event admin can see the people enlisting in their event and set a maximum number of people
-
+## Idea: Revision/tutoring event planner
+Students or teachers would be able to set up events like revision sessions, tutoring session or reinforcement sessions.
+If session is cancelled or there is a modification in date and time or an important announcement the session admin can send a notification to its enlisters.
 ***
 ##### App should have:
 - Sign up and Log In page
 - Navigation bar for
-	- Create event
-	- See created events 
-	- Explore events
-	- See enlisted events 
-		- Have a calendar view ?
+	- Create session
+	- See created sessions 
+	- Explore active sessions
+	- See enlisted sessions 
+	- Notifications
 
-###### An event should have:
+###### A session should have:
 - A date and time
-- A location
-- A description
-- 
+- Category/subject
+- A location or reunion link (if session is online)
+- A brief description
+- Name of event organiser
+
+###### A user should have:
+- Name
+- Email (and password)
+- Teacher or Student
