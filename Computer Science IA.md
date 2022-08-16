@@ -18,10 +18,10 @@ If session is cancelled or there is a modification in date and time or an import
 - Sign up and Log In page
 - Navigation bar for
 	- Create session
-	- See created sessions 
 	- Explore active sessions
 	- See enlisted sessions 
-	- Notifications
+	- See created sessions 
+	- Notifications (sent by mail too)
 
 ###### A session should have:
 - A date and time
