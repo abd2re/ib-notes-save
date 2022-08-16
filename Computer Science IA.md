@@ -15,4 +15,6 @@ Using flask to make a event organiser application where users can create events 
 - See hosted events
 - Create an event
 - See reserved tickets
-- Search for events
+- Search for events...
+
+## Idea 2
