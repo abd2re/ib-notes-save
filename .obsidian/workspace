@@ -12,7 +12,7 @@
             {
               "leaf": "2406cf8e8df02515",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -27,7 +27,7 @@
           "type": "markdown",
           "state": {
             "file": "Flask.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }

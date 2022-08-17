@@ -321,10 +321,131 @@ HTML snippet for flashing implementation
 {% endblock content %}
 ```
 
-### Tutorial 7: SQLAlchemy Database
+### Tutorial 7/8: SQLAlchemy Database +  Adding, Deleting & Updating Users
 - Download SQLAlchemy first
 ```bash
 pip install flask-sqlalchemy
 ```
 
+Flask code for SQLAlcemy
+```python
+from flask import Flask, render_template, request, redirect, url_for, session, flash
+from datetime import timedelta
+from flask_sqlalchemy import SQLAlchemy
 
+app = Flask(__name__)
+app.secret_key = '123'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.sqlite3'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.permanent_session_lifetime = timedelta(days=1)
+
+db = SQLAlchemy(app)
+
+class users(db.Model):
+    _id = db.Column("id", db.Integer, primary_key=True)
+    name = db.Column(db.String(100))
+    email = db.Column(db.String(100))
+
+    def __init__(self, name, email):
+        self.name = name
+        self.email = email
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route('/view')
+def view():
+    return render_template('view.html',
+                           values=users.query.all())
+
+@app.route("/login", methods=["POST", "GET"])
+def login():
+    if request.method == "POST":
+        session.permanent = True
+        user = request.form["nm"]
+        session['user'] = user
+
+        found_user = users.query.filter_by(name=user).first()
+        if found_user:
+            session['email'] = found_user.email
+        else:
+            usr = users(user, "")
+            db.session.add(usr)
+            db.session.commit()
+
+        flash('Login succesful !',"info")
+        return redirect(url_for("user"))
+    else:
+        if 'user' in session:
+            flash('You are already logged in')
+            return redirect(url_for('user'))
+        return render_template("login.html")
+
+@app.route("/user", methods=['POST','GET'])
+def user():
+    email = None
+    if 'user' in session:
+        user = session['user']
+
+        if request.method == 'POST':
+            email = request.form["email"]
+            session['email'] = email
+            found_user = users.query.filter_by(name=user).first()
+            found_user.email = email
+            db.session.commit()
+            flash('email saved')
+        else:
+            if 'email' in session:
+                email = session['email']
+
+        return render_template('user.html',
+                               email=email)
+    else:
+        flash('You are not logged in')
+        return redirect(url_for('login'))
+
+@app.route('/logout')
+def logout():
+    if 'user' in session:
+        user = session['user']
+        session.pop('user', None)
+        session.pop('email', None)
+        flash(f'You have been logged out {user} !',"info")
+    return redirect(url_for('login'))
+
+
+if __name__ == "__main__":
+    db.create_all()
+    app.run(debug=True)
+```
+email input html
+```django
+{% extends 'base.html' %}
+
+{% block title %}User{% endblock title %}
+
+{% block content %}
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for msg in messages %}
+                <p>{{msg}}</p>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+<form action='#' method='POST'>
+    <input type="email" name="email" placeholder="Enter email" value="{{email if email}}"/>
+    <u=input type='submit' value='submit'/>
+</form>
+{% endblock content %}
+```
+View sqlite3 users html
+```django
+{% extends 'base.html' %}
+{% block title %}view all users{% endblock title %}
+{% block content %}
+    {% for item in values %}
+        <p>Name: {{item.name}}, Email: {{item.email}}</p>
+    {% endfor %}
+{% endblock content %}
+```
