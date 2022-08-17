@@ -435,7 +435,7 @@ email input html
     {% endwith %}
 <form action='#' method='POST'>
     <input type="email" name="email" placeholder="Enter email" value="{{email if email}}"/>
-    <u=input type='submit' value='submit'/>
+    <input type='submit' value='submit'/>
 </form>
 {% endblock content %}
 ```
