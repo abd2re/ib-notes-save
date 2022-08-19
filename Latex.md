@@ -32,3 +32,12 @@ $$3x+5=5$$
 $$3x=0$$
 $$x=0$$
 ***
+$$\sigma=\sqrt{\frac{\sum\left(x-\mu\right)^2}n}$$
+$$\sigma=\sqrt{\frac{\sum\left(x^2-2x\mu+\mu^2\right)}n}$$
+$$\sigma=\sqrt{\frac{\sum x^2-\sum 2x\mu+\sum\mu^2}{n}}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-\frac{\sum 2x\mu}{n}+\frac{\sum\mu^2}{n}}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-2\mu\frac{\sum x}{n}+\frac{\sum\mu^2}{n}}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-2\mu\mu+\mu^2}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-2\mu^2+\mu^2}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-\mu^2}$$
+$$\sigma=\sqrt{\frac{\sum x^2}{n}-\left(\frac{\sum x}{n}\right)^2}$$
