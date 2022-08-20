@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "quick-latex-guide",
-      "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
       "basename": "Latex",
       "path": "Latex.md"
     },
     {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "quick-latex-guide",
+      "path": "plugin guides/quick-latex-guide.md"
     },
     {
       "basename": "_computer science",
@@ -19,14 +27,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
     },
     {
       "basename": "_TOK",
