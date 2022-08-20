@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "quick-latex-guide",
+      "path": "plugin guides/quick-latex-guide.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
