@@ -20,5 +20,7 @@
   "obsidian-hover-editor",
   "obsidian-discordrpc",
   "obsidian-spaced-repetition",
-  "calendar"
+  "calendar",
+  "obsidian-latex-environments",
+  "quick-latex"
 ]

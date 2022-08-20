@@ -1,7 +1,6 @@
 ---
 tags: [MOC, IA, computer_science]
 ---
-up:: [[_computer science]]
 ## Progress
 - [x] Find application idea
 - [ ] Learn basic of tools

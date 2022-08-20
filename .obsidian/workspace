@@ -4,47 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2406cf8e8df02515",
+        "id": "8561d9918912615e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2406cf8e8df02515",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":17},\"to\":{\"line\":4,\"ch\":17}}}"
-            },
-            {
-              "leaf": "2406cf8e8df02515",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2406cf8e8df02515",
+              "leaf": "8561d9918912615e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":35.90995703343919}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "2406cf8e8df02515",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":420.18822479928633}"
-            },
-            {
-              "leaf": "2406cf8e8df02515",
+              "leaf": "8561d9918912615e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.683333333333334}"
+              "eState": "{\"scroll\":4.508948545861298}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_physics.md",
+            "file": "Latex.md",
             "mode": "source",
             "source": false
           }
@@ -76,10 +58,14 @@
           {
             "id": "7d27230a600cd0c1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +107,14 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Latex.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -191,13 +181,17 @@
           {
             "id": "b82d70eaa67a3197",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "6299f388c1ecfa05",
@@ -209,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Latex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,17 +239,17 @@
     "width": 366.5,
     "collapsed": true
   },
-  "active": "2406cf8e8df02515",
+  "active": "8561d9918912615e",
   "lastOpenFiles": [
     "Computer Science IA.md",
+    "2022-08-31.md",
+    "_computer science.md",
+    "_physics.md",
+    "_math.md",
     "Latex.md",
     "Flask.md",
-    "_computer science.md",
-    "_math.md",
     "_TOK.md",
     "__dashboard.md",
-    "_economy.md",
-    "_EE.md",
-    "template/EE template.md"
+    "_economy.md"
   ]
 }

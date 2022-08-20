@@ -1,6 +1,3 @@
 ---
-tags: [MOC, flashcards] 
+tags: [MOC] 
 ---
-
-$\mathrm{v}$=::$\frac{1}{2}\mathrm{m}\mathrm{v}^2$
-$\mathrm{F}$=
