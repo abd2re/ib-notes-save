@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
-  "search": "-path:template",
+  "collapse-filter": false,
+  "search": "-path:template -path:\"plugin guides\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:___virtual plaza",
+      "query": "file:README",
       "color": {
         "a": 1,
         "rgb": 14745855
@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 16741120
       }
+    },
+    {
+      "query": "-line:(tags)",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7134433894141258,
+  "scale": 0.6660559865380706,
   "close": false
 }

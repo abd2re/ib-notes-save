@@ -12,7 +12,49 @@
             {
               "leaf": "8561d9918912615e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"plugin guides/quick-latex-guide.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -24,51 +66,75 @@
             {
               "leaf": "8561d9918912615e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":24},\"to\":{\"line\":21,\"ch\":24}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "8561d9918912615e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":38.22940407248272}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":28.685230024213077}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"plugin guides/quick-latex-guide.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":57.048780487804876}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":37.95441808331777}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "8561d9918912615e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":4.508948545861298}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":20},\"to\":{\"line\":9,\"ch\":20}},\"scroll\":0.625}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":38.23201942835793}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":102.263671875}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Latex.md",
+            "file": "Computer Science IA.md",
             "mode": "source",
             "source": false
           }
@@ -107,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "Computer Science IA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "Computer Science IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "Computer Science IA.md"
               }
             }
           },
@@ -273,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Latex.md",
+                "file": "Computer Science IA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -311,15 +377,15 @@
   },
   "active": "8561d9918912615e",
   "lastOpenFiles": [
+    "_physics.md",
+    "__dashboard.md",
+    "_CAS.md",
+    "_computer science.md",
+    "template/math template.md",
+    "plugin guides/quick-latex-guide.md",
+    "SQLite.md",
     "Flask.md",
     "Computer Science IA.md",
-    "Latex.md",
-    "_math.md",
-    "plugin guides/quick-latex-guide.md",
-    "2022-08-31.md",
-    "_computer science.md",
-    "_physics.md",
-    "_TOK.md",
-    "__dashboard.md"
+    "Latex.md"
   ]
 }
