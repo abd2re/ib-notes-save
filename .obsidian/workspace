@@ -12,6 +12,12 @@
             {
               "leaf": "8561d9918912615e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science IA.md",
+            "file": "__dashboard.md",
             "mode": "source",
             "source": false
           }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "__dashboard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "__dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science IA.md"
+                "file": "__dashboard.md"
               }
             }
           },
@@ -339,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science IA.md",
+                "file": "__dashboard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,6 +377,7 @@
   },
   "active": "8561d9918912615e",
   "lastOpenFiles": [
+    "Computer Science IA.md",
     "_physics.md",
     "__dashboard.md",
     "_CAS.md",
@@ -385,7 +386,6 @@
     "plugin guides/quick-latex-guide.md",
     "SQLite.md",
     "Flask.md",
-    "Computer Science IA.md",
     "Latex.md"
   ]
 }
