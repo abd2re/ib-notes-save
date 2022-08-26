@@ -18,6 +18,18 @@
             {
               "leaf": "8561d9918912615e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8561d9918912615e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
@@ -116,18 +128,6 @@
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "8561d9918912615e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         },
@@ -220,6 +220,7 @@
       {
         "id": "20bb1c3934154276",
         "type": "tabs",
+        "dimension": 47.93969849246231,
         "children": [
           {
             "id": "111ac17bf96596a2",
@@ -323,12 +324,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "6299f388c1ecfa05",
         "type": "tabs",
+        "dimension": 52.06030150753769,
         "children": [
           {
             "id": "9d8029b03e20c73d",
@@ -363,7 +364,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 241,
-                  "scale": 0.7095409477317994,
+                  "scale": 0.5060981477429654,
                   "close": true
                 }
               }
@@ -373,15 +374,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "active": "8561d9918912615e",
   "lastOpenFiles": [
+    "_physics.md",
+    "__dashboard.md",
     "_computer science.md",
     "Computer Science IA.md",
-    "__dashboard.md",
-    "_physics.md",
     "_CAS.md",
     "template/math template.md",
     "plugin guides/quick-latex-guide.md",

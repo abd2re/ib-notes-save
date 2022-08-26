@@ -5,16 +5,16 @@
       "path": "__dashboard.md"
     },
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_CAS",
