@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
+      "basename": "CAS template",
+      "path": "template/CAS template.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "_computer science",
@@ -27,10 +35,6 @@
     {
       "basename": "quick-latex-guide",
       "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
     },
     {
       "basename": "Flask",
@@ -67,10 +71,6 @@
     {
       "basename": "EE template",
       "path": "template/EE template.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
     },
     {
       "basename": "TOK template",
