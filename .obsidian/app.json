@@ -6,5 +6,6 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "./assets/Flask"
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "image-20220826223448318",
+      "path": "assets/_physics/image-20220826223448318.png"
+    },
+    {
+      "basename": "_physics-1",
+      "path": "assets/_physics/_physics-1.png"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "quick-latex-guide",
       "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
     },
     {
       "basename": "Latex",
