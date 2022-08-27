@@ -1,30 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "image-20220826223448318",
-      "path": "assets/_physics/image-20220826223448318.png"
-    },
-    {
-      "basename": "_physics-1",
-      "path": "assets/_physics/_physics-1.png"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -37,8 +13,36 @@
       "path": "Computer Science IA.md"
     },
     {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "_CAS",
       "path": "_CAS.md"
+    },
+    {
+      "basename": "image-20220826223448318",
+      "path": "assets/_physics/image-20220826223448318.png"
+    },
+    {
+      "basename": "_physics-1",
+      "path": "assets/_physics/_physics-1.png"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
+      "basename": "CAS template",
+      "path": "template/CAS template.md"
     },
     {
       "basename": "math template",
@@ -67,10 +71,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_EE",

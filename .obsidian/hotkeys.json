@@ -50,5 +50,15 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-paste-image-rename:batch-rename-embeded-files": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
