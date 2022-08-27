@@ -12,6 +12,12 @@
             {
               "leaf": "80338c075c572dc2",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30.795093139482052}"
+            },
+            {
+              "leaf": "80338c075c572dc2",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -86,7 +92,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__dashboard.md",
+            "file": "Latex.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -184,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Latex.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__dashboard.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -293,7 +299,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Latex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -330,13 +336,13 @@
   },
   "active": "80338c075c572dc2",
   "lastOpenFiles": [
+    "__dashboard.md",
     "_computer science.md",
     "Computer Science IA.md",
     "Flask.md",
     "_economy.md",
     "_physics.md",
     "_CAS.md",
-    "__dashboard.md",
     "assets/_physics/image-20220826223448318.png",
     "assets/_physics/_physics-1.png",
     "test.png.md"

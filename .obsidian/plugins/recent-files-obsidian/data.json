@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "quick-latex-guide",
       "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     },
     {
       "basename": "README",

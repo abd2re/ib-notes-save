@@ -42,3 +42,6 @@ $$\sigma=\sqrt{\frac{\sum x^2}{n}-2\mu^2+\mu^2}$$
 $$\sigma=\sqrt{\frac{\sum x^2}{n}-\mu^2}$$
 $$\sigma=\sqrt{\frac{\sum x^2}{n}-\left(\frac{\sum x}{n}\right)^2}$$
 ***
+$$n\frac{(n+3)\frac{(n+2)\frac{(n+1)}{2}}{3}}{8}$$
+ 
+ 
