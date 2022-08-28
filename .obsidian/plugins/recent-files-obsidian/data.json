@@ -5,6 +5,10 @@
       "path": "Computer Science IA.md"
     },
     {
+      "basename": "quick-latex-guide",
+      "path": "plugin guides/quick-latex-guide.md"
+    },
+    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "quick-latex-guide",
-      "path": "plugin guides/quick-latex-guide.md"
     },
     {
       "basename": "_french B",
