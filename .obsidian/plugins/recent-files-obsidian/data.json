@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "_TOK",
@@ -19,10 +23,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     },
     {
       "basename": "Latex",

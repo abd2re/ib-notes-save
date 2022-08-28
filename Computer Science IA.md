@@ -4,6 +4,7 @@ tags: [MOC, IA, computer_science]
 ## Progress
 - [x] Find application idea
 - [ ] Learn basic of tools
+
 > [! Ideas]
 > - Will use [[Flask]] Framework with [[SQLite]]
 > - [Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech with Tim) (almost done)
