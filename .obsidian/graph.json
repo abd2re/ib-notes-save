@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:\"plugin guides\"",
+  "search": "-path:template -path:\"plugin guides\" -path:people",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9369596298787602,
+  "scale": 0.9154210832702808,
   "close": false
 }

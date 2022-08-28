@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
     },
     {
       "basename": "_computer science",
@@ -23,10 +35,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_CAS",
@@ -57,16 +65,8 @@
       "path": "plugin guides/quick-latex-guide.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_TOK",
