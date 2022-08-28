@@ -1,5 +1,6 @@
 {
   "translucency": false,
-  "cssTheme": "Clair de Lune",
-  "baseFontSize": 16
+  "cssTheme": "Molecule",
+  "baseFontSize": 15,
+  "theme": "moonstone"
 }
