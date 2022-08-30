@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
       "basename": "_math",
       "path": "_math.md"
     },
@@ -45,10 +53,6 @@
       "path": "Flask.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "_physics-1",
       "path": "assets/_physics/_physics-1.png"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
     },
     {
       "basename": "CAS template",

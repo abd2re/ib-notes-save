@@ -4,5 +4,3 @@ tags: [MOC]
 
 
 [[Latex]]
-
-[[force]]

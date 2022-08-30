@@ -18,6 +18,36 @@
             {
               "leaf": "5446e62a4fb50928",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
             },
@@ -98,36 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":22},\"to\":{\"line\":16,\"ch\":22}},\"scroll\":13.339846475924634}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vectors.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -369,15 +369,15 @@
   },
   "active": "5446e62a4fb50928",
   "lastOpenFiles": [
+    "_physics.md",
+    "force.md",
+    "SQLite.md",
     "_math.md",
     "__dashboard.md",
     "_french B.md",
     "_EE.md",
     "Latex.md",
     "people/Peres.md",
-    "people/Mahouna.md",
-    "_CAS.md",
-    "_computer science.md",
-    "Computer Science IA.md"
+    "people/Mahouna.md"
   ]
 }
