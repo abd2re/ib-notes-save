@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -9,20 +41,8 @@
       "path": "SQLite.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "Latex",
@@ -37,32 +57,12 @@
       "path": "people/Mahouna.md"
     },
     {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
       "basename": "Flask",
       "path": "Flask.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "quick-latex-guide",
       "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     },
     {
       "basename": "README",
