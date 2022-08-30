@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
     },
     {
       "basename": "_CAS",
@@ -39,10 +43,6 @@
     {
       "basename": "SQLite",
       "path": "SQLite.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "Latex",
