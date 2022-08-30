@@ -13,7 +13,85 @@
               "leaf": "5446e62a4fb50928",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vectors.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":27},\"to\":{\"line\":6,\"ch\":27}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":8.950677710843374}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":5.65036231884058}"
             }
           ]
         },
@@ -265,15 +343,15 @@
   },
   "active": "5446e62a4fb50928",
   "lastOpenFiles": [
-    "plugin guides/obsidian md.md",
-    "plugin guides/quick-latex-guide.md",
-    "Computer Science IA.md",
-    "SQLite.md",
-    "_CAS.md",
-    "__dashboard.md",
-    "_TOK.md",
-    "Flask.md",
+    "_computer science.md",
+    "vectors.md",
     "_math.md",
-    "_computer science.md"
+    "force.md",
+    "_physics.md",
+    "demande.md",
+    "_economy.md",
+    "_EE.md",
+    "Computer Science IA.md",
+    "plugin guides/obsidian md.md"
   ]
 }
