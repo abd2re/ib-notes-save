@@ -34,3 +34,4 @@ If session is cancelled or there is a modification in date and time or an import
 - Name
 - Email (and password)
 - Teacher or Student
+
