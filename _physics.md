@@ -2,5 +2,3 @@
 tags: [MOC] 
 ---
 
-
-[[Latex]]

@@ -1,12 +1,16 @@
 ---
 tags: [concept, math] 
 ---
+
+Important to know before: ![[Sequence arithmetique]]
+***
+
 # Serie arithmetique
 Created: 2022-08-31
 
-Important to know before: [[Sequence arithmetique]]
+Related to: [[Serie geometrique]]
 
-Let $d$ be the common difference, $a$ the first term of the sequence and $n$ the number of terms.
+Let $d$ be the common difference of a [[Sequence arithmetique |arithmetic sequence]], $a$ the first term of the sequence and $n$ the number of terms.
 	
 So when we know $n$, $a \text{ or } u_1$, and $d$, $S_{n}=$
 ?

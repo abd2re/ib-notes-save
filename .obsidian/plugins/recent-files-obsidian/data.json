@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
+    },
+    {
+      "basename": "Serie arithmetique",
+      "path": "Serie arithmetique.md"
     },
     {
       "basename": "Sequence geometrique",
       "path": "Sequence geometrique.md"
     },
     {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "quick-latex-guide",
+      "path": "plugin guides/quick-latex-guide.md"
     },
     {
       "basename": "Computer Science IA",
@@ -27,14 +47,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "quick-latex-guide",
-      "path": "plugin guides/quick-latex-guide.md"
     },
     {
       "basename": "TOK template",
@@ -93,10 +105,6 @@
       "path": "_EE.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "SQLite",
       "path": "SQLite.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "Mahouna",
       "path": "people/Mahouna.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "image-20220826223448318",

@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:\"plugin guides\" -path:people",
-  "showTags": false,
+  "search": "-path:template -path:\"plugin guides\" -path:people -path:\"plugin guides\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 14745855
-      }
-    },
     {
       "query": "tag:#MOC",
       "color": {
@@ -109,13 +102,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00042735042735,
+  "nodeSizeMultiplier": 1.00482954545455,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.517094017094017,
+  "centerStrength": 0.514204545454545,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8042163633016938,
+  "scale": 0.3268063452460384,
   "close": false
 }
