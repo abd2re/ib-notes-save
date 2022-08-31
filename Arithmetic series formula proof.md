@@ -5,8 +5,8 @@ tags: [concept, math]
 Created: 2022-08-31
 
 Let $d$ be the common difference, $a$ the first term of the sequence and $n$ the number of terms.
-
-So when we know $a (u_1)$, $n$ et $d$:
+	
+So when we know $n$, $a (u_1)$, et $d$:
 
 $$S_{n}=d\left(\frac{n(n+1)}{2}\right)+n(a-d)$$
 $$S_{n}=\frac{dn(n+1)}{2}+n(a-d)$$
@@ -18,4 +18,4 @@ $$S_{n}=\frac{n(d(n-1)+2a)}{2}$$
 $$S_{n}=\frac{n}{2}(d(n-1)+2a)$$
 $$S_{n}=\frac{n}{2}(2a+(n-1)d)$$
 ***
-So we know
+So when we know test 1234
