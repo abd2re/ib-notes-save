@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Arithmetic series formula proof",
+      "path": "Arithmetic series formula proof.md"
+    },
+    {
+      "basename": "quick-latex-guide",
+      "path": "plugin guides/quick-latex-guide.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "TOK template",
+      "path": "template/TOK template.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "people template",
+      "path": "template/people template.md"
+    },
+    {
+      "basename": "math template",
+      "path": "template/math template.md"
+    },
+    {
+      "basename": "french B template",
+      "path": "template/french B template.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "date",
+      "path": "template/date.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -45,24 +93,12 @@
       "path": "SQLite.md"
     },
     {
-      "basename": "Latex",
-      "path": "Latex.md"
-    },
-    {
       "basename": "Peres",
       "path": "people/Peres.md"
     },
     {
       "basename": "Mahouna",
       "path": "people/Mahouna.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "quick-latex-guide",
-      "path": "plugin guides/quick-latex-guide.md"
     },
     {
       "basename": "README",
@@ -81,40 +117,8 @@
       "path": "template/CAS template.md"
     },
     {
-      "basename": "math template",
-      "path": "template/math template.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
-    },
-    {
-      "basename": "french B template",
-      "path": "template/french B template.md"
-    },
-    {
       "basename": "english template",
       "path": "template/english template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
-      "basename": "date",
-      "path": "template/date.md"
     },
     {
       "basename": "computer science template",

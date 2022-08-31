@@ -12,115 +12,115 @@
             {
               "leaf": "5446e62a4fb50928",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"plugin guides/quick-latex-guide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.884856943475228}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":8},\"to\":{\"line\":10,\"ch\":8}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"plugin guides/quick-latex-guide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":118.14586300095905}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":4},\"to\":{\"line\":10,\"ch\":4}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":47},\"to\":{\"line\":40,\"ch\":2}},\"scroll\":37.51466467401457}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flask.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/TOK template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/physics template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/people template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/french B template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/economy template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/EE template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/date.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            },
+            {
+              "leaf": "5446e62a4fb50928",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "5446e62a4fb50928",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.501980554555276}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":14.880669923237962}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5446e62a4fb50928",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQLite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -132,8 +132,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Arithmetic series formula proof.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arithmetic series formula proof.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arithmetic series formula proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +283,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arithmetic series formula proof.md"
+              }
             }
           },
           {
@@ -333,6 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Arithmetic series formula proof.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -369,15 +379,15 @@
   },
   "active": "5446e62a4fb50928",
   "lastOpenFiles": [
-    "_economy.md",
-    "_french B.md",
-    "Computer Science IA.md",
-    "_CAS.md",
-    "_TOK.md",
-    "__dashboard.md",
-    "_math.md",
-    "_EE.md",
-    "_computer science.md",
-    "_physics.md"
+    "plugin guides/quick-latex-guide.md",
+    "Arithmetic series formula proof.md",
+    "Latex.md",
+    "Flask.md",
+    "template/TOK template.md",
+    "template/physics template.md",
+    "template/people template.md",
+    "template/math template.md",
+    "template/french B template.md",
+    "template/economy template.md"
   ]
 }

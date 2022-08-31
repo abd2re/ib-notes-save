@@ -1,5 +1,5 @@
 ---
 tags: [concept, TOK] 
 ---
-# {{title}} Concept
+# {{title}}
 Created: {{date}}

@@ -1,5 +1,5 @@
 ---
 tags: [concept, french_B] 
 ---
-# {{title}} Concept
+# {{title}}
 Created: {{date}}
