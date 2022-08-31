@@ -11,7 +11,8 @@
       "#economy",
       "#english",
       "#french_B",
-      "#TOK"
+      "#TOK",
+      ""
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -28,7 +29,14 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#review"
+      "#review",
+      "#physics",
+      "#math",
+      "#computer_science",
+      "#economy",
+      "#english",
+      "#french_B",
+      "#TOK"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -42,6 +50,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-08-30",
+  "buryDate": "2022-08-31",
   "buryList": []
 }
