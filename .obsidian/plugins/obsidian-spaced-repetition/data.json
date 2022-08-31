@@ -38,7 +38,9 @@
       "#french_B",
       "#TOK"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "template"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,

@@ -22,6 +22,7 @@ $$S_{n}=\frac{n}{2}(2a+(n-1)d)$$
 ***
 
 
+
 So when we know $n$, $a(u_1)$, and $u_n$, $S_n=$
 ?
 $$S_{n}=d\left(\frac{n(n+1)}{2}\right)+n(a-d)$$
@@ -37,6 +38,7 @@ $$S_{n}=\frac{n(d(n-1)+u_1+u_1)}{2}$$
 $$S_{n}=\frac{n(d(n-1)+u_1+u_1)}{2}$$
 $$S_{n}=\frac{n(u_n+u_1)}{2}$$
 $$S_{n}=\frac{n}{2}(u_1+u_n)$$
+
 
 ***
 If we have a sequence of squared numbers, the sum of the series will be $S_{n}=$
