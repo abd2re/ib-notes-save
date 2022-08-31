@@ -12,8 +12,8 @@
             {
               "leaf": "5446e62a4fb50928",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}},\"scroll\":3.803571428571429}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arithmetic series formula proof.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":25.56020529016976}"
             },
             {
               "leaf": "5446e62a4fb50928",
@@ -135,7 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "Arithmetic series formula proof.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -365,7 +365,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.46961395605112066,
+                  "scale": 0.7142535890884107,
                   "close": true
                 }
               }
