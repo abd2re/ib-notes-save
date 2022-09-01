@@ -8,11 +8,137 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":38.4375}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":32.665341661934505}"
+            },
+            {
+              "leaf": "137dded525bf1b00",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sequence arithmetique.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -81,7 +207,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sequence arithmetique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,6 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sequence arithmetique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +284,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sequence arithmetique.md"
+              }
             }
           },
           {
@@ -212,6 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sequence arithmetique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +366,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6916882353674628,
+                  "scale": 0.7198336628461284,
                   "close": true
                 }
               }
@@ -246,17 +378,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "cec7260eaa54fcd6",
+  "active": "9d8029b03e20c73d",
   "lastOpenFiles": [
-    "Latex.md",
-    "Drawing 2022-09-01 15.27.24.excalidraw.md",
-    "_physics.md",
-    "plugin guides/quick-latex-guide.md",
     "Serie arithmetique.md",
     "Serie geometrique.md",
     "Sequence geometrique.md",
     "Sequence arithmetique.md",
-    "README.md",
-    "_computer science.md"
+    "Computer Science IA.md",
+    "_EE.md",
+    "Drawing 2022-09-01 15.27.24.excalidraw.md",
+    "Latex.md",
+    "_physics.md",
+    "plugin guides/quick-latex-guide.md"
   ]
 }

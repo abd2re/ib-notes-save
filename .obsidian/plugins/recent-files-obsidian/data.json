@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Latex",
-      "path": "Latex.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
     },
     {
       "basename": "Serie arithmetique",
@@ -21,8 +17,20 @@
       "path": "Sequence geometrique.md"
     },
     {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "README",
@@ -37,20 +45,12 @@
       "path": "_economy.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
     },
     {
       "basename": "_math",

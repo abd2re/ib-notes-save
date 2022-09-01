@@ -11,7 +11,7 @@ Created: 2022-08-31
 Related to: [[Serie geometrique]]
 
 Let $d$ be the common difference of a [[Sequence arithmetique |arithmetic sequence]], $a$ the first term of the sequence and $n$ the number of terms.
-	
+
 So when we know $n$, $a \text{ or } u_1$, and $d$, $S_{n}=$
 ?
 $$S_{n}=d\left(\frac{n(n+1)}{2}\right)+n(a-d)$$
