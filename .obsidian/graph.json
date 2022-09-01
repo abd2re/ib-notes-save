@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:\"plugin guides\" -path:people -path:\"plugin guides\"",
+  "search": "-path:template -path:\"plugin guides\" -path:people -path:\"plugin guides\" -file:\"README\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#MOC",
@@ -109,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3268063452460384,
+  "scale": 0.6242849083359622,
   "close": false
 }
