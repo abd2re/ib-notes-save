@@ -8,3 +8,4 @@ Let $n$ be the index of an element in a sequence, $a \text{ or } u_1$ the first 
 ?
 $$ar^{n-1}=u_n$$
 <!--SR:!2022-09-05,4,270-->
+

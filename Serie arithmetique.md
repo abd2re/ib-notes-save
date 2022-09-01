@@ -24,7 +24,7 @@ $$S_{n}=\frac{n(d(n-1)+2a)}{2}$$
 $$S_{n}=\frac{n}{2}(d(n-1)+2a)$$
 $$S_{n}=\frac{n}{2}(2a+(n-1)d)$$
 ***
-<!--SR:!2022-09-02,1,230-->
+<!--SR:!2022-09-05,4,270-->
 
 
 
@@ -51,3 +51,4 @@ If we have a sequence of squared numbers, the sum of the series will be $S_{n}=$
 ?
 $$S_{n}= \frac{n(n+1)(2n+1)}{6}$$
 <!--SR:!2022-09-05,4,270-->
+

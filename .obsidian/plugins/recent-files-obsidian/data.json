@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Serie geometrique",
-      "path": "Serie geometrique.md"
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
     },
     {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
     },
     {
       "basename": "Sequence geometrique",
       "path": "Sequence geometrique.md"
+    },
+    {
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
     },
     {
       "basename": "__dashboard",
@@ -25,32 +53,12 @@
       "path": "Computer Science IA.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "_math",
       "path": "_math.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "quick-latex-guide",
-      "path": "plugin guides/quick-latex-guide.md"
-    },
-    {
       "basename": "Flask",
       "path": "Flask.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "TOK template",
@@ -85,44 +93,16 @@
       "path": "template/date.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "SQLite",
       "path": "SQLite.md"
-    },
-    {
-      "basename": "Peres",
-      "path": "people/Peres.md"
-    },
-    {
-      "basename": "Mahouna",
-      "path": "people/Mahouna.md"
-    },
-    {
-      "basename": "image-20220826223448318",
-      "path": "assets/_physics/image-20220826223448318.png"
-    },
-    {
-      "basename": "_physics-1",
-      "path": "assets/_physics/_physics-1.png"
     },
     {
       "basename": "CAS template",
