@@ -5,20 +5,24 @@
       "path": "Serie geometrique.md"
     },
     {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
     },
     {
       "basename": "Sequence arithmetique",
       "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "Sequence geometrique",
+      "path": "Sequence geometrique.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
     },
     {
       "basename": "_physics",
@@ -95,10 +99,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "_EE",

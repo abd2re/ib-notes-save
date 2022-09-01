@@ -7,7 +7,7 @@ Important to know before: ![[Sequence geometrique]]
 # Serie geometrique
 Created: 2022-08-31
 
-Let $r$ be the common ratio of a [[Serie geometrique |geometric sequence]], $a \text{ or } u_1$, the first element of the sequence and $u_n$ the nth element of a sequence, and $S$ the sequence $S_n$ . So $S_{n}=$
+Let $r$ be the common ratio of a [[Serie geometrique |geometric serie]], $a \text{ or } u_1$, the first element of the sequence and $u_n$ the nth element of a sequence, and $S$ the sequence $S_n$ . So $S_{n}=$
 ?
 $$S_n=\frac{rS-S}{r-1}$$
 $$S_n=\frac{ru_n-u_1}{r-1}$$
