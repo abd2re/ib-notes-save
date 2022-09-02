@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Latex.md"
     },
     {
       "basename": "Serie geometrique",
       "path": "Serie geometrique.md"
     },
     {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
+      "basename": "_TOK",
+      "path": "_TOK.md"
     },
     {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
+      "basename": "Serie arithmetique",
+      "path": "Serie arithmetique.md"
+    },
+    {
+      "basename": "Sequence geometrique",
+      "path": "Sequence geometrique.md"
     },
     {
       "basename": "Computer Science IA",
@@ -23,10 +39,6 @@
     {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     },
     {
       "basename": "_physics",
@@ -41,20 +53,12 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Flask",
@@ -95,10 +99,6 @@
     {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     },
     {
       "basename": "SQLite",

@@ -18,3 +18,7 @@ $$S_n=\frac{ar^{n}-a}{r-1}$$
 $$S_n=\frac{a(r^{n}-1)}{r-1}$$
 $$S_n=a\left(\frac{r^{n}-1}{r-1}\right)\;\text{or}\;a\left(\frac{1-r^{n}}{1-r}\right)$$
 <!--SR:!2022-09-05,4,270-->
+
+If $r<1\;\text{and}\;r>-1$ then the geometric sequence is convergent to 0 so we can write $S_\infty=$
+?
+$$S_\infty=\frac{a}{1-r}$$

@@ -52,5 +52,10 @@ $$n\frac{(n+3)\frac{(n+2)\frac{(n+1)}{2}}{3}}{8}$$
 $$x\left(\frac{5}{2}\right)$$
 $$x\left(\frac{5}{2}\right)$$
 
+$$x\left(\frac{5}{2}\right)$$
 
 
+$$x\left(\frac{5}{2}\right)$$
+$$x\left(\frac{5}{2}\right)$$
+
+$$\cdot$$
