@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "Sequence geometrique",
+      "path": "Sequence geometrique.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "SQLite.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "Serie arithmetique",
+      "path": "Serie arithmetique.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
       "basename": "Inertie",
       "path": "Inertie.md"
     },
@@ -9,56 +65,16 @@
       "path": "Force.md"
     },
     {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
-    },
-    {
-      "basename": "Serie geometrique",
-      "path": "Serie geometrique.md"
-    },
-    {
       "basename": "Masse",
       "path": "Masse.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
-      "basename": "Latex",
-      "path": "Latex.md"
-    },
-    {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
-    },
-    {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
     },
     {
       "basename": "_EE",
@@ -69,16 +85,8 @@
       "path": "_physics.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     },
     {
       "basename": "__dashboard",
@@ -125,10 +133,6 @@
       "path": "_french B.md"
     },
     {
-      "basename": "SQLite",
-      "path": "SQLite.md"
-    },
-    {
       "basename": "CAS template",
       "path": "template/CAS template.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "computer science template",
       "path": "template/computer science template.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "world",

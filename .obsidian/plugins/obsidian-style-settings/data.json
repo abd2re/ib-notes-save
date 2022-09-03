@@ -1,4 +1,8 @@
 {
   "CodeMirror Options@@cm5-minimal-embeds": false,
-  "CodeMirror Options@@cm-theme-selection": "cm-theme-material-palenight"
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-material-palenight",
+  "bubble-space-1@@blp-gif": false,
+  "bubble-space-1@@bs-bubble-presets": "cc-pink",
+  "bubble-space-1@@bs-space-presets": "neoni",
+  "GS@@AT": "AT_Alch"
 }
