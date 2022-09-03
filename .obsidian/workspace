@@ -12,6 +12,42 @@
             {
               "leaf": "933d07266cd8e9d8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Velocite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
@@ -78,8 +114,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inertie.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -173,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inertie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inertie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +265,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inertie.md"
+              }
             }
           },
           {
@@ -279,6 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inertie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,14 +361,14 @@
   },
   "active": "933d07266cd8e9d8",
   "lastOpenFiles": [
+    "Force.md",
+    "Vitesse.md",
+    "Velocite.md",
     "Serie geometrique.md",
     "Masse.md",
     "Acceleration.md",
     "_economy.md",
-    "Force.md",
-    "Vitesse.md",
     "Position.md",
-    "Velocite.md",
     "Inertie.md",
     "Latex.md"
   ]

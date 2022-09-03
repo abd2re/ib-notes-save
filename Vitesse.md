@@ -10,4 +10,3 @@ The rate of change of position of an object in any direction. It's a scalar quan
 <!--SR:!2022-09-07,4,270-->
 
 
-
