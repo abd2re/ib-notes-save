@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
+    },
+    {
       "basename": "Masse",
       "path": "Masse.md"
     },
     {
-      "basename": "Intertie",
-      "path": "Intertie.md"
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Latex.md"
     },
     {
       "basename": "Sequence arithmetique",
@@ -15,18 +43,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
-    },
-    {
-      "basename": "Serie geometrique",
-      "path": "Serie geometrique.md"
     },
     {
       "basename": "_TOK",
