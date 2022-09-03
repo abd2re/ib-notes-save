@@ -12,6 +12,12 @@
             {
               "leaf": "933d07266cd8e9d8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "933d07266cd8e9d8",
+              "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
@@ -122,18 +128,17 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "933d07266cd8e9d8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequence arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Acceleration.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acceleration.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +283,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Acceleration.md"
+              }
             }
           },
           {
@@ -333,6 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Acceleration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
