@@ -12,7 +12,7 @@
             {
               "leaf": "933d07266cd8e9d8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -135,7 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "Acceleration.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
