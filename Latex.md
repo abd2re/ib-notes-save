@@ -63,3 +63,8 @@ $$\cdot$$
 ***
 $$\bar{v}=\frac{\Delta x}{t}=\frac{v+v_{0}}{2}$$
 $$a=\frac{\Delta v}{t}=\frac{v-v_{0}}{t}$$
+***
+$$\lim_{x\to 3}\frac{x-3}{x^{2}-9}$$
+$$\lim_{x\to 3}\frac{(x-3)}{(x-3)(x+3)}$$
+$$\lim_{x\to 3}\frac{1}{x+3}$$
+$$\frac{1}{6}$$
