@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
       "basename": "Acceleration",
       "path": "Acceleration.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     },
     {
       "basename": "Inertie",

@@ -59,3 +59,7 @@ $$x\left(\frac{5}{2}\right)$$
 $$x\left(\frac{5}{2}\right)$$
 
 $$\cdot$$
+
+***
+$$\bar{v}=\frac{\Delta x}{t}=\frac{v+v_{0}}{2}$$
+$$a=\frac{\Delta v}{t}=\frac{v-v_{0}}{t}$$
