@@ -142,6 +142,17 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c43566d96071142a",
+                  "group": null,
+                  "state": "{\"type\":\"review-queue-list-view\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -166,6 +177,10 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
@@ -203,7 +218,7 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "d1b6639e49a5eb49",
+  "active": "9d8029b03e20c73d",
   "lastOpenFiles": [
     "Latex.md",
     "Acceleration.md",
