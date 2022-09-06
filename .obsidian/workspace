@@ -4,11 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "933d07266cd8e9d8",
+        "id": "3f24f4bf61bd9fca",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":3.704225352112676}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
         },
         "state": {
           "type": "graph",
@@ -29,6 +96,10 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -37,10 +108,14 @@
           {
             "id": "7d27230a600cd0c1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "6299f388c1ecfa05",
@@ -218,17 +292,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "9d8029b03e20c73d",
+  "active": "3f24f4bf61bd9fca",
   "lastOpenFiles": [
+    "Force.md",
+    "_english.md",
+    "_economy.md",
+    "Conceptes de base economie.md",
+    "Drawing 2022-09-06 19.46.19.excalidraw.md",
     "Latex.md",
     "Acceleration.md",
     "Computer Science IA.md",
     "Velocite.md",
-    "Sequence arithmetique.md",
-    "Sequence geometrique.md",
-    "Vitesse.md",
-    "Serie geometrique.md",
-    "SQLite.md",
-    "README.md"
+    "Sequence arithmetique.md"
   ]
 }

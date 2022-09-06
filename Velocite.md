@@ -7,4 +7,4 @@ Created: 2022-09-03
 *What is velocity*
 ?
 Velocity is the [[Vitesse|speed]] at which something moves in a particular direction. It's a vector quantity.
-<!--SR:!2022-09-06,3,250-->
+<!--SR:!2022-09-08,2,230-->

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
+    },
+    {
       "basename": "Latex",
       "path": "Latex.md"
     },
@@ -45,10 +61,6 @@
       "path": "_TOK.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
@@ -61,16 +73,8 @@
       "path": "Inertie.md"
     },
     {
-      "basename": "Force",
-      "path": "Force.md"
-    },
-    {
       "basename": "Masse",
       "path": "Masse.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_math",

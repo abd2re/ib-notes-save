@@ -53,11 +53,9 @@
   --file-hr: #a9b8e8;
   --leaf-handle: #a9b8e8;
 }
-
 .theme-dark .graph-view.color-fill-tag {
   color: rgba(213, 255, 0, 1);
 }
-
 .cm-s-obsidian {
   font-family: var(--font-monospace);
   color: #c0cdf3;
