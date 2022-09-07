@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:template -path:\"plugin guides\" -path:people -path:\"plugin guides\" -file:\"README\"",
   "showTags": true,
   "showAttachments": false,
@@ -109,6 +109,6 @@
   "repelStrength": 10.0537634408602,
   "linkStrength": 1,
   "linkDistance": 249,
-  "scale": 0.48956409419858676,
+  "scale": 0.4142554463456072,
   "close": false
 }
