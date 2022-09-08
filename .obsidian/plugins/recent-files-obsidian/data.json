@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Serie arithmetique",
+      "path": "Serie arithmetique.md"
+    },
+    {
+      "basename": "Sequence arithmetique",
+      "path": "Sequence arithmetique.md"
+    },
+    {
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
+    },
+    {
+      "basename": "Sequence geometrique",
+      "path": "Sequence geometrique.md"
+    },
+    {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
     },
     {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
       "basename": "Force",
       "path": "Force.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
     },
     {
       "basename": "_english",
@@ -21,32 +57,8 @@
       "path": "Latex.md"
     },
     {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
-    },
-    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
-    },
-    {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
-    },
-    {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
-    },
-    {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
-      "basename": "Serie geometrique",
-      "path": "Serie geometrique.md"
     },
     {
       "basename": "SQLite",
@@ -63,18 +75,6 @@
     {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
-      "basename": "Masse",
-      "path": "Masse.md"
     },
     {
       "basename": "_math",
