@@ -12,8 +12,14 @@
             {
               "leaf": "3f24f4bf61bd9fca",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":43.285714285714285}"
             },
             {
               "leaf": "3f24f4bf61bd9fca",
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Latex.md",
+            "file": "Conceptes de base economie.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "Conceptes de base economie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "Conceptes de base economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "Conceptes de base economie.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Latex.md",
+                "file": "Conceptes de base economie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,6 +358,7 @@
   },
   "active": "3f24f4bf61bd9fca",
   "lastOpenFiles": [
+    "Latex.md",
     "Serie arithmetique.md",
     "Sequence arithmetique.md",
     "Serie geometrique.md",
@@ -366,7 +367,6 @@
     "Masse.md",
     "Acceleration.md",
     "Inertie.md",
-    "Force.md",
-    "Velocite.md"
+    "Force.md"
   ]
 }
