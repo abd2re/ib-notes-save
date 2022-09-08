@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Latex",
+      "path": "Latex.md"
+    },
+    {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     },
     {
       "basename": "Computer Science IA",

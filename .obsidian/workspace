@@ -12,8 +12,14 @@
             {
               "leaf": "3f24f4bf61bd9fca",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Latex.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f24f4bf61bd9fca",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":36.901408450704224}"
             },
             {
               "leaf": "3f24f4bf61bd9fca",
@@ -122,20 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Serie arithmetique.md",
-            "mode": "source",
+            "file": "Latex.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Latex.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serie arithmetique.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Latex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,6 +358,7 @@
   },
   "active": "3f24f4bf61bd9fca",
   "lastOpenFiles": [
+    "Serie arithmetique.md",
     "Sequence arithmetique.md",
     "Serie geometrique.md",
     "Sequence geometrique.md",
@@ -366,7 +367,6 @@
     "Acceleration.md",
     "Inertie.md",
     "Force.md",
-    "Velocite.md",
-    "Vitesse.md"
+    "Velocite.md"
   ]
 }

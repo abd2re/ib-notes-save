@@ -68,3 +68,10 @@ $$\lim_{x\to 3}\frac{x-3}{x^{2}-9}$$
 $$\lim_{x\to 3}\frac{(x-3)}{(x-3)(x+3)}$$
 $$\lim_{x\to 3}\frac{1}{x+3}$$
 $$\frac{1}{6}$$
+```python
+a = False
+if a:
+	print('hello world')
+else:
+	print('no')
+```
