@@ -1,5 +1,5 @@
 ---
-tags: [concept, physics] 
+tags: [physics] 
 ---
 # Velocite
 Created: 2022-09-03

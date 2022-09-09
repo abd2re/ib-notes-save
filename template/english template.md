@@ -1,5 +1,5 @@
 ---
-tags: [concept, english] 
+tags: [english] 
 ---
 # {{title}} Concept
 Created: {{date}}

@@ -1,5 +1,5 @@
 ---
-tags: [concept, physics] 
+tags: [physics] 
 ---
 # {{title}}
 Created: {{date}}

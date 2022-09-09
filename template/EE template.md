@@ -1,5 +1,5 @@
 ---
-tags: [concept, EE] 
+tags: [EE] 
 ---
 # {{title}} 
 Created: {{date}}

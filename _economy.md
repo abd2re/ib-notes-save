@@ -5,6 +5,9 @@ alias: econ
 ### Mot clés en économie
 [[Conceptes de base economie|Economics basic concepts]]
 
+# Microeconomie
+*Problème 1*: Comment les producteurs et les consommateurs font-ils des choix pour tenter d'atteindre leurs objectifs économiques ?
 
- 
- 
+## Chapitre 1: La [[Demande]]
+1. Definition
+2. Le [[Marché]]

@@ -1,5 +1,5 @@
 ---
-tags: [concept, CAS] 
+tags: [CAS] 
 ---
-# {{title}} Concept
+# {{title}}
 Created: {{date}}

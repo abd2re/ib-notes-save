@@ -1,5 +1,5 @@
 ---
-tags: [concept, economy] 
+tags: [economy] 
 ---
 # Conceptes de base economie
 Created: 2022-09-06
@@ -16,4 +16,5 @@ Created: 2022-09-06
 
 >[!Info]
 >Les besoins des individus sont :: illimités
-<!--SR:!2022-09-10,3,250-->
+<!--SR:!2022-09-13,4,270-->
+

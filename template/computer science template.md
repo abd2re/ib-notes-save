@@ -1,5 +1,5 @@
 ---
-tags: [concept, computer_science] 
+tags: [computer_science] 
 ---
-# {{title}} Concept
+# {{title}}
 Created: {{date}}

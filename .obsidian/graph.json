@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:\"plugin guides\" -path:people -path:\"plugin guides\" -file:\"README\"",
+  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -109,6 +109,6 @@
   "repelStrength": 10.0537634408602,
   "linkStrength": 1,
   "linkDistance": 249,
-  "scale": 0.5240799472060816,
-  "close": false
+  "scale": 0.4740242442587321,
+  "close": true
 }

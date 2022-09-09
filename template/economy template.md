@@ -1,5 +1,5 @@
 ---
-tags: [concept, economy] 
+tags: [economy] 
 ---
 # {{title}}
 Created: {{date}}

@@ -1,5 +1,5 @@
 ---
-tags: [concept, math] 
+tags: [math] 
 ---
 # Sequence geometrique
 Created: 2022-08-31

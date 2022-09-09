@@ -1,5 +1,5 @@
 ---
-tags: [concept, math] 
+tags: [math] 
 ---
 # Sequence arithmetique
 Created: 2022-08-31

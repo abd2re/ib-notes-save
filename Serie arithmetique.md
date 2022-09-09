@@ -1,5 +1,5 @@
 ---
-tags: [concept, math] 
+tags: [math] 
 ---
 
 Important to know before: ![[Sequence arithmetique]]
