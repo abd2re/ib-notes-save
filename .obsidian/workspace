@@ -4,137 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3f24f4bf61bd9fca",
+        "id": "1621e4e6ba2ade64",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "3f24f4bf61bd9fca",
+              "leaf": "1621e4e6ba2ade64",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1621e4e6ba2ade64",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/TOK template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/physics template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/people template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/french B template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/english template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/french B template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/english template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/EE template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/economy template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":8},\"to\":{\"line\":1,\"ch\":8}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/date.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/computer science template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/CAS template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/computer science template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":8},\"to\":{\"line\":1,\"ch\":8}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/CAS template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie geometrique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3f24f4bf61bd9fca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marché.md",
+            "file": "_physics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -186,6 +78,10 @@
           {
             "id": "8014a558964b929f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -228,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marché.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,18 +138,26 @@
           {
             "id": "7a652f273c476f67",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marché.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
             "id": "9d3e7145212deffd",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -265,10 +169,14 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marché.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -315,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6299f388c1ecfa05",
@@ -332,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Marché.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,7 +264,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7198336628461284,
+                  "scale": 0.742328136898088,
                   "close": true
                 }
               }
@@ -367,17 +276,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "3f24f4bf61bd9fca",
+  "active": "1621e4e6ba2ade64",
   "lastOpenFiles": [
     "Demande.md",
     "Marché.md",
+    "_economy.md",
+    "Flask.md",
+    "Ecriture mathématique de la demande.md",
+    "Loi de la demande.md",
+    "assets/Loi de la demande/Loi de la demande.png",
+    "Conceptes de base economie.md",
     "template/TOK template.md",
-    "template/physics template.md",
-    "template/people template.md",
-    "template/math template.md",
-    "template/french B template.md",
-    "template/english template.md",
-    "template/EE template.md",
-    "template/economy template.md"
+    "template/physics template.md"
   ]
 }

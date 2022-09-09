@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Marché",
-      "path": "Marché.md"
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Demande",
       "path": "Demande.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
       "basename": "TOK template",
@@ -97,24 +121,12 @@
       "path": "Force.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
     },
     {
       "basename": "Acceleration",
       "path": "Acceleration.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_english",
@@ -139,10 +151,6 @@
     {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_computer science",

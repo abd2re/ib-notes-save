@@ -11,3 +11,5 @@ alias: econ
 ## Chapitre 1: La [[Demande]]
 1. Definition
 2. Le [[Marché]]
+3. La [[Loi de la demande]]
+4. L'[[Ecriture mathématique de la demande]]
