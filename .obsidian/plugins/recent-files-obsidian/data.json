@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Marché",
       "path": "Marché.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Demande",
+      "path": "Demande.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
     },
     {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
     },
     {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
     },
     {
       "basename": "Conceptes de base economie",
