@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Masse",
+      "path": "Masse.md"
     },
     {
-      "basename": "Marché",
-      "path": "Marché.md"
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
       "basename": "Demande",
       "path": "Demande.md"
     },
     {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
     },
     {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "_physics",
@@ -31,10 +55,6 @@
     {
       "basename": "Flask",
       "path": "Flask.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
     },
     {
       "basename": "TOK template",
@@ -85,14 +105,6 @@
       "path": "Serie geometrique.md"
     },
     {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
-    },
-    {
       "basename": "SQLite",
       "path": "SQLite.md"
     },
@@ -109,20 +121,8 @@
       "path": "Sequence arithmetique.md"
     },
     {
-      "basename": "Masse",
-      "path": "Masse.md"
-    },
-    {
       "basename": "Latex",
       "path": "Latex.md"
-    },
-    {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
     },
     {
       "basename": "Computer Science IA",
