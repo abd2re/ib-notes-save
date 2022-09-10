@@ -10,4 +10,4 @@ $$Q_d=aP+b$$$Q_d$ = Quantité demandé
 $P$ = Prix
 $a$ = Pente (exprime [[Loi de la demande]])
 $b$ = Constante
-<!--SR:!2022-09-10,1,230-->
+<!--SR:!2022-09-12,2,230-->
