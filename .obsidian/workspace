@@ -12,6 +12,30 @@
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Velocite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Masse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -104,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.625}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Masse.md",
+            "file": "Inertie.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -220,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masse.md",
+                "file": "Inertie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masse.md",
+                "file": "Inertie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masse.md"
+                "file": "Inertie.md"
               }
             }
           },
@@ -337,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Masse.md",
+                "file": "Inertie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -374,15 +386,15 @@
   },
   "active": "6bbb0558f97633b5",
   "lastOpenFiles": [
+    "Velocite.md",
+    "Masse.md",
     "Inertie.md",
     "Force.md",
-    "Velocite.md",
     "Vitesse.md",
     "Conceptes de base economie.md",
     "Demande.md",
     "Ecriture mathématique de la demande.md",
     "Marché.md",
-    "Ceteris Paribus.md",
-    "Loi de la demande.md"
+    "Ceteris Paribus.md"
   ]
 }
