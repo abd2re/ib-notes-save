@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_EE",
-      "path": "_EE.md"
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
     },
     {
       "basename": "_computer science",
@@ -57,10 +69,6 @@
       "path": "template/CAS template.md"
     },
     {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
       "basename": "Sequence geometrique",
       "path": "Sequence geometrique.md"
     },
@@ -73,20 +81,12 @@
       "path": "Flask.md"
     },
     {
-      "basename": "Marché",
-      "path": "Marché.md"
-    },
-    {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
     },
     {
       "basename": "Masse",
       "path": "Masse.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
     },
     {
       "basename": "Conceptes de base economie",
