@@ -207,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -385,7 +384,7 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "6bbb0558f97633b5",
+  "active": "cec7260eaa54fcd6",
   "lastOpenFiles": [
     "Demande.md",
     "Conceptes de base economie.md",
