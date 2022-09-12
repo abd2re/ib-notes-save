@@ -1,32 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
-      "basename": "Marché",
-      "path": "Marché.md"
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
+      "basename": "_CAS",
+      "path": "_CAS.md"
     },
     {
-      "basename": "Masse",
-      "path": "Masse.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
+      "basename": "people template",
+      "path": "template/people template.md"
     },
     {
       "basename": "math template",
@@ -53,16 +49,56 @@
       "path": "template/date.md"
     },
     {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
       "basename": "CAS template",
       "path": "template/CAS template.md"
     },
     {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
       "basename": "Demande",
       "path": "Demande.md"
+    },
+    {
+      "basename": "Sequence geometrique",
+      "path": "Sequence geometrique.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
     },
     {
       "basename": "Acceleration",
@@ -71,10 +107,6 @@
     {
       "basename": "Force",
       "path": "Force.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "Inertie",
@@ -93,24 +125,12 @@
       "path": "_physics.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
       "basename": "TOK template",
       "path": "template/TOK template.md"
     },
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
     },
     {
       "basename": "Serie geometrique",
@@ -123,10 +143,6 @@
     {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
     },
     {
       "basename": "Sequence arithmetique",
@@ -147,22 +163,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "_french B",
