@@ -12,68 +12,14 @@
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9166666666666666}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":12},\"to\":{\"line\":9,\"ch\":12}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":27},\"to\":{\"line\":10,\"ch\":27}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "6bbb0558f97633b5",
@@ -84,43 +30,43 @@
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.0416666666666667}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Masse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.2894736842105263}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6bbb0558f97633b5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -128,17 +74,66 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/french B template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/english template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/EE template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/economy template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/date.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/CAS template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Drawing 2022-09-12 10.41.33.excalidraw.md\"}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ecriture mathématique de la demande.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -232,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecriture mathématique de la demande.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecriture mathématique de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ecriture mathématique de la demande.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,7 +340,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ecriture mathématique de la demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -384,17 +374,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "cec7260eaa54fcd6",
+  "active": "6bbb0558f97633b5",
   "lastOpenFiles": [
-    "Demande.md",
-    "Conceptes de base economie.md",
-    "Acceleration.md",
-    "Force.md",
-    "_EE.md",
-    "Ceteris Paribus.md",
-    "Loi de la demande.md",
-    "Marché.md",
     "_economy.md",
-    "Ecriture mathématique de la demande.md"
+    "Marché.md",
+    "Demande.md",
+    "Loi de la demande.md",
+    "assets/Loi de la demande/Loi de la demande.png",
+    "Masse.md",
+    "Ceteris Paribus.md",
+    "Conceptes de base economie.md",
+    "_english.md",
+    "test.md"
   ]
 }

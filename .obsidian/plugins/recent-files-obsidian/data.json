@@ -1,80 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Marché",
       "path": "Marché.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
     },
     {
       "basename": "Masse",
       "path": "Masse.md"
     },
     {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
-      "basename": "Flask",
-      "path": "Flask.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "math template",
@@ -101,12 +53,64 @@
       "path": "template/date.md"
     },
     {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
       "basename": "CAS template",
       "path": "template/CAS template.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
+      "basename": "TOK template",
+      "path": "template/TOK template.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "people template",
+      "path": "template/people template.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
     },
     {
       "basename": "Serie geometrique",
@@ -135,10 +139,6 @@
     {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "README",
