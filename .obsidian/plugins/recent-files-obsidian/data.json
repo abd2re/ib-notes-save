@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Marché",
       "path": "Marché.md"
     },
@@ -13,16 +25,8 @@
       "path": "Ceteris Paribus.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "_CAS",
@@ -159,10 +163,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     },
     {
       "basename": "_french B",

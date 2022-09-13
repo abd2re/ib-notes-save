@@ -12,14 +12,31 @@
             {
               "leaf": "6bbb0558f97633b5",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6bbb0558f97633b5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_TOK.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,6 +53,10 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -97,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_TOK.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_TOK.md"
+              }
             }
           },
           {
@@ -175,6 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,17 +235,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "d1b6639e49a5eb49",
+  "active": "6bbb0558f97633b5",
   "lastOpenFiles": [
+    "_economy.md",
+    "_TOK.md",
+    "_computer science.md",
     "Marché.md",
     "Demande.md",
     "Ceteris Paribus.md",
-    "_economy.md",
     "_EE.md",
-    "_computer science.md",
     "_CAS.md",
     "__dashboard.md",
-    "template/people template.md",
-    "template/math template.md"
+    "template/people template.md"
   ]
 }
