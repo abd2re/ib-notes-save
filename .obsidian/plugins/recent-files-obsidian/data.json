@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Marché",
       "path": "Marché.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "12 TOK Concepts",
@@ -51,10 +55,6 @@
     {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     },
     {
       "basename": "people template",
