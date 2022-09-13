@@ -2,7 +2,9 @@
 tags: [MOC] 
 ---
 # Theory of Knowledge
-## Part 1: Knowers and Knowing (Core theme)
+## Part 1: [[Knowers and Knowing]] (Core theme)
+How do we know ?
+[[12 TOK Concepts]]
 ## Part 2: Optional themes
 - Knowledge and technology
 - Knowledge and language

@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
+      "basename": "Marché",
+      "path": "Marché.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
-      "basename": "Marché",
-      "path": "Marché.md"
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "Demande",
@@ -25,16 +53,8 @@
       "path": "Ceteris Paribus.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "people template",
@@ -97,16 +117,8 @@
       "path": "Conceptes de base economie.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
     },
     {
       "basename": "Force",
@@ -123,10 +135,6 @@
     {
       "basename": "Vitesse",
       "path": "Vitesse.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "TOK template",

@@ -9,3 +9,5 @@ Un marché est :: la rencontre entre acheteurs et vendeurs qui effectuent des é
 
 - Un **marché concurrentiel** est un marché :: de compétition caractérisé par la liberté ou l'indépendance des choix.
 <!--SR:!2022-09-19,6,230-->
+- Un **marché monopole** est un marché :: ou une entité qui détient la demande et domine son secteur d'activité respectif.
+<!--SR:!2022-09-15,2,248-->

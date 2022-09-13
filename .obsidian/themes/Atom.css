@@ -184,7 +184,7 @@ a.tag, a.tag:hover {
 }
 
 .cm-formatting-task {
-  font-family: var(--font-monospace);
+  font-family:'Times New Roman', serif !important;
 }
 
 .nav-file, .nav-folder {
@@ -228,7 +228,7 @@ blockquote {
 }
 
 body {
-  --font-monospace: 'Fira Code', 'Source Code Pro', monospace;
+  --font-serif'Times New Roman', serif !important;
 }
 
 mjx-container[jax='CHTML'] {
