@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "_CAS",
-      "path": "_CAS.md"
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Logiciel informatique",
+      "path": "Logiciel informatique.md"
+    },
+    {
+      "basename": "Ressource humaine",
+      "path": "Ressource humaine.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "assets/Loi de la demande/Loi de la demande.png"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "assets/12 TOK Concepts/12 TOK Concepts.png"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
     },
     {
       "basename": "Marché",
       "path": "Marché.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
     },
     {
       "basename": "_TOK",
@@ -41,20 +101,8 @@
       "path": "__dashboard.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
     },
     {
       "basename": "people template",
@@ -97,16 +145,8 @@
       "path": "Sequence geometrique.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Flask",
       "path": "Flask.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     },
     {
       "basename": "Masse",
@@ -115,10 +155,6 @@
     {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
     },
     {
       "basename": "Force",
@@ -163,38 +199,6 @@
     {
       "basename": "Latex",
       "path": "Latex.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "world",
-      "path": "world.md"
-    },
-    {
-      "basename": "hello",
-      "path": "hello.md"
-    },
-    {
-      "basename": "finally",
-      "path": "finally.md"
-    },
-    {
-      "basename": "newthing",
-      "path": "newthing.md"
-    },
-    {
-      "basename": "Chemistry",
-      "path": "idk/Chemistry.md"
     }
   ],
   "omittedPaths": [],
