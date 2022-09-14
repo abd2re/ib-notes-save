@@ -11,5 +11,5 @@ $$P=\frac{Q_{d}-b}{a}$$
 $Q_d$ = Quantité demandé 
 $P$ = Prix
 $a$ = Pente (exprime [[Loi de la demande]]) (négatif)
-$b$ = Constante
+$b$ = Constante (exprime les [[Déterminants de demande]] hors-prix)
 <!--SR:!2022-09-19,7,250-->

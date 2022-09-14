@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Effet de revenu",
+      "path": "Effet de revenu.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "image-20220913200229039",
+      "path": "assets/_Images/image-20220913200229039.jpeg"
+    },
+    {
+      "basename": "Effet de substitution",
+      "path": "Effet de substitution.md"
+    },
+    {
+      "basename": "Nature et comportement humain",
+      "path": "Nature et comportement humain.md"
     },
     {
       "basename": "Environment du système",
@@ -11,14 +91,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Données",
-      "path": "Données.md"
     },
     {
       "basename": "Installation d'un système",
@@ -34,10 +106,6 @@
     },
     {
       "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
       "path": "assets/Loi de la demande/Loi de la demande.png"
     },
     {
@@ -45,52 +113,16 @@
       "path": "assets/12 TOK Concepts/12 TOK Concepts.png"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Marché",
       "path": "Marché.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
     },
     {
       "basename": "Matériel informatique",
       "path": "Matériel informatique.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
     },
     {
       "basename": "Knowers and Knowing",
@@ -99,10 +131,6 @@
     {
       "basename": "Acceleration",
       "path": "Acceleration.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "people template",
@@ -171,30 +199,6 @@
     {
       "basename": "Vitesse",
       "path": "Vitesse.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "Serie geometrique",
-      "path": "Serie geometrique.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "SQLite.md"
-    },
-    {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Sequence arithmetique",
-      "path": "Sequence arithmetique.md"
     }
   ],
   "omittedPaths": [],

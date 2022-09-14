@@ -4,17 +4,15 @@ tags: [economy]
 # Loi de la [[demande]]
 Created: 2022-09-09
 
-![[Loi de la demande.png]]
-```chart
-type: line
-labels: [1,2,3,4,5]
-series:
-  - title: Qté Demande
-    data: [1000,900,800,700,600]
-tension: 0.31
-width: 59%
-labelColors: false
-fill: false
-beginAtZero: false
-```
+## Graphe
 
+![[Loi de la demande.png]]
+## Pourquoi la loi de la demande ?
+
+On peut retenir comme hypotheses qui sont derriere la loi de la demande:
+?
+- [[Nature et comportement humain]]
+- [[Effet de revenu]]
+- [[Effet de substitution]]
+- **[[Loi d'utilité marginale décroissante]]** 
+<!--SR:!2022-09-15,1,230-->

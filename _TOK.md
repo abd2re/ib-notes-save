@@ -1,5 +1,6 @@
 ---
 tags: [MOC] 
+banner: "![[marcus-mentors.jpg]]"
 ---
 # Theory of Knowledge
 ## Part 1: [[Knowers and Knowing]] (Core theme)
