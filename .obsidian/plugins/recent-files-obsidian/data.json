@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
     },
     {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Fusions d'entreprises",
+      "path": "Fusions d'entreprises.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
     },
     {
       "basename": "Environment du système",
       "path": "Environment du système.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
     },
     {
       "basename": "Matériel informatique",
@@ -29,16 +53,8 @@
       "path": "Logiciel informatique.md"
     },
     {
-      "basename": "Données",
-      "path": "Données.md"
-    },
-    {
       "basename": "Ressource humaine",
       "path": "Ressource humaine.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Déterminants de demande",
@@ -183,18 +199,6 @@
     {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
-    },
-    {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
     }
   ],
   "omittedPaths": [],

@@ -4,165 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "273b53345ff4340e",
+        "id": "c5810617262e9a06",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "273b53345ff4340e",
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.8987341772151898}"
+              "eState": "{}"
             },
             {
-              "leaf": "273b53345ff4340e",
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "273b53345ff4340e",
+              "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.292191435768262}"
             },
             {
-              "leaf": "273b53345ff4340e",
+              "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logiciel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "273b53345ff4340e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_computer science.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "193cb7ef46432eef",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "193cb7ef46432eef",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_EE.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -256,14 +149,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -277,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -307,9 +198,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6299f388c1ecfa05",
@@ -366,7 +255,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -401,17 +289,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "193cb7ef46432eef",
+  "active": "c5810617262e9a06",
   "lastOpenFiles": [
     "_computer science.md",
-    "_EE.md",
+    "Changements dans un environment.md",
+    "_economy.md",
     "Système informatique.md",
-    "Installation d'un système.md",
-    "Environment du système.md",
     "Matériel informatique.md",
-    "Logiciel informatique.md",
-    "Données.md",
-    "Ressource humaine.md",
-    "Excalidraw/Drawing 2022-09-14 13.27.11.excalidraw.md"
+    "Installation d'un système.md",
+    "Les problèmes liés au changement.md",
+    "Fusions d'entreprises.md",
+    "Environment du système.md",
+    "Système anciens (Legacy system).md"
   ]
 }
