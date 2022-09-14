@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
   "showTags": false,
   "showAttachments": false,
@@ -109,6 +109,6 @@
   "repelStrength": 10.0537634408602,
   "linkStrength": 1,
   "linkDistance": 241,
-  "scale": 0.548569556288763,
+  "scale": 0.24392748278396362,
   "close": false
 }

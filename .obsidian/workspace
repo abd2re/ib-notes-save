@@ -12,8 +12,26 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.9319899244332494}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":3.047858942065491}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -54,8 +72,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Changements dans un environment.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -149,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Changements dans un environment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Changements dans un environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +223,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Changements dans un environment.md"
+              }
             }
           },
           {
@@ -255,6 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Changements dans un environment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,15 +319,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "_computer science.md",
+    "Fusions d'entreprises.md",
     "Changements dans un environment.md",
+    "Système anciens (Legacy system).md",
+    "Les problèmes liés au changement.md",
+    "_computer science.md",
     "_economy.md",
+    "Loi de la demande.md",
     "Système informatique.md",
     "Matériel informatique.md",
-    "Installation d'un système.md",
-    "Les problèmes liés au changement.md",
-    "Fusions d'entreprises.md",
-    "Environment du système.md",
-    "Système anciens (Legacy system).md"
+    "Installation d'un système.md"
   ]
 }
