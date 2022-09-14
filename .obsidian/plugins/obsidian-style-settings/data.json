@@ -4,5 +4,13 @@
   "bubble-space-1@@blp-gif": false,
   "bubble-space-1@@bs-bubble-presets": "cc-pink",
   "bubble-space-1@@bs-space-presets": "neoni",
-  "GS@@AT": "AT_Alch"
+  "GS@@AT": "AT_Alch",
+  "minimal-advanced@@window-title-on": false,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@bg1@@dark": "#010101",
+  "minimal-style@@base@@dark": "#010101",
+  "minimal-style@@ui3@@dark": "#00FFDE",
+  "minimal-style@@active-line-on": false,
+  "minimal-style@@ui2@@dark": "#00FF41"
 }
