@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
     },
     {
       "basename": "Changements dans un environment",
       "path": "Changements dans un environment.md"
     },
     {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
     },
     {
       "basename": "Demande",
@@ -31,10 +59,6 @@
     {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
     },
     {
       "basename": "_economy",
@@ -61,20 +85,8 @@
       "path": "assets/Loi d'utilité marginale décroissante/Loi d'utilité marginale décroissante.png"
     },
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
-    },
-    {
       "basename": "Fusions d'entreprises",
       "path": "Fusions d'entreprises.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
     },
     {
       "basename": "Installation d'un système",
@@ -87,10 +99,6 @@
     {
       "basename": "Données",
       "path": "Données.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
     },
     {
       "basename": "Logiciel informatique",
@@ -119,14 +127,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "image-20220913200229039",

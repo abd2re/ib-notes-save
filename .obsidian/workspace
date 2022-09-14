@@ -12,80 +12,14 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.8463476070528966}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0.02564102564102564}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":22},\"to\":{\"line\":16,\"ch\":22}},\"scroll\":8.214335467924952}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5474452554744526}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/Loi d'utilité marginale décroissante/Loi d'utilité marginale décroissante.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -96,49 +30,110 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.9319899244332494}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":3.047858942065491}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":3.0982367758186395}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":4.886649874055415}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":45}},\"scroll\":0.7664233576642335}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Système anciens (Legacy system).md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -232,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système anciens (Legacy system).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système anciens (Legacy system).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système anciens (Legacy system).md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,7 +333,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Système anciens (Legacy system).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -379,15 +369,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "Déterminants de demande.md",
+    "Les problèmes liés au changement.md",
     "Changements dans un environment.md",
+    "Environment du système.md",
+    "Système informatique.md",
+    "Matériel informatique.md",
     "_computer science.md",
-    "Installation d'un système.md",
-    "Demande.md",
-    "Marché.md",
-    "Loi de la demande.md",
-    "assets/Loi de la demande/Loi de la demande.png",
-    "Ceteris Paribus.md",
-    "Ecriture mathématique de la demande.md",
-    "Déterminants de demande.md"
+    "__dashboard.md",
+    "_physics.md",
+    "_math.md"
   ]
 }
