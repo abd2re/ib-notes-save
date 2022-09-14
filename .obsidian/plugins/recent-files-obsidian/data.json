@@ -5,12 +5,20 @@
       "path": "Déterminants de demande.md"
     },
     {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
     },
     {
       "basename": "_english",
@@ -19,10 +27,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
     },
     {
       "basename": "_french B",
@@ -67,10 +71,6 @@
     {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     },
     {
       "basename": "image-20220913200229039",

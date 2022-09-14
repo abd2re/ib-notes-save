@@ -9,7 +9,7 @@ Created: 2022-09-09
 ![[Loi de la demande.png]]
 ## Pourquoi la loi de la demande ?
 
-On peut retenir comme hypotheses qui sont derriere la loi de la demande:
+On peut retenir **4** hypotheses qui sont derriere la loi de la demande:
 ?
 - [[Nature et comportement humain]]
 - [[Effet de revenu]]
