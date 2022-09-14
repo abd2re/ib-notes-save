@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
       "basename": "Changements dans un environment",
       "path": "Changements dans un environment.md"
     },
@@ -9,8 +13,52 @@
       "path": "_computer science.md"
     },
     {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Effet de substitution",
+      "path": "Effet de substitution.md"
+    },
+    {
+      "basename": "Effet de revenu",
+      "path": "Effet de revenu.md"
+    },
+    {
+      "basename": "Nature et comportement humain",
+      "path": "Nature et comportement humain.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "assets/Loi d'utilité marginale décroissante/Loi d'utilité marginale décroissante.png"
     },
     {
       "basename": "Système informatique",
@@ -23,10 +71,6 @@
     {
       "basename": "Fusions d'entreprises",
       "path": "Fusions d'entreprises.md"
-    },
-    {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
     },
     {
       "basename": "Environment du système",
@@ -57,22 +101,6 @@
       "path": "Ressource humaine.md"
     },
     {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
       "basename": "_english",
       "path": "_english.md"
     },
@@ -83,18 +111,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Effet de revenu",
-      "path": "Effet de revenu.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
     },
     {
       "basename": "12 TOK Concepts",
@@ -117,24 +133,12 @@
       "path": "assets/_Images/image-20220913200229039.jpeg"
     },
     {
-      "basename": "Effet de substitution",
-      "path": "Effet de substitution.md"
-    },
-    {
-      "basename": "Nature et comportement humain",
-      "path": "Nature et comportement humain.md"
-    },
-    {
       "basename": "Loi de la demande",
       "path": "assets/Loi de la demande/Loi de la demande.png"
     },
     {
       "basename": "12 TOK Concepts",
       "path": "assets/12 TOK Concepts/12 TOK Concepts.png"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
     },
     {
       "basename": "_CAS",
@@ -195,10 +199,6 @@
     {
       "basename": "Masse",
       "path": "Masse.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
     }
   ],
   "omittedPaths": [],
