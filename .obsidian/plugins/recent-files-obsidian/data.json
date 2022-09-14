@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Logiciel informatique",
+      "path": "Logiciel informatique.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Ressource humaine",
+      "path": "Ressource humaine.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
     },
     {
       "basename": "Loi de la demande",
@@ -25,10 +61,6 @@
       "path": "_english.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
     },
@@ -39,10 +71,6 @@
     {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Données",
-      "path": "Données.md"
     },
     {
       "basename": "Effet de revenu",
@@ -69,10 +97,6 @@
       "path": "__dashboard.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "image-20220913200229039",
       "path": "assets/_Images/image-20220913200229039.jpeg"
     },
@@ -85,26 +109,6 @@
       "path": "Nature et comportement humain.md"
     },
     {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Logiciel informatique",
-      "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "Ressource humaine",
-      "path": "Ressource humaine.md"
-    },
-    {
       "basename": "Loi de la demande",
       "path": "assets/Loi de la demande/Loi de la demande.png"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Marché",
       "path": "Marché.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
     },
     {
       "basename": "_CAS",
@@ -195,10 +195,6 @@
     {
       "basename": "Velocite",
       "path": "Velocite.md"
-    },
-    {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
     }
   ],
   "omittedPaths": [],

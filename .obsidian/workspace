@@ -4,129 +4,153 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6b0acc81473f5c",
+        "id": "273b53345ff4340e",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":8.684574766880125}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.8987341772151898}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2f6b0acc81473f5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2f6b0acc81473f5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}}}"
-            },
-            {
-              "leaf": "2f6b0acc81473f5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "2f6b0acc81473f5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.231591955960004}"
-            },
-            {
-              "leaf": "2f6b0acc81473f5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":62},\"to\":{\"line\":13,\"ch\":62}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":40},\"to\":{\"line\":13,\"ch\":40}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.12408759124087591}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2f6b0acc81473f5c",
+              "leaf": "273b53345ff4340e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "273b53345ff4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "273b53345ff4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "273b53345ff4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logiciel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "273b53345ff4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "273b53345ff4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_computer science.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "193cb7ef46432eef",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "193cb7ef46432eef",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -134,8 +158,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Déterminants de demande.md",
-            "mode": "preview",
+            "file": "_EE.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -174,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<!",
+                "query": "tag:#computer_science",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants de demande.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants de demande.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants de demande.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -325,7 +349,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "6299f388c1ecfa05",
@@ -342,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déterminants de demande.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,7 +389,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.711189501048606,
+                  "scale": 0.5962920465352503,
                   "close": true
                 }
               }
@@ -377,17 +401,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "7a652f273c476f67",
+  "active": "193cb7ef46432eef",
   "lastOpenFiles": [
-    "_economy.md",
-    "Loi de la demande.md",
-    "Déterminants de demande.md",
-    "Demande.md",
-    "Ecriture mathématique de la demande.md",
-    "_english.md",
     "_computer science.md",
-    "_french B.md",
-    "_TOK.md",
-    "Ceteris Paribus.md"
+    "_EE.md",
+    "Système informatique.md",
+    "Installation d'un système.md",
+    "Environment du système.md",
+    "Matériel informatique.md",
+    "Logiciel informatique.md",
+    "Données.md",
+    "Ressource humaine.md",
+    "Excalidraw/Drawing 2022-09-14 13.27.11.excalidraw.md"
   ]
 }
