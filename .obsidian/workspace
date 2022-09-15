@@ -373,7 +373,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.457494565357427,
+                  "scale": 0.6413995564566236,
                   "close": true
                 }
               }
@@ -383,9 +383,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 502.5
   },
-  "active": "c5810617262e9a06",
+  "active": "9d8029b03e20c73d",
   "lastOpenFiles": [
     "_economy.md",
     "Déterminants de demande.md",
