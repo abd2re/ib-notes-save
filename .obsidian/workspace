@@ -12,7 +12,25 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -110,32 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Serie arithmetique.md",
-            "mode": "source",
+            "file": "Loi de la demande.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Loi de la demande.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serie arithmetique.md"
+                "file": "Loi de la demande.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Serie arithmetique.md",
+                "file": "Loi de la demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,15 +387,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "Sequence arithmetique.md",
+    "Changements dans un environment.md",
+    "_english.md",
     "Serie arithmetique.md",
+    "Sequence arithmetique.md",
     "__dashboard.md",
     "Système informatique.md",
     "Ressource humaine.md",
     "Logiciel informatique.md",
     "Matériel informatique.md",
-    "Acceleration.md",
-    "Vitesse.md",
-    "Loi d'utilité marginale décroissante.md"
+    "Acceleration.md"
   ]
 }
