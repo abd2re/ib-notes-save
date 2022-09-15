@@ -8,12 +8,12 @@ ___
 ## HLs
 ### [[_math]] 
 ### [[_physics]]
-### [[_computer science]]
+### [[_french B]]
 ***
 ## SLs
 ### [[_english]]
-### [[_french B]]
 ### [[_economy]]
+### [[_computer science]]
 ***
 ## Core
 ### [[_TOK]]

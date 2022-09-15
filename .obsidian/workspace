@@ -12,6 +12,18 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.6970802919708029}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -116,29 +128,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":8.696306429548564}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Système informatique.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -232,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système informatique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système informatique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,7 +333,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Système informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,6 +377,8 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "__dashboard.md",
+    "Système informatique.md",
     "Loi de la demande.md",
     "assets/Loi de la demande/Loi de la demande.png",
     "Nature et comportement humain.md",
@@ -394,8 +386,6 @@
     "Installation d'un système.md",
     "Changements dans un environment.md",
     "Fusions d'entreprises.md",
-    "Système anciens (Legacy system).md",
-    "Les problèmes liés au changement.md",
-    "_computer science.md"
+    "Système anciens (Legacy system).md"
   ]
 }

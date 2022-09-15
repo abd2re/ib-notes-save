@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
       "basename": "Système informatique",
       "path": "Système informatique.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "Ressource humaine",
