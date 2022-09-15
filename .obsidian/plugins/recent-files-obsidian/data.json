@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Serie arithmetique",
+      "path": "Serie arithmetique.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
       "basename": "Système informatique",
       "path": "Système informatique.md"
+    },
+    {
+      "basename": "Ressource humaine",
+      "path": "Ressource humaine.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
     },
     {
       "basename": "Logiciel informatique",
@@ -41,10 +65,6 @@
       "path": "_TOK.md"
     },
     {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
-    },
-    {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
     },
@@ -77,20 +97,12 @@
       "path": "Ecriture mathématique de la demande.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
       "basename": "Installation d'un système",
       "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     },
     {
       "basename": "Les problèmes liés au changement",
@@ -113,16 +125,8 @@
       "path": "Environment du système.md"
     },
     {
-      "basename": "Ressource humaine",
-      "path": "Ressource humaine.md"
-    },
-    {
       "basename": "Marché",
       "path": "Marché.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
     },
     {
       "basename": "Effet de substitution",
@@ -195,10 +199,6 @@
     {
       "basename": "CAS template",
       "path": "template/CAS template.md"
-    },
-    {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
     }
   ],
   "omittedPaths": [],

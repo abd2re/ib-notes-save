@@ -19,5 +19,5 @@ Plusieurs déterminants hors prix peuvent influencer la demande. On peut retenir
 - Les attentes futures (projections)
 - Le nombre de consommateurs
 - Les changements saisonnières
-<!--SR:!2022-09-15,1,230-->
+<!--SR:!2022-09-16,1,210-->
 

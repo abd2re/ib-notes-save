@@ -12,8 +12,56 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressource humaine.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":8.696306429548564}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -80,62 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer Science IA.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Système informatique.md",
-            "mode": "preview",
+            "file": "Serie arithmetique.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#computer_science",
+                "query": "<!--",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système informatique.md",
+                "file": "Serie arithmetique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système informatique.md",
+                "file": "Serie arithmetique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système informatique.md"
+                "file": "Serie arithmetique.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Système informatique.md",
+                "file": "Serie arithmetique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,15 +387,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "Matériel informatique.md",
+    "Sequence arithmetique.md",
+    "Serie arithmetique.md",
+    "__dashboard.md",
     "Système informatique.md",
+    "Ressource humaine.md",
     "Logiciel informatique.md",
-    "_EE.md",
-    "_economy.md",
-    "_english.md",
-    "_french B.md",
-    "_math.md",
-    "_physics.md",
-    "_TOK.md"
+    "Matériel informatique.md",
+    "Acceleration.md",
+    "Vitesse.md",
+    "Loi d'utilité marginale décroissante.md"
   ]
 }
