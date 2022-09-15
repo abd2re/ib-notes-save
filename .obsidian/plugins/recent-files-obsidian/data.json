@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
     },
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
     },
     {
       "basename": "Environment du système",
@@ -19,14 +39,6 @@
     {
       "basename": "Installation d'un système",
       "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "_english",
@@ -61,10 +73,6 @@
       "path": "_EE.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
     },
@@ -89,16 +97,8 @@
       "path": "Données.md"
     },
     {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
     },
     {
       "basename": "Ceteris Paribus",

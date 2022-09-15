@@ -21,3 +21,5 @@ Plusieurs déterminants hors prix peuvent influencer la demande. On peut retenir
 - Les changements saisonnières
 <!--SR:!2022-09-16,1,210-->
 
+
+

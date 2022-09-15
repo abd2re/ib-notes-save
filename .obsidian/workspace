@@ -12,6 +12,60 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants de demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":8.417236662106703}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.5641025641025643}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
@@ -74,66 +128,17 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serie arithmetique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressource humaine.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Déterminants de demande.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Déterminants de demande.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Déterminants de demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +283,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Déterminants de demande.md"
+              }
             }
           },
           {
@@ -333,6 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Déterminants de demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -363,7 +373,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.4574945653574263,
+                  "scale": 0.457494565357427,
                   "close": true
                 }
               }
@@ -377,15 +387,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "__dashboard.md",
-    "Système informatique.md",
+    "_economy.md",
+    "Déterminants de demande.md",
     "Loi de la demande.md",
-    "assets/Loi de la demande/Loi de la demande.png",
+    "Loi d'utilité marginale décroissante.md",
+    "Effet de substitution.md",
+    "Effet de revenu.md",
     "Nature et comportement humain.md",
-    "Environment du système.md",
-    "Installation d'un système.md",
-    "Changements dans un environment.md",
-    "Fusions d'entreprises.md",
-    "Système anciens (Legacy system).md"
+    "Demande.md",
+    "__dashboard.md",
+    "_computer science.md"
   ]
 }
