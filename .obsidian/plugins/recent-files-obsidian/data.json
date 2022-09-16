@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "_economy",
@@ -13,28 +25,32 @@
       "path": "Loi de la demande.md"
     },
     {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
     },
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
     },
     {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Déterminants de demande",
+      "path": "Déterminants de demande.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
     },
     {
       "basename": "Installation d'un système",
@@ -57,16 +73,8 @@
       "path": "Acceleration.md"
     },
     {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
       "basename": "Logiciel informatique",
       "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
     },
     {
       "basename": "_EE",
@@ -93,10 +101,6 @@
       "path": "Computer Science IA.md"
     },
     {
-      "basename": "Données",
-      "path": "Données.md"
-    },
-    {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
     },
     {
       "basename": "Fusions d'entreprises",

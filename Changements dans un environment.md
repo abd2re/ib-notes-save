@@ -11,7 +11,6 @@ Ces nouveaux [[Système informatique|systèmes]] seront développés en réponse
 Dans ce dernier cas, ces nouveaux [[Système informatique|systèmes]] exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
 
 ## Liens
-
 1. [[Les problèmes liés au changement]]
 2. [[Système anciens (Legacy system)]]
 3. [[Fusions d'entreprises]]
