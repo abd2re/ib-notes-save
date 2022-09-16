@@ -3,4 +3,4 @@ tags: [MOC]
 ---
 # Find EE subject
 > [! Question]
-> To what extent are convolutional neural networks viable for classifying artworks by art style ?
+> To what extent are convolutional neural networks viable for classifying artworks ?
