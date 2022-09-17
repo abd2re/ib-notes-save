@@ -7,19 +7,19 @@
         "id": "c5810617262e9a06",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.4141414141414141}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -36,13 +36,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_EE.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -125,10 +120,13 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,10 +140,13 @@
           {
             "id": "7a652f273c476f67",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6299f388c1ecfa05",
@@ -211,10 +210,13 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,15 +261,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "Système informatique.md",
     "_economy.md",
+    "_EE.md",
+    "Système informatique.md",
     "__dashboard.md",
     "Changements dans un environment.md",
     "Les problèmes liés au changement.md",
     "Environment du système.md",
     "_computer science.md",
     "Conceptes de base economie.md",
-    "Déterminants de demande.md",
-    "Ecriture mathématique de la demande.md"
+    "Déterminants de demande.md"
   ]
 }
