@@ -8,7 +8,7 @@ Created: 2022-09-14
 ## Déterminant prix de la demande 
 ?
 Voir la [[Loi de la demande]]
-<!--SR:!2022-09-17,3,250-->
+<!--SR:!2022-09-29,12,270-->
 
 ## Déterminant hors-prix de la demande 
 Plusieurs déterminants hors prix peuvent influencer la demande. On peut retenir 6 déterminants communs:
