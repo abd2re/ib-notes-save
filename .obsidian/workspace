@@ -18,6 +18,12 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.196969696969697}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -279,15 +285,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
-    "Changements dans un environment.md",
-    "Les problèmes liés au changement.md",
+    "_computer science.md",
+    "Système informatique.md",
     "Installation d'un système.md",
+    "Changements dans un environment.md",
+    "Matériel informatique.md",
+    "Les problèmes liés au changement.md",
     "_economy.md",
     "_EE.md",
-    "Système informatique.md",
     "__dashboard.md",
-    "Environment du système.md",
-    "_computer science.md",
-    "Conceptes de base economie.md"
+    "Environment du système.md"
   ]
 }
