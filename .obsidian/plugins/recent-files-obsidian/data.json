@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
     },
     {
       "basename": "Environment du système",
@@ -55,10 +59,6 @@
     {
       "basename": "Demande",
       "path": "Demande.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
     },
     {
       "basename": "_english",

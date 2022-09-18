@@ -18,6 +18,24 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":1.4141414141414141}"
             },
@@ -247,7 +265,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.6413995564566236,
+                  "scale": 0.6413995564566239,
                   "close": true
                 }
               }
@@ -261,15 +279,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "Changements dans un environment.md",
+    "Les problèmes liés au changement.md",
+    "Installation d'un système.md",
     "_economy.md",
     "_EE.md",
     "Système informatique.md",
     "__dashboard.md",
-    "Changements dans un environment.md",
-    "Les problèmes liés au changement.md",
     "Environment du système.md",
     "_computer science.md",
-    "Conceptes de base economie.md",
-    "Déterminants de demande.md"
+    "Conceptes de base economie.md"
   ]
 }
