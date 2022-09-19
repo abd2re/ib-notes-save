@@ -12,4 +12,4 @@ $Q_d$ = Quantité demandé
 $P$ = Prix
 $a$ = Pente (exprime [[Loi de la demande]]) (négatif)
 $b$ = Constante (exprime les [[Déterminants de demande]] hors-prix)
-<!--SR:!2022-09-19,7,250-->
+<!--SR:!2022-10-14,25,270-->
