@@ -12,7 +12,49 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.7146464646464645}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -60,8 +102,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_EE.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -151,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_EE.md"
+              }
             }
           },
           {
@@ -218,13 +269,17 @@
           {
             "id": "b82d70eaa67a3197",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "6299f388c1ecfa05",
@@ -241,6 +296,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +327,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.6413995564566239,
+                  "scale": 0.5438034715406724,
                   "close": true
                 }
               }
@@ -285,15 +341,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "Acceleration.md",
+    "Changements dans un environment.md",
+    "_economy.md",
+    "Ecriture mathématique de la demande.md",
+    "__dashboard.md",
     "_computer science.md",
     "Système informatique.md",
     "Installation d'un système.md",
-    "Changements dans un environment.md",
     "Matériel informatique.md",
-    "Les problèmes liés au changement.md",
-    "_economy.md",
-    "_EE.md",
-    "__dashboard.md",
-    "Environment du système.md"
+    "Les problèmes liés au changement.md"
   ]
 }
