@@ -12,8 +12,26 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -104,7 +122,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_EE.md",
+            "file": "Fonctions quadratiques.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -198,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "Fonctions quadratiques.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "Fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "Fonctions quadratiques.md"
               }
             }
           },
@@ -296,7 +314,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "Fonctions quadratiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,15 +359,15 @@
   },
   "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "_math.md",
+    "Fonctions linéaires.md",
+    "_CAS.md",
+    "_EE.md",
     "Acceleration.md",
     "Changements dans un environment.md",
     "_economy.md",
     "Ecriture mathématique de la demande.md",
     "__dashboard.md",
-    "_computer science.md",
-    "Système informatique.md",
-    "Installation d'un système.md",
-    "Matériel informatique.md",
-    "Les problèmes liés au changement.md"
+    "_computer science.md"
   ]
 }

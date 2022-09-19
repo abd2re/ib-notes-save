@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions linéaires",
+      "path": "Fonctions linéaires.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -89,10 +105,6 @@
       "path": "_french B.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -153,10 +165,6 @@
       "path": "assets/12 TOK Concepts/12 TOK Concepts.png"
     },
     {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
       "basename": "Knowers and Knowing",
       "path": "Knowers and Knowing.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "computer science template",
       "path": "template/computer science template.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
     }
   ],
   "omittedPaths": [],
