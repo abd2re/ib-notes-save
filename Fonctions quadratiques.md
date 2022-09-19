@@ -5,6 +5,13 @@ tags: [math]
 Created: 2022-09-19
 
 Expression réduite::$$ax^2+bx+c\,,\;a\neq0$$
+<!--SR:!2022-09-23,4,270-->
 
 Expression sous la forme canonique::$$a(x-h)^2+k$$
-Avec $$h=\frac{-b}{2a}$$
+<!--SR:!2022-09-23,4,270-->
+
+Quelle est la formule et que représente $h$ et $k$ dans la forme canonique de la fonction quadratique $a(x-h)^2+k$:
+?
+$$h=\frac{-b}{2a}$$$$k=f(h)=ah^2+bh+c$$
+$h$ représente l'abssice du vertex et $k$ l'ordonée du vertex c'est pour cela que $k$ et l'image de $h$.
+<!--SR:!2022-09-20,1,234-->
