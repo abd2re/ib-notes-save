@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Attentes futures",
-      "path": "Attentes futures.md"
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
       "path": "Déterminants hors-prix de la demande.md"
     },
     {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
+      "basename": "Revenue",
+      "path": "Revenue.md"
+    },
+    {
+      "basename": "Gouts et préférences",
+      "path": "Gouts et préférences.md"
     },
     {
       "basename": "Evolution du prix des biens connexes",
       "path": "Evolution du prix des biens connexes.md"
+    },
+    {
+      "basename": "Attentes futures",
+      "path": "Attentes futures.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
     },
     {
       "basename": "_economy",
@@ -29,24 +49,12 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "Revenue",
-      "path": "Revenue.md"
-    },
-    {
-      "basename": "Gouts et préférences",
-      "path": "Gouts et préférences.md"
-    },
-    {
       "basename": "Fonctionnement en parallèle",
       "path": "Fonctionnement en parallèle.md"
     },
     {
       "basename": "Processus d'installation alternatifs",
       "path": "Processus d'installation alternatifs.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
     },
     {
       "basename": "Network-as-a-Service (NaaS)",
@@ -59,10 +67,6 @@
     {
       "basename": "Software-as-a-Service (SaaS)",
       "path": "Software-as-a-Service (SaaS).md"
-    },
-    {
-      "basename": "Problèmes de compatibilité",
-      "path": "Problèmes de compatibilité.md"
     },
     {
       "basename": "Les problèmes liés au changement",
@@ -135,10 +139,6 @@
     {
       "basename": "Loi d'utilité marginale décroissante",
       "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Données",
-      "path": "Données.md"
     },
     {
       "basename": "Matériel informatique",

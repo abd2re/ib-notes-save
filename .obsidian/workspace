@@ -7,13 +7,19 @@
         "id": "c02f2537ac130031",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "c02f2537ac130031",
@@ -42,13 +48,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Attentes futures.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -142,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attentes futures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attentes futures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,9 +192,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attentes futures.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,7 +248,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attentes futures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,15 +292,15 @@
   },
   "active": "c02f2537ac130031",
   "lastOpenFiles": [
+    "Problèmes de compatibilité.md",
+    "Données.md",
+    "Solutions au changement.md",
     "Déterminants hors-prix de la demande.md",
-    "Loi de la demande.md",
-    "Attentes futures.md",
-    "Evolution du prix des biens connexes.md",
-    "_economy.md",
-    "Demande.md",
-    "_computer science.md",
     "Revenue.md",
     "Gouts et préférences.md",
-    "assets/Loi de la demande/Loi de la demande.png"
+    "Evolution du prix des biens connexes.md",
+    "Attentes futures.md",
+    "Loi de la demande.md",
+    "_economy.md"
   ]
 }
