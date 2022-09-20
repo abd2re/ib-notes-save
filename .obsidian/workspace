@@ -4,136 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "c5810617262e9a06",
+        "id": "9e397a3b90210101",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "c5810617262e9a06",
+              "leaf": "9e397a3b90210101",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "c5810617262e9a06",
+              "leaf": "9e397a3b90210101",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.15384615384615385}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.3846153846153846}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.058975476160836}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.00501002004008}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.2564102564102564}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
+              "leaf": "9e397a3b90210101",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "c5810617262e9a06",
+              "leaf": "9e397a3b90210101",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":30},\"to\":{\"line\":16,\"ch\":4}},\"scroll\":2.146464646464646}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.6792929292929293}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fusions d'entreprises.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.1666666666666665}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fusions d'entreprises.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Problèmes de compatibilité.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +241,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Problèmes de compatibilité.md"
+              }
             }
           },
           {
@@ -315,8 +282,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6299f388c1ecfa05",
@@ -333,6 +299,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,17 +342,17 @@
     "direction": "horizontal",
     "width": 502.5
   },
-  "active": "c5810617262e9a06",
+  "active": "9e397a3b90210101",
   "lastOpenFiles": [
-    "Fonctions quadratiques.md",
-    "Etude graphique des fonctions quadratiques.md",
-    "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
-    "_math.md",
-    "_physics.md",
     "_computer science.md",
-    "Fonctions linéaires.md",
-    "_CAS.md",
-    "_EE.md",
-    "Acceleration.md"
+    "Système informatique.md",
+    "Problèmes de compatibilité.md",
+    "Changements dans un environment.md",
+    "Les problèmes liés au changement.md",
+    "__dashboard.md",
+    "Fusions d'entreprises.md",
+    "Installation d'un système.md",
+    "Matériel informatique.md",
+    "Système anciens (Legacy system).md"
   ]
 }

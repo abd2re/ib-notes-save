@@ -14,6 +14,7 @@ Dans ce dernier cas, ces nouveaux [[Système informatique|systèmes]] exigeront 
 1. [[Les problèmes liés au changement]]
 2. [[Système anciens (Legacy system)]]
 3. [[Fusions d'entreprises]]
+4. [[Problèmes de compatibilité]]
 
 
 

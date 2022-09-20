@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Fusions d'entreprises",
+      "path": "Fusions d'entreprises.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
     },
@@ -15,10 +51,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Etude graphique des fonctions quadratiques",
@@ -41,32 +73,12 @@
       "path": "Acceleration.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
     },
     {
       "basename": "Environment du système",
@@ -137,14 +149,6 @@
       "path": "12 TOK Concepts.md"
     },
     {
-      "basename": "Fusions d'entreprises",
-      "path": "Fusions d'entreprises.md"
-    },
-    {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
-    },
-    {
       "basename": "Marché",
       "path": "Marché.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "EE template",
       "path": "template/EE template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     }
   ],
   "omittedPaths": [],

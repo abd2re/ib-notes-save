@@ -4,13 +4,9 @@ alias: [home,main]
 banner: "![[image-20220913200229039.jpeg]]"
 ---
 # Map of Contents
-___
-## HLs
 ### [[_math]] 
 ### [[_physics]]
 ### [[_french B]]
-***
-## SLs
 ### [[_english]]
 ### [[_economy]]
 ### [[_computer science]]
