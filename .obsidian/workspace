@@ -12,14 +12,14 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -122,7 +122,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fonctions quadratiques.md",
+            "file": "Etude graphique des fonctions quadratiques.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -174,6 +174,10 @@
           {
             "id": "8014a558964b929f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -216,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,6 +250,10 @@
           {
             "id": "9d3e7145212deffd",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -257,16 +265,24 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
               }
             }
           },
           {
             "id": "f419277d11679306",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -314,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -357,17 +373,14 @@
     "direction": "horizontal",
     "width": 502.5
   },
-  "active": "c5810617262e9a06",
+  "active": "92e0b1290f8b2eca",
   "lastOpenFiles": [
+    "Etude graphique des fonctions quadratiques.md",
+    "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
     "_math.md",
+    "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "_CAS.md",
     "_EE.md",
     "Acceleration.md",
-    "Changements dans un environment.md",
-    "_economy.md",
-    "Ecriture mathématique de la demande.md",
-    "__dashboard.md",
-    "_computer science.md"
-  ]
-}
+ 

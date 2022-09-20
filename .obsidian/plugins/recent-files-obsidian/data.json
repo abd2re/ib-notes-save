@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
     },
     {
       "basename": "_math",
       "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
     },
     {
       "basename": "Fonctions linéaires",
@@ -191,14 +199,6 @@
     {
       "basename": "economy template",
       "path": "template/economy template.md"
-    },
-    {
-      "basename": "date",
-      "path": "template/date.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
     }
   ],
   "omittedPaths": [],
