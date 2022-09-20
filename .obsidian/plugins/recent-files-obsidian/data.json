@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Problèmes de compatibilité",
-      "path": "Problèmes de compatibilité.md"
+      "basename": "Network-as-a-Service (NaaS)",
+      "path": "Network-as-a-Service (NaaS).md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
+      "basename": "Software-as-a-Service (SaaS)",
+      "path": "Software-as-a-Service (SaaS).md"
+    },
+    {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
     },
     {
       "basename": "Les problèmes liés au changement",
@@ -187,18 +199,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "french B template",
-      "path": "template/french B template.md"
-    },
-    {
-      "basename": "english template",
-      "path": "template/english template.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
     }
   ],
   "omittedPaths": [],

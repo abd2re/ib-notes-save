@@ -15,3 +15,4 @@ banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 	2. Système anciens (Legacy system)
 	3. Fusions d'entreprises
 	4. Problèmes de compatibilité
+	5. Solutions au changement

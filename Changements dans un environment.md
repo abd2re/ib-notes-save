@@ -15,6 +15,6 @@ Dans ce dernier cas, ces nouveaux [[Système informatique|systèmes]] exigeront 
 2. [[Système anciens (Legacy system)]]
 3. [[Fusions d'entreprises]]
 4. [[Problèmes de compatibilité]]
-
+5. [[Solutions au changement]]
 
 

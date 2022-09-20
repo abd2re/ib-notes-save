@@ -7,18 +7,60 @@
         "id": "9e397a3b90210101",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "9e397a3b90210101",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "9e397a3b90210101",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Network-as-a-Service (NaaS).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.5378787878787876}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Software-as-a-Service (SaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Software-as-a-Service (SaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e397a3b90210101",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -90,13 +132,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Problèmes de compatibilité.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -190,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Problèmes de compatibilité.md"
-              }
+              "state": {}
             }
           },
           {
@@ -299,7 +332,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -344,15 +376,15 @@
   },
   "active": "9e397a3b90210101",
   "lastOpenFiles": [
-    "_computer science.md",
-    "Système informatique.md",
-    "Problèmes de compatibilité.md",
+    "Network-as-a-Service (NaaS).md",
+    "Solutions au changement.md",
+    "Software-as-a-Service (SaaS).md",
     "Changements dans un environment.md",
+    "_computer science.md",
+    "Problèmes de compatibilité.md",
+    "Système informatique.md",
     "Les problèmes liés au changement.md",
     "__dashboard.md",
-    "Fusions d'entreprises.md",
-    "Installation d'un système.md",
-    "Matériel informatique.md",
-    "Système anciens (Legacy system).md"
+    "Fusions d'entreprises.md"
   ]
 }
