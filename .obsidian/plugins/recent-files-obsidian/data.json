@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
     },
     {
       "basename": "Etude graphique des fonctions quadratiques",
-      "path": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
+      "path": "Etude graphique des fonctions quadratiques.md"
     },
     {
       "basename": "_math",
       "path": "_math.md"
     },
     {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
     },
     {
       "basename": "Fonctions linéaires",
@@ -47,10 +55,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Les problèmes liés au changement",
@@ -111,10 +115,6 @@
     {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_TOK",

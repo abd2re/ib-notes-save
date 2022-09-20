@@ -12,8 +12,86 @@
             {
               "leaf": "c5810617262e9a06",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.15384615384615385}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.3846153846153846}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":6.058975476160836}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":6.00501002004008}"
+            },
+            {
+              "leaf": "c5810617262e9a06",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.2564102564102564}"
             },
             {
               "leaf": "c5810617262e9a06",
@@ -50,83 +128,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.7146464646464645}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.196969696969697}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Installation d'un système.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.4141414141414141}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5810617262e9a06",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Etude graphique des fonctions quadratiques.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -220,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -313,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6299f388c1ecfa05",
@@ -330,7 +333,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,14 +375,17 @@
     "direction": "horizontal",
     "width": 502.5
   },
-  "active": "92e0b1290f8b2eca",
+  "active": "c5810617262e9a06",
   "lastOpenFiles": [
+    "Fonctions quadratiques.md",
     "Etude graphique des fonctions quadratiques.md",
     "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
     "_math.md",
-    "Fonctions quadratiques.md",
+    "_physics.md",
+    "_computer science.md",
     "Fonctions linéaires.md",
     "_CAS.md",
     "_EE.md",
-    "Acceleration.md",
- 
+    "Acceleration.md"
+  ]
+}
