@@ -4,136 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "9e397a3b90210101",
+        "id": "c02f2537ac130031",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9e397a3b90210101",
+              "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "9e397a3b90210101",
+              "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Network-as-a-Service (NaaS).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.5378787878787876}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Software-as-a-Service (SaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Software-as-a-Service (SaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
+              "leaf": "c02f2537ac130031",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "9e397a3b90210101",
+              "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":30},\"to\":{\"line\":16,\"ch\":4}},\"scroll\":2.146464646464646}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.6792929292929293}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fusions d'entreprises.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.1666666666666665}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9e397a3b90210101",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fusions d'entreprises.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Attentes futures.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attentes futures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attentes futures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +193,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attentes futures.md"
+              }
             }
           },
           {
@@ -332,6 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Attentes futures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -362,7 +282,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.5438034715406724,
+                  "scale": 0.671686975387109,
                   "close": true
                 }
               }
@@ -374,17 +294,17 @@
     "direction": "horizontal",
     "width": 502.5
   },
-  "active": "9e397a3b90210101",
+  "active": "c02f2537ac130031",
   "lastOpenFiles": [
-    "Network-as-a-Service (NaaS).md",
-    "Solutions au changement.md",
-    "Software-as-a-Service (SaaS).md",
-    "Changements dans un environment.md",
+    "Déterminants hors-prix de la demande.md",
+    "Loi de la demande.md",
+    "Attentes futures.md",
+    "Evolution du prix des biens connexes.md",
+    "_economy.md",
+    "Demande.md",
     "_computer science.md",
-    "Problèmes de compatibilité.md",
-    "Système informatique.md",
-    "Les problèmes liés au changement.md",
-    "__dashboard.md",
-    "Fusions d'entreprises.md"
+    "Revenue.md",
+    "Gouts et préférences.md",
+    "assets/Loi de la demande/Loi de la demande.png"
   ]
 }

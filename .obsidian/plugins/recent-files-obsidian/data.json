@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Network-as-a-Service (NaaS)",
-      "path": "Network-as-a-Service (NaaS).md"
+      "basename": "Attentes futures",
+      "path": "Attentes futures.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Evolution du prix des biens connexes",
+      "path": "Evolution du prix des biens connexes.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Revenue",
+      "path": "Revenue.md"
+    },
+    {
+      "basename": "Gouts et préférences",
+      "path": "Gouts et préférences.md"
+    },
+    {
+      "basename": "Fonctionnement en parallèle",
+      "path": "Fonctionnement en parallèle.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
     },
     {
       "basename": "Solutions au changement",
       "path": "Solutions au changement.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
+      "basename": "Network-as-a-Service (NaaS)",
+      "path": "Network-as-a-Service (NaaS).md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
     },
     {
       "basename": "Software-as-a-Service (SaaS)",
@@ -85,20 +125,12 @@
       "path": "Acceleration.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Ecriture mathématique de la demande",
       "path": "Ecriture mathématique de la demande.md"
     },
     {
       "basename": "Environment du système",
       "path": "Environment du système.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     },
     {
       "basename": "Loi d'utilité marginale décroissante",
@@ -111,14 +143,6 @@
     {
       "basename": "Matériel informatique",
       "path": "Matériel informatique.md"
-    },
-    {
-      "basename": "Déterminants de demande",
-      "path": "Déterminants de demande.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
     },
     {
       "basename": "_english",
@@ -175,30 +199,6 @@
     {
       "basename": "Nature et comportement humain",
       "path": "Nature et comportement humain.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "assets/Loi d'utilité marginale décroissante/Loi d'utilité marginale décroissante.png"
-    },
-    {
-      "basename": "image-20220913200229039",
-      "path": "assets/_Images/image-20220913200229039.jpeg"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "assets/12 TOK Concepts/12 TOK Concepts.png"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
-    },
-    {
-      "basename": "math template",
-      "path": "template/math template.md"
     }
   ],
   "omittedPaths": [],

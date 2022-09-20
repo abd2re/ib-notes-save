@@ -15,4 +15,4 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 3. La [[Loi de la demande]]
 4. L'[[Ecriture mathématique de la demande]]
 5. Pourquoi la [[Loi de la demande|loi de la demande]] ?
-6. Mouvement le long de la courbe de demande  et déplacements de la demande ([[Déterminants de demande]])
+6. Mouvement le long de la courbe de demande  et déplacements de la demande ([[Déterminants hors-prix de la demande]])
