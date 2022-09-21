@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Dry-run testing",
+      "path": "Dry-run testing.md"
+    },
+    {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Debugging.md"
+    },
+    {
+      "basename": "User acceptance testing",
+      "path": "User acceptance testing.md"
+    },
+    {
+      "basename": "Unit testing",
+      "path": "Unit testing.md"
+    },
+    {
+      "basename": "Integration testing",
+      "path": "Integration testing.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
+    },
+    {
+      "basename": "Alpha testing",
+      "path": "Alpha testing.md"
+    },
+    {
+      "basename": "logiciels",
+      "path": "Test d'applications/logiciels.md"
+    },
+    {
+      "basename": "Fonctionnement en parallèle",
+      "path": "Fonctionnement en parallèle.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Conversion progressive",
+      "path": "Conversion progressive.md"
+    },
+    {
+      "basename": "Pilotage",
+      "path": "Pilotage.md"
+    },
+    {
+      "basename": "Big Bang",
+      "path": "Big Bang.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -31,10 +99,6 @@
     {
       "basename": "Données",
       "path": "Données.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
@@ -69,24 +133,8 @@
       "path": "Demande.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Fonctionnement en parallèle",
-      "path": "Fonctionnement en parallèle.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
-    },
-    {
       "basename": "Network-as-a-Service (NaaS)",
       "path": "Network-as-a-Service (NaaS).md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
     },
     {
       "basename": "Software-as-a-Service (SaaS)",
@@ -151,54 +199,6 @@
     {
       "basename": "Environment du système",
       "path": "Environment du système.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
-    },
-    {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Ressource humaine",
-      "path": "Ressource humaine.md"
-    },
-    {
-      "basename": "Logiciel informatique",
-      "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
-    },
-    {
-      "basename": "Effet de substitution",
-      "path": "Effet de substitution.md"
-    },
-    {
-      "basename": "Effet de revenu",
-      "path": "Effet de revenu.md"
-    },
-    {
-      "basename": "Nature et comportement humain",
-      "path": "Nature et comportement humain.md"
     }
   ],
   "omittedPaths": [],

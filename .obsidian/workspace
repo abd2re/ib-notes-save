@@ -12,52 +12,130 @@
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dry-run testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test d'applications.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Processus d'installation alternatifs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Processus d'installation alternatifs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctionnement en parallèle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctionnement en parallèle.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Processus d'installation alternatifs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "c02f2537ac130031",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.6060606060606061}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":4.1558441558441555}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_EE.md",
-            "mode": "source",
+            "file": "Dry-run testing.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -139,10 +217,14 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "Dry-run testing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "Dry-run testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,16 +261,24 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "Dry-run testing.md"
               }
             }
           },
           {
             "id": "f419277d11679306",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -197,6 +287,10 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -220,10 +314,14 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "Dry-run testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +352,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.671686975387109,
+                  "scale": 0.5522572867402372,
                   "close": true
                 }
               }
@@ -264,19 +362,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 464.5
   },
   "active": "c02f2537ac130031",
   "lastOpenFiles": [
-    "_TOK.md",
-    "__dashboard.md",
-    "12 TOK Concepts.md",
-    "_french B.md",
-    "_english.md",
-    "Problèmes de compatibilité.md",
-    "Données.md",
+    "Test d'applications.md",
+    "Dry-run testing.md",
     "Solutions au changement.md",
-    "Déterminants hors-prix de la demande.md",
-    "Revenue.md"
+    "Processus d'installation alternatifs.md",
+    "Network-as-a-Service (NaaS).md",
+    "Debugging.md",
+    "Integration testing.md",
+    "User acceptance testing.md",
+    "Unit testing.md",
+    "Beta testing.md"
   ]
 }
