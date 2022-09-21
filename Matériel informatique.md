@@ -7,4 +7,4 @@ Created: 2022-09-13
 *C'est quoi un matériel Informatique* ?
 ?
 Un ensemble d'éléments physique qui constitue une machine et ses pièces connexes (périphériques).
-<!--SR:!2022-09-21,5,230-->
+<!--SR:!2022-10-07,16,250-->

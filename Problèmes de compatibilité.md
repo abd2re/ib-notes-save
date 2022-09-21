@@ -11,3 +11,4 @@ Ces repercussions peuvent être ressenties au niveau local par les utilisateurs 
 Lors du processus de conception d'un nouveau système, les développeurs doivent tenir en compte de l'influence de ce changement.
 
 **L'incompabilité** peut être liée a 3 choses :: a l'humain, aux machines ou aux logiciels.
+<!--SR:!2022-09-24,3,250-->

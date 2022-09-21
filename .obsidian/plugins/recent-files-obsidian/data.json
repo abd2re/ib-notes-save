@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Problèmes de compatibilité",
       "path": "Problèmes de compatibilité.md"
     },
@@ -145,10 +153,6 @@
       "path": "Matériel informatique.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Serie arithmetique",
       "path": "Serie arithmetique.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "Logiciel informatique",
       "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "_TOK",
