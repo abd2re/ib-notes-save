@@ -12,8 +12,32 @@
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.6060606060606061}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":4.1558441558441555}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "c02f2537ac130031",
@@ -30,8 +54,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_EE.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -113,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_EE.md"
+              }
             }
           },
           {
@@ -190,6 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,15 +268,15 @@
   },
   "active": "c02f2537ac130031",
   "lastOpenFiles": [
+    "_TOK.md",
+    "__dashboard.md",
+    "12 TOK Concepts.md",
     "_french B.md",
     "_english.md",
     "Problèmes de compatibilité.md",
     "Données.md",
     "Solutions au changement.md",
     "Déterminants hors-prix de la demande.md",
-    "Revenue.md",
-    "Gouts et préférences.md",
-    "Evolution du prix des biens connexes.md",
-    "Attentes futures.md"
+    "Revenue.md"
   ]
 }
