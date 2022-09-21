@@ -7,42 +7,12 @@
         "id": "c02f2537ac130031",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -66,10 +36,6 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -78,10 +44,6 @@
           {
             "id": "7d27230a600cd0c1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -97,10 +59,6 @@
           {
             "id": "8014a558964b929f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -136,10 +94,6 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
@@ -156,10 +110,6 @@
           {
             "id": "7a652f273c476f67",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -171,10 +121,6 @@
           {
             "id": "9d3e7145212deffd",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -186,10 +132,6 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {}
@@ -198,10 +140,6 @@
           {
             "id": "f419277d11679306",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -210,10 +148,6 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -222,10 +156,6 @@
           {
             "id": "b82d70eaa67a3197",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -241,10 +171,6 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "localgraph",
               "state": {
@@ -290,7 +216,7 @@
     "direction": "horizontal",
     "width": 502.5
   },
-  "active": "c02f2537ac130031",
+  "active": "d1b6639e49a5eb49",
   "lastOpenFiles": [
     "Problèmes de compatibilité.md",
     "Données.md",
