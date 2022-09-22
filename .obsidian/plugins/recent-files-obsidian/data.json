@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dry-run testing",
-      "path": "Dry-run testing.md"
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Pilotage",
+      "path": "Pilotage.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
     },
     {
       "basename": "Test d'applications",
       "path": "Test d'applications.md"
     },
     {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
+      "basename": "Dry-run testing",
+      "path": "Dry-run testing.md"
     },
     {
       "basename": "Processus d'installation alternatifs",
@@ -33,10 +57,6 @@
       "path": "Integration testing.md"
     },
     {
-      "basename": "Beta testing",
-      "path": "Beta testing.md"
-    },
-    {
       "basename": "Alpha testing",
       "path": "Alpha testing.md"
     },
@@ -49,20 +69,8 @@
       "path": "Fonctionnement en parallèle.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Conversion progressive",
       "path": "Conversion progressive.md"
-    },
-    {
-      "basename": "Pilotage",
-      "path": "Pilotage.md"
     },
     {
       "basename": "Big Bang",
@@ -163,14 +171,6 @@
     {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_physics",
