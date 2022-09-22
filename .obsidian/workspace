@@ -12,6 +12,18 @@
             {
               "leaf": "c02f2537ac130031",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -116,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Processus d'installation alternatifs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctionnement en parallèle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Etude graphique des fonctions quadratiques.md",
+            "file": "_EE.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -366,12 +366,12 @@
   },
   "active": "c02f2537ac130031",
   "lastOpenFiles": [
-    "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
+    "_computer science.md",
     "Etude graphique des fonctions quadratiques.md",
+    "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
     "_math.md",
     "Solutions au changement.md",
     "Changements dans un environment.md",
-    "_computer science.md",
     "Pilotage.md",
     "Beta testing.md",
     "Test d'applications.md",

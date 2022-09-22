@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Etude graphique des fonctions quadratiques",
       "path": "Etude graphique des fonctions quadratiques.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Changements dans un environment",
       "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Pilotage",
@@ -75,10 +79,6 @@
     {
       "basename": "Big Bang",
       "path": "Big Bang.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "_TOK",
