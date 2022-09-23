@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Offre",
+      "path": "Offre.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "Changements saisonniers",
+      "path": "Changements saisonniers.md"
+    },
+    {
+      "basename": "Nombre de consommateurs",
+      "path": "Nombre de consommateurs.md"
+    },
+    {
+      "basename": "Gouts et préférences",
+      "path": "Gouts et préférences.md"
+    },
+    {
+      "basename": "Evolution du prix des biens connexes",
+      "path": "Evolution du prix des biens connexes.md"
+    },
+    {
+      "basename": "Attentes futures",
+      "path": "Attentes futures.md"
+    },
+    {
+      "basename": "Pilotage",
+      "path": "Pilotage.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Mémoires de la classe",
+      "path": "Mémoires de la classe.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -9,12 +61,16 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
-    },
-    {
       "basename": "_math",
       "path": "_math.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
     },
     {
       "basename": "Solutions au changement",
@@ -23,10 +79,6 @@
     {
       "basename": "Changements dans un environment",
       "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Pilotage",
-      "path": "Pilotage.md"
     },
     {
       "basename": "Beta testing",
@@ -85,16 +137,8 @@
       "path": "_TOK.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "12 TOK Concepts",
       "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "_english",
@@ -109,36 +153,12 @@
       "path": "Données.md"
     },
     {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
       "basename": "Revenue",
       "path": "Revenue.md"
     },
     {
-      "basename": "Gouts et préférences",
-      "path": "Gouts et préférences.md"
-    },
-    {
-      "basename": "Evolution du prix des biens connexes",
-      "path": "Evolution du prix des biens connexes.md"
-    },
-    {
-      "basename": "Attentes futures",
-      "path": "Attentes futures.md"
-    },
-    {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
     },
     {
       "basename": "Network-as-a-Service (NaaS)",
@@ -179,26 +199,6 @@
     {
       "basename": "Etude graphique des fonctions quadratiques",
       "path": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
-    },
-    {
-      "basename": "Fonctions linéaires",
-      "path": "Fonctions linéaires.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
     }
   ],
   "omittedPaths": [],

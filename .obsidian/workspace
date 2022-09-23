@@ -12,6 +12,90 @@
             {
               "leaf": "c02f2537ac130031",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":3.042929292929293}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pilotage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nombre de consommateurs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.5440806045340048}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":5.8431372549019605}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mémoires de la classe.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c02f2537ac130031",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -24,121 +108,26 @@
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etude graphique des fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Beta testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "c02f2537ac130031",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test d'applications.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dry-run testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test d'applications.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Processus d'installation alternatifs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c02f2537ac130031",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_EE.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -224,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +229,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,9 +254,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -304,7 +289,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "6299f388c1ecfa05",
@@ -321,7 +307,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -352,7 +337,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.5522572867402372,
+                  "scale": 0.4859849225159365,
                   "close": true
                 }
               }
@@ -366,15 +351,15 @@
   },
   "active": "c02f2537ac130031",
   "lastOpenFiles": [
-    "_computer science.md",
-    "Etude graphique des fonctions quadratiques.md",
-    "assets/_Images/Etude graphique des fonctions quadratiques.jpg",
-    "_math.md",
-    "Solutions au changement.md",
-    "Changements dans un environment.md",
-    "Pilotage.md",
-    "Beta testing.md",
-    "Test d'applications.md",
-    "Dry-run testing.md"
+    "_economy.md",
+    "Déterminants hors-prix de la demande.md",
+    "Offre.md",
+    "Demande.md",
+    "Changements saisonniers.md",
+    "Revenue.md",
+    "Attentes futures.md",
+    "Evolution du prix des biens connexes.md",
+    "Nombre de consommateurs.md",
+    "Gouts et préférences.md"
   ]
 }
