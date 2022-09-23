@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Mémoires de la classe",
+      "path": "Mémoires de la classe.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
+    },
+    {
+      "basename": "Conversion progressive",
+      "path": "Conversion progressive.md"
+    },
+    {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Pente",
+      "path": "Pente.md"
     },
     {
       "basename": "Offre",
       "path": "Offre.md"
     },
     {
-      "basename": "Demande",
-      "path": "Demande.md"
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Ecriture mathématique de l'offre",
+      "path": "Ecriture mathématique de l'offre.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
       "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Loi de l'offre",
+      "path": "Loi de l'offre.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
     },
     {
       "basename": "Changements saisonniers",
@@ -41,26 +109,6 @@
       "path": "Pilotage.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Mémoires de la classe",
-      "path": "Mémoires de la classe.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "_math",
       "path": "_math.md"
     },
@@ -73,28 +121,12 @@
       "path": "Etude graphique des fonctions quadratiques.md"
     },
     {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
       "basename": "Beta testing",
       "path": "Beta testing.md"
     },
     {
-      "basename": "Test d'applications",
-      "path": "Test d'applications.md"
-    },
-    {
       "basename": "Dry-run testing",
       "path": "Dry-run testing.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
     },
     {
       "basename": "Debugging",
@@ -117,16 +149,8 @@
       "path": "Alpha testing.md"
     },
     {
-      "basename": "logiciels",
-      "path": "Test d'applications/logiciels.md"
-    },
-    {
       "basename": "Fonctionnement en parallèle",
       "path": "Fonctionnement en parallèle.md"
-    },
-    {
-      "basename": "Conversion progressive",
-      "path": "Conversion progressive.md"
     },
     {
       "basename": "Big Bang",
@@ -145,20 +169,12 @@
       "path": "_english.md"
     },
     {
-      "basename": "Problèmes de compatibilité",
-      "path": "Problèmes de compatibilité.md"
-    },
-    {
       "basename": "Données",
       "path": "Données.md"
     },
     {
       "basename": "Revenue",
       "path": "Revenue.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     },
     {
       "basename": "Network-as-a-Service (NaaS)",
@@ -183,22 +199,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
-    },
-    {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "assets/_Images/Etude graphique des fonctions quadratiques.jpg"
     }
   ],
   "omittedPaths": [],

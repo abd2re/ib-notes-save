@@ -19,3 +19,5 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 
 ## Chapitre 2: L'approvisionnement (L'offre)
 1. [[Offre|Définition]]
+2. La [[Loi de l'offre]]
+3. L'[[Ecriture mathématique de l'offre]]
