@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "Revenue",
+      "path": "Revenue.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Mémoires de la classe",
       "path": "Mémoires de la classe.md"
     },
@@ -37,10 +57,6 @@
       "path": "Problèmes de compatibilité.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "Ecriture mathématique de l'offre",
       "path": "Ecriture mathématique de l'offre.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
     },
     {
       "basename": "Loi d'utilité marginale décroissante",
@@ -173,10 +185,6 @@
       "path": "Données.md"
     },
     {
-      "basename": "Revenue",
-      "path": "Revenue.md"
-    },
-    {
       "basename": "Network-as-a-Service (NaaS)",
       "path": "Network-as-a-Service (NaaS).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Fusions d'entreprises",
       "path": "Fusions d'entreprises.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
     }
   ],
   "omittedPaths": [],

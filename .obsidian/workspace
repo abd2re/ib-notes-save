@@ -7,13 +7,37 @@
         "id": "11f7b92590d61268",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.0256410256410255}"
+            },
             {
               "leaf": "11f7b92590d61268",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.7299270072992701}"
             },
             {
               "leaf": "11f7b92590d61268",
@@ -108,8 +132,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Système informatique.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -203,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système informatique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +283,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système informatique.md"
+              }
             }
           },
           {
@@ -309,6 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Système informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,15 +387,15 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
+    "Logiciel informatique.md",
+    "Système informatique.md",
+    "Matériel informatique.md",
+    "Déterminants hors-prix de la demande.md",
+    "Revenue.md",
+    "_economy.md",
     "Mémoires de la classe.md",
     "_EE.md",
     "_computer science.md",
-    "Changements dans un environment.md",
-    "Solutions au changement.md",
-    "Processus d'installation alternatifs.md",
-    "Conversion progressive.md",
-    "Test d'applications.md",
-    "Fonctionnement en parallèle.md",
-    "Problèmes de compatibilité.md"
+    "Changements dans un environment.md"
   ]
 }
