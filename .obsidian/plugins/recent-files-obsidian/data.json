@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
       "basename": "Effet de substitution",
       "path": "Effet de substitution.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Données",
-      "path": "Données.md"
     }
   ],
   "omittedPaths": [],

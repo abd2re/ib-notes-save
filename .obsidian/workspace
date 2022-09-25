@@ -7,8 +7,20 @@
         "id": "11f7b92590d61268",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
             {
               "leaf": "11f7b92590d61268",
               "group": null,
@@ -116,29 +128,12 @@
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.7299270072992701}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Effet de substitution.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -232,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet de substitution.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet de substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Effet de substitution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,7 +333,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Effet de substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,6 +377,8 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
+    "Système anciens (Legacy system).md",
+    "Effet de substitution.md",
     "Changements saisonniers.md",
     "Effet de revenu.md",
     "Nature et comportement humain.md",
@@ -394,8 +386,6 @@
     "Loi d'utilité marginale décroissante.md",
     "Déterminants hors-prix de la demande.md",
     "Loi de la demande.md",
-    "Marché.md",
-    "Ceteris Paribus.md",
-    "Loi de l'offre.md"
+    "Marché.md"
   ]
 }
