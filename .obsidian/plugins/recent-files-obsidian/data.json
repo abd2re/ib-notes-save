@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
+    },
+    {
       "basename": "Problèmes de compatibilité",
       "path": "Problèmes de compatibilité.md"
     },
@@ -149,16 +169,8 @@
       "path": "Pilotage.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
     },
     {
       "basename": "Beta testing",
@@ -187,18 +199,6 @@
     {
       "basename": "Alpha testing",
       "path": "Alpha testing.md"
-    },
-    {
-      "basename": "Fonctionnement en parallèle",
-      "path": "Fonctionnement en parallèle.md"
-    },
-    {
-      "basename": "Big Bang",
-      "path": "Big Bang.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     }
   ],
   "omittedPaths": [],

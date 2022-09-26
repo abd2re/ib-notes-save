@@ -12,6 +12,18 @@
             {
               "leaf": "11f7b92590d61268",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Position relative parabole et droite.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -116,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":9.176553672316384}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problèmes de compatibilité.md",
+            "file": "Position relative parabole et droite.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problèmes de compatibilité.md",
+                "file": "Position relative parabole et droite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problèmes de compatibilité.md",
+                "file": "Position relative parabole et droite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problèmes de compatibilité.md"
+                "file": "Position relative parabole et droite.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Problèmes de compatibilité.md",
+                "file": "Position relative parabole et droite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,15 +387,15 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
+    "_math.md",
+    "Fonctions quadratiques.md",
+    "Position relative parabole et droite.md",
+    "Formules de Viète.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "Problèmes de compatibilité.md",
     "Les problèmes liés au changement.md",
     "Changements dans un environment.md",
     "Système informatique.md",
-    "Solutions au changement.md",
-    "Test d'applications.md",
-    "Processus d'installation alternatifs.md",
-    "Fonctionnement en parallèle.md",
-    "Problèmes de compatibilité.md",
-    "Environment du système.md",
-    "Système anciens (Legacy system).md"
+    "Solutions au changement.md"
   ]
 }
