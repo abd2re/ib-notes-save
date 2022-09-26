@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Position relative parabole et droite",
       "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
+      "basename": "Alpha testing",
+      "path": "Alpha testing.md"
+    },
+    {
+      "basename": "Unit testing",
+      "path": "Unit testing.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Ressource humaine",
+      "path": "Ressource humaine.md"
+    },
+    {
+      "basename": "Logiciel informatique",
+      "path": "Logiciel informatique.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
     },
     {
       "basename": "_math",
@@ -21,36 +73,12 @@
       "path": "Etude graphique des fonctions quadratiques.md"
     },
     {
-      "basename": "Problèmes de compatibilité",
-      "path": "Problèmes de compatibilité.md"
-    },
-    {
       "basename": "Les problèmes liés au changement",
       "path": "Les problèmes liés au changement.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "Test d'applications",
-      "path": "Test d'applications.md"
-    },
-    {
       "basename": "Processus d'installation alternatifs",
       "path": "Processus d'installation alternatifs.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
     },
     {
       "basename": "Système anciens (Legacy system)",
@@ -105,10 +133,6 @@
       "path": "Offre.md"
     },
     {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
-    },
-    {
       "basename": "Revenue",
       "path": "Revenue.md"
     },
@@ -123,10 +147,6 @@
     {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Conversion progressive",
@@ -179,26 +199,6 @@
     {
       "basename": "Dry-run testing",
       "path": "Dry-run testing.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Debugging.md"
-    },
-    {
-      "basename": "User acceptance testing",
-      "path": "User acceptance testing.md"
-    },
-    {
-      "basename": "Unit testing",
-      "path": "Unit testing.md"
-    },
-    {
-      "basename": "Integration testing",
-      "path": "Integration testing.md"
-    },
-    {
-      "basename": "Alpha testing",
-      "path": "Alpha testing.md"
     }
   ],
   "omittedPaths": [],
