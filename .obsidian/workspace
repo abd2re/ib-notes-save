@@ -7,8 +7,68 @@
         "id": "11f7b92590d61268",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pente.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "11f7b92590d61268",
               "group": null,
@@ -68,73 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unit testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alpha testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alpha testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unit testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressource humaine.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Matériel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressource humaine.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logiciel informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test d'applications.md",
+            "file": "_math.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test d'applications.md",
+                "file": "_math.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test d'applications.md",
+                "file": "_math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test d'applications.md"
+                "file": "_math.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test d'applications.md",
+                "file": "_math.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,17 +385,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "9d8029b03e20c73d",
+  "active": "11f7b92590d61268",
   "lastOpenFiles": [
-    "Dry-run testing.md",
-    "Test d'applications.md",
+    "Pente.md",
     "Solutions au changement.md",
+    "Software-as-a-Service (SaaS).md",
     "Changements dans un environment.md",
-    "_computer science.md",
-    "Environment du système.md",
-    "Position relative parabole et droite.md",
     "Problèmes de compatibilité.md",
-    "Alpha testing.md",
-    "Unit testing.md"
+    "Les problèmes liés au changement.md",
+    "Système informatique.md",
+    "Fusions d'entreprises.md",
+    "Système anciens (Legacy system).md",
+    "_computer science.md"
   ]
 }
