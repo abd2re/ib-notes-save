@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
       "basename": "Système anciens (Legacy system)",
       "path": "Système anciens (Legacy system).md"
     },
@@ -53,10 +85,6 @@
       "path": "Offre.md"
     },
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
       "basename": "Matériel informatique",
       "path": "Matériel informatique.md"
     },
@@ -81,28 +109,8 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
-    },
-    {
       "basename": "Conversion progressive",
       "path": "Conversion progressive.md"
-    },
-    {
-      "basename": "Test d'applications",
-      "path": "Test d'applications.md"
-    },
-    {
-      "basename": "Problèmes de compatibilité",
-      "path": "Problèmes de compatibilité.md"
     },
     {
       "basename": "__dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     }
   ],
   "omittedPaths": [],

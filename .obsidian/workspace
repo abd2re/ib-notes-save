@@ -7,13 +7,31 @@
         "id": "11f7b92590d61268",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "11f7b92590d61268",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "11f7b92590d61268",
@@ -110,30 +128,17 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":9.176553672316384}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":1.0256410256410255}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Problèmes de compatibilité.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +283,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Problèmes de compatibilité.md"
+              }
             }
           },
           {
@@ -333,6 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Problèmes de compatibilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -363,7 +373,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.6813425499443865,
+                  "scale": 0.34664112043508627,
                   "close": true
                 }
               }
@@ -377,15 +387,15 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
-    "Système anciens (Legacy system).md",
-    "Effet de substitution.md",
-    "Changements saisonniers.md",
-    "Effet de revenu.md",
-    "Nature et comportement humain.md",
-    "Pente.md",
-    "Loi d'utilité marginale décroissante.md",
-    "Déterminants hors-prix de la demande.md",
-    "Loi de la demande.md",
-    "Marché.md"
+    "Les problèmes liés au changement.md",
+    "Changements dans un environment.md",
+    "Système informatique.md",
+    "Solutions au changement.md",
+    "Test d'applications.md",
+    "Processus d'installation alternatifs.md",
+    "Fonctionnement en parallèle.md",
+    "Problèmes de compatibilité.md",
+    "Environment du système.md",
+    "Système anciens (Legacy system).md"
   ]
 }

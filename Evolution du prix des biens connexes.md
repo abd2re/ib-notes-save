@@ -9,5 +9,5 @@ Les 3 relations possibles des biens connexes sont:
 - Peuvent se substituer (Biens substituables)
 - Peuvent se compléter (Biens complémentaires)
 - Ne peuvent pas être liés (Biens indépendants)
-<!--SR:!2022-09-25,4,270-->
+<!--SR:!2022-10-10,15,290-->
 

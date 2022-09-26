@@ -15,4 +15,4 @@ Les différents types de tests sont:
 5. [[Integration testing]]
 6. [[User acceptance testing]]
 7. [[Debugging]]
-<!--SR:!2022-09-25,3,250-->
+<!--SR:!2022-10-03,8,250-->
