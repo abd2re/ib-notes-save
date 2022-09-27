@@ -12,8 +12,8 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation en ligne.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Manuels imprimés.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "14ad37a1e299ad5c",
@@ -116,20 +116,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation en ligne.md",
-            "mode": "source",
+            "file": "Manuels imprimés.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -226,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation en ligne.md",
+                "file": "Manuels imprimés.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation en ligne.md",
+                "file": "Manuels imprimés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation en ligne.md"
+                "file": "Manuels imprimés.md"
               }
             }
           },
@@ -336,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Documentation en ligne.md",
+                "file": "Manuels imprimés.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -382,14 +376,14 @@
   "active": "14ad37a1e299ad5c",
   "lastOpenFiles": [
     "Documentation de l'Utilisateur final.md",
-    "Fichiers d'aide.md",
     "Documentation en ligne.md",
+    "Installation d'un système.md",
+    "Fichiers d'aide.md",
     "Les méthodes de documentation.md",
     "Documentation Technique.md",
     "Documentation Architecture-Conception.md",
     "Exigences-Prérequis.md",
     "Documentation Marketing.md",
-    "Exigence/Exigences-Prérequis.md",
-    "_computer science.md"
+    "Exigence/Exigences-Prérequis.md"
   ]
 }

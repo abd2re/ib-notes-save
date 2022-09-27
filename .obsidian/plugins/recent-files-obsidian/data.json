@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Documentation en ligne",
-      "path": "Documentation en ligne.md"
+      "basename": "Manuels imprimés",
+      "path": "Manuels imprimés.md"
     },
     {
       "basename": "Documentation de l'Utilisateur final",
       "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Documentation en ligne",
+      "path": "Documentation en ligne.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
     },
     {
       "basename": "Fichiers d'aide",
@@ -55,10 +63,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
     },
     {
       "basename": "Changements dans un environment",
@@ -195,10 +199,6 @@
     {
       "basename": "Déterminants hors-prix de la demande",
       "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     }
   ],
   "omittedPaths": [],
