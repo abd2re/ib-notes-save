@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Fichiers d'aide",
-      "path": "Fichiers d'aide.md"
+      "basename": "Documentation en ligne",
+      "path": "Documentation en ligne.md"
     },
     {
       "basename": "Documentation de l'Utilisateur final",
       "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Fichiers d'aide",
+      "path": "Fichiers d'aide.md"
     },
     {
       "basename": "Les méthodes de documentation",
@@ -195,10 +199,6 @@
     {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
     }
   ],
   "omittedPaths": [],
