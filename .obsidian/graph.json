@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
   "showTags": false,
   "showAttachments": false,
@@ -7,6 +7,13 @@
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "#tbd",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
     {
       "query": "tag:#MOC",
       "color": {
@@ -109,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.14435399866959162,
+  "scale": 0.06088539436306129,
   "close": false
 }

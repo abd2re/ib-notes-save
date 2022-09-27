@@ -4,136 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "14ad37a1e299ad5c",
+        "id": "41ee3816ee74277d",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réglementations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Comparaison de différentes méthodes de formation des utilisateurs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation de l'Utilisateur final.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation Technique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":17},\"to\":{\"line\":3,\"ch\":17}}}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":14}}}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirectes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":3.7878787878787876}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.743893928820656}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Acceleration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.727272727272727}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "14ad37a1e299ad5c",
+              "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"AB testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test d'applications.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Réglementations.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -227,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Réglementations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Réglementations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +211,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Réglementations.md"
+              }
             }
           },
           {
@@ -333,6 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Réglementations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,17 +313,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "14ad37a1e299ad5c",
+  "active": "c43566d96071142a",
   "lastOpenFiles": [
-    "_EE.md",
-    "Formation sur site.md",
-    "Comparaison de différentes méthodes de formation des utilisateurs.md",
-    "Autoformation.md",
-    "Documentation de l'Utilisateur final.md",
-    "Documentation en ligne.md",
-    "Les méthodes de documentation.md",
-    "Fichiers d'aide.md",
-    "Manuels imprimés.md",
-    "Installation d'un système.md"
+    "Conception d'un système.md",
+    "Réglementations.md",
+    "Interventions gouvernementales.md",
+    "Subventions.md",
+    "Déterminants hors-prix de l'offre.md",
+    "Impôts indirectes.md",
+    "Produits connexes.md",
+    "Nombre d'entreprises.md",
+    "Attentes futures (2).md",
+    "Coûts de production.md"
   ]
 }
