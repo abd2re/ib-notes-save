@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Autoformation",
-      "path": "Autoformation.md"
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Formation sur site",
+      "path": "Formation sur site.md"
     },
     {
       "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
       "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+    },
+    {
+      "basename": "Autoformation",
+      "path": "Autoformation.md"
     },
     {
       "basename": "Documentation de l'Utilisateur final",
@@ -79,10 +87,6 @@
     {
       "basename": "Solutions au changement",
       "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "AB testing",
@@ -195,10 +199,6 @@
     {
       "basename": "Effet de revenu",
       "path": "Effet de revenu.md"
-    },
-    {
-      "basename": "Nature et comportement humain",
-      "path": "Nature et comportement humain.md"
     }
   ],
   "omittedPaths": [],

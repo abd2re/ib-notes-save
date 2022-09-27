@@ -12,7 +12,19 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Autoformation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -116,23 +128,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Solutions au changement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "14ad37a1e299ad5c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Autoformation.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -226,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autoformation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autoformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,9 +276,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Autoformation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -336,7 +333,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Autoformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,6 +377,8 @@
   },
   "active": "14ad37a1e299ad5c",
   "lastOpenFiles": [
+    "_EE.md",
+    "Formation sur site.md",
     "Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Autoformation.md",
     "Documentation de l'Utilisateur final.md",
@@ -388,8 +386,6 @@
     "Les méthodes de documentation.md",
     "Fichiers d'aide.md",
     "Manuels imprimés.md",
-    "Installation d'un système.md",
-    "Documentation Technique.md",
-    "Documentation Architecture-Conception.md"
+    "Installation d'un système.md"
   ]
 }
