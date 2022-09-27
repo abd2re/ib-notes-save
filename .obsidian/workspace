@@ -12,6 +12,12 @@
             {
               "leaf": "11f7b92590d61268",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Network-as-a-Service (NaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Position relative parabole et droite.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network-as-a-Service (NaaS).md",
+            "file": "_EE.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network-as-a-Service (NaaS).md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network-as-a-Service (NaaS).md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network-as-a-Service (NaaS).md"
+                "file": "_EE.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network-as-a-Service (NaaS).md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,6 +387,7 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
+    "Network-as-a-Service (NaaS).md",
     "Masse.md",
     "Force.md",
     "Fonctions quadratiques.md",
@@ -395,7 +396,6 @@
     "Position relative parabole et droite.md",
     "Pente.md",
     "Solutions au changement.md",
-    "Software-as-a-Service (SaaS).md",
-    "Changements dans un environment.md"
+    "Software-as-a-Service (SaaS).md"
   ]
 }

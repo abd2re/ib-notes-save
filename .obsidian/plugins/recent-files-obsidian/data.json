@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Network-as-a-Service (NaaS)",
       "path": "Network-as-a-Service (NaaS).md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "Test d'applications",
