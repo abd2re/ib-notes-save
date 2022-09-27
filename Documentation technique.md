@@ -1,7 +1,7 @@
 ---
 tags: [computer_science] 
 ---
-# Documentation technique
+# Documentation Technique
 Created: 2022-09-27
 
 ?

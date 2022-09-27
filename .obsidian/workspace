@@ -12,6 +12,30 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fichiers d'aide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation de l'Utilisateur final.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation Technique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":17},\"to\":{\"line\":3,\"ch\":17}}}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -104,8 +128,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Les méthodes de documentation.md",
-            "mode": "preview",
+            "file": "Fichiers d'aide.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -202,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation Marketing.md",
+                "file": "Fichiers d'aide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation Marketing.md",
+                "file": "Fichiers d'aide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation Marketing.md"
+                "file": "Fichiers d'aide.md"
               }
             }
           },
@@ -312,7 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Documentation Marketing.md",
+                "file": "Fichiers d'aide.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,14 +379,14 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "2eada90f6d52a5c9",
+  "active": "14ad37a1e299ad5c",
   "lastOpenFiles": [
-    "Les méthodes de documentation.md",
     "Documentation de l'Utilisateur final.md",
-    "Documentation Marketing.md",
+    "Les méthodes de documentation.md",
+    "Documentation Technique.md",
     "Documentation Architecture-Conception.md",
-    "Documentation technique.md",
     "Exigences-Prérequis.md",
+    "Documentation Marketing.md",
     "Exigence/Exigences-Prérequis.md",
     "_computer science.md",
     "Matériel informatique.md",
