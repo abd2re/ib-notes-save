@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Network-as-a-Service (NaaS)",
+      "path": "Network-as-a-Service (NaaS).md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Nombre de consommateurs",
       "path": "Nombre de consommateurs.md"
-    },
-    {
-      "basename": "Gouts et préférences",
-      "path": "Gouts et préférences.md"
-    },
-    {
-      "basename": "Evolution du prix des biens connexes",
-      "path": "Evolution du prix des biens connexes.md"
-    },
-    {
-      "basename": "Attentes futures",
-      "path": "Attentes futures.md"
     }
   ],
   "omittedPaths": [],

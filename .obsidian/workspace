@@ -12,6 +12,24 @@
             {
               "leaf": "11f7b92590d61268",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Network-as-a-Service (NaaS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Masse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "11f7b92590d61268",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -110,31 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Position relative parabole et droite.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Changements dans un environment.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "11f7b92590d61268",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fonctions quadratiques.md",
+            "file": "Network-as-a-Service (NaaS).md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\Delta",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Network-as-a-Service (NaaS).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Network-as-a-Service (NaaS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "Network-as-a-Service (NaaS).md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Network-as-a-Service (NaaS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,15 +387,15 @@
   },
   "active": "11f7b92590d61268",
   "lastOpenFiles": [
+    "Masse.md",
+    "Force.md",
+    "Fonctions quadratiques.md",
     "_math.md",
     "Fonctions linéaires.md",
-    "Fonctions quadratiques.md",
     "Position relative parabole et droite.md",
     "Pente.md",
     "Solutions au changement.md",
     "Software-as-a-Service (SaaS).md",
-    "Changements dans un environment.md",
-    "Problèmes de compatibilité.md",
-    "Les problèmes liés au changement.md"
+    "Changements dans un environment.md"
   ]
 }

@@ -12,4 +12,4 @@ $Q_o$ = Quantité offerte
 $P$ = Prix
 $a$ = [[Pente]] (exprime [[Loi de l'offre]]) (positif)
 $b$ = Constante
-<!--SR:!2022-09-27,4,270-->
+<!--SR:!2022-10-08,11,270-->

@@ -50,5 +50,5 @@ $$S_{n}=\frac{n}{2}(u_1+u_n)$$
 If we have a sequence of squared numbers, the sum of the series will be $S_{n}=$
 ?
 $$S_{n}= \frac{n(n+1)(2n+1)}{6}$$
-<!--SR:!2022-09-27,8,270-->
+<!--SR:!2022-10-01,4,250-->
 
