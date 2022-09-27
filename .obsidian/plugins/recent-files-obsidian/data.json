@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Documentation Architecture-Conception",
+      "path": "Documentation Architecture-Conception.md"
+    },
+    {
+      "basename": "Documentation technique",
+      "path": "Documentation technique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Logiciel informatique",
+      "path": "Logiciel informatique.md"
+    },
+    {
+      "basename": "Conception d'un système",
+      "path": "Conception d'un système.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
+    },
+    {
+      "basename": "AB testing",
+      "path": "AB testing.md"
+    },
+    {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Debugging.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
     },
     {
       "basename": "Network-as-a-Service (NaaS)",
@@ -33,16 +101,8 @@
       "path": "Pente.md"
     },
     {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
       "basename": "Software-as-a-Service (SaaS)",
       "path": "Software-as-a-Service (SaaS).md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
     },
     {
       "basename": "Problèmes de compatibilité",
@@ -57,20 +117,12 @@
       "path": "Les problèmes liés au changement.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
     },
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Test d'applications",
-      "path": "Test d'applications.md"
     },
     {
       "basename": "Position relative parabole et droite",
@@ -89,24 +141,12 @@
       "path": "Données.md"
     },
     {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
-    },
-    {
       "basename": "Ressource humaine",
       "path": "Ressource humaine.md"
     },
     {
-      "basename": "Logiciel informatique",
-      "path": "Logiciel informatique.md"
-    },
-    {
       "basename": "Environment du système",
       "path": "Environment du système.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
     },
     {
       "basename": "Formules de Viète",
@@ -115,10 +155,6 @@
     {
       "basename": "Etude graphique des fonctions quadratiques",
       "path": "Etude graphique des fonctions quadratiques.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
     },
     {
       "basename": "Effet de substitution",
@@ -163,42 +199,6 @@
     {
       "basename": "Offre",
       "path": "Offre.md"
-    },
-    {
-      "basename": "Revenue",
-      "path": "Revenue.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Mémoires de la classe",
-      "path": "Mémoires de la classe.md"
-    },
-    {
-      "basename": "Conversion progressive",
-      "path": "Conversion progressive.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Ecriture mathématique de l'offre",
-      "path": "Ecriture mathématique de l'offre.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Nombre de consommateurs",
-      "path": "Nombre de consommateurs.md"
     }
   ],
   "omittedPaths": [],
