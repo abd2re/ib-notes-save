@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
       "basename": "_math",
       "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions linéaires",
+      "path": "Fonctions linéaires.md"
     },
     {
       "basename": "Pente",
@@ -87,10 +95,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
     },
     {
       "basename": "Formules de Viète",
@@ -195,10 +199,6 @@
     {
       "basename": "Attentes futures",
       "path": "Attentes futures.md"
-    },
-    {
-      "basename": "Pilotage",
-      "path": "Pilotage.md"
     }
   ],
   "omittedPaths": [],
