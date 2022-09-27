@@ -12,8 +12,8 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Autoformation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Autoformation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "14ad37a1e299ad5c",
@@ -129,7 +129,7 @@
           "type": "markdown",
           "state": {
             "file": "Autoformation.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
