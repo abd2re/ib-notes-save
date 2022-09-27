@@ -12,7 +12,13 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Manuels imprimés.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Autoformation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":94},\"to\":{\"line\":7,\"ch\":94}}}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Comparaison de différentes méthodes de formation des utilisateurs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -122,8 +128,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Manuels imprimés.md",
-            "mode": "preview",
+            "file": "Autoformation.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -220,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manuels imprimés.md",
+                "file": "Autoformation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manuels imprimés.md",
+                "file": "Autoformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manuels imprimés.md"
+                "file": "Autoformation.md"
               }
             }
           },
@@ -330,7 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Manuels imprimés.md",
+                "file": "Autoformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,15 +381,15 @@
   },
   "active": "14ad37a1e299ad5c",
   "lastOpenFiles": [
+    "Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Documentation de l'Utilisateur final.md",
     "Documentation en ligne.md",
-    "Installation d'un système.md",
-    "Fichiers d'aide.md",
     "Les méthodes de documentation.md",
+    "Fichiers d'aide.md",
+    "Manuels imprimés.md",
+    "Installation d'un système.md",
     "Documentation Technique.md",
     "Documentation Architecture-Conception.md",
-    "Exigences-Prérequis.md",
-    "Documentation Marketing.md",
-    "Exigence/Exigences-Prérequis.md"
+    "Exigences-Prérequis.md"
   ]
 }

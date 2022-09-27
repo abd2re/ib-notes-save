@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Manuels imprimés",
-      "path": "Manuels imprimés.md"
+      "basename": "Autoformation",
+      "path": "Autoformation.md"
+    },
+    {
+      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
+      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
     },
     {
       "basename": "Documentation de l'Utilisateur final",
       "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Fichiers d'aide",
+      "path": "Fichiers d'aide.md"
+    },
+    {
+      "basename": "Manuels imprimés",
+      "path": "Manuels imprimés.md"
     },
     {
       "basename": "Documentation en ligne",
@@ -15,14 +31,6 @@
     {
       "basename": "Installation d'un système",
       "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Fichiers d'aide",
-      "path": "Fichiers d'aide.md"
-    },
-    {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
     },
     {
       "basename": "Documentation Technique",
@@ -191,14 +199,6 @@
     {
       "basename": "Nature et comportement humain",
       "path": "Nature et comportement humain.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
     }
   ],
   "omittedPaths": [],

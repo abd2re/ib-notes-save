@@ -1,0 +1,7 @@
+---
+tags: [computer_science] 
+---
+# Comparaison de différentes méthodes de formation des utilisateurs
+Created: 2022-09-27
+
+1. [[Autoformation]]
