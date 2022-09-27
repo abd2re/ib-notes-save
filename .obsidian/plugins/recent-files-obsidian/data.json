@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
-    },
-    {
       "basename": "Les méthodes de documentation",
       "path": "Les méthodes de documentation.md"
     },
     {
+      "basename": "Documentation Marketing",
+      "path": "Documentation Marketing.md"
+    },
+    {
       "basename": "Documentation Architecture-Conception",
       "path": "Documentation Architecture-Conception.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
     },
     {
       "basename": "Documentation technique",
@@ -195,10 +199,6 @@
     {
       "basename": "Loi de l'offre",
       "path": "Loi de l'offre.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
     }
   ],
   "omittedPaths": [],

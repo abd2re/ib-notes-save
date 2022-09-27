@@ -17,4 +17,4 @@ La documentation utilisateur aide les utilisateurs de systèmes informatiques, q
 - [[Documentation Architecture-Conception]]
 - [[Documentation technique]]
 - [[Documentation de l'Utilisateur final]]
-- Marketing
+- [[Documentation Marketing]]

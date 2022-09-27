@@ -12,7 +12,13 @@
             {
               "leaf": "14ad37a1e299ad5c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation de l'Utilisateur final.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "14ad37a1e299ad5c",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
@@ -98,8 +104,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation de l'Utilisateur final.md",
-            "mode": "source",
+            "file": "Les méthodes de documentation.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -196,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation de l'Utilisateur final.md",
+                "file": "Documentation Marketing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation de l'Utilisateur final.md",
+                "file": "Documentation Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation de l'Utilisateur final.md"
+                "file": "Documentation Marketing.md"
               }
             }
           },
@@ -306,7 +312,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Documentation de l'Utilisateur final.md",
+                "file": "Documentation Marketing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,7 +343,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.4859849225159372,
+                  "scale": 0.45050811767578186,
                   "close": true
                 }
               }
@@ -349,17 +355,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "14ad37a1e299ad5c",
+  "active": "2eada90f6d52a5c9",
   "lastOpenFiles": [
     "Les méthodes de documentation.md",
     "Documentation de l'Utilisateur final.md",
+    "Documentation Marketing.md",
     "Documentation Architecture-Conception.md",
     "Documentation technique.md",
     "Exigences-Prérequis.md",
     "Exigence/Exigences-Prérequis.md",
     "_computer science.md",
     "Matériel informatique.md",
-    "Logiciel informatique.md",
-    "Système informatique.md"
+    "Logiciel informatique.md"
   ]
 }
