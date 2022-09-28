@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpha testing",
+      "path": "Alpha testing.md"
+    },
+    {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
+      "basename": "Attentes futures (offre)",
+      "path": "Attentes futures (offre).md"
+    },
+    {
+      "basename": "Attentes futures (demande)",
+      "path": "Attentes futures (demande).md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Déterminants hors-prix de l'offre",
       "path": "Déterminants hors-prix de l'offre.md"
     },
@@ -105,10 +125,6 @@
       "path": "_EE.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
     },
@@ -153,14 +169,6 @@
       "path": "PEEL.md"
     },
     {
-      "basename": "Attentes futures (offre)",
-      "path": "Attentes futures (offre).md"
-    },
-    {
-      "basename": "Attentes futures (demande)",
-      "path": "Attentes futures (demande).md"
-    },
-    {
       "basename": "Beta testing",
       "path": "Beta testing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Coûts de production",
       "path": "Coûts de production.md"
-    },
-    {
-      "basename": "Déterminants prix de la demande",
-      "path": "Déterminants prix de la demande.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
     }
   ],
   "omittedPaths": [],
