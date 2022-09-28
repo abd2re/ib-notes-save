@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "Interventions gouvernementales",
+      "path": "Interventions gouvernementales.md"
+    },
+    {
+      "basename": "Offre",
+      "path": "Offre.md"
+    },
+    {
+      "basename": "Loi de l'offre",
+      "path": "Loi de l'offre.md"
+    },
+    {
+      "basename": "Déterminants prix de l'offre",
+      "path": "Déterminants prix de l'offre.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
+    },
+    {
+      "basename": "Pente",
+      "path": "Pente.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Méthodes de prévention de pertes de données",
       "path": "Méthodes de prévention de pertes de données.md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Les pertes de données",
+      "path": "Les pertes de données.md"
     },
     {
       "basename": "Conséquences d'une perte de données",
@@ -17,8 +73,8 @@
       "path": "Causes possibles d'une perte de données.md"
     },
     {
-      "basename": "Les pertes de données",
-      "path": "Les pertes de données.md"
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "_computer science",
@@ -41,16 +97,8 @@
       "path": "__dashboard.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_EE",
@@ -75,10 +123,6 @@
     {
       "basename": "Formation sur site",
       "path": "Formation sur site.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
     },
     {
       "basename": "AB testing",
@@ -133,16 +177,8 @@
       "path": "Réglementations.md"
     },
     {
-      "basename": "Interventions gouvernementales",
-      "path": "Interventions gouvernementales.md"
-    },
-    {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
     },
     {
       "basename": "Impôts indirectes",
@@ -157,48 +193,12 @@
       "path": "Coûts de production.md"
     },
     {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
       "basename": "Déterminants prix de la demande",
       "path": "Déterminants prix de la demande.md"
     },
     {
-      "basename": "Déterminants prix de l'offre",
-      "path": "Déterminants prix de l'offre.md"
-    },
-    {
-      "basename": "Loi de l'offre",
-      "path": "Loi de l'offre.md"
-    },
-    {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Ecriture mathématique de l'offre",
-      "path": "Ecriture mathématique de l'offre.md"
-    },
-    {
-      "basename": "Autoformation",
-      "path": "Autoformation.md"
-    },
-    {
-      "basename": "Fichiers d'aide",
-      "path": "Fichiers d'aide.md"
-    },
-    {
-      "basename": "Manuels imprimés",
-      "path": "Manuels imprimés.md"
-    },
-    {
-      "basename": "Documentation en ligne",
-      "path": "Documentation en ligne.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
     }
   ],
   "omittedPaths": [],

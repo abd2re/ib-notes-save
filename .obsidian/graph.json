@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
+  "search": "-path:template -path:assets line:\"tags\" -tag:#IA tag:#economy",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.06284233932623655,
+  "scale": 0.30824240464458735,
   "close": false
 }
