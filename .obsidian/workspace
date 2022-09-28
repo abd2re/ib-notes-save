@@ -4,137 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "41ee3816ee74277d",
+        "id": "5b4f3bd664f6552e",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "41ee3816ee74277d",
+              "leaf": "5b4f3bd664f6552e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation a distance.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Méthodes de prévention de pertes de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "41ee3816ee74277d",
+              "leaf": "5b4f3bd664f6552e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Comparaison de différentes méthodes de formation des utilisateurs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sauvegarde de systèmes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5b4f3bd664f6552e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Causes possibles d'une perte de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":172},\"to\":{\"line\":11,\"ch\":172}},\"scroll\":0.5416666666666666}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"AB testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Comparaison de différentes méthodes de formation des utilisateurs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation de l'Utilisateur final.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les méthodes de documentation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":7.523809523809524}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":3.08}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.066929133858268}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.0916905444126077}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formation a distance.md",
+            "file": "Sauvegarde de systèmes.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -232,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formation a distance.md",
+                "file": "Sauvegarde de systèmes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formation a distance.md",
+                "file": "Sauvegarde de systèmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formation a distance.md"
+                "file": "Sauvegarde de systèmes.md"
               }
             }
           },
@@ -341,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Formation a distance.md",
+                "file": "Sauvegarde de systèmes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -372,7 +270,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.45050811767578186,
+                  "scale": 8,
                   "close": true
                 }
               }
@@ -384,17 +282,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "111ac17bf96596a2",
+  "active": "9d8029b03e20c73d",
   "lastOpenFiles": [
-    "Comparaison de différentes méthodes de formation des utilisateurs.md",
-    "Formation sur site.md",
-    "Offre.md",
-    "_economy.md",
-    "AB testing.md",
-    "_physics.md",
-    "Documentation de l'Utilisateur final.md",
+    "Méthodes de prévention de pertes de données.md",
+    "Sauvegarde de systèmes.md",
+    "Conséquences d'une perte de données.md",
+    "Causes possibles d'une perte de données.md",
+    "Untitled.md",
+    "Les pertes de données.md",
+    "_computer science.md",
+    "Changements dans un environment.md",
     "Les méthodes de documentation.md",
-    "Documentation en ligne.md",
-    "Manuels imprimés.md"
+    "Conception d'un système.md"
   ]
 }

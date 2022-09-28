@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Formation a distance",
-      "path": "Formation a distance.md"
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Méthodes de prévention de pertes de données",
+      "path": "Méthodes de prévention de pertes de données.md"
+    },
+    {
+      "basename": "Conséquences d'une perte de données",
+      "path": "Conséquences d'une perte de données.md"
+    },
+    {
+      "basename": "Causes possibles d'une perte de données",
+      "path": "Causes possibles d'une perte de données.md"
+    },
+    {
+      "basename": "Les pertes de données",
+      "path": "Les pertes de données.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
     },
     {
       "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
       "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Formation a distance",
+      "path": "Formation a distance.md"
     },
     {
       "basename": "Formation sur site",
@@ -21,32 +85,12 @@
       "path": "AB testing.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
-    },
-    {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Knowers and Knowing",
       "path": "Knowers and Knowing.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     },
     {
       "basename": "Knowledge",
@@ -65,10 +109,6 @@
       "path": "PEEL.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "Attentes futures (offre)",
       "path": "Attentes futures (offre).md"
     },
@@ -79,10 +119,6 @@
     {
       "basename": "Beta testing",
       "path": "Beta testing.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "Nombre d'entreprises",
@@ -119,10 +155,6 @@
     {
       "basename": "Coûts de production",
       "path": "Coûts de production.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
@@ -167,38 +199,6 @@
     {
       "basename": "Installation d'un système",
       "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Documentation Technique",
-      "path": "Documentation Technique.md"
-    },
-    {
-      "basename": "Exigences-Prérequis",
-      "path": "Exigences-Prérequis.md"
-    },
-    {
-      "basename": "Documentation Marketing",
-      "path": "Documentation Marketing.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
-    },
-    {
-      "basename": "Logiciel informatique",
-      "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "Conception d'un système",
-      "path": "Conception d'un système.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
     }
   ],
   "omittedPaths": [],
