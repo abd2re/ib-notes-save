@@ -12,8 +12,14 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "41ee3816ee74277d",
@@ -120,13 +126,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_EE.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -220,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,9 +270,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_EE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -330,7 +327,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,8 +371,8 @@
   },
   "active": "41ee3816ee74277d",
   "lastOpenFiles": [
-    "Mémoires de la classe.md",
     "_EE.md",
+    "Mémoires de la classe.md",
     "_computer science.md",
     "Beta testing.md",
     "12 TOK Concepts.md",
