@@ -12,8 +12,8 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formation sur site.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "41ee3816ee74277d",
@@ -135,7 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "Formation sur site.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -385,7 +385,7 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "c43566d96071142a",
+  "active": "41ee3816ee74277d",
   "lastOpenFiles": [
     "Offre.md",
     "_economy.md",
