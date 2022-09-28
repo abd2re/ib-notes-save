@@ -7,33 +7,21 @@
         "id": "5b4f3bd664f6552e",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "5b4f3bd664f6552e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Méthodes de prévention de pertes de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5b4f3bd664f6552e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sauvegarde de systèmes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5b4f3bd664f6552e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Causes possibles d'une perte de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sauvegarde de systèmes.md",
-            "mode": "preview",
+            "file": "_EE.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -65,10 +53,6 @@
           {
             "id": "7d27230a600cd0c1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -84,10 +68,6 @@
           {
             "id": "8014a558964b929f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -123,14 +103,10 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sauvegarde de systèmes.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,14 +120,10 @@
           {
             "id": "7a652f273c476f67",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sauvegarde de systèmes.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,10 +132,6 @@
           {
             "id": "9d3e7145212deffd",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -175,24 +143,16 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sauvegarde de systèmes.md"
+                "file": "_EE.md"
               }
             }
           },
           {
             "id": "f419277d11679306",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -201,10 +161,6 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -213,10 +169,6 @@
           {
             "id": "b82d70eaa67a3197",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -239,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sauvegarde de systèmes.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,10 +234,10 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "9d8029b03e20c73d",
+  "active": "5b4f3bd664f6552e",
   "lastOpenFiles": [
-    "Méthodes de prévention de pertes de données.md",
     "Sauvegarde de systèmes.md",
+    "Méthodes de prévention de pertes de données.md",
     "Conséquences d'une perte de données.md",
     "Causes possibles d'une perte de données.md",
     "Untitled.md",
