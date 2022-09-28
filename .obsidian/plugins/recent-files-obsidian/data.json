@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Attentes futures",
+      "path": "Attentes futures.md"
+    },
+    {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Nombre d'entreprises",
+      "path": "Nombre d'entreprises.md"
+    },
+    {
+      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
+      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+    },
+    {
+      "basename": "Formation sur site",
+      "path": "Formation sur site.md"
+    },
+    {
+      "basename": "Documentation Architecture-Conception",
+      "path": "Documentation Architecture-Conception.md"
+    },
+    {
       "basename": "Réglementations",
       "path": "Réglementations.md"
     },
@@ -23,10 +71,6 @@
     {
       "basename": "Produits connexes",
       "path": "Produits connexes.md"
-    },
-    {
-      "basename": "Nombre d'entreprises",
-      "path": "Nombre d'entreprises.md"
     },
     {
       "basename": "Attentes futures (2)",
@@ -73,26 +117,6 @@
       "path": "Autoformation.md"
     },
     {
-      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
-      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
-    },
-    {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Formation sur site",
-      "path": "Formation sur site.md"
-    },
-    {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
-    },
-    {
       "basename": "Fichiers d'aide",
       "path": "Fichiers d'aide.md"
     },
@@ -113,20 +137,12 @@
       "path": "Documentation Technique.md"
     },
     {
-      "basename": "Documentation Architecture-Conception",
-      "path": "Documentation Architecture-Conception.md"
-    },
-    {
       "basename": "Exigences-Prérequis",
       "path": "Exigences-Prérequis.md"
     },
     {
       "basename": "Documentation Marketing",
       "path": "Documentation Marketing.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Matériel informatique",
@@ -183,22 +199,6 @@
     {
       "basename": "Force",
       "path": "Force.md"
-    },
-    {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Fonctions linéaires",
-      "path": "Fonctions linéaires.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
     }
   ],
   "omittedPaths": [],

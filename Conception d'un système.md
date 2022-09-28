@@ -10,3 +10,4 @@ Les 4 composants d'un [[Système informatique]] sont
 > 2. [[Logiciel informatique]]
 > 3. [[Données]]
 > 4. [[Ressource humaine|Composante humaine]]
+<!--SR:!2022-10-01,4,270-->

@@ -12,6 +12,66 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":7.782608695652174}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Beta testing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":6.877551020408164}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":7.782608695652174}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documentation Architecture-Conception.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réglementations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -62,8 +122,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Réglementations.md",
-            "mode": "preview",
+            "file": "_EE.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -160,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réglementations.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réglementations.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réglementations.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -270,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réglementations.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,17 +373,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "c43566d96071142a",
+  "active": "41ee3816ee74277d",
   "lastOpenFiles": [
-    "Conception d'un système.md",
-    "Réglementations.md",
-    "Interventions gouvernementales.md",
-    "Subventions.md",
-    "Déterminants hors-prix de l'offre.md",
-    "Impôts indirectes.md",
-    "Produits connexes.md",
-    "Nombre d'entreprises.md",
-    "Attentes futures (2).md",
-    "Coûts de production.md"
+    "Mémoires de la classe.md",
+    "_EE.md",
+    "_computer science.md",
+    "Beta testing.md",
+    "12 TOK Concepts.md",
+    "assets/12 TOK Concepts/12 TOK Concepts.png",
+    "__dashboard.md",
+    "Attentes futures.md",
+    "Les méthodes de documentation.md",
+    "Documentation de l'Utilisateur final.md"
   ]
 }
