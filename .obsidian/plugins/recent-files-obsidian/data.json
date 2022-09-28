@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
+    },
+    {
+      "basename": "Attentes futures (offre)",
+      "path": "Attentes futures (offre).md"
+    },
+    {
+      "basename": "Attentes futures (demande)",
+      "path": "Attentes futures (demande).md"
     },
     {
       "basename": "_computer science",
@@ -13,16 +29,8 @@
       "path": "Beta testing.md"
     },
     {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Attentes futures",
-      "path": "Attentes futures.md"
     },
     {
       "basename": "Les méthodes de documentation",
@@ -71,10 +79,6 @@
     {
       "basename": "Produits connexes",
       "path": "Produits connexes.md"
-    },
-    {
-      "basename": "Attentes futures (2)",
-      "path": "Attentes futures (2).md"
     },
     {
       "basename": "Coûts de production",
@@ -195,10 +199,6 @@
     {
       "basename": "Masse",
       "path": "Masse.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
     }
   ],
   "omittedPaths": [],

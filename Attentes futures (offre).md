@@ -1,7 +1,7 @@
 ---
 tags: [economy] 
 ---
-# Attentes futures (2)
+# Attentes futures (offre)
 Created: 2022-09-27
 
 ?

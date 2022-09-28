@@ -1,7 +1,7 @@
 ---
 tags: [economy] 
 ---
-# Attentes futures
+# Attentes futures (demande)
 Created: 2022-09-20
 
 ?

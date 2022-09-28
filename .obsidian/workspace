@@ -12,8 +12,50 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":4.28125}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":3.2}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":97},\"to\":{\"line\":3,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":53},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (offre).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (demande).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (offre).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":25},\"to\":{\"line\":3,\"ch\":25}}}"
+            },
+            {
+              "leaf": "41ee3816ee74277d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":169},\"to\":{\"line\":7,\"ch\":169}}}"
             },
             {
               "leaf": "41ee3816ee74277d",
@@ -48,7 +90,7 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (demande).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -86,50 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":14}}}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirectes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "41ee3816ee74277d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_EE.md",
-            "mode": "source",
+            "file": "12 TOK Concepts.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -226,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -336,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "12 TOK Concepts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,15 +387,15 @@
   },
   "active": "41ee3816ee74277d",
   "lastOpenFiles": [
+    "assets/12 TOK Concepts/12 TOK Concepts.png",
+    "12 TOK Concepts.md",
+    "_TOK.md",
     "_EE.md",
+    "Attentes futures (offre).md",
+    "Attentes futures (demande).md",
     "Mémoires de la classe.md",
     "_computer science.md",
     "Beta testing.md",
-    "12 TOK Concepts.md",
-    "assets/12 TOK Concepts/12 TOK Concepts.png",
-    "__dashboard.md",
-    "Attentes futures.md",
-    "Les méthodes de documentation.md",
-    "Documentation de l'Utilisateur final.md"
+    "__dashboard.md"
   ]
 }
