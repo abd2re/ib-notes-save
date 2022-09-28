@@ -12,8 +12,8 @@
             {
               "leaf": "41ee3816ee74277d",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":97},\"to\":{\"line\":3,\"ch\":0}}}"
             },
             {
               "leaf": "41ee3816ee74277d",
@@ -126,8 +126,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_EE.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -221,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,6 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +277,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_EE.md"
+              }
             }
           },
           {
@@ -327,6 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
