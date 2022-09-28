@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Formation a distance",
+      "path": "Formation a distance.md"
+    },
+    {
+      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
+      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+    },
+    {
       "basename": "Formation sur site",
       "path": "Formation sur site.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
-      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
     },
     {
       "basename": "Documentation de l'Utilisateur final",
@@ -195,10 +199,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
     }
   ],
   "omittedPaths": [],

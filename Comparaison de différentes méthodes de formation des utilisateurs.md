@@ -6,4 +6,4 @@ Created: 2022-09-27
 
 1. [[Autoformation]]
 2. [[Formation sur site]]
-3. 
+3. [[Formation a distance]]
