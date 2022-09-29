@@ -232,7 +232,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +281,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Problèmes de compatibilité.md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,7 +338,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Problèmes de compatibilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,17 +380,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "b82d70eaa67a3197",
+  "active": "cec7260eaa54fcd6",
   "lastOpenFiles": [
-    "Les problèmes liés au changement.md",
+    "conflict-files-obsidian-git.md",
     "Problèmes de compatibilité.md",
+    "Les problèmes liés au changement.md",
     "Documentation en ligne.md",
     "Conséquences d'une perte de données.md",
     "Conceptes de base economie.md",
     "Demande.md",
     "Ecriture mathématique de la demande.md",
     "Ecriture mathématique de l'offre.md",
-    "Déterminants prix de l'offre.md",
-    "Déterminants hors-prix de l'offre.md"
+    "Déterminants prix de l'offre.md"
   ]
 }

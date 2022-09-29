@@ -191,14 +191,6 @@
     {
       "basename": "Les méthodes de documentation",
       "path": "Les méthodes de documentation.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Beta testing",
-      "path": "Beta testing.md"
     }
   ],
   "omittedPaths": [],
