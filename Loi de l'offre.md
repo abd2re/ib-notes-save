@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Loi de l'offre
 Created: 2022-09-23

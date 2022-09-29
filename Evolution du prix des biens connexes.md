@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Evolution du prix des biens connexes
 Created: 2022-09-20

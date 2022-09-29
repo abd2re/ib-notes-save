@@ -1,184 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Alpha testing",
-      "path": "Alpha testing.md"
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
     },
     {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "Attentes futures (offre)",
-      "path": "Attentes futures (offre).md"
-    },
-    {
-      "basename": "Attentes futures (demande)",
-      "path": "Attentes futures (demande).md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
-    },
-    {
-      "basename": "Interventions gouvernementales",
-      "path": "Interventions gouvernementales.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
-    },
-    {
-      "basename": "Loi de l'offre",
-      "path": "Loi de l'offre.md"
-    },
-    {
-      "basename": "Déterminants prix de l'offre",
-      "path": "Déterminants prix de l'offre.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Ecriture mathématique de la demande",
-      "path": "Ecriture mathématique de la demande.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Méthodes de prévention de pertes de données",
-      "path": "Méthodes de prévention de pertes de données.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Les pertes de données",
-      "path": "Les pertes de données.md"
+      "basename": "Documentation en ligne",
+      "path": "Documentation en ligne.md"
     },
     {
       "basename": "Conséquences d'une perte de données",
       "path": "Conséquences d'une perte de données.md"
     },
     {
-      "basename": "Causes possibles d'une perte de données",
-      "path": "Causes possibles d'une perte de données.md"
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Demande",
+      "path": "Demande.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Ecriture mathématique de la demande",
+      "path": "Ecriture mathématique de la demande.md"
     },
     {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
+      "basename": "Ecriture mathématique de l'offre",
+      "path": "Ecriture mathématique de l'offre.md"
     },
     {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
+      "basename": "Déterminants prix de l'offre",
+      "path": "Déterminants prix de l'offre.md"
     },
     {
-      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
-      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
+      "basename": "Déterminants prix de la demande",
+      "path": "Déterminants prix de la demande.md"
     },
     {
-      "basename": "_CAS",
-      "path": "_CAS.md"
+      "basename": "Interventions gouvernementales",
+      "path": "Interventions gouvernementales.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
+      "basename": "Produits connexes",
+      "path": "Produits connexes.md"
     },
     {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Formation a distance",
-      "path": "Formation a distance.md"
-    },
-    {
-      "basename": "Formation sur site",
-      "path": "Formation sur site.md"
-    },
-    {
-      "basename": "AB testing",
-      "path": "AB testing.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Knowledge",
-      "path": "Knowledge.md"
-    },
-    {
-      "basename": "TOK questions",
-      "path": "TOK questions.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "PEEL",
-      "path": "PEEL.md"
-    },
-    {
-      "basename": "Beta testing",
-      "path": "Beta testing.md"
+      "basename": "Coûts de production",
+      "path": "Coûts de production.md"
     },
     {
       "basename": "Nombre d'entreprises",
       "path": "Nombre d'entreprises.md"
     },
     {
-      "basename": "Documentation Architecture-Conception",
-      "path": "Documentation Architecture-Conception.md"
+      "basename": "Attentes futures (offre)",
+      "path": "Attentes futures (offre).md"
+    },
+    {
+      "basename": "Revenue",
+      "path": "Revenue.md"
+    },
+    {
+      "basename": "Gouts et préférences",
+      "path": "Gouts et préférences.md"
+    },
+    {
+      "basename": "Evolution du prix des biens connexes",
+      "path": "Evolution du prix des biens connexes.md"
+    },
+    {
+      "basename": "Attentes futures (demande)",
+      "path": "Attentes futures (demande).md"
+    },
+    {
+      "basename": "Nombre de consommateurs",
+      "path": "Nombre de consommateurs.md"
+    },
+    {
+      "basename": "Changements saisonniers",
+      "path": "Changements saisonniers.md"
     },
     {
       "basename": "Réglementations",
@@ -193,12 +97,108 @@
       "path": "Impôts indirectes.md"
     },
     {
-      "basename": "Produits connexes",
-      "path": "Produits connexes.md"
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
     },
     {
-      "basename": "Coûts de production",
-      "path": "Coûts de production.md"
+      "basename": "Effet de substitution",
+      "path": "Effet de substitution.md"
+    },
+    {
+      "basename": "Nature et comportement humain",
+      "path": "Nature et comportement humain.md"
+    },
+    {
+      "basename": "Effet de revenu",
+      "path": "Effet de revenu.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Pente",
+      "path": "Pente.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
+    },
+    {
+      "basename": "Ceteris Paribus",
+      "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "Offre",
+      "path": "Offre.md"
+    },
+    {
+      "basename": "Loi de l'offre",
+      "path": "Loi de l'offre.md"
+    },
+    {
+      "basename": "Alpha testing",
+      "path": "Alpha testing.md"
+    },
+    {
+      "basename": "Unit testing",
+      "path": "Unit testing.md"
+    },
+    {
+      "basename": "Causes possibles d'une perte de données",
+      "path": "Causes possibles d'une perte de données.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Exigences-Prérequis",
+      "path": "Exigences-Prérequis.md"
+    },
+    {
+      "basename": "Documentation Technique",
+      "path": "Documentation Technique.md"
+    },
+    {
+      "basename": "Documentation Architecture-Conception",
+      "path": "Documentation Architecture-Conception.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Documentation Marketing",
+      "path": "Documentation Marketing.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Conception d'un système",
+      "path": "Conception d'un système.md"
+    },
+    {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
     }
   ],
   "omittedPaths": [],

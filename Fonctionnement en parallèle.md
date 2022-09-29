@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Fonctionnement en parallèle
 Created: 2022-09-20

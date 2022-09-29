@@ -7,12 +7,16 @@ tags: [concept]
 ```python
 from flask import Flask
 ```
+<!--ID: 1664475095001-->
+
 
 ### basic setup
 ```python
 from flask import Flask
 
 app = Flask(__name__)
+<!--ID: 1664475095004-->
+
 
 @app.route("/")
 def home():
@@ -25,9 +29,13 @@ if __name__ == "__main__":
 ### tutorial 1: intro
 ```python
 from flask import Flask, redirect, url_for
+<!--ID: 1664475647529-->
+
 
 app = Flask(__name__)
 admin = True
+<!--ID: 1664475095006-->
+
 
 @app.route("/")
 
@@ -69,16 +77,24 @@ HTML template
             <p>{{i}}</p>
             {% if i == 'wahab' %}<p>hello {{i}}</p>{% endif %}
         {% endfor %}
+<!--ID: 1664475095010-->
+
 
     </body>
 </html>
 ```
+<!--ID: 1664475647534-->
+
 
 Flask code
 ```python
 from flask import Flask, render_template
+<!--ID: 1664475095013-->
+
 
 app = Flask(__name__)
+<!--ID: 1664475647539-->
+
 
 @app.route('/<name>')
 def home(name):
@@ -99,6 +115,8 @@ Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started
         <meta charset="utf-8">
         <title>{% block title %}{% endblock %}</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--ID: 1664475647545-->
+
 
     </head>
     <body>
@@ -107,6 +125,8 @@ Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
+<!--ID: 1664475095016-->
+
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
@@ -126,8 +146,12 @@ Base template with [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started
 template inheritance with index
 ```django
 {% extends 'base.html' %}
+<!--ID: 1664475647552-->
+
 
 {% block title %}Home page{% endblock %}
+<!--ID: 1664475095019-->
+
 
 {% block content %}
 <h1>Welcome to home {{user}}</h1>
@@ -136,8 +160,12 @@ template inheritance with index
 template inheritance with other page
 ```django
 {% extends 'base.html' %}
+<!--ID: 1664475647558-->
+
 
 {% block title %}Server{% endblock title %}
+<!--ID: 1664475095022-->
+
 
 {% block content %}
 {% for i in range(10) %}
@@ -148,8 +176,12 @@ template inheritance with other page
 Flask code
 ```python
 from flask import Flask, render_template, url_for
+<!--ID: 1664475647563-->
+
 
 app = Flask(__name__)
+<!--ID: 1664475095025-->
+
 
 @app.route('/')
 def home():
@@ -172,8 +204,12 @@ if __name__ == "__main__":
 login form page (extended from a base.html template)
 ```haml
 {% extends 'base.html' %}
+<!--ID: 1664475095028-->
+
 
 {% block title %}Login Page{% endblock title %}
+<!--ID: 1664475647570-->
+
 
 {% block content %}
 <form method="POST">
@@ -186,8 +222,12 @@ login form page (extended from a base.html template)
 Flask request code
 ```python
 from flask import Flask, render_template, request, redirect, url_for
+<!--ID: 1664475095031-->
+
 
 app = Flask(__name__)
+<!--ID: 1664475647576-->
+
 
 @app.route("/")
 def home():
@@ -215,10 +255,14 @@ Flask Session
 ```python
 from flask import Flask, render_template, request, redirect, url_for, session
 from datetime import timedelta
+<!--ID: 1664475095033-->
+
 
 app = Flask(__name__)
 app.secret_key = '123'
 app.permanent_session_lifetime = timedelta(days=1)
+<!--ID: 1664475647582-->
+
 
 @app.route("/")
 def home():
@@ -258,10 +302,14 @@ Flask code
 ```python
 from flask import Flask, render_template, request, redirect, url_for, session, flash
 from datetime import timedelta
+<!--ID: 1664475647587-->
+
 
 app = Flask(__name__)
 app.secret_key = '123'
 app.permanent_session_lifetime = timedelta(days=1)
+<!--ID: 1664475095036-->
+
 
 @app.route("/")
 def home():
@@ -306,8 +354,12 @@ if __name__ == "__main__":
 HTML snippet for flashing implementation
 ```django
 {% extends 'base.html' %}
+<!--ID: 1664475647606-->
+
 
 {% block title %}User{% endblock title %}
+<!--ID: 1664475095039-->
+
 
 {% block content %}
     {% with messages = get_flashed_messages() %}
@@ -326,18 +378,24 @@ HTML snippet for flashing implementation
 ```bash
 pip install flask-sqlalchemy
 ```
+<!--ID: 1664475095042-->
+
 
 Flask code for SQLAlcemy
 ```python
 from flask import Flask, render_template, request, redirect, url_for, session, flash
 from datetime import timedelta
 from flask_sqlalchemy import SQLAlchemy
+<!--ID: 1664475647619-->
+
 
 app = Flask(__name__)
 app.secret_key = '123'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.permanent_session_lifetime = timedelta(days=1)
+<!--ID: 1664475095045-->
+
 
 db = SQLAlchemy(app)
 
@@ -422,8 +480,12 @@ if __name__ == "__main__":
 email input html
 ```django
 {% extends 'base.html' %}
+<!--ID: 1664475647635-->
+
 
 {% block title %}User{% endblock title %}
+<!--ID: 1664475095047-->
+
 
 {% block content %}
     {% with messages = get_flashed_messages() %}
@@ -449,3 +511,5 @@ View sqlite3 users html
     {% endfor %}
 {% endblock content %}
 ```
+<!--ID: 1664475647645-->
+<!--ID: 1664475095050-->

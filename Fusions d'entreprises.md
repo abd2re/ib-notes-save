@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Fusions d'entreprises
 Created: 2022-09-14

@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Déterminants prix de la demande
 Created: 2022-09-27

@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Les problèmes liés au changement
 Created: 2022-09-14

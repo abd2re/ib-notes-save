@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Processus d'installation alternatifs
 Created: 2022-09-20

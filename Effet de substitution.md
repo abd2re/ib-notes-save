@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Effet de substitution
 Created: 2022-09-14

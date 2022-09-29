@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Manuels imprimés
 Created: 2022-09-27

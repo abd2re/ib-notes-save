@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Network-as-a-Service (NaaS)
 Created: 2022-09-20

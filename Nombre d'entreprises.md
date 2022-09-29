@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Nombre d'entreprises
 Created: 2022-09-27

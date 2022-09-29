@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Loi d'utilité marginale décroissante
 Created: 2022-09-14

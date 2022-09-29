@@ -4,13 +4,19 @@ tags: [math]
 
 Important to know before: ![[Sequence arithmetique]]
 ***
+<!--ID: 1664475094850-->
+
 
 # Serie arithmetique
 Created: 2022-08-31
 
 Related to: [[Serie geometrique]]
+<!--ID: 1664475094852-->
+
 
 Let $d$ be the common difference of a [[Sequence arithmetique |arithmetic sequence]], $a$ the first term of the sequence and $n$ the number of terms.
+<!--ID: 1664475647412-->
+
 
 So when we know $n$, $a \text{ or } u_1$, and $d$, $S_{n}=$
 ?
@@ -24,6 +30,8 @@ $$S_{n}=\frac{n(d(n-1)+2a)}{2}$$
 $$S_{n}=\frac{n}{2}(d(n-1)+2a)$$
 $$S_{n}=\frac{n}{2}(2a+(n-1)d)$$
 ***
+<!--ID: 1664475094855-->
+
 <!--SR:!2022-11-24,64,310-->
 
 

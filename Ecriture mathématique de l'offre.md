@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Ecriture mathématique de l'offre
 Created: 2022-09-23

@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Nombre de consommateurs
 Created: 2022-09-23

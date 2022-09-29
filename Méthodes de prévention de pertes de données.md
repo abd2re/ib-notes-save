@@ -1,5 +1,6 @@
 ---
-tags: [computer_science] 
+tags: [computer_science]
+TARGET DECK: computer_science
 ---
 # Méthodes de prévention de pertes de données
 Created: 2022-09-28

@@ -9,4 +9,6 @@ Les formules $S$ et $P$ sont
 $$S=p+q=\frac{-b}{a}$$
 $$P=pq=\frac{c}{a}$$
 $p$ et $q$ sont solutions de l'équation suivante:$$x^2-Sx+P=0$$
+<!--ID: 1664475094782-->
+
 <!--SR:!2022-09-29,2,230-->

@@ -8,3 +8,4 @@ banner: "![[SinAndCosFunctionPlot-1.webp]]"
 3. [[Etude graphique des fonctions quadratiques]]
 4. [[Formules de Viète]]
 5. [[Position relative parabole et droite]]
+<!--ID: 1664475094900-->

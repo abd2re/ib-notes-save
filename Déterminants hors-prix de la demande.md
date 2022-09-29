@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Déterminants hors-prix de la demande
 Created: 2022-09-14

@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Attentes futures (demande)
 Created: 2022-09-20

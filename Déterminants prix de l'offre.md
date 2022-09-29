@@ -1,5 +1,6 @@
 ---
 tags: [economy] 
+TARGET DECK: economy
 ---
 # Mouvement le long de la courbe de l'offre
 Created: 2022-09-27

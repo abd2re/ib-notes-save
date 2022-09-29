@@ -17,8 +17,12 @@ banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 	3. Fusions d'entreprises
 	4. Problèmes de compatibilité
 	5. Solutions au changement
+<!--ID: 1664475094890-->
+
 
 ## Chapitre 2: User focus
 1. [[Les méthodes de documentation]]
 2. [[Sauvegarde de systèmes]]
+<!--ID: 1664475094896-->
+
 

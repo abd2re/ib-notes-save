@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Alpha testing"
+  "attachmentFolderPath": "./assets/Les problèmes liés au changement",
+  "fileSortOrder": "byCreatedTime"
 }

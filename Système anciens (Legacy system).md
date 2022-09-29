@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Système anciens (Legacy system)
 Created: 2022-09-14

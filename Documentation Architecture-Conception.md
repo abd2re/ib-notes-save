@@ -1,5 +1,6 @@
 ---
 tags: [computer_science] 
+TARGET DECK: computer_science
 ---
 # Documentation d'Architecture-de Conception
 Created: 2022-09-27

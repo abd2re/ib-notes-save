@@ -9,6 +9,8 @@ tags: [MOC, IA]
 > - Will use [[Flask]] Framework with [[SQLite]]
 > - [Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech with Tim) (almost done)
 > - have to find [[SQLite]] tutorials 
+<!--ID: 1664475094994-->
+
 
 ## Idea: Revision/tutoring event planner
 Students or teachers would be able to set up events like ==revision sessions, tutoring session or reinforcement sessions==.
@@ -32,4 +34,6 @@ If session is cancelled or there is a modification in date and time or an import
 - Name
 - Email (and password)
 - Teacher or Student
+<!--ID: 1664475094997-->
+
 
