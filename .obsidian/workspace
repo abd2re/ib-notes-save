@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les problèmes liés au changement.md",
+                "file": "Problèmes de compatibilité.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les problèmes liés au changement.md",
+                "file": "Problèmes de compatibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les problèmes liés au changement.md"
+                "file": "Problèmes de compatibilité.md"
               }
             }
           },
@@ -323,20 +323,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "e785bc082012faea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "6299f388c1ecfa05",
@@ -353,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les problèmes liés au changement.md",
+                "file": "Problèmes de compatibilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,8 +385,9 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "6fca16c3e2fd59b7",
+  "active": "b82d70eaa67a3197",
   "lastOpenFiles": [
+    "Les problèmes liés au changement.md",
     "Problèmes de compatibilité.md",
     "Documentation en ligne.md",
     "Conséquences d'une perte de données.md",
@@ -406,7 +396,6 @@
     "Ecriture mathématique de la demande.md",
     "Ecriture mathématique de l'offre.md",
     "Déterminants prix de l'offre.md",
-    "Déterminants hors-prix de l'offre.md",
-    "Déterminants prix de la demande.md"
+    "Déterminants hors-prix de l'offre.md"
   ]
 }
