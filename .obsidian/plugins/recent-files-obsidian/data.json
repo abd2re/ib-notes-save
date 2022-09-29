@@ -5,12 +5,20 @@
       "path": "Marché.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de la demande",
+      "path": "Déterminants hors-prix de la demande.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "Loi d'utilité marginale décroissante",
@@ -35,10 +43,6 @@
     {
       "basename": "Déterminants prix de l'offre",
       "path": "Déterminants prix de l'offre.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
     },
     {
       "basename": "Interventions gouvernementales",
@@ -75,10 +79,6 @@
     {
       "basename": "Nombre de consommateurs",
       "path": "Nombre de consommateurs.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
     },
     {
       "basename": "_economy",

@@ -4,127 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5909dd210dc1663a",
+        "id": "2bb820f776ea1285",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":138},\"to\":{\"line\":12,\"ch\":138}}}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
+              "leaf": "2bb820f776ea1285",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "5909dd210dc1663a",
+              "leaf": "2bb820f776ea1285",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "5909dd210dc1663a",
+              "leaf": "2bb820f776ea1285",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ceteris Paribus.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi d'utilité marginale décroissante.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":5.222222222222222}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ecriture mathématique de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
+              "leaf": "2bb820f776ea1285",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coûts de production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (offre).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Revenue.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gouts et préférences.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Evolution du prix des biens connexes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (demande).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nombre de consommateurs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5909dd210dc1663a",
+              "leaf": "2bb820f776ea1285",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
@@ -375,17 +285,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "5909dd210dc1663a",
+  "active": "2bb820f776ea1285",
   "lastOpenFiles": [
     "Marché.md",
-    "_english.md",
     "Ceteris Paribus.md",
-    "Loi d'utilité marginale décroissante.md",
-    "assets/Loi d'utilité marginale décroissante/Loi d'utilité marginale décroissante.png",
-    "Offre.md",
-    "Demande.md",
-    "Ecriture mathématique de la demande.md",
-    "Ecriture mathématique de l'offre.md",
-    "Déterminants prix de l'offre.md"
+    "Déterminants hors-prix de l'offre.md",
+    "Produits connexes.md",
+    "Déterminants hors-prix de la demande.md",
+    "Evolution du prix des biens connexes.md",
+    "Gouts et préférences.md",
+    "Attentes futures (demande).md",
+    "Revenue.md",
+    "_english.md"
   ]
 }
