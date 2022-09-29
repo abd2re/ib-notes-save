@@ -20,8 +20,8 @@
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "showFileNameInFileLink": false,
-    "randomizeCardOrder": true,
-    "convertHighlightsToClozes": true,
+    "randomizeCardOrder": false,
+    "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::",
@@ -51,6 +51,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-09-28",
+  "buryDate": "2022-09-29",
   "buryList": []
 }
