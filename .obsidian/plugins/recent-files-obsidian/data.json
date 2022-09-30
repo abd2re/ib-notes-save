@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Impôts indirectes",
+      "path": "Impôts indirectes.md"
+    },
+    {
+      "basename": "Interventions gouvernementales",
+      "path": "Interventions gouvernementales.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Marché",
       "path": "Marché.md"
     },
     {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
@@ -45,10 +61,6 @@
       "path": "Déterminants prix de l'offre.md"
     },
     {
-      "basename": "Interventions gouvernementales",
-      "path": "Interventions gouvernementales.md"
-    },
-    {
       "basename": "Déterminants prix de la demande",
       "path": "Déterminants prix de la demande.md"
     },
@@ -81,10 +93,6 @@
       "path": "Nombre de consommateurs.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Nature et comportement humain",
       "path": "Nature et comportement humain.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "_computer science",
@@ -155,10 +159,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Impôts indirectes",
-      "path": "Impôts indirectes.md"
     },
     {
       "basename": "Alpha testing",

@@ -12,8 +12,38 @@
             {
               "leaf": "2bb820f776ea1285",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirectes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2bb820f776ea1285",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2bb820f776ea1285",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2bb820f776ea1285",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":124},\"to\":{\"line\":23,\"ch\":124}},\"scroll\":8.88}"
+            },
+            {
+              "leaf": "2bb820f776ea1285",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2bb820f776ea1285",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "2bb820f776ea1285",
@@ -42,8 +72,13 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Impôts indirectes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -137,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Impôts indirectes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Impôts indirectes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +223,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Impôts indirectes.md"
+              }
             }
           },
           {
@@ -243,6 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Impôts indirectes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,19 +323,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 464.5,
+    "collapsed": true
   },
   "active": "2bb820f776ea1285",
   "lastOpenFiles": [
+    "Interventions gouvernementales.md",
+    "Déterminants hors-prix de l'offre.md",
+    "_economy.md",
+    "Déterminants prix de l'offre.md",
+    "_EE.md",
     "Marché.md",
     "Ceteris Paribus.md",
-    "Déterminants hors-prix de l'offre.md",
     "Produits connexes.md",
     "Déterminants hors-prix de la demande.md",
-    "Evolution du prix des biens connexes.md",
-    "Gouts et préférences.md",
-    "Attentes futures (demande).md",
-    "Revenue.md",
-    "_english.md"
+    "Evolution du prix des biens connexes.md"
   ]
 }

@@ -8,8 +8,6 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 
 # Theme 1: Micro-économie
 *Problème 1*: Comment les producteurs et les consommateurs font-ils des choix pour tenter d'atteindre leurs objectifs économiques ?
-<!--ID: 1664475094915-->
-
 
 ## Chapitre 1: La Demande
 1. [[Demande|Définition]]
@@ -24,4 +22,5 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 2. La [[Loi de l'offre]]
 3. L'[[Ecriture mathématique de l'offre]]
 4. Mouvement le long de la courbe de l'offre et déplacements d'offre ([[Déterminants prix de l'offre]] et [[Déterminants hors-prix de l'offre]])
-<!--ID: 1664475094917-->
+
+## Chapitre 3: L'Equilibre du marché
