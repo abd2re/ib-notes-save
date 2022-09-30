@@ -24,3 +24,4 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 4. Mouvement le long de la courbe de l'offre et déplacements d'offre ([[Déterminants prix de l'offre]] et [[Déterminants hors-prix de l'offre]])
 
 ## Chapitre 3: L'Equilibre du marché
+1. [[Equilibre du marché|Définition]]

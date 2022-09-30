@@ -14,4 +14,4 @@ To what extent does alpha-beta pruning and different heuristic functions affect 
 # Question de recherche
 Dans quelle mesure l'élagage alpha-bêta et différentes fonctions heuristiques affectent-ils la vitesse et les performances d'un algorithme Mini-Max pour trouver les coups les plus optimaux aux échecs ?
 
-### fonctions heuristiques
+

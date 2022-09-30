@@ -4,77 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb820f776ea1285",
+        "id": "75cbc99ebffc2bff",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2bb820f776ea1285",
+              "leaf": "75cbc99ebffc2bff",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirectes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attributs du profil de l'apprenant.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "2bb820f776ea1285",
+              "leaf": "75cbc99ebffc2bff",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interventions gouvernementales.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":124},\"to\":{\"line\":23,\"ch\":124}},\"scroll\":8.88}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "2bb820f776ea1285",
+              "leaf": "75cbc99ebffc2bff",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2bb820f776ea1285",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Impôts indirectes.md",
+            "file": "Attributs du profil de l'apprenant.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -172,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirectes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirectes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirectes.md"
+                "file": "Attributs du profil de l'apprenant.md"
               }
             }
           },
@@ -282,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impôts indirectes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,17 +284,17 @@
     "width": 464.5,
     "collapsed": true
   },
-  "active": "2bb820f776ea1285",
+  "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
-    "Interventions gouvernementales.md",
-    "Déterminants hors-prix de l'offre.md",
-    "_economy.md",
-    "Déterminants prix de l'offre.md",
-    "_EE.md",
-    "Marché.md",
-    "Ceteris Paribus.md",
-    "Produits connexes.md",
-    "Déterminants hors-prix de la demande.md",
-    "Evolution du prix des biens connexes.md"
+    "_CAS.md",
+    "Composantes CAS.md",
+    "7 objectifs d'apprentissage CAS.md",
+    "Expériences et projets CAS.md",
+    "template/TOK template.md",
+    "template/physics template.md",
+    "template/people template.md",
+    "template/math template.md",
+    "template/french B template.md",
+    "template/english template.md"
   ]
 }

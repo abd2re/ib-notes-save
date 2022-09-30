@@ -1,32 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Impôts indirectes",
-      "path": "Impôts indirectes.md"
+      "basename": "Attributs du profil de l'apprenant",
+      "path": "Attributs du profil de l'apprenant.md"
     },
     {
-      "basename": "Interventions gouvernementales",
-      "path": "Interventions gouvernementales.md"
+      "basename": "_CAS",
+      "path": "_CAS.md"
     },
     {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
+      "basename": "7 objectifs d'apprentissage CAS",
+      "path": "7 objectifs d'apprentissage CAS.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Expériences et projets CAS",
+      "path": "Expériences et projets CAS.md"
+    },
+    {
+      "basename": "Composantes CAS",
+      "path": "Composantes CAS.md"
+    },
+    {
+      "basename": "TOK template",
+      "path": "template/TOK template.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "people template",
+      "path": "template/people template.md"
+    },
+    {
+      "basename": "math template",
+      "path": "template/math template.md"
+    },
+    {
+      "basename": "french B template",
+      "path": "template/french B template.md"
+    },
+    {
+      "basename": "english template",
+      "path": "template/english template.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "date",
+      "path": "template/date.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
+      "basename": "CAS template",
+      "path": "template/CAS template.md"
     },
     {
       "basename": "_EE",
       "path": "_EE.md"
     },
     {
-      "basename": "Marché",
-      "path": "Marché.md"
+      "basename": "Excèdent d'offre (surplus) et Pénurie de produits",
+      "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
     },
     {
       "basename": "Ceteris Paribus",
       "path": "Ceteris Paribus.md"
+    },
+    {
+      "basename": "Equilibre du marché",
+      "path": "Equilibre du marché.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "Interventions gouvernementales",
+      "path": "Interventions gouvernementales.md"
+    },
+    {
+      "basename": "Impôts indirectes",
+      "path": "Impôts indirectes.md"
+    },
+    {
+      "basename": "Marché",
+      "path": "Marché.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
@@ -127,78 +199,6 @@
     {
       "basename": "Problèmes de compatibilité",
       "path": "Problèmes de compatibilité.md"
-    },
-    {
-      "basename": "Documentation en ligne",
-      "path": "Documentation en ligne.md"
-    },
-    {
-      "basename": "Conséquences d'une perte de données",
-      "path": "Conséquences d'une perte de données.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Produits connexes",
-      "path": "Produits connexes.md"
-    },
-    {
-      "basename": "Nombre d'entreprises",
-      "path": "Nombre d'entreprises.md"
-    },
-    {
-      "basename": "Changements saisonniers",
-      "path": "Changements saisonniers.md"
-    },
-    {
-      "basename": "Réglementations",
-      "path": "Réglementations.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
-    },
-    {
-      "basename": "Alpha testing",
-      "path": "Alpha testing.md"
-    },
-    {
-      "basename": "Unit testing",
-      "path": "Unit testing.md"
-    },
-    {
-      "basename": "Causes possibles d'une perte de données",
-      "path": "Causes possibles d'une perte de données.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
-    },
-    {
-      "basename": "Exigences-Prérequis",
-      "path": "Exigences-Prérequis.md"
-    },
-    {
-      "basename": "Documentation Technique",
-      "path": "Documentation Technique.md"
-    },
-    {
-      "basename": "Documentation Architecture-Conception",
-      "path": "Documentation Architecture-Conception.md"
-    },
-    {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
-    },
-    {
-      "basename": "Documentation Marketing",
-      "path": "Documentation Marketing.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
     }
   ],
   "omittedPaths": [],
