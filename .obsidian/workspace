@@ -12,8 +12,8 @@
             {
               "leaf": "75cbc99ebffc2bff",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attributs du profil de l'apprenant.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etapes d'une expérience et projet CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "75cbc99ebffc2bff",
@@ -32,8 +32,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Attributs du profil de l'apprenant.md",
-            "mode": "source",
+            "file": "Etapes d'une expérience et projet CAS.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Etapes d'une expérience et projet CAS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Etapes d'une expérience et projet CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md"
+                "file": "Etapes d'une expérience et projet CAS.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "Etapes d'une expérience et projet CAS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,14 +287,14 @@
   "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
     "_CAS.md",
+    "Etapes d'une expérience et projet CAS.md",
+    "Attributs du profil de l'apprenant.md",
     "Composantes CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "Expériences et projets CAS.md",
     "template/TOK template.md",
     "template/physics template.md",
     "template/people template.md",
-    "template/math template.md",
-    "template/french B template.md",
-    "template/english template.md"
+    "template/math template.md"
   ]
 }

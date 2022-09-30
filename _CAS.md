@@ -9,7 +9,7 @@ Le Baccalaureat international a pour mission de developper chez les jeunes la cu
 2. les [[Expériences et projets CAS ]]
 3. les [[7 objectifs d'apprentissage CAS]]
 4. les [[Attributs du profil de l'apprenant]] 
-5. les étapes d'une expérience et projet CAS
+5. les [[Etapes d'une expérience et projet CAS]]
   - Recherche
   - Planification 
   - Action
