@@ -12,6 +12,12 @@
             {
               "leaf": "75cbc99ebffc2bff",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etapes d'une expérience et projet CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -32,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Etapes d'une expérience et projet CAS.md",
+            "file": "_EE.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etapes d'une expérience et projet CAS.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etapes d'une expérience et projet CAS.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etapes d'une expérience et projet CAS.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -240,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Etapes d'une expérience et projet CAS.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,8 +292,8 @@
   },
   "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
-    "_CAS.md",
     "Etapes d'une expérience et projet CAS.md",
+    "_CAS.md",
     "Attributs du profil de l'apprenant.md",
     "Composantes CAS.md",
     "7 objectifs d'apprentissage CAS.md",
