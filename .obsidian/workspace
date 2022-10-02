@@ -287,11 +287,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5,
-    "collapsed": true
+    "width": 464.5
   },
   "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
+    "Excèdent d'offre (surplus) et Pénurie de produits.md",
+    "_EE.md",
     "Etapes d'une expérience et projet CAS.md",
     "_CAS.md",
     "Attributs du profil de l'apprenant.md",
@@ -299,8 +300,6 @@
     "7 objectifs d'apprentissage CAS.md",
     "Expériences et projets CAS.md",
     "template/TOK template.md",
-    "template/physics template.md",
-    "template/people template.md",
-    "template/math template.md"
+    "template/physics template.md"
   ]
 }
