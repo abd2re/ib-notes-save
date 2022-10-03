@@ -5,6 +5,14 @@
       "path": "_EE.md"
     },
     {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
       "basename": "Excèdent d'offre (surplus) et Pénurie de produits",
       "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Loi de l'offre",
       "path": "Loi de l'offre.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     }
   ],
   "omittedPaths": [],

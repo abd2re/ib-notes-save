@@ -18,6 +18,30 @@
             {
               "leaf": "75cbc99ebffc2bff",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Masse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etapes d'une expérience et projet CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -291,15 +315,15 @@
   },
   "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
-    "Excèdent d'offre (surplus) et Pénurie de produits.md",
+    "Inertie.md",
+    "Masse.md",
     "_EE.md",
+    "Excèdent d'offre (surplus) et Pénurie de produits.md",
     "Etapes d'une expérience et projet CAS.md",
     "_CAS.md",
     "Attributs du profil de l'apprenant.md",
     "Composantes CAS.md",
     "7 objectifs d'apprentissage CAS.md",
-    "Expériences et projets CAS.md",
-    "template/TOK template.md",
-    "template/physics template.md"
+    "Expériences et projets CAS.md"
   ]
 }

@@ -9,5 +9,6 @@ Created: 2022-09-27
 1. [[Autoformation]]
 2. [[Formation sur site]]
 3. [[Formation a distance]]
+<!--SR:!2022-10-07,4,270-->
 
 Je préfère formation a distance.
