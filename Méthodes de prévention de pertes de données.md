@@ -26,3 +26,4 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 - Supports amovibles
 - Système de basculement
 - 
+<!--SR:!2022-10-05,1,225-->

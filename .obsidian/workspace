@@ -207,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -374,7 +373,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 8,
+                  "scale": 0.7164729895885452,
                   "close": true
                 }
               }
@@ -386,7 +385,7 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "75cbc99ebffc2bff",
+  "active": "cec7260eaa54fcd6",
   "lastOpenFiles": [
     "Stratégies de mises à jour.md",
     "Mises à jour manuelles.md",

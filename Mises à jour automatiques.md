@@ -6,3 +6,4 @@ Created: 2022-10-04
 
 ?
 Les mises à jour automatiques sont téléchargées et installées sans que l'utilisateur ait besoin d'intervenir.
+<!--SR:!2022-10-07,3,250-->
