@@ -8,61 +8,12 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": [
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Masse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inertie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Etapes d'une expérience et projet CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
+          "stack": []
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_EE.md",
+            "file": "_physics.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -83,10 +34,6 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -95,10 +42,6 @@
           {
             "id": "7d27230a600cd0c1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -114,10 +57,6 @@
           {
             "id": "8014a558964b929f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -153,14 +92,10 @@
           {
             "id": "111ac17bf96596a2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,14 +109,10 @@
           {
             "id": "7a652f273c476f67",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,10 +121,6 @@
           {
             "id": "9d3e7145212deffd",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -205,24 +132,16 @@
           {
             "id": "a4ee9d7d7d47c956",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "_physics.md"
               }
             }
           },
           {
             "id": "f419277d11679306",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -231,10 +150,6 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -243,10 +158,6 @@
           {
             "id": "b82d70eaa67a3197",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -263,14 +174,10 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,17 +220,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "75cbc99ebffc2bff",
+  "active": "d1b6639e49a5eb49",
   "lastOpenFiles": [
-    "Inertie.md",
-    "Masse.md",
+    "Déterminants hors-prix de l'offre.md",
+    "Documentation de l'Utilisateur final.md",
+    "Fichiers d'aide.md",
+    "_physics.md",
+    "Energie interne.md",
+    "Equilibre thermique.md",
+    "Température.md",
+    "Chaleur.md",
     "_EE.md",
-    "Excèdent d'offre (surplus) et Pénurie de produits.md",
-    "Etapes d'une expérience et projet CAS.md",
-    "_CAS.md",
-    "Attributs du profil de l'apprenant.md",
-    "Composantes CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "Expériences et projets CAS.md"
+    "Inertie.md"
   ]
 }

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -97,10 +117,6 @@
       "path": "_economy.md"
     },
     {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
-    },
-    {
       "basename": "Interventions gouvernementales",
       "path": "Interventions gouvernementales.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "Nature et comportement humain",
       "path": "Nature et comportement humain.md"
-    },
-    {
-      "basename": "Effet de revenu",
-      "path": "Effet de revenu.md"
-    },
-    {
-      "basename": "Effet de substitution",
-      "path": "Effet de substitution.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Loi de l'offre",
-      "path": "Loi de l'offre.md"
     }
   ],
   "omittedPaths": [],
