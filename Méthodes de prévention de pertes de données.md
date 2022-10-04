@@ -1,6 +1,5 @@
 ---
 tags: [computer_science]
-TARGET DECK: computer_science
 ---
 # Méthodes de prévention de pertes de données
 Created: 2022-09-28
@@ -20,3 +19,10 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 5. Techniques de réduction des erreurs humaines et/ou sécurité intégrée (fichiers supprimés accidentellement)
 6. Sauvegarde automatique en ligne (iCIoud, Dropbox)
 <!--SR:!2022-10-11,8,228-->
+
+### Solutions:
+?
+- Redondance
+- Supports amovibles
+- Système de basculement
+- 
