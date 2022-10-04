@@ -11,4 +11,4 @@ Les solutions au changement sont:
 2. [[Network-as-a-Service (NaaS)]]
 3. [[Processus d'installation alternatifs]]
 4. [[Test d'applications|Test de logiciels]]
-<!--SR:!2022-10-04,9,250-->
+<!--SR:!2022-10-27,23,250-->
