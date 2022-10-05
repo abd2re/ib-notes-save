@@ -12,6 +12,42 @@
             {
               "leaf": "75cbc99ebffc2bff",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":91},\"to\":{\"line\":9,\"ch\":91}},\"scroll\":6.8733205374280235}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.153652392947103}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":7.293333333333333}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/TOK template.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mises à jour automatiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -92,50 +128,38 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pente.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Méthodes de prévention de pertes de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pente.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mises à jour automatiques.md",
+            "file": "_TOK.md",
             "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cadd4f4577cdf914",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cadd4f4577cdf914",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK questions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TOK questions.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -232,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mises à jour automatiques.md",
+                "file": "TOK questions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mises à jour automatiques.md",
+                "file": "TOK questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mises à jour automatiques.md"
+                "file": "TOK questions.md"
               }
             }
           },
@@ -342,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mises à jour automatiques.md",
+                "file": "TOK questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -383,19 +407,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 464.5,
+    "collapsed": true
   },
-  "active": "cec7260eaa54fcd6",
+  "active": "cadd4f4577cdf914",
   "lastOpenFiles": [
+    "_TOK.md",
+    "TOK questions.md",
+    "Knowers and Knowing.md",
+    "12 TOK Concepts.md",
+    "_computer science.md",
+    "template/TOK template.md",
+    "Mises à jour automatiques.md",
     "Stratégies de mises à jour.md",
     "Mises à jour manuelles.md",
-    "Déploiement des logiciels.md",
-    "Mises à jour et correctifs.md",
-    "Versions (releases).md",
-    "Mises à niveau (upgrades).md",
-    "Correctifs (patchs).md",
-    "Gestion des versions et mises à jour.md",
-    "_computer science.md",
-    "Déterminants hors-prix de la demande.md"
+    "Déploiement des logiciels.md"
   ]
 }

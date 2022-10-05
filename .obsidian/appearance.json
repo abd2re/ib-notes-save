@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Clair de Lune",
-  "baseFontSize": 17
+  "cssTheme": "Molecule",
+  "baseFontSize": 17,
+  "theme": "moonstone"
 }

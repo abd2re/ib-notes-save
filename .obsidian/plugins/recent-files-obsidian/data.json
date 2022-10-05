@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "TOK questions",
+      "path": "TOK questions.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "TOK template",
+      "path": "template/TOK template.md"
+    },
+    {
       "basename": "Mises à jour automatiques",
       "path": "Mises à jour automatiques.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "Gestion des versions et mises à jour",
       "path": "Gestion des versions et mises à jour.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",
@@ -153,10 +169,6 @@
       "path": "Composantes CAS.md"
     },
     {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
       "basename": "physics template",
       "path": "template/physics template.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "date",
       "path": "template/date.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
-    },
-    {
-      "basename": "Equilibre du marché",
-      "path": "Equilibre du marché.md"
     }
   ],
   "omittedPaths": [],
