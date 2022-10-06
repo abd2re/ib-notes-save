@@ -12,6 +12,72 @@
             {
               "leaf": "75cbc99ebffc2bff",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Client.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rôles d'un ordinateur dans un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants d'un système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":11.829099307159353}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants d'un système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":6.288542544229149}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"exercices info.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}},\"scroll\":0}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":4.382871536523929}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"exercices info.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.0151133501259446}"
+            },
+            {
+              "leaf": "75cbc99ebffc2bff",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
@@ -62,104 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déploiement des logiciels.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":15},\"to\":{\"line\":20,\"ch\":15}},\"scroll\":0.17518248175182483}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Debugging.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déploiement des logiciels.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":4},\"to\":{\"line\":6,\"ch\":4}}}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.699232379623168}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Méthodes de prévention de pertes de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":12.181818181818182}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants prix de l'offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants hors-prix de la demande.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pente.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_TOK.md",
+            "file": "Client.md",
             "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cadd4f4577cdf914",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "cadd4f4577cdf914",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK questions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TOK questions.md",
-            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -256,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK questions.md",
+                "file": "Client.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -277,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK questions.md",
+                "file": "Client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK questions.md"
+                "file": "Client.md"
               }
             }
           },
@@ -366,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK questions.md",
+                "file": "Client.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -410,17 +386,17 @@
     "width": 464.5,
     "collapsed": true
   },
-  "active": "cadd4f4577cdf914",
+  "active": "75cbc99ebffc2bff",
   "lastOpenFiles": [
-    "_TOK.md",
-    "TOK questions.md",
-    "Knowers and Knowing.md",
-    "12 TOK Concepts.md",
+    "Rôles d'un ordinateur dans un réseau.md",
+    "Composants d'un système informatique.md",
+    "Périphérique.md",
     "_computer science.md",
-    "template/TOK template.md",
-    "Mises à jour automatiques.md",
-    "Stratégies de mises à jour.md",
-    "Mises à jour manuelles.md",
-    "Déploiement des logiciels.md"
+    "Conception d'un système.md",
+    "Réseaux.md",
+    "Ressources humaines.md",
+    "Software.md",
+    "Hardware.md",
+    "Système informatique.md"
   ]
 }

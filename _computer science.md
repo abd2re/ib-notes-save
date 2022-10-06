@@ -3,9 +3,11 @@ tags: [MOC]
 alias: CS
 banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 ---
+[[exercices info]]
 ### 0 [[Computer Science IA]]
 
 # Theme 1: Notion fondamental sur les systèmes
+## Chapitre 1: Les systèmes dans les organisations
 1. C'est quoi un [[Système informatique|Système]] ?
 2. [[Conception d'un système]]
 3. [[Installation d'un système]]
@@ -24,5 +26,5 @@ banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 	3. Stratégies de mises à jour
 
 
-
-
+## Chapitre 2: System design basics
+1. [[Composants d'un système informatique]]

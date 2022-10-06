@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "TOK questions",
-      "path": "TOK questions.md"
+      "basename": "Client",
+      "path": "Client.md"
+    },
+    {
+      "basename": "Rôles d'un ordinateur dans un réseau",
+      "path": "Rôles d'un ordinateur dans un réseau.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "Périphérique",
+      "path": "Périphérique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Réseaux",
+      "path": "Réseaux.md"
+    },
+    {
+      "basename": "Ressources humaines",
+      "path": "Ressources humaines.md"
+    },
+    {
+      "basename": "Software",
+      "path": "Software.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "Hardware.md"
+    },
+    {
+      "basename": "exercices info",
+      "path": "exercices info.md"
+    },
+    {
+      "basename": "Méthodes de prévention de pertes de données",
+      "path": "Méthodes de prévention de pertes de données.md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Déploiement des logiciels",
+      "path": "Déploiement des logiciels.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
+      "basename": "TOK questions",
+      "path": "TOK questions.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
     },
     {
       "basename": "TOK template",
@@ -31,10 +79,6 @@
     {
       "basename": "Mises à jour manuelles",
       "path": "Mises à jour manuelles.md"
-    },
-    {
-      "basename": "Déploiement des logiciels",
-      "path": "Déploiement des logiciels.md"
     },
     {
       "basename": "Mises à jour et correctifs",
@@ -67,14 +111,6 @@
     {
       "basename": "Debugging",
       "path": "Debugging.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Méthodes de prévention de pertes de données",
-      "path": "Méthodes de prévention de pertes de données.md"
     },
     {
       "basename": "Déterminants prix de l'offre",
@@ -163,42 +199,6 @@
     {
       "basename": "Expériences et projets CAS",
       "path": "Expériences et projets CAS.md"
-    },
-    {
-      "basename": "Composantes CAS",
-      "path": "Composantes CAS.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "people template",
-      "path": "template/people template.md"
-    },
-    {
-      "basename": "math template",
-      "path": "template/math template.md"
-    },
-    {
-      "basename": "french B template",
-      "path": "template/french B template.md"
-    },
-    {
-      "basename": "english template",
-      "path": "template/english template.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
-      "basename": "date",
-      "path": "template/date.md"
     }
   ],
   "omittedPaths": [],
