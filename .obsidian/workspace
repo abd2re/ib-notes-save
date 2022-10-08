@@ -4,137 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "75cbc99ebffc2bff",
+        "id": "feee9a8fc69e6e5a",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "75cbc99ebffc2bff",
+              "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Client.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rôles d'un ordinateur dans un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants d'un système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":11.829099307159353}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants d'un système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.288542544229149}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"exercices info.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}},\"scroll\":0}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":4.382871536523929}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"exercices info.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.0151133501259446}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":91},\"to\":{\"line\":9,\"ch\":91}},\"scroll\":6.8733205374280235}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":2.153652392947103}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":7.293333333333333}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/TOK template.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mises à jour automatiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stratégies de mises à jour.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "75cbc99ebffc2bff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déploiement des logiciels.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Client.md",
+            "file": "_physics.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -232,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Client.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Client.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Client.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -342,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Client.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,7 +259,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.7164729895885452,
+                  "scale": 0.6104400462470811,
                   "close": true
                 }
               }
@@ -383,20 +269,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5,
-    "collapsed": true
+    "width": 464.5
   },
-  "active": "75cbc99ebffc2bff",
+  "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
+    "_physics.md",
+    "Energie interne.md",
+    "Chaleur.md",
+    "Température.md",
+    "Chaleur massique.md",
+    "Client.md",
     "Rôles d'un ordinateur dans un réseau.md",
+    "Formules de Viète.md",
     "Composants d'un système informatique.md",
-    "Périphérique.md",
-    "_computer science.md",
-    "Conception d'un système.md",
-    "Réseaux.md",
-    "Ressources humaines.md",
-    "Software.md",
-    "Hardware.md",
-    "Système informatique.md"
+    "Périphérique.md"
   ]
 }

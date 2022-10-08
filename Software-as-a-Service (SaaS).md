@@ -10,7 +10,7 @@ Le logical en tant  que service (SaaS) est un modèle de licence et de livraison
 *Comment accéder a un SaaS ?*
 ?
 Les utilisateurs accèdent généralement au SaaS a l'aide d'un client leger via un navigateur web.
-<!--SR:!2022-10-05,10,250-->
+<!--SR:!2022-11-05,28,250-->
 
 *Quelques avantages d'un SaaS*
 ?

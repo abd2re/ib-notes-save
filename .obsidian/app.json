@@ -7,6 +7,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Client",
+  "attachmentFolderPath": "./assets/_physics",
   "fileSortOrder": "alphabetical"
 }

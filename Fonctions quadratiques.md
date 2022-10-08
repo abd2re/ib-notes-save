@@ -5,13 +5,13 @@ tags: [math]
 Created: 2022-09-19
 
 Expression réduite::$$ax^2+bx+c\,,\;a\neq0$$
-<!--SR:!2022-10-06,4,272-->
+<!--SR:!2022-10-31,23,292-->
 <!--ID: 1664475094830-->
 
 <!--SR:!2022-10-08,15,290-->
 
 Expression sous la forme canonique::$$a(x-h)^2+k=0$$
-<!--SR:!2022-10-06,4,272-->
+<!--SR:!2022-10-31,23,292-->
 <!--ID: 1664475094834-->
 
 <!--SR:!2022-10-04,11,270-->
@@ -22,4 +22,4 @@ $$h=\frac{-b}{2a}$$
 $$k=\frac{\Delta}{4a}$$
 $$k=f(h)=ah^2+bh+c$$
 $h$ représente l'abssice du vertex et $k$ l'ordonée du vertex c'est pour cela que $k$ et l'image de $h$.
-<!--SR:!2022-10-05,12,274-->
+<!--SR:!2022-12-04,57,294-->

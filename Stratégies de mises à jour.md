@@ -8,4 +8,4 @@ Les deux types des mises a jour sont:
 ?
 - [[Mises à jour manuelles]]
 - [[Mises à jour automatiques]]
-<!--SR:!2022-10-08,4,270-->
+<!--SR:!2022-10-23,15,290-->

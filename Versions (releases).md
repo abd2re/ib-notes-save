@@ -7,4 +7,4 @@ Created: 2022-10-04
 ?
 Les versions (releases) sont des versions finales et fonctionnelles d'applications logicielles. Ces applications ont déjà été soumises à des tests alpha et bêta.
 Les releases concernent des applications nouvelles ou mises à jour.
-<!--SR:!2022-10-07,3,250-->
+<!--SR:!2022-10-17,9,250-->

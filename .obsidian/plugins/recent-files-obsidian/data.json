@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
       "basename": "Client",
       "path": "Client.md"
     },
     {
       "basename": "Rôles d'un ordinateur dans un réseau",
       "path": "Rôles d'un ordinateur dans un réseau.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
     },
     {
       "basename": "Composants d'un système informatique",
@@ -149,22 +169,6 @@
       "path": "_economy.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Attributs du profil de l'apprenant",
       "path": "Attributs du profil de l'apprenant.md"
-    },
-    {
-      "basename": "7 objectifs d'apprentissage CAS",
-      "path": "7 objectifs d'apprentissage CAS.md"
-    },
-    {
-      "basename": "Expériences et projets CAS",
-      "path": "Expériences et projets CAS.md"
     }
   ],
   "omittedPaths": [],
