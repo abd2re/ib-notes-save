@@ -12,8 +12,8 @@
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":198},\"to\":{\"line\":6,\"ch\":198}}}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
@@ -27,7 +27,7 @@
           "type": "markdown",
           "state": {
             "file": "_EE.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
