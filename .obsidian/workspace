@@ -12,8 +12,26 @@
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Méthodes de prévention de pertes de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":1.6470588235294117}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sauvegarde de systèmes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":17},\"to\":{\"line\":29,\"ch\":17}},\"scroll\":0.8747731397459165}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":198},\"to\":{\"line\":6,\"ch\":198}}}"
+              "eState": "{}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
@@ -26,8 +44,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_EE.md",
-            "mode": "source",
+            "file": "Méthodes de prévention de pertes de données.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -124,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "Méthodes de prévention de pertes de données.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "Méthodes de prévention de pertes de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "Méthodes de prévention de pertes de données.md"
               }
             }
           },
@@ -234,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "Méthodes de prévention de pertes de données.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,15 +297,15 @@
   },
   "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
+    "Sauvegarde de systèmes.md",
+    "_computer science.md",
+    "Déploiement des logiciels.md",
+    "Composants d'un système informatique.md",
+    "_EE.md",
     "_physics.md",
     "Energie interne.md",
     "Chaleur.md",
     "Température.md",
-    "Chaleur massique.md",
-    "Client.md",
-    "Rôles d'un ordinateur dans un réseau.md",
-    "Formules de Viète.md",
-    "Composants d'un système informatique.md",
-    "Périphérique.md"
+    "Chaleur massique.md"
   ]
 }
