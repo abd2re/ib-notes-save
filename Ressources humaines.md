@@ -6,4 +6,4 @@ Created: 2022-10-05
 
 ?
 Les personnes qui sont utilisées ou pourraient être utilisées dans une organisation, une entreprise ou économie.
-<!--SR:!2022-10-09,1,230-->
+<!--SR:!2022-10-10,1,210-->

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
+  "search": "-path:template -path:assets line:\"tags\" -tag:#IA tag:#computer_science",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -108,14 +108,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 0.801966292134831,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.02219101123595,
   "lineSizeMultiplier": 1.00887096774194,
   "collapse-forces": false,
   "centerStrength": 0.502688172043011,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5625550214665072,
+  "scale": 0.1338157651686855,
   "close": false
 }

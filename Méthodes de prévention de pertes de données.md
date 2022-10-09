@@ -25,4 +25,4 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 - Redondance
 - Supports amovibles
 - Système de basculement
-<!--SR:!2022-10-09,1,205-->
+<!--SR:!2022-10-10,1,185-->

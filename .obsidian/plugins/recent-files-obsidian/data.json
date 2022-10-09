@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Méthodes de prévention de pertes de données",
-      "path": "Méthodes de prévention de pertes de données.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
     },
     {
       "basename": "_computer science",
@@ -15,6 +11,22 @@
     {
       "basename": "Déploiement des logiciels",
       "path": "Déploiement des logiciels.md"
+    },
+    {
+      "basename": "Mises à jour et correctifs",
+      "path": "Mises à jour et correctifs.md"
+    },
+    {
+      "basename": "Gestion des versions et mises à jour",
+      "path": "Gestion des versions et mises à jour.md"
+    },
+    {
+      "basename": "Méthodes de prévention de pertes de données",
+      "path": "Méthodes de prévention de pertes de données.md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
     },
     {
       "basename": "Composants d'un système informatique",
@@ -105,10 +117,6 @@
       "path": "Mises à jour manuelles.md"
     },
     {
-      "basename": "Mises à jour et correctifs",
-      "path": "Mises à jour et correctifs.md"
-    },
-    {
       "basename": "Versions (releases)",
       "path": "Versions (releases).md"
     },
@@ -119,10 +127,6 @@
     {
       "basename": "Correctifs (patchs)",
       "path": "Correctifs (patchs).md"
-    },
-    {
-      "basename": "Gestion des versions et mises à jour",
-      "path": "Gestion des versions et mises à jour.md"
     },
     {
       "basename": "Déterminants hors-prix de la demande",

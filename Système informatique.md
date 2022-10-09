@@ -1,6 +1,5 @@
 ---
 tags: [computer_science]
-TARGET DECK: computer_science
 ---
 # Système informatique
 Created: 2022-09-13
