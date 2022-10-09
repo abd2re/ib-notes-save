@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Gestion des versions et mises à jour",
       "path": "Gestion des versions et mises à jour.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Composants d'un système informatique",
       "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "_physics",
