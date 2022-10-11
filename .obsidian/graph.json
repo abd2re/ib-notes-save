@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#tbd",
@@ -18,7 +18,7 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 10724259
       }
     },
     {
@@ -108,14 +108,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.02219101123595,
   "lineSizeMultiplier": 1.00887096774194,
   "collapse-forces": false,
-  "centerStrength": 0.502688172043011,
+  "centerStrength": 0.620786516853933,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2807496187594237,
-  "close": true
+  "scale": 0.1004965271638492,
+  "close": false
 }

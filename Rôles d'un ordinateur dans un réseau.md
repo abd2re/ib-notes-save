@@ -6,7 +6,7 @@ Created: 2022-10-05
 
 ?
 Au sein d'un réseau, un ordinateur peut jouer de nombreux rôles, notamment celui de client, de serveur, de serveur de courrier électronique, de serveur web, de serveur DNS, de routeur et de pare-feu.
-<!--SR:!2022-10-11,2,230-->
+<!--SR:!2022-10-17,6,230-->
 
 Les différents types d'ordinateurs dans un réseau sont
 ?
@@ -17,4 +17,4 @@ Les différents types d'ordinateurs dans un réseau sont
 - [[Serveur DNS]]
 - [[Routeur]]
 - [[Pare-feu]]
-<!--SR:!2022-10-11,1,188-->
+<!--SR:!2022-10-13,2,188-->

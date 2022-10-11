@@ -8,16 +8,24 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_economy.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -95,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_economy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +178,13 @@
           {
             "id": "9d8029b03e20c73d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +227,7 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "d1b6639e49a5eb49",
+  "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
     "_economy.md",
     "Déséquilibre du marché.md",
