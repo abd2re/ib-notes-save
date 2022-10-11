@@ -22,7 +22,7 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 
 ### Solutions:
 ?
-- Redondance
-- Supports amovibles
-- Système de basculement
+- [[Redondance]]
+- [[Supports amovibles]]
+- [[Système de basculement]]
 <!--SR:!2022-10-11,1,165-->

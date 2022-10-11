@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "exercices info",
-      "path": "exercices info.md"
+      "basename": "Rôles d'un ordinateur dans un réseau",
+      "path": "Rôles d'un ordinateur dans un réseau.md"
+    },
+    {
+      "basename": "Client",
+      "path": "Client.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Méthodes de prévention de pertes de données",
+      "path": "Méthodes de prévention de pertes de données.md"
+    },
+    {
+      "basename": "Système de basculement",
+      "path": "Système de basculement.md"
+    },
+    {
+      "basename": "Supports amovibles",
+      "path": "Supports amovibles.md"
+    },
+    {
+      "basename": "Redondance",
+      "path": "Redondance.md"
+    },
+    {
+      "basename": "exercices info",
+      "path": "exercices info.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "_EE",
@@ -49,28 +85,8 @@
       "path": "Mises à jour et correctifs.md"
     },
     {
-      "basename": "Méthodes de prévention de pertes de données",
-      "path": "Méthodes de prévention de pertes de données.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
       "basename": "Energie interne",
       "path": "Energie interne.md"
-    },
-    {
-      "basename": "Client",
-      "path": "Client.md"
-    },
-    {
-      "basename": "Rôles d'un ordinateur dans un réseau",
-      "path": "Rôles d'un ordinateur dans un réseau.md"
     },
     {
       "basename": "Formules de Viète",
@@ -183,22 +199,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
-      "basename": "Masse",
-      "path": "Masse.md"
-    },
-    {
-      "basename": "Excèdent d'offre (surplus) et Pénurie de produits",
-      "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
-    },
-    {
-      "basename": "Etapes d'une expérience et projet CAS",
-      "path": "Etapes d'une expérience et projet CAS.md"
     }
   ],
   "omittedPaths": [],
