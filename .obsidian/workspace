@@ -7,13 +7,25 @@
         "id": "feee9a8fc69e6e5a",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gestion des versions et mises à jour.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Capacité calorifique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0.38121546961325964}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
@@ -250,15 +262,15 @@
   },
   "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
-    "Gestion des versions et mises à jour.md",
+    "Capacité calorifique.md",
+    "_physics.md",
+    "Chaleur massique.md",
+    "assets/Chaleur/image-20221011104855058.png",
+    "Chaleur.md",
+    "Energie interne.md",
+    "Température.md",
     "_EE.md",
-    "Système informatique.md",
-    "_computer science.md",
-    "Déploiement des logiciels.md",
-    "Mises à jour et correctifs.md",
-    "Les méthodes de documentation.md",
-    "Méthodes de prévention de pertes de données.md",
-    "Sauvegarde de systèmes.md",
-    "Composants d'un système informatique.md"
+    "Gestion des versions et mises à jour.md",
+    "Système informatique.md"
   ]
 }

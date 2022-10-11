@@ -5,6 +5,26 @@
       "path": "_EE.md"
     },
     {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
       "basename": "Gestion des versions et mises à jour",
       "path": "Gestion des versions et mises à jour.md"
     },
@@ -37,20 +57,8 @@
       "path": "Composants d'un système informatique.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Energie interne",
       "path": "Energie interne.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
     },
     {
       "basename": "Client",
@@ -191,14 +199,6 @@
     {
       "basename": "Etapes d'une expérience et projet CAS",
       "path": "Etapes d'une expérience et projet CAS.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "Attributs du profil de l'apprenant",
-      "path": "Attributs du profil de l'apprenant.md"
     }
   ],
   "omittedPaths": [],
