@@ -11,4 +11,10 @@ Au sein d'un réseau, un ordinateur peut jouer de nombreux rôles, notamment cel
 Les différents types d'ordinateurs dans un réseau sont
 ?
 - [[Client]]
+- [[Serveur]]
+- [[Serveur de courrier électronique]]
+- [[Serveur web]]
+- [[Serveur DNS]]
+- [[Routeur]]
+- [[Pare-feu]]
 <!--SR:!2022-10-11,1,188-->

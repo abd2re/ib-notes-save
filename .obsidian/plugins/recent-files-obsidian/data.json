@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Rôles d'un ordinateur dans un réseau",
-      "path": "Rôles d'un ordinateur dans un réseau.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
-      "basename": "Client",
-      "path": "Client.md"
+      "basename": "Déséquilibre du marché",
+      "path": "Déséquilibre du marché.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Choc d'offre",
+      "path": "Choc d'offre.md"
+    },
+    {
+      "basename": "Choc de demande",
+      "path": "Choc de demande.md"
+    },
+    {
+      "basename": "Equilibre du marché",
+      "path": "Equilibre du marché.md"
     },
     {
       "basename": "Composants d'un système informatique",
       "path": "Composants d'un système informatique.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Rôles d'un ordinateur dans un réseau",
+      "path": "Rôles d'un ordinateur dans un réseau.md"
+    },
+    {
+      "basename": "Serveur DNS",
+      "path": "Serveur DNS.md"
+    },
+    {
+      "basename": "Serveur web",
+      "path": "Serveur web.md"
+    },
+    {
+      "basename": "Pare-feu",
+      "path": "Pare-feu.md"
+    },
+    {
+      "basename": "Routeur",
+      "path": "Routeur.md"
+    },
+    {
+      "basename": "Serveur de courrier électronique",
+      "path": "Serveur de courrier électronique.md"
+    },
+    {
+      "basename": "Serveur",
+      "path": "Serveur.md"
+    },
+    {
+      "basename": "Client",
+      "path": "Client.md"
     },
     {
       "basename": "Sauvegarde de systèmes",
@@ -39,10 +87,6 @@
     {
       "basename": "exercices info",
       "path": "exercices info.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "_EE",
@@ -155,50 +199,6 @@
     {
       "basename": "Déterminants hors-prix de la demande",
       "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Debugging.md"
-    },
-    {
-      "basename": "Déterminants prix de l'offre",
-      "path": "Déterminants prix de l'offre.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Loi de l'offre",
-      "path": "Loi de l'offre.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     }
   ],
   "omittedPaths": [],

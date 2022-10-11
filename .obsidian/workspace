@@ -7,31 +7,61 @@
         "id": "feee9a8fc69e6e5a",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Client.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rôles d'un ordinateur dans un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":2.5777777777777775}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déséquilibre du marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants d'un système informatique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":45},\"to\":{\"line\":27,\"ch\":45}},\"scroll\":4.644444444444445}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Equilibre du marché.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "feee9a8fc69e6e5a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":11.936170212765958}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":8}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
@@ -72,13 +102,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rôles d'un ordinateur dans un réseau.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -172,7 +197,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,9 +246,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,7 +303,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rôles d'un ordinateur dans un réseau.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,15 +347,15 @@
   },
   "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
-    "Client.md",
-    "Rôles d'un ordinateur dans un réseau.md",
-    "Composants d'un système informatique.md",
+    "_economy.md",
+    "Déséquilibre du marché.md",
     "_computer science.md",
-    "Sauvegarde de systèmes.md",
-    "Méthodes de prévention de pertes de données.md",
-    "Système de basculement.md",
-    "Supports amovibles.md",
-    "Redondance.md",
-    "Les méthodes de documentation.md"
+    "__dashboard.md",
+    "Choc de demande.md",
+    "Choc d'offre.md",
+    "Déterminants prix de l'offre.md",
+    "Equilibre du marché.md",
+    "Composants d'un système informatique.md",
+    "Rôles d'un ordinateur dans un réseau.md"
   ]
 }

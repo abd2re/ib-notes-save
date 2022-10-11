@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" -tag:#IA tag:#computer_science",
+  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.11965742184962551,
+  "scale": 0.2807496187594237,
   "close": true
 }
