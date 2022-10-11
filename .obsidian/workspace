@@ -13,13 +13,13 @@
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gestion des versions et mises à jour.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_EE.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "feee9a8fc69e6e5a",
@@ -33,7 +33,7 @@
           "type": "markdown",
           "state": {
             "file": "_EE.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -251,6 +251,7 @@
   "active": "feee9a8fc69e6e5a",
   "lastOpenFiles": [
     "Gestion des versions et mises à jour.md",
+    "_EE.md",
     "Système informatique.md",
     "_computer science.md",
     "Déploiement des logiciels.md",
@@ -258,7 +259,6 @@
     "Les méthodes de documentation.md",
     "Méthodes de prévention de pertes de données.md",
     "Sauvegarde de systèmes.md",
-    "Composants d'un système informatique.md",
-    "_EE.md"
+    "Composants d'un système informatique.md"
   ]
 }
