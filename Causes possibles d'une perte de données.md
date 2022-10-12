@@ -26,7 +26,7 @@ Les causes sont:
 - Corruption des données: 
 	- Erreurs dans les données informatiques, 
 	- **solution**: Sauvegardes régulières
-- Corruption de micrologiciel:
+- Corruption de micro logiciel:
 	- Défaillance du disque dur, 
 	- **solution**: Sauvegardes régulières
 - Suppressions/Modifications extérieures Vols:

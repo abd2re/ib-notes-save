@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Serveur",
-      "path": "Serveur.md"
+      "basename": "Who is the Knower",
+      "path": "Who is the Knower.md"
     },
     {
-      "basename": "Fusions d'entreprises",
-      "path": "Fusions d'entreprises.md"
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
     },
     {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
+      "basename": "_TOK",
+      "path": "_TOK.md"
     },
     {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
     },
     {
-      "basename": "Integration testing",
-      "path": "Integration testing.md"
+      "basename": "Fonctionnement en parallèle",
+      "path": "Fonctionnement en parallèle.md"
     },
     {
-      "basename": "Beta testing",
-      "path": "Beta testing.md"
+      "basename": "Big Bang",
+      "path": "Big Bang.md"
+    },
+    {
+      "basename": "Pilotage",
+      "path": "Pilotage.md"
+    },
+    {
+      "basename": "Conversion progressive",
+      "path": "Conversion progressive.md"
+    },
+    {
+      "basename": "Matériel informatique",
+      "path": "Matériel informatique.md"
+    },
+    {
+      "basename": "Logiciel informatique",
+      "path": "Logiciel informatique.md"
+    },
+    {
+      "basename": "Gestion des versions et mises à jour",
+      "path": "Gestion des versions et mises à jour.md"
+    },
+    {
+      "basename": "Mises à jour et correctifs",
+      "path": "Mises à jour et correctifs.md"
+    },
+    {
+      "basename": "Stratégies de mises à jour",
+      "path": "Stratégies de mises à jour.md"
+    },
+    {
+      "basename": "Autoformation",
+      "path": "Autoformation.md"
+    },
+    {
+      "basename": "Formation sur site",
+      "path": "Formation sur site.md"
+    },
+    {
+      "basename": "Formation a distance",
+      "path": "Formation a distance.md"
+    },
+    {
+      "basename": "Correctifs (patchs)",
+      "path": "Correctifs (patchs).md"
+    },
+    {
+      "basename": "Versions (releases)",
+      "path": "Versions (releases).md"
+    },
+    {
+      "basename": "Mises à niveau (upgrades)",
+      "path": "Mises à niveau (upgrades).md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
     },
     {
       "basename": "Causes possibles d'une perte de données",
@@ -55,6 +111,34 @@
     {
       "basename": "Système informatique",
       "path": "Système informatique.md"
+    },
+    {
+      "basename": "Client",
+      "path": "Client.md"
+    },
+    {
+      "basename": "Serveur",
+      "path": "Serveur.md"
+    },
+    {
+      "basename": "Fusions d'entreprises",
+      "path": "Fusions d'entreprises.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Integration testing",
+      "path": "Integration testing.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
     },
     {
       "basename": "_economy",
@@ -113,92 +197,8 @@
       "path": "Serveur de courrier électronique.md"
     },
     {
-      "basename": "Client",
-      "path": "Client.md"
-    },
-    {
       "basename": "Sauvegarde de systèmes",
       "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Méthodes de prévention de pertes de données",
-      "path": "Méthodes de prévention de pertes de données.md"
-    },
-    {
-      "basename": "Système de basculement",
-      "path": "Système de basculement.md"
-    },
-    {
-      "basename": "Supports amovibles",
-      "path": "Supports amovibles.md"
-    },
-    {
-      "basename": "Redondance",
-      "path": "Redondance.md"
-    },
-    {
-      "basename": "exercices info",
-      "path": "exercices info.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
-      "basename": "Gestion des versions et mises à jour",
-      "path": "Gestion des versions et mises à jour.md"
-    },
-    {
-      "basename": "Déploiement des logiciels",
-      "path": "Déploiement des logiciels.md"
-    },
-    {
-      "basename": "Mises à jour et correctifs",
-      "path": "Mises à jour et correctifs.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "Formules de Viète",
-      "path": "Formules de Viète.md"
-    },
-    {
-      "basename": "Périphérique",
-      "path": "Périphérique.md"
-    },
-    {
-      "basename": "Réseaux",
-      "path": "Réseaux.md"
-    },
-    {
-      "basename": "Ressources humaines",
-      "path": "Ressources humaines.md"
-    },
-    {
-      "basename": "Software",
-      "path": "Software.md"
     }
   ],
   "omittedPaths": [],

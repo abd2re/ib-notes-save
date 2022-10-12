@@ -11,3 +11,5 @@ Created: 2022-09-13
 
 
 ![[TOK questions]]
+
+[[Who is the Knower]] ?
