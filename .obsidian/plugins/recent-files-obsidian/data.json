@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Serveur",
+      "path": "Serveur.md"
+    },
+    {
+      "basename": "Fusions d'entreprises",
+      "path": "Fusions d'entreprises.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Integration testing",
+      "path": "Integration testing.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
+    },
+    {
+      "basename": "Causes possibles d'une perte de données",
+      "path": "Causes possibles d'une perte de données.md"
+    },
+    {
+      "basename": "Mises à jour automatiques",
+      "path": "Mises à jour automatiques.md"
+    },
+    {
+      "basename": "Mises à jour manuelles",
+      "path": "Mises à jour manuelles.md"
+    },
+    {
+      "basename": "Problèmes de compatibilité",
+      "path": "Problèmes de compatibilité.md"
+    },
+    {
+      "basename": "Alpha testing",
+      "path": "Alpha testing.md"
+    },
+    {
+      "basename": "Unit testing",
+      "path": "Unit testing.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -55,10 +111,6 @@
     {
       "basename": "Serveur de courrier électronique",
       "path": "Serveur de courrier électronique.md"
-    },
-    {
-      "basename": "Serveur",
-      "path": "Serveur.md"
     },
     {
       "basename": "Client",
@@ -117,10 +169,6 @@
       "path": "Gestion des versions et mises à jour.md"
     },
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
       "basename": "Déploiement des logiciels",
       "path": "Déploiement des logiciels.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Software",
       "path": "Software.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "Hardware.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "TOK questions",
-      "path": "TOK questions.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "Mises à jour automatiques",
-      "path": "Mises à jour automatiques.md"
-    },
-    {
-      "basename": "Stratégies de mises à jour",
-      "path": "Stratégies de mises à jour.md"
-    },
-    {
-      "basename": "Mises à jour manuelles",
-      "path": "Mises à jour manuelles.md"
-    },
-    {
-      "basename": "Versions (releases)",
-      "path": "Versions (releases).md"
-    },
-    {
-      "basename": "Mises à niveau (upgrades)",
-      "path": "Mises à niveau (upgrades).md"
-    },
-    {
-      "basename": "Correctifs (patchs)",
-      "path": "Correctifs (patchs).md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
     }
   ],
   "omittedPaths": [],

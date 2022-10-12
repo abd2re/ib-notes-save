@@ -4,28 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "feee9a8fc69e6e5a",
+        "id": "8c420f60098c503e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "feee9a8fc69e6e5a",
+              "leaf": "8c420f60098c503e",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Serveur.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "feee9a8fc69e6e5a",
+              "leaf": "8c420f60098c503e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fusions d'entreprises.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Système anciens (Legacy system).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Les problèmes liés au changement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Integration testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Beta testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Causes possibles d'une perte de données.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mises à jour automatiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mises à jour manuelles.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alpha testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unit testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alpha testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Problèmes de compatibilité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unit testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Environment du système.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":159},\"to\":{\"line\":9,\"ch\":159}}}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Serveur.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -103,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Serveur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Serveur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Serveur.md"
+              }
             }
           },
           {
@@ -154,6 +247,10 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -185,6 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Serveur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,17 +325,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "feee9a8fc69e6e5a",
+  "active": "8c420f60098c503e",
   "lastOpenFiles": [
-    "_economy.md",
-    "Déséquilibre du marché.md",
-    "_computer science.md",
-    "__dashboard.md",
-    "Choc de demande.md",
-    "Choc d'offre.md",
-    "Déterminants prix de l'offre.md",
-    "Equilibre du marché.md",
-    "Composants d'un système informatique.md",
-    "Rôles d'un ordinateur dans un réseau.md"
+    "Fusions d'entreprises.md",
+    "Système anciens (Legacy system).md",
+    "Les problèmes liés au changement.md",
+    "Integration testing.md",
+    "Beta testing.md",
+    "Causes possibles d'une perte de données.md",
+    "Mises à jour automatiques.md",
+    "Mises à jour manuelles.md",
+    "Problèmes de compatibilité.md",
+    "Alpha testing.md"
   ]
 }
