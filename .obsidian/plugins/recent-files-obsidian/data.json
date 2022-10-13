@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
       "basename": "Chaleur massique",
       "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
     },
     {
       "basename": "Knower as an individual",
@@ -195,10 +199,6 @@
     {
       "basename": "Rôles d'un ordinateur dans un réseau",
       "path": "Rôles d'un ordinateur dans un réseau.md"
-    },
-    {
-      "basename": "Serveur DNS",
-      "path": "Serveur DNS.md"
     }
   ],
   "omittedPaths": [],

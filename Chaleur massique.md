@@ -6,6 +6,7 @@ Created: 2022-10-11
 
 ?
 La chaleur massique est la quantité de chaleur pour élever de $1\degree C$ l'unité de masse d'une substance.
+<!--SR:!2022-10-14,1,230-->
 
 Formule de Quantité de [[Chaleur]] $Q$=
 ?
