@@ -6,4 +6,4 @@ Created: 2022-10-04
 
 ?
 L'énergie interne est la somme de la [[Chaleur]] (énergie thermique) et des énergies d'interaction entre les [[molécules]].
-<!--SR:!2022-10-11,2,210-->
+<!--SR:!2022-10-19,6,210-->
