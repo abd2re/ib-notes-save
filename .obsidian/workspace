@@ -12,16 +12,28 @@
             {
               "leaf": "8c420f60098c503e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Capacité calorifique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c420f60098c503e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knower as an individual.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knower as an individual.md",
-            "mode": "source",
+            "file": "Capacité calorifique.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knower as an individual.md",
+                "file": "Capacité calorifique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knower as an individual.md",
+                "file": "Capacité calorifique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knower as an individual.md"
+                "file": "Capacité calorifique.md"
               }
             }
           },
@@ -154,6 +166,10 @@
           {
             "id": "c43566d96071142a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -181,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Knower as an individual.md",
+                "file": "Capacité calorifique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,15 +242,15 @@
   },
   "active": "8c420f60098c503e",
   "lastOpenFiles": [
-    "Knowers and Knowing.md",
+    "_physics.md",
+    "Capacité calorifique.md",
+    "Chaleur massique.md",
     "Knower as an individual.md",
+    "Knowers and Knowing.md",
     "TOK questions.md",
     "Who is the Knower.md",
     "Système de basculement.md",
     "_TOK.md",
-    "12 TOK Concepts.md",
-    "Knowledge.md",
-    "Fonctionnement en parallèle.md",
-    "Big Bang.md"
+    "12 TOK Concepts.md"
   ]
 }

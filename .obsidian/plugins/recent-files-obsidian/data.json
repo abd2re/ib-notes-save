@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
       "basename": "Knower as an individual",
       "path": "Knower as an individual.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Serveur DNS",
       "path": "Serveur DNS.md"
-    },
-    {
-      "basename": "Serveur web",
-      "path": "Serveur web.md"
-    },
-    {
-      "basename": "Pare-feu",
-      "path": "Pare-feu.md"
-    },
-    {
-      "basename": "Routeur",
-      "path": "Routeur.md"
     }
   ],
   "omittedPaths": [],
