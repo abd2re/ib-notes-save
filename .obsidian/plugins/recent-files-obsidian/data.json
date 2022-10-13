@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Who is the Knower",
-      "path": "Who is the Knower.md"
+      "basename": "Knower as an individual",
+      "path": "Knower as an individual.md"
     },
     {
       "basename": "Knowers and Knowing",
       "path": "Knowers and Knowing.md"
+    },
+    {
+      "basename": "Who is the Knower",
+      "path": "Who is the Knower.md"
+    },
+    {
+      "basename": "Système de basculement",
+      "path": "Système de basculement.md"
     },
     {
       "basename": "_TOK",
@@ -191,14 +199,6 @@
     {
       "basename": "Routeur",
       "path": "Routeur.md"
-    },
-    {
-      "basename": "Serveur de courrier électronique",
-      "path": "Serveur de courrier électronique.md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
     }
   ],
   "omittedPaths": [],
