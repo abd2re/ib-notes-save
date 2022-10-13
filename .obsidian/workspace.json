@@ -63,9 +63,12 @@
               "stack": []
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "_computer science.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -243,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,8 +294,8 @@
   },
   "active": "6d034c9f5ee3ebc0",
   "lastOpenFiles": [
-    "Capacité calorifique.md",
     "_physics.md",
+    "Capacité calorifique.md",
     "Chaleur massique.md",
     "Force.md",
     "Knower as an individual.md",

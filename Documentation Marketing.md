@@ -7,4 +7,4 @@ Created: 2022-09-27
 
 ?
 Comment commercialiser le produit et analyse la demande du marché.
-<!--SR:!2022-10-13,10,250-->
+<!--SR:!2022-11-06,24,250-->

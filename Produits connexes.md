@@ -13,4 +13,4 @@ On peut avoir deux **produits conjoints**, c'est a dire qui sont réalisés a la
 ## produits concurrentiels
 ?
 Pour les produits concurrentiels (exemple du jus de citron et jus de mangue).
-<!--SR:!2022-10-13,11,250-->
+<!--SR:!2022-11-09,27,250-->
