@@ -2,17 +2,16 @@
 tags : [MOC]
 ---
 > [! Theme]
->Investigating The Effect of Different Heuristic Functions of Decision Tree Algorithms on Performance
+>Investigating The Effect of Different Heuristic Functions of Backtracking Algorithms on Performance
   
-To what extent different heuristic functions paired with alpha-beta pruning can be used to improve a Minimax algorithm's performance and speed in computer chess ?
+To what extent does Different Heuristic Functions paired with Alpha-Beta Pruning affect the performance and speed of a Minimax Algorithm in computer chess?
 
 ---
 # Theme
-Étude de la performance de différentes techniques d'élagage dans un algorithme de backtracking.
-
+Étude de l'effet des différentes fonctions heuristiques sur les performances d'un algorithme Minimax dans un jeu à somme nulle
 
 # Question de recherche
-Dans quelle mesure les différentes fonctions heuristiques associées à l'élagage alpha-bêta affectent-elles la vitesse et les performances d'un algorithme Mini-Max pour trouver les coups les plus optimaux aux échecs ?
+Dans quelle mesure différentes fonctions heuristiques associées à l'élagage Alpha-Beta affectent-elles les performances et la vitesse d'un algorithme Minimax aux échecs sur ordinateur ?
 
 ## Présentation
 
@@ -23,13 +22,3 @@ Dans quelle mesure les différentes fonctions heuristiques associées à l'élag
 5. Conclusion
 6. Bibliographie
 7. Annexe (pas nécessaire)
-
-- Accorche; la demonstration de a fuchie de cour contreainte 
-- Annoncez le plan
-- Objectifs principal d memoire
-- Problematique du memoire
-- Presentation de votre demarche ou methodologie de recherche
-
-- Utiliser un programme de verification ortographique
-- fichier ou format PDF
-- page de garde - table des matiers - cart4s 0 graohiques - diagrammes 0 illustraionts annotes - tableaux - equations - formules - calculus -referemces - citations - bilbiiographie - titres - notes de bas de page
