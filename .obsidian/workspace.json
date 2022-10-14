@@ -8,26 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c420f60098c503e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_physics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d034c9f5ee3ebc0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
-                "mode": "preview",
+                "file": "_EE.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -43,15 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déséquilibre du marché.md",
-                "mode": "preview",
+                "file": "_EE.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,6 +57,10 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -109,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déséquilibre du marché.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déséquilibre du marché.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déséquilibre du marché.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -213,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déséquilibre du marché.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,17 +252,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c1964137f430497",
+  "active": "6d034c9f5ee3ebc0",
   "lastOpenFiles": [
-    "Choc de demande.md",
-    "Déséquilibre du marché.md",
     "_economy.md",
+    "_computer science.md",
+    "2022-10-14.md",
     "_physics.md",
-    "Capacité calorifique.md",
     "Chaleur massique.md",
-    "Force.md",
-    "Knower as an individual.md",
-    "Knowers and Knowing.md",
-    "TOK questions.md"
+    "_EE.md",
+    "Déséquilibre du marché.md",
+    "Choc de demande.md",
+    "Capacité calorifique.md",
+    "Force.md"
   ]
 }

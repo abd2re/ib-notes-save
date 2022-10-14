@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
+      "basename": "_EE",
+      "path": "_EE.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Déséquilibre du marché",
+      "path": "Déséquilibre du marché.md"
+    },
+    {
+      "basename": "Choc de demande",
+      "path": "Choc de demande.md"
     },
     {
       "basename": "Chaleur massique",
@@ -191,14 +195,6 @@
     {
       "basename": "Equilibre du marché",
       "path": "Equilibre du marché.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "Rôles d'un ordinateur dans un réseau",
-      "path": "Rôles d'un ordinateur dans un réseau.md"
     }
   ],
   "omittedPaths": [],
