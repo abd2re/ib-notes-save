@@ -2,9 +2,9 @@
 tags : [MOC]
 ---
 > [! Theme]
-> Investigating the performance of different pruning techniques in a backtracking algorithm.
+>Investigating The Effect of Different Heuristic Functions of Decision Tree Algorithms on Performance
   
-To what extent does different heuristics functions paired with alpha-beta pruning affect the speed and performance of a Mini-Max algorithm to find the most optimal moves in chess ?
+To what extent different heuristic functions paired with alpha-beta pruning can be used to improve a Minimax algorithm's performance and speed in computer chess ?
 
 ---
 # Theme
