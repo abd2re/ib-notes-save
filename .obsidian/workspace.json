@@ -32,9 +32,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c1964137f430497",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Déséquilibre du marché.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Déséquilibre du marché.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Déséquilibre du marché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Déséquilibre du marché.md"
               }
             }
           },
@@ -196,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Déséquilibre du marché.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,17 +259,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d1b6639e49a5eb49",
+  "active": "6c1964137f430497",
   "lastOpenFiles": [
+    "Choc de demande.md",
+    "Déséquilibre du marché.md",
+    "_economy.md",
     "_physics.md",
     "Capacité calorifique.md",
     "Chaleur massique.md",
     "Force.md",
     "Knower as an individual.md",
     "Knowers and Knowing.md",
-    "TOK questions.md",
-    "Who is the Knower.md",
-    "Système de basculement.md",
-    "_TOK.md"
+    "TOK questions.md"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Déséquilibre du marché",
+      "path": "Déséquilibre du marché.md"
+    },
+    {
+      "basename": "Choc de demande",
+      "path": "Choc de demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -169,24 +181,12 @@
       "path": "Beta testing.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
     {
       "basename": "Choc d'offre",
       "path": "Choc d'offre.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
     },
     {
       "basename": "Equilibre du marché",
