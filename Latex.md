@@ -89,3 +89,13 @@ else:
 ```
 <!--ID: 1664475647511-->
 <!--ID: 1664475094989-->
+
+---
+$$f\left(x\right)=ln\left(x-1\right)+ln\left(3\right)$$
+$$y=ln\left(x-1\right)+ln\left(3\right)$$
+$$y=ln\left(3x-3\right)$$
+$$y=log_e\left(3x-3\right)$$
+$$e^y=3x-3$$
+$$e^y+3=3x$$
+$$\frac{1}{3}e^y+1=x$$
+$$f^{-1}(x)=\frac{1}{3}e^x+1$$

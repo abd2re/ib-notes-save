@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_EE.md",
-                "mode": "preview",
+                "file": "Latex.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "Latex.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "Latex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,12 +237,12 @@
   },
   "active": "6d034c9f5ee3ebc0",
   "lastOpenFiles": [
+    "_EE.md",
     "_economy.md",
     "_computer science.md",
     "2022-10-14.md",
     "_physics.md",
     "Chaleur massique.md",
-    "_EE.md",
     "Déséquilibre du marché.md",
     "Choc de demande.md",
     "Capacité calorifique.md",

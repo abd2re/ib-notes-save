@@ -7,6 +7,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/_EE",
+  "attachmentFolderPath": "./assets/Latex",
   "fileSortOrder": "alphabetical"
 }
