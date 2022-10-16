@@ -10,14 +10,30 @@
           {
             "id": "6d034c9f5ee3ebc0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex.md",
-                "mode": "source",
+                "file": "Knowers and Knowing.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fd3a5406bcefd6fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,6 +52,10 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -69,13 +89,16 @@
           {
             "id": "d1b6639e49a5eb49",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "Knowers and Knowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "Knowers and Knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "Knowers and Knowing.md"
               }
             }
           },
@@ -178,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Latex.md",
+                "file": "Knowers and Knowing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,17 +247,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d1b6639e49a5eb49",
+  "active": "6d034c9f5ee3ebc0",
   "lastOpenFiles": [
+    "Knowers and Knowing.md",
+    "Knower as an individual.md",
+    "Who is the Knower.md",
+    "_TOK.md",
+    "12 TOK Concepts.md",
+    "Latex.md",
     "_EE.md",
     "_economy.md",
     "_computer science.md",
-    "2022-10-14.md",
-    "_physics.md",
-    "Chaleur massique.md",
-    "Déséquilibre du marché.md",
-    "Choc de demande.md",
-    "Capacité calorifique.md",
-    "Force.md"
+    "2022-10-14.md"
   ]
 }
