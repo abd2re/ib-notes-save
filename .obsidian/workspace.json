@@ -10,10 +10,6 @@
           {
             "id": "6d034c9f5ee3ebc0",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "markdown",
               "state": {
@@ -40,10 +36,6 @@
           {
             "id": "cec7260eaa54fcd6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -77,16 +69,13 @@
           {
             "id": "d1b6639e49a5eb49",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,7 +224,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6d034c9f5ee3ebc0",
+  "active": "d1b6639e49a5eb49",
   "lastOpenFiles": [
     "_EE.md",
     "_economy.md",
