@@ -1,5 +1,7 @@
 ---
 tags: [MOC] 
 ---
-<!--ID: 1664475647485-->
-
+1. [[Présentation d'un document iconographique]]
+2. [[Images and Magazine covers]]
+3. [[Advertisements]]
+4. [[Analyzing speeches]]
