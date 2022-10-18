@@ -28,3 +28,4 @@ banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 
 ## Chapitre 2: System design basics
 1. [[Composants d'un système informatique]]
+2. 

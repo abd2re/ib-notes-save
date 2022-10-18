@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "Images and Magazine covers",
       "path": "Images and Magazine covers.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "TOK template",
@@ -187,18 +199,6 @@
     {
       "basename": "Gestion des versions et mises à jour",
       "path": "Gestion des versions et mises à jour.md"
-    },
-    {
-      "basename": "Mises à jour et correctifs",
-      "path": "Mises à jour et correctifs.md"
-    },
-    {
-      "basename": "Stratégies de mises à jour",
-      "path": "Stratégies de mises à jour.md"
-    },
-    {
-      "basename": "Autoformation",
-      "path": "Autoformation.md"
     }
   ],
   "omittedPaths": [],

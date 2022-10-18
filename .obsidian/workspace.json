@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -229,9 +229,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "_computer science.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -255,6 +255,13 @@
                         "a": 1,
                         "rgb": 6082262
                       }
+                    },
+                    {
+                      "query": "tag:#computer_science",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -267,7 +274,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.41751696941172745,
+                  "scale": 0.4496391993705802,
                   "close": true
                 }
               }
@@ -284,15 +291,15 @@
   },
   "active": "2b945a845b322901",
   "lastOpenFiles": [
-    "Chaleur massique.md",
+    "_CAS.md",
+    "__dashboard.md",
+    "_computer science.md",
+    "Composants d'un système informatique.md",
+    "Déploiement des logiciels.md",
     "_physics.md",
+    "Chaleur massique.md",
     "Capacité calorifique.md",
     "Température.md",
-    "Chaleur.md",
-    "Energie interne.md",
-    "Excalidraw/Drawing 2022-10-18 10.25.14.excalidraw.md",
-    "exercices info.md",
-    "Knowers and Knowing.md",
-    "Rhetorical devices.md"
+    "Chaleur.md"
   ]
 }
