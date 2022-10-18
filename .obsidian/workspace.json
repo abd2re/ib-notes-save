@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76d65871e98cb4cc",
+        "id": "6c3f7ac6c23819c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3f51d30a812f2fdd",
+            "id": "79e97c0edbf3bbeb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonctions du mécanisme des prix.md",
-                "mode": "source",
+                "file": "Fonction de rationnement.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions du mécanisme des prix.md",
+                "file": "Fonction de rationnement.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions du mécanisme des prix.md",
+                "file": "Fonction de rationnement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions du mécanisme des prix.md"
+                "file": "Fonction de rationnement.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fonctions du mécanisme des prix.md",
+                "file": "Fonction de rationnement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,17 +289,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3f51d30a812f2fdd",
+  "active": "79e97c0edbf3bbeb",
   "lastOpenFiles": [
-    "_economy.md",
-    "template/economy template.md",
-    "template/EE template.md",
     "Fonctions du mécanisme des prix.md",
-    "Déséquilibre du marché.md",
-    "Choc de demande.md",
-    "Propriété intellectuelle.md",
+    "Incitations pour les consommateurs et les producteurs.md",
+    "Signaux aux consommateurs et aux producteurs.md",
+    "Changements de prix et boucles de rétroaction.md",
+    "_economy.md",
+    "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-18 10.25.14.excalidraw.md",
     "Sujets informatiques d'importance sociale et éthique.md",
-    "Anonymat.md",
-    "Vie privée.md"
+    "template/economy template.md",
+    "template/EE template.md"
   ]
 }

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Fonction de rationnement",
+      "path": "Fonction de rationnement.md"
+    },
+    {
       "basename": "Fonctions du mécanisme des prix",
       "path": "Fonctions du mécanisme des prix.md"
     },
     {
+      "basename": "Signaux aux consommateurs et aux producteurs",
+      "path": "Signaux aux consommateurs et aux producteurs.md"
+    },
+    {
+      "basename": "Changements de prix et boucles de rétroaction",
+      "path": "Changements de prix et boucles de rétroaction.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Drawing 2022-10-18 16.30.09.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
     },
     {
       "basename": "economy template",
@@ -23,10 +43,6 @@
     {
       "basename": "Propriété intellectuelle",
       "path": "Propriété intellectuelle.md"
-    },
-    {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
     },
     {
       "basename": "Anonymat",
@@ -99,10 +115,6 @@
     {
       "basename": "Energie interne",
       "path": "Energie interne.md"
-    },
-    {
-      "basename": "Drawing 2022-10-18 10.25.14.excalidraw",
-      "path": "Excalidraw/Drawing 2022-10-18 10.25.14.excalidraw.md"
     },
     {
       "basename": "exercices info",
@@ -187,18 +199,6 @@
     {
       "basename": "Latex",
       "path": "Latex.md"
-    },
-    {
-      "basename": "Knower as an individual",
-      "path": "Knower as an individual.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
     }
   ],
   "omittedPaths": [],
