@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Drawing 2022-10-18 10.25.14.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-18 10.25.14.excalidraw.md"
+    },
+    {
+      "basename": "exercices info",
+      "path": "exercices info.md"
+    },
+    {
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
+    },
+    {
       "basename": "Rhetorical devices",
       "path": "Rhetorical devices.md"
     },
@@ -23,10 +55,6 @@
     {
       "basename": "Images and Magazine covers",
       "path": "Images and Magazine covers.md"
-    },
-    {
-      "basename": "exercices info",
-      "path": "exercices info.md"
     },
     {
       "basename": "_computer science",
@@ -81,14 +109,6 @@
       "path": "Présentation d'un document iconographique.md"
     },
     {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
       "basename": "Position relative parabole et droite",
       "path": "Position relative parabole et droite.md"
     },
@@ -117,20 +137,12 @@
       "path": "_economy.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Déséquilibre du marché",
       "path": "Déséquilibre du marché.md"
     },
     {
       "basename": "Choc de demande",
       "path": "Choc de demande.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
     },
     {
       "basename": "Force",
@@ -187,18 +199,6 @@
     {
       "basename": "Autoformation",
       "path": "Autoformation.md"
-    },
-    {
-      "basename": "Formation sur site",
-      "path": "Formation sur site.md"
-    },
-    {
-      "basename": "Formation a distance",
-      "path": "Formation a distance.md"
-    },
-    {
-      "basename": "Correctifs (patchs)",
-      "path": "Correctifs (patchs).md"
     }
   ],
   "omittedPaths": [],

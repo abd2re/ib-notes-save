@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
+  "search": "-path:template -path:assets line:\"tags\" -tag:#IA tag:#physics",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4405096649481592,
-  "close": true
+  "scale": 0.3431080606390967,
+  "close": false
 }

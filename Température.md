@@ -1,7 +1,6 @@
 ---
 tags: [physics] 
 ---
-# Température
 Created: 2022-10-04
 
 ?

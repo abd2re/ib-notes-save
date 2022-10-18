@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7fdf8044802c88a",
+        "id": "a29b347676ccd7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "6d034c9f5ee3ebc0",
+            "id": "2b945a845b322901",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,49 +17,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowers and Knowing.md",
+                "file": "_physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd3a5406bcefd6fd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rhetorical devices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e55bada7ba05b9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercices info.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetorical devices.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -264,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rhetorical devices.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,6 +248,13 @@
                         "a": 1,
                         "rgb": 16711680
                       }
+                    },
+                    {
+                      "query": "tag:#physics",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6082262
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -295,7 +267,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.5115709645432167,
+                  "scale": 0.41751696941172745,
                   "close": true
                 }
               }
@@ -310,17 +282,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd3a5406bcefd6fd",
+  "active": "2b945a845b322901",
   "lastOpenFiles": [
-    "Analyzing speeches.md",
-    "Rhetorical devices.md",
-    "Paralanguage.md",
-    "_english.md",
-    "Advertisements.md",
-    "Images and Magazine covers.md",
+    "Chaleur massique.md",
+    "_physics.md",
+    "Capacité calorifique.md",
+    "Température.md",
+    "Chaleur.md",
+    "Energie interne.md",
+    "Excalidraw/Drawing 2022-10-18 10.25.14.excalidraw.md",
     "exercices info.md",
-    "_computer science.md",
-    "template/TOK template.md",
-    "template/physics template.md"
+    "Knowers and Knowing.md",
+    "Rhetorical devices.md"
   ]
 }
