@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Fonctions du mécanisme des prix",
+      "path": "Fonctions du mécanisme des prix.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "Déséquilibre du marché",
+      "path": "Déséquilibre du marché.md"
+    },
+    {
+      "basename": "Propriété intellectuelle",
+      "path": "Propriété intellectuelle.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Anonymat",
+      "path": "Anonymat.md"
+    },
+    {
+      "basename": "Vie privée",
+      "path": "Vie privée.md"
+    },
+    {
+      "basename": "Authenticité",
+      "path": "Authenticité.md"
+    },
+    {
+      "basename": "Sécurité",
+      "path": "Sécurité.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
+      "basename": "Incohérence",
+      "path": "Incohérence.md"
+    },
+    {
+      "basename": "Intégrité",
+      "path": "Intégrité.md"
+    },
+    {
+      "basename": "Fiabilité",
+      "path": "Fiabilité.md"
+    },
+    {
+      "basename": "Sécurité de l'information",
+      "path": "Sécurité de l'information.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -11,10 +79,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
     },
     {
       "basename": "_physics",
@@ -97,20 +161,8 @@
       "path": "template/english template.md"
     },
     {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
       "basename": "date",
       "path": "template/date.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
     },
     {
       "basename": "CAS template",
@@ -145,60 +197,8 @@
       "path": "_EE.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
-    },
-    {
       "basename": "Choc de demande",
       "path": "Choc de demande.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
-    },
-    {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
-      "basename": "Who is the Knower",
-      "path": "Who is the Knower.md"
-    },
-    {
-      "basename": "Système de basculement",
-      "path": "Système de basculement.md"
-    },
-    {
-      "basename": "Fonctionnement en parallèle",
-      "path": "Fonctionnement en parallèle.md"
-    },
-    {
-      "basename": "Big Bang",
-      "path": "Big Bang.md"
-    },
-    {
-      "basename": "Pilotage",
-      "path": "Pilotage.md"
-    },
-    {
-      "basename": "Conversion progressive",
-      "path": "Conversion progressive.md"
-    },
-    {
-      "basename": "Matériel informatique",
-      "path": "Matériel informatique.md"
-    },
-    {
-      "basename": "Logiciel informatique",
-      "path": "Logiciel informatique.md"
-    },
-    {
-      "basename": "Gestion des versions et mises à jour",
-      "path": "Gestion des versions et mises à jour.md"
     }
   ],
   "omittedPaths": [],

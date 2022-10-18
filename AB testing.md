@@ -7,4 +7,4 @@ Created: 2022-09-27
 
 ?
 50% des utilisateurs sont utilisés pour tester une nouvelle fonctionnalité.
-<!--SR:!2022-10-18,15,270-->
+<!--SR:!2022-12-01,44,270-->
