@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Sécurité de l'information",
+      "path": "Sécurité de l'information.md"
+    },
+    {
+      "basename": "Paralanguage",
+      "path": "Paralanguage.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Fiabilité",
+      "path": "Fiabilité.md"
+    },
+    {
+      "basename": "Incohérence",
+      "path": "Incohérence.md"
+    },
+    {
+      "basename": "Intégrité",
+      "path": "Intégrité.md"
+    },
+    {
       "basename": "Fonction de rationnement",
       "path": "Fonction de rationnement.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "Drawing 2022-10-18 16.30.09.excalidraw",
       "path": "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md"
-    },
-    {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
     },
     {
       "basename": "economy template",
@@ -63,22 +83,6 @@
     {
       "basename": "computer science template",
       "path": "template/computer science template.md"
-    },
-    {
-      "basename": "Incohérence",
-      "path": "Incohérence.md"
-    },
-    {
-      "basename": "Intégrité",
-      "path": "Intégrité.md"
-    },
-    {
-      "basename": "Fiabilité",
-      "path": "Fiabilité.md"
-    },
-    {
-      "basename": "Sécurité de l'information",
-      "path": "Sécurité de l'information.md"
     },
     {
       "basename": "Composants d'un système informatique",
@@ -131,10 +135,6 @@
     {
       "basename": "Analyzing speeches",
       "path": "Analyzing speeches.md"
-    },
-    {
-      "basename": "Paralanguage",
-      "path": "Paralanguage.md"
     },
     {
       "basename": "_english",
