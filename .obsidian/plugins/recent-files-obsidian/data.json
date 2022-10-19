@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Advertisements",
+      "path": "Advertisements.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Knowers and Knowing",
       "path": "Knowers and Knowing.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
     },
     {
       "basename": "Sécurité de l'information",
@@ -113,10 +129,6 @@
       "path": "_physics.md"
     },
     {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
       "basename": "Chaleur massique",
       "path": "Chaleur massique.md"
     },
@@ -139,14 +151,6 @@
     {
       "basename": "Analyzing speeches",
       "path": "Analyzing speeches.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Advertisements",
-      "path": "Advertisements.md"
     },
     {
       "basename": "Images and Magazine covers",
@@ -195,10 +199,6 @@
     {
       "basename": "12 TOK Concepts",
       "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Latex.md"
     }
   ],
   "omittedPaths": [],

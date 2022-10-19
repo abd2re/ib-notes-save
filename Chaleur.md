@@ -9,3 +9,4 @@ La chaleur (énergie thermique) est un transfert d'énergie dut a une différenc
 <!--SR:!2022-10-29,11,190-->
 
 chaleur =:: énergie thermique
+<!--SR:!2022-10-21,2,244-->
