@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowers and Knowing.md",
-                "mode": "preview",
+                "file": "12 TOK Concepts.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowers and Knowing.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowers and Knowing.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowers and Knowing.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Knowers and Knowing.md",
+                "file": "12 TOK Concepts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -333,14 +333,14 @@
   "active": "999e1bae8a80289f",
   "lastOpenFiles": [
     "_TOK.md",
-    "12 TOK Concepts.md",
     "Key features of stories.md",
+    "Knowers and Knowing.md",
+    "12 TOK Concepts.md",
+    "Who is the Knower.md",
+    "Knower as an individual.md",
     "Denouement.md",
     "Falling action.md",
     "Climax.md",
-    "Rising action.md",
-    "Characterization.md",
-    "Narrative technique.md",
-    "Short stories or novels.md"
+    "Rising action.md"
   ]
 }

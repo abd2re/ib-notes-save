@@ -25,4 +25,8 @@ How do we know ?
 ### TOK Essay
 - 1600 words
 - 6 prescribed essay titles
-<!--ID: 1664475094920-->
+## Part 5: Framework
+- Scope
+- Perspective
+- Tools and methods
+- Ethics
