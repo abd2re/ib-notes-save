@@ -11,3 +11,8 @@ Created: 2022-10-18
 - [[Vie privée]]
 - [[Anonymat]]
 - [[Propriété intellectuelle]]
+- [[Fracture numérique et égalité d'accès]]
+- [[Surveillance]]
+- [[Mondialisation et diversité culturelle]]
+- [[Normes et protocoles]]
+- [[Personnes et machines]]

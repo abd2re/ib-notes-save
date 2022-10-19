@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "_EE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "_EE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "_EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 TOK Concepts.md"
+                "file": "_EE.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "_EE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -332,15 +332,15 @@
   },
   "active": "999e1bae8a80289f",
   "lastOpenFiles": [
-    "_TOK.md",
-    "Key features of stories.md",
-    "Knowers and Knowing.md",
-    "12 TOK Concepts.md",
-    "Who is the Knower.md",
-    "Knower as an individual.md",
-    "Denouement.md",
-    "Falling action.md",
-    "Climax.md",
-    "Rising action.md"
+    "Personnes et machines.md",
+    "Sujets informatiques d'importance sociale et éthique.md",
+    "Normes et protocoles.md",
+    "Mondialisation et diversité culturelle.md",
+    "Surveillance.md",
+    "Fracture numérique et égalité d'accès.md",
+    "Sécurité de l'information.md",
+    "Composants d'un système informatique.md",
+    "_computer science.md",
+    "_TOK.md"
   ]
 }

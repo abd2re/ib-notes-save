@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Personnes et machines",
+      "path": "Personnes et machines.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Normes et protocoles",
+      "path": "Normes et protocoles.md"
+    },
+    {
+      "basename": "Mondialisation et diversité culturelle",
+      "path": "Mondialisation et diversité culturelle.md"
+    },
+    {
+      "basename": "Surveillance",
+      "path": "Surveillance.md"
+    },
+    {
+      "basename": "Fracture numérique et égalité d'accès",
+      "path": "Fracture numérique et égalité d'accès.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
-      "basename": "Key features of stories",
-      "path": "Key features of stories.md"
-    },
-    {
       "basename": "Knowers and Knowing",
       "path": "Knowers and Knowing.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "Key features of stories",
+      "path": "Key features of stories.md"
     },
     {
       "basename": "Who is the Knower",
@@ -117,10 +153,6 @@
       "path": "Paralanguage.md"
     },
     {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
-    },
-    {
       "basename": "Fiabilité",
       "path": "Fiabilité.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Propriété intellectuelle",
       "path": "Propriété intellectuelle.md"
-    },
-    {
-      "basename": "Anonymat",
-      "path": "Anonymat.md"
-    },
-    {
-      "basename": "Vie privée",
-      "path": "Vie privée.md"
-    },
-    {
-      "basename": "Authenticité",
-      "path": "Authenticité.md"
-    },
-    {
-      "basename": "Sécurité",
-      "path": "Sécurité.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     }
   ],
   "omittedPaths": [],
