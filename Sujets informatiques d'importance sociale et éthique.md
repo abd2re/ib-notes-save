@@ -16,3 +16,9 @@ Created: 2022-10-18
 - [[Mondialisation et diversité culturelle]]
 - [[Normes et protocoles]]
 - [[Personnes et machines]]
+- [[Citoyenneté numérique]]
+
+Un système informatique a des avantages et des inconvénients. Les tableaux suivants illustrent quelques exemples très simples.
+![[image-20221019170046019.png]]
+![[image-20221019170048372.png]]
+

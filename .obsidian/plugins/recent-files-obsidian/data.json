@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "_EE",
-      "path": "_EE.md"
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Citoyenneté numérique",
+      "path": "Citoyenneté numérique.md"
     },
     {
       "basename": "Personnes et machines",
       "path": "Personnes et machines.md"
     },
     {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
+      "basename": "_EE",
+      "path": "_EE.md"
     },
     {
       "basename": "Normes et protocoles",
@@ -195,10 +199,6 @@
     {
       "basename": "Déséquilibre du marché",
       "path": "Déséquilibre du marché.md"
-    },
-    {
-      "basename": "Propriété intellectuelle",
-      "path": "Propriété intellectuelle.md"
     }
   ],
   "omittedPaths": [],
