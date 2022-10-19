@@ -8,6 +8,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "999e1bae8a80289f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowers and Knowing.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4036c2f03ed17c3a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conflicts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23ac802e3a768b97",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -17,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advertisements.md",
-                "mode": "preview",
+                "file": "Short stories or novels.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advertisements.md",
+                "file": "Knowers and Knowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advertisements.md",
+                "file": "Knowers and Knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advertisements.md"
+                "file": "Knowers and Knowing.md"
               }
             }
           },
@@ -229,11 +263,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Advertisements.md",
+                "file": "Knowers and Knowing.md",
                 "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
+                  "collapse-filter": true,
+                  "search": "-tag:#MOC",
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -262,11 +296,18 @@
                         "a": 1,
                         "rgb": 11392604
                       }
+                    },
+                    {
+                      "query": "tag:#english",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
                     }
                   ],
                   "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": -1,
+                  "textFadeMultiplier": -2.4,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
@@ -274,7 +315,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.4496391993705802,
+                  "scale": 0.36420622027388916,
                   "close": true
                 }
               }
@@ -289,17 +330,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "23ac802e3a768b97",
+  "active": "999e1bae8a80289f",
   "lastOpenFiles": [
-    "Analyzing speeches.md",
-    "_english.md",
-    "Knowers and Knowing.md",
     "_TOK.md",
-    "Température.md",
-    "Masse.md",
-    "Sécurité de l'information.md",
-    "Paralanguage.md",
-    "Sujets informatiques d'importance sociale et éthique.md",
-    "Fiabilité.md"
+    "12 TOK Concepts.md",
+    "Key features of stories.md",
+    "Denouement.md",
+    "Falling action.md",
+    "Climax.md",
+    "Rising action.md",
+    "Characterization.md",
+    "Narrative technique.md",
+    "Short stories or novels.md"
   ]
 }
