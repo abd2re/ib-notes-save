@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
+      "basename": "Changements d'états",
+      "path": "Changements d'états.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "Conflicts",
+      "path": "Conflicts.md"
+    },
+    {
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
       "basename": "Rising action",
       "path": "Rising action.md"
     },
@@ -21,10 +69,6 @@
       "path": "Character.md"
     },
     {
-      "basename": "Conflicts",
-      "path": "Conflicts.md"
-    },
-    {
       "basename": "Climax",
       "path": "Climax.md"
     },
@@ -43,10 +87,6 @@
     {
       "basename": "Key features of stories",
       "path": "Key features of stories.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
     },
     {
       "basename": "_english",
@@ -141,10 +181,6 @@
       "path": "Advertisements.md"
     },
     {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
       "basename": "Masse",
       "path": "Masse.md"
     },
@@ -159,46 +195,6 @@
     {
       "basename": "Fiabilité",
       "path": "Fiabilité.md"
-    },
-    {
-      "basename": "Incohérence",
-      "path": "Incohérence.md"
-    },
-    {
-      "basename": "Intégrité",
-      "path": "Intégrité.md"
-    },
-    {
-      "basename": "Fonction de rationnement",
-      "path": "Fonction de rationnement.md"
-    },
-    {
-      "basename": "Fonctions du mécanisme des prix",
-      "path": "Fonctions du mécanisme des prix.md"
-    },
-    {
-      "basename": "Signaux aux consommateurs et aux producteurs",
-      "path": "Signaux aux consommateurs et aux producteurs.md"
-    },
-    {
-      "basename": "Changements de prix et boucles de rétroaction",
-      "path": "Changements de prix et boucles de rétroaction.md"
-    },
-    {
-      "basename": "Drawing 2022-10-18 16.30.09.excalidraw",
-      "path": "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
     }
   ],
   "omittedPaths": [],

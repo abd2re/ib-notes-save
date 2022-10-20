@@ -11,7 +11,7 @@ banner_y: 0.5
 3. Equilibre thermique et principe du thermomètre
 ## 2. Propriété thermique de la matière
 1. [[Chaleur massique]], [[Capacité calorifique]]
-2. 
+2. [[Changements d'états]], [[Chaleur latente]]
 
 ![[image-20221018102325503.png]]
 

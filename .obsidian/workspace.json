@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d580871330cb7477",
+        "id": "7cdc7c5b06efc297",
         "type": "tabs",
         "children": [
           {
-            "id": "999e1bae8a80289f",
+            "id": "6804d95d7b9b4f44",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,42 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rising action.md",
+                "file": "_physics.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4036c2f03ed17c3a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conflicts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ac802e3a768b97",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Short stories or novels.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -153,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rising action.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rising action.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rising action.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -246,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "6299f388c1ecfa05",
@@ -263,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rising action.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -315,7 +281,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.32657612187944995,
+                  "scale": 0.3725966053295715,
                   "close": true
                 }
               }
@@ -330,17 +296,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "999e1bae8a80289f",
+  "active": "6804d95d7b9b4f44",
   "lastOpenFiles": [
-    "Characterization.md",
-    "Narrative technique.md",
-    "Exposition.md",
-    "Character.md",
-    "Conflicts.md",
-    "Climax.md",
-    "Falling action.md",
-    "Rising action.md",
-    "Denouement.md",
-    "Setting.md"
+    "Energie cinétique.md",
+    "Température.md",
+    "Chaleur.md",
+    "_physics.md",
+    "Chaleur latente.md",
+    "Changements d'états.md",
+    "Energie interne.md",
+    "template/EE template.md",
+    "_french B.md",
+    "template/physics template.md"
   ]
 }
