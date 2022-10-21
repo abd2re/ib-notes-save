@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Fonctions du mécanisme des prix",
       "path": "Fonctions du mécanisme des prix.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     }
   ],
   "omittedPaths": [],
