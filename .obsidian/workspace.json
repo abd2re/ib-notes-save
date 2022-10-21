@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demande.md",
+                "file": "Fonctions du mécanisme des prix.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande.md",
+                "file": "Fonctions du mécanisme des prix.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande.md",
+                "file": "Fonctions du mécanisme des prix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande.md"
+                "file": "Fonctions du mécanisme des prix.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande.md",
+                "file": "Fonctions du mécanisme des prix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -298,6 +298,7 @@
   },
   "active": "6804d95d7b9b4f44",
   "lastOpenFiles": [
+    "Demande.md",
     "Offre.md",
     "Conceptes de base economie.md",
     "Ecriture mathématique de la demande.md",
@@ -306,7 +307,6 @@
     "Déterminants hors-prix de l'offre.md",
     "Déterminants prix de la demande.md",
     "Equilibre du marché.md",
-    "Déséquilibre du marché.md",
-    "Choc de demande.md"
+    "Déséquilibre du marché.md"
   ]
 }
