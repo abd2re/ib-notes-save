@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Force",
+      "path": "Force.md"
+    },
+    {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
+      "basename": "Serie geometrique",
+      "path": "Serie geometrique.md"
+    },
+    {
+      "basename": "Fracture numérique et égalité d'accès",
+      "path": "Fracture numérique et égalité d'accès.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Loi de l'offre",
-      "path": "Loi de l'offre.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
-      "basename": "Changements d'états",
-      "path": "Changements d'états.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
     }
   ],
   "omittedPaths": [],

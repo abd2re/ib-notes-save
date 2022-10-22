@@ -23,7 +23,4 @@ $$S_n=a\left(\frac{r^{n}-1}{r-1}\right)\;\text{or}\;a\left(\frac{1-r^{n}}{1-r}\r
 
 If $r<1\;\text{and}\;r>-1$ then the geometric sequence is convergent to 0 so we can write $S_\infty=$
 ?
-$$S_\infty=\frac{a}{1-r}$$
-<!--ID: 1664475094864-->
-
-<!--SR:!2022-10-12,27,292-->
+$$S_\infty=\frac{a}{1-r}$$<!--SR:!2023-03-21,150,312-->
