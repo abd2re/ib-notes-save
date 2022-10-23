@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Vitesse",
       "path": "Vitesse.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Marché",
       "path": "Marché.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     }
   ],
   "omittedPaths": [],
