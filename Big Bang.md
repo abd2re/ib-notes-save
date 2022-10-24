@@ -6,4 +6,4 @@ Created: 2022-09-21
 
 ?
 Dans cette méthode de mise en oeuvre, tous les systèmes existants sont retirés ou mis hors service et sont remplacés par un nouveau système.
-<!--SR:!2022-10-24,21,250-->
+<!--SR:!2022-12-17,54,250-->

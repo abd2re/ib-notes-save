@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
+    },
+    {
+      "basename": "Inertie",
+      "path": "Inertie.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Velocite",
+      "path": "Velocite.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -9,28 +49,12 @@
       "path": "Vitesse.md"
     },
     {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Velocite",
-      "path": "Velocite.md"
-    },
-    {
       "basename": "Force",
       "path": "Force.md"
     },
     {
-      "basename": "Inertie",
-      "path": "Inertie.md"
-    },
-    {
       "basename": "Acceleration",
       "path": "Acceleration.md"
-    },
-    {
-      "basename": "Masse",
-      "path": "Masse.md"
     },
     {
       "basename": "Serie geometrique",
@@ -175,30 +199,6 @@
     {
       "basename": "Effet de substitution",
       "path": "Effet de substitution.md"
-    },
-    {
-      "basename": "Nature et comportement humain",
-      "path": "Nature et comportement humain.md"
-    },
-    {
-      "basename": "Effet de revenu",
-      "path": "Effet de revenu.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
     }
   ],
   "omittedPaths": [],
