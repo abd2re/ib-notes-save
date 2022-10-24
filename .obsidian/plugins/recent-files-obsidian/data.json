@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
       "basename": "Chaleur",
       "path": "Chaleur.md"
     },
     {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
       "basename": "Capacité calorifique",
       "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
     },
     {
       "basename": "Chaleur latente",
@@ -31,10 +35,6 @@
     {
       "basename": "Velocite",
       "path": "Velocite.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
     },
     {
       "basename": "_physics",
