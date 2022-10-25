@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Fonctions du mécanisme des prix",
       "path": "Fonctions du mécanisme des prix.md"
+    },
+    {
+      "basename": "Fonction de rationnement",
+      "path": "Fonction de rationnement.md"
+    },
+    {
+      "basename": "Changements de prix et boucles de rétroaction",
+      "path": "Changements de prix et boucles de rétroaction.md"
     },
     {
       "basename": "Chaleur",
@@ -161,16 +173,8 @@
       "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
     },
     {
-      "basename": "Changements de prix et boucles de rétroaction",
-      "path": "Changements de prix et boucles de rétroaction.md"
-    },
-    {
       "basename": "Signaux aux consommateurs et aux producteurs",
       "path": "Signaux aux consommateurs et aux producteurs.md"
-    },
-    {
-      "basename": "Fonction de rationnement",
-      "path": "Fonction de rationnement.md"
     },
     {
       "basename": "Réglementations",
@@ -195,10 +199,6 @@
     {
       "basename": "Choc d'offre",
       "path": "Choc d'offre.md"
-    },
-    {
-      "basename": "Effet de substitution",
-      "path": "Effet de substitution.md"
     }
   ],
   "omittedPaths": [],
