@@ -16,7 +16,7 @@ $c$ = Chaleur massique (s'exprime en $Jkg^{-1}\degree c^{-1}$ ou $Jkg^{-1}K^{-1}
 $m$ = masse en $kg$
 $\Delta \theta$ = température en $\degree c$ ou $K$
 ![[image-20221011104855058.png]]
-<!--SR:!2022-10-25,9,250-->
+<!--SR:!2022-11-24,30,270-->
 
 
 
