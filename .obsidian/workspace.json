@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_EE.md",
+                "file": "Chaleur massique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_EE.md",
+                "file": "Chaleur massique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_EE.md",
+                "file": "Chaleur massique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_EE.md"
+                "file": "Chaleur massique.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_EE.md",
+                "file": "Chaleur massique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -298,15 +298,15 @@
   },
   "active": "8f07b9b69339b1b3",
   "lastOpenFiles": [
+    "Capacité calorifique.md",
+    "Chaleur.md",
+    "Température.md",
+    "Energie interne.md",
+    "_EE.md",
     "_economy.md",
     "Fonctions du mécanisme des prix.md",
     "Changements de prix et boucles de rétroaction.md",
     "Signaux aux consommateurs et aux producteurs.md",
-    "Fonction de rationnement.md",
-    "Chaleur.md",
-    "Energie interne.md",
-    "Capacité calorifique.md",
-    "Température.md",
-    "Chaleur latente.md"
+    "Fonction de rationnement.md"
   ]
 }

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -21,22 +41,6 @@
       "path": "Changements de prix et boucles de rétroaction.md"
     },
     {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
-    },
-    {
       "basename": "Chaleur latente",
       "path": "Chaleur latente.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Inertie",
       "path": "Inertie.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
     },
     {
       "basename": "Velocite",
