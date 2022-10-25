@@ -4,7 +4,8 @@ tags : [MOC]
 > [! Theme]
 >Investigating The Effect of Different Heuristic Functions of Backtracking Algorithms on Performance
   
-To what extent does Different Heuristic Functions paired with Alpha-Beta Pruning affect the performance and speed of a Minimax Algorithm in computer chess?
+To what extent do different heuristic functions paired with Alpha-Beta pruning affect the performance and speed of a Minimax algorithm at different levels of depth in computer chess?
+
 
 ---
 # Theme
