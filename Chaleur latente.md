@@ -10,7 +10,7 @@ $$Q=mL$$
 - $Q$ = Chaleur totale (en $J$ ou $Nm$)
 - $m$ = masse (en $kg$)
 - $L$ = Chaleur latente (en $Jkg^{-1}$)
-<!--SR:!2022-10-26,4,270-->
+<!--SR:!2022-11-11,16,290-->
 
 **Définition**
 ?
