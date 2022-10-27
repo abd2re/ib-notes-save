@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
     },
     {
       "basename": "Chaleur",
@@ -17,8 +13,12 @@
       "path": "Température.md"
     },
     {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
     },
     {
       "basename": "_EE",

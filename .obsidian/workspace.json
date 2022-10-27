@@ -23,8 +23,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc25bf5ead3258f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energie interne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacité calorifique.md",
+                "file": "Energie interne.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capacité calorifique.md",
+                "file": "Energie interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capacité calorifique.md"
+                "file": "Energie interne.md"
               }
             }
           },
@@ -229,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Capacité calorifique.md",
+                "file": "Energie interne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -281,7 +299,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.32221402537881255,
+                  "scale": 0.399262876023778,
                   "close": true
                 }
               }
@@ -293,16 +311,13 @@
     "direction": "horizontal",
     "width": 586.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "8f07b9b69339b1b3",
+  "active": "dc25bf5ead3258f9",
   "lastOpenFiles": [
-    "Chaleur massique.md",
-    "Capacité calorifique.md",
     "Chaleur.md",
     "Température.md",
     "Energie interne.md",
+    "Chaleur massique.md",
+    "Capacité calorifique.md",
     "_EE.md",
     "_economy.md",
     "Fonctions du mécanisme des prix.md",
