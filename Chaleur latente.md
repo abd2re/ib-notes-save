@@ -17,5 +17,5 @@ $$Q=mL$$
 - La chaleur latente est la quantité de chaleur nécessaire pour changer d'état l'unité de masse d'une substance a la temperature de changement d'état.
 	- *Chaleur latente de fusion*: La quantité de chaleur nécessaire pour transformer 1 kg d'une substance solide en liquide sans aucun changement de température.
 	- *Chaleur latente de vaporisation*: La quantité de chaleur nécessaire pour transformer 1 kg d'une substance liquide en gaz sans aucun changement de température.
-<!--SR:!2022-10-27,3,230-->
+<!--SR:!2022-10-30,2,210-->
 

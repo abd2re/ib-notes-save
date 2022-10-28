@@ -8,7 +8,7 @@ Created: 2022-10-17
 1. Nature du document
 2. Origine et contexte de l'oeuvre
 3. Sujet général
-<!--SR:!2022-10-27,1,130-->
+<!--SR:!2022-10-29,1,130-->
 
 ## Etape 2: Analyse du document
 ?
@@ -17,5 +17,5 @@ Created: 2022-10-17
 3. Ambiance (contraste, couleurs, forme, ombres et lumières)
 4. Qu'est-ce que l'auteur a voulu montrer ?
 5. Quel sentiment l'oeuvre suscite-elle chez vous ?
-<!--SR:!2022-10-28,2,150-->
+<!--SR:!2022-10-29,1,130-->
 
