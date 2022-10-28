@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
+      "basename": "Capacité calorifique",
+      "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
       "basename": "Chaleur",
       "path": "Chaleur.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Température",
       "path": "Température.md"
-    },
-    {
-      "basename": "Capacité calorifique",
-      "path": "Capacité calorifique.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
     },
     {
       "basename": "_EE",
@@ -39,10 +43,6 @@
     {
       "basename": "Changements de prix et boucles de rétroaction",
       "path": "Changements de prix et boucles de rétroaction.md"
-    },
-    {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
     },
     {
       "basename": "Masse",
