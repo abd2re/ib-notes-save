@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
       "basename": "Energie interne",
       "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
     },
     {
       "basename": "_physics",
@@ -21,20 +33,8 @@
       "path": "Acceleration.md"
     },
     {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
       "basename": "Chaleur massique",
       "path": "Chaleur massique.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
     },
     {
       "basename": "_EE",
