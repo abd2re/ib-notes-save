@@ -23,26 +23,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc25bf5ead3258f9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chaleur latente.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "Capacité calorifique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "Capacité calorifique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chaleur latente.md"
+                "file": "Capacité calorifique.md"
               }
             }
           },
@@ -247,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chaleur latente.md",
+                "file": "Capacité calorifique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -299,7 +281,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.399262876023778,
+                  "scale": 0.39926287602377825,
                   "close": true
                 }
               }
@@ -311,17 +293,17 @@
     "direction": "horizontal",
     "width": 586.5
   },
-  "active": "dc25bf5ead3258f9",
+  "active": "8f07b9b69339b1b3",
   "lastOpenFiles": [
+    "Sujets informatiques d'importance sociale et éthique.md",
+    "Energie interne.md",
+    "Acceleration.md",
+    "Chaleur latente.md",
     "Capacité calorifique.md",
     "Chaleur massique.md",
-    "Chaleur latente.md",
     "Chaleur.md",
-    "Energie interne.md",
     "Température.md",
     "_EE.md",
-    "_economy.md",
-    "Fonctions du mécanisme des prix.md",
-    "Changements de prix et boucles de rétroaction.md"
+    "_economy.md"
   ]
 }

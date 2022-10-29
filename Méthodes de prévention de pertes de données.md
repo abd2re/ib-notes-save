@@ -18,7 +18,7 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 4. Installation d'un programme Antivirus
 5. Techniques de réduction des erreurs humaines et/ou sécurité intégrée (fichiers supprimés accidentellement)
 6. Sauvegarde automatique en ligne (iCIoud, Dropbox)
-<!--SR:!2022-10-29,18,228-->
+<!--SR:!2022-12-11,43,228-->
 
 ### Solutions:
 ?

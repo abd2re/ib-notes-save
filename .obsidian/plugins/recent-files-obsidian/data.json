@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
       "basename": "Capacité calorifique",
       "path": "Capacité calorifique.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
     },
     {
       "basename": "Chaleur massique",
@@ -15,10 +27,6 @@
     {
       "basename": "Chaleur",
       "path": "Chaleur.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
     },
     {
       "basename": "Température",
@@ -71,10 +79,6 @@
     {
       "basename": "Force",
       "path": "Force.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
     },
     {
       "basename": "Serie geometrique",
@@ -195,10 +199,6 @@
     {
       "basename": "Choc de demande",
       "path": "Choc de demande.md"
-    },
-    {
-      "basename": "Choc d'offre",
-      "path": "Choc d'offre.md"
     }
   ],
   "omittedPaths": [],
