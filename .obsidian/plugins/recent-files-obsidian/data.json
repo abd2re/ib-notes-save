@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Capacité calorifique",
       "path": "Capacité calorifique.md"
     },
     {
       "basename": "Sujets informatiques d'importance sociale et éthique",
       "path": "Sujets informatiques d'importance sociale et éthique.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
     },
     {
       "basename": "Acceleration",
@@ -63,10 +67,6 @@
     {
       "basename": "Velocite",
       "path": "Velocite.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_computer science",
