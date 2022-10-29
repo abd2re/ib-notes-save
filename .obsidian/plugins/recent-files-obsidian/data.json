@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "2022-10-29",
+      "path": "2022-10-29.md"
+    },
+    {
       "basename": "Chaleur",
       "path": "Chaleur.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Impôts indirectes",
-      "path": "Impôts indirectes.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
     }
   ],
   "omittedPaths": [],
