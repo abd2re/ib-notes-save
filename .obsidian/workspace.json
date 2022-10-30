@@ -15,13 +15,8 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formules de Viète.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -119,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules de Viète.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules de Viète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,9 +163,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formules de Viète.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Formules de Viète.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -295,6 +285,7 @@
   },
   "active": "f684b0430aa6eece",
   "lastOpenFiles": [
+    "Formules de Viète.md",
     "_math.md",
     "2022-10-29.md",
     "Chaleur.md",
@@ -303,7 +294,6 @@
     "Chaleur latente.md",
     "_physics.md",
     "Capacité calorifique.md",
-    "Sujets informatiques d'importance sociale et éthique.md",
-    "Acceleration.md"
+    "Sujets informatiques d'importance sociale et éthique.md"
   ]
 }
