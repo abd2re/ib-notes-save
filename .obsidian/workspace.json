@@ -15,8 +15,13 @@
               "stack": []
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Position relative parabole et droite.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Position relative parabole et droite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Position relative parabole et droite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +170,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Position relative parabole et droite.md"
+              }
             }
           },
           {
@@ -220,6 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Position relative parabole et droite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -285,8 +295,8 @@
   },
   "active": "f684b0430aa6eece",
   "lastOpenFiles": [
-    "Formules de Viète.md",
     "_math.md",
+    "Formules de Viète.md",
     "2022-10-29.md",
     "Chaleur.md",
     "Température.md",

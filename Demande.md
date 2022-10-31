@@ -16,5 +16,5 @@ La demande est :: la quantité d'un bien ou d'un service que les consommateurs s
 
 > [!important]
 > Somme des demandes individuelles = ::demande du [[marché]]
-<!--SR:!2022-10-30,28,270-->
+<!--SR:!2023-02-17,109,290-->
 

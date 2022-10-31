@@ -8,4 +8,4 @@ Created: 2022-09-27
 ?
 Déclarations qui identifient les attributs, les caractéristiques ou les qualités d'un système.
 C'est le fondement de tout ce qui est mis en oeuvre.
-<!--SR:!2022-10-30,19,230-->
+<!--SR:!2022-12-19,49,230-->

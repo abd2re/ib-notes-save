@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Formules de Viète",
-      "path": "Formules de Viète.md"
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
     },
     {
       "basename": "_math",
       "path": "_math.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
     },
     {
       "basename": "2022-10-29",
@@ -195,10 +199,6 @@
     {
       "basename": "Réglementations",
       "path": "Réglementations.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
     }
   ],
   "omittedPaths": [],
