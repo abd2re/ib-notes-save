@@ -14,9 +14,9 @@ Created: 2022-10-17
  5. Anadiplosis :: is the repetition of the last word of sentence as the first word of the next sentence. Such as "They call for you the general who b ecame a slave; the slave who became a gladiator; the gladiator that defied an imperial" 
 <!--SR:!2022-11-02,11,250-->
  6. Amplification :: is the repetition of a word or phrase with the addition of more details in order to emphasis something. Such as "America has given the negro people a bad check, a check which has come back marked insufficient funds" (Martin Luther King) 
-<!--SR:!2022-10-31,9,250-->
+<!--SR:!2022-11-25,25,250-->
  7. Metaphor :: is a comparaison of two things by speaking of one in terms of the other. Such as "The mother of all battles " 
-<!--SR:!2022-10-30,8,250-->
+<!--SR:!2022-11-19,19,250-->
  8. Alliteration :: is the repetition of same sounds or letter at the beginning of several words in a sequence. Such as "Let us go forth to lead the land we love" (JFK) 
 <!--SR:!2022-11-05,14,270-->
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
