@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Sanctum",
+  "cssTheme": "Atom",
   "baseFontSize": 19,
   "theme": "moonstone",
-  "accentColor": ""
+  "accentColor": "#32bb0c"
 }

@@ -15,8 +15,13 @@
               "stack": []
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowers and Knowing.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowers and Knowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowers and Knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +170,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowers and Knowing.md"
+              }
             }
           },
           {
@@ -220,6 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Knowers and Knowing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -271,7 +281,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.24647346124548264,
+                  "scale": 0.14850856345946206,
                   "close": true
                 }
               }
@@ -285,15 +295,15 @@
   },
   "active": "f684b0430aa6eece",
   "lastOpenFiles": [
-    "_economy.md",
-    "_french B.md",
     "_TOK.md",
+    "_EE.md",
+    "_economy.md",
+    "_math.md",
+    "_french B.md",
     "_physics.md",
     "Position relative parabole et droite.md",
-    "_math.md",
     "Formules de Viète.md",
     "2022-10-29.md",
-    "Chaleur.md",
-    "Température.md"
+    "Chaleur.md"
   ]
 }
