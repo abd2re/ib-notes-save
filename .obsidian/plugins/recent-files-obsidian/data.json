@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Position relative parabole et droite",
       "path": "Position relative parabole et droite.md"
     },
@@ -33,10 +49,6 @@
       "path": "Chaleur latente.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Capacité calorifique",
       "path": "Capacité calorifique.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "_EE",
       "path": "_EE.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Fonctions du mécanisme des prix",
@@ -191,14 +199,6 @@
     {
       "basename": "Excèdent d'offre (surplus) et Pénurie de produits",
       "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
-    },
-    {
-      "basename": "Signaux aux consommateurs et aux producteurs",
-      "path": "Signaux aux consommateurs et aux producteurs.md"
-    },
-    {
-      "basename": "Réglementations",
-      "path": "Réglementations.md"
     }
   ],
   "omittedPaths": [],
