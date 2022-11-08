@@ -9,3 +9,6 @@ Created: 2022-11-08
 - [[Alliteration]]
 - [[Syllables and metric feet]]
 - [[Verse and metre]]
+- [[Stanza and rhyming scheme]]
+- [[Volta]]
+- [[Caesura]]

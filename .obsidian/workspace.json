@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verse and metre.md",
-                "mode": "source",
+                "file": "Surplus social ou communautaire.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verse and metre.md",
+                "file": "Surplus social ou communautaire.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verse and metre.md",
+                "file": "Surplus social ou communautaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verse and metre.md"
+                "file": "Surplus social ou communautaire.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Verse and metre.md",
+                "file": "Surplus social ou communautaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -281,7 +281,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.35382872767775103,
+                  "scale": 0.5568381803794059,
                   "close": true
                 }
               }
@@ -295,15 +295,15 @@
   },
   "active": "f684b0430aa6eece",
   "lastOpenFiles": [
-    "Key features of poetry.md",
-    "Syllables and metric feet.md",
-    "Alliteration.md",
-    "Imagery.md",
-    "Analyzing poems.md",
-    "Analyzing speeches.md",
-    "_english.md",
-    "Changements d'états.md",
-    "Short stories or novels.md",
-    "Key features of stories.md"
+    "Surplus du producteur.md",
+    "Surplus social ou communautaire.md",
+    "Efficacité allocatif.md",
+    "Surplus du consommateur.md",
+    "Efficacité.md",
+    "_economy.md",
+    "Equilibre du marché.md",
+    "Excèdent d'offre (surplus) et Pénurie de produits.md",
+    "Déséquilibre du marché.md",
+    "Choc de demande.md"
   ]
 }
