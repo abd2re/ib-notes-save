@@ -1,5 +1,7 @@
 ---
 tags: [MOC] 
+dg-home: true
+dg-publish: true
 ---
 0. [[Présentation d'un document iconographique]]
 1. [[Images and Magazine covers]]
