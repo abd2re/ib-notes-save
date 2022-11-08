@@ -8,3 +8,4 @@ dg-publish: true
 2. [[Advertisements]]
 3. [[Analyzing speeches]]
 4. [[Short stories or novels]]
+5. [[Analyzing poems]]

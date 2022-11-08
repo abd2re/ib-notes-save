@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Verse and metre",
+      "path": "Verse and metre.md"
+    },
+    {
+      "basename": "Key features of poetry",
+      "path": "Key features of poetry.md"
+    },
+    {
+      "basename": "Syllables and metric feet",
+      "path": "Syllables and metric feet.md"
+    },
+    {
+      "basename": "Alliteration",
+      "path": "Alliteration.md"
+    },
+    {
+      "basename": "Imagery",
+      "path": "Imagery.md"
+    },
+    {
+      "basename": "Analyzing poems",
+      "path": "Analyzing poems.md"
+    },
+    {
+      "basename": "Analyzing speeches",
+      "path": "Analyzing speeches.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "Changements d'états",
       "path": "Changements d'états.md"
+    },
+    {
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Energie interne",
@@ -19,10 +55,6 @@
     {
       "basename": "Peace act structure",
       "path": "Peace act structure.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
     },
     {
       "basename": "Fonctions du mécanisme des prix",
@@ -43,14 +75,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Analyzing speeches",
-      "path": "Analyzing speeches.md"
     },
     {
       "basename": "Rhetorical devices",
@@ -175,30 +199,6 @@
     {
       "basename": "Choc d'offre",
       "path": "Choc d'offre.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
-    },
-    {
-      "basename": "Ecriture mathématique de l'offre",
-      "path": "Ecriture mathématique de l'offre.md"
-    },
-    {
-      "basename": "Pente",
-      "path": "Pente.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
-      "basename": "Sequence geometrique",
-      "path": "Sequence geometrique.md"
     }
   ],
   "omittedPaths": [],
