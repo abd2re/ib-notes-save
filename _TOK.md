@@ -27,6 +27,9 @@ How do we know ?
 - 6 prescribed essay titles
 ## Part 5: Framework
 - Scope
-- Perspective
+- [[Perspective]]
 - Tools and methods
 - Ethics
+
+[[TOK test 1 correction]]
+[[Write a page about yourself]]

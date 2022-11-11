@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f75249231be291",
+        "id": "e78b28a163fc36ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f684b0430aa6eece",
+            "id": "da638a9dc25b7d33",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surplus social ou communautaire.md",
+                "file": "Formule de l'élasticité de la demande.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surplus social ou communautaire.md",
+                "file": "Formule de l'élasticité de la demande.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surplus social ou communautaire.md",
+                "file": "Formule de l'élasticité de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surplus social ou communautaire.md"
+                "file": "Formule de l'élasticité de la demande.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Surplus social ou communautaire.md",
+                "file": "Formule de l'élasticité de la demande.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -281,7 +281,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.5568381803794059,
+                  "scale": 0.31559530383079337,
                   "close": true
                 }
               }
@@ -293,17 +293,17 @@
     "direction": "horizontal",
     "width": 586.5
   },
-  "active": "f684b0430aa6eece",
+  "active": "da638a9dc25b7d33",
   "lastOpenFiles": [
-    "Surplus du producteur.md",
-    "Surplus social ou communautaire.md",
-    "Efficacité allocatif.md",
-    "Surplus du consommateur.md",
-    "Efficacité.md",
     "_economy.md",
+    "Formule de l'élasticité de la demande.md",
+    "Déterminants prix de l'offre.md",
     "Equilibre du marché.md",
-    "Excèdent d'offre (surplus) et Pénurie de produits.md",
-    "Déséquilibre du marché.md",
-    "Choc de demande.md"
+    "Elasticité de la demande.md",
+    "Interventions gouvernementales.md",
+    "Loi de la demande.md",
+    "Définition.md",
+    "Loi de l'offre.md",
+    "Surplus social ou communautaire.md"
   ]
 }

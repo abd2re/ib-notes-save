@@ -12,3 +12,4 @@ Created: 2022-11-08
 - [[Stanza and rhyming scheme]]
 - [[Volta]]
 - [[Caesura]]
+<!--SR:!2022-11-13,2,230-->

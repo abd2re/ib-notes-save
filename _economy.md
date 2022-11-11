@@ -28,3 +28,8 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 2. [[Déséquilibre du marché]] Choc de demande, Choc d'offre
 3. [[Fonctions du mécanisme des prix]]
 4. [[Surplus social ou communautaire]]
+
+## Chapitre 4: Critique du comportement maximisateur (HL)
+
+## Chapitre 5: Elasticités de la demande
+1. [[Elasticité de la demande|Définition]], [[Formule de l'élasticité de la demande]] par rapport au prix

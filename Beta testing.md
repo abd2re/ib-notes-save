@@ -7,4 +7,4 @@ Created: 2022-09-21
 
 ?
 Apres le [[Alpha testing]], l'entreprise peut choisir de fournir a une version du produit a un groupe externe sélectionné (beta fermée) ou au public (beta ouverte), en espérant que les utilisateurs fourniront des commentaires et signaleront les bugs aux développeurs
-<!--SR:!2022-11-11,34,270-->
+<!--SR:!2023-02-11,92,270-->

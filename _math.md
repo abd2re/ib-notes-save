@@ -9,3 +9,4 @@ banner: "![[SinAndCosFunctionPlot-1.webp]]"
 4. [[Formules de Viète]]
 5. [[Position relative parabole et droite]]
 
+$$2\sqrt[3]{x+1}+1$$
