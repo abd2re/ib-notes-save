@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formule de l'élasticité de la demande.md",
+                "file": "questions infos.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formule de l'élasticité de la demande.md",
+                "file": "questions infos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formule de l'élasticité de la demande.md",
+                "file": "questions infos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formule de l'élasticité de la demande.md"
+                "file": "questions infos.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Formule de l'élasticité de la demande.md",
+                "file": "questions infos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#MOC",
@@ -295,15 +295,15 @@
   },
   "active": "da638a9dc25b7d33",
   "lastOpenFiles": [
-    "_economy.md",
+    "_computer science.md",
     "Formule de l'élasticité de la demande.md",
+    "_economy.md",
     "Déterminants prix de l'offre.md",
     "Equilibre du marché.md",
     "Elasticité de la demande.md",
     "Interventions gouvernementales.md",
     "Loi de la demande.md",
     "Définition.md",
-    "Loi de l'offre.md",
-    "Surplus social ou communautaire.md"
+    "Loi de l'offre.md"
   ]
 }

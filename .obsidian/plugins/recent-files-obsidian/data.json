@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "questions infos",
+      "path": "questions infos.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Formule de l'élasticité de la demande",
       "path": "Formule de l'élasticité de la demande.md"
     },
@@ -131,14 +139,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "questions infos",
-      "path": "questions infos.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Installation d'un système",
