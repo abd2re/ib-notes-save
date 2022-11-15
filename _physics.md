@@ -12,6 +12,9 @@ banner_y: 0.5
 ## 2. Propriété thermique de la matière
 1. [[Chaleur massique]], [[Capacité calorifique]]
 2. [[Changements d'états]], [[Chaleur latente]]
+## 3. Modélisation d'un gaz parfait
+1. [[Mole]]
+2. [[Loi des gaz parfait]], isotherme, isobare, isovolumique
 
 ![[image-20221018102325503.png]]
 

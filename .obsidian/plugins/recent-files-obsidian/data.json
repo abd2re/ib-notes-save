@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "questions infos",
-      "path": "questions infos.md"
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Mole.md"
+    },
+    {
+      "basename": "physics template",
+      "path": "template/physics template.md"
+    },
+    {
+      "basename": "Changements d'états",
+      "path": "Changements d'états.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
-      "basename": "Formule de l'élasticité de la demande",
-      "path": "Formule de l'élasticité de la demande.md"
+      "basename": "Analyzing poems",
+      "path": "Analyzing poems.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Key features of poetry",
+      "path": "Key features of poetry.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Peace act structure",
+      "path": "Peace act structure.md"
+    },
+    {
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
+    },
+    {
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
+      "basename": "Imagery",
+      "path": "Imagery.md"
+    },
+    {
+      "basename": "english template",
+      "path": "template/english template.md"
+    },
+    {
+      "basename": "Efficacité allocative",
+      "path": "Efficacité allocative.md"
+    },
+    {
+      "basename": "questions infos",
+      "path": "questions infos.md"
+    },
+    {
+      "basename": "Formule de l'élasticité de la demande",
+      "path": "Formule de l'élasticité de la demande.md"
     },
     {
       "basename": "Elasticité de la demande",
@@ -35,10 +103,6 @@
     {
       "basename": "Déterminants prix de l'offre",
       "path": "Déterminants prix de l'offre.md"
-    },
-    {
-      "basename": "Surplus social ou communautaire",
-      "path": "Surplus social ou communautaire.md"
     },
     {
       "basename": "Demande",
@@ -77,10 +141,6 @@
       "path": "Fonction de rationnement.md"
     },
     {
-      "basename": "Efficacité allocatif",
-      "path": "Efficacité allocatif.md"
-    },
-    {
       "basename": "Stanza and rhyming scheme",
       "path": "Stanza and rhyming scheme.md"
     },
@@ -89,24 +149,12 @@
       "path": "Sequence arithmetique.md"
     },
     {
-      "basename": "Key features of poetry",
-      "path": "Key features of poetry.md"
-    },
-    {
       "basename": "Caesura",
       "path": "Caesura.md"
     },
     {
       "basename": "Volta",
       "path": "Volta.md"
-    },
-    {
-      "basename": "Analyzing poems",
-      "path": "Analyzing poems.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "Position relative parabole et droite",
@@ -121,10 +169,6 @@
       "path": "Formules de Viète.md"
     },
     {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
     },
@@ -135,10 +179,6 @@
     {
       "basename": "Température",
       "path": "Température.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Installation d'un système",
@@ -159,46 +199,6 @@
     {
       "basename": "Perspective",
       "path": "Perspective.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "Knower as an individual",
-      "path": "Knower as an individual.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "Write a page about yourself",
-      "path": "Write a page about yourself.md"
-    },
-    {
-      "basename": "TOK test 1 correction",
-      "path": "TOK test 1 correction.md"
-    },
-    {
-      "basename": "Equilibre du marché",
-      "path": "Equilibre du marché.md"
-    },
-    {
-      "basename": "Excèdent d'offre (surplus) et Pénurie de produits",
-      "path": "Excèdent d'offre (surplus) et Pénurie de produits.md"
-    },
-    {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
-    },
-    {
-      "basename": "Choc de demande",
-      "path": "Choc de demande.md"
     }
   ],
   "omittedPaths": [],
