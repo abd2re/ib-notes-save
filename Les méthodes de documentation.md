@@ -20,4 +20,4 @@ La documentation utilisateur aide les utilisateurs de systèmes informatiques, q
 - [[Documentation Technique]]
 - [[Documentation de l'Utilisateur final]]
 - [[Documentation Marketing]]
-<!--SR:!2022-11-15,30,250-->
+<!--SR:!2023-01-29,75,250-->

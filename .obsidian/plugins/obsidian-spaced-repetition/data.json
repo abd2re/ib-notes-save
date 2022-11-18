@@ -11,7 +11,7 @@
       "#economy",
       "#english",
       "#french_B",
-      ""
+      "#TOK"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -51,6 +51,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-09-29",
+  "buryDate": "2022-11-16",
   "buryList": []
 }

@@ -11,6 +11,8 @@ Created: 2022-09-13
 ---
 1. [[Who is the Knower]] ?
 2. The [[Knower as an individual]]
+3. [[Personal knowledge]]
+4. [[Objectivity and Subjectivity]]
 ***
 
 ![[TOK questions]]

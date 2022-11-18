@@ -12,4 +12,4 @@ Lors du processus de conception d'un nouveau système, les développeurs doivent
 
 ?
 **L'incompabilité** peut être liée a 3 choses :: a l'humain, aux machines ou aux logiciels.
-<!--SR:!2022-11-15,38,270-->
+<!--SR:!2023-02-26,103,270-->

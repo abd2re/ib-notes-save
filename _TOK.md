@@ -20,7 +20,7 @@ How do we know ?
 - Human Sciences
 - Arts
 ## Part 4: Assessments
-### TOK Exhibition
+### [[TOK Exhibition]]
 - 35 prompts (Core theme/Optional themes)
 ### TOK Essay
 - 1600 words
@@ -33,3 +33,9 @@ How do we know ?
 
 [[TOK test 1 correction]]
 [[Write a page about yourself]]
+
+Research following words:
+- value
+- authority
+- polymath
+- knowledge claim 

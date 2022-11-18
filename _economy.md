@@ -32,4 +32,6 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 ## Chapitre 4: Critique du comportement maximisateur (HL)
 
 ## Chapitre 5: Elasticités de la demande
-1. [[Elasticité de la demande|Définition]], [[Formule de l'élasticité de la demande]] par rapport au prix
+1. [[Elasticité de la demande|Définition]], [[Formule de l'élasticité prix demande]]
+2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
+3. [[Déterminants de l'élasticité-prix de la demande]]
