@@ -19,6 +19,5 @@ banner_y: 0.5
 ![[image-20221018102325503.png]]
 # Theme 5: Electricité et Magnétisme
 ## 1. Champ électrique
-1. [[Rappel d'électrostatique]]
-2. [[Conducteur et isolant électrique]]
+0. [[Rappel d'électrostatique]]
 
