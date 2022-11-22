@@ -26,9 +26,11 @@ $$q=ne$$
 - $e$ = $1.6\cdot 10^{-19}C$ (coulomb) 
 - $n$ = nombre d'$e^{-}$(electrons) perdus
 
-# Conducteur et isolant électrique
+## Conducteur et isolant électrique
 - Un conducteur:: laisse passer le courant électrique
 - Un isolant:: ne laisse pas passer le courant électrique
-
 Le courant électrique est:: un déplacement de charges.
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.
+
+## Loi de la conservation de la charge électrique
+La charge électrique d'un système isolé est:: constante. 
