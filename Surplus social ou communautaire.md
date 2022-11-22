@@ -8,7 +8,7 @@ Surplus social/communautaire est:: la somme du surplus du consommateur et du sur
 <!--SR:!2022-11-22,5,228-->
 
 Lorsqu'un marché est en équilibre, sans perturbations extérieures, on dit qu'il est dans un état:: d'[[Efficacité allocative]]. Comme indiqué précédemment, cela signifie que les ressources sont allouées de la manière la plus efficace du point de vue de la société.
-<!--SR:!2022-11-21,6,248-->
+<!--SR:!2022-12-08,17,248-->
 
 En l'absence d'influences externes, les coûts de production pour l'industrie ou l'entreprise sont égaux aux coûts pour la société lors de la production d'un bien ou d'un service spécifique. Dans ce cas, la courbe d'offre représente la courbe des coûts sociaux et est appelée:: **courbe des coûts sociaux marginaux (CSM)**.
 <!--SR:!2022-11-24,7,230-->
@@ -23,5 +23,5 @@ Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfi
 Graphe du surplus du consommateur et surplus du producteur
 ?
 ![[image-20221108155959360.png]]
-<!--SR:!2022-11-21,8,250-->
+<!--SR:!2022-12-12,21,250-->
 

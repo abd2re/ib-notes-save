@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11aa6d20b2e48bd1",
+        "id": "878b26bad27ad139",
         "type": "tabs",
         "children": [
           {
-            "id": "de8178e5f70d263c",
+            "id": "eb192040e2aa8857",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
+                "file": "Conducteur et isolant électrique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
+                "file": "Conducteur et isolant électrique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
+                "file": "Conducteur et isolant électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+                "file": "Conducteur et isolant électrique.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
+                "file": "Conducteur et isolant électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.3517334375018665,
+                  "scale": 0.3419423785218727,
                   "close": true
                 }
               }
@@ -272,17 +272,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "de8178e5f70d263c",
+  "active": "eb192040e2aa8857",
   "lastOpenFiles": [
-    "_computer science.md",
-    "Méthodes  d'obtention des  exigences des parties prenantes.md",
-    "Importance de l'itération pendant le processus de conception.md",
-    "Représentations appropriées pour illustrer les exigences du système.md",
-    "Maintenance.md",
-    "Test et déploiement.md",
-    "Développement.md",
-    "Conception.md",
-    "Analyse.md",
-    "Faisabilité.md"
+    "_physics.md",
+    "Rappel d'électrostatique.md",
+    "_english.md",
+    "Présentation d'un document iconographique.md",
+    "Key features of stories.md",
+    "Denouement.md",
+    "Falling action.md",
+    "Climax.md",
+    "Rising action.md",
+    "Characterization.md"
   ]
 }

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#tbd",
@@ -46,7 +46,7 @@
       "query": "tag:#computer_science",
       "color": {
         "a": 1,
-        "rgb": 5396192
+        "rgb": 5431380
       }
     },
     {
@@ -60,21 +60,21 @@
       "query": "tag:#french_B",
       "color": {
         "a": 1,
-        "rgb": 5439366
+        "rgb": 2056677
       }
     },
     {
       "query": "tag:#economy",
       "color": {
         "a": 1,
-        "rgb": 16746496
+        "rgb": 15662853
       }
     },
     {
       "query": "tag:#TOK",
       "color": {
         "a": 1,
-        "rgb": 15785046
+        "rgb": 15441950
       }
     },
     {
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 0.8046875,
   "linkDistance": 234,
-  "scale": 0.07694307845158062,
+  "scale": 0.08343894278091252,
   "close": false
 }

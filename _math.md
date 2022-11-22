@@ -9,4 +9,8 @@ banner: "![[SinAndCosFunctionPlot-1.webp]]"
 4. [[Formules de Viète]]
 5. [[Position relative parabole et droite]]
 
-$$2\sqrt[3]{x+1}+1$$
+$$x=\sqrt{2-5y}$$
+$$x^2=2-5y$$
+$$5y=-x^2 + 2$$
+$$5y=\frac{-x^2 + 2}{5}$$
+

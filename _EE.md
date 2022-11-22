@@ -1,24 +1,24 @@
 ---
 tags : [MOC]
 ---
+(ctrl+f9 to copy)
 > [! Theme]
->Investigating The Effect of Different Configurations of a Decision Tree Algorithm in Computer Chess
+>Assessing The Use of Different Configurations of a Decision Tree Algorithm in Computer Chess
   
-How does Principal Variation Search (PVS) and Quiescence Search affect the speed and performance of an Alpha-beta Algorithm in finding the most optimal move in computer chess?
+How does Principal Variation Search (PVS) and Quiescence Search affect the speed and performance of an Alpha-beta Algorithm in finding the most optimal move in computer chess at different levels of depth?
 
 ---
 # Theme
-Étude de l'Effet de Différentes Configurations d'un Algorithme d'Arbre de Décision aux Échecs sur Ordinateur
+Évaluation de l'utilisation de différentes configurations d'un algorithme d'arbre de décision aux échecs sur ordinateur
 
 # Question de recherche
-Comment le *Principal Variation Search (PVS)* et le *Quiescence Search* affectent-ils la vitesse et la performance d'un algorithme Alpha-Beta pour trouver les coups les plus optimaux aux échecs sur ordinateur ?
-
+Comment le *Principal Variation Search (PVS)* et le *Quiescence Search* affectent-ils la vitesse et la performance d'un algorithme Alpha-Beta a différents niveaux de profondeurs pour trouver les coups les plus optimaux aux échecs sur ordinateur ?
 ## Sommaire
 
 1. Introduction
 2. Contexte Théorique
 	1. Jeux a Somme-nulle et Théorème Minimax
-	2. Élagage Alpha-beta
+	2. Élagage Alpha-beta et Profondeur de Recherche
 	3. Fonction d'évaluation
 	4. Le *Principal Variation Search* (PVS)
 	5. Le *Quiescence Search*

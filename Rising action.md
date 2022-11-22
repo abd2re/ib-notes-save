@@ -8,4 +8,4 @@ Created: 2022-10-19
 # Rising action
 ?
 This is the part of the story where things become complicated. The action and the characters become intertwined in a conflict of some kind. This comes before the [[Climax]].
-<!--SR:!2022-11-20,20,250-->
+<!--SR:!2023-01-11,51,250-->

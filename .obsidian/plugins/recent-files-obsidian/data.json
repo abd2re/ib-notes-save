@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
-      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+      "basename": "Conducteur et isolant électrique",
+      "path": "Conducteur et isolant électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Key features of stories",
+      "path": "Key features of stories.md"
+    },
+    {
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
+    },
+    {
+      "basename": "Analyzing speeches",
+      "path": "Analyzing speeches.md"
+    },
+    {
+      "basename": "Rhetorical devices",
+      "path": "Rhetorical devices.md"
+    },
+    {
+      "basename": "Paralanguage",
+      "path": "Paralanguage.md"
+    },
+    {
+      "basename": "Advertisements",
+      "path": "Advertisements.md"
+    },
+    {
+      "basename": "Images and Magazine covers",
+      "path": "Images and Magazine covers.md"
+    },
+    {
+      "basename": "Présentation d'un document iconographique",
+      "path": "Présentation d'un document iconographique.md"
+    },
+    {
+      "basename": "Nombre et la proximité des remplaçants",
+      "path": "Nombre et la proximité des remplaçants.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "Analyzing poems",
+      "path": "Analyzing poems.md"
+    },
+    {
+      "basename": "Key features of poetry",
+      "path": "Key features of poetry.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
+      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
     },
     {
       "basename": "Importance de l'itération pendant le processus de conception",
@@ -81,16 +165,8 @@
       "path": "Mole.md"
     },
     {
-      "basename": "Nombre et la proximité des remplaçants",
-      "path": "Nombre et la proximité des remplaçants.md"
-    },
-    {
       "basename": "TOK Exhibition",
       "path": "TOK Exhibition.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     },
     {
       "basename": "Personal knowledge",
@@ -101,20 +177,12 @@
       "path": "Perspective.md"
     },
     {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
       "basename": "Objectivity and Subjectivity",
       "path": "Objectivity and Subjectivity.md"
     },
     {
       "basename": "TOK template",
       "path": "template/TOK template.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
     },
     {
       "basename": "Who is the Knower",
@@ -125,80 +193,12 @@
       "path": "Knower as an individual.md"
     },
     {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "Part du revenu consacrée au bien",
       "path": "Part du revenu consacrée au bien.md"
     },
     {
       "basename": "Période considérée",
       "path": "Période considérée.md"
-    },
-    {
-      "basename": "Degré de nécessité",
-      "path": "Degré de nécessité.md"
-    },
-    {
-      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
-      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Marché",
-      "path": "Marché.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Loi des gaz parfait",
-      "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Formule de l'élasticité prix demande",
-      "path": "Formule de l'élasticité prix demande.md"
-    },
-    {
-      "basename": "Elasticité de la demande",
-      "path": "Elasticité de la demande.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Key features of poetry",
-      "path": "Key features of poetry.md"
-    },
-    {
-      "basename": "Analyzing poems",
-      "path": "Analyzing poems.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "Changements d'états",
-      "path": "Changements d'états.md"
-    },
-    {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
-      "basename": "Peace act structure",
-      "path": "Peace act structure.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
     }
   ],
   "omittedPaths": [],

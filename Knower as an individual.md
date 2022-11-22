@@ -7,12 +7,16 @@ Created: 2022-10-12
 To what extent are you still the same person that you were before you begin the TOK class ?
 
 Bias:: prejudice, favoritism, unfairness, partiality
+<!--SR:!2022-11-27,6,230-->
 
 Identity:: how a person, group, or nation sees themselves in relation to other people, groups, nations, ideas, and the world
+<!--SR:!2022-11-26,5,230-->
 
 Contingent:: only true under certain conditions, and dependent on other things.
+<!--SR:!2022-11-22,1,190-->
 
 Culture:: the shared ideas, beliefs, customs and practices of a community or society.
+<!--SR:!2022-11-25,4,230-->
 
 Perception: an awareness of something in and through the mind
 
