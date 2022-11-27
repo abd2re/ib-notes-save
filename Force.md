@@ -12,4 +12,4 @@ an influence that can change the motion of an object. A force can cause an objec
 *Formula for Force by Newton's law of motion*
 ?
 $$F=ma$$
-<!--SR:!2022-11-26,64,310-->
+<!--SR:!2023-06-15,200,310-->

@@ -1,8 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "Surplus du producteur",
+      "path": "Surplus du producteur.md"
+    },
+    {
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
+      "basename": "Surplus du consommateur",
+      "path": "Surplus du consommateur.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Déterminants de l'élasticité-prix de la demande",
+      "path": "Déterminants de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Efficacité",
+      "path": "Efficacité.md"
+    },
+    {
+      "basename": "Elasticité de la demande",
+      "path": "Elasticité de la demande.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Efficacité allocative",
+      "path": "Efficacité allocative.md"
+    },
+    {
+      "basename": "Efficacité productive",
+      "path": "Efficacité productive.md"
+    },
+    {
+      "basename": "Formule de l'élasticité prix demande",
+      "path": "Formule de l'élasticité prix demande.md"
+    },
+    {
+      "basename": "Importance de l'itération pendant le processus de conception",
+      "path": "Importance de l'itération pendant le processus de conception.md"
+    },
+    {
+      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
+      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "Déterminants hors-prix de l'offre",
+      "path": "Déterminants hors-prix de l'offre.md"
+    },
+    {
+      "basename": "Produits connexes",
+      "path": "Produits connexes.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "Masse",
+      "path": "Masse.md"
     },
     {
       "basename": "_physics",
@@ -13,48 +109,80 @@
       "path": "Rappel d'électrostatique.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
+      "basename": "Mole",
+      "path": "Mole.md"
     },
     {
-      "basename": "Key features of stories",
-      "path": "Key features of stories.md"
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
     },
     {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
     },
     {
-      "basename": "Analyzing speeches",
-      "path": "Analyzing speeches.md"
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Knower as an individual",
+      "path": "Knower as an individual.md"
+    },
+    {
+      "basename": "Personal knowledge",
+      "path": "Personal knowledge.md"
+    },
+    {
+      "basename": "Objectivity and Subjectivity",
+      "path": "Objectivity and Subjectivity.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "PEEL",
+      "path": "PEEL.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Perspective",
+      "path": "Perspective.md"
+    },
+    {
+      "basename": "TOK Exhibition",
+      "path": "TOK Exhibition.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "Déséquilibre du marché",
+      "path": "Déséquilibre du marché.md"
+    },
+    {
+      "basename": "Loi d'utilité marginale décroissante",
+      "path": "Loi d'utilité marginale décroissante.md"
+    },
+    {
+      "basename": "Changements de prix et boucles de rétroaction",
+      "path": "Changements de prix et boucles de rétroaction.md"
     },
     {
       "basename": "Rhetorical devices",
       "path": "Rhetorical devices.md"
     },
     {
-      "basename": "Paralanguage",
-      "path": "Paralanguage.md"
+      "basename": "Analyzing speeches",
+      "path": "Analyzing speeches.md"
     },
     {
-      "basename": "Advertisements",
-      "path": "Advertisements.md"
-    },
-    {
-      "basename": "Images and Magazine covers",
-      "path": "Images and Magazine covers.md"
-    },
-    {
-      "basename": "Présentation d'un document iconographique",
-      "path": "Présentation d'un document iconographique.md"
-    },
-    {
-      "basename": "Nombre et la proximité des remplaçants",
-      "path": "Nombre et la proximité des remplaçants.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "Analyzing poems",
@@ -65,140 +193,12 @@
       "path": "Key features of poetry.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
+      "basename": "Imagery",
+      "path": "Imagery.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
-      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
-    },
-    {
-      "basename": "Importance de l'itération pendant le processus de conception",
-      "path": "Importance de l'itération pendant le processus de conception.md"
-    },
-    {
-      "basename": "Maintenance",
-      "path": "Maintenance.md"
-    },
-    {
-      "basename": "Test et déploiement",
-      "path": "Test et déploiement.md"
-    },
-    {
-      "basename": "Développement",
-      "path": "Développement.md"
-    },
-    {
-      "basename": "Conception",
-      "path": "Conception.md"
-    },
-    {
-      "basename": "Analyse",
-      "path": "Analyse.md"
-    },
-    {
-      "basename": "Faisabilité",
-      "path": "Faisabilité.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "Objectif des prototypes pour présenter un système au client",
-      "path": "Objectif des prototypes pour présenter un système au client.md"
-    },
-    {
-      "basename": "Représentations appropriées pour illustrer les exigences du système",
-      "path": "Représentations appropriées pour illustrer les exigences du système.md"
-    },
-    {
-      "basename": "Graphiques de structure",
-      "path": "Graphiques de structure.md"
-    },
-    {
-      "basename": "Diagrammes de flux de données",
-      "path": "Diagrammes de flux de données.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
-      "basename": "Organigrammes",
-      "path": "Organigrammes.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de la demande",
-      "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Mole.md"
-    },
-    {
-      "basename": "TOK Exhibition",
-      "path": "TOK Exhibition.md"
-    },
-    {
-      "basename": "Personal knowledge",
-      "path": "Personal knowledge.md"
-    },
-    {
-      "basename": "Perspective",
-      "path": "Perspective.md"
-    },
-    {
-      "basename": "Objectivity and Subjectivity",
-      "path": "Objectivity and Subjectivity.md"
-    },
-    {
-      "basename": "TOK template",
-      "path": "template/TOK template.md"
-    },
-    {
-      "basename": "Who is the Knower",
-      "path": "Who is the Knower.md"
-    },
-    {
-      "basename": "Knower as an individual",
-      "path": "Knower as an individual.md"
-    },
-    {
-      "basename": "Part du revenu consacrée au bien",
-      "path": "Part du revenu consacrée au bien.md"
-    },
-    {
-      "basename": "Période considérée",
-      "path": "Période considérée.md"
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
     }
   ],
   "omittedPaths": [],

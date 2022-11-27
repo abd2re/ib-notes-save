@@ -7,4 +7,4 @@ Created: 2022-10-18
 
 ?
 La vie privée devient l'anonymat lorsque, par exemple, un individu utilise un système informatique pour dissimuler sa véritable identité afin de cyber-harcèlement une autre personne, de commettre des actions illégales ou des crimes, de pirater des ordinateurs, de commettre des actes terroristes, etc.
-<!--SR:!2022-11-24,24,250-->
+<!--SR:!2023-01-22,59,250-->

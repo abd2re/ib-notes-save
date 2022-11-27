@@ -15,7 +15,7 @@ $$n=\frac{N}{N_{A}}$$
 $n$ = nombre de moles
 $N$ = nombre de molécules
 $N_{A}$ = nombre d'Avogardo
-<!--SR:!2022-11-27,9,250-->
+<!--SR:!2022-12-19,22,250-->
 
 Formule de masse molaire
 ?
@@ -23,4 +23,4 @@ $$M=\frac{m}{n}$$
 $M$ = masse molaire
 $m$ = masse
 $n$ = nombre de moles
-<!--SR:!2022-11-22,5,248-->
+<!--SR:!2022-12-05,13,248-->

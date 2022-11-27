@@ -14,3 +14,25 @@ $$x^2=2-5y$$
 $$5y=-x^2 + 2$$
 $$5y=\frac{-x^2 + 2}{5}$$
 
+1.
+$$\log_{2}6x=1+2\log_{2}y$$
+$$\log_{2}6x=\log_{2}2+2\log_{2}y$$
+$$\log_{2}6x=\log_{2}2y^{2}$$
+$$6x=2y^{2}$$
+2.
+$$1+\log_{6}x=\log_{6}(15y-25)$$
+$$\log_{6}6+\log_{6}x=\log_{6}(15y-25)$$
+$$\log_{6}6x=\log_{6}(15y-25)$$
+$$6x=15y-25$$
+$$6x=15y-25$$
+Donc
+$$2y^{2}=15y-25$$
+$$2y^{2}-15y+25=0$$
+Solve the quadratic equation for $y$
+$$y=5 \text{ ou }y=\frac{5}{2}$$
+Donc solve for x after
+$$x=\frac{25}{3}\text{ ou }x=\frac{25}{12}$$
+![[image-20221127161539665.png]]
+
+![[image-20221127161547917.png]]
+

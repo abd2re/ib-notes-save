@@ -8,14 +8,14 @@ Created: 2022-11-18
 ## L'itération
 ?
 L'itération désigne la répétition d'un ensemble d'instructions pendant un nombre spécifique de fois ou jusqu'à ce que les opérations donnent le résultat souhaité.
-<!--SR:!2022-11-27,6,230-->
+<!--SR:!2022-12-12,15,230-->
 
 ## Importance de l'itération pendant le processus de conception
 ?
 Il est impossible de concevoir un système, une interface ou un logiciel qui ne présente pas de problèmes initiaux de fonctionnement ou d'utilisation. Au cours du processus de conception, les concepteurs du produit peuvent être
 amenés à prendre du recul à plusieurs reprises et à reconsidérer les choix qu'ils ont faits.
 Même les meilleurs concepteurs ne peuvent pas concevoir des produits parfaits en une seule tentative, c'est pourquoi il convient d'adopter une méthodologie de conception itérative.
-<!--SR:!2022-11-26,5,230-->
+<!--SR:!2022-12-10,13,230-->
 
 ## Cycle de vie d'un système informatique
 ?
@@ -26,4 +26,4 @@ Même les meilleurs concepteurs ne peuvent pas concevoir des produits parfaits e
 - [[Développement]] ou Mise en oeuvre
 - [[Test et déploiement]]
 - [[Maintenance]]
-<!--SR:!2022-11-25,4,230-->
+<!--SR:!2022-12-07,10,230-->

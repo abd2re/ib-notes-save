@@ -35,3 +35,5 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 1. [[Elasticité de la demande|Définition]], [[Formule de l'élasticité prix demande]]
 2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
 3. [[Déterminants de l'élasticité-prix de la demande]]
+4. Élasticité-prix de la demande (PED) et [[Revenu total des entreprises]]
+5. 

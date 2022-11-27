@@ -10,4 +10,4 @@ Ils sont:
 2. [[Degré de nécessité]]
 3. [[Période considérée]]
 4. [[Part du revenu consacrée au bien]]
-<!--SR:!2022-11-22,1,170-->
+<!--SR:!2022-12-03,6,170-->

@@ -4,8 +4,8 @@ tags : [MOC]
 (ctrl+f9 to copy)
 > [! Theme]
 >Assessing The Use of Different Configurations of a Decision Tree Algorithm in Computer Chess
-  
-How does Principal Variation Search (PVS) and Quiescence Search affect the speed and performance of an Alpha-beta Algorithm in finding the most optimal move in computer chess at different levels of depth?
+
+To what extent is the Monte-Carlo Tree Search algorithm applicable to find the most optimal moves in different chess positions with minimal lookahead in terms of time complexity and performance?
 
 ---
 # Theme

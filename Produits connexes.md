@@ -1,6 +1,5 @@
 ---
 tags: [economy] 
-TARGET DECK: economy
 ---
 # Produits connexes
 Created: 2022-09-27
