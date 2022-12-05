@@ -38,3 +38,5 @@ Comment le *Principal Variation Search (PVS)* et le *Quiescence Search* affecten
 	2. Analyse Expérimentale & Limitations
 	3. Conclusion
 6. Annexes
+
+[[EE MCTS]]

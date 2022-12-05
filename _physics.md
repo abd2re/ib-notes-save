@@ -14,12 +14,12 @@ banner_y: 0.5
 2. [[Changements d'états]], [[Chaleur latente]]
 ## 3. Modélisation d'un gaz parfait
 1. [[Mole]]
-2. [[Loi des gaz parfait]], isotherme, isobare, isovolumique
+2. [[Loi des gaz parfait]], isotherme, isobare, iso-volumique
 
-![[image-20221018102325503.png]]
 # Theme 5: Electricité et Magnétisme
 ## 1. Champ électrique
 0. [[Rappel d'électrostatique]]
 1. [[Loi de Coulomb]]
 2. [[Champ électrique]]
-
+## 2. Les effets thermiques du courant  
+1. [[Intensité du courant électrique]] 

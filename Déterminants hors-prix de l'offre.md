@@ -15,5 +15,5 @@ Plusieurs déterminants peuvent affecter l'[[Offre]] en dehors du prix, on peut 
 	-  Impôts indirectes
 	-   Subventions
 	-   Réglementations
-<!--SR:!2022-12-05,40,230-->
+<!--SR:!2023-03-06,91,230-->
 

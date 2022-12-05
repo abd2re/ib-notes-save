@@ -16,4 +16,4 @@ Les utilisateurs accèdent généralement au SaaS a l'aide d'un client leger via
 ?
 - Mis a jour de manière centralisée par le fournisseur.
 - Pas de frais de maintenance
-<!--SR:!2022-12-04,43,230-->
+<!--SR:!2023-03-15,100,230-->

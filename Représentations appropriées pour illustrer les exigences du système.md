@@ -13,4 +13,4 @@ Types de représentations:
 1. [[Organigrammes]]
 2. [[Diagrammes de flux de données]]
 3. [[Graphiques de structure]]
-<!--SR:!2022-12-02,5,190-->
+<!--SR:!2022-12-14,11,190-->

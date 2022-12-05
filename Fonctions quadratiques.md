@@ -22,4 +22,4 @@ $$h=\frac{-b}{2a}$$
 $$k=-\frac{\Delta}{4a}$$
 $$k=f(h)=ah^2+bh+c$$
 $h$ représente l'abssice du vertex et $k$ l'ordonée du vertex c'est pour cela que $k$ et l'image de $h$.
-<!--SR:!2022-12-04,57,294-->
+<!--SR:!2023-05-23,169,294-->

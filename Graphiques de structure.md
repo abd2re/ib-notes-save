@@ -12,5 +12,5 @@ La conception modulaire est le processus qui consiste à concevoir des modules d
 ## Exemple de graphiques de structure
 ?
 ![[image-20221118104847166.png]]
-<!--SR:!2022-11-30,9,250-->
+<!--SR:!2022-12-23,23,250-->
 

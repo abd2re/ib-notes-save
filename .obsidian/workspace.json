@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_math.md",
-                "mode": "source",
+                "file": "Time and space.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_math.md",
+                "file": "Time and space.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_math.md",
+                "file": "Time and space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_math.md"
+                "file": "Time and space.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "6299f388c1ecfa05",
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_math.md",
+                "file": "Time and space.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.19951616017353577,
+                  "scale": 0.11826642961341471,
                   "close": true
                 }
               }
@@ -274,15 +274,15 @@
   },
   "active": "0d45f1d4028d7455",
   "lastOpenFiles": [
-    "Loi de Coulomb.md",
-    "Fonctions quadratiques.md",
-    "_math.md",
-    "Formules de Viète.md",
-    "Surplus du producteur.md",
-    "Surplus social ou communautaire.md",
-    "Surplus du consommateur.md",
-    "_economy.md",
-    "Déterminants de l'élasticité-prix de la demande.md",
-    "Part du revenu consacrée au bien.md"
+    "Point of view.md",
+    "Time and space.md",
+    "Cultural context.md",
+    "_english.md",
+    "Présentation d'un document iconographique.md",
+    "Intensité du courant électrique.md",
+    "_physics.md",
+    "Capacité calorifique.md",
+    "Chaleur latente.md",
+    "Loi des gaz parfait.md"
   ]
 }

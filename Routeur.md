@@ -6,4 +6,4 @@ Created: 2022-10-11
 
 ?
 Un ordinateur ou un autre équipement de réseau qui transmet des informations entre deux réseaux.
-<!--SR:!2022-11-30,33,250-->
+<!--SR:!2023-02-21,83,250-->

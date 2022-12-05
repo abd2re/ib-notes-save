@@ -24,6 +24,6 @@ evidence=::Signs that you can see, hear, experienced or read to support the trut
 polymath=::a person of wide knowledge or learning.
 <!--SR:!2022-12-06,9,240-->
 values=::principles or standards of behavior; one's judgement of what is important in life.
-<!--SR:!2022-12-04,7,240-->
+<!--SR:!2022-12-24,19,240-->
 knowledge claim::A knowledge claim is a statement that the knower believes to be true yet is up to debate as to assess the veracity of the statement.
-<!--SR:!2022-12-03,6,240-->
+<!--SR:!2022-12-22,17,240-->

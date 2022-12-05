@@ -51,12 +51,12 @@ $$S_{n}=\frac{n(d(n-1)+u_1+u_1)}{2}$$
 $$S_{n}=\frac{n(d(n-1)+u_1+u_1)}{2}$$
 $$S_{n}=\frac{n(u_n+u_1)}{2}$$
 $$S_{n}=\frac{n}{2}(u_1+u_n)$$
-<!--SR:!2022-11-30,69,310-->
+<!--SR:!2023-07-02,214,310-->
 
 
 ***
 If we have a sequence of squared numbers, the sum of the series will be $S_{n}=$
 ?
 $$S_{n}= \frac{n(n+1)(2n+1)}{6}$$
-<!--SR:!2022-12-05,50,270-->
+<!--SR:!2023-04-19,135,270-->
 

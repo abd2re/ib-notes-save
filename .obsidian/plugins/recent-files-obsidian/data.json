@@ -1,12 +1,156 @@
 {
   "recentFiles": [
     {
+      "basename": "Time and space",
+      "path": "Time and space.md"
+    },
+    {
+      "basename": "Point of view",
+      "path": "Point of view.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Présentation d'un document iconographique",
+      "path": "Présentation d'un document iconographique.md"
+    },
+    {
+      "basename": "Intensité du courant électrique",
+      "path": "Intensité du courant électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
       "basename": "_math",
       "path": "_math.md"
     },
     {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
+    },
+    {
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
+    },
+    {
+      "basename": "Changements d'états",
+      "path": "Changements d'états.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Cultural context",
+      "path": "Cultural context.md"
+    },
+    {
+      "basename": "EE MCTS",
+      "path": "EE MCTS.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "exercices info 2",
+      "path": "exercices info 2.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "questions infos 1",
+      "path": "questions infos 1.md"
+    },
+    {
+      "basename": "exercices info 1",
+      "path": "exercices info 1.md"
+    },
+    {
+      "basename": "Elasticité de l'offre",
+      "path": "Elasticité de l'offre.md"
+    },
+    {
+      "basename": "Elasticité de la demande",
+      "path": "Elasticité de la demande.md"
+    },
+    {
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "History",
+      "path": "History.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "Scope.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Sujets informatiques d'importance sociale et éthique",
+      "path": "Sujets informatiques d'importance sociale et éthique.md"
+    },
+    {
+      "basename": "Sécurité de l'information",
+      "path": "Sécurité de l'information.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "Ressources humaines",
+      "path": "Ressources humaines.md"
+    },
+    {
+      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
+      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "Scarlet Letter Answers",
+      "path": "Scarlet Letter Answers.md"
     },
     {
       "basename": "Fonctions quadratiques",
@@ -29,24 +173,8 @@
       "path": "Surplus du consommateur.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Déterminants de l'élasticité-prix de la demande",
       "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Revenu total des entreprises",
@@ -55,14 +183,6 @@
     {
       "basename": "Efficacité",
       "path": "Efficacité.md"
-    },
-    {
-      "basename": "Elasticité de la demande",
-      "path": "Elasticité de la demande.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "Efficacité allocative",
@@ -79,126 +199,6 @@
     {
       "basename": "Importance de l'itération pendant le processus de conception",
       "path": "Importance de l'itération pendant le processus de conception.md"
-    },
-    {
-      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
-      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
-    },
-    {
-      "basename": "Produits connexes",
-      "path": "Produits connexes.md"
-    },
-    {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Masse",
-      "path": "Masse.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Mole.md"
-    },
-    {
-      "basename": "Loi des gaz parfait",
-      "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Knower as an individual",
-      "path": "Knower as an individual.md"
-    },
-    {
-      "basename": "Personal knowledge",
-      "path": "Personal knowledge.md"
-    },
-    {
-      "basename": "Objectivity and Subjectivity",
-      "path": "Objectivity and Subjectivity.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "PEEL",
-      "path": "PEEL.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Perspective",
-      "path": "Perspective.md"
-    },
-    {
-      "basename": "TOK Exhibition",
-      "path": "TOK Exhibition.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
-      "basename": "Déséquilibre du marché",
-      "path": "Déséquilibre du marché.md"
-    },
-    {
-      "basename": "Loi d'utilité marginale décroissante",
-      "path": "Loi d'utilité marginale décroissante.md"
-    },
-    {
-      "basename": "Changements de prix et boucles de rétroaction",
-      "path": "Changements de prix et boucles de rétroaction.md"
-    },
-    {
-      "basename": "Rhetorical devices",
-      "path": "Rhetorical devices.md"
-    },
-    {
-      "basename": "Analyzing speeches",
-      "path": "Analyzing speeches.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Analyzing poems",
-      "path": "Analyzing poems.md"
-    },
-    {
-      "basename": "Key features of poetry",
-      "path": "Key features of poetry.md"
-    },
-    {
-      "basename": "Imagery",
-      "path": "Imagery.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
     }
   ],
   "omittedPaths": [],

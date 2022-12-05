@@ -4,8 +4,9 @@ alias: CS
 banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
 banner_y: 0.5
 ---
-[[exercices info]]
-[[questions infos]]
+[[exercices info 1]]
+[[questions infos 1]]
+[[exercices info 2]]
 ### 0 [[Computer Science IA]]
 
 # Theme 1: Notion fondamental sur les systèmes

@@ -2,6 +2,7 @@
 tags: [MOC]
 alias: econ
 banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
+banner_y: 0.5
 ---
 ### Mot clés en économie
 [[Conceptes de base economie|Economics basic concepts]]
@@ -36,4 +37,6 @@ banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
 3. [[Déterminants de l'élasticité-prix de la demande]]
 4. Élasticité-prix de la demande (PED) et [[Revenu total des entreprises]]
-5. 
+
+## Chapitre 6: Elasticités de l'offre
+1. [[Elasticité de l'offre|Définition]]

@@ -14,7 +14,7 @@ How do we know ?
 - Knowledge and politics
 - Knowledge and indigenous societies
 ## Part 3: Areas of Knowledge
-- History
+- [[History]]
 - Mathematics
 - Natural Sciences
 - Human Sciences
@@ -26,7 +26,7 @@ How do we know ?
 - 1600 words
 - 6 prescribed essay titles
 ## Part 5: Framework
-- Scope
+- [[Scope]]
 - [[Perspective]]
 - Tools and methods
 - Ethics
