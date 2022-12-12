@@ -1,42 +1,40 @@
 ---
-tags : [MOC]
+tags : [EE]
 ---
-(ctrl+f9 to copy)
-> [! Theme]
->Assessing The Use of Different Configurations of a Decision Tree Algorithm in Computer Chess
 
-To what extent is the Monte-Carlo Tree Search algorithm applicable to find the most optimal moves in different chess positions with minimal lookahead in terms of time complexity and performance?
+Created: 2022-12-03
 
----
-# Theme
-Évaluation de l'utilisation de différentes configurations d'un algorithme d'arbre de décision aux échecs sur ordinateur
+Assessing the use of Tree Search algorithms in solving Connect-4
 
-# Question de recherche
-Comment le *Principal Variation Search (PVS)* et le *Quiescence Search* affectent-ils la vitesse et la performance d'un algorithme Alpha-Beta a différents niveaux de profondeurs pour trouver les coups les plus optimaux aux échecs sur ordinateur ?
-## Sommaire
+Which search algorithm out of Monte-Carlo Tree Search and Optimized Minimax Search is the best in playing Connect-4 in terms of performance and time complexity for increasing grid sizes ?
 
-1. Introduction
+Évaluation de l'Utilisation de la Recherche Arborescente de Monte-Carlo et de la Recherche Minimax dans Puissance 4
+
+Quel algorithme de recherche, parmi la recherche arborescente de Monte-Carlo et la recherche Minimax optimisée, est le meilleur pour jouer au jeu Puissance 4 en termes de performance et de complexité temporelle pour des tailles de grille croissantes ?
+
+1. [[Introduction]]
 2. Contexte Théorique
-	1. Jeux a Somme-nulle et Théorème Minimax
-	2. Élagage Alpha-beta et Profondeur de Recherche
-	3. Fonction d'évaluation
-	4. Le *Principal Variation Search* (PVS)
-	5. Le *Quiescence Search*
-3. Méthodologie Expérimentale
-	1. Suites d'Ensembles de Données Utilisés
-	2. Pré-traitement
-	3. Algorithmes et Fonction d'Évaluation Utilisés
-	4. Variables Dépendantes
-		1. Exactitude
-		2. Temps
-	5. Procédure Expérimentale
+	1. [[Puissance 4]]
+	2. [[Recherche Minimax]]
+		- Élagage alpha-bêta
+		- Fonction d'évaluation
+	3. Recherche Arborescente de Monte-Carlo (MCTS)
+		- Sélection
+		- Expansion
+		- Simulation (ou Déploiement)
+		- Rétropropagation
+3. Hypothèses et Théorie Appliquée
+4. Méthodologie Expérimentale
+	1. Variables Indépendantes
+	2. Variables Dépendantes
+	3. Variables Contrôlées
+	4. Procédure Expérimentale
 4. Résultats Expérimentaux
-	1. Présentation des Données Tabulaires
-	2. Représentation Graphique des Données
-5. Analyse & Conclusion
-	1. Analyse des Données des Suites d'Ensembles
-	2. Analyse Expérimentale & Limitations
-	3. Conclusion
-6. Annexes
+	1. Aperçu des Résultats
+	2. Graphique de l'algorithme MCTS contre Minimax
+5. Analyse et Discussion des Résultats
+6. Conclusion
 
-[[EE MCTS]]
+
+---
+[[MCTS versus Minimax theory]]

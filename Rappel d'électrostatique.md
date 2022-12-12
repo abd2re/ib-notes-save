@@ -6,7 +6,7 @@ Created: 2022-11-22
 # Rappel d'électrostatique
 
 - 2 corps de charges opposées s::'attirent
-<!--SR:!2022-12-06,9,250-->
+<!--SR:!2022-12-29,23,250-->
 - 2 corps de charge de meme signe s::e repoussent
 <!--SR:!2022-12-27,22,250-->
 
@@ -20,7 +20,7 @@ $$q=-ne$$
 - $q$ = charge en coulomb (C)
 - $e$ = $1.6\cdot 10^{-19}C$ (coulomb) 
 - $n$ = nombre d'$e^{-}$(electrons) gagnés
-<!--SR:!2022-12-06,9,250-->
+<!--SR:!2022-12-28,22,250-->
 
 Un corps chargé positivement perd des electrons
 Formule de la charge électrique pour ce cas:
@@ -28,7 +28,7 @@ Formule de la charge électrique pour ce cas:
 $$q=ne$$
 - $q$ = charge en coulomb (C)
 - $e$ =:: $1.6\cdot 10^{-19}C$ (coulomb) 
-<!--SR:!2022-12-10,7,210-->
+<!--SR:!2022-12-14,4,190-->
 - $n$ = nombre d'$e^{-}$(electrons) perdus
 
 ## Conducteur et isolant électrique

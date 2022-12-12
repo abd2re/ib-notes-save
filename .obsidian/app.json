@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Time and space",
+  "attachmentFolderPath": "./assets/Recherche Minimax",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false
 }

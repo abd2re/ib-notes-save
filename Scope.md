@@ -10,4 +10,5 @@ What is being studied, and what kind of problems can be solved ?
 What are the limitations ?
 What are some of the current open, unanswered, or contentious questions ?
 All are areas of knowledge concerned with knowledge of the past to some extent ?
+<!--SR:!2022-12-18,7,250-->
 

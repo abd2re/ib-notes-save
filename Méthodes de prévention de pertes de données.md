@@ -8,7 +8,7 @@ C'est quoi
 ?
 En cas de défaillance du système ou du disque dur, les données que nous y avons stockées peuvent être perdues à jamais, ou devenir inaccessibles.
 Afin d'éviter cela, les spécialistes ont créé différentes méthodes permettant de se préparer à cette situation.
-<!--SR:!2022-12-07,40,230-->
+<!--SR:!2023-03-09,92,230-->
 
 Des méthodes de prévention de pertes de données déjà données dans [[Causes possibles d'une perte de données]] sont 6:
 ?
@@ -18,7 +18,7 @@ Des méthodes de prévention de pertes de données déjà données dans [[Causes
 4. Installation d'un programme Antivirus
 5. Techniques de réduction des erreurs humaines et/ou sécurité intégrée (fichiers supprimés accidentellement)
 6. Sauvegarde automatique en ligne (iCIoud, Dropbox)
-<!--SR:!2022-12-11,43,228-->
+<!--SR:!2023-03-19,98,228-->
 
 ### Solutions:
 ?

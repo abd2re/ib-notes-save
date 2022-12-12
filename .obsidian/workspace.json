@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time and space.md",
-                "mode": "preview",
+                "file": "Recherche Minimax.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mole",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time and space.md",
+                "file": "Recherche Minimax.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time and space.md",
+                "file": "Recherche Minimax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time and space.md"
+                "file": "Recherche Minimax.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Time and space.md",
+                "file": "Recherche Minimax.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.11826642961341471,
+                  "scale": 0.1659958514892643,
                   "close": true
                 }
               }
@@ -274,15 +274,15 @@
   },
   "active": "0d45f1d4028d7455",
   "lastOpenFiles": [
-    "Point of view.md",
-    "Time and space.md",
-    "Cultural context.md",
+    "_EE.md",
+    "Puissance 4.md",
+    "MCTS versus Minimax theory.md",
+    "Recherche Minimax.md",
+    "Introduction.md",
+    "template/EE template.md",
     "_english.md",
-    "Présentation d'un document iconographique.md",
-    "Intensité du courant électrique.md",
-    "_physics.md",
-    "Capacité calorifique.md",
-    "Chaleur latente.md",
-    "Loi des gaz parfait.md"
+    "Malala.md",
+    "Tension ou différence de potentiel électrique.md",
+    "_physics.md"
   ]
 }

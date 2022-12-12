@@ -7,4 +7,4 @@ Created: 2022-11-08
 ?
 *Les consommateurs ne sont pas les seuls acteurs à connaître un surplus sur un marché ; les producteurs enregistrent également des excédents.*
 **Surplus du producteur**: est la différence entre le prix le plus bas que les producteurs sont disposés et capables d'offrir d’un bien et le prix réel qu'ils reçoivent pour cela. C'est l'avantage supplémentaire que les producteurs reçoivent en vendant une quantité de production à un prix plus élevé que celui auquel ils étaient prêts à la vendre.
-<!--SR:!2022-12-11,20,250-->
+<!--SR:!2023-01-30,50,250-->

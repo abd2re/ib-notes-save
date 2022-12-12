@@ -23,3 +23,4 @@ banner_y: 0.5
 2. [[Champ électrique]]
 ## 2. Les effets thermiques du courant  
 1. [[Intensité du courant électrique]] 
+2. [[Tension ou différence de potentiel électrique]]

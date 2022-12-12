@@ -37,6 +37,7 @@ banner_y: 0.5
 2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
 3. [[Déterminants de l'élasticité-prix de la demande]]
 4. Élasticité-prix de la demande (PED) et [[Revenu total des entreprises]]
+5. [[Elasticité revenue de la demande]], [[Elasticité prix croisée]]
 
 ## Chapitre 6: Elasticités de l'offre
-1. [[Elasticité de l'offre|Définition]]
+1. [[Elasticités de l'offre|Définition]]

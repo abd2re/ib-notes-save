@@ -8,4 +8,4 @@ Created: 2022-10-18
 ?
 Le rationnement fait référence à la distribution contrôlée des ressources. Le rationnement est nécessaire à tout moment lorsque les biens et les ressources sont rares.
 En période de pénurie extrême, les gouvernements peuvent devoir rationner les biens pour assurer une sorte de distribution équitable.
-<!--SR:!2022-12-06,29,230-->
+<!--SR:!2023-02-11,67,230-->

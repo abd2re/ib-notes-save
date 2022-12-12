@@ -1,6 +1,146 @@
 {
   "recentFiles": [
     {
+      "basename": "Recherche Minimax",
+      "path": "Recherche Minimax.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Puissance 4",
+      "path": "Puissance 4.md"
+    },
+    {
+      "basename": "MCTS versus Minimax theory",
+      "path": "MCTS versus Minimax theory.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Introduction.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Malala",
+      "path": "Malala.md"
+    },
+    {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Intensité du courant électrique",
+      "path": "Intensité du courant électrique.md"
+    },
+    {
+      "basename": "EE MCTS",
+      "path": "EE MCTS.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "History",
+      "path": "History.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Scarlet Letter Answers",
+      "path": "Scarlet Letter Answers.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "Scope.md"
+    },
+    {
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
+    },
+    {
+      "basename": "Déploiement des logiciels",
+      "path": "Déploiement des logiciels.md"
+    },
+    {
+      "basename": "Stratégies de mises à jour",
+      "path": "Stratégies de mises à jour.md"
+    },
+    {
+      "basename": "Mises à jour manuelles",
+      "path": "Mises à jour manuelles.md"
+    },
+    {
+      "basename": "Elasticités de l'offre",
+      "path": "Elasticités de l'offre.md"
+    },
+    {
+      "basename": "Elasticité de la demande",
+      "path": "Elasticité de la demande.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Elasticité prix croisée",
+      "path": "Elasticité prix croisée.md"
+    },
+    {
+      "basename": "Formule de l'élasticité prix demande",
+      "path": "Formule de l'élasticité prix demande.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Cultural context",
+      "path": "Cultural context.md"
+    },
+    {
       "basename": "Time and space",
       "path": "Time and space.md"
     },
@@ -9,20 +149,20 @@
       "path": "Point of view.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
+      "basename": "Drawing 2022-12-06 09.44.37.excalidraw",
+      "path": "Excalidraw/Drawing 2022-12-06 09.44.37.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-10-18 16.30.09.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md"
+    },
+    {
+      "basename": "English test",
+      "path": "English test.md"
     },
     {
       "basename": "Présentation d'un document iconographique",
       "path": "Présentation d'un document iconographique.md"
-    },
-    {
-      "basename": "Intensité du courant électrique",
-      "path": "Intensité du courant électrique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Chaleur massique",
@@ -41,10 +181,6 @@
       "path": "Chaleur latente.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
     },
@@ -57,148 +193,12 @@
       "path": "Changements d'états.md"
     },
     {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Cultural context",
-      "path": "Cultural context.md"
-    },
-    {
-      "basename": "EE MCTS",
-      "path": "EE MCTS.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
     {
       "basename": "exercices info 2",
       "path": "exercices info 2.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "questions infos 1",
-      "path": "questions infos 1.md"
-    },
-    {
-      "basename": "exercices info 1",
-      "path": "exercices info 1.md"
-    },
-    {
-      "basename": "Elasticité de l'offre",
-      "path": "Elasticité de l'offre.md"
-    },
-    {
-      "basename": "Elasticité de la demande",
-      "path": "Elasticité de la demande.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "History",
-      "path": "History.md"
-    },
-    {
-      "basename": "Scope",
-      "path": "Scope.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Sujets informatiques d'importance sociale et éthique",
-      "path": "Sujets informatiques d'importance sociale et éthique.md"
-    },
-    {
-      "basename": "Sécurité de l'information",
-      "path": "Sécurité de l'information.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "Ressources humaines",
-      "path": "Ressources humaines.md"
-    },
-    {
-      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
-      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "Scarlet Letter Answers",
-      "path": "Scarlet Letter Answers.md"
-    },
-    {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "Formules de Viète",
-      "path": "Formules de Viète.md"
-    },
-    {
-      "basename": "Surplus du producteur",
-      "path": "Surplus du producteur.md"
-    },
-    {
-      "basename": "Surplus social ou communautaire",
-      "path": "Surplus social ou communautaire.md"
-    },
-    {
-      "basename": "Surplus du consommateur",
-      "path": "Surplus du consommateur.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de la demande",
-      "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Revenu total des entreprises",
-      "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Efficacité",
-      "path": "Efficacité.md"
-    },
-    {
-      "basename": "Efficacité allocative",
-      "path": "Efficacité allocative.md"
-    },
-    {
-      "basename": "Efficacité productive",
-      "path": "Efficacité productive.md"
-    },
-    {
-      "basename": "Formule de l'élasticité prix demande",
-      "path": "Formule de l'élasticité prix demande.md"
-    },
-    {
-      "basename": "Importance de l'itération pendant le processus de conception",
-      "path": "Importance de l'itération pendant le processus de conception.md"
     }
   ],
   "omittedPaths": [],
