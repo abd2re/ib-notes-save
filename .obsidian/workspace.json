@@ -42,23 +42,6 @@
             }
           },
           {
-            "id": "1f33bdebd376a104",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK History work.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44db821e49627631",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -324,7 +307,7 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "1f33bdebd376a104",
+  "active": "44db821e49627631",
   "lastOpenFiles": [
     "_TOK.md",
     "Scope.md",
