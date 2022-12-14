@@ -8,7 +8,7 @@ Created: 2022-11-18
 ## L'itération
 ?
 L'itération désigne la répétition d'un ensemble d'instructions pendant un nombre spécifique de fois ou jusqu'à ce que les opérations donnent le résultat souhaité.
-<!--SR:!2022-12-12,15,230-->
+<!--SR:!2023-01-18,37,230-->
 
 ## Importance de l'itération pendant le processus de conception
 ?
@@ -26,4 +26,4 @@ Même les meilleurs concepteurs ne peuvent pas concevoir des produits parfaits e
 - [[Développement]] ou Mise en oeuvre
 - [[Test et déploiement]]
 - [[Maintenance]]
-<!--SR:!2022-12-13,6,210-->
+<!--SR:!2022-12-26,13,210-->

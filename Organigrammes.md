@@ -13,7 +13,7 @@ Les organigrammes de systèmes sont fréquemment construits pendant les activit�
 ## Elements d'un organigramme
 ?
 ![[image-20221118104345563.png]]
-<!--SR:!2022-12-13,16,230-->
+<!--SR:!2023-01-18,36,230-->
 
 ![[image-20221118104348265.png]]
 

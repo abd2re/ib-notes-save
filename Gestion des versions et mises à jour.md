@@ -7,4 +7,4 @@ Created: 2022-10-04
 ?
 Des bugs ou des failles de sécurité sont souvent découverts dans des parties critiques d'un système après sa sortie.
 Un mécanisme de mise à jour est donc crucial pour garantir les bonnes performances et la sécurité.
-<!--SR:!2022-12-12,40,230-->
+<!--SR:!2023-03-13,91,230-->

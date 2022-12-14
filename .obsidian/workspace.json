@@ -17,14 +17,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recherche Minimax.md",
+                "file": "Role du gouvernement en micro-économie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5775255bc9f23550",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Élagage alpha-bêta.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f33bdebd376a104",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK History work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44db821e49627631",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK History work.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kirch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recherche Minimax.md",
+                "file": "TOK History work.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recherche Minimax.md",
+                "file": "TOK History work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recherche Minimax.md"
+                "file": "TOK History work.md"
               }
             }
           },
@@ -229,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recherche Minimax.md",
+                "file": "TOK History work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +312,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.1659958514892643,
+                  "scale": 0.5122262704631739,
                   "close": true
                 }
               }
@@ -272,17 +324,17 @@
     "direction": "horizontal",
     "width": 464.5
   },
-  "active": "0d45f1d4028d7455",
+  "active": "1f33bdebd376a104",
   "lastOpenFiles": [
-    "_EE.md",
-    "Puissance 4.md",
-    "MCTS versus Minimax theory.md",
-    "Recherche Minimax.md",
-    "Introduction.md",
-    "template/EE template.md",
-    "_english.md",
-    "Malala.md",
-    "Tension ou différence de potentiel électrique.md",
-    "_physics.md"
+    "_TOK.md",
+    "Scope.md",
+    "History.md",
+    "TOK History work.md",
+    "_french B.md",
+    "_economy.md",
+    "Untitled 2.md",
+    "Élagage alpha-bêta.md",
+    "Role du gouvernement en micro-économie.md",
+    "_EE.md"
   ]
 }

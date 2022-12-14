@@ -16,7 +16,7 @@ How can we know about the past ?
 - People know what happened in the past by looking at things from the past including sources (like books, newspapers, and letters) and artifacts (like pottery, tools, and human or animal remains.)
 
 **Pluralistic history**:: Accepting that there are various different perspectives that may be justified, and multiple possible accounts of the past.
-<!--SR:!2022-12-12,3,250-->
+<!--SR:!2022-12-20,8,250-->
 
 1) We have very close interpretation of the stories
 2) Our memory, what we were doing during this period.
@@ -24,5 +24,5 @@ How can we know about the past ?
 4) Knowledge of the past is possible because we have people that had that experience of living it and we have to take in account their sayings and other historical proofs.
 
 **Pluralistic approach**:: There is, of course, no easy way for us to gain certain knowledge of the past, no escape from our own prejudices and achieve a god's eye view of history. Since history has often been used to promote the interest of dominants nations. It is not surprising that some people are suspicious of the official version of the truth. In a multicultural world, one might argue that textbooks should reflect the experiences not only of elites but also of groups such as women and ethnic minorities. Indeed, rather than thinking of history in the singular, it might be better to think in terms of histories. We have to explore the past from a variety of perspectives.
-<!--SR:!2022-12-12,3,250-->
+<!--SR:!2022-12-19,7,250-->
 

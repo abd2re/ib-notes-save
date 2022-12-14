@@ -41,3 +41,7 @@ banner_y: 0.5
 
 ## Chapitre 6: Elasticités de l'offre
 1. [[Elasticités de l'offre|Définition]]
+2. [[Déterminants de l'élasticité-prix de l'offre]]
+
+## Chapitre 6: Role du gouvernement en micro-économie
+1. [[Role du gouvernement en micro-économie]]

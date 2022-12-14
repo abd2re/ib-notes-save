@@ -10,7 +10,7 @@ Bias:: prejudice, favoritism, unfairness, partiality
 <!--SR:!2023-01-13,33,230-->
 
 Identity:: how a person, group, or nation sees themselves in relation to other people, groups, nations, ideas, and the world
-<!--SR:!2022-12-12,15,230-->
+<!--SR:!2023-01-17,36,230-->
 
 Contingent:: only true under certain conditions, and dependent on other things.
 <!--SR:!2022-12-20,15,190-->

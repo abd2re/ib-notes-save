@@ -11,14 +11,14 @@ Personal knowledge is the knowledge we personally have. Almost all of our person
 experiential=::based on experience
 <!--SR:!2023-01-02,26,230-->
 innate=::you are born with
-<!--SR:!2022-12-13,16,230-->
+<!--SR:!2023-01-21,39,230-->
 a priori=::purely bu reason
-<!--SR:!2022-12-12,15,230-->
+<!--SR:!2023-01-20,39,230-->
 
 theorem=:: A principal or statement that can be demonstrated or proved using logic, but is not self evident. 
 <!--SR:!2023-01-07,29,230-->
 truth=::In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2022-12-13,16,230-->
+<!--SR:!2023-01-22,40,230-->
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
 <!--SR:!2023-01-12,32,230-->
 polymath=::a person of wide knowledge or learning.
