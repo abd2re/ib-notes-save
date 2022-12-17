@@ -28,14 +28,14 @@ Formule de la charge électrique pour ce cas:
 $$q=ne$$
 - $q$ = charge en coulomb (C)
 - $e$ =:: $1.6\cdot 10^{-19}C$ (coulomb) 
-<!--SR:!2022-12-14,4,190-->
+<!--SR:!2022-12-24,10,190-->
 - $n$ = nombre d'$e^{-}$(electrons) perdus
 
 ## Conducteur et isolant électrique
 - Un conducteur:: laisse passer le courant électrique
-<!--SR:!2022-12-17,14,230-->
+<!--SR:!2023-01-16,30,230-->
 - Un isolant:: ne laisse pas passer le courant électrique
-<!--SR:!2022-12-16,13,230-->
+<!--SR:!2023-01-14,28,230-->
 Le courant électrique est:: un déplacement de charges.
 <!--SR:!2022-12-23,18,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.
@@ -43,4 +43,4 @@ Les isolants ne conduisent pas l'électricité car:: les charges électriques y 
 
 ## Loi de la conservation de la charge électrique
 La charge électrique d'un système isolé est:: constante. 
-<!--SR:!2022-12-16,13,230-->
+<!--SR:!2023-01-20,34,230-->

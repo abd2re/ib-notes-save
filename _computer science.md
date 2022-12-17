@@ -35,3 +35,8 @@ banner_y: 0.5
 3. [[Représentations appropriées pour illustrer les exigences du système]]
 4. [[Objectif des prototypes pour présenter un système au client]]
 5. [[Importance de l'itération pendant le processus de conception]]
+---
+# Theme 2: Architecture des ordinateurs
+## Chapitre 1: Le CPU et ses éléments
+1. Le modèle de traitement des ordinateurs
+2. Le CPU

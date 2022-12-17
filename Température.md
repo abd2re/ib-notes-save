@@ -9,9 +9,9 @@ La température est une mesure de l'[[Energie cinétique]] moyenne des [[molécu
 <!--SR:!2023-01-28,72,250-->
 
 On rencontre les échelles suivantes de Températures suivantes:: Celsius ,Fahrenheit, Kelvin
-<!--SR:!2022-12-14,53,290-->
+<!--SR:!2023-05-17,154,290-->
 Les conversions Celsius-Kelvin:
 ?
 $$T(K)=\theta(\degree C)+273$$
 $$\theta(\degree C)=T(K)-273$$
-<!--SR:!2022-12-15,54,290-->
+<!--SR:!2023-05-21,157,290-->

@@ -33,14 +33,14 @@ banner_y: 0.5
 ## Chapitre 4: Critique du comportement maximisateur (HL)
 
 ## Chapitre 5: Elasticités de la demande
-1. [[Elasticité de la demande|Définition]], [[Formule de l'élasticité prix demande]]
+1. [[Elasticité prix de la demande|Définition]] (EPD), [[Formule de l'élasticité prix demande]]
 2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
 3. [[Déterminants de l'élasticité-prix de la demande]]
-4. Élasticité-prix de la demande (PED) et [[Revenu total des entreprises]]
-5. [[Elasticité revenue de la demande]], [[Elasticité prix croisée]]
+4. Élasticité-prix de la demande (EPD) et [[Revenu total des entreprises]]
+5. [[Elasticité revenue de la demande]] (YED), [[Elasticité prix croisée]] (EPC)
 
 ## Chapitre 6: Elasticités de l'offre
-1. [[Elasticités de l'offre|Définition]]
+1. [[Elasticités de l'offre|Définition]] (EPS)
 2. [[Déterminants de l'élasticité-prix de l'offre]]
 
 ## Chapitre 6: Role du gouvernement en micro-économie

@@ -13,7 +13,7 @@ Created: 2022-11-07
 - Analysis on text 2
 - Comparaison of texts 1 and 2
 - Tie back to thesis statement
-<!--SR:!2022-12-17,20,210-->
+<!--SR:!2023-01-26,40,210-->
 
 - To what degree is reading fiction about finding the 'truth' ?
 	Fiction is a medium used to treat real problems, the problems can be relational, societal, or environmental and we often find these relatable problems in fiction plots. Using fiction to alleviate these problems allows the author to go into more sensible issues with more liberty, allowing him to exaggerate and accentuate situations. Using fiction is just a way of approaching real-world problems with creativity thus helping the reader finding the 'truth'.

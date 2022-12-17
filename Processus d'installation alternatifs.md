@@ -11,4 +11,4 @@ Ils sont 4:
 2. [[Big Bang|Changement direct]]
 3. [[Pilotage]]
 4. [[Conversion progressive]]
-<!--SR:!2022-12-17,18,170-->
+<!--SR:!2023-01-17,31,170-->

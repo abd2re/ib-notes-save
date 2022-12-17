@@ -28,6 +28,11 @@ How can we know about the past ?
 
 There are many reasons for pursuing historical knowledge. We can justify history on various grounds, including that it gives us a shared/collective memory, enriching our understanding of human nature, is a defense against propaganda and can provide a range of perspectives.
 
+## History gives us a shared memory
 History gives us a shared memory. You can know a person if you know something about his history, you can also know a country if you know something about its history and collective national memories. If you are to have informed opinions about current affairs, and your judgements about other countries are to go beyond mere prejudice, then a knowledge of history is indispensable. Education system will take a peculiar approach to the teaching of history. For example a school history textbook might shape a student's sense of identity, and a collective national memory. Textbooks written about the same historical person or events may take different approaches.
 
-The key issue is who interprets the collective national memory for today, and how it is represented. These issues have 
+The key issue is who interprets the collective national memory for today, and how it is represented. These issues have significant implications for knowledge and knowing,
+
+## History enriches our understanding of human nature 
+History enriches our understanding of human nature by showing us what human beings have thought and done in a wide variety of circumstances. History reminds us that human behavior can never be fully explained in terms of neat and tidy models. If that is the case, than we might agree with the historians R. G. Collingwood (1889-1943) who suggested that if you want to know yourself and other people better, you might want to pursue historical knowledge. My answer is that history for human self-knowledge... Knowing yourself means knowing what you can do;  and since nobody knows what he can do until he tries, the only clue to what man can do is what man has done.
+The value of history, then, is that it teaches us of what man has done and thus what man is.

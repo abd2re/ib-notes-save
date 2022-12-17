@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
+      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+    },
+    {
+      "basename": "Représentations appropriées pour illustrer les exigences du système",
+      "path": "Représentations appropriées pour illustrer les exigences du système.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Élagage alpha-bêta",
+      "path": "Élagage alpha-bêta.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
+      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Introduction.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "Recherche Minimax",
+      "path": "Recherche Minimax.md"
+    },
+    {
+      "basename": "Elasticités de l'offre",
+      "path": "Elasticités de l'offre.md"
+    },
+    {
+      "basename": "Elasticité prix de la demande",
+      "path": "Elasticité prix de la demande.md"
+    },
+    {
+      "basename": "Fonctions du mécanisme des prix",
+      "path": "Fonctions du mécanisme des prix.md"
+    },
+    {
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "Elasticité prix croisée",
+      "path": "Elasticité prix croisée.md"
+    },
+    {
+      "basename": "Role du gouvernement en micro-économie",
+      "path": "Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Déterminants de l'élasticité-prix de l'offre",
+      "path": "Déterminants de l'élasticité-prix de l'offre.md"
+    },
+    {
+      "basename": "Période considérée (offre)",
+      "path": "Période considérée (offre).md"
+    },
+    {
+      "basename": "Possibilité de stocker des stocks",
+      "path": "Possibilité de stocker des stocks.md"
+    },
+    {
+      "basename": "Capacité inutilisée",
+      "path": "Capacité inutilisée.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Puissance 4",
+      "path": "Puissance 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Untitled 3.md"
+    },
+    {
       "basename": "History",
       "path": "History.md"
     },
@@ -21,64 +125,16 @@
       "path": "_french B.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Untitled 2",
       "path": "Untitled 2.md"
-    },
-    {
-      "basename": "Élagage alpha-bêta",
-      "path": "Élagage alpha-bêta.md"
-    },
-    {
-      "basename": "Role du gouvernement en micro-économie",
-      "path": "Role du gouvernement en micro-économie.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de l'offre",
-      "path": "Déterminants de l'élasticité-prix de l'offre.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Recherche Minimax",
-      "path": "Recherche Minimax.md"
-    },
-    {
-      "basename": "Possibilité de stocker des stocks",
-      "path": "Possibilité de stocker des stocks.md"
-    },
-    {
-      "basename": "Capacité inutilisée",
-      "path": "Capacité inutilisée.md"
     },
     {
       "basename": "Mobilité (flexibilité) et coût des facteurs de production",
       "path": "Mobilité (flexibilité) et coût des facteurs de production.md"
     },
     {
-      "basename": "Période considérée (offre)",
-      "path": "Période considérée (offre).md"
-    },
-    {
       "basename": "Déterminants de l'élasticité-prix de la demande",
       "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_english",
@@ -87,14 +143,6 @@
     {
       "basename": "Scarlet Letter Answers",
       "path": "Scarlet Letter Answers.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "Introduction.md"
-    },
-    {
-      "basename": "Puissance 4",
-      "path": "Puissance 4.md"
     },
     {
       "basename": "Narrative technique",
@@ -125,10 +173,6 @@
       "path": "Intensité du courant électrique.md"
     },
     {
-      "basename": "Elasticités de l'offre",
-      "path": "Elasticités de l'offre.md"
-    },
-    {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "EE template",
       "path": "template/EE template.md"
-    },
-    {
-      "basename": "Malala",
-      "path": "Malala.md"
-    },
-    {
-      "basename": "EE MCTS",
-      "path": "EE MCTS.md"
-    },
-    {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Fonctions quadratiques",
-      "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "Déploiement des logiciels",
-      "path": "Déploiement des logiciels.md"
-    },
-    {
-      "basename": "Stratégies de mises à jour",
-      "path": "Stratégies de mises à jour.md"
-    },
-    {
-      "basename": "Mises à jour manuelles",
-      "path": "Mises à jour manuelles.md"
-    },
-    {
-      "basename": "Elasticité de la demande",
-      "path": "Elasticité de la demande.md"
     }
   ],
   "omittedPaths": [],
