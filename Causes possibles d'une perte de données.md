@@ -37,4 +37,4 @@ Les causes sont:
 	- **solution**: Meilleures prises en charge, Sauvegardes régulières
 - Panne d'alimentation:
 	- **solution**: Nécessité d'un UPS (onduleurs), Sauvegardes régulières
-<!--SR:!2022-12-20,48,230-->
+<!--SR:!2023-04-10,111,230-->

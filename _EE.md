@@ -17,8 +17,8 @@ Quel algorithme de recherche, parmi la recherche arborescente de Monte-Carlo et 
 	1. [[Puissance 4]]
 	2. [[Recherche Minimax]]
 		- [[Élagage alpha-bêta]]
-		- Fonction d'évaluation
-	3. Recherche Arborescente de Monte-Carlo (MCTS)
+		- [[Fonction d'évaluation]]
+	3. [[Recherche Arborescente de Monte-Carlo (MCTS)]]
 		- Sélection
 		- Expansion
 		- Simulation (ou Déploiement)

@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "Recherche Arborescente de Monte-Carlo (MCTS)",
+      "path": "Recherche Arborescente de Monte-Carlo (MCTS).md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "circuit caractéristique d'une pile",
+      "path": "Excalidraw/circuit caractéristique d'une pile.md"
+    },
+    {
+      "basename": "Élagage alpha-bêta",
+      "path": "Élagage alpha-bêta.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "equivalent e;r",
+      "path": "Excalidraw/equivalent e;r.md"
+    },
+    {
+      "basename": "Drawing 2022-12-20 08.34.49.excalidraw",
+      "path": "Excalidraw/Drawing 2022-12-20 08.34.49.excalidraw.md"
+    },
+    {
+      "basename": "Fonction d'évaluation",
+      "path": "Fonction d'évaluation.md"
+    },
+    {
       "basename": "_CAS",
       "path": "_CAS.md"
+    },
+    {
+      "basename": "Recherche Minimax",
+      "path": "Recherche Minimax.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
     },
     {
       "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
@@ -21,10 +77,6 @@
       "path": "Revenu total des entreprises.md"
     },
     {
-      "basename": "Élagage alpha-bêta",
-      "path": "Élagage alpha-bêta.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -33,20 +85,8 @@
       "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
     },
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
       "basename": "Introduction",
       "path": "Introduction.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Recherche Minimax",
-      "path": "Recherche Minimax.md"
     },
     {
       "basename": "Elasticités de l'offre",
@@ -91,10 +131,6 @@
     {
       "basename": "Capacité inutilisée",
       "path": "Capacité inutilisée.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Puissance 4",
@@ -163,42 +199,6 @@
     {
       "basename": "Setting",
       "path": "Setting.md"
-    },
-    {
-      "basename": "Key features of poetry",
-      "path": "Key features of poetry.md"
-    },
-    {
-      "basename": "Intensité du courant électrique",
-      "path": "Intensité du courant électrique.md"
-    },
-    {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "loi de kirchoff pour la tension",
-      "path": "Excalidraw/loi de kirchoff pour la tension.md"
-    },
-    {
-      "basename": "Loi de Coulomb",
-      "path": "Loi de Coulomb.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
-    },
-    {
-      "basename": "Analyzing poems",
-      "path": "Analyzing poems.md"
-    },
-    {
-      "basename": "MCTS versus Minimax theory",
-      "path": "MCTS versus Minimax theory.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
     }
   ],
   "omittedPaths": [],

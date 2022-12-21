@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_CAS.md",
+                "file": "Tension ou différence de potentiel électrique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -25,37 +25,15 @@
             }
           },
           {
-            "id": "5775255bc9f23550",
+            "id": "221b1d360e2daf04",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Résistance électrique.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc3531fbe24efb5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Élagage alpha-bêta.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -153,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_CAS.md",
+                "file": "Tension ou différence de potentiel électrique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_CAS.md",
+                "file": "Tension ou différence de potentiel électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_CAS.md"
+                "file": "Tension ou différence de potentiel électrique.md"
               }
             }
           },
@@ -263,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_CAS.md",
+                "file": "Tension ou différence de potentiel électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -306,17 +284,31 @@
     "direction": "horizontal",
     "width": 464.5
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "0d45f1d4028d7455",
   "lastOpenFiles": [
-    "Méthodes  d'obtention des  exigences des parties prenantes.md",
-    "Représentations appropriées pour illustrer les exigences du système.md",
-    "_computer science.md",
-    "Composants d'un système informatique.md",
-    "Revenu total des entreprises.md",
+    "_physics.md",
+    "Tension ou différence de potentiel électrique.md",
+    "Résistance électrique.md",
+    "Recherche Arborescente de Monte-Carlo (MCTS).md",
+    "Untitled.canvas",
+    "Piles électriques.md",
+    "_EE.md",
     "Élagage alpha-bêta.md",
-    "_economy.md",
-    "Elasticité prix de la demande.md",
-    "Déterminants de l'élasticité-prix de la demande.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    "Champ électrique.md",
+    "Excalidraw/equivalent e;r.md"
   ]
 }

@@ -25,3 +25,4 @@ banner_y: 0.5
 1. [[Intensité du courant électrique]] 
 2. [[Tension ou différence de potentiel électrique]]
 3. [[Résistance électrique]]
+4. [[Piles électriques]]

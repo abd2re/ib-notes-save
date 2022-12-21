@@ -50,3 +50,6 @@ $$x=\log_{25}2^{32}$$
 $$\frac{1}{3}$$
 $$\frac{1}{3}$$
 $$\frac{1}{3}$$
+$$R=\frac{\rho l}{D^{2}}$$
+$$xR=\frac{2\rho 2l}{(2D)^{2}}=\frac{4\rho l}{4D^{2}}=\frac{\rho l}{D^{2}}=R$$
+$$\textbf{Donc }x = 1$$
