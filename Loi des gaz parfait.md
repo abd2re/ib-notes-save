@@ -17,5 +17,5 @@ $R$ = $8.3145 Jmol^{-1}K^{-1}$ constante des gaz parfaits
 $T$ = température (en kelvin)
 $N$ = Nombre de molécules
 $k_{B}$ = $1.38\cdot 10^{-23} JK^{-1}$ constante de Boltzmann
-<!--SR:!2022-12-26,27,250-->
+<!--SR:!2023-03-03,67,250-->
 

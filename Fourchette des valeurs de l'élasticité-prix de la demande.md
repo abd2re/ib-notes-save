@@ -8,7 +8,7 @@ Created: 2022-11-16
 ## Demande élastique au prix
 ?
 Lorsque l'élasticité-prix de la demande est supérieure à 1 (PED > 1) **,** on dit que la demande est élastique au prix . Cela signifie que la demande des consommateurs est relativement réactive ou sensible aux variations de prix.
-<!--SR:!2022-12-24,24,250-->
+<!--SR:!2023-02-25,63,250-->
 
 ## Demande inélastique au prix
 ?
@@ -23,7 +23,7 @@ Lorsque l'élasticité-prix de la demande est égale à 1 (PED = 1), on dit que 
 ## Demande parfaitement inélastique
 ?
 Lorsque la valeur de l'élasticité-prix de la demande est nulle (PED = 0), on dit que la demande est parfaitement inélastique. La demande des consommateurs est totalement insensible aux changements de prix.
-<!--SR:!2022-12-25,25,250-->
+<!--SR:!2023-02-27,64,250-->
 
 ## Demande parfaitement élastique
 ?

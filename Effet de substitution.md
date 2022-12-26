@@ -7,4 +7,4 @@ Created: 2022-09-14
 
 ?
 Lorsque le prix d'un produit baisse et que le prix des substituts restent le meme, les consommateurs peuvent substituer ce produit aux autres produits.
-<!--SR:!2022-12-26,68,270-->
+<!--SR:!2023-06-28,184,270-->

@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
+      "basename": "physics-canvas",
+      "path": "Excalidraw/physics-canvas.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
       "basename": "Recherche Arborescente de Monte-Carlo (MCTS)",
       "path": "Recherche Arborescente de Monte-Carlo (MCTS).md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Drawing 2022-12-24 18.07.04.excalidraw",
+      "path": "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md"
+    },
+    {
+      "basename": "Elasticité prix croisée",
+      "path": "Elasticité prix croisée.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
     },
     {
       "basename": "Untitled",
@@ -27,14 +51,6 @@
     {
       "basename": "Élagage alpha-bêta",
       "path": "Élagage alpha-bêta.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
     },
     {
       "basename": "equivalent e;r",
@@ -77,10 +93,6 @@
       "path": "Revenu total des entreprises.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
       "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "Elasticité revenue de la demande",
       "path": "Elasticité revenue de la demande.md"
-    },
-    {
-      "basename": "Elasticité prix croisée",
-      "path": "Elasticité prix croisée.md"
     },
     {
       "basename": "Role du gouvernement en micro-économie",
@@ -191,14 +199,6 @@
     {
       "basename": "Characterization",
       "path": "Characterization.md"
-    },
-    {
-      "basename": "Exposition",
-      "path": "Exposition.md"
-    },
-    {
-      "basename": "Setting",
-      "path": "Setting.md"
     }
   ],
   "omittedPaths": [],

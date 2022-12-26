@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d45f1d4028d7455",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "221b1d360e2daf04",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -35,8 +18,40 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e7ea7447b09b9097",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/physics-canvas.md"
+              }
+            }
+          },
+          {
+            "id": "dc3313ea13204bff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piles électriques.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "19cf5f7b89095f27",
@@ -131,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Excalidraw/physics-canvas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Excalidraw/physics-canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,12 +199,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md"
+                "file": "Excalidraw/physics-canvas.md"
               }
             }
           },
           {
-            "id": "f419277d11679306",
+            "id": "7ca8ac01fbf81ad4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -241,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Excalidraw/physics-canvas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 464.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,17 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d45f1d4028d7455",
+  "active": "e7ea7447b09b9097",
   "lastOpenFiles": [
+    "Excalidraw/physics-canvas.md",
+    "Piles électriques.md",
     "_physics.md",
     "Tension ou différence de potentiel électrique.md",
     "Résistance électrique.md",
     "Recherche Arborescente de Monte-Carlo (MCTS).md",
-    "Untitled.canvas",
-    "Piles électriques.md",
     "_EE.md",
-    "Élagage alpha-bêta.md",
-    "Champ électrique.md",
-    "Excalidraw/equivalent e;r.md"
+    "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md",
+    "Elasticité prix croisée.md",
+    "_economy.md"
   ]
 }

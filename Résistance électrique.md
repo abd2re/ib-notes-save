@@ -22,12 +22,12 @@ $$R=\frac{\rho l}{A}$$
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
 <!--SR:!2022-12-31,11,230-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
-<!--SR:!2022-12-21,6,230-->
+<!--SR:!2023-01-04,14,230-->
 
 - Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
-<!--SR:!2022-12-24,4,190-->
+<!--SR:!2023-01-02,9,190-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
-<!--SR:!2022-12-23,8,250-->
+<!--SR:!2023-01-12,20,250-->
 
 ## Association de résistors
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
@@ -42,7 +42,7 @@ Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de v
 <!--SR:!2022-12-27,7,222-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
-<!--SR:!2022-12-21,6,242-->
+<!--SR:!2022-12-31,7,222-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
 <!--SR:!2023-01-03,14,242-->
@@ -53,7 +53,7 @@ Un appareil de mesure modifie le circuit et a un effet sur la mesure.
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
 <!--SR:!2022-12-29,10,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
-<!--SR:!2022-12-21,6,242-->
+<!--SR:!2023-01-05,15,242-->
 
 ## Diviseur de tension et montage potentiométrique
 Formule et circuit
@@ -66,7 +66,7 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2022-12-22,2,240-->
+<!--SR:!2022-12-27,5,240-->
 
 
 
