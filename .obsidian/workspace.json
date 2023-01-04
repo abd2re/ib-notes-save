@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Puissance 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Puissance 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Puissance 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Puissance 4.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction.md",
+                "file": "Puissance 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -308,14 +308,14 @@
   "active": "447c141f4351b0a0",
   "lastOpenFiles": [
     "_EE.md",
+    "Puissance 4.md",
+    "Introduction.md",
     "Recherche Arborescente de Monte-Carlo (MCTS).md",
     "_computer science.md",
     "Changements dans un environment.md",
     "Représentations appropriées pour illustrer les exigences du système.md",
     "_economy.md",
     "Role du gouvernement en micro-économie.md",
-    "Résistance électrique.md",
-    "_physics.md",
-    "Excalidraw/physics-canvas.md"
+    "Résistance électrique.md"
   ]
 }
