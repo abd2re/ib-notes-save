@@ -6,9 +6,9 @@ Created: 2022-11-22
 # Rappel d'électrostatique
 
 - 2 corps de charges opposées s::'attirent
-<!--SR:!2022-12-29,23,250-->
+<!--SR:!2023-02-25,58,250-->
 - 2 corps de charge de meme signe s::e repoussent
-<!--SR:!2022-12-27,22,250-->
+<!--SR:!2023-02-20,55,250-->
 
 - L'éléctrisation est:: un transfert d'électrons d'un corps a l'autre
 <!--SR:!2023-01-27,37,230-->
@@ -20,7 +20,7 @@ $$q=-ne$$
 - $q$ = charge en coulomb (C)
 - $e$ = $1.6\cdot 10^{-19}C$ (coulomb) 
 - $n$ = nombre d'$e^{-}$(electrons) gagnés
-<!--SR:!2022-12-28,22,250-->
+<!--SR:!2023-02-21,55,250-->
 
 Un corps chargé positivement perd des electrons
 Formule de la charge électrique pour ce cas:

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3a689a68ffd9accf","x":-344,"y":-26,"width":250,"height":213,"color":"3","type":"text","text":"[[Résistance électrique]]"},
+		{"id":"764e584f23023ce7","x":-27,"y":-92,"width":533,"height":411,"type":"text","text":"![[Drawing 2023-01-02 17.38.29.excalidraw]]"},
+		{"id":"69d026e852d13acf","x":-44,"y":84,"width":250,"height":60,"type":"text","text":"card"}
+	],
+	"edges":[]
+}

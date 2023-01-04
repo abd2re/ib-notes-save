@@ -40,8 +40,9 @@ banner_y: 0.5
 5. [[Elasticité revenue de la demande]] (YED), [[Elasticité prix croisée]] (EPC)
 
 ## Chapitre 6: Elasticités de l'offre
-1. [[Elasticités de l'offre|Définition]] (EPS)
+1. [[Elasticités de l'offre]] (EPS)
 2. [[Déterminants de l'élasticité-prix de l'offre]]
 
 ## Chapitre 6: Role du gouvernement en micro-économie
 1. [[Role du gouvernement en micro-économie]]
+

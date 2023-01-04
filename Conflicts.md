@@ -8,4 +8,4 @@ Created: 2022-10-19
 # Conflicts
 ?
 At the heart of any story is a conflict, and there are several types of conflicts: **individual vs society, individual vs individual, individual vs circumstances and individual vs himself.**
-<!--SR:!2023-01-03,47,250-->
+<!--SR:!2023-05-06,123,250-->

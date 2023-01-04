@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "904af191e0c21fb5",
+        "id": "35626b0be2d31e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "221b1d360e2daf04",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7ea7447b09b9097",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/physics-canvas.md"
-              }
-            }
-          },
-          {
-            "id": "dc3313ea13204bff",
+            "id": "8cb0557b21576f45",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,8 +17,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piles électriques.md",
+                "file": "Résistance électrique.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "447c141f4351b0a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -88,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kirch",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "19cf5f7b89095f27",
@@ -147,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/physics-canvas.md",
+                "file": "Introduction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/physics-canvas.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/physics-canvas.md"
+                "file": "Introduction.md"
               }
             }
           },
@@ -257,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/physics-canvas.md",
+                "file": "Introduction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -315,17 +305,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7ea7447b09b9097",
+  "active": "447c141f4351b0a0",
   "lastOpenFiles": [
-    "Excalidraw/physics-canvas.md",
-    "Piles électriques.md",
-    "_physics.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Résistance électrique.md",
-    "Recherche Arborescente de Monte-Carlo (MCTS).md",
     "_EE.md",
-    "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md",
-    "Elasticité prix croisée.md",
-    "_economy.md"
+    "Recherche Arborescente de Monte-Carlo (MCTS).md",
+    "_computer science.md",
+    "Changements dans un environment.md",
+    "Représentations appropriées pour illustrer les exigences du système.md",
+    "_economy.md",
+    "Role du gouvernement en micro-économie.md",
+    "Résistance électrique.md",
+    "_physics.md",
+    "Excalidraw/physics-canvas.md"
   ]
 }

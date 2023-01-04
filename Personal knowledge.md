@@ -9,7 +9,7 @@ Personal knowledge is the knowledge we personally have. Almost all of our person
 <!--SR:!2023-01-16,36,230-->
 
 experiential=::based on experience
-<!--SR:!2023-01-02,26,230-->
+<!--SR:!2023-03-05,62,230-->
 innate=::you are born with
 <!--SR:!2023-01-21,39,230-->
 a priori=::purely bu reason
@@ -22,7 +22,7 @@ truth=::In accord with fact or reality, or faithfulness to a standard
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
 <!--SR:!2023-01-12,32,230-->
 polymath=::a person of wide knowledge or learning.
-<!--SR:!2022-12-30,23,240-->
+<!--SR:!2023-02-23,55,240-->
 values=::principles or standards of behavior; one's judgement of what is important in life.
 <!--SR:!2023-02-08,46,240-->
 knowledge claim::A knowledge claim is a statement that the knower believes to be true yet is up to debate as to assess the veracity of the statement.
