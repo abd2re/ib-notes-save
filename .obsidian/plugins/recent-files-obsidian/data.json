@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Puissance 4",
-      "path": "Puissance 4.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "Introduction.md"
-    },
-    {
-      "basename": "Recherche Arborescente de Monte-Carlo (MCTS)",
-      "path": "Recherche Arborescente de Monte-Carlo (MCTS).md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -147,14 +131,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "Élagage alpha-bêta",
-      "path": "Élagage alpha-bêta.md"
-    },
-    {
-      "basename": "Recherche Minimax",
-      "path": "Recherche Minimax.md"
     },
     {
       "basename": "Fonction d'évaluation",
