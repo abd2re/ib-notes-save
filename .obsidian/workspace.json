@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35626b0be2d31e6f",
+        "id": "4df504e536aa008d",
         "type": "tabs",
         "children": [
           {
-            "id": "8cb0557b21576f45",
+            "id": "6c4efcb84f0c6dc2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,27 +17,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "CPU.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "447c141f4351b0a0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vie privée.md",
+                "file": "CPU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vie privée.md",
+                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vie privée.md"
+                "file": "CPU.md"
               }
             }
           },
@@ -225,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "6299f388c1ecfa05",
@@ -242,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vie privée.md",
+                "file": "CPU.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,7 +260,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.09823328704397878,
+                  "scale": 0.13634276525765504,
                   "close": true
                 }
               }
@@ -300,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6da477b1379056a",
+  "active": "6c4efcb84f0c6dc2",
   "lastOpenFiles": [
-    "Recherche Arborescente de Monte-Carlo (MCTS).md",
-    "_EE.md",
-    "Introduction.md",
-    "Élagage alpha-bêta.md",
-    "Puissance 4.md",
+    "Unité de contrôle.md",
+    "CPU.md",
+    "Unité arithmétique et logique.md",
+    "Registre d'adresses mémoire.md",
     "_computer science.md",
-    "Changements dans un environment.md",
-    "Représentations appropriées pour illustrer les exigences du système.md",
+    "Modèle de traitement des ordinateurs.md",
+    "Conséquences possibles de l'imposition d'un prix maximum.md",
     "_economy.md",
-    "Role du gouvernement en micro-économie.md"
+    "Surplus social ou communautaire.md",
+    "Efficacité.md"
   ]
 }

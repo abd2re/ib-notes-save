@@ -1,24 +1,136 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU",
+      "path": "CPU.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Registre d'adresses mémoire",
+      "path": "Registre d'adresses mémoire.md"
+    },
+    {
+      "basename": "Unité arithmétique et logique",
+      "path": "Unité arithmétique et logique.md"
+    },
+    {
+      "basename": "Unité de contrôle",
+      "path": "Unité de contrôle.md"
+    },
+    {
+      "basename": "Modèle de traitement des ordinateurs",
+      "path": "Modèle de traitement des ordinateurs.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix maximum",
+      "path": "Conséquences possibles de l'imposition d'un prix maximum.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
+      "basename": "Efficacité",
+      "path": "Efficacité.md"
+    },
+    {
+      "basename": "Efficacité allocative",
+      "path": "Efficacité allocative.md"
+    },
+    {
+      "basename": "Contrôles des prix maximaux",
+      "path": "Contrôles des prix maximaux.md"
+    },
+    {
+      "basename": "Role du gouvernement en micro-économie",
+      "path": "Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Promouvoir l'équité",
+      "path": "Promouvoir l'équité.md"
+    },
+    {
+      "basename": "Corriger les défaillances du marché",
+      "path": "Corriger les défaillances du marché.md"
+    },
+    {
+      "basename": "Influencer le niveau de production",
+      "path": "Influencer le niveau de production.md"
+    },
+    {
+      "basename": "Influencer le niveau de consommation",
+      "path": "Influencer le niveau de consommation.md"
+    },
+    {
+      "basename": "Soutenir les ménages à faibles revenus",
+      "path": "Soutenir les ménages à faibles revenus.md"
+    },
+    {
+      "basename": "Soutenir les entreprises",
+      "path": "Soutenir les entreprises.md"
+    },
+    {
+      "basename": "Obtenir des recettes publiques",
+      "path": "Obtenir des recettes publiques.md"
+    },
+    {
+      "basename": "physics-canvas",
+      "path": "Excalidraw/physics-canvas.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
-      "basename": "physics-canvas",
-      "path": "Excalidraw/physics-canvas.md"
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
+    },
+    {
+      "basename": "Importance de l'itération pendant le processus de conception",
+      "path": "Importance de l'itération pendant le processus de conception.md"
+    },
+    {
+      "basename": "Intensité du courant électrique",
+      "path": "Intensité du courant électrique.md"
+    },
+    {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
+    },
+    {
+      "basename": "Mises à jour automatiques",
+      "path": "Mises à jour automatiques.md"
+    },
+    {
+      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
+      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+    },
+    {
+      "basename": "Malala",
+      "path": "Malala.md"
     },
     {
       "basename": "Drawing 2023-01-04 17.14.47.excalidraw",
@@ -35,10 +147,6 @@
     {
       "basename": "Elasticité prix croisée",
       "path": "Elasticité prix croisée.md"
-    },
-    {
-      "basename": "Role du gouvernement en micro-économie",
-      "path": "Role du gouvernement en micro-économie.md"
     },
     {
       "basename": "Elasticités de l'offre",
@@ -91,90 +199,6 @@
     {
       "basename": "TOK Exhibition",
       "path": "TOK Exhibition.md"
-    },
-    {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
-    },
-    {
-      "basename": "Vitesses",
-      "path": "Vitesses.md"
-    },
-    {
-      "basename": "Importance de l'itération pendant le processus de conception",
-      "path": "Importance de l'itération pendant le processus de conception.md"
-    },
-    {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
-    },
-    {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Fonction d'évaluation",
-      "path": "Fonction d'évaluation.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
-    },
-    {
-      "basename": "Conception d'un système",
-      "path": "Conception d'un système.md"
-    },
-    {
-      "basename": "Ressource humaine",
-      "path": "Ressource humaine.md"
-    },
-    {
-      "basename": "Choc d'offre",
-      "path": "Choc d'offre.md"
-    },
-    {
-      "basename": "Serie arithmetique",
-      "path": "Serie arithmetique.md"
-    },
-    {
-      "basename": "Drawing 2022-12-24 18.07.04.excalidraw",
-      "path": "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md"
-    },
-    {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
     }
   ],
   "omittedPaths": [],

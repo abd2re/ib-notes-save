@@ -45,4 +45,5 @@ banner_y: 0.5
 
 ## Chapitre 6: Role du gouvernement en micro-économie
 1. [[Role du gouvernement en micro-économie]]
+2. [[Contrôles des prix maximaux]], [[Conséquences possibles de l'imposition d'un prix maximum]]
 

@@ -20,7 +20,7 @@ $$U=e-rI$$- $U$ = tension dans la puissance électrique
 - $r$ = résistance interne 
 - $I$ = intensité
 - ![[Piles électriques-2.png]]
-<!--SR:!2023-01-05,6,226-->
+<!--SR:!2023-01-21,16,226-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
 <!--SR:!2023-01-11,14,246-->
@@ -36,7 +36,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2023-01-10,14,246-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
-<!--SR:!2023-01-05,10,246-->
+<!--SR:!2023-01-30,25,246-->
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
