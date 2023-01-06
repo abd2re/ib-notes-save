@@ -5,16 +5,16 @@
       "path": "CPU.md"
     },
     {
+      "basename": "Unité arithmétique et logique",
+      "path": "Unité arithmétique et logique.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
       "basename": "Registre d'adresses mémoire",
       "path": "Registre d'adresses mémoire.md"
-    },
-    {
-      "basename": "Unité arithmétique et logique",
-      "path": "Unité arithmétique et logique.md"
     },
     {
       "basename": "Unité de contrôle",
