@@ -27,4 +27,12 @@ banner_y: 0.5
 3. [[Résistance électrique]]
 4. [[Piles électriques]]
 
-[[Vitesses]]
+
+
+
+
+
+
+
+---
+[[TP_physique1]]

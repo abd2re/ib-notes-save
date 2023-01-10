@@ -16,7 +16,7 @@ a priori=::purely bu reason
 <!--SR:!2023-01-20,39,230-->
 
 theorem=:: A principal or statement that can be demonstrated or proved using logic, but is not self evident. 
-<!--SR:!2023-01-07,29,230-->
+<!--SR:!2023-03-14,66,230-->
 truth=::In accord with fact or reality, or faithfulness to a standard
 <!--SR:!2023-01-22,40,230-->
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement

@@ -6,4 +6,4 @@ Created: 2022-11-18
 # Faisabilité
 ?
 Le système existant est évalué. Les déficiences sont identifiées. Pour ce faire, on peut interroger les utilisateurs du système et consulter le personnel de soutien.
-<!--SR:!2023-01-07,29,230-->
+<!--SR:!2023-03-16,68,230-->

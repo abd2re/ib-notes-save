@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4df504e536aa008d",
+        "id": "3aebb729f758a9a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4efcb84f0c6dc2",
+            "id": "74976536e03cda4b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/association de piles en parallele.md"
+              }
+            }
+          },
+          {
+            "id": "c7e59ee0b33d8299",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,14 +31,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "Piles électriques.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
+                "file": "Piles électriques.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
+                "file": "Piles électriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU.md"
+                "file": "Piles électriques.md"
               }
             }
           },
@@ -229,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CPU.md",
+                "file": "Piles électriques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,17 +302,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c4efcb84f0c6dc2",
+  "active": "c7e59ee0b33d8299",
   "lastOpenFiles": [
-    "Unité arithmétique et logique.md",
-    "CPU.md",
-    "Unité de contrôle.md",
-    "Registre d'adresses mémoire.md",
+    "_physics.md",
+    "Excalidraw/association de piles en parallele.md",
+    "Excalidraw/association de piles en serie.md",
+    "Piles électriques.md",
+    "Résistance électrique.md",
     "_computer science.md",
-    "Modèle de traitement des ordinateurs.md",
-    "Conséquences possibles de l'imposition d'un prix maximum.md",
-    "_economy.md",
-    "Surplus social ou communautaire.md",
-    "Efficacité.md"
+    "TP_physique1.md",
+    "Energie interne.md",
+    "Tension ou différence de potentiel électrique.md",
+    "Champ électrique.md"
   ]
 }

@@ -25,7 +25,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 <!--SR:!2023-02-07,34,230-->
 
 - Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
-<!--SR:!2023-01-07,5,170-->
+<!--SR:!2023-01-14,7,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
 <!--SR:!2023-01-12,20,250-->
 
@@ -66,7 +66,7 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2023-01-08,12,240-->
+<!--SR:!2023-02-06,29,240-->
 
 
 
