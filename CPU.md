@@ -7,15 +7,15 @@ Created: 2023-01-06
 ?
 L'unité centrale de traitement (CPU) est un composant matériel d'un système informatique et peut effectuer des opérations arithmétiques, logiques ou d'entrée/sortie de base, afin de transformer les données provenant des dispositifs d'entrée en informations utiles.
 Le CPU peut également être appelé processeur ou puce.
-<!--SR:!2023-01-10,2,210-->
+<!--SR:!2023-01-14,4,210-->
 
 *C'est quoi le role du CPU ?*
 ?
 L'unité centrale fonctionne dans la phase de traitement du modèle entrée, traitement, sortie et stockage.
 Son rôle est de récupérer, de décoder et d'exécuter des instructions de programme depuis et vers la mémoire principale (RAM).
-<!--SR:!2023-01-10,2,210-->
+<!--SR:!2023-01-14,4,210-->
 
-## Elements du CPU et représentation
+## Elements du CPU et représentation (avec RAM/IO)
 ?
 1. l'[[Unité de contrôle]] / Control Unit (UC)
 2. l'[[Unité arithmétique et logique]] / Arithmetic Logic Unit (ALU)

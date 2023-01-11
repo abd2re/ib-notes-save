@@ -1,24 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
+      "basename": "exercices info 3",
+      "path": "exercices info 3.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "backup",
+      "path": "backup.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Mémoire Secondaire",
+      "path": "Mémoire Secondaire.md"
+    },
+    {
+      "basename": "Mémoire Primaire",
+      "path": "Mémoire Primaire.md"
+    },
+    {
+      "basename": "Cycle Fetch-Execute",
+      "path": "Cycle Fetch-Execute.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "CPU.md"
+    },
+    {
+      "basename": "Cache",
+      "path": "Cache.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "RAM.md"
     },
     {
       "basename": "association de piles en parallele",
       "path": "Excalidraw/association de piles en parallele.md"
     },
     {
-      "basename": "association de piles en serie",
-      "path": "Excalidraw/association de piles en serie.md"
+      "basename": "Untitled 4",
+      "path": "Untitled 4.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "ROM",
+      "path": "ROM.md"
+    },
+    {
+      "basename": "History",
+      "path": "History.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
+      "basename": "Contrôles des prix plafonds",
+      "path": "Contrôles des prix plafonds.md"
+    },
+    {
+      "basename": "Solutions aux conséquences du contrôle des prix maximums",
+      "path": "Solutions aux conséquences du contrôle des prix maximums.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix maximum",
+      "path": "Conséquences possibles de l'imposition d'un prix maximum.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Peace act structure",
+      "path": "Peace act structure.md"
+    },
+    {
+      "basename": "Short stories or novels",
+      "path": "Short stories or novels.md"
+    },
+    {
+      "basename": "Key features of stories",
+      "path": "Key features of stories.md"
+    },
+    {
+      "basename": "Time and space",
+      "path": "Time and space.md"
+    },
+    {
+      "basename": "association de piles en serie",
+      "path": "Excalidraw/association de piles en serie.md"
     },
     {
       "basename": "Résistance électrique",
@@ -47,10 +143,6 @@
     {
       "basename": "physics-canvas",
       "path": "Excalidraw/physics-canvas.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Déterminants de l'élasticité-prix de l'offre",
@@ -107,98 +199,6 @@
     {
       "basename": "Température",
       "path": "Température.md"
-    },
-    {
-      "basename": "Corriger les défaillances du marché",
-      "path": "Corriger les défaillances du marché.md"
-    },
-    {
-      "basename": "Influencer le niveau de consommation",
-      "path": "Influencer le niveau de consommation.md"
-    },
-    {
-      "basename": "Promouvoir l'équité",
-      "path": "Promouvoir l'équité.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "CPU.md"
-    },
-    {
-      "basename": "Registre d'adresses mémoire",
-      "path": "Registre d'adresses mémoire.md"
-    },
-    {
-      "basename": "Unité arithmétique et logique",
-      "path": "Unité arithmétique et logique.md"
-    },
-    {
-      "basename": "Unité de contrôle",
-      "path": "Unité de contrôle.md"
-    },
-    {
-      "basename": "Modèle de traitement des ordinateurs",
-      "path": "Modèle de traitement des ordinateurs.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix maximum",
-      "path": "Conséquences possibles de l'imposition d'un prix maximum.md"
-    },
-    {
-      "basename": "Surplus social ou communautaire",
-      "path": "Surplus social ou communautaire.md"
-    },
-    {
-      "basename": "Efficacité",
-      "path": "Efficacité.md"
-    },
-    {
-      "basename": "Efficacité allocative",
-      "path": "Efficacité allocative.md"
-    },
-    {
-      "basename": "Contrôles des prix maximaux",
-      "path": "Contrôles des prix maximaux.md"
-    },
-    {
-      "basename": "Influencer le niveau de production",
-      "path": "Influencer le niveau de production.md"
-    },
-    {
-      "basename": "Soutenir les ménages à faibles revenus",
-      "path": "Soutenir les ménages à faibles revenus.md"
-    },
-    {
-      "basename": "Soutenir les entreprises",
-      "path": "Soutenir les entreprises.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "Importance de l'itération pendant le processus de conception",
-      "path": "Importance de l'itération pendant le processus de conception.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "Loi des gaz parfait",
-      "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Mises à jour automatiques",
-      "path": "Mises à jour automatiques.md"
-    },
-    {
-      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
-      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
-    },
-    {
-      "basename": "Malala",
-      "path": "Malala.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,4 @@
-	---
+---
 tags: [MOC] 
 alias: CS
 banner: "![[99a6254a7ef97d4115f6490c30faf141.jpg]]"
@@ -7,6 +7,7 @@ banner_y: 0.5
 [[exercices info 1]]
 [[questions infos 1]]
 [[exercices info 2]]
+[[exercices info 3]]
 ### 0 [[Computer Science IA]]
 
 # Theme 1: Notion fondamental sur les systèmes
@@ -40,3 +41,5 @@ banner_y: 0.5
 ## Chapitre 1: Le CPU et ses éléments
 1. Le [[Modèle de traitement des ordinateurs]]
 2. Le [[CPU]]
+3. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
+4. Le [[Cycle Fetch-Execute]]

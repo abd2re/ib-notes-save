@@ -8,4 +8,4 @@ Created: 2022-11-18
 Une fois que le nouveau système est opérationnel depuis un certain temps, il doit être évalué de manière exhaustive.
 La maintenance doit être faite rigoureusement à tout moment. Les
 utilisateurs du système doivent être tenus au courant des dernières modifications et procédures.
-<!--SR:!2023-01-11,31,230-->
+<!--SR:!2023-03-23,71,230-->

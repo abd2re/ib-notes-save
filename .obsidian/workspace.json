@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74976536e03cda4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/association de piles en parallele.md"
-              }
-            }
-          },
-          {
             "id": "c7e59ee0b33d8299",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -31,15 +17,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piles électriques.md",
-                "mode": "preview",
+                "file": "exercices info 3.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piles électriques.md",
+                "file": "exercices info 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piles électriques.md",
+                "file": "exercices info 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piles électriques.md"
+                "file": "exercices info 3.md"
               }
             }
           },
@@ -244,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piles électriques.md",
+                "file": "exercices info 3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -304,15 +289,15 @@
   },
   "active": "c7e59ee0b33d8299",
   "lastOpenFiles": [
-    "_physics.md",
-    "Excalidraw/association de piles en parallele.md",
-    "Excalidraw/association de piles en serie.md",
-    "Piles électriques.md",
-    "Résistance électrique.md",
+    "backup.md",
+    "exercices info 3.md",
     "_computer science.md",
-    "TP_physique1.md",
-    "Energie interne.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Champ électrique.md"
+    "Déploiement des logiciels.md",
+    "Mémoire Secondaire.md",
+    "Mémoire Primaire.md",
+    "Computer Science IA.md",
+    "Cycle Fetch-Execute.md",
+    "CPU.md",
+    "Cache.md"
   ]
 }
