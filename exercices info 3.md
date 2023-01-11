@@ -11,7 +11,7 @@
 5. Citez quelques différences entre la mémoire primaire et la mémoire secondaire.
 	1. La mémoire primaire peut être accessible par le CPU alors que la mémoire secondaire ne l'est pas
 	2. La mémoire primaire (sauf la ROM) est volatile alors que la mémoire secondaire est non-volatile
-	3. La mémoire primaire se trouve dans la carte mere alors que la mémoire secondaire peut etre amovible
+	3. La mémoire primaire se trouve dans la carte mere alors que la mémoire secondaire peut être amovible
 
 
 
