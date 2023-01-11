@@ -1,3 +1,7 @@
+**Exercices Informatiques**
+Peres Tchuisseu et Abdoul Wahab Touré
+
+
 1. Décrivez la fonction du bus de données présent dans un PC. 
 	- Le bus de données reçoit les données de la mémoire primaire a l'unité de contrôle et envoi des données provenant de l'unité contrôle a la mémoire primaire.
 2. Décrivez la fonction de l'ALU (unité arithmétique et logique)
