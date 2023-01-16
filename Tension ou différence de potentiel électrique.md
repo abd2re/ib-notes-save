@@ -14,7 +14,7 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 
 ## Les lois de la tension
 - **Unicité de la tension**:: pour les dipoles en parallèles![[image-20230109153357237.png]]$$V_{AB}=U_R=U_L$$la tension aux borne des dipoles branchés en parallèle est la meme
-<!--SR:!2023-01-12,24,250-->
+<!--SR:!2023-03-17,64,250-->
 
 - **Additivité de la tension ou loi de Kirchoff pour la tension**:: pour les dipoles qui se suivent/en série ![[Tension ou différence de potentiel électrique.png]] $$V_{AD}=V_{A}-V_{D}=V_{AB}+V_{BC}+V_{CD}$$![[loi de kirchoff pour la tension]]$$V_{AB}+V_{BC}+V_{CD}+V_{DA}=0$$$$\Sigma V=0$$
 <!--SR:!2023-01-16,19,216-->

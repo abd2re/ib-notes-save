@@ -7,7 +7,7 @@ Created: 2022-10-12
 To what extent are you still the same person that you were before you begin the TOK class ?
 
 Bias:: prejudice, favoritism, unfairness, partiality
-<!--SR:!2023-01-13,33,230-->
+<!--SR:!2023-03-29,75,230-->
 
 Identity:: how a person, group, or nation sees themselves in relation to other people, groups, nations, ideas, and the world
 <!--SR:!2023-01-17,36,230-->

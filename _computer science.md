@@ -39,7 +39,7 @@ banner_y: 0.5
 ---
 # Theme 2: Architecture des ordinateurs
 ## Chapitre 1: Le CPU et ses éléments
-1. Le [[Modèle de traitement des ordinateurs]]
-2. Le [[CPU]]
-3. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
-4. Le [[Cycle Fetch-Execute]]
+1. Le [[Modèle de traitement des ordinateurs]], le [[CPU]]
+2. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
+3. Le [[Cycle Fetch-Execute]]
+4. Le [[Stockage persistant]]

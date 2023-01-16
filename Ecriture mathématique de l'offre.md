@@ -13,4 +13,4 @@ $Q_o$ = Quantité offerte
 $P$ = Prix
 $a$ = [[Pente]] (exprime [[Loi de l'offre]]) (positif)
 $b$ = Constante
-<!--SR:!2023-01-15,72,270-->
+<!--SR:!2023-02-22,38,250-->

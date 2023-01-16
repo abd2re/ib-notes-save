@@ -25,9 +25,9 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 <!--SR:!2023-02-07,34,230-->
 
 - Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
-<!--SR:!2023-01-14,7,170-->
+<!--SR:!2023-01-25,11,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
-<!--SR:!2023-01-12,20,250-->
+<!--SR:!2023-03-03,50,250-->
 
 ## Association de résistors
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
@@ -39,7 +39,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 ?
 Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de chaleur: c'est l'effet joule. 
 Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de ventilation. L'effet joule est utilisé avantageusement dans les plaques chauffantes, les fusibles, les chauffe-eau.
-<!--SR:!2023-01-14,18,222-->
+<!--SR:!2023-02-23,40,222-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
 <!--SR:!2023-01-17,17,222-->
@@ -67,6 +67,25 @@ $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
 <!--SR:!2023-02-06,29,240-->
+
+## Montage potentiométrique
+Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux borne fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png]]
+
+### Rhéostat
+Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png]]
+**Montage potentiométrique** branchement, formules pour 3 cas:
+?
+![[image-20230116164137567.png]]$$U_{AC}=\frac{R_{AC}}{R_{AC}+R_{CB}}U_{AB}=\frac{R_{AC}}{R_{AB}} \hspace2mm U_{AB}$$
+- si C est en A $$R_{AC}=R_{AA}=0,\;U_{ac}=0$$
+- si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
+- si C est entre A et B $$0<U_{S}<U_{AB}$$
+
+
+
+
+
+
+
 
 
 

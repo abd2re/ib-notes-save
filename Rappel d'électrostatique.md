@@ -28,14 +28,14 @@ Formule de la charge électrique pour ce cas:
 $$q=ne$$
 - $q$ = charge en coulomb (C)
 - $e$ =:: $1.6\cdot 10^{-19}C$ (coulomb) 
-<!--SR:!2023-01-13,20,190-->
+<!--SR:!2023-02-19,37,190-->
 - $n$ = nombre d'$e^{-}$(electrons) perdus
 
 ## Conducteur et isolant électrique
 - Un conducteur:: laisse passer le courant électrique
 <!--SR:!2023-01-16,30,230-->
 - Un isolant:: ne laisse pas passer le courant électrique
-<!--SR:!2023-01-14,28,230-->
+<!--SR:!2023-03-21,66,230-->
 Le courant électrique est:: un déplacement de charges.
 <!--SR:!2023-02-02,41,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.

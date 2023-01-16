@@ -6,7 +6,7 @@ Created: 2022-12-06
 # Elasticité prix croisée
 ?
 L'elasticé prix croisée du bien $j$ par rapport au bien $i$ est la réactivité du bien $j$ aux variations du prix du bien $i$.
-<!--SR:!2023-01-14,24,250-->
+<!--SR:!2023-03-15,60,250-->
 
 Formule de l'elasticté prix croisée:
 ?

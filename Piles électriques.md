@@ -11,7 +11,7 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2023-01-21,15,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
-<!--SR:!2023-01-12,15,246-->
+<!--SR:!2023-02-18,37,246-->
 
 Formule de la tension aux bornes d'une pile est:
 ?
@@ -31,7 +31,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 - $U=e$ si:: $I=0$
 <!--SR:!2023-02-08,32,246-->
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
-<!--SR:!2023-01-13,16,246-->
+<!--SR:!2023-02-20,38,246-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
 <!--SR:!2023-02-12,33,246-->
 
@@ -61,7 +61,7 @@ Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement)
 ?
 ![[image-20230109163848957.png]]
 $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
-<!--SR:!2023-01-15,4,240-->
+<!--SR:!2023-01-27,12,240-->
 
 ## Circuit avec des nœuds comportant des générateurs
 
@@ -78,7 +78,7 @@ Pour avoir plus de tension.
 $$V_{PN}=e_{1}-r_{1}I+e_{2}-r_{2}I+e_{3}-r_{3}I$$
 $$V_{PN}=e_{1}+e_{2}+e_{3}-(r_{1}+r_{2}+r_{3})I$$
 $$e_s=\sum{e}$$$$r_s=\sum\limits{r}$$
-<!--SR:!2023-01-12,2,240-->
+<!--SR:!2023-01-18,6,240-->
 
 **En parallèle** (Avantage, branchement et formule)
 ?
@@ -86,8 +86,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2023-01-12,2,240-->
-
+<!--SR:!2023-01-18,6,240-->
 
 
 

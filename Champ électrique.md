@@ -15,7 +15,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 - $F$ = Force en Newton 
 - $|q|$ = Charge électrique en Coulomb
 ---
-<!--SR:!2023-01-15,25,210-->
+<!--SR:!2023-03-10,54,210-->
 
 - L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 <!--SR:!2023-01-19,16,150-->

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aebb729f758a9a5",
+        "id": "5244713129b14c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e59ee0b33d8299",
+            "id": "837d4eccdd0a62c2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercices info 3.md",
+                "file": "Résistance électrique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercices info 3.md",
+                "file": "Résistance électrique.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercices info 3.md",
+                "file": "Résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercices info 3.md"
+                "file": "Résistance électrique.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercices info 3.md",
+                "file": "Résistance électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7e59ee0b33d8299",
+  "active": "837d4eccdd0a62c2",
   "lastOpenFiles": [
-    "backup.md",
-    "exercices info 3.md",
+    "_physics.md",
+    "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md",
+    "Résistance électrique.md",
+    "Piles électriques.md",
+    "Excalidraw/circuit caractéristique d'une pile.md",
+    "Tension ou différence de potentiel électrique.md",
+    "Champ électrique.md",
+    "Intensité du courant électrique.md",
     "_computer science.md",
-    "Déploiement des logiciels.md",
-    "Mémoire Secondaire.md",
-    "Mémoire Primaire.md",
-    "Computer Science IA.md",
-    "Cycle Fetch-Execute.md",
-    "CPU.md",
-    "Cache.md"
+    "Stockage persistant.md"
   ]
 }

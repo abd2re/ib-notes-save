@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md"
+    },
+    {
+      "basename": "circuit caractéristique d'une pile",
+      "path": "Excalidraw/circuit caractéristique d'une pile.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "Intensité du courant électrique",
+      "path": "Intensité du courant électrique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Stockage persistant",
+      "path": "Stockage persistant.md"
+    },
+    {
+      "basename": "Alliteration",
+      "path": "Alliteration.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Obtenir des recettes publiques",
+      "path": "Obtenir des recettes publiques.md"
+    },
+    {
+      "basename": "Role du gouvernement en micro-économie",
+      "path": "Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Extraction de l'instruction",
+      "path": "Extraction de l'instruction.md"
+    },
+    {
+      "basename": "Cycle Fetch-Execute",
+      "path": "Cycle Fetch-Execute.md"
+    },
+    {
+      "basename": "Stocker le résultat de l'exécution",
+      "path": "Stocker le résultat de l'exécution.md"
+    },
+    {
+      "basename": "Exécution de l'instruction",
+      "path": "Exécution de l'instruction.md"
+    },
+    {
+      "basename": "Décoder l'instruction",
+      "path": "Décoder l'instruction.md"
+    },
+    {
+      "basename": "Mémoire Secondaire",
+      "path": "Mémoire Secondaire.md"
+    },
+    {
+      "basename": "ROM",
+      "path": "ROM.md"
+    },
+    {
       "basename": "exercices info 3",
       "path": "exercices info 3.md"
     },
@@ -9,20 +97,8 @@
       "path": "backup.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Mémoire Secondaire",
-      "path": "Mémoire Secondaire.md"
-    },
-    {
       "basename": "Mémoire Primaire",
       "path": "Mémoire Primaire.md"
-    },
-    {
-      "basename": "Cycle Fetch-Execute",
-      "path": "Cycle Fetch-Execute.md"
     },
     {
       "basename": "CPU",
@@ -45,24 +121,12 @@
       "path": "Untitled 4.md"
     },
     {
-      "basename": "ROM",
-      "path": "ROM.md"
-    },
-    {
       "basename": "History",
       "path": "History.md"
     },
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
       "basename": "12 TOK Concepts",
       "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Elasticité revenue de la demande",
@@ -83,14 +147,6 @@
     {
       "basename": "Conséquences possibles de l'imposition d'un prix maximum",
       "path": "Conséquences possibles de l'imposition d'un prix maximum.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
     },
     {
       "basename": "_english",
@@ -115,22 +171,6 @@
     {
       "basename": "association de piles en serie",
       "path": "Excalidraw/association de piles en serie.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Intensité du courant électrique",
-      "path": "Intensité du courant électrique.md"
     },
     {
       "basename": "TP_physique1",
@@ -159,46 +199,6 @@
     {
       "basename": "Equilibre du marché",
       "path": "Equilibre du marché.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de la demande",
-      "path": "Déterminants hors-prix de la demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Role du gouvernement en micro-économie",
-      "path": "Role du gouvernement en micro-économie.md"
-    },
-    {
-      "basename": "Obtenir des recettes publiques",
-      "path": "Obtenir des recettes publiques.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
-    },
-    {
-      "basename": "Changements d'états",
-      "path": "Changements d'états.md"
-    },
-    {
-      "basename": "Chaleur latente",
-      "path": "Chaleur latente.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "Chaleur",
-      "path": "Chaleur.md"
-    },
-    {
-      "basename": "Température",
-      "path": "Température.md"
     }
   ],
   "omittedPaths": [],
