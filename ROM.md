@@ -12,4 +12,4 @@ Created: 2023-01-11
 <!--SR:!2023-01-19,4,230-->
 
 ROM est une abbreviation pour:: Read Only Memory
-<!--SR:!2023-01-16,4,270-->
+<!--SR:!2023-01-28,12,270-->

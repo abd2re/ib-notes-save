@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Résistance électrique",
       "path": "Résistance électrique.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Elasticités de l'offre",
+      "path": "Elasticités de l'offre.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
@@ -55,10 +63,6 @@
     {
       "basename": "Role du gouvernement en micro-économie",
       "path": "Role du gouvernement en micro-économie.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Extraction de l'instruction",
@@ -195,10 +199,6 @@
     {
       "basename": "Déterminants hors-prix de l'offre",
       "path": "Déterminants hors-prix de l'offre.md"
-    },
-    {
-      "basename": "Equilibre du marché",
-      "path": "Equilibre du marché.md"
     }
   ],
   "omittedPaths": [],

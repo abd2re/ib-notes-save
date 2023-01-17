@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5244713129b14c4a",
+        "id": "a292bd0ec71a7cac",
         "type": "tabs",
         "children": [
           {
-            "id": "837d4eccdd0a62c2",
+            "id": "4ba1da3c92809785",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résistance électrique.md",
-                "mode": "preview",
+                "file": "_physics.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EPS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Résistance électrique.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "837d4eccdd0a62c2",
+  "active": "4ba1da3c92809785",
   "lastOpenFiles": [
+    "Résistance électrique.md",
+    "Elasticités de l'offre.md",
+    "_economy.md",
+    "Loi de Coulomb.md",
+    "_computer science.md",
     "_physics.md",
     "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md",
-    "Résistance électrique.md",
     "Piles électriques.md",
     "Excalidraw/circuit caractéristique d'une pile.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Champ électrique.md",
-    "Intensité du courant électrique.md",
-    "_computer science.md",
-    "Stockage persistant.md"
+    "Tension ou différence de potentiel électrique.md"
   ]
 }

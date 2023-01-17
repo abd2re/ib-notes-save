@@ -6,7 +6,7 @@ Created: 2022-12-09
 # Elasticités prix de l'offre
 ?
 L'élasticité prix offre (PES) est une mesure de la variation de la quantité fournie d'un bien lorsqu'il y a un changement de son propre prix. L'EPS peut être calculée lorsqu'il y a un mouvement le long de la courbe d'offre.
-<!--SR:!2023-01-16,23,250-->
+<!--SR:!2023-03-14,57,250-->
 
 Formule de l'élasticité prix de l'offre:
 ?
