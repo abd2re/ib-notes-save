@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Mole.md"
     },
     {
       "basename": "Résistance électrique",
@@ -187,18 +199,6 @@
     {
       "basename": "physics-canvas",
       "path": "Excalidraw/physics-canvas.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de l'offre",
-      "path": "Déterminants de l'élasticité-prix de l'offre.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de la demande",
-      "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Déterminants hors-prix de l'offre",
-      "path": "Déterminants hors-prix de l'offre.md"
     }
   ],
   "omittedPaths": [],

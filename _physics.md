@@ -27,7 +27,9 @@ banner_y: 0.5
 3. [[Résistance électrique]]
 4. [[Piles électriques]]
 
-
+# Theme 6: Mouvement circulaire uniforme et Gravitation
+## 1. Gravitation (universelle)
+1. [[Loi de gravitation de Newton]], [[Champ de gravitation]]
 
 
 

@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Champ de gravitation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Champ de gravitation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Champ de gravitation.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Champ de gravitation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,15 +289,15 @@
   },
   "active": "4ba1da3c92809785",
   "lastOpenFiles": [
+    "_physics.md",
+    "Loi de gravitation de Newton.md",
+    "Mole.md",
+    "Champ électrique.md",
+    "Intensité du courant électrique.md",
     "Résistance électrique.md",
     "Elasticités de l'offre.md",
     "_economy.md",
     "Loi de Coulomb.md",
-    "_computer science.md",
-    "_physics.md",
-    "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md",
-    "Piles électriques.md",
-    "Excalidraw/circuit caractéristique d'une pile.md",
-    "Tension ou différence de potentiel électrique.md"
+    "_computer science.md"
   ]
 }
