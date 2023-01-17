@@ -3,7 +3,7 @@ tags: [economy]
 ---
 Created: 2023-01-10
 
-# Solutions aux conséquences du contrôle des prix maximums
+# Solutions aux conséquences du contrôle des prix plafonds
 Le gouvernement peut le faire de trois façons. Il peut:
 ?
 - accorder des subventions aux producteurs pour les encourager à augmenter l'offre en produisant davantage de ce bien.  

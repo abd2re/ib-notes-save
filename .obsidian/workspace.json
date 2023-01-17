@@ -17,7 +17,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ de gravitation.md",
+                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0734b5feb1c93fd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_economy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EPS",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ de gravitation.md",
+                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ de gravitation.md",
+                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ de gravitation.md"
+                "file": "Solutions aux conséquences du contrôle des prix planchers.md"
               }
             }
           },
@@ -229,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ de gravitation.md",
+                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,15 +306,15 @@
   },
   "active": "4ba1da3c92809785",
   "lastOpenFiles": [
-    "_physics.md",
-    "Loi de gravitation de Newton.md",
-    "Mole.md",
-    "Champ électrique.md",
-    "Intensité du courant électrique.md",
-    "Résistance électrique.md",
-    "Elasticités de l'offre.md",
     "_economy.md",
-    "Loi de Coulomb.md",
-    "_computer science.md"
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Conséquences possibles de l'imposition d'un prix plafond.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "Contrôles des prix plafonds.md",
+    "Contrôles des prix planchers.md",
+    "_english.md",
+    "Analyzing poems.md",
+    "Analyzing speeches.md",
+    "Déterminants de l'élasticité-prix de l'offre.md"
   ]
 }

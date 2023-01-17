@@ -3,7 +3,7 @@ tags: [economy]
 ---
 Created: 2023-01-06
 
-# Conséquences possibles de l'imposition d'un prix maximum
+# Conséquences possibles de l'imposition d'un prix plafond
 
 Un prix plafond peut avoir plusieurs conséquences. Examinons certains de ses résultats et effets possibles: 
 ?

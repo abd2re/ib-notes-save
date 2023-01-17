@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
+      "basename": "Solutions aux conséquences du contrôle des prix planchers",
+      "path": "Solutions aux conséquences du contrôle des prix planchers.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
+      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix plafond",
+      "path": "Conséquences possibles de l'imposition d'un prix plafond.md"
+    },
+    {
+      "basename": "Solutions aux conséquences du contrôle des prix plafonds",
+      "path": "Solutions aux conséquences du contrôle des prix plafonds.md"
+    },
+    {
+      "basename": "Contrôles des prix plafonds",
+      "path": "Contrôles des prix plafonds.md"
+    },
+    {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Analyzing poems",
+      "path": "Analyzing poems.md"
+    },
+    {
+      "basename": "Analyzing speeches",
+      "path": "Analyzing speeches.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
     },
     {
       "basename": "Mole",
@@ -23,10 +71,6 @@
     {
       "basename": "Elasticités de l'offre",
       "path": "Elasticités de l'offre.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
@@ -51,10 +95,6 @@
     {
       "basename": "Intensité du courant électrique",
       "path": "Intensité du courant électrique.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Stockage persistant",
@@ -145,30 +185,6 @@
       "path": "12 TOK Concepts.md"
     },
     {
-      "basename": "Elasticité revenue de la demande",
-      "path": "Elasticité revenue de la demande.md"
-    },
-    {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
-    },
-    {
-      "basename": "Contrôles des prix plafonds",
-      "path": "Contrôles des prix plafonds.md"
-    },
-    {
-      "basename": "Solutions aux conséquences du contrôle des prix maximums",
-      "path": "Solutions aux conséquences du contrôle des prix maximums.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix maximum",
-      "path": "Conséquences possibles de l'imposition d'un prix maximum.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Peace act structure",
       "path": "Peace act structure.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Time and space",
       "path": "Time and space.md"
-    },
-    {
-      "basename": "association de piles en serie",
-      "path": "Excalidraw/association de piles en serie.md"
-    },
-    {
-      "basename": "TP_physique1",
-      "path": "TP_physique1.md"
-    },
-    {
-      "basename": "loi de kirchoff pour la tension",
-      "path": "Excalidraw/loi de kirchoff pour la tension.md"
-    },
-    {
-      "basename": "physics-canvas",
-      "path": "Excalidraw/physics-canvas.md"
     }
   ],
   "omittedPaths": [],

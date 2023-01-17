@@ -45,7 +45,7 @@ banner_y: 0.5
 
 ## Chapitre 6: Role du gouvernement en micro-économie
 1. [[Role du gouvernement en micro-économie]]
-2. [[Contrôles des prix plafonds]] ou maximum, [[Conséquences possibles de l'imposition d'un prix maximum]], [[Solutions aux conséquences du contrôle des prix maximums]]
-3. [[Contrôles des prix planchers]] ou minimum
+2. [[Contrôles des prix plafonds]] ou maximum, [[Conséquences possibles de l'imposition d'un prix plafond]], [[Solutions aux conséquences du contrôle des prix plafonds]]
+3. [[Contrôles des prix planchers]] ou minimum, [[Conséquences possibles de l'imposition d'un prix plancher]], [[Solutions aux conséquences du contrôle des prix planchers]]
 
 
