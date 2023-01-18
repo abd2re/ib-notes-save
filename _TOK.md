@@ -16,7 +16,7 @@ How do we know ?
 ## Part 3: Areas of Knowledge
 - [[History]]
 - Mathematics
-- Natural Sciences
+- [[Natural Sciences]]
 - Human Sciences
 - Arts
 ## Part 4: Assessments

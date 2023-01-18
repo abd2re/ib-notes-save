@@ -9,12 +9,16 @@ La situation des contrôles des prix minimums (prix planchers) est à l'opposé 
 <!--SR:!2023-01-19,6,230-->
 
 Les objectifs du prix plancher sont:
+?
 - d'augmenter les revenus des producteurs de biens et de services que le gouvernement considère comme importants, tels que les produits agricoles, qui sont soumis à de fortes fluctuations de prix ou à une grande concurrence étrangère.
 - de protéger les travailleurs, en fixant un salaire minimum qui leur assure un revenu suffisant pour avoir un niveau de vie raisonnable.
- 
+<!--SR:!2023-01-20,2,228-->
+
+
 Figure de contrôles des prix minimums:
 ?
 ![[image-20230117132748916.png]]
+<!--SR:!2023-01-19,2,248-->
 
 
 

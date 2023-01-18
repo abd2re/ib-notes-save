@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a292bd0ec71a7cac",
+        "id": "9e6a56d380115f44",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba1da3c92809785",
+            "id": "7e0dc85945b95c40",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,24 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0734b5feb1c93fd8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_economy.md",
+                "file": "Natural Sciences.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
+                "file": "Natural Sciences.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
+                "file": "Natural Sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix planchers.md"
+                "file": "Natural Sciences.md"
               }
             }
           },
@@ -246,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Solutions aux conséquences du contrôle des prix planchers.md",
+                "file": "Natural Sciences.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -304,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba1da3c92809785",
+  "active": "7e0dc85945b95c40",
   "lastOpenFiles": [
-    "_economy.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Conséquences possibles de l'imposition d'un prix plafond.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Contrôles des prix plafonds.md",
-    "Contrôles des prix planchers.md",
-    "_english.md",
-    "Analyzing poems.md",
-    "Analyzing speeches.md",
-    "Déterminants de l'élasticité-prix de l'offre.md"
+    "Untitled 5.md",
+    "Natural Sciences.md",
+    "_TOK.md",
+    "TOK Exhibition.md",
+    "_physics.md",
+    "Champ de gravitation.md",
+    "Loi de gravitation de Newton.md",
+    "Champ électrique.md",
+    "Loi de Coulomb.md",
+    "Intensité du courant électrique.md"
   ]
 }

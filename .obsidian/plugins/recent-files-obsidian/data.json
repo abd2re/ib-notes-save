@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Solutions aux conséquences du contrôle des prix planchers",
-      "path": "Solutions aux conséquences du contrôle des prix planchers.md"
+      "basename": "Natural Sciences",
+      "path": "Natural Sciences.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
+    },
+    {
+      "basename": "Intensité du courant électrique",
+      "path": "Intensité du courant électrique.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "Loi de Coulomb",
+      "path": "Loi de Coulomb.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Stockage persistant",
+      "path": "Stockage persistant.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "physics-canvas",
+      "path": "Excalidraw/physics-canvas.md"
+    },
+    {
+      "basename": "Drawing 2023-01-18 08.08.53.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-18 08.08.53.excalidraw.md"
+    },
+    {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
+      "basename": "Role du gouvernement en micro-économie",
+      "path": "Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Obtenir des recettes publiques",
+      "path": "Obtenir des recettes publiques.md"
     },
     {
       "basename": "Conséquences possibles de l'imposition d'un prix plancher",
@@ -25,10 +97,6 @@
       "path": "Contrôles des prix plafonds.md"
     },
     {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
-    },
-    {
       "basename": "_english",
       "path": "_english.md"
     },
@@ -45,28 +113,8 @@
       "path": "Elasticité revenue de la demande.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
-    },
-    {
       "basename": "Mole",
       "path": "Mole.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
     },
     {
       "basename": "Elasticités de l'offre",
@@ -81,40 +129,12 @@
       "path": "Excalidraw/circuit caractéristique d'une pile.md"
     },
     {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
     },
     {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Intensité du courant électrique",
-      "path": "Intensité du courant électrique.md"
-    },
-    {
-      "basename": "Stockage persistant",
-      "path": "Stockage persistant.md"
-    },
-    {
       "basename": "Alliteration",
       "path": "Alliteration.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Obtenir des recettes publiques",
-      "path": "Obtenir des recettes publiques.md"
-    },
-    {
-      "basename": "Role du gouvernement en micro-économie",
-      "path": "Role du gouvernement en micro-économie.md"
     },
     {
       "basename": "Extraction de l'instruction",
@@ -179,26 +199,6 @@
     {
       "basename": "History",
       "path": "History.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "Peace act structure",
-      "path": "Peace act structure.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
-    },
-    {
-      "basename": "Key features of stories",
-      "path": "Key features of stories.md"
-    },
-    {
-      "basename": "Time and space",
-      "path": "Time and space.md"
     }
   ],
   "omittedPaths": [],

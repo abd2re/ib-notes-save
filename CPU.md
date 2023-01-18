@@ -39,7 +39,7 @@ Le "machine cycle" dans le CPU:
 ?
 La seule fonction de MAR est de contenir l'adresse RAM de
 l'instruction que le CPU doit exécuter. 
-<!--SR:!2023-01-17,8,250-->
+<!--SR:!2023-02-05,19,250-->
 
 Il existe de nombreux registres, mais les trois plus importants sont les suivants:
 ?

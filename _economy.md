@@ -43,9 +43,10 @@ banner_y: 0.5
 1. [[Elasticités de l'offre]] (EPS)
 2. [[Déterminants de l'élasticité-prix de l'offre]]
 
-## Chapitre 6: Role du gouvernement en micro-économie
+## Chapitre 7: Role du gouvernement en micro-économie
 1. [[Role du gouvernement en micro-économie]]
 2. [[Contrôles des prix plafonds]] ou maximum, [[Conséquences possibles de l'imposition d'un prix plafond]], [[Solutions aux conséquences du contrôle des prix plafonds]]
-3. [[Contrôles des prix planchers]] ou minimum, [[Conséquences possibles de l'imposition d'un prix plancher]], [[Solutions aux conséquences du contrôle des prix planchers]]
+3. [[Contrôles des prix planchers]] ou minimum, [[Conséquences possibles de l'imposition d'un prix plancher]]
+4. [[Impôts indirects]]
 
 
