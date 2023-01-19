@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Conception assistée par ordinateur (CAO)",
-      "path": "Conception assistée par ordinateur (CAO).md"
+      "basename": "Natural Sciences",
+      "path": "Natural Sciences.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "Application logicielle",
       "path": "Application logicielle.md"
+    },
+    {
+      "basename": "Composants de l'interface graphique",
+      "path": "Composants de l'interface graphique.md"
+    },
+    {
+      "basename": "Boîtes de dialogue",
+      "path": "Boîtes de dialogue.md"
+    },
+    {
+      "basename": "Menus",
+      "path": "Menus.md"
+    },
+    {
+      "basename": "Systèmes d'exploitation",
+      "path": "Systèmes d'exploitation.md"
+    },
+    {
+      "basename": "Barres d'outils",
+      "path": "Barres d'outils.md"
+    },
+    {
+      "basename": "Logiciels de traitement graphique",
+      "path": "Logiciels de traitement graphique.md"
+    },
+    {
+      "basename": "Conception assistée par ordinateur (CAO)",
+      "path": "Conception assistée par ordinateur (CAO).md"
     },
     {
       "basename": "Navigateurs web",
@@ -27,14 +63,6 @@
     {
       "basename": "Traitements de texte",
       "path": "Traitements de texte.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Systèmes d'exploitation",
-      "path": "Systèmes d'exploitation.md"
     },
     {
       "basename": "Sécurité (2)",
@@ -113,16 +141,8 @@
       "path": "Rappel d'électrostatique.md"
     },
     {
-      "basename": "Natural Sciences",
-      "path": "Natural Sciences.md"
-    },
-    {
       "basename": "Untitled 5",
       "path": "Untitled 5.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     },
     {
       "basename": "Champ de gravitation",
@@ -179,26 +199,6 @@
     {
       "basename": "Analyzing speeches",
       "path": "Analyzing speeches.md"
-    },
-    {
-      "basename": "Elasticité revenue de la demande",
-      "path": "Elasticité revenue de la demande.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Mole.md"
-    },
-    {
-      "basename": "Elasticités de l'offre",
-      "path": "Elasticités de l'offre.md"
-    },
-    {
-      "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md"
-    },
-    {
-      "basename": "circuit caractéristique d'une pile",
-      "path": "Excalidraw/circuit caractéristique d'une pile.md"
     }
   ],
   "omittedPaths": [],

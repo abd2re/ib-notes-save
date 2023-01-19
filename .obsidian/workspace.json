@@ -17,32 +17,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application logicielle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb1bee4ad27df75f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conception assistée par ordinateur (CAO).md",
+                "file": "Natural Sciences.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conception assistée par ordinateur (CAO).md",
+                "file": "Natural Sciences.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conception assistée par ordinateur (CAO).md",
+                "file": "Natural Sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conception assistée par ordinateur (CAO).md"
+                "file": "Natural Sciences.md"
               }
             }
           },
@@ -247,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conception assistée par ordinateur (CAO).md",
+                "file": "Natural Sciences.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,7 +260,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 189,
-                  "scale": 0.3064339040683667,
+                  "scale": 0.06514853049799676,
                   "close": true
                 }
               }
@@ -304,17 +286,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb1bee4ad27df75f",
+  "active": "7e0dc85945b95c40",
   "lastOpenFiles": [
-    "Application logicielle.md",
-    "Clients de messagerie.md",
-    "Navigateurs web.md",
-    "Systèmes de gestion de bases de données (SGBD).md",
-    "Feuilles de calcul.md",
-    "Traitements de texte.md",
+    "_TOK.md",
+    "Perspective.md",
     "_computer science.md",
+    "Application logicielle.md",
+    "Composants de l'interface graphique.md",
+    "Boîtes de dialogue.md",
+    "Menus.md",
     "Systèmes d'exploitation.md",
-    "Sécurité (2).md",
-    "Sécurité.md"
+    "Barres d'outils.md",
+    "Logiciels de traitement graphique.md"
   ]
 }

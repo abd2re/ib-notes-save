@@ -15,7 +15,7 @@ Les objectifs de impôts indirects sont généralement de:
 - corriger les externalités négatives et l'allocation socialement inefficace des ressources.
 
 Les impôts indirects sont aussi appelés :: taxes d'accise.
-<!--SR:!2023-01-19,1,210-->
+<!--SR:!2023-01-21,2,210-->
 
 Il y a deux types d'impots indirects à considérer:
 ?
@@ -33,19 +33,19 @@ Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-ê
 ## Effet sur la société dans son ensemble
 ?
 En supposant que l'équilibre du marché libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'externalités, alors la société dans son ensemble est moins bien lotie. En effet, l'imposition de la taxe fausse le marché, produisant une sous-allocation des ressources à la production de ce bien.
-<!--SR:!2023-01-19,1,224-->
+<!--SR:!2023-01-20,1,204-->
 
 ## Synthèse des effets d'un impôt indirect 
 Le prix pour les consommateurs=>::Augmente
-<!--SR:!2023-01-19,1,224-->
+<!--SR:!2023-01-21,2,224-->
 La quantité d'équilibre=>::Diminue
-<!--SR:!2023-01-19,1,224-->
+<!--SR:!2023-01-20,1,204-->
 Le prix net pour les producteurs=>::Diminue
 <!--SR:!2023-01-20,2,244-->
 Le revenu total des producteurs=>::Diminue
 <!--SR:!2023-01-20,2,244-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
-<!--SR:!2023-01-19,1,224-->
+<!--SR:!2023-01-21,2,224-->
 Recettes du gouvernement=>::Augmente
 <!--SR:!2023-01-20,2,244-->
 Excédent communautaire=>::Diminue

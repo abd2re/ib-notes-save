@@ -8,7 +8,8 @@ Created: 2023-01-19
 ## Hierarchies des logiciels
 Représentation::![[image-20230119184616503.png]]
 
-Les logiciels d'applications courants:
+## Les logiciels d'applications courants:
+Les différents types sont 7:
 ?
 - [[Traitements de texte]]
 - [[Feuilles de calcul]]
@@ -16,4 +17,13 @@ Les logiciels d'applications courants:
 - [[Clients de messagerie]]
 - [[Navigateurs web]]
 - [[Conception assistée par ordinateur (CAO)]]
-- Logiciels de traitement graphique
+- [[Logiciels de traitement graphique]]
+
+## Caractéristiques communes des applications
+Les caractéristiques communes à la plupart des programmes sont  4:
+?
+![[image-20230119190139060.png]]
+- [[Barres d'outils]]
+- [[Menus]]
+- [[Boîtes de dialogue]]
+- [[Composants de l'interface graphique]]

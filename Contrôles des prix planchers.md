@@ -6,7 +6,7 @@ Created: 2023-01-10
 # Contrôles des prix planchers
 ?
 La situation des contrôles des prix minimums (prix planchers) est à l'opposé de celle des contrôles des prix maximums. Dans ce cas, le gouvernement fixe un prix minimum supérieur au prix d'équilibre, empêchant les producteurs de vendre leur produit en dessous de ce prix. Cette mesure est prise pour protéger les producteurs, généralement dans le cas des produits de base et sur le marché du travail.
-<!--SR:!2023-01-19,6,230-->
+<!--SR:!2023-02-04,16,230-->
 
 Les objectifs du prix plancher sont:
 ?
@@ -18,7 +18,7 @@ Les objectifs du prix plancher sont:
 Figure de contrôles des prix minimums:
 ?
 ![[image-20230117132748916.png]]
-<!--SR:!2023-01-19,2,248-->
+<!--SR:!2023-01-24,5,248-->
 
 
 
