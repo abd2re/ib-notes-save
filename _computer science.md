@@ -43,3 +43,4 @@ banner_y: 0.5
 2. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
 3. Le [[Cycle Fetch-Execute]]
 4. Le [[Stockage persistant]]
+5. Les [[Systèmes d'exploitation]], [[Application logicielle]]

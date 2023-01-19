@@ -25,7 +25,7 @@ Il y a deux types d'impots indirects à considérer:
 <!--SR:!2023-01-20,2,230-->
 
 ## Les effets de la fiscalité indirecte sur le surplus du consommateur et du producteur
-Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-être social total après l'imposition d'une taxe indirecte sur un bien ?
+Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-être social total après l'imposition d'une taxe indirecte sur un bien (courbes)?
 ?
 ![[image-20230118083024563.png]]
 <!--SR:!2023-01-20,2,244-->

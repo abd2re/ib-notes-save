@@ -1,28 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Natural Sciences",
-      "path": "Natural Sciences.md"
+      "basename": "Conception assistée par ordinateur (CAO)",
+      "path": "Conception assistée par ordinateur (CAO).md"
     },
     {
-      "basename": "Untitled 5",
-      "path": "Untitled 5.md"
+      "basename": "Application logicielle",
+      "path": "Application logicielle.md"
     },
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
+      "basename": "Navigateurs web",
+      "path": "Navigateurs web.md"
+    },
+    {
+      "basename": "Clients de messagerie",
+      "path": "Clients de messagerie.md"
+    },
+    {
+      "basename": "Systèmes de gestion de bases de données (SGBD)",
+      "path": "Systèmes de gestion de bases de données (SGBD).md"
+    },
+    {
+      "basename": "Feuilles de calcul",
+      "path": "Feuilles de calcul.md"
+    },
+    {
+      "basename": "Traitements de texte",
+      "path": "Traitements de texte.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Systèmes d'exploitation",
+      "path": "Systèmes d'exploitation.md"
+    },
+    {
+      "basename": "Sécurité (2)",
+      "path": "Sécurité (2).md"
+    },
+    {
+      "basename": "Accès aux disques et gestion des données",
+      "path": "Accès aux disques et gestion des données.md"
+    },
+    {
+      "basename": "Mise en réseau",
+      "path": "Mise en réseau.md"
+    },
+    {
+      "basename": "Contrôle des ressources et multitâche",
+      "path": "Contrôle des ressources et multitâche.md"
+    },
+    {
+      "basename": "Gestion de la mémoire",
+      "path": "Gestion de la mémoire.md"
+    },
+    {
+      "basename": "Communication avec les périphériques",
+      "path": "Communication avec les périphériques.md"
+    },
+    {
+      "basename": "Interface utilisateur",
+      "path": "Interface utilisateur.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Stockage persistant",
+      "path": "Stockage persistant.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
     },
     {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
+      "basename": "Drawing 2023-01-18 23.07.14.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-18 23.07.14.excalidraw.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
     },
     {
       "basename": "Intensité du courant électrique",
@@ -37,28 +109,28 @@
       "path": "Loi de Coulomb.md"
     },
     {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
     },
     {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
+      "basename": "Natural Sciences",
+      "path": "Natural Sciences.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "_TOK",
+      "path": "_TOK.md"
     },
     {
-      "basename": "Stockage persistant",
-      "path": "Stockage persistant.md"
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
     },
     {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
     },
     {
       "basename": "physics-canvas",
@@ -127,78 +199,6 @@
     {
       "basename": "circuit caractéristique d'une pile",
       "path": "Excalidraw/circuit caractéristique d'une pile.md"
-    },
-    {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "Alliteration",
-      "path": "Alliteration.md"
-    },
-    {
-      "basename": "Extraction de l'instruction",
-      "path": "Extraction de l'instruction.md"
-    },
-    {
-      "basename": "Cycle Fetch-Execute",
-      "path": "Cycle Fetch-Execute.md"
-    },
-    {
-      "basename": "Stocker le résultat de l'exécution",
-      "path": "Stocker le résultat de l'exécution.md"
-    },
-    {
-      "basename": "Exécution de l'instruction",
-      "path": "Exécution de l'instruction.md"
-    },
-    {
-      "basename": "Décoder l'instruction",
-      "path": "Décoder l'instruction.md"
-    },
-    {
-      "basename": "Mémoire Secondaire",
-      "path": "Mémoire Secondaire.md"
-    },
-    {
-      "basename": "ROM",
-      "path": "ROM.md"
-    },
-    {
-      "basename": "exercices info 3",
-      "path": "exercices info 3.md"
-    },
-    {
-      "basename": "backup",
-      "path": "backup.md"
-    },
-    {
-      "basename": "Mémoire Primaire",
-      "path": "Mémoire Primaire.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "CPU.md"
-    },
-    {
-      "basename": "Cache",
-      "path": "Cache.md"
-    },
-    {
-      "basename": "RAM",
-      "path": "RAM.md"
-    },
-    {
-      "basename": "association de piles en parallele",
-      "path": "Excalidraw/association de piles en parallele.md"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "Untitled 4.md"
-    },
-    {
-      "basename": "History",
-      "path": "History.md"
     }
   ],
   "omittedPaths": [],
