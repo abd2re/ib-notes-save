@@ -9,6 +9,10 @@
       "path": "_TOK.md"
     },
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Scope",
       "path": "Scope.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "__dashboard",
