@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Systèmes d'exploitation",
+      "path": "Systèmes d'exploitation.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
+      "basename": "Stockage persistant",
+      "path": "Stockage persistant.md"
+    },
+    {
       "basename": "Cycle Fetch-Execute",
       "path": "Cycle Fetch-Execute.md"
+    },
+    {
+      "basename": "Mémoire Secondaire",
+      "path": "Mémoire Secondaire.md"
     },
     {
       "basename": "_physics",
@@ -19,18 +31,6 @@
     {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "Mémoire Secondaire",
-      "path": "Mémoire Secondaire.md"
-    },
-    {
-      "basename": "Stockage persistant",
-      "path": "Stockage persistant.md"
-    },
-    {
-      "basename": "Systèmes d'exploitation",
-      "path": "Systèmes d'exploitation.md"
     },
     {
       "basename": "Application logicielle",
