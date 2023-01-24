@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "12 TOK Concepts.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
+    "Subventions.md",
+    "_economy.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Contrôles des prix planchers.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "Conséquences possibles de l'imposition d'un prix plafond.md",
+    "_computer science.md",
     "Application logicielle.md",
     "Barres d'outils.md",
-    "_computer science.md",
-    "_economy.md",
-    "Subventions.md",
-    "Interface utilisateur.md",
-    "Systèmes d'exploitation.md",
-    "Stockage persistant.md",
-    "Cycle Fetch-Execute.md",
-    "Mémoire Secondaire.md"
+    "Interface utilisateur.md"
   ]
 }
