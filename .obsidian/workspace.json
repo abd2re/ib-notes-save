@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revenu total des entreprises.md",
+                "file": "Subventions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revenu total des entreprises.md",
+                "file": "Subventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revenu total des entreprises.md",
+                "file": "Subventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revenu total des entreprises.md"
+                "file": "Subventions.md"
               }
             }
           },
@@ -222,14 +222,14 @@
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
     "_economy.md",
+    "Subventions.md",
+    "Contrôles des prix plafonds.md",
+    "Revenu total des entreprises.md",
     "Elasticités de l'offre.md",
     "Elasticité prix de la demande.md",
     "Formule de l'élasticité prix demande.md",
     "Elasticité prix croisée.md",
     "Déterminants de l'élasticité-prix de la demande.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
-    "Revenu total des entreprises.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Impôts indirects.md"
+    "Fourchette des valeurs de l'élasticité-prix de la demande.md"
   ]
 }
