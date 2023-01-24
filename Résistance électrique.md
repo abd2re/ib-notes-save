@@ -70,18 +70,18 @@ $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2023-01-24,4,198-->
+<!--SR:!2023-01-20,2,198-->
 
 ### Rhéostat
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png|275]]
-<!--SR:!2023-01-24,4,198-->
+<!--SR:!2023-01-20,2,198-->
 **Montage potentiométrique** branchement, formule de base et formules pour les 3 cas:
 ?
 ![[image-20230116164137567.png|450]]$$U_{AC}=\frac{R_{AC}}{R_{AC}+R_{CB}}U_{AB}=\frac{R_{AC}}{R_{AB}} \hspace2mm U_{AB}$$
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2023-02-03,11,216-->
+<!--SR:!2023-01-23,4,216-->
 
 
 

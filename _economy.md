@@ -1,4 +1,7 @@
 ---
+banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
+---
+---
 tags: [MOC]
 alias: econ
 banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"

@@ -9,7 +9,7 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 <!--SR:!2023-01-25,18,190-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
-<!--SR:!2023-02-19,29,190-->
+<!--SR:!2023-01-21,15,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
 <!--SR:!2023-02-18,37,246-->
 
@@ -20,7 +20,7 @@ $$U=e-rI$$- $U$ = tension dans la puissance électrique
 - $r$ = résistance interne 
 - $I$ = intensité
 - ![[Piles électriques-6.png]]
-<!--SR:!2023-02-25,35,226-->
+<!--SR:!2023-01-21,16,226-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
 <!--SR:!2023-02-14,34,246-->
@@ -34,7 +34,6 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2023-02-20,38,246-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
 <!--SR:!2023-02-12,33,246-->
-- Si $U$ = 0:: $I$ = $I_{CC}$ = abscisse a l'origine
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
 <!--SR:!2023-01-30,25,246-->

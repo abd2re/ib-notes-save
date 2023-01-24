@@ -29,8 +29,4 @@ tags: [MOC]
 7. communication
 
 **TEAPCALIM**
-
-[[Comparative Essay]]
-
-
-Art is a way of expressing ourselves through means of creativity. We can communicate ideas through this medium and make the others interpret our work to give meaning. Pablo Picasso was a renounced painter popular for his art style cubism. When he says that "Art is the lie that enables us to realise the truth". 
+ 

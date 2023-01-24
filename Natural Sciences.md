@@ -8,26 +8,26 @@ Created: 2023-01-18
 What is Science
 ?
 Science is both a body of knowledge and process of discovery. It explores the natural world from subatomic particles to the galaxies that make up our universe and everything that falls in between.
-<!--SR:!2023-01-24,1,190-->
+<!--SR:!2023-01-20,1,230-->
 
 What are the natural sciences
 ?
 The natural sciences explores and tries to understand the natural world around us. In essence, this is the physical world and the forces acting upon it. Under the umbrella of the natural sciences come the life sciences, which are the branches of Biology and the physical sciences, which include discipline such as Chemistry, Physics, and the earth sciences. Think about the general steps involved when you do an experiment in science. To what extent might goes steps changed depending on the experiment you are conducting.
-<!--SR:!2023-01-27,5,230-->
+<!--SR:!2023-01-20,1,230-->
 
 ## Scientific method
 ?
 Scientific knowledge is based on observations and experimentation, along with the formulation of **hypotheses**. This has lead to remarkable progress in our understanding of our world because it involves analyzing evidence and drawing conclusion. Sometimes these conclusions helped to form the basis of new theories that may even go against mainstream beliefs and doctrines of the time. 
 - Sometimes scientists, however, will devise new theories before they have clear evidence for them and then design experiments to test the theories.
-<!--SR:!2023-01-28,6,230-->
+<!--SR:!2023-01-20,1,230-->
 
 ### Key words
 - **Empirical**:: based on and verified by observation and experience
-<!--SR:!2023-01-29,7,250-->
+<!--SR:!2023-01-22,3,250-->
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
-<!--SR:!2023-01-24,1,170-->
+<!--SR:!2023-01-20,1,230-->
 - **Scientific methods**:: a method of procedure for the way scientifique investigation's are conducted 
-<!--SR:!2023-01-25,2,210-->
+<!--SR:!2023-01-20,1,230-->
 
 We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including : 
 ?
@@ -40,4 +40,4 @@ We often refer to the scientific method as if were a single way of correctly doi
 - making generalization
 - assessing results and theories 
 - communicating results
-<!--SR:!2023-01-26,4,222-->
+<!--SR:!2023-01-20,1,222-->

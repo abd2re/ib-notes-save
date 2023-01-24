@@ -7,4 +7,4 @@ Created: 2022-11-18
 ?
 Le système proposé est conçu.
 Des plans sont établis concernant la construction physique, le matériel, les systèmes d'exploitation, la programmation, les communications et les questions de sécurité.
-<!--SR:!2023-04-27,94,230-->
+<!--SR:!2023-01-23,41,230-->

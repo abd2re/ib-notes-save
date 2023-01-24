@@ -14,6 +14,6 @@ $$\text{PES}=\frac{\Delta Q_{s}}{\Delta P}$$
 <!--SR:!2023-02-12,43,290-->
 
 - Le signe du PES est:: toujours positif
-<!--SR:!2023-03-26,65,250-->
+<!--SR:!2023-01-20,26,250-->
 
 

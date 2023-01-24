@@ -39,8 +39,8 @@ $$q=ne$$
 Le courant électrique est:: un déplacement de charges.
 <!--SR:!2023-02-02,41,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.
-<!--SR:!2023-04-12,80,230-->
+<!--SR:!2023-01-22,35,230-->
 
 ## Loi de la conservation de la charge électrique
 La charge électrique d'un système isolé est:: constante. 
-<!--SR:!2023-04-08,78,230-->
+<!--SR:!2023-01-20,34,230-->

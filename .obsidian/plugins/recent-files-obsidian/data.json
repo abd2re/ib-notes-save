@@ -1,108 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Systèmes d'exploitation",
-      "path": "Systèmes d'exploitation.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "Stockage persistant",
-      "path": "Stockage persistant.md"
-    },
-    {
-      "basename": "Cycle Fetch-Execute",
-      "path": "Cycle Fetch-Execute.md"
-    },
-    {
-      "basename": "Mémoire Secondaire",
-      "path": "Mémoire Secondaire.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
     },
     {
       "basename": "Application logicielle",
       "path": "Application logicielle.md"
     },
     {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
+      "basename": "Barres d'outils",
+      "path": "Barres d'outils.md"
     },
     {
-      "basename": "Contrôles des prix plafonds",
-      "path": "Contrôles des prix plafonds.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Subventions",
       "path": "Subventions.md"
     },
     {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix plafond",
-      "path": "Conséquences possibles de l'imposition d'un prix plafond.md"
-    },
-    {
-      "basename": "Solutions aux conséquences du contrôle des prix plafonds",
-      "path": "Solutions aux conséquences du contrôle des prix plafonds.md"
-    },
-    {
-      "basename": "Untitled 6",
-      "path": "Untitled 6.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "Variation du champ de gravitation d'une planète avec l'altitude",
-      "path": "Variation du champ de gravitation d'une planète avec l'altitude.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Comparative Essay",
-      "path": "Comparative Essay.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Drawing 2023-01-23 19.57.38.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-23 19.57.38.excalidraw.md"
-    },
-    {
-      "basename": "Peace act structure",
-      "path": "Peace act structure.md"
-    },
-    {
-      "basename": "Short stories or novels",
-      "path": "Short stories or novels.md"
-    },
-    {
-      "basename": "Key features of stories",
-      "path": "Key features of stories.md"
     },
     {
       "basename": "Drawing 2023-01-22 18.13.49.excalidraw",
@@ -127,78 +47,6 @@
     {
       "basename": "Drawing 2023-01-22 18.02.46.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-22 18.02.46.excalidraw.md"
-    },
-    {
-      "basename": "Natural Sciences",
-      "path": "Natural Sciences.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "Composants de l'interface graphique",
-      "path": "Composants de l'interface graphique.md"
-    },
-    {
-      "basename": "Boîtes de dialogue",
-      "path": "Boîtes de dialogue.md"
-    },
-    {
-      "basename": "Menus",
-      "path": "Menus.md"
-    },
-    {
-      "basename": "Barres d'outils",
-      "path": "Barres d'outils.md"
-    },
-    {
-      "basename": "Logiciels de traitement graphique",
-      "path": "Logiciels de traitement graphique.md"
-    },
-    {
-      "basename": "Conception assistée par ordinateur (CAO)",
-      "path": "Conception assistée par ordinateur (CAO).md"
-    },
-    {
-      "basename": "Navigateurs web",
-      "path": "Navigateurs web.md"
-    },
-    {
-      "basename": "Clients de messagerie",
-      "path": "Clients de messagerie.md"
-    },
-    {
-      "basename": "Systèmes de gestion de bases de données (SGBD)",
-      "path": "Systèmes de gestion de bases de données (SGBD).md"
-    },
-    {
-      "basename": "Feuilles de calcul",
-      "path": "Feuilles de calcul.md"
-    },
-    {
-      "basename": "Traitements de texte",
-      "path": "Traitements de texte.md"
-    },
-    {
-      "basename": "Sécurité (2)",
-      "path": "Sécurité (2).md"
-    },
-    {
-      "basename": "Accès aux disques et gestion des données",
-      "path": "Accès aux disques et gestion des données.md"
-    },
-    {
-      "basename": "Mise en réseau",
-      "path": "Mise en réseau.md"
-    },
-    {
-      "basename": "Contrôle des ressources et multitâche",
-      "path": "Contrôle des ressources et multitâche.md"
-    },
-    {
-      "basename": "Gestion de la mémoire",
-      "path": "Gestion de la mémoire.md"
     }
   ],
   "omittedPaths": [],

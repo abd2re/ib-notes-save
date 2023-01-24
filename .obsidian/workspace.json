@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systèmes d'exploitation.md",
-                "mode": "source",
+                "file": "_computer science.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systèmes d'exploitation.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systèmes d'exploitation.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systèmes d'exploitation.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
+    "Application logicielle.md",
+    "Barres d'outils.md",
     "_computer science.md",
+    "_economy.md",
+    "Subventions.md",
+    "Interface utilisateur.md",
+    "Systèmes d'exploitation.md",
     "Stockage persistant.md",
     "Cycle Fetch-Execute.md",
-    "Mémoire Secondaire.md",
-    "_physics.md",
-    "_economy.md",
-    "Impôts indirects.md",
-    "Systèmes d'exploitation.md",
-    "Application logicielle.md",
-    "Contrôles des prix planchers.md"
+    "Mémoire Secondaire.md"
   ]
 }
