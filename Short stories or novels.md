@@ -1,7 +1,5 @@
 ---
 tags: [english] 
-dg-home: true
-dg-publish: true
 ---
 Created: 2022-10-19
 
@@ -16,10 +14,9 @@ In this unit you will be introduced to the key features that engage readers of p
 
 1. [[Key features of stories]]
 2. [[Peace act structure]]
-
 ### Books to read English
-- The scarlett letter "Nathaniel Hawthrone"
-- King lear "W. Shakespeare"
-- Songs of sorrow "Kofi Awonoor"
+- The Scarlett Letter "Nathaniel Hawthorne"
+- King Lear "W. Shakespeare"
+- Songs of Sorrow "Kofi Awonoor"
 
 

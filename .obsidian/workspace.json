@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f47f2980191d6f37",
+    "id": "152ebce6f844965a",
     "type": "split",
     "children": [
       {
-        "id": "9e6a56d380115f44",
+        "id": "c77c6f821d89be8f",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0dc85945b95c40",
+            "id": "f41a35e2882b41dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "_computer science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a26efd0647f9c8f9",
+    "id": "7758808ff2848d23",
     "type": "split",
     "children": [
       {
-        "id": "e529c00fa40abbcc",
+        "id": "e4b891e4ae4ed4c4",
         "type": "tabs",
         "children": [
           {
-            "id": "cec7260eaa54fcd6",
+            "id": "9f7844165af5e0ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,38 +52,7 @@
             }
           },
           {
-            "id": "7d27230a600cd0c1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "8014a558964b929f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d1b6639e49a5eb49",
+            "id": "d41f5521d54f0109",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -93,24 +62,66 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "b3081c556b38cc2d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e39f5c56e83cffac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "right": {
-    "id": "19cf5f7b89095f27",
+    "id": "b2ea108b96cda228",
     "type": "split",
     "children": [
       {
-        "id": "20bb1c3934154276",
+        "id": "b2245dbf968ba28a",
         "type": "tabs",
-        "dimension": 47.93969849246231,
         "children": [
           {
-            "id": "111ac17bf96596a2",
+            "id": "dece4891fc147e59",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "22f218b5aca26b2b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -119,19 +130,19 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Sciences.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "_computer science.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7a652f273c476f67",
+            "id": "2cb2e3509ad9352f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -140,14 +151,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d3e7145212deffd",
+            "id": "eecccb2174ad76f1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -162,7 +173,7 @@
             }
           },
           {
-            "id": "a4ee9d7d7d47c956",
+            "id": "7c13aae8f1d46675",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -171,24 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Sciences.md"
+                "file": "_computer science.md"
               }
             }
           },
           {
-            "id": "7ca8ac01fbf81ad4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c43566d96071142a",
+            "id": "f7d399142cb83554",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -198,83 +197,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "b82d70eaa67a3197",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "6299f388c1ecfa05",
-        "type": "tabs",
-        "dimension": 52.06030150753769,
-        "children": [
-          {
-            "id": "9d8029b03e20c73d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Natural Sciences.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 189,
-                  "scale": 0.06514853049799676,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "digitalgarden:Digital Garden Publication Center": false,
@@ -286,17 +219,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e0dc85945b95c40",
+  "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
-    "_TOK.md",
-    "Perspective.md",
+    "Cycle Fetch-Execute.md",
     "_computer science.md",
-    "Application logicielle.md",
-    "Composants de l'interface graphique.md",
-    "Boîtes de dialogue.md",
-    "Menus.md",
+    "_physics.md",
+    "_economy.md",
+    "Impôts indirects.md",
     "Systèmes d'exploitation.md",
-    "Barres d'outils.md",
-    "Logiciels de traitement graphique.md"
-  ]
-}
+    "Mémoire Secondaire.md",
+    "Stockage persistant.md",
+    "Application logicielle.md",
+    "Contrôles des prix pla

@@ -28,8 +28,10 @@ banner_y: 0.5
 4. [[Piles électriques]]
 
 # Theme 6: Mouvement circulaire uniforme et Gravitation
-## 1. Gravitation (universelle)
-1. [[Loi de gravitation de Newton]], [[Champ de gravitation]]
+## 2. Gravitation (universelle)
+1. [[Loi de gravitation de Newton]]
+2. [[Champ de gravitation]]
+3. [[Variation du champ de gravitation d'une planète avec l'altitude]]
 
 
 
