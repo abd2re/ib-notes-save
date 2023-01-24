@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "Scope.md"
               }
             }
           },
@@ -222,6 +222,7 @@
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
     "_TOK.md",
+    "History.md",
     "Natural Sciences.md",
     "Perspective.md",
     "_computer science.md",
@@ -229,7 +230,6 @@
     "_math.md",
     "_physics.md",
     "__dashboard.md",
-    "_CAS.md",
-    "_english.md"
+    "_CAS.md"
   ]
 }
