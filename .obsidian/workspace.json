@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
-                "mode": "preview",
+                "file": "Comparative Essay.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "Comparative Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "Comparative Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "Comparative Essay.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
-    "_economy.md",
+    "_english.md",
     "Subventions.md",
+    "Vitesses.md",
+    "_economy.md",
     "Contrôles des prix plafonds.md",
     "Revenu total des entreprises.md",
     "Elasticités de l'offre.md",
     "Elasticité prix de la demande.md",
     "Formule de l'élasticité prix demande.md",
-    "Elasticité prix croisée.md",
-    "Déterminants de l'élasticité-prix de la demande.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    "Elasticité prix croisée.md"
   ]
 }

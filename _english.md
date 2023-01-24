@@ -29,4 +29,5 @@ tags: [MOC]
 7. communication
 
 **TEAPCALIM**
- 
+
+[[Comparative Essay]]
