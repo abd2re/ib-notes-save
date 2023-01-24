@@ -1,4 +1,7 @@
 ---
+banner: "![[SinAndCosFunctionPlot-1.webp]]"
+---
+---
 tags: [MOC] 
 banner: "![[SinAndCosFunctionPlot-1.webp]]"
 ---

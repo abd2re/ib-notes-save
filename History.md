@@ -9,10 +9,10 @@ Created: 2022-11-30
 - It is important to understand the past in order to appreciate our place and context now, in time and space.
 <!--SR:!2023-01-23,32,250-->
 
-Why do we pursue knowledge and understanding of the past ?
+**Why do we pursue knowledge and understanding of the past ?**
 We might beginning by saying it's the study of the past. However the answer is more complicated than that. History once focused almost exclusively on telling the stories of kings and queens, great leaders, military campaigns, wars and politics. There has been a significant shift in focus, regarding the topics, [[Scope]], and modern methodology. Whereas historians might specialize in the 20th century. In addition history does not exist as a discipline in isolation, historians might collaborate with experts in other areas of knowledge and borrow from the methodology of other disciplines in order to develop related subject areas, such as art history, economic history.
 
-How can we know about the past ?
+**How can we know about the past ?**
 - People know what happened in the past by looking at things from the past including sources (like books, newspapers, and letters) and artifacts (like pottery, tools, and human or animal remains.)
 
 **Pluralistic history**:: Accepting that there are various different perspectives that may be justified, and multiple possible accounts of the past.
