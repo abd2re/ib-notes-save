@@ -15,12 +15,9 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "_english.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
               }
             }
           }
@@ -98,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
               }
             }
           },
@@ -219,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f41a35e2882b41dd",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
+    "_english.md",
     "Natural Sciences.md",
     "_TOK.md",
     "History.md",
@@ -229,7 +228,6 @@
     "TOK Exhibition.md",
     "Scope.md",
     "Perspective.md",
-    "_computer science.md",
-    "_french B.md"
+    "_computer science.md"
   ]
 }
