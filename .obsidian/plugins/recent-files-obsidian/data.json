@@ -5,6 +5,14 @@
       "path": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
     },
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
       "basename": "_french B",
       "path": "_french B.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "History",
       "path": "History.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Scope",

@@ -37,6 +37,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca77996eaa5dc005",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -236,15 +253,15 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
-    "_french B.md",
+    "_physics.md",
+    "Champ de gravitation.md",
     "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
+    "_french B.md",
     "Acceleration.md",
     "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
     "_english.md",
     "Natural Sciences.md",
     "_TOK.md",
-    "History.md",
-    "Champ de gravitation.md",
-    "_physics.md"
+    "History.md"
   ]
 }
