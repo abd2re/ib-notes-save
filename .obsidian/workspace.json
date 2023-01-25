@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
+    "Acceleration.md",
+    "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
     "_english.md",
     "Natural Sciences.md",
     "_TOK.md",
@@ -226,8 +228,6 @@
     "Champ de gravitation.md",
     "_physics.md",
     "TOK Exhibition.md",
-    "Scope.md",
-    "Perspective.md",
-    "_computer science.md"
+    "Scope.md"
   ]
 }
