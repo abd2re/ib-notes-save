@@ -56,6 +56,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "897b9e7b94d087e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c777a12f9b5cc6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparative Essay.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
+                "file": "Comparative Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
+                "file": "Comparative Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md"
+                "file": "Comparative Essay.md"
               }
             }
           },
@@ -251,8 +274,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f41a35e2882b41dd",
+  "active": "92c777a12f9b5cc6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md",
     "History.md",
@@ -261,7 +285,6 @@
     "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
     "Champ de gravitation.md",
     "_french B.md",
-    "Acceleration.md",
-    "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
+    "Acceleration.md"
   ]
 }

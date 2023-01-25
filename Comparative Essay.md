@@ -29,7 +29,8 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-01-26,3,250-->
 
 ## Comparative essay Tips and Tricks
-When writhing a comparative essay in the style of paper 2 you should to answer the following question:: In what ways and for what reasons is… ?
+When writing a comparative essay in the style of paper 2 you should to answer the following question:: In what ways and for what reasons is… ?
+<!--SR:!2023-01-28,3,250-->
 
 - You will need to start organizing your ideas using a mind map
 - Write a good thesis statement which make a claim about the author's purpose in writing
