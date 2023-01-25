@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "History",
+      "path": "History.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Drawing 2023-01-25 11.49.58.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md"
     },
     {
       "basename": "Drawing 2023-01-25 11.35.07.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Champ de gravitation",
@@ -35,14 +43,6 @@
     {
       "basename": "Natural Sciences",
       "path": "Natural Sciences.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "History",
-      "path": "History.md"
     },
     {
       "basename": "Scope",
