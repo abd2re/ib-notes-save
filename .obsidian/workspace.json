@@ -20,6 +20,23 @@
                 "file": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "23858c339d507f34",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_french B.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -217,8 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
+    "_french B.md",
+    "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
     "Acceleration.md",
     "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md",
     "_english.md",
@@ -226,8 +245,6 @@
     "_TOK.md",
     "History.md",
     "Champ de gravitation.md",
-    "_physics.md",
-    "TOK Exhibition.md",
-    "Scope.md"
+    "_physics.md"
   ]
 }
