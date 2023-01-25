@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "_english.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "_english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "_english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Sciences.md"
+                "file": "_english.md"
               }
             }
           },
@@ -221,13 +221,13 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
+    "Natural Sciences.md",
     "_TOK.md",
     "History.md",
     "Champ de gravitation.md",
     "_physics.md",
     "TOK Exhibition.md",
     "Scope.md",
-    "Natural Sciences.md",
     "Perspective.md",
     "_computer science.md",
     "_french B.md"
