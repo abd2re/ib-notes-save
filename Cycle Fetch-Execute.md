@@ -8,7 +8,7 @@ Created: 2023-01-11
 - L'opération de base d'un ordinateur est appelée le cycle "recherche-exécution" (également appelé "cycle machine").
 - L'ordinateur va chercher l'instruction dans sa mémoire, puis l'exécute.
 - Cette opération est répétée depuis le démarrage de l'ordinateur jusqu'à son arrêt.
-<!--SR:!2023-01-21,6,230-->
+<!--SR:!2023-02-13,19,230-->
 
 Fetch-execute cycle des 4 étapes (representation stv):
 ?
@@ -17,13 +17,13 @@ Fetch-execute cycle des 4 étapes (representation stv):
 2. [[Décoder l'instruction]]
 3. [[Exécution de l'instruction]]
 4. [[Stocker le résultat de l'exécution]]
-<!--SR:!2023-01-20,5,248-->
+<!--SR:!2023-02-13,19,248-->
 
 Représentation supplémentaires du Fetch-execute cycle:
 ?
 ![[image-20230113135949209.png]]
 ![[image-20230113135958071.png]]
-<!--SR:!2023-01-21,5,228-->
+<!--SR:!2023-02-10,16,228-->
 
 
 
