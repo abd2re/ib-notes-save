@@ -20,6 +20,20 @@
                 "file": "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "aa2b475e4a8d8bc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -219,15 +233,15 @@
   },
   "active": "f41a35e2882b41dd",
   "lastOpenFiles": [
+    "Excalidraw/assets/Drawing 2023-01-26 13.09.38.excalidraw/Pasted Image 20230126134747_393.png",
+    "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md",
     "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
     "Excalidraw/physics-canvas.md",
     "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md",
     "Excalidraw/Drawing 2023-01-22 18.13.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 18.06.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-18 23.07.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 17.57.26.excalidraw.md"
+    "Excalidraw/Drawing 2023-01-22 18.06.55.excalidraw.md"
   ]
 }
