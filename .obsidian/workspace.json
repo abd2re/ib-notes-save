@@ -17,64 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "23858c339d507f34",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_french B.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca77996eaa5dc005",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "897b9e7b94d087e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92c777a12f9b5cc6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparative Essay.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
               }
             }
           }
@@ -185,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparative Essay.md",
+                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparative Essay.md",
+                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparative Essay.md"
+                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
               }
             }
           },
@@ -274,17 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c777a12f9b5cc6",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md",
-    "History.md",
-    "_TOK.md",
-    "_physics.md",
-    "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md",
-    "Champ de gravitation.md",
-    "_french B.md",
-    "Acceleration.md"
+    "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
+    "Excalidraw/physics-canvas.md",
+    "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 18.13.49.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 18.06.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-18 23.07.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 17.57.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-18 08.08.53.excalidraw.md"
   ]
 }
