@@ -44,3 +44,6 @@ banner_y: 0.5
 3. Le [[Cycle Fetch-Execute]]
 4. Le [[Stockage persistant]]
 5. Les [[Systèmes d'exploitation]], [[Application logicielle]]
+6. Représentation Binaire
+7. [[Représentation de données]]
+8. 

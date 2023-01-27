@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f41a35e2882b41dd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "aa2b475e4a8d8bc8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -29,14 +15,16 @@
               "stack": []
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -234,15 +221,15 @@
   },
   "active": "aa2b475e4a8d8bc8",
   "lastOpenFiles": [
+    "Application logicielle.md",
+    "_computer science.md",
+    "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
     "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-01-26 13.09.38.excalidraw/Pasted Image 20230126134747_393.png",
-    "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md",
     "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md",
     "Excalidraw/physics-canvas.md",
-    "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 18.13.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 18.06.55.excalidraw.md"
+    "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md"
   ]
 }
