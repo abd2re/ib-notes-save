@@ -20,8 +20,26 @@
                 "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
+          },
+          {
+            "id": "b8373d51660c4909",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Résistance électrique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+                "file": "Résistance électrique.md"
               }
             }
           },
@@ -216,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d1015a8bca08b",
+  "active": "b8373d51660c4909",
   "lastOpenFiles": [
-    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127213335_349.png",
+    "_physics.md",
+    "Champ de gravitation.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127213335_349.png",
     "assets/Pasted Image 20230127202759_875.png",
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png",
     "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png",
     "rv_exos/physics/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201858_222.png",
-    "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201021_292.png",
-    "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127200930_392.png",
-    "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127194829_334.png"
+    "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201021_292.png"
   ]
 }

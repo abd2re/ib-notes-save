@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
@@ -113,14 +125,6 @@
       "path": "_TOK.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
-    },
-    {
       "basename": "_french B",
       "path": "_french B.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Déterminants de l'élasticité-prix de la demande",
       "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
-      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
     }
   ],
   "omittedPaths": [],
