@@ -15,8 +15,10 @@
               "stack": []
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+              }
             }
           }
         ]
@@ -125,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +178,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+              }
             }
           },
           {
@@ -212,15 +218,15 @@
   },
   "active": "cb68a060cb0c2307",
   "lastOpenFiles": [
+    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png",
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "rv_exos/physics/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201858_222.png",
-    "rv_exos/physics/Circuits & Kirchoff's Laws.md",
     "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201021_292.png",
     "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127200930_392.png",
     "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127194829_334.png",
     "Excalidraw/Drawing 2023-01-27 19.47.14.excalidraw.md",
     "Excalidraw/math.md",
     "Excalidraw/assets/math/Pasted Image 20230127181845_463.png",
-    "Excalidraw/assets/math/Pasted Image 20230127181823_650.png",
-    "_computer science.md"
+    "Excalidraw/assets/math/Pasted Image 20230127181823_650.png"
   ]
 }
