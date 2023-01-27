@@ -20,4 +20,4 @@ Created: 2022-10-17
  8. Alliteration :: is the repetition of same sounds or letter at the beginning of several words in a sequence. Such as "Let us go forth to lead the land we love" (JFK) 
 <!--SR:!2023-03-28,104,270-->
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
-<!--SR:!2023-01-26,59,250-->
+<!--SR:!2023-06-23,148,250-->

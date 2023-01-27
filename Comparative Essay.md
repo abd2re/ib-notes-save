@@ -8,25 +8,25 @@ Created: 2023-01-24
 Here are seven basic types of **PLOT** as outline by Christopher Booker. If you already read a literary work in your language or literary class you can describe how it fits or breaks on of the plot shown below.
 
 *Overcoming the Monster*=> :: The protagonist must defeat an antagonist (usually an individual, force, or entity) that threatens them and the wider world. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-03,8,250-->
 
 *Rags to Riches*=> :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-02,7,250-->
 
 *The Quest*=> :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-01,6,250-->
 
 *Voyage and Return*=> :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-05,10,250-->
 
 *Comedy*=> :: The protagonist experiences a series of lighthearted or confusing events, before the story resolves into a happy ending. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-03,8,250-->
 
 *Tragedy*=> :: The protagonist has a central trait or flaw or makes a mistake, which results in catastrophe. 
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-02,7,250-->
 
 *Rebirth*=> :: The protagonist undergoes a transformation, and often ends up a better person as a result
-<!--SR:!2023-01-26,3,250-->
+<!--SR:!2023-02-04,9,250-->
 
 ## Comparative essay Tips and Tricks
 When writing a comparative essay in the style of paper 2 you should to answer the following question:: In what ways and for what reasons is… ?
