@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/math.md"
+                "file": "rv_exos/physics/Circuits & Kirchoff's Laws.md"
               }
             }
           }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/math.md",
+                "file": "rv_exos/physics/Circuits & Kirchoff's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/math.md",
+                "file": "rv_exos/physics/Circuits & Kirchoff's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/math.md"
+                "file": "rv_exos/physics/Circuits & Kirchoff's Laws.md"
               }
             }
           },
@@ -219,15 +218,15 @@
   },
   "active": "aa2b475e4a8d8bc8",
   "lastOpenFiles": [
-    "Excalidraw/assets/math/Pasted Image 20230127181845_463.png",
+    "Excalidraw/Drawing 2023-01-27 19.47.14.excalidraw.md",
     "Excalidraw/math.md",
+    "Excalidraw/assets/math/Pasted Image 20230127181845_463.png",
     "Excalidraw/assets/math/Pasted Image 20230127181823_650.png",
     "_computer science.md",
     "Application logicielle.md",
     "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md",
     "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-01-26 13.09.38.excalidraw/Pasted Image 20230126134747_393.png",
-    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md"
+    "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md"
   ]
 }

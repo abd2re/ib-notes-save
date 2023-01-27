@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "Drawing 2023-01-27 19.47.14.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-27 19.47.14.excalidraw.md"
+    },
+    {
       "basename": "math",
       "path": "Excalidraw/math.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Application logicielle",
       "path": "Application logicielle.md"
-    },
-    {
-      "basename": "Barres d'outils",
-      "path": "Barres d'outils.md"
-    },
-    {
-      "basename": "Drawing 2023-01-23 19.57.38.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-23 19.57.38.excalidraw.md"
     }
   ],
   "omittedPaths": [],
