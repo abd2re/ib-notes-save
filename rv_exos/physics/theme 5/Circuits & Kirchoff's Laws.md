@@ -54282,6 +54282,47 @@ e268216f7d3b979e65ca7744367ad5d6a3fed7ad: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
+			"id": "WJZGkBfxg1vYR-cGazHxk",
+			"type": "line",
+			"x": -682.88319104538,
+			"y": 10800.493489918801,
+			"width": 1019.7999027597184,
+			"height": 13.40372270878106,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1610165184,
+			"version": 53,
+			"versionNonce": 1390017472,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674857848653,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1019.7999027597184,
+					-13.40372270878106
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "8iEWZDD9NuOGFJE-H1nw5",
 			"type": "freedraw",
 			"x": -1274.7747032920784,

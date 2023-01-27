@@ -22,23 +22,21 @@
             }
           },
           {
-            "id": "b8373d51660c4909",
+            "id": "0e9349c0510592c2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Résistance électrique.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
               }
             }
           },
@@ -233,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d1015a8bca08b",
+  "active": "0e9349c0510592c2",
   "lastOpenFiles": [
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md",
     "Résistance électrique.md",
     "_physics.md",
     "Champ de gravitation.md",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127213335_349.png",
     "assets/Pasted Image 20230127202759_875.png",
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png",
-    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png",
-    "rv_exos/physics/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201858_222.png"
+    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png"
   ]
 }

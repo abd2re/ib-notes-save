@@ -26,7 +26,8 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 - Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
 <!--SR:!2023-01-29,3,263-->
-<!--SR:!2023-02-11,17,170-->
+
+<!--SR:!2023-02-11,17,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
 <!--SR:!2023-03-03,50,250-->
 
@@ -53,7 +54,8 @@ Un appareil de mesure modifie le circuit et a un effet sur la mesure.
 
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
 <!--SR:!2023-01-29,3,263-->
-<!--SR:!2023-03-31,65,242-->
+
+<!--SR:!2023-03-31,65,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
 <!--SR:!2023-02-10,36,242-->
 
@@ -73,12 +75,14 @@ $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
 <!--SR:!2023-01-29,3,263-->
-<!--SR:!2023-02-03,9,198-->
+
+<!--SR:!2023-02-03,9,198-->
 
 ### Rhéostat
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png|275]]
 <!--SR:!2023-01-29,3,263-->
-<!--SR:!2023-02-02,8,198-->
+
+<!--SR:!2023-02-02,8,198-->
 **Montage potentiométrique** branchement, formule de base et formules pour les 3 cas:
 ?
 ![[image-20230116164137567.png|450]]$$U_{AC}=\frac{R_{AC}}{R_{AC}+R_{CB}}U_{AB}=\frac{R_{AC}}{R_{AB}} \hspace2mm U_{AB}$$
