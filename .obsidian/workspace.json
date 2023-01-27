@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb1f6996719b188",
+        "id": "d9f72bdc15b772c0",
         "type": "tabs",
         "children": [
           {
-            "id": "cb68a060cb0c2307",
+            "id": "cc2d1015a8bca08b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
           },
@@ -216,12 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb68a060cb0c2307",
+  "active": "cc2d1015a8bca08b",
   "lastOpenFiles": [
-    "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png",
-    "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "assets/Pasted Image 20230127202759_875.png",
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png",
     "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png",
     "rv_exos/physics/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201858_222.png",
     "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201021_292.png",
