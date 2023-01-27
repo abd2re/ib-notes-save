@@ -20,6 +20,10 @@ Question 5 ^hOtBQhHe
 
 Question 6 ^DObFOItL
 
+min ^MYHsLDTX
+
+max ^qlEJLRm4
+
 
 # Embedded files
 b4f09c37b582039c49e0be874e44360875ac563a: [[Pasted Image 20230127200930_392.png]]
@@ -39,8 +43,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 	"elements": [
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1950071744,
+			"version": 157,
+			"versionNonce": 1336614976,
 			"isDeleted": false,
 			"id": "C8M0m0jK",
 			"fillStyle": "hachure",
@@ -59,7 +63,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -74,8 +78,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 1262411840,
+			"version": 148,
+			"versionNonce": 742785984,
 			"isDeleted": false,
 			"id": "JTQTFX--7_UU7UF3Dv3WI",
 			"fillStyle": "hachure",
@@ -94,7 +98,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -209,8 +213,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 885932992,
+			"version": 167,
+			"versionNonce": 635246656,
 			"isDeleted": false,
 			"id": "5w-FZc0-e8l8_KUf86QeU",
 			"fillStyle": "hachure",
@@ -229,7 +233,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -424,8 +428,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 2029574208,
+			"version": 129,
+			"versionNonce": 72321984,
 			"isDeleted": false,
 			"id": "jB-K9RWZKPe-RygKeLuQ5",
 			"fillStyle": "hachure",
@@ -444,7 +448,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -487,8 +491,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 1372572608,
+			"version": 130,
+			"versionNonce": 1393561664,
 			"isDeleted": false,
 			"id": "XJsS5xG0-k94X-KH70va8",
 			"fillStyle": "hachure",
@@ -507,7 +511,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -554,8 +558,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 1286852672,
+			"version": 130,
+			"versionNonce": 837292992,
 			"isDeleted": false,
 			"id": "1IMxLTo3LJ9FVuGwbcv98",
 			"fillStyle": "hachure",
@@ -574,7 +578,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -621,8 +625,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1700811712,
+			"version": 160,
+			"versionNonce": 1327761472,
 			"isDeleted": false,
 			"id": "6yCgCGPWSnBr6PluwFDYc",
 			"fillStyle": "hachure",
@@ -641,7 +645,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292492,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -808,8 +812,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1582286912,
+			"version": 141,
+			"versionNonce": 724540352,
 			"isDeleted": false,
 			"id": "N7bEYaeajuFOr7Lc7qfPv",
 			"fillStyle": "hachure",
@@ -828,7 +832,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -919,8 +923,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1168104384,
+			"version": 132,
+			"versionNonce": 368640064,
 			"isDeleted": false,
 			"id": "SQ0NqVCWBK6wu5j_8ukgE",
 			"fillStyle": "hachure",
@@ -939,7 +943,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -994,8 +998,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 1236058176,
+			"version": 147,
+			"versionNonce": 575022016,
 			"isDeleted": false,
 			"id": "Q8lbJLeHUT43Vil-KH05F",
 			"fillStyle": "hachure",
@@ -1014,7 +1018,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1129,8 +1133,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 78537664,
+			"version": 129,
+			"versionNonce": 661583936,
 			"isDeleted": false,
 			"id": "jS55V3h3CuEdroAm1gvjg",
 			"fillStyle": "hachure",
@@ -1149,7 +1153,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1192,8 +1196,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 782940224,
+			"version": 130,
+			"versionNonce": 88845248,
 			"isDeleted": false,
 			"id": "4itV8VcDmMLwmWfsCh7XO",
 			"fillStyle": "hachure",
@@ -1212,7 +1216,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1259,8 +1263,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 1890315200,
+			"version": 147,
+			"versionNonce": 124121152,
 			"isDeleted": false,
 			"id": "vy9w_T4DcClGutJWuvrBz",
 			"fillStyle": "hachure",
@@ -1279,7 +1283,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1394,8 +1398,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 824815680,
+			"version": 163,
+			"versionNonce": 2120233920,
 			"isDeleted": false,
 			"id": "rJAEpeSK22xRayLAQyd2O",
 			"fillStyle": "hachure",
@@ -1414,7 +1418,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1593,8 +1597,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 330855360,
+			"version": 142,
+			"versionNonce": 1035855936,
 			"isDeleted": false,
 			"id": "HR1bIJZDxBgqWF9jrO-sQ",
 			"fillStyle": "hachure",
@@ -1613,7 +1617,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1708,8 +1712,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 2030676032,
+			"version": 161,
+			"versionNonce": 1940110272,
 			"isDeleted": false,
 			"id": "DduBL8a9jIdwcONIcHGvp",
 			"fillStyle": "hachure",
@@ -1728,7 +1732,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1899,8 +1903,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 871627712,
+			"version": 143,
+			"versionNonce": 1448534080,
 			"isDeleted": false,
 			"id": "2c3oCpdZVpTxbvaiukJqq",
 			"fillStyle": "hachure",
@@ -1919,7 +1923,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2026,8 +2030,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 136,
-			"versionNonce": 841654336,
+			"version": 146,
+			"versionNonce": 120996800,
 			"isDeleted": false,
 			"id": "5TJZRgexf9SoKvSW92UX8",
 			"fillStyle": "hachure",
@@ -2046,7 +2050,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2165,8 +2169,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1400800192,
+			"version": 163,
+			"versionNonce": 1628493888,
 			"isDeleted": false,
 			"id": "tWvXThLCpiV06riKqkgbz",
 			"fillStyle": "hachure",
@@ -2185,7 +2189,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2384,8 +2388,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 208443456,
+			"version": 141,
+			"versionNonce": 389532608,
 			"isDeleted": false,
 			"id": "mL4G7ntCgnyjaqqDsZjBb",
 			"fillStyle": "hachure",
@@ -2404,7 +2408,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2515,8 +2519,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 813173696,
+			"version": 140,
+			"versionNonce": 1909182528,
 			"isDeleted": false,
 			"id": "JQkplefJgTjx_lyo89oPd",
 			"fillStyle": "hachure",
@@ -2535,7 +2539,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2642,8 +2646,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1001361472,
+			"version": 125,
+			"versionNonce": 1036538816,
 			"isDeleted": false,
 			"id": "B_Xqe24YKKKj6cyENU2rN",
 			"fillStyle": "hachure",
@@ -2662,7 +2666,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2709,8 +2713,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1157665728,
+			"version": 126,
+			"versionNonce": 543672384,
 			"isDeleted": false,
 			"id": "6EawoWmX9Anvn_QPhM7Rs",
 			"fillStyle": "hachure",
@@ -2729,7 +2733,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2780,8 +2784,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 2010351680,
+			"version": 136,
+			"versionNonce": 1359469504,
 			"isDeleted": false,
 			"id": "DNC0kwK5KAdr2YrEErJVS",
 			"fillStyle": "hachure",
@@ -2800,7 +2804,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2891,8 +2895,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 1194859456,
+			"version": 136,
+			"versionNonce": 147112000,
 			"isDeleted": false,
 			"id": "qT_u_oPcsIeY-Xkhm_ntD",
 			"fillStyle": "hachure",
@@ -2911,7 +2915,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3002,8 +3006,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 2092466240,
+			"version": 135,
+			"versionNonce": 1662411712,
 			"isDeleted": false,
 			"id": "jARvNYrFDMA2NkVwN82s5",
 			"fillStyle": "hachure",
@@ -3022,7 +3026,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3117,8 +3121,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 691971008,
+			"version": 116,
+			"versionNonce": 1254275136,
 			"isDeleted": false,
 			"id": "zr77R-5IQXIZWS_lYefaG",
 			"fillStyle": "hachure",
@@ -3137,7 +3141,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3156,8 +3160,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 171866176,
+			"version": 145,
+			"versionNonce": 1108601792,
 			"isDeleted": false,
 			"id": "oxzC6jJ84QVsOJjefoxJQ",
 			"fillStyle": "hachure",
@@ -3176,7 +3180,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3311,8 +3315,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 422849472,
+			"version": 131,
+			"versionNonce": 172077120,
 			"isDeleted": false,
 			"id": "-vSU8Q3HtWAxUzoRh7Lex",
 			"fillStyle": "hachure",
@@ -3331,7 +3335,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3410,8 +3414,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1682272320,
+			"version": 142,
+			"versionNonce": 2015392704,
 			"isDeleted": false,
 			"id": "-CK9J-zgI0S2H4Q5gd6Dr",
 			"fillStyle": "hachure",
@@ -3430,7 +3434,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3553,8 +3557,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 20493248,
+			"version": 130,
+			"versionNonce": 1864476736,
 			"isDeleted": false,
 			"id": "5CNBnrth5fF1ZSJ10QZxj",
 			"fillStyle": "hachure",
@@ -3573,7 +3577,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3648,8 +3652,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1387096128,
+			"version": 127,
+			"versionNonce": 1264319424,
 			"isDeleted": false,
 			"id": "J1nq7OL6etBFTRFjgHhXR",
 			"fillStyle": "hachure",
@@ -3668,7 +3672,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3731,8 +3735,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 124533696,
+			"version": 151,
+			"versionNonce": 625123392,
 			"isDeleted": false,
 			"id": "px2TjRf1KdxpED45v5mtN",
 			"fillStyle": "hachure",
@@ -3751,7 +3755,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3910,8 +3914,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 559308864,
+			"version": 126,
+			"versionNonce": 1038517184,
 			"isDeleted": false,
 			"id": "wk_6pvFFWyURrTHze0xNQ",
 			"fillStyle": "hachure",
@@ -3930,7 +3934,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3989,8 +3993,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 233751488,
+			"version": 127,
+			"versionNonce": 1552193600,
 			"isDeleted": false,
 			"id": "E5r7AsIpGYS3lyS62pGAl",
 			"fillStyle": "hachure",
@@ -4009,7 +4013,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4072,8 +4076,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 538990656,
+			"version": 125,
+			"versionNonce": 232786880,
 			"isDeleted": false,
 			"id": "DaeKfS_1lmAWfUdhCiZhF",
 			"fillStyle": "hachure",
@@ -4092,7 +4096,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4147,8 +4151,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 853560256,
+			"version": 127,
+			"versionNonce": 1221038144,
 			"isDeleted": false,
 			"id": "lTdtnbiGs8Uvzt0u1NpfQ",
 			"fillStyle": "hachure",
@@ -4167,7 +4171,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4230,8 +4234,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 585846848,
+			"version": 164,
+			"versionNonce": 896046016,
 			"isDeleted": false,
 			"id": "da08S9CmqytywJNnf7fRo",
 			"fillStyle": "hachure",
@@ -4250,7 +4254,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4461,8 +4465,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1348522944,
+			"version": 191,
+			"versionNonce": 569083968,
 			"isDeleted": false,
 			"id": "kpP_merPH_wV7pQq8hl8d",
 			"fillStyle": "hachure",
@@ -4481,7 +4485,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4536,8 +4540,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 26691648,
+			"version": 195,
+			"versionNonce": 1788877760,
 			"isDeleted": false,
 			"id": "GEGC0lA2ItnqyZSo7D7Cv",
 			"fillStyle": "hachure",
@@ -4556,7 +4560,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4627,8 +4631,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 2089835456,
+			"version": 216,
+			"versionNonce": 600866880,
 			"isDeleted": false,
 			"id": "rYnCeVxXSrnpRn4MDM3_l",
 			"fillStyle": "hachure",
@@ -4647,7 +4651,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4810,8 +4814,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 402931776,
+			"version": 154,
+			"versionNonce": 531014592,
 			"isDeleted": false,
 			"id": "5SOoJ_iCuX1O4NYWi39K4",
 			"fillStyle": "hachure",
@@ -4830,7 +4834,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4901,8 +4905,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 160359360,
+			"version": 167,
+			"versionNonce": 240547904,
 			"isDeleted": false,
 			"id": "ItkGu4GUX5FOOENo5HNtV",
 			"fillStyle": "hachure",
@@ -4921,7 +4925,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5044,8 +5048,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 1175599168,
+			"version": 150,
+			"versionNonce": 43789248,
 			"isDeleted": false,
 			"id": "zRvxcVtWAlewaHdEZvTyW",
 			"fillStyle": "hachure",
@@ -5064,7 +5068,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5119,8 +5123,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 92040128,
+			"version": 148,
+			"versionNonce": 626880576,
 			"isDeleted": false,
 			"id": "4j9neRc5lY00wvtZ-MUv1",
 			"fillStyle": "hachure",
@@ -5139,7 +5143,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5186,8 +5190,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 142,
-			"versionNonce": 1872834624,
+			"version": 152,
+			"versionNonce": 2107683776,
 			"isDeleted": false,
 			"id": "mA7ma__vl3t8nUP_qVPH7",
 			"fillStyle": "hachure",
@@ -5206,7 +5210,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5269,8 +5273,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 981005248,
+			"version": 177,
+			"versionNonce": 818243648,
 			"isDeleted": false,
 			"id": "13a77oSTY0g8dYQ11wFfg",
 			"fillStyle": "hachure",
@@ -5289,7 +5293,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5452,8 +5456,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 2089887808,
+			"version": 122,
+			"versionNonce": 919878592,
 			"isDeleted": false,
 			"id": "8rGYU6sg4luacjjkO4RPf",
 			"fillStyle": "hachure",
@@ -5472,7 +5476,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5559,8 +5563,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 782531520,
+			"version": 134,
+			"versionNonce": 2087608384,
 			"isDeleted": false,
 			"id": "eWjs4CKMUSJM_tx9uFn7h",
 			"fillStyle": "hachure",
@@ -5579,7 +5583,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5714,8 +5718,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1489117248,
+			"version": 113,
+			"versionNonce": 274121664,
 			"isDeleted": false,
 			"id": "WxmN4m322uv68Osmhnf6_",
 			"fillStyle": "hachure",
@@ -5734,7 +5738,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5785,8 +5789,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 606012352,
+			"version": 114,
+			"versionNonce": 1480087616,
 			"isDeleted": false,
 			"id": "E1RX7y-kfBhBnAW-qy929",
 			"fillStyle": "hachure",
@@ -5805,7 +5809,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5860,8 +5864,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1947473984,
+			"version": 120,
+			"versionNonce": 675826624,
 			"isDeleted": false,
 			"id": "fEy76Fj2abHFKs1O2CggU",
 			"fillStyle": "hachure",
@@ -5880,7 +5884,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5967,8 +5971,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 419990464,
+			"version": 114,
+			"versionNonce": 402870336,
 			"isDeleted": false,
 			"id": "AxUKB5-jk6mlECG55D-q4",
 			"fillStyle": "hachure",
@@ -5987,7 +5991,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6050,8 +6054,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1114050624,
+			"version": 116,
+			"versionNonce": 1489556416,
 			"isDeleted": false,
 			"id": "tgDwnOonGBE2zV1yr2ogO",
 			"fillStyle": "hachure",
@@ -6070,7 +6074,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6217,8 +6221,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1199641536,
+			"version": 91,
+			"versionNonce": 330254400,
 			"isDeleted": false,
 			"id": "8KNHcQyJ33WtT5HnIId9s",
 			"fillStyle": "hachure",
@@ -6237,7 +6241,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6284,8 +6288,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1000015936,
+			"version": 93,
+			"versionNonce": 939023296,
 			"isDeleted": false,
 			"id": "5iNSpB7BWNDxWu6HUz63C",
 			"fillStyle": "hachure",
@@ -6304,7 +6308,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6359,8 +6363,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 631806912,
+			"version": 116,
+			"versionNonce": 656162880,
 			"isDeleted": false,
 			"id": "Hyxmk9dHEedlVCwGkB6tU",
 			"fillStyle": "hachure",
@@ -6379,7 +6383,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6526,8 +6530,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1536163904,
+			"version": 93,
+			"versionNonce": 402056128,
 			"isDeleted": false,
 			"id": "StP-gd1DMd-WNcqsQaRo3",
 			"fillStyle": "hachure",
@@ -6546,7 +6550,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6601,8 +6605,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1704928192,
+			"version": 93,
+			"versionNonce": 841627712,
 			"isDeleted": false,
 			"id": "6Qe-Ua3CIb9PfqBUnppS2",
 			"fillStyle": "hachure",
@@ -6621,7 +6625,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292493,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6676,8 +6680,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 572913728,
+			"version": 97,
+			"versionNonce": 115633088,
 			"isDeleted": false,
 			"id": "pQYiE9wcCGmmW_N5Jm6De",
 			"fillStyle": "hachure",
@@ -6696,7 +6700,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6767,8 +6771,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1971628992,
+			"version": 115,
+			"versionNonce": 414789696,
 			"isDeleted": false,
 			"id": "HDVYmHb19pTLfATkS4Qiv",
 			"fillStyle": "hachure",
@@ -6787,7 +6791,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6930,8 +6934,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 322760768,
+			"version": 113,
+			"versionNonce": 1323365312,
 			"isDeleted": false,
 			"id": "ip5OsIrrogQJBg5pJ61Kd",
 			"fillStyle": "hachure",
@@ -6950,7 +6954,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7085,8 +7089,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 2138649536,
+			"version": 92,
+			"versionNonce": 1118382144,
 			"isDeleted": false,
 			"id": "73LTI42wVv_jVnBjSmKRU",
 			"fillStyle": "hachure",
@@ -7105,7 +7109,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7156,8 +7160,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 917825600,
+			"version": 96,
+			"versionNonce": 1980529600,
 			"isDeleted": false,
 			"id": "45SK1fpVf02qZg8p5BVS_",
 			"fillStyle": "hachure",
@@ -7176,7 +7180,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7243,8 +7247,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1771879360,
+			"version": 111,
+			"versionNonce": 467279936,
 			"isDeleted": false,
 			"id": "WfH6oPSwuSNWyxcM5rM-q",
 			"fillStyle": "hachure",
@@ -7263,7 +7267,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7390,8 +7394,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 409854016,
+			"version": 97,
+			"versionNonce": 1049035712,
 			"isDeleted": false,
 			"id": "oI2RybYo70N8kvhTZq0vT",
 			"fillStyle": "hachure",
@@ -7410,7 +7414,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7481,8 +7485,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1443840960,
+			"version": 115,
+			"versionNonce": 338434112,
 			"isDeleted": false,
 			"id": "GrtsMJSKd9KN1FV7XxPbk",
 			"fillStyle": "hachure",
@@ -7501,7 +7505,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7648,8 +7652,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1212667968,
+			"version": 92,
+			"versionNonce": 644910016,
 			"isDeleted": false,
 			"id": "1-8CyYKzbylDBN1xeAMCg",
 			"fillStyle": "hachure",
@@ -7668,7 +7672,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7723,8 +7727,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 586206144,
+			"version": 91,
+			"versionNonce": 528420928,
 			"isDeleted": false,
 			"id": "WlP7FfS_XFokUIbsjro4V",
 			"fillStyle": "hachure",
@@ -7743,7 +7747,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7794,8 +7798,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1512230976,
+			"version": 116,
+			"versionNonce": 1743328192,
 			"isDeleted": false,
 			"id": "8lmEdBzO0rxvwXb5BOV8D",
 			"fillStyle": "hachure",
@@ -7814,7 +7818,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7965,8 +7969,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1784763328,
+			"version": 95,
+			"versionNonce": 900925504,
 			"isDeleted": false,
 			"id": "NN0e6QqS2XlIvQHXzeWNN",
 			"fillStyle": "hachure",
@@ -7985,7 +7989,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8052,8 +8056,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1709099072,
+			"version": 107,
+			"versionNonce": 2031131584,
 			"isDeleted": false,
 			"id": "CEIUwHMjkcvYt0LKV33lc",
 			"fillStyle": "hachure",
@@ -8072,7 +8076,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8187,8 +8191,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 41999296,
+			"version": 99,
+			"versionNonce": 1386741824,
 			"isDeleted": false,
 			"id": "Sy3_yT-awJOk31rDpLu0B",
 			"fillStyle": "hachure",
@@ -8207,7 +8211,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8290,8 +8294,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 123453504,
+			"version": 93,
+			"versionNonce": 201794496,
 			"isDeleted": false,
 			"id": "3h4_kYIqwGaAsBQjh7suK",
 			"fillStyle": "hachure",
@@ -8310,7 +8314,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8369,8 +8373,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 2104452032,
+			"version": 97,
+			"versionNonce": 1983772736,
 			"isDeleted": false,
 			"id": "O55zOxeYP5Ke7j5QuWM3K",
 			"fillStyle": "hachure",
@@ -8389,7 +8393,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8464,8 +8468,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1585035328,
+			"version": 95,
+			"versionNonce": 250391488,
 			"isDeleted": false,
 			"id": "ejXPQumvUCkHTfaxnB4jl",
 			"fillStyle": "hachure",
@@ -8484,7 +8488,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8551,8 +8555,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 692906944,
+			"version": 92,
+			"versionNonce": 609546304,
 			"isDeleted": false,
 			"id": "LbVf42kC7AsYbIkKTwfOR",
 			"fillStyle": "hachure",
@@ -8571,7 +8575,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8626,8 +8630,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 253276224,
+			"version": 94,
+			"versionNonce": 736179136,
 			"isDeleted": false,
 			"id": "AizAvvJsi3fDow7UEvhf5",
 			"fillStyle": "hachure",
@@ -8646,7 +8650,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8709,8 +8713,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 272200640,
+			"version": 111,
+			"versionNonce": 1691150400,
 			"isDeleted": false,
 			"id": "tuip1rJGR911LxGNsJwjR",
 			"fillStyle": "hachure",
@@ -8729,7 +8733,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8888,8 +8892,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 1092134976,
+			"version": 101,
+			"versionNonce": 1225046976,
 			"isDeleted": false,
 			"id": "zmYvYukbOV6hVo2BTGbXK",
 			"fillStyle": "hachure",
@@ -8908,7 +8912,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9027,8 +9031,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 2018835392,
+			"version": 86,
+			"versionNonce": 1132847168,
 			"isDeleted": false,
 			"id": "r_gZC_x027MWNaORli3En",
 			"fillStyle": "hachure",
@@ -9047,7 +9051,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9106,8 +9110,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 542744640,
+			"version": 98,
+			"versionNonce": 142033856,
 			"isDeleted": false,
 			"id": "g24S1q8vucFZXHVoicznz",
 			"fillStyle": "hachure",
@@ -9126,7 +9130,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9237,8 +9241,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1673495488,
+			"version": 85,
+			"versionNonce": 1348458560,
 			"isDeleted": false,
 			"id": "5yOf9k6XRhCfrE6C7Xj7_",
 			"fillStyle": "hachure",
@@ -9257,7 +9261,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9316,8 +9320,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1555798080,
+			"version": 87,
+			"versionNonce": 1213778880,
 			"isDeleted": false,
 			"id": "2UdsJqF0ca40-bgwJjELK",
 			"fillStyle": "hachure",
@@ -9336,7 +9340,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9403,8 +9407,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 278465472,
+			"version": 99,
+			"versionNonce": 523948096,
 			"isDeleted": false,
 			"id": "iuS2_DEJtBH0yYhQRSed5",
 			"fillStyle": "hachure",
@@ -9423,7 +9427,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9538,8 +9542,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 706646080,
+			"version": 86,
+			"versionNonce": 583619520,
 			"isDeleted": false,
 			"id": "XeFz3DnrO98fZpbdX9u-W",
 			"fillStyle": "hachure",
@@ -9558,7 +9562,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9621,8 +9625,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 2030146496,
+			"version": 96,
+			"versionNonce": 1207355456,
 			"isDeleted": false,
 			"id": "KoWKm3zrgV7Rc1eFrd7gS",
 			"fillStyle": "hachure",
@@ -9641,7 +9645,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9744,8 +9748,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1080199232,
+			"version": 83,
+			"versionNonce": 1843977152,
 			"isDeleted": false,
 			"id": "i5TzYtTsEfEUVmFogVbLl",
 			"fillStyle": "hachure",
@@ -9764,7 +9768,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9815,8 +9819,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1394154432,
+			"version": 83,
+			"versionNonce": 1718861888,
 			"isDeleted": false,
 			"id": "5KPRbw9SCo_Hfvmc4t-LB",
 			"fillStyle": "hachure",
@@ -9835,7 +9839,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9886,8 +9890,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1533509696,
+			"version": 91,
+			"versionNonce": 1003971520,
 			"isDeleted": false,
 			"id": "F2pjk6jqPJ5NQaiZJMDzB",
 			"fillStyle": "hachure",
@@ -9906,7 +9910,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9989,8 +9993,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 285189056,
+			"version": 84,
+			"versionNonce": 445757504,
 			"isDeleted": false,
 			"id": "NSCm4lCax-bG8UuTOpe2e",
 			"fillStyle": "hachure",
@@ -10009,7 +10013,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669585,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10064,8 +10068,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 990738496,
+			"version": 102,
+			"versionNonce": 1521806272,
 			"isDeleted": false,
 			"id": "uGP_KcSzOtxZ-qaWPU_bP",
 			"fillStyle": "hachure",
@@ -10084,7 +10088,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10211,8 +10215,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1624583104,
+			"version": 91,
+			"versionNonce": 137408576,
 			"isDeleted": false,
 			"id": "4za0fexvREseP5wQgxXko",
 			"fillStyle": "hachure",
@@ -10231,7 +10235,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10314,8 +10318,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 590639168,
+			"version": 101,
+			"versionNonce": 1419867072,
 			"isDeleted": false,
 			"id": "CnEVBap7yhCsI08vtHbrg",
 			"fillStyle": "hachure",
@@ -10334,7 +10338,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10457,8 +10461,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 750367680,
+			"version": 103,
+			"versionNonce": 1462806592,
 			"isDeleted": false,
 			"id": "Oa5vOhkg0BGuKh3LAPpmQ",
 			"fillStyle": "hachure",
@@ -10477,7 +10481,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10608,8 +10612,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1539074112,
+			"version": 86,
+			"versionNonce": 1874656192,
 			"isDeleted": false,
 			"id": "6f6wdHRrn3u1zwEWunvQk",
 			"fillStyle": "hachure",
@@ -10628,7 +10632,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10691,8 +10695,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 449657792,
+			"version": 84,
+			"versionNonce": 863084608,
 			"isDeleted": false,
 			"id": "ezzQpoN4XSkYd-v1Bs24x",
 			"fillStyle": "hachure",
@@ -10711,7 +10715,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10766,8 +10770,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 814047296,
+			"version": 86,
+			"versionNonce": 774341568,
 			"isDeleted": false,
 			"id": "wq5X0oRp3bZGINnFUROAK",
 			"fillStyle": "hachure",
@@ -10786,7 +10790,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10849,8 +10853,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 221234112,
+			"version": 84,
+			"versionNonce": 1288935488,
 			"isDeleted": false,
 			"id": "LvnxzHNQH8WuDutDWRwXl",
 			"fillStyle": "hachure",
@@ -10869,7 +10873,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10924,8 +10928,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1903122496,
+			"version": 83,
+			"versionNonce": 1308691392,
 			"isDeleted": false,
 			"id": "Mm03u-x7XSiecP4KqfAdp",
 			"fillStyle": "hachure",
@@ -10944,7 +10948,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10995,8 +10999,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 570510272,
+			"version": 83,
+			"versionNonce": 1463193664,
 			"isDeleted": false,
 			"id": "w9WSrNK6TgEvpgtKeWg8H",
 			"fillStyle": "hachure",
@@ -11015,7 +11019,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11066,8 +11070,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1918521408,
+			"version": 85,
+			"versionNonce": 1231655872,
 			"isDeleted": false,
 			"id": "Mf3hprq3kE513Ig4WM6z4",
 			"fillStyle": "hachure",
@@ -11086,7 +11090,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11145,8 +11149,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 862049216,
+			"version": 84,
+			"versionNonce": 175802432,
 			"isDeleted": false,
 			"id": "VkIpwkTpw3L-4l1ssHRth",
 			"fillStyle": "hachure",
@@ -11165,7 +11169,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11220,8 +11224,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 187058240,
+			"version": 82,
+			"versionNonce": 1451301824,
 			"isDeleted": false,
 			"id": "jQLfPayaUPqxBEI8dmUHZ",
 			"fillStyle": "hachure",
@@ -11240,7 +11244,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11287,8 +11291,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1467046848,
+			"version": 90,
+			"versionNonce": 578781248,
 			"isDeleted": false,
 			"id": "yktixdl2mliaEd-vNEqVI",
 			"fillStyle": "hachure",
@@ -11307,7 +11311,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11386,8 +11390,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 397623360,
+			"version": 84,
+			"versionNonce": 1734845376,
 			"isDeleted": false,
 			"id": "YCU_Qes3Sbyz-McDXL_oT",
 			"fillStyle": "hachure",
@@ -11406,7 +11410,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11461,8 +11465,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1615848384,
+			"version": 85,
+			"versionNonce": 1596291136,
 			"isDeleted": false,
 			"id": "U3dyNsh321TOnlba1ybB1",
 			"fillStyle": "hachure",
@@ -11481,7 +11485,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11540,8 +11544,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 2011248704,
+			"version": 83,
+			"versionNonce": 708651968,
 			"isDeleted": false,
 			"id": "kUoCfSrA8vqf84Fk7uDGZ",
 			"fillStyle": "hachure",
@@ -11560,7 +11564,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11611,8 +11615,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1545432000,
+			"version": 97,
+			"versionNonce": 72118336,
 			"isDeleted": false,
 			"id": "BrAFJFCH8t501fGbp1yYH",
 			"fillStyle": "hachure",
@@ -11631,7 +11635,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11738,8 +11742,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 261107776,
+			"version": 92,
+			"versionNonce": 153203648,
 			"isDeleted": false,
 			"id": "lo7OCA3gMHpvROphcgipk",
 			"fillStyle": "hachure",
@@ -11758,7 +11762,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11845,8 +11849,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 351925184,
+			"version": 90,
+			"versionNonce": 1507092544,
 			"isDeleted": false,
 			"id": "xOBk8j2l6nazgb0pcx1jk",
 			"fillStyle": "hachure",
@@ -11865,7 +11869,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11944,8 +11948,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1184901184,
+			"version": 84,
+			"versionNonce": 708131776,
 			"isDeleted": false,
 			"id": "MjV0OID86UD-ffSRt5ElS",
 			"fillStyle": "hachure",
@@ -11964,7 +11968,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12019,8 +12023,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 285572032,
+			"version": 81,
+			"versionNonce": 731734080,
 			"isDeleted": false,
 			"id": "o3xCve2TidoJjhK_tQQ3h",
 			"fillStyle": "hachure",
@@ -12039,7 +12043,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12082,8 +12086,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 150020160,
+			"version": 82,
+			"versionNonce": 1872217024,
 			"isDeleted": false,
 			"id": "lElco3eY_hjw-WZy9Jwvw",
 			"fillStyle": "hachure",
@@ -12102,7 +12106,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12149,8 +12153,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 308282304,
+			"version": 101,
+			"versionNonce": 1233606720,
 			"isDeleted": false,
 			"id": "mwgsIy6OiQM9i8kox2wAk",
 			"fillStyle": "hachure",
@@ -12169,7 +12173,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12292,8 +12296,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1180899392,
+			"version": 109,
+			"versionNonce": 2003389376,
 			"isDeleted": false,
 			"id": "yhH8Q5IMGxMlUhLJhPCcp",
 			"fillStyle": "hachure",
@@ -12312,7 +12316,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12467,8 +12471,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 388598720,
+			"version": 82,
+			"versionNonce": 124932160,
 			"isDeleted": false,
 			"id": "SxvTtzafJblDuXtyrRTxA",
 			"fillStyle": "hachure",
@@ -12487,7 +12491,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12534,8 +12538,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1926631488,
+			"version": 83,
+			"versionNonce": 466211776,
 			"isDeleted": false,
 			"id": "0eQldX3diijeTZp1tR1I_",
 			"fillStyle": "hachure",
@@ -12554,7 +12558,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12605,8 +12609,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1501696960,
+			"version": 83,
+			"versionNonce": 1027491904,
 			"isDeleted": false,
 			"id": "Q_kzJhEJuIm1lHAsH5VQC",
 			"fillStyle": "hachure",
@@ -12625,7 +12629,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292494,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12676,8 +12680,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 103417920,
+			"version": 101,
+			"versionNonce": 1926847424,
 			"isDeleted": false,
 			"id": "-QZLoaMhWjw2HEDoJS_PD",
 			"fillStyle": "hachure",
@@ -12696,7 +12700,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12819,8 +12823,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1334418368,
+			"version": 83,
+			"versionNonce": 1187725376,
 			"isDeleted": false,
 			"id": "yDf1ECbAUGMhmRrCOcC1k",
 			"fillStyle": "hachure",
@@ -12839,7 +12843,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12890,8 +12894,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 2084503616,
+			"version": 89,
+			"versionNonce": 1320674240,
 			"isDeleted": false,
 			"id": "DQCsSzFcsF7C0PCQ2QhUg",
 			"fillStyle": "hachure",
@@ -12910,7 +12914,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12985,8 +12989,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 727720896,
+			"version": 109,
+			"versionNonce": 66664512,
 			"isDeleted": false,
 			"id": "WLAmrku0Ctm14xo-QZA5_",
 			"fillStyle": "hachure",
@@ -13005,7 +13009,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13160,8 +13164,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1425340480,
+			"version": 83,
+			"versionNonce": 1032154048,
 			"isDeleted": false,
 			"id": "0bucuUJIWwf9g0Rl47u3O",
 			"fillStyle": "hachure",
@@ -13180,7 +13184,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13231,8 +13235,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1529195456,
+			"version": 82,
+			"versionNonce": 1487417408,
 			"isDeleted": false,
 			"id": "9SgEunmHGTJ5rPBpyNNuU",
 			"fillStyle": "hachure",
@@ -13251,7 +13255,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13298,8 +13302,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 338423872,
+			"version": 114,
+			"versionNonce": 157414336,
 			"isDeleted": false,
 			"id": "a1Lo7DJKXUJpn-82z0t9S",
 			"fillStyle": "hachure",
@@ -13318,7 +13322,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13493,8 +13497,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 150614976,
+			"version": 174,
+			"versionNonce": 750266432,
 			"isDeleted": false,
 			"id": "SHaZE2zJCXhGRCogqrnfZ",
 			"fillStyle": "hachure",
@@ -13513,7 +13517,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13940,8 +13944,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1103358016,
+			"version": 104,
+			"versionNonce": 946699200,
 			"isDeleted": false,
 			"id": "6W3k5DOe",
 			"fillStyle": "hachure",
@@ -13960,7 +13964,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -13975,8 +13979,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 452836288,
+			"version": 109,
+			"versionNonce": 1812537408,
 			"isDeleted": false,
 			"id": "zXS0_i3zt4QUEu_7L4yYz",
 			"fillStyle": "hachure",
@@ -13995,7 +13999,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14162,8 +14166,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1771888704,
+			"version": 100,
+			"versionNonce": 214434752,
 			"isDeleted": false,
 			"id": "ML_xsN49gopP_wQUkd2TV",
 			"fillStyle": "hachure",
@@ -14182,7 +14186,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14313,8 +14317,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 860898240,
+			"version": 90,
+			"versionNonce": 108730432,
 			"isDeleted": false,
 			"id": "scvkl3Sh",
 			"fillStyle": "hachure",
@@ -14333,7 +14337,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -14348,8 +14352,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 462870592,
+			"version": 100,
+			"versionNonce": 76647360,
 			"isDeleted": false,
 			"id": "p_Dk3zg9ot9AfC8zMbWiH",
 			"fillStyle": "hachure",
@@ -14368,7 +14372,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14499,8 +14503,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 806472640,
+			"version": 108,
+			"versionNonce": 1877872704,
 			"isDeleted": false,
 			"id": "J0ZEme7XaoHq1ONzsFO7W",
 			"fillStyle": "hachure",
@@ -14519,7 +14523,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14682,8 +14686,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1804718144,
+			"version": 80,
+			"versionNonce": 1508512704,
 			"isDeleted": false,
 			"id": "ZSzXfEXffL_wXRr7jsTbO",
 			"fillStyle": "hachure",
@@ -14702,7 +14706,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14753,8 +14757,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 727864256,
+			"version": 82,
+			"versionNonce": 541198400,
 			"isDeleted": false,
 			"id": "Qz7w6rJJ9CW2l5rogjdWw",
 			"fillStyle": "hachure",
@@ -14773,7 +14777,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14832,8 +14836,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1903020096,
+			"version": 100,
+			"versionNonce": 49388480,
 			"isDeleted": false,
 			"id": "-VFhf9SPBEKfWL__ky7G3",
 			"fillStyle": "hachure",
@@ -14852,7 +14856,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14987,8 +14991,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 2070010816,
+			"version": 107,
+			"versionNonce": 324468800,
 			"isDeleted": false,
 			"id": "faqK2TISCGww9G3HUVH1_",
 			"fillStyle": "hachure",
@@ -15007,7 +15011,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15170,8 +15174,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1225441344,
+			"version": 78,
+			"versionNonce": 835199936,
 			"isDeleted": false,
 			"id": "ZOtp9Kzvo82-6-jQvKPsT",
 			"fillStyle": "hachure",
@@ -15190,7 +15194,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15237,8 +15241,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 842032064,
+			"version": 82,
+			"versionNonce": 1225586752,
 			"isDeleted": false,
 			"id": "ie0bGKb4U-15XoQCrbpn6",
 			"fillStyle": "hachure",
@@ -15257,7 +15261,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15320,8 +15324,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 306755648,
+			"version": 102,
+			"versionNonce": 1418570688,
 			"isDeleted": false,
 			"id": "P3pBcD-z1awOh3KVIYesD",
 			"fillStyle": "hachure",
@@ -15340,7 +15344,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15483,8 +15487,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 502131648,
+			"version": 99,
+			"versionNonce": 1162080320,
 			"isDeleted": false,
 			"id": "VhvEBJHorb6qXeR2EvrdD",
 			"fillStyle": "hachure",
@@ -15503,7 +15507,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15634,8 +15638,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1896329280,
+			"version": 103,
+			"versionNonce": 358757312,
 			"isDeleted": false,
 			"id": "PSBjDgJ0jrnMsWpKd1qfV",
 			"fillStyle": "hachure",
@@ -15654,7 +15658,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15817,8 +15821,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1220178880,
+			"version": 84,
+			"versionNonce": 266070080,
 			"isDeleted": false,
 			"id": "bVEUeqrm8mm8w3L0NTA_D",
 			"fillStyle": "hachure",
@@ -15837,7 +15841,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15924,8 +15928,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 220702784,
+			"version": 76,
+			"versionNonce": 1516616640,
 			"isDeleted": false,
 			"id": "ezh7xAZj3D_SkXOJhfN6i",
 			"fillStyle": "hachure",
@@ -15944,7 +15948,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15999,8 +16003,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2025192384,
+			"version": 77,
+			"versionNonce": 884269120,
 			"isDeleted": false,
 			"id": "Km_-ANinx1SBjRgoGA5gE",
 			"fillStyle": "hachure",
@@ -16019,7 +16023,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16078,8 +16082,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 310943808,
+			"version": 75,
+			"versionNonce": 1169703872,
 			"isDeleted": false,
 			"id": "LtWblvhYbTFYGk85irIMk",
 			"fillStyle": "hachure",
@@ -16098,7 +16102,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16149,8 +16153,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 805340096,
+			"version": 99,
+			"versionNonce": 1135532096,
 			"isDeleted": false,
 			"id": "j8HyvpBbabLtD5wXxx7jJ",
 			"fillStyle": "hachure",
@@ -16169,7 +16173,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16316,8 +16320,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 822777920,
+			"version": 104,
+			"versionNonce": 897174464,
 			"isDeleted": false,
 			"id": "iVPpUp4XUOsSwqp5swBjX",
 			"fillStyle": "hachure",
@@ -16336,7 +16340,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16503,8 +16507,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 750390208,
+			"version": 103,
+			"versionNonce": 1353306176,
 			"isDeleted": false,
 			"id": "h7ltwegR-JPEAw_bB8yra",
 			"fillStyle": "hachure",
@@ -16523,7 +16527,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16686,8 +16690,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 479039552,
+			"version": 78,
+			"versionNonce": 1137333184,
 			"isDeleted": false,
 			"id": "PMl2mjk2PqnU1udvRCRqY",
 			"fillStyle": "hachure",
@@ -16706,7 +16710,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16769,8 +16773,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1761776576,
+			"version": 81,
+			"versionNonce": 1938147392,
 			"isDeleted": false,
 			"id": "kmvI-IUjgG8dMHS5qxvzM",
 			"fillStyle": "hachure",
@@ -16789,7 +16793,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16864,8 +16868,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 217155648,
+			"version": 77,
+			"versionNonce": 1187634112,
 			"isDeleted": false,
 			"id": "u8uYr1EmLogA9bk29qzoL",
 			"fillStyle": "hachure",
@@ -16884,7 +16888,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16943,8 +16947,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 452598720,
+			"version": 97,
+			"versionNonce": 1210236992,
 			"isDeleted": false,
 			"id": "QZto_5gPp0LF58vMPXHcV",
 			"fillStyle": "hachure",
@@ -16963,7 +16967,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17102,8 +17106,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1041662016,
+			"version": 89,
+			"versionNonce": 1352164288,
 			"isDeleted": false,
 			"id": "8q5xskwccn2AFSo9EP9dT",
 			"fillStyle": "hachure",
@@ -17122,7 +17126,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17229,8 +17233,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 885040064,
+			"version": 91,
+			"versionNonce": 1851832384,
 			"isDeleted": false,
 			"id": "rgp-ldPFlvy1oi7X_BcZA",
 			"fillStyle": "hachure",
@@ -17249,7 +17253,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17364,8 +17368,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1876719680,
+			"version": 96,
+			"versionNonce": 794160064,
 			"isDeleted": false,
 			"id": "IY_UJFshb0iLVaWsdc3lJ",
 			"fillStyle": "hachure",
@@ -17384,7 +17388,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17519,8 +17523,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1685466048,
+			"version": 81,
+			"versionNonce": 169848896,
 			"isDeleted": false,
 			"id": "n4mhisYaEJJ99FDniKDv9",
 			"fillStyle": "hachure",
@@ -17539,7 +17543,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17614,8 +17618,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1713598528,
+			"version": 79,
+			"versionNonce": 1830974400,
 			"isDeleted": false,
 			"id": "p-gOpIqsosXW8sQrOsu9n",
 			"fillStyle": "hachure",
@@ -17634,7 +17638,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17701,8 +17705,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 339391424,
+			"version": 76,
+			"versionNonce": 1128245312,
 			"isDeleted": false,
 			"id": "F93ORkAZ_8uwTaKsh4bGc",
 			"fillStyle": "hachure",
@@ -17721,7 +17725,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17776,8 +17780,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1758160960,
+			"version": 92,
+			"versionNonce": 1344142272,
 			"isDeleted": false,
 			"id": "kyEeTrvQac2U5sn8TNzSk",
 			"fillStyle": "hachure",
@@ -17796,7 +17800,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17915,8 +17919,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1781414848,
+			"version": 109,
+			"versionNonce": 1168154688,
 			"isDeleted": false,
 			"id": "zZka5crm2zvM81xIlpgzA",
 			"fillStyle": "hachure",
@@ -17935,7 +17939,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18122,8 +18126,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1135894592,
+			"version": 104,
+			"versionNonce": 1516798912,
 			"isDeleted": false,
 			"id": "bJZtyL_1Ptp_XnU6HioEk",
 			"fillStyle": "hachure",
@@ -18142,7 +18146,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18309,8 +18313,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1215349696,
+			"version": 77,
+			"versionNonce": 1092786240,
 			"isDeleted": false,
 			"id": "bxkOfgECOPujrO64x9BWC",
 			"fillStyle": "hachure",
@@ -18329,7 +18333,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18388,8 +18392,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1186879552,
+			"version": 79,
+			"versionNonce": 1243745216,
 			"isDeleted": false,
 			"id": "tcHjs-vuEgNjnF4-LEYGl",
 			"fillStyle": "hachure",
@@ -18408,7 +18412,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18475,8 +18479,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1294093248,
+			"version": 98,
+			"versionNonce": 1772458048,
 			"isDeleted": false,
 			"id": "9AKRHjXdnRPNLBo6zavqW",
 			"fillStyle": "hachure",
@@ -18495,7 +18499,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18638,8 +18642,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1170821184,
+			"version": 100,
+			"versionNonce": 426415040,
 			"isDeleted": false,
 			"id": "KUeM2mne5RSt4PVx_IPj_",
 			"fillStyle": "hachure",
@@ -18658,7 +18662,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18809,8 +18813,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1382208448,
+			"version": 90,
+			"versionNonce": 1997113408,
 			"isDeleted": false,
 			"id": "llxpbZRMU-x7doyCPVcvj",
 			"fillStyle": "hachure",
@@ -18829,7 +18833,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18940,8 +18944,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 414533696,
+			"version": 73,
+			"versionNonce": 2120358848,
 			"isDeleted": false,
 			"id": "iTWBaGUwoauTflG3MuK1h",
 			"fillStyle": "hachure",
@@ -18960,7 +18964,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292495,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19003,8 +19007,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1850891200,
+			"version": 75,
+			"versionNonce": 623804480,
 			"isDeleted": false,
 			"id": "1_Myk7-60AQxuVEaFpYK6",
 			"fillStyle": "hachure",
@@ -19023,7 +19027,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19074,8 +19078,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 459423808,
+			"version": 92,
+			"versionNonce": 1797825472,
 			"isDeleted": false,
 			"id": "TXcoEhLzfS_mH_o-6WCU6",
 			"fillStyle": "hachure",
@@ -19094,7 +19098,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19213,8 +19217,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 1930486720,
+			"version": 199,
+			"versionNonce": 871659584,
 			"isDeleted": false,
 			"id": "RVrdCWcJvHCM8_e_3yTub",
 			"fillStyle": "hachure",
@@ -19233,7 +19237,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19780,8 +19784,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 766523456,
+			"version": 101,
+			"versionNonce": 232664000,
 			"isDeleted": false,
 			"id": "7Zp1hrL3",
 			"fillStyle": "hachure",
@@ -19800,7 +19804,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -19815,8 +19819,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "image",
-			"version": 263,
-			"versionNonce": 1857973184,
+			"version": 273,
+			"versionNonce": 1731948608,
 			"isDeleted": false,
 			"id": "cnH-Wd2ImwpttYNWCc8j3",
 			"fillStyle": "hachure",
@@ -19835,7 +19839,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19847,8 +19851,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "image",
-			"version": 165,
-			"versionNonce": 863973440,
+			"version": 175,
+			"versionNonce": 1352840128,
 			"isDeleted": false,
 			"id": "JYnHMfXGriG3MwA0-G0Bh",
 			"fillStyle": "hachure",
@@ -19867,7 +19871,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19879,8 +19883,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "image",
-			"version": 120,
-			"versionNonce": 729478080,
+			"version": 130,
+			"versionNonce": 115566656,
 			"isDeleted": false,
 			"id": "KOl7sP3T4rD4XlBXkCIaC",
 			"fillStyle": "hachure",
@@ -19899,7 +19903,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19911,8 +19915,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 347023424,
+			"version": 93,
+			"versionNonce": 1503017920,
 			"isDeleted": false,
 			"id": "OPQs2vUKVW7YBxygNBImS",
 			"fillStyle": "hachure",
@@ -19931,7 +19935,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20054,8 +20058,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 795245504,
+			"version": 76,
+			"versionNonce": 1590452288,
 			"isDeleted": false,
 			"id": "UkvKXclHgujCYD2IBp7Ol",
 			"fillStyle": "hachure",
@@ -20074,7 +20078,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20129,8 +20133,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1025515584,
+			"version": 75,
+			"versionNonce": 181978048,
 			"isDeleted": false,
 			"id": "lKBSynuI-KW-w11DpH7X6",
 			"fillStyle": "hachure",
@@ -20149,7 +20153,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20200,8 +20204,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1017185216,
+			"version": 78,
+			"versionNonce": 1054234688,
 			"isDeleted": false,
 			"id": "jx8dOFpr9PsE9AtiQrTvk",
 			"fillStyle": "hachure",
@@ -20220,7 +20224,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20283,8 +20287,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 481433664,
+			"version": 105,
+			"versionNonce": 42617792,
 			"isDeleted": false,
 			"id": "XgYBA5dS-I2gzH2sQUX5G",
 			"fillStyle": "hachure",
@@ -20303,7 +20307,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20474,8 +20478,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1363839936,
+			"version": 85,
+			"versionNonce": 2061586496,
 			"isDeleted": false,
 			"id": "xgmmAHh-QsFLfU3RMgDlg",
 			"fillStyle": "hachure",
@@ -20494,7 +20498,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20585,8 +20589,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 658837568,
+			"version": 75,
+			"versionNonce": 449500096,
 			"isDeleted": false,
 			"id": "9yT8eIafxuKxe0ln5fl5H",
 			"fillStyle": "hachure",
@@ -20605,7 +20609,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20656,8 +20660,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 662901696,
+			"version": 74,
+			"versionNonce": 1791838272,
 			"isDeleted": false,
 			"id": "D9RBM29zBTiHoJSLXjhny",
 			"fillStyle": "hachure",
@@ -20676,7 +20680,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20723,8 +20727,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1421412416,
+			"version": 96,
+			"versionNonce": 1773820864,
 			"isDeleted": false,
 			"id": "eAx5No45v8Uj-NxIlfUYL",
 			"fillStyle": "hachure",
@@ -20743,7 +20747,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20878,8 +20882,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 896179136,
+			"version": 98,
+			"versionNonce": 1786396736,
 			"isDeleted": false,
 			"id": "H7Ydzns2JwQs8cOhbhSTT",
 			"fillStyle": "hachure",
@@ -20898,7 +20902,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21041,8 +21045,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 552468544,
+			"version": 81,
+			"versionNonce": 1098441664,
 			"isDeleted": false,
 			"id": "OzSQ2MV3wiARRCBcMrSv4",
 			"fillStyle": "hachure",
@@ -21061,7 +21065,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21132,8 +21136,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 757146560,
+			"version": 96,
+			"versionNonce": 1506293824,
 			"isDeleted": false,
 			"id": "Wje1nIpFG-cyR-YBcgan9",
 			"fillStyle": "hachure",
@@ -21152,7 +21156,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21283,8 +21287,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 197392448,
+			"version": 74,
+			"versionNonce": 807824320,
 			"isDeleted": false,
 			"id": "fhoHeOZ3LhzQ7S4IwdUSl",
 			"fillStyle": "hachure",
@@ -21303,7 +21307,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21346,8 +21350,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 2093394880,
+			"version": 75,
+			"versionNonce": 479670336,
 			"isDeleted": false,
 			"id": "fOD6yo5khLYN9kwcipEWm",
 			"fillStyle": "hachure",
@@ -21366,7 +21370,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21413,8 +21417,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 421195840,
+			"version": 82,
+			"versionNonce": 2145579968,
 			"isDeleted": false,
 			"id": "RjGQ1EYg9A0PJXuPDrrQT",
 			"fillStyle": "hachure",
@@ -21433,7 +21437,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21508,8 +21512,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1316697024,
+			"version": 84,
+			"versionNonce": 449259584,
 			"isDeleted": false,
 			"id": "gbsEQy6pxBIPpc8un2iMX",
 			"fillStyle": "hachure",
@@ -21528,7 +21532,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21611,8 +21615,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1355999296,
+			"version": 92,
+			"versionNonce": 919501760,
 			"isDeleted": false,
 			"id": "u47lmZJ_ol_EUD_2xMtsy",
 			"fillStyle": "hachure",
@@ -21631,7 +21635,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21774,8 +21778,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 140426176,
+			"version": 70,
+			"versionNonce": 1077420096,
 			"isDeleted": false,
 			"id": "FMlCSnadtw8jEwamN75sQ",
 			"fillStyle": "hachure",
@@ -21794,7 +21798,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21849,8 +21853,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1053548608,
+			"version": 99,
+			"versionNonce": 386466752,
 			"isDeleted": false,
 			"id": "FCZEVJd_3YoNepmfKXAY7",
 			"fillStyle": "hachure",
@@ -21869,7 +21873,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22044,8 +22048,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1284588480,
+			"version": 85,
+			"versionNonce": 2093619264,
 			"isDeleted": false,
 			"id": "ysATy_k_zcjBz8s8sQJmn",
 			"fillStyle": "hachure",
@@ -22064,7 +22068,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22183,8 +22187,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1927665728,
+			"version": 83,
+			"versionNonce": 515017664,
 			"isDeleted": false,
 			"id": "7b9i1y8McZvyawgXWFyJf",
 			"fillStyle": "hachure",
@@ -22203,7 +22207,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22314,8 +22318,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 2033372096,
+			"version": 64,
+			"versionNonce": 1146949696,
 			"isDeleted": false,
 			"id": "sa6Q5-3bd8dZS9PCx3kKK",
 			"fillStyle": "hachure",
@@ -22334,7 +22338,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22417,8 +22421,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 16830528,
+			"version": 86,
+			"versionNonce": 132846528,
 			"isDeleted": false,
 			"id": "0MoFruPU2UGI6TbUETuri",
 			"fillStyle": "hachure",
@@ -22437,7 +22441,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22608,8 +22612,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 677598144,
+			"version": 69,
+			"versionNonce": 248580160,
 			"isDeleted": false,
 			"id": "x7LdOnTFLHPJ-tvWcmToj",
 			"fillStyle": "hachure",
@@ -22628,7 +22632,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22743,8 +22747,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 16566336,
+			"version": 68,
+			"versionNonce": 1221761984,
 			"isDeleted": false,
 			"id": "U7ay0mkEq3VQbwG9-yo9G",
 			"fillStyle": "hachure",
@@ -22763,7 +22767,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22874,8 +22878,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 809688000,
+			"version": 51,
+			"versionNonce": 1476788288,
 			"isDeleted": false,
 			"id": "iw3dJ4TwcGrqOQy_pbo9d",
 			"fillStyle": "hachure",
@@ -22894,7 +22898,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22937,8 +22941,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 247054400,
+			"version": 52,
+			"versionNonce": 327754688,
 			"isDeleted": false,
 			"id": "8kEE_tBEU05fQFCRH92MM",
 			"fillStyle": "hachure",
@@ -22957,7 +22961,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23004,8 +23008,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 586245056,
+			"version": 62,
+			"versionNonce": 534509632,
 			"isDeleted": false,
 			"id": "puppZRcpp_G-WN5RS6NJU",
 			"fillStyle": "hachure",
@@ -23024,7 +23028,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23111,8 +23115,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1243068480,
+			"version": 85,
+			"versionNonce": 1445899200,
 			"isDeleted": false,
 			"id": "VQI5O7MORkZKGI2JiIOJM",
 			"fillStyle": "hachure",
@@ -23131,7 +23135,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23310,8 +23314,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1317989312,
+			"version": 72,
+			"versionNonce": 1781723200,
 			"isDeleted": false,
 			"id": "5NPomZE8epQr24-XluV56",
 			"fillStyle": "hachure",
@@ -23330,7 +23334,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23457,8 +23461,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1459007552,
+			"version": 53,
+			"versionNonce": 987968448,
 			"isDeleted": false,
 			"id": "ZOSAegPn88K8t_Mb729hH",
 			"fillStyle": "hachure",
@@ -23477,7 +23481,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23528,8 +23532,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1027306432,
+			"version": 77,
+			"versionNonce": 1055582272,
 			"isDeleted": false,
 			"id": "_FuH_NjpFFd8xYiKcpVHJ",
 			"fillStyle": "hachure",
@@ -23548,7 +23552,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23695,8 +23699,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1563863104,
+			"version": 52,
+			"versionNonce": 667335616,
 			"isDeleted": false,
 			"id": "DmnKzTylvEMeIneveLTmU",
 			"fillStyle": "hachure",
@@ -23715,7 +23719,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23778,8 +23782,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 890698688,
+			"version": 51,
+			"versionNonce": 702799936,
 			"isDeleted": false,
 			"id": "Oe220TbuO-w8f0qrRLqCC",
 			"fillStyle": "hachure",
@@ -23798,7 +23802,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23857,8 +23861,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 146251840,
+			"version": 62,
+			"versionNonce": 1056523200,
 			"isDeleted": false,
 			"id": "oQanBBcGSe3sCOR0fjbJr",
 			"fillStyle": "hachure",
@@ -23877,7 +23881,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23980,8 +23984,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 943817664,
+			"version": 49,
+			"versionNonce": 989714496,
 			"isDeleted": false,
 			"id": "i0htAFkYTt3B9MVOxSVsm",
 			"fillStyle": "hachure",
@@ -24000,7 +24004,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24051,8 +24055,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 156866624,
+			"version": 48,
+			"versionNonce": 1587203008,
 			"isDeleted": false,
 			"id": "RiPaMjiE1Hy63kb60PwyQ",
 			"fillStyle": "hachure",
@@ -24071,7 +24075,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24118,8 +24122,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 81464256,
+			"version": 79,
+			"versionNonce": 102289472,
 			"isDeleted": false,
 			"id": "OZyPDdE7pdNolagB3r0px",
 			"fillStyle": "hachure",
@@ -24138,7 +24142,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669587,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24309,8 +24313,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 318541888,
+			"version": 49,
+			"versionNonce": 550196160,
 			"isDeleted": false,
 			"id": "fOOXQ9uP5dmN4Y4w_M_LJ",
 			"fillStyle": "hachure",
@@ -24329,7 +24333,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24380,8 +24384,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 352555968,
+			"version": 48,
+			"versionNonce": 588564544,
 			"isDeleted": false,
 			"id": "3NInEYM3_Eq8cT7jOODX4",
 			"fillStyle": "hachure",
@@ -24400,7 +24404,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24451,8 +24455,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1568704576,
+			"version": 54,
+			"versionNonce": 1537924032,
 			"isDeleted": false,
 			"id": "2q3mRufhWihTjWieC_AlU",
 			"fillStyle": "hachure",
@@ -24471,7 +24475,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24546,8 +24550,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 517675968,
+			"version": 71,
+			"versionNonce": 768720960,
 			"isDeleted": false,
 			"id": "Am9NBlYhx3GUhPDki8Quj",
 			"fillStyle": "hachure",
@@ -24566,7 +24570,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24709,8 +24713,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 616923200,
+			"version": 53,
+			"versionNonce": 559506368,
 			"isDeleted": false,
 			"id": "xVBr0bwsEDudLNTVu1Ttb",
 			"fillStyle": "hachure",
@@ -24729,7 +24733,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24800,8 +24804,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 344040384,
+			"version": 72,
+			"versionNonce": 1177532480,
 			"isDeleted": false,
 			"id": "dCejbw-kTPqHK-E8G-1VB",
 			"fillStyle": "hachure",
@@ -24820,7 +24824,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24967,8 +24971,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 682326080,
+			"version": 48,
+			"versionNonce": 1073146816,
 			"isDeleted": false,
 			"id": "bh32mZUBvdyebgRzNQ1Ct",
 			"fillStyle": "hachure",
@@ -24987,7 +24991,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25038,8 +25042,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 605498304,
+			"version": 46,
+			"versionNonce": 269398080,
 			"isDeleted": false,
 			"id": "ZaTJqRZxNiFY7gXrKxQ2B",
 			"fillStyle": "hachure",
@@ -25058,7 +25062,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25101,8 +25105,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 756183104,
+			"version": 71,
+			"versionNonce": 1101231040,
 			"isDeleted": false,
 			"id": "sGCBSD6wtr-viQvR_Miau",
 			"fillStyle": "hachure",
@@ -25121,7 +25125,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25264,8 +25268,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 935048128,
+			"version": 47,
+			"versionNonce": 860792896,
 			"isDeleted": false,
 			"id": "xawWQFBEOt1g0dUw8Ohu5",
 			"fillStyle": "hachure",
@@ -25284,7 +25288,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25331,8 +25335,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 2044356672,
+			"version": 47,
+			"versionNonce": 1820261312,
 			"isDeleted": false,
 			"id": "vquDZ9aYvj2qYADE0vsPu",
 			"fillStyle": "hachure",
@@ -25351,7 +25355,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25398,8 +25402,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1972321216,
+			"version": 51,
+			"versionNonce": 1540333632,
 			"isDeleted": false,
 			"id": "TOnw0GWWdX9tZvww07e0r",
 			"fillStyle": "hachure",
@@ -25418,7 +25422,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25485,8 +25489,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1524850752,
+			"version": 48,
+			"versionNonce": 1118405568,
 			"isDeleted": false,
 			"id": "-PnaEtemn9xFcmJi-cYI9",
 			"fillStyle": "hachure",
@@ -25505,7 +25509,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25560,8 +25564,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1068614592,
+			"version": 58,
+			"versionNonce": 963745856,
 			"isDeleted": false,
 			"id": "QW-rosHAsBgw8arIzeyR6",
 			"fillStyle": "hachure",
@@ -25580,7 +25584,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25675,8 +25679,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 537745472,
+			"version": 46,
+			"versionNonce": 37948352,
 			"isDeleted": false,
 			"id": "s4x79olMOb72X81hMTb0p",
 			"fillStyle": "hachure",
@@ -25695,7 +25699,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25742,8 +25746,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 876825536,
+			"version": 55,
+			"versionNonce": 1347648,
 			"isDeleted": false,
 			"id": "1r71Onf63K4nKKXM7IPE_",
 			"fillStyle": "hachure",
@@ -25762,7 +25766,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292496,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25845,8 +25849,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 490229824,
+			"version": 55,
+			"versionNonce": 627807168,
 			"isDeleted": false,
 			"id": "ySC-0J4JR6ECN5hddVe-2",
 			"fillStyle": "hachure",
@@ -25865,7 +25869,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25948,8 +25952,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 761516992,
+			"version": 47,
+			"versionNonce": 1738049600,
 			"isDeleted": false,
 			"id": "PdDZcX1lZfyQIbOj6dB6o",
 			"fillStyle": "hachure",
@@ -25968,7 +25972,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26019,8 +26023,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 709118016,
+			"version": 49,
+			"versionNonce": 1648565184,
 			"isDeleted": false,
 			"id": "Ate6ZMBiMtHSzCUTEjuHQ",
 			"fillStyle": "hachure",
@@ -26039,7 +26043,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26098,8 +26102,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1093884864,
+			"version": 61,
+			"versionNonce": 735936576,
 			"isDeleted": false,
 			"id": "OQvwGzDJVM8Pb2Ok4X2rX",
 			"fillStyle": "hachure",
@@ -26118,7 +26122,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26225,8 +26229,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 588333120,
+			"version": 79,
+			"versionNonce": 719954880,
 			"isDeleted": false,
 			"id": "A7KQBlq3-1erIa1e9BKUT",
 			"fillStyle": "hachure",
@@ -26245,7 +26249,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26432,8 +26436,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1104274368,
+			"version": 43,
+			"versionNonce": 214136896,
 			"isDeleted": false,
 			"id": "fQHHrh7MLRnPD-0Sl4Xtb",
 			"fillStyle": "hachure",
@@ -26452,7 +26456,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26495,8 +26499,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1736390720,
+			"version": 44,
+			"versionNonce": 763308992,
 			"isDeleted": false,
 			"id": "xnzLGXE2LPSDC5vr2XZ8M",
 			"fillStyle": "hachure",
@@ -26515,7 +26519,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26562,8 +26566,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1029663680,
+			"version": 67,
+			"versionNonce": 1311404096,
 			"isDeleted": false,
 			"id": "vfYPqHvuSrBxBtIwHupNJ",
 			"fillStyle": "hachure",
@@ -26582,7 +26586,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26721,8 +26725,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1533947968,
+			"version": 55,
+			"versionNonce": 1411625920,
 			"isDeleted": false,
 			"id": "Zu_sbs6CcNkhW-SZNn7Hw",
 			"fillStyle": "hachure",
@@ -26741,7 +26745,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26832,8 +26836,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 2113663936,
+			"version": 45,
+			"versionNonce": 938633280,
 			"isDeleted": false,
 			"id": "3BkwB8Lvots0ZWlt1MKLd",
 			"fillStyle": "hachure",
@@ -26852,7 +26856,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26903,8 +26907,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1723738176,
+			"version": 45,
+			"versionNonce": 1157053376,
 			"isDeleted": false,
 			"id": "pCaSOHERVD-SjY7-O1kVP",
 			"fillStyle": "hachure",
@@ -26923,7 +26927,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26974,8 +26978,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 164068288,
+			"version": 60,
+			"versionNonce": 368795712,
 			"isDeleted": false,
 			"id": "3HBZrD_fs2UraO7BROoud",
 			"fillStyle": "hachure",
@@ -26994,7 +26998,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27109,8 +27113,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1968119872,
+			"version": 61,
+			"versionNonce": 1645855680,
 			"isDeleted": false,
 			"id": "X4UeuB6ZL135lYkm0wOn-",
 			"fillStyle": "hachure",
@@ -27129,7 +27133,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27248,8 +27252,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 585237440,
+			"version": 47,
+			"versionNonce": 941971520,
 			"isDeleted": false,
 			"id": "zpiZWIfEiUOnZaFIixOy1",
 			"fillStyle": "hachure",
@@ -27268,7 +27272,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27331,8 +27335,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1996560448,
+			"version": 62,
+			"versionNonce": 1235962816,
 			"isDeleted": false,
 			"id": "WoEDaiXi-kNjYVN_NEPj6",
 			"fillStyle": "hachure",
@@ -27351,7 +27355,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27474,8 +27478,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1198230464,
+			"version": 55,
+			"versionNonce": 1917866048,
 			"isDeleted": false,
 			"id": "rhxg3hV2iSKZtv6zuDpu6",
 			"fillStyle": "hachure",
@@ -27494,7 +27498,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27589,8 +27593,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1605636160,
+			"version": 44,
+			"versionNonce": 1439421376,
 			"isDeleted": false,
 			"id": "6-trfmBpb-w6rje9C7euj",
 			"fillStyle": "hachure",
@@ -27609,7 +27613,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27660,8 +27664,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 830739392,
+			"version": 45,
+			"versionNonce": 475809856,
 			"isDeleted": false,
 			"id": "fvLvMo4aJOtkAHlBRuv4V",
 			"fillStyle": "hachure",
@@ -27680,7 +27684,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27735,8 +27739,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 659032128,
+			"version": 62,
+			"versionNonce": 479943616,
 			"isDeleted": false,
 			"id": "MptBdwm4tQR_OCiC929PX",
 			"fillStyle": "hachure",
@@ -27755,7 +27759,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27878,8 +27882,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1464572864,
+			"version": 68,
+			"versionNonce": 304693312,
 			"isDeleted": false,
 			"id": "k49prQVCWBcL7DgFPyQ_W",
 			"fillStyle": "hachure",
@@ -27898,7 +27902,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28045,8 +28049,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1235025984,
+			"version": 59,
+			"versionNonce": 1882842048,
 			"isDeleted": false,
 			"id": "BRStZ-XIVjvruNhVLDjjM",
 			"fillStyle": "hachure",
@@ -28065,7 +28069,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28192,8 +28196,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1793205184,
+			"version": 42,
+			"versionNonce": 865548352,
 			"isDeleted": false,
 			"id": "S7VRv_HV_j39csMfhZboI",
 			"fillStyle": "hachure",
@@ -28212,7 +28216,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28271,8 +28275,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1184036928,
+			"version": 52,
+			"versionNonce": 1590127552,
 			"isDeleted": false,
 			"id": "tGJ_86n1cAFIC-IbQhFbk",
 			"fillStyle": "hachure",
@@ -28291,7 +28295,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28390,8 +28394,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1516743616,
+			"version": 39,
+			"versionNonce": 1686515776,
 			"isDeleted": false,
 			"id": "keKmazQ7kmf0GOqiBth02",
 			"fillStyle": "hachure",
@@ -28410,7 +28414,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28457,8 +28461,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 571076672,
+			"version": 39,
+			"versionNonce": 845411264,
 			"isDeleted": false,
 			"id": "Ebd80DOM3ma02wuzcIzBN",
 			"fillStyle": "hachure",
@@ -28477,7 +28481,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28524,8 +28528,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1341928384,
+			"version": 63,
+			"versionNonce": 215361600,
 			"isDeleted": false,
 			"id": "DHD8AZgT9AuILNhmUm-B3",
 			"fillStyle": "hachure",
@@ -28544,7 +28548,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28687,8 +28691,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1675749440,
+			"version": 44,
+			"versionNonce": 1898937280,
 			"isDeleted": false,
 			"id": "tdkeCbyiqqrZ2Txo0oRMu",
 			"fillStyle": "hachure",
@@ -28707,7 +28711,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28774,8 +28778,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 834649024,
+			"version": 58,
+			"versionNonce": 409411648,
 			"isDeleted": false,
 			"id": "wwZn8U_hLWpU45yCcf9Zu",
 			"fillStyle": "hachure",
@@ -28794,7 +28798,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28917,8 +28921,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 402317376,
+			"version": 40,
+			"versionNonce": 1565131712,
 			"isDeleted": false,
 			"id": "Xrj_etdfOizbs392Q1jWi",
 			"fillStyle": "hachure",
@@ -28937,7 +28941,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28988,8 +28992,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 567428032,
+			"version": 39,
+			"versionNonce": 1998133312,
 			"isDeleted": false,
 			"id": "ORD_c60AeQh3F8JYTF_t3",
 			"fillStyle": "hachure",
@@ -29008,7 +29012,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29055,8 +29059,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1312086080,
+			"version": 56,
+			"versionNonce": 1960020928,
 			"isDeleted": false,
 			"id": "4uXHJBUwA0Nbu9cZhQpjV",
 			"fillStyle": "hachure",
@@ -29075,7 +29079,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29190,8 +29194,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 2119420864,
+			"version": 41,
+			"versionNonce": 483135552,
 			"isDeleted": false,
 			"id": "8rhhso5dtvmlx1MALFnR9",
 			"fillStyle": "hachure",
@@ -29210,7 +29214,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29265,8 +29269,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 443535424,
+			"version": 51,
+			"versionNonce": 1911296960,
 			"isDeleted": false,
 			"id": "wSneMd4GJyF_XEQ2mgxte",
 			"fillStyle": "hachure",
@@ -29285,7 +29289,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29380,8 +29384,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1633964992,
+			"version": 39,
+			"versionNonce": 23070784,
 			"isDeleted": false,
 			"id": "rbu58hFB7xslGxDFHaWHw",
 			"fillStyle": "hachure",
@@ -29400,7 +29404,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29447,8 +29451,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 344705088,
+			"version": 38,
+			"versionNonce": 1253284800,
 			"isDeleted": false,
 			"id": "0SKMn1Uvn81c2_OMOKFO6",
 			"fillStyle": "hachure",
@@ -29467,7 +29471,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29510,8 +29514,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 555998144,
+			"version": 44,
+			"versionNonce": 548732992,
 			"isDeleted": false,
 			"id": "gES70n_EMYPKw0Vbu4UXx",
 			"fillStyle": "hachure",
@@ -29530,7 +29534,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29597,8 +29601,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "freedraw",
-			"version": 136,
-			"versionNonce": 1483259968,
+			"version": 146,
+			"versionNonce": 826942400,
 			"isDeleted": false,
 			"id": "8g7xya8AzGpc4aE-ZTnSR",
 			"fillStyle": "hachure",
@@ -29617,7 +29621,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30092,8 +30096,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1337091008,
+			"version": 73,
+			"versionNonce": 2058025024,
 			"isDeleted": false,
 			"id": "hOtBQhHe",
 			"fillStyle": "hachure",
@@ -30112,7 +30116,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -30127,8 +30131,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "image",
-			"version": 134,
-			"versionNonce": 99006528,
+			"version": 144,
+			"versionNonce": 332377024,
 			"isDeleted": false,
 			"id": "6CVzOYYWWsQrsWhIEEr8m",
 			"fillStyle": "hachure",
@@ -30147,7 +30151,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -30159,8 +30163,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "image",
-			"version": 147,
-			"versionNonce": 992996288,
+			"version": 157,
+			"versionNonce": 320991296,
 			"isDeleted": false,
 			"id": "Dvrpb8bkO1W8DzBm3dgGd",
 			"fillStyle": "hachure",
@@ -30179,7 +30183,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -30207,11 +30211,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2056798272,
-			"version": 62,
-			"versionNonce": 1088794688,
+			"version": 72,
+			"versionNonce": 476328896,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30232,8 +30236,8 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 		},
 		{
 			"type": "arrow",
-			"version": 117,
-			"versionNonce": 1841066944,
+			"version": 127,
+			"versionNonce": 1912203328,
 			"isDeleted": false,
 			"id": "7z1hgEqOP6GhET6S5dm4r",
 			"fillStyle": "hachure",
@@ -30252,7 +30256,7 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30289,11 +30293,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 963098688,
-			"version": 58,
-			"versionNonce": 826648640,
+			"version": 68,
+			"versionNonce": 824687552,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30499,11 +30503,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1627102144,
-			"version": 26,
-			"versionNonce": 762837952,
+			"version": 36,
+			"versionNonce": 588439616,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30581,11 +30585,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 130011200,
-			"version": 25,
-			"versionNonce": 48668736,
+			"version": 35,
+			"versionNonce": 1949975488,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669588,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30659,11 +30663,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 299303872,
-			"version": 39,
-			"versionNonce": 2088928192,
+			"version": 49,
+			"versionNonce": 911005760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30797,11 +30801,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 333492288,
-			"version": 37,
-			"versionNonce": 1705547840,
+			"version": 47,
+			"versionNonce": 1136380864,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30927,11 +30931,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1796854720,
-			"version": 30,
-			"versionNonce": 419171264,
+			"version": 40,
+			"versionNonce": 1065865280,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31029,11 +31033,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1637806144,
-			"version": 59,
-			"versionNonce": 225153088,
+			"version": 69,
+			"versionNonce": 969692096,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31251,11 +31255,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1475489856,
-			"version": 82,
-			"versionNonce": 2097451968,
+			"version": 92,
+			"versionNonce": 1453574208,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"text": "Question 6",
@@ -31286,11 +31290,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 222604224,
-			"version": 72,
-			"versionNonce": 809673664,
+			"version": 82,
+			"versionNonce": 747363264,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292497,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -31318,11 +31322,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 283574336,
-			"version": 42,
-			"versionNonce": 1022376896,
+			"version": 52,
+			"versionNonce": 394313792,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31488,11 +31492,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 592325568,
-			"version": 46,
-			"versionNonce": 1980915776,
+			"version": 56,
+			"versionNonce": 773481408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31674,11 +31678,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2123225152,
-			"version": 18,
-			"versionNonce": 1928512448,
+			"version": 28,
+			"versionNonce": 570341440,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31748,11 +31752,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1494447040,
-			"version": 17,
-			"versionNonce": 2103203904,
+			"version": 27,
+			"versionNonce": 211282880,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31818,11 +31822,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1892509760,
-			"version": 47,
-			"versionNonce": 2024230976,
+			"version": 57,
+			"versionNonce": 436056128,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32012,11 +32016,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 643881920,
-			"version": 17,
-			"versionNonce": 1147458496,
+			"version": 27,
+			"versionNonce": 1378120640,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32086,11 +32090,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 316381248,
-			"version": 19,
-			"versionNonce": 1070811200,
+			"version": 29,
+			"versionNonce": 660449344,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32168,11 +32172,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1856846784,
-			"version": 20,
-			"versionNonce": 1343511488,
+			"version": 30,
+			"versionNonce": 1155529664,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32254,11 +32258,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 81392576,
-			"version": 62,
-			"versionNonce": 784351296,
+			"version": 72,
+			"versionNonce": 1979621440,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32508,11 +32512,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1217878976,
-			"version": 38,
-			"versionNonce": 625883200,
+			"version": 48,
+			"versionNonce": 1726645184,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32653,6 +32657,10936 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
+			"id": "KZd3ad_QAXW361DmNoU_l",
+			"type": "line",
+			"x": -290.1228528209077,
+			"y": 7955.553368169074,
+			"width": 2.2222222222222854,
+			"height": 1061.1111111111131,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 199098432,
+			"version": 166,
+			"versionNonce": 901814336,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.2222222222222854,
+					1061.1111111111131
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "NeavoTQHtvqOtUAH59nPP",
+			"type": "line",
+			"x": -720.1228528209077,
+			"y": 8059.99781261352,
+			"width": 871.1111111111112,
+			"height": 8.888888888889596,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1005656128,
+			"version": 77,
+			"versionNonce": 1986268096,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					871.1111111111112,
+					-8.888888888889596
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "MYHsLDTX",
+			"type": "text",
+			"x": -589.0117417097965,
+			"y": 7978.4422570579645,
+			"width": 48,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1735656384,
+			"version": 15,
+			"versionNonce": 444829760,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"text": "min",
+			"rawText": "min",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "min"
+		},
+		{
+			"id": "qlEJLRm4",
+			"type": "text",
+			"x": -114.56729726535218,
+			"y": 7972.886701502409,
+			"width": 68,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 358527040,
+			"version": 28,
+			"versionNonce": 1835832256,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"text": "max",
+			"rawText": "max",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "max"
+		},
+		{
+			"id": "TnrNdr9vz8N0aM7JG0wnU",
+			"type": "freedraw",
+			"x": -703.456186154241,
+			"y": 8118.886701502408,
+			"width": 35.55555555555566,
+			"height": 75.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 796219456,
+			"version": 46,
+			"versionNonce": 1692191680,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3333333333339397
+				],
+				[
+					0,
+					5.555555555555657
+				],
+				[
+					0,
+					8.888888888888687
+				],
+				[
+					-1.1111111111111995,
+					16.66666666666697
+				],
+				[
+					-1.1111111111111995,
+					27.777777777778283
+				],
+				[
+					-1.1111111111111995,
+					37.77777777777828
+				],
+				[
+					-1.1111111111111995,
+					47.77777777777828
+				],
+				[
+					-1.1111111111111995,
+					55.55555555555566
+				],
+				[
+					0,
+					60
+				],
+				[
+					1.1111111111110858,
+					61.11111111111131
+				],
+				[
+					3.3333333333332575,
+					61.11111111111131
+				],
+				[
+					6.666666666666629,
+					60
+				],
+				[
+					10,
+					58.88888888888869
+				],
+				[
+					14.444444444444457,
+					55.55555555555566
+				],
+				[
+					17.777777777777715,
+					50
+				],
+				[
+					21.111111111111086,
+					43.33333333333394
+				],
+				[
+					24.444444444444457,
+					35.55555555555566
+				],
+				[
+					26.66666666666663,
+					27.777777777778283
+				],
+				[
+					28.8888888888888,
+					21.111111111111313
+				],
+				[
+					30,
+					15.555555555555657
+				],
+				[
+					30,
+					12.222222222222626
+				],
+				[
+					31.111111111111086,
+					12.222222222222626
+				],
+				[
+					31.111111111111086,
+					13.33333333333394
+				],
+				[
+					31.111111111111086,
+					21.111111111111313
+				],
+				[
+					32.22222222222217,
+					34.44444444444434
+				],
+				[
+					32.22222222222217,
+					50
+				],
+				[
+					33.33333333333326,
+					61.11111111111131
+				],
+				[
+					34.44444444444446,
+					67.77777777777828
+				],
+				[
+					34.44444444444446,
+					71.11111111111131
+				],
+				[
+					34.44444444444446,
+					72.22222222222263
+				],
+				[
+					34.44444444444446,
+					73.33333333333394
+				],
+				[
+					34.44444444444446,
+					74.44444444444525
+				],
+				[
+					34.44444444444446,
+					75.55555555555475
+				],
+				[
+					34.44444444444446,
+					74.44444444444525
+				],
+				[
+					34.44444444444446,
+					74.44444444444525
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.44444444444446,
+				74.44444444444525
+			]
+		},
+		{
+			"id": "k9f01O4bnnSIT8X_Lkj8P",
+			"type": "freedraw",
+			"x": -639.0117417097965,
+			"y": 8194.442257057963,
+			"width": 4.444444444444457,
+			"height": 35.555555555556566,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 104586176,
+			"version": 19,
+			"versionNonce": 2096549952,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111111995,
+					3.3333333333339397
+				],
+				[
+					-1.1111111111111995,
+					7.7777777777791925
+				],
+				[
+					-2.2222222222222854,
+					13.33333333333394
+				],
+				[
+					-3.3333333333333712,
+					21.111111111111313
+				],
+				[
+					-3.3333333333333712,
+					27.777777777779193
+				],
+				[
+					-4.444444444444457,
+					33.33333333333394
+				],
+				[
+					-4.444444444444457,
+					35.555555555556566
+				],
+				[
+					-4.444444444444457,
+					35.555555555556566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-4.444444444444457,
+				35.555555555556566
+			]
+		},
+		{
+			"id": "if9u6yWQwNmoz3RzHeTtM",
+			"type": "freedraw",
+			"x": -629.0117417097965,
+			"y": 8157.775590391297,
+			"width": 23.333333333333258,
+			"height": 1.1111111111104037,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 848987072,
+			"version": 21,
+			"versionNonce": 248337344,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.1111111111104037
+				],
+				[
+					1.1111111111110858,
+					-1.1111111111104037
+				],
+				[
+					3.3333333333332575,
+					-1.1111111111104037
+				],
+				[
+					5.555555555555543,
+					-1.1111111111104037
+				],
+				[
+					7.777777777777715,
+					-1.1111111111104037
+				],
+				[
+					12.222222222222172,
+					-1.1111111111104037
+				],
+				[
+					16.66666666666663,
+					-1.1111111111104037
+				],
+				[
+					21.111111111111086,
+					-1.1111111111104037
+				],
+				[
+					23.333333333333258,
+					-1.1111111111104037
+				],
+				[
+					23.333333333333258,
+					-1.1111111111104037
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				23.333333333333258,
+				-1.1111111111104037
+			]
+		},
+		{
+			"id": "fR-BlBSG8wcAxavdoboR4",
+			"type": "freedraw",
+			"x": -622.3450750431299,
+			"y": 8172.220034835742,
+			"width": 24.444444444444457,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1532277696,
+			"version": 18,
+			"versionNonce": 238209088,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					7.777777777777715,
+					0
+				],
+				[
+					13.333333333333371,
+					0
+				],
+				[
+					22.22222222222217,
+					-1.1111111111113132
+				],
+				[
+					23.33333333333337,
+					-1.1111111111113132
+				],
+				[
+					24.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					24.444444444444457,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				24.444444444444457,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "fWmjfsQRggRadWjrWS1Wi",
+			"type": "freedraw",
+			"x": -569.0117417097965,
+			"y": 8117.775590391297,
+			"width": 40,
+			"height": 87.77777777777737,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1966819392,
+			"version": 41,
+			"versionNonce": 963435456,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111111995,
+					6.66666666666697
+				],
+				[
+					-2.2222222222222854,
+					16.66666666666697
+				],
+				[
+					-3.3333333333333712,
+					26.66666666666697
+				],
+				[
+					-3.3333333333333712,
+					38.888888888889596
+				],
+				[
+					-2.2222222222222854,
+					48.888888888889596
+				],
+				[
+					0,
+					58.888888888889596
+				],
+				[
+					3.3333333333332575,
+					64.44444444444525
+				],
+				[
+					6.666666666666629,
+					67.77777777777828
+				],
+				[
+					8.8888888888888,
+					68.8888888888896
+				],
+				[
+					11.111111111111086,
+					68.8888888888896
+				],
+				[
+					15.555555555555543,
+					66.66666666666697
+				],
+				[
+					18.8888888888888,
+					64.44444444444525
+				],
+				[
+					23.333333333333258,
+					58.888888888889596
+				],
+				[
+					26.66666666666663,
+					48.888888888889596
+				],
+				[
+					30,
+					37.77777777777828
+				],
+				[
+					34.44444444444446,
+					25.555555555555657
+				],
+				[
+					35.55555555555554,
+					18.888888888889596
+				],
+				[
+					36.66666666666663,
+					15.555555555555657
+				],
+				[
+					36.66666666666663,
+					14.444444444445253
+				],
+				[
+					36.66666666666663,
+					22.222222222222626
+				],
+				[
+					35.55555555555554,
+					32.222222222222626
+				],
+				[
+					34.44444444444446,
+					42.222222222222626
+				],
+				[
+					33.33333333333326,
+					52.222222222222626
+				],
+				[
+					33.33333333333326,
+					63.33333333333394
+				],
+				[
+					32.22222222222217,
+					72.22222222222263
+				],
+				[
+					32.22222222222217,
+					80
+				],
+				[
+					32.22222222222217,
+					84.44444444444525
+				],
+				[
+					32.22222222222217,
+					86.66666666666606
+				],
+				[
+					32.22222222222217,
+					87.77777777777737
+				],
+				[
+					32.22222222222217,
+					87.77777777777737
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				32.22222222222217,
+				87.77777777777737
+			]
+		},
+		{
+			"id": "FlbmGc09StruoJey1tzDV",
+			"type": "freedraw",
+			"x": -505.67840837646327,
+			"y": 8205.553368169074,
+			"width": 18.888888888888914,
+			"height": 56.66666666666697,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 50339904,
+			"version": 44,
+			"versionNonce": 1994089408,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.1111111111113132
+				],
+				[
+					0,
+					-5.555555555554747
+				],
+				[
+					0,
+					-10
+				],
+				[
+					0,
+					-15.555555555554747
+				],
+				[
+					0,
+					-18.888888888887777
+				],
+				[
+					0,
+					-21.111111111110404
+				],
+				[
+					0,
+					-22.222222222221717
+				],
+				[
+					1.1111111111111995,
+					-22.222222222221717
+				],
+				[
+					2.2222222222222854,
+					-22.222222222221717
+				],
+				[
+					3.3333333333333712,
+					-19.99999999999909
+				],
+				[
+					4.444444444444457,
+					-16.66666666666606
+				],
+				[
+					4.444444444444457,
+					-11.111111111111313
+				],
+				[
+					4.444444444444457,
+					-4.444444444443434
+				],
+				[
+					4.444444444444457,
+					4.444444444445253
+				],
+				[
+					3.3333333333333712,
+					13.33333333333394
+				],
+				[
+					2.2222222222222854,
+					20
+				],
+				[
+					0,
+					25.555555555556566
+				],
+				[
+					-4.444444444444457,
+					30
+				],
+				[
+					-7.777777777777715,
+					32.222222222222626
+				],
+				[
+					-11.111111111111086,
+					32.222222222222626
+				],
+				[
+					-12.222222222222172,
+					31.111111111111313
+				],
+				[
+					-12.222222222222172,
+					30
+				],
+				[
+					-11.111111111111086,
+					30
+				],
+				[
+					-10,
+					30
+				],
+				[
+					-6.666666666666629,
+					31.111111111111313
+				],
+				[
+					-4.444444444444457,
+					32.222222222222626
+				],
+				[
+					-1.1111111111110858,
+					34.44444444444525
+				],
+				[
+					1.1111111111111995,
+					34.44444444444525
+				],
+				[
+					3.3333333333333712,
+					34.44444444444525
+				],
+				[
+					4.444444444444457,
+					34.44444444444525
+				],
+				[
+					5.555555555555543,
+					33.33333333333394
+				],
+				[
+					6.6666666666667425,
+					32.222222222222626
+				],
+				[
+					6.6666666666667425,
+					31.111111111111313
+				],
+				[
+					6.6666666666667425,
+					31.111111111111313
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				6.6666666666667425,
+				31.111111111111313
+			]
+		},
+		{
+			"id": "MwsOCPnvPR-iYHMGDARlF",
+			"type": "freedraw",
+			"x": -466.78951948757435,
+			"y": 8155.553368169075,
+			"width": 14.444444444444457,
+			"height": 7.777777777778283,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 551325760,
+			"version": 19,
+			"versionNonce": 30259264,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					7.777777777777828,
+					-1.1111111111113132
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				],
+				[
+					13.333333333333371,
+					-1.1111111111113132
+				],
+				[
+					14.444444444444457,
+					0
+				],
+				[
+					14.444444444444457,
+					2.222222222221717
+				],
+				[
+					14.444444444444457,
+					6.66666666666697
+				],
+				[
+					14.444444444444457,
+					6.66666666666697
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.444444444444457,
+				6.66666666666697
+			]
+		},
+		{
+			"id": "Dcu3r1oQCCixnifpOZj7Z",
+			"type": "freedraw",
+			"x": -471.2339639320188,
+			"y": 8178.886701502408,
+			"width": 13.333333333333371,
+			"height": 3.33333333333303,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 565132224,
+			"version": 16,
+			"versionNonce": 356051904,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222222854,
+					0
+				],
+				[
+					5.555555555555543,
+					-1.1111111111113132
+				],
+				[
+					8.888888888888914,
+					-2.222222222221717
+				],
+				[
+					12.222222222222285,
+					-2.222222222221717
+				],
+				[
+					13.333333333333371,
+					-3.33333333333303
+				],
+				[
+					13.333333333333371,
+					-3.33333333333303
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.333333333333371,
+				-3.33333333333303
+			]
+		},
+		{
+			"id": "Dw5AweDNECElJao0cLX-6",
+			"type": "freedraw",
+			"x": -422.3450750431299,
+			"y": 8122.220034835742,
+			"width": 3.3333333333333712,
+			"height": 54.44444444444434,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1565744064,
+			"version": 21,
+			"versionNonce": 669823040,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.33333333333303
+				],
+				[
+					0,
+					7.777777777777374
+				],
+				[
+					-1.1111111111110858,
+					15.555555555554747
+				],
+				[
+					-1.1111111111110858,
+					21.111111111110404
+				],
+				[
+					-2.2222222222221717,
+					32.22222222222172
+				],
+				[
+					-2.2222222222221717,
+					40
+				],
+				[
+					-2.2222222222221717,
+					46.66666666666606
+				],
+				[
+					-2.2222222222221717,
+					50
+				],
+				[
+					-2.2222222222221717,
+					52.22222222222172
+				],
+				[
+					-3.3333333333333712,
+					54.44444444444434
+				],
+				[
+					-3.3333333333333712,
+					54.44444444444434
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.3333333333333712,
+				54.44444444444434
+			]
+		},
+		{
+			"id": "yP-z2MXg49v996_NDvxmN",
+			"type": "freedraw",
+			"x": -385.67840837646327,
+			"y": 8121.108923724631,
+			"width": 23.33333333333337,
+			"height": 52.222222222222626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 764678208,
+			"version": 41,
+			"versionNonce": 514159552,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111110858,
+					0
+				],
+				[
+					-2.2222222222221717,
+					-1.1111111111113132
+				],
+				[
+					-5.555555555555543,
+					-1.1111111111113132
+				],
+				[
+					-8.8888888888888,
+					-2.2222222222226264
+				],
+				[
+					-13.333333333333258,
+					-1.1111111111113132
+				],
+				[
+					-16.66666666666663,
+					0
+				],
+				[
+					-20,
+					2.222222222221717
+				],
+				[
+					-21.111111111111086,
+					3.33333333333303
+				],
+				[
+					-21.111111111111086,
+					5.555555555555657
+				],
+				[
+					-20,
+					8.888888888888687
+				],
+				[
+					-16.66666666666663,
+					11.111111111111313
+				],
+				[
+					-12.222222222222172,
+					14.444444444444343
+				],
+				[
+					-8.8888888888888,
+					16.66666666666606
+				],
+				[
+					-6.666666666666629,
+					17.777777777777374
+				],
+				[
+					-5.555555555555543,
+					18.888888888888687
+				],
+				[
+					-4.444444444444457,
+					21.111111111111313
+				],
+				[
+					-2.2222222222221717,
+					24.444444444444343
+				],
+				[
+					-1.1111111111110858,
+					30
+				],
+				[
+					0,
+					34.44444444444434
+				],
+				[
+					1.1111111111111995,
+					37.777777777777374
+				],
+				[
+					2.2222222222222854,
+					40
+				],
+				[
+					2.2222222222222854,
+					42.22222222222172
+				],
+				[
+					2.2222222222222854,
+					44.44444444444434
+				],
+				[
+					1.1111111111111995,
+					46.66666666666606
+				],
+				[
+					0,
+					48.88888888888869
+				],
+				[
+					-2.2222222222221717,
+					50
+				],
+				[
+					-4.444444444444457,
+					50
+				],
+				[
+					-6.666666666666629,
+					50
+				],
+				[
+					-7.777777777777715,
+					50
+				],
+				[
+					-7.777777777777715,
+					48.88888888888869
+				],
+				[
+					-7.777777777777715,
+					48.88888888888869
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-7.777777777777715,
+				48.88888888888869
+			]
+		},
+		{
+			"id": "sDWX2GUjRxlU9sPBAQo-v",
+			"type": "freedraw",
+			"x": -362.3450750431299,
+			"y": 8116.664479280186,
+			"width": 34.44444444444446,
+			"height": 68.88888888888869,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1025807296,
+			"version": 34,
+			"versionNonce": 527214656,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111104037
+				],
+				[
+					1.1111111111110858,
+					5.555555555555657
+				],
+				[
+					3.3333333333333712,
+					13.33333333333303
+				],
+				[
+					5.555555555555543,
+					21.111111111110404
+				],
+				[
+					6.666666666666629,
+					31.111111111110404
+				],
+				[
+					8.888888888888914,
+					40
+				],
+				[
+					12.222222222222172,
+					46.66666666666606
+				],
+				[
+					14.444444444444457,
+					52.22222222222172
+				],
+				[
+					15.555555555555543,
+					56.66666666666606
+				],
+				[
+					16.66666666666663,
+					63.33333333333303
+				],
+				[
+					17.77777777777783,
+					67.77777777777737
+				],
+				[
+					17.77777777777783,
+					68.88888888888869
+				],
+				[
+					18.888888888888914,
+					67.77777777777737
+				],
+				[
+					18.888888888888914,
+					65.55555555555566
+				],
+				[
+					21.111111111111086,
+					58.88888888888869
+				],
+				[
+					22.22222222222217,
+					53.33333333333303
+				],
+				[
+					25.555555555555543,
+					44.44444444444434
+				],
+				[
+					27.77777777777783,
+					36.66666666666606
+				],
+				[
+					30,
+					30
+				],
+				[
+					32.222222222222285,
+					23.33333333333303
+				],
+				[
+					33.33333333333337,
+					18.888888888888687
+				],
+				[
+					33.33333333333337,
+					16.66666666666606
+				],
+				[
+					34.44444444444446,
+					14.444444444444343
+				],
+				[
+					34.44444444444446,
+					14.444444444444343
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.44444444444446,
+				14.444444444444343
+			]
+		},
+		{
+			"id": "ReQv2k5R2QhM0d5rBKqj3",
+			"type": "freedraw",
+			"x": -701.2339639320188,
+			"y": 8335.553368169076,
+			"width": 43.33333333333337,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 742947776,
+			"version": 27,
+			"versionNonce": 1497430976,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					5.555555555555543,
+					-1.1111111111113132
+				],
+				[
+					8.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					13.333333333333371,
+					-2.2222222222226264
+				],
+				[
+					17.77777777777783,
+					-2.2222222222226264
+				],
+				[
+					20,
+					-3.3333333333339397
+				],
+				[
+					22.222222222222285,
+					-3.3333333333339397
+				],
+				[
+					24.444444444444457,
+					-3.3333333333339397
+				],
+				[
+					27.77777777777783,
+					-3.3333333333339397
+				],
+				[
+					32.222222222222285,
+					-3.3333333333339397
+				],
+				[
+					35.55555555555554,
+					-3.3333333333339397
+				],
+				[
+					38.888888888888914,
+					-3.3333333333339397
+				],
+				[
+					42.222222222222285,
+					-3.3333333333339397
+				],
+				[
+					43.33333333333337,
+					-3.3333333333339397
+				],
+				[
+					43.33333333333337,
+					-2.2222222222226264
+				],
+				[
+					43.33333333333337,
+					-2.2222222222226264
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				43.33333333333337,
+				-2.2222222222226264
+			]
+		},
+		{
+			"id": "q3vSS25a2NTFqNyZuTpGS",
+			"type": "freedraw",
+			"x": -679.0117417097965,
+			"y": 8336.664479280185,
+			"width": 18.8888888888888,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1466161216,
+			"version": 33,
+			"versionNonce": 338534464,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					0,
+					4.444444444445253
+				],
+				[
+					-1.1111111111111995,
+					10
+				],
+				[
+					-2.2222222222222854,
+					15.555555555556566
+				],
+				[
+					-2.2222222222222854,
+					21.111111111111313
+				],
+				[
+					-3.3333333333333712,
+					26.66666666666788
+				],
+				[
+					-3.3333333333333712,
+					31.111111111111313
+				],
+				[
+					-4.444444444444457,
+					35.555555555556566
+				],
+				[
+					-6.6666666666667425,
+					40
+				],
+				[
+					-7.777777777777828,
+					44.44444444444525
+				],
+				[
+					-8.888888888888914,
+					47.77777777777919
+				],
+				[
+					-8.888888888888914,
+					48.888888888890506
+				],
+				[
+					-10,
+					50
+				],
+				[
+					-10,
+					48.888888888890506
+				],
+				[
+					-8.888888888888914,
+					48.888888888890506
+				],
+				[
+					-7.777777777777828,
+					46.66666666666788
+				],
+				[
+					-5.555555555555657,
+					44.44444444444525
+				],
+				[
+					-1.1111111111111995,
+					43.33333333333394
+				],
+				[
+					2.2222222222221717,
+					42.222222222222626
+				],
+				[
+					5.555555555555543,
+					42.222222222222626
+				],
+				[
+					7.777777777777715,
+					42.222222222222626
+				],
+				[
+					8.8888888888888,
+					42.222222222222626
+				],
+				[
+					8.8888888888888,
+					42.222222222222626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				8.8888888888888,
+				42.222222222222626
+			]
+		},
+		{
+			"id": "erevCO4xJbEJtjx9Yix-I",
+			"type": "freedraw",
+			"x": -639.0117417097965,
+			"y": 8369.99781261352,
+			"width": 3.3333333333332575,
+			"height": 23.33333333333394,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 192490432,
+			"version": 20,
+			"versionNonce": 1194034112,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					2.2222222222226264
+				],
+				[
+					1.1111111111110858,
+					5.555555555556566
+				],
+				[
+					1.1111111111110858,
+					6.66666666666606
+				],
+				[
+					2.2222222222221717,
+					10
+				],
+				[
+					2.2222222222221717,
+					13.33333333333394
+				],
+				[
+					2.2222222222221717,
+					16.66666666666606
+				],
+				[
+					3.3333333333332575,
+					20
+				],
+				[
+					3.3333333333332575,
+					22.222222222222626
+				],
+				[
+					3.3333333333332575,
+					23.33333333333394
+				],
+				[
+					3.3333333333332575,
+					23.33333333333394
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.3333333333332575,
+				23.33333333333394
+			]
+		},
+		{
+			"id": "uRXx57DC4HZS6ww67aljy",
+			"type": "freedraw",
+			"x": -612.3450750431299,
+			"y": 8349.99781261352,
+			"width": 14.444444444444457,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 924146624,
+			"version": 19,
+			"versionNonce": 906991680,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					5.555555555555543,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					12.222222222222172,
+					0
+				],
+				[
+					13.333333333333371,
+					0
+				],
+				[
+					14.444444444444457,
+					0
+				],
+				[
+					14.444444444444457,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.444444444444457,
+				0
+			]
+		},
+		{
+			"id": "FoFblqbVDgHgxu3nFhJBa",
+			"type": "freedraw",
+			"x": -609.0117417097965,
+			"y": 8371.10892372463,
+			"width": 15.555555555555543,
+			"height": 2.2222222222226264,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1098848320,
+			"version": 18,
+			"versionNonce": 646253504,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333332575,
+					0
+				],
+				[
+					4.444444444444457,
+					0
+				],
+				[
+					7.777777777777715,
+					0
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				],
+				[
+					13.333333333333258,
+					-1.1111111111113132
+				],
+				[
+					15.555555555555543,
+					-2.2222222222226264
+				],
+				[
+					15.555555555555543,
+					-2.2222222222226264
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.555555555555543,
+				-2.2222222222226264
+			]
+		},
+		{
+			"id": "JbR2ui04Njqgtuz3aSAN-",
+			"type": "freedraw",
+			"x": -555.6784083764633,
+			"y": 8268.886701502408,
+			"width": 23.33333333333337,
+			"height": 37.777777777777374,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 499642432,
+			"version": 37,
+			"versionNonce": 955420736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					4.444444444445253
+				],
+				[
+					0,
+					5.555555555556566
+				],
+				[
+					0,
+					13.33333333333394
+				],
+				[
+					0,
+					21.111111111111313
+				],
+				[
+					0,
+					28.888888888888687
+				],
+				[
+					1.1111111111111995,
+					34.44444444444525
+				],
+				[
+					2.2222222222222854,
+					35.555555555556566
+				],
+				[
+					3.3333333333333712,
+					36.66666666666788
+				],
+				[
+					5.555555555555543,
+					36.66666666666788
+				],
+				[
+					6.6666666666667425,
+					37.777777777777374
+				],
+				[
+					7.777777777777828,
+					37.777777777777374
+				],
+				[
+					10,
+					34.44444444444525
+				],
+				[
+					12.222222222222285,
+					28.888888888888687
+				],
+				[
+					15.555555555555543,
+					23.33333333333394
+				],
+				[
+					17.77777777777783,
+					17.777777777777374
+				],
+				[
+					21.1111111111112,
+					12.222222222222626
+				],
+				[
+					22.222222222222285,
+					7.777777777777374
+				],
+				[
+					23.33333333333337,
+					5.555555555556566
+				],
+				[
+					23.33333333333337,
+					4.444444444445253
+				],
+				[
+					23.33333333333337,
+					6.666666666667879
+				],
+				[
+					23.33333333333337,
+					12.222222222222626
+				],
+				[
+					23.33333333333337,
+					20
+				],
+				[
+					23.33333333333337,
+					28.888888888888687
+				],
+				[
+					23.33333333333337,
+					34.44444444444525
+				],
+				[
+					23.33333333333337,
+					36.66666666666788
+				],
+				[
+					23.33333333333337,
+					37.777777777777374
+				],
+				[
+					23.33333333333337,
+					37.777777777777374
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				23.33333333333337,
+				37.777777777777374
+			]
+		},
+		{
+			"id": "4buyyg4-4GaPd1CsVHyZn",
+			"type": "freedraw",
+			"x": -513.456186154241,
+			"y": 8297.775590391297,
+			"width": 1.1111111111110858,
+			"height": 21.111111111111313,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 775862336,
+			"version": 17,
+			"versionNonce": 1421248576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					0,
+					4.444444444445253
+				],
+				[
+					0,
+					7.7777777777791925
+				],
+				[
+					0,
+					11.111111111111313
+				],
+				[
+					0,
+					16.66666666666788
+				],
+				[
+					0,
+					20
+				],
+				[
+					1.1111111111110858,
+					21.111111111111313
+				],
+				[
+					1.1111111111110858,
+					21.111111111111313
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.1111111111110858,
+				21.111111111111313
+			]
+		},
+		{
+			"id": "4qoqUYWSEUgAIkx7MgKY0",
+			"type": "freedraw",
+			"x": -575.6784083764633,
+			"y": 8336.664479280185,
+			"width": 70,
+			"height": 2.2222222222208075,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2126745664,
+			"version": 25,
+			"versionNonce": 1577393088,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111111995,
+					0
+				],
+				[
+					4.444444444444457,
+					0
+				],
+				[
+					11.1111111111112,
+					-1.1111111111094942
+				],
+				[
+					16.666666666666742,
+					-1.1111111111094942
+				],
+				[
+					23.33333333333337,
+					-1.1111111111094942
+				],
+				[
+					34.44444444444446,
+					0
+				],
+				[
+					43.33333333333337,
+					0
+				],
+				[
+					51.1111111111112,
+					0
+				],
+				[
+					56.66666666666674,
+					0
+				],
+				[
+					61.1111111111112,
+					0
+				],
+				[
+					64.44444444444446,
+					0
+				],
+				[
+					66.66666666666674,
+					1.1111111111113132
+				],
+				[
+					67.77777777777783,
+					1.1111111111113132
+				],
+				[
+					68.88888888888891,
+					1.1111111111113132
+				],
+				[
+					70,
+					1.1111111111113132
+				],
+				[
+					70,
+					1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				70,
+				1.1111111111113132
+			]
+		},
+		{
+			"id": "83YZomA-39aJqyN14iJ21",
+			"type": "freedraw",
+			"x": -546.7895194875744,
+			"y": 8358.886701502408,
+			"width": 34.44444444444446,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1848330304,
+			"version": 52,
+			"versionNonce": 1161527360,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.2222222222221717,
+					1.1111111111113132
+				],
+				[
+					-3.3333333333333712,
+					3.3333333333339397
+				],
+				[
+					-4.444444444444457,
+					4.444444444445253
+				],
+				[
+					-5.555555555555543,
+					8.888888888890506
+				],
+				[
+					-5.555555555555543,
+					11.111111111111313
+				],
+				[
+					-5.555555555555543,
+					15.555555555556566
+				],
+				[
+					-5.555555555555543,
+					20
+				],
+				[
+					-4.444444444444457,
+					24.444444444445253
+				],
+				[
+					-3.3333333333333712,
+					28.888888888890506
+				],
+				[
+					-2.2222222222221717,
+					33.33333333333394
+				],
+				[
+					1.1111111111110858,
+					36.66666666666788
+				],
+				[
+					3.3333333333333712,
+					38.888888888890506
+				],
+				[
+					6.666666666666629,
+					40
+				],
+				[
+					8.888888888888914,
+					40
+				],
+				[
+					11.111111111111086,
+					40
+				],
+				[
+					13.333333333333371,
+					40
+				],
+				[
+					16.66666666666663,
+					37.77777777777919
+				],
+				[
+					20,
+					34.44444444444525
+				],
+				[
+					22.222222222222285,
+					31.111111111111313
+				],
+				[
+					24.444444444444457,
+					27.777777777779193
+				],
+				[
+					26.66666666666663,
+					22.222222222222626
+				],
+				[
+					27.77777777777783,
+					18.888888888890506
+				],
+				[
+					27.77777777777783,
+					15.555555555556566
+				],
+				[
+					28.888888888888914,
+					14.444444444445253
+				],
+				[
+					28.888888888888914,
+					13.33333333333394
+				],
+				[
+					27.77777777777783,
+					11.111111111111313
+				],
+				[
+					25.555555555555543,
+					10
+				],
+				[
+					23.33333333333337,
+					8.888888888890506
+				],
+				[
+					21.111111111111086,
+					8.888888888890506
+				],
+				[
+					18.888888888888914,
+					8.888888888890506
+				],
+				[
+					14.444444444444457,
+					8.888888888890506
+				],
+				[
+					11.111111111111086,
+					8.888888888890506
+				],
+				[
+					7.777777777777828,
+					8.888888888890506
+				],
+				[
+					4.444444444444457,
+					10
+				],
+				[
+					3.3333333333333712,
+					11.111111111111313
+				],
+				[
+					1.1111111111110858,
+					11.111111111111313
+				],
+				[
+					0,
+					12.222222222222626
+				],
+				[
+					-2.2222222222221717,
+					13.33333333333394
+				],
+				[
+					-3.3333333333333712,
+					14.444444444445253
+				],
+				[
+					-4.444444444444457,
+					15.555555555556566
+				],
+				[
+					-4.444444444444457,
+					16.66666666666788
+				],
+				[
+					-5.555555555555543,
+					16.66666666666788
+				],
+				[
+					-5.555555555555543,
+					16.66666666666788
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-5.555555555555543,
+				16.66666666666788
+			]
+		},
+		{
+			"id": "cruB7AzybbbWCs-S0Dbsv",
+			"type": "freedraw",
+			"x": -484.56729726535207,
+			"y": 8328.886701502408,
+			"width": 11.111111111111086,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 507841472,
+			"version": 16,
+			"versionNonce": 1584112576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					4.444444444444343,
+					0
+				],
+				[
+					6.666666666666629,
+					0
+				],
+				[
+					7.777777777777715,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					11.111111111111086,
+					0
+				],
+				[
+					11.111111111111086,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.111111111111086,
+				0
+			]
+		},
+		{
+			"id": "4-89oGR6iF4Y3kZcsunOH",
+			"type": "freedraw",
+			"x": -484.56729726535207,
+			"y": 8355.553368169076,
+			"width": 13.333333333333258,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1816686656,
+			"version": 15,
+			"versionNonce": 1247901760,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					4.444444444444343,
+					0
+				],
+				[
+					6.666666666666629,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-1.1111111111113132
+				],
+				[
+					13.333333333333258,
+					-1.1111111111113132
+				],
+				[
+					13.333333333333258,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.333333333333258,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "ym0_rIs78hC0RE7BbIqGj",
+			"type": "freedraw",
+			"x": -443.456186154241,
+			"y": 8336.664479280187,
+			"width": 86.66666666666674,
+			"height": 28.888888888888687,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 292442176,
+			"version": 59,
+			"versionNonce": 549530560,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.1111111111113132
+				],
+				[
+					0,
+					-2.2222222222226264
+				],
+				[
+					1.1111111111110858,
+					-5.555555555556566
+				],
+				[
+					3.3333333333332575,
+					-8.888888888888687
+				],
+				[
+					6.666666666666629,
+					-12.222222222222626
+				],
+				[
+					11.111111111111086,
+					-15.555555555556566
+				],
+				[
+					15.555555555555543,
+					-17.777777777779193
+				],
+				[
+					22.22222222222217,
+					-18.888888888888687
+				],
+				[
+					32.22222222222217,
+					-17.777777777779193
+				],
+				[
+					33.33333333333326,
+					-17.777777777779193
+				],
+				[
+					35.55555555555554,
+					-15.555555555556566
+				],
+				[
+					38.888888888888914,
+					-13.33333333333394
+				],
+				[
+					43.33333333333326,
+					-10
+				],
+				[
+					46.66666666666663,
+					-7.7777777777791925
+				],
+				[
+					50,
+					-6.666666666667879
+				],
+				[
+					53.33333333333326,
+					-5.555555555556566
+				],
+				[
+					56.66666666666663,
+					-4.444444444445253
+				],
+				[
+					60,
+					-4.444444444445253
+				],
+				[
+					63.33333333333326,
+					-4.444444444445253
+				],
+				[
+					67.77777777777771,
+					-5.555555555556566
+				],
+				[
+					71.11111111111109,
+					-7.7777777777791925
+				],
+				[
+					74.44444444444446,
+					-10
+				],
+				[
+					76.66666666666663,
+					-13.33333333333394
+				],
+				[
+					77.77777777777771,
+					-14.444444444445253
+				],
+				[
+					78.88888888888891,
+					-16.66666666666788
+				],
+				[
+					80,
+					-17.777777777779193
+				],
+				[
+					80,
+					-18.888888888888687
+				],
+				[
+					78.88888888888891,
+					-18.888888888888687
+				],
+				[
+					76.66666666666663,
+					-20
+				],
+				[
+					73.33333333333326,
+					-21.111111111111313
+				],
+				[
+					68.88888888888891,
+					-20
+				],
+				[
+					63.33333333333326,
+					-17.777777777779193
+				],
+				[
+					57.777777777777715,
+					-14.444444444445253
+				],
+				[
+					51.111111111111086,
+					-12.222222222222626
+				],
+				[
+					46.66666666666663,
+					-7.7777777777791925
+				],
+				[
+					42.22222222222217,
+					-5.555555555556566
+				],
+				[
+					37.777777777777715,
+					-2.2222222222226264
+				],
+				[
+					34.44444444444446,
+					0
+				],
+				[
+					28.888888888888914,
+					3.3333333333321207
+				],
+				[
+					22.22222222222217,
+					6.66666666666606
+				],
+				[
+					17.777777777777715,
+					6.66666666666606
+				],
+				[
+					13.333333333333258,
+					7.777777777777374
+				],
+				[
+					8.888888888888914,
+					6.66666666666606
+				],
+				[
+					3.3333333333332575,
+					4.444444444443434
+				],
+				[
+					-1.1111111111110858,
+					1.1111111111113132
+				],
+				[
+					-4.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					-5.555555555555543,
+					-2.2222222222226264
+				],
+				[
+					-6.6666666666667425,
+					-3.3333333333339397
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-6.6666666666667425,
+				-3.3333333333339397
+			]
+		},
+		{
+			"id": "DpWyDb5bj0cpo3VBjm5ng",
+			"type": "freedraw",
+			"x": -696.7895194875744,
+			"y": 8493.331145946853,
+			"width": 51.111111111111086,
+			"height": 37.777777777777374,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 740982848,
+			"version": 40,
+			"versionNonce": 671641664,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					15.555555555555543,
+					-1.1111111111113132
+				],
+				[
+					22.22222222222217,
+					-2.2222222222226264
+				],
+				[
+					33.33333333333337,
+					-3.3333333333321207
+				],
+				[
+					43.33333333333337,
+					-4.444444444443434
+				],
+				[
+					50,
+					-4.444444444443434
+				],
+				[
+					51.111111111111086,
+					-4.444444444443434
+				],
+				[
+					51.111111111111086,
+					-2.2222222222226264
+				],
+				[
+					50,
+					2.2222222222226264
+				],
+				[
+					48.888888888888914,
+					7.777777777777374
+				],
+				[
+					47.77777777777783,
+					12.222222222222626
+				],
+				[
+					47.77777777777783,
+					15.555555555556566
+				],
+				[
+					47.77777777777783,
+					18.888888888888687
+				],
+				[
+					47.77777777777783,
+					21.111111111111313
+				],
+				[
+					46.66666666666663,
+					22.222222222222626
+				],
+				[
+					44.44444444444446,
+					24.444444444445253
+				],
+				[
+					41.111111111111086,
+					25.555555555556566
+				],
+				[
+					35.55555555555554,
+					27.777777777777374
+				],
+				[
+					31.111111111111086,
+					30
+				],
+				[
+					25.555555555555543,
+					31.111111111111313
+				],
+				[
+					21.111111111111086,
+					33.33333333333394
+				],
+				[
+					20,
+					33.33333333333394
+				],
+				[
+					24.444444444444457,
+					32.222222222222626
+				],
+				[
+					31.111111111111086,
+					31.111111111111313
+				],
+				[
+					35.55555555555554,
+					30
+				],
+				[
+					38.888888888888914,
+					28.888888888888687
+				],
+				[
+					40,
+					27.777777777777374
+				],
+				[
+					42.22222222222217,
+					27.777777777777374
+				],
+				[
+					42.22222222222217,
+					27.777777777777374
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				42.22222222222217,
+				27.777777777777374
+			]
+		},
+		{
+			"id": "8LU1Gm9XbaBqNg8vBGy0z",
+			"type": "freedraw",
+			"x": -616.7895194875744,
+			"y": 8522.220034835742,
+			"width": 48.888888888888914,
+			"height": 45.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 38609856,
+			"version": 37,
+			"versionNonce": 254129088,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					-1.1111111111113132
+				],
+				[
+					3.3333333333333712,
+					-1.1111111111113132
+				],
+				[
+					6.666666666666629,
+					-3.3333333333321207
+				],
+				[
+					11.111111111111086,
+					-4.444444444443434
+				],
+				[
+					15.555555555555543,
+					-5.555555555554747
+				],
+				[
+					18.888888888888914,
+					-5.555555555554747
+				],
+				[
+					20,
+					-4.444444444443434
+				],
+				[
+					20,
+					-2.2222222222208075
+				],
+				[
+					20,
+					3.3333333333339397
+				],
+				[
+					20,
+					7.7777777777791925
+				],
+				[
+					20,
+					13.33333333333394
+				],
+				[
+					18.888888888888914,
+					18.888888888888687
+				],
+				[
+					16.66666666666663,
+					25.555555555556566
+				],
+				[
+					15.555555555555543,
+					31.111111111111313
+				],
+				[
+					14.444444444444457,
+					33.33333333333394
+				],
+				[
+					14.444444444444457,
+					34.44444444444525
+				],
+				[
+					16.66666666666663,
+					33.33333333333394
+				],
+				[
+					20,
+					33.33333333333394
+				],
+				[
+					24.444444444444457,
+					33.33333333333394
+				],
+				[
+					30,
+					34.44444444444525
+				],
+				[
+					34.44444444444446,
+					36.66666666666788
+				],
+				[
+					40,
+					38.88888888888869
+				],
+				[
+					43.33333333333337,
+					40
+				],
+				[
+					46.66666666666663,
+					40
+				],
+				[
+					47.77777777777783,
+					40
+				],
+				[
+					48.888888888888914,
+					38.88888888888869
+				],
+				[
+					48.888888888888914,
+					38.88888888888869
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				48.888888888888914,
+				38.88888888888869
+			]
+		},
+		{
+			"id": "d1JwU364sAu9IrGsDVlDf",
+			"type": "freedraw",
+			"x": -566.7895194875744,
+			"y": 8498.88670150241,
+			"width": 22.222222222222285,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1367808960,
+			"version": 18,
+			"versionNonce": 638609472,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					12.222222222222285,
+					0
+				],
+				[
+					16.66666666666663,
+					0
+				],
+				[
+					20,
+					0
+				],
+				[
+					21.111111111111086,
+					0
+				],
+				[
+					22.222222222222285,
+					0
+				],
+				[
+					22.222222222222285,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.222222222222285,
+				0
+			]
+		},
+		{
+			"id": "k1jAzO8D8aUzDLsZgMZLo",
+			"type": "freedraw",
+			"x": -562.3450750431299,
+			"y": 8525.553368169076,
+			"width": 20,
+			"height": 4.444444444445253,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1906399296,
+			"version": 18,
+			"versionNonce": 1337539520,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					-1.1111111111113132
+				],
+				[
+					4.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					7.777777777777828,
+					-2.2222222222226264
+				],
+				[
+					10,
+					-3.3333333333339397
+				],
+				[
+					13.333333333333371,
+					-3.3333333333339397
+				],
+				[
+					18.888888888888914,
+					-4.444444444445253
+				],
+				[
+					20,
+					-4.444444444445253
+				],
+				[
+					20,
+					-4.444444444445253
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20,
+				-4.444444444445253
+			]
+		},
+		{
+			"id": "eME_tdceoqdaFazOI-yZd",
+			"type": "freedraw",
+			"x": -501.2339639320188,
+			"y": 8419.997812613521,
+			"width": 30,
+			"height": 45.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 875033536,
+			"version": 39,
+			"versionNonce": 274292800,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					6.66666666666606
+				],
+				[
+					0,
+					7.777777777777374
+				],
+				[
+					0,
+					16.66666666666606
+				],
+				[
+					2.2222222222222854,
+					25.555555555554747
+				],
+				[
+					5.555555555555543,
+					35.55555555555475
+				],
+				[
+					7.777777777777828,
+					38.88888888888869
+				],
+				[
+					10,
+					41.111111111109494
+				],
+				[
+					12.222222222222285,
+					42.22222222222081
+				],
+				[
+					15.555555555555543,
+					42.22222222222081
+				],
+				[
+					18.888888888888914,
+					40
+				],
+				[
+					22.222222222222285,
+					33.33333333333212
+				],
+				[
+					24.444444444444457,
+					25.555555555554747
+				],
+				[
+					25.555555555555543,
+					17.777777777777374
+				],
+				[
+					25.555555555555543,
+					12.222222222220807
+				],
+				[
+					26.666666666666742,
+					5.555555555554747
+				],
+				[
+					26.666666666666742,
+					0
+				],
+				[
+					26.666666666666742,
+					-2.2222222222226264
+				],
+				[
+					26.666666666666742,
+					-3.3333333333339397
+				],
+				[
+					26.666666666666742,
+					-2.2222222222226264
+				],
+				[
+					27.77777777777783,
+					0
+				],
+				[
+					27.77777777777783,
+					4.444444444443434
+				],
+				[
+					27.77777777777783,
+					10
+				],
+				[
+					28.888888888888914,
+					14.444444444443434
+				],
+				[
+					28.888888888888914,
+					16.66666666666606
+				],
+				[
+					28.888888888888914,
+					17.777777777777374
+				],
+				[
+					28.888888888888914,
+					18.888888888888687
+				],
+				[
+					28.888888888888914,
+					21.111111111109494
+				],
+				[
+					28.888888888888914,
+					22.222222222220807
+				],
+				[
+					30,
+					23.33333333333212
+				],
+				[
+					30,
+					23.33333333333212
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				30,
+				23.33333333333212
+			]
+		},
+		{
+			"id": "ScKYE-pNUl5Bn31NPjWl0",
+			"type": "freedraw",
+			"x": -456.78951948757435,
+			"y": 8439.997812613521,
+			"width": 0,
+			"height": 14.444444444443434,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1273525184,
+			"version": 16,
+			"versionNonce": 1151058880,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111094942
+				],
+				[
+					0,
+					3.3333333333321207
+				],
+				[
+					0,
+					10
+				],
+				[
+					0,
+					11.111111111109494
+				],
+				[
+					0,
+					12.222222222220807
+				],
+				[
+					0,
+					14.444444444443434
+				],
+				[
+					0,
+					14.444444444443434
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				14.444444444443434
+			]
+		},
+		{
+			"id": "jOm585uc8-KySfdRB3hem",
+			"type": "freedraw",
+			"x": -506.78951948757435,
+			"y": 8484.442257057965,
+			"width": 80,
+			"height": 8.888888888888687,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 849578048,
+			"version": 26,
+			"versionNonce": 918771776,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					14.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					21.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					30,
+					-4.444444444443434
+				],
+				[
+					38.888888888888914,
+					-6.66666666666606
+				],
+				[
+					47.77777777777783,
+					-6.66666666666606
+				],
+				[
+					54.44444444444446,
+					-7.777777777777374
+				],
+				[
+					62.222222222222285,
+					-7.777777777777374
+				],
+				[
+					67.77777777777783,
+					-7.777777777777374
+				],
+				[
+					71.11111111111109,
+					-7.777777777777374
+				],
+				[
+					74.44444444444446,
+					-7.777777777777374
+				],
+				[
+					76.66666666666663,
+					-7.777777777777374
+				],
+				[
+					77.77777777777783,
+					-7.777777777777374
+				],
+				[
+					78.88888888888891,
+					-8.888888888888687
+				],
+				[
+					80,
+					-8.888888888888687
+				],
+				[
+					80,
+					-8.888888888888687
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				80,
+				-8.888888888888687
+			]
+		},
+		{
+			"id": "5vVd16WKonyB6eSKOTCZ9",
+			"type": "freedraw",
+			"x": -459.0117417097965,
+			"y": 8446.664479280187,
+			"width": 41.111111111111086,
+			"height": 21.111111111111313,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 767484864,
+			"version": 31,
+			"versionNonce": 200100800,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					-1.1111111111113132
+				],
+				[
+					4.444444444444457,
+					-4.444444444445253
+				],
+				[
+					10,
+					-5.555555555556566
+				],
+				[
+					14.444444444444457,
+					-5.555555555556566
+				],
+				[
+					17.777777777777715,
+					-5.555555555556566
+				],
+				[
+					18.8888888888888,
+					-5.555555555556566
+				],
+				[
+					20,
+					-4.444444444445253
+				],
+				[
+					20,
+					-2.2222222222226264
+				],
+				[
+					21.111111111111086,
+					2.2222222222208075
+				],
+				[
+					20,
+					6.66666666666606
+				],
+				[
+					17.777777777777715,
+					11.111111111111313
+				],
+				[
+					16.66666666666663,
+					14.444444444443434
+				],
+				[
+					15.555555555555543,
+					15.555555555554747
+				],
+				[
+					16.66666666666663,
+					15.555555555554747
+				],
+				[
+					22.22222222222217,
+					12.222222222220807
+				],
+				[
+					26.66666666666663,
+					11.111111111111313
+				],
+				[
+					31.111111111111086,
+					8.888888888888687
+				],
+				[
+					35.55555555555554,
+					6.66666666666606
+				],
+				[
+					37.777777777777715,
+					6.66666666666606
+				],
+				[
+					40,
+					5.555555555554747
+				],
+				[
+					41.111111111111086,
+					5.555555555554747
+				],
+				[
+					41.111111111111086,
+					5.555555555554747
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				41.111111111111086,
+				5.555555555554747
+			]
+		},
+		{
+			"id": "-qqF7egmDWuV4X08WU8MC",
+			"type": "freedraw",
+			"x": -461.2339639320188,
+			"y": 8505.553368169076,
+			"width": 28.888888888888914,
+			"height": 47.77777777777919,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 154309568,
+			"version": 51,
+			"versionNonce": 1831751744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111110858,
+					0
+				],
+				[
+					-2.2222222222221717,
+					0
+				],
+				[
+					-4.444444444444457,
+					0
+				],
+				[
+					-7.777777777777715,
+					-1.1111111111113132
+				],
+				[
+					-12.222222222222172,
+					-2.2222222222226264
+				],
+				[
+					-15.555555555555543,
+					-2.2222222222226264
+				],
+				[
+					-20,
+					-3.3333333333339397
+				],
+				[
+					-22.22222222222217,
+					-3.3333333333339397
+				],
+				[
+					-23.333333333333258,
+					-3.3333333333339397
+				],
+				[
+					-23.333333333333258,
+					0
+				],
+				[
+					-23.333333333333258,
+					3.3333333333339397
+				],
+				[
+					-24.444444444444457,
+					6.66666666666606
+				],
+				[
+					-24.444444444444457,
+					10
+				],
+				[
+					-24.444444444444457,
+					11.111111111111313
+				],
+				[
+					-23.333333333333258,
+					13.33333333333394
+				],
+				[
+					-22.22222222222217,
+					13.33333333333394
+				],
+				[
+					-21.111111111111086,
+					13.33333333333394
+				],
+				[
+					-20,
+					13.33333333333394
+				],
+				[
+					-18.888888888888914,
+					13.33333333333394
+				],
+				[
+					-16.66666666666663,
+					13.33333333333394
+				],
+				[
+					-15.555555555555543,
+					14.444444444445253
+				],
+				[
+					-14.444444444444457,
+					14.444444444445253
+				],
+				[
+					-13.333333333333258,
+					15.555555555554747
+				],
+				[
+					-12.222222222222172,
+					16.66666666666606
+				],
+				[
+					-11.111111111111086,
+					18.888888888888687
+				],
+				[
+					-10,
+					20
+				],
+				[
+					-10,
+					22.222222222222626
+				],
+				[
+					-10,
+					23.33333333333394
+				],
+				[
+					-8.888888888888914,
+					24.444444444445253
+				],
+				[
+					-8.888888888888914,
+					25.555555555554747
+				],
+				[
+					-8.888888888888914,
+					27.777777777777374
+				],
+				[
+					-8.888888888888914,
+					30
+				],
+				[
+					-10,
+					33.33333333333394
+				],
+				[
+					-12.222222222222172,
+					36.66666666666606
+				],
+				[
+					-13.333333333333258,
+					40
+				],
+				[
+					-15.555555555555543,
+					41.11111111111131
+				],
+				[
+					-18.888888888888914,
+					42.222222222222626
+				],
+				[
+					-21.111111111111086,
+					43.33333333333394
+				],
+				[
+					-24.444444444444457,
+					44.44444444444525
+				],
+				[
+					-27.777777777777715,
+					44.44444444444525
+				],
+				[
+					-28.888888888888914,
+					44.44444444444525
+				],
+				[
+					-28.888888888888914,
+					44.44444444444525
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-28.888888888888914,
+				44.44444444444525
+			]
+		},
+		{
+			"id": "R-ZiKtBJxBoWLyzyrw5p1",
+			"type": "freedraw",
+			"x": -542.3450750431299,
+			"y": 8629.997812613521,
+			"width": 22.22222222222217,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 683754432,
+			"version": 20,
+			"versionNonce": 2144195520,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					-1.1111111111113132
+				],
+				[
+					4.444444444444457,
+					-2.2222222222226264
+				],
+				[
+					7.777777777777828,
+					-2.2222222222226264
+				],
+				[
+					11.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					14.444444444444457,
+					-3.3333333333339397
+				],
+				[
+					17.77777777777783,
+					-3.3333333333339397
+				],
+				[
+					20,
+					-2.2222222222226264
+				],
+				[
+					22.22222222222217,
+					-2.2222222222226264
+				],
+				[
+					22.22222222222217,
+					-1.1111111111113132
+				],
+				[
+					22.22222222222217,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.22222222222217,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "ZKf69hF4rOUhwUrr3skDZ",
+			"type": "freedraw",
+			"x": -527.9006305986854,
+			"y": 8646.664479280187,
+			"width": 11.111111111111086,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1074178112,
+			"version": 15,
+			"versionNonce": 192563264,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					4.444444444444457,
+					0
+				],
+				[
+					7.777777777777715,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.111111111111086,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "O0UNhDxoekD34ky_A2C4f",
+			"type": "freedraw",
+			"x": -469.0117417097965,
+			"y": 8582.220034835744,
+			"width": 1.1111111111110858,
+			"height": 32.22222222222081,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1481672768,
+			"version": 17,
+			"versionNonce": 912088000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111094942
+				],
+				[
+					0,
+					4.444444444443434
+				],
+				[
+					0,
+					10
+				],
+				[
+					1.1111111111110858,
+					16.66666666666606
+				],
+				[
+					1.1111111111110858,
+					23.33333333333212
+				],
+				[
+					1.1111111111110858,
+					28.888888888888687
+				],
+				[
+					1.1111111111110858,
+					32.22222222222081
+				],
+				[
+					1.1111111111110858,
+					32.22222222222081
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.1111111111110858,
+				32.22222222222081
+			]
+		},
+		{
+			"id": "wQ6XLGbA3xdQyEgWOfOCM",
+			"type": "freedraw",
+			"x": -439.0117417097965,
+			"y": 8577.775590391298,
+			"width": 20,
+			"height": 46.66666666666606,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 330522688,
+			"version": 28,
+			"versionNonce": 1837580352,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.2222222222222854,
+					4.444444444445253
+				],
+				[
+					-3.3333333333333712,
+					7.777777777777374
+				],
+				[
+					-3.3333333333333712,
+					8.888888888888687
+				],
+				[
+					0,
+					18.888888888888687
+				],
+				[
+					2.2222222222221717,
+					21.111111111111313
+				],
+				[
+					3.3333333333332575,
+					22.222222222222626
+				],
+				[
+					8.8888888888888,
+					25.555555555554747
+				],
+				[
+					14.444444444444457,
+					30
+				],
+				[
+					15.555555555555543,
+					31.111111111111313
+				],
+				[
+					16.66666666666663,
+					32.222222222222626
+				],
+				[
+					16.66666666666663,
+					34.44444444444525
+				],
+				[
+					16.66666666666663,
+					36.66666666666606
+				],
+				[
+					14.444444444444457,
+					38.88888888888869
+				],
+				[
+					12.222222222222172,
+					41.11111111111131
+				],
+				[
+					7.777777777777715,
+					43.33333333333394
+				],
+				[
+					3.3333333333332575,
+					45.55555555555475
+				],
+				[
+					-1.1111111111111995,
+					46.66666666666606
+				],
+				[
+					-2.2222222222222854,
+					46.66666666666606
+				],
+				[
+					-2.2222222222222854,
+					46.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-2.2222222222222854,
+				46.66666666666606
+			]
+		},
+		{
+			"id": "H9DpKSZn0D4npxyv_0gJv",
+			"type": "freedraw",
+			"x": -485.67840837646327,
+			"y": 8648.88670150241,
+			"width": 75.55555555555554,
+			"height": 5.555555555556566,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 833885120,
+			"version": 20,
+			"versionNonce": 29090752,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					8.888888888888914,
+					-2.2222222222226264
+				],
+				[
+					11.1111111111112,
+					-3.3333333333339397
+				],
+				[
+					21.1111111111112,
+					-4.444444444445253
+				],
+				[
+					34.44444444444446,
+					-5.555555555556566
+				],
+				[
+					47.77777777777783,
+					-5.555555555556566
+				],
+				[
+					58.888888888888914,
+					-5.555555555556566
+				],
+				[
+					66.66666666666674,
+					-5.555555555556566
+				],
+				[
+					71.1111111111112,
+					-5.555555555556566
+				],
+				[
+					74.44444444444446,
+					-5.555555555556566
+				],
+				[
+					75.55555555555554,
+					-5.555555555556566
+				],
+				[
+					75.55555555555554,
+					-5.555555555556566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				75.55555555555554,
+				-5.555555555556566
+			]
+		},
+		{
+			"id": "Umr2IzDSZTfYR_PjFULm9",
+			"type": "freedraw",
+			"x": -451.2339639320188,
+			"y": 8662.220034835744,
+			"width": 20,
+			"height": 57.777777777777374,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1292163136,
+			"version": 32,
+			"versionNonce": 1932867648,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.3333333333332575,
+					2.2222222222208075
+				],
+				[
+					-5.555555555555543,
+					4.444444444443434
+				],
+				[
+					-5.555555555555543,
+					7.777777777777374
+				],
+				[
+					-5.555555555555543,
+					11.111111111109494
+				],
+				[
+					-5.555555555555543,
+					16.66666666666606
+				],
+				[
+					-3.3333333333332575,
+					22.222222222220807
+				],
+				[
+					-1.1111111111110858,
+					25.555555555554747
+				],
+				[
+					1.1111111111110858,
+					28.888888888888687
+				],
+				[
+					2.2222222222222854,
+					30
+				],
+				[
+					3.3333333333333712,
+					32.22222222222081
+				],
+				[
+					3.3333333333333712,
+					34.444444444443434
+				],
+				[
+					3.3333333333333712,
+					37.777777777777374
+				],
+				[
+					2.2222222222222854,
+					42.22222222222081
+				],
+				[
+					1.1111111111110858,
+					46.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					50
+				],
+				[
+					-4.444444444444457,
+					53.33333333333212
+				],
+				[
+					-6.666666666666629,
+					55.55555555555475
+				],
+				[
+					-8.888888888888914,
+					56.66666666666606
+				],
+				[
+					-12.222222222222172,
+					57.777777777777374
+				],
+				[
+					-14.444444444444457,
+					57.777777777777374
+				],
+				[
+					-15.555555555555543,
+					57.777777777777374
+				],
+				[
+					-16.66666666666663,
+					57.777777777777374
+				],
+				[
+					-16.66666666666663,
+					57.777777777777374
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-16.66666666666663,
+				57.777777777777374
+			]
+		},
+		{
+			"id": "rzilI2WP85vfddGgIP2Ww",
+			"type": "freedraw",
+			"x": -387.90063059868544,
+			"y": 8644.442257057965,
+			"width": 10,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1843932096,
+			"version": 16,
+			"versionNonce": 1879665600,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333333712,
+					0
+				],
+				[
+					5.555555555555543,
+					0
+				],
+				[
+					7.777777777777715,
+					-1.1111111111113132
+				],
+				[
+					8.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				10,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "whPPQy70jUKjN6xtiwSP3",
+			"type": "freedraw",
+			"x": -392.3450750431299,
+			"y": 8667.775590391298,
+			"width": 8.888888888888914,
+			"height": 2.2222222222226264,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2104971328,
+			"version": 14,
+			"versionNonce": 6565952,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					4.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					7.777777777777828,
+					-2.2222222222226264
+				],
+				[
+					8.888888888888914,
+					-2.2222222222226264
+				],
+				[
+					8.888888888888914,
+					-2.2222222222226264
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				8.888888888888914,
+				-2.2222222222226264
+			]
+		},
+		{
+			"id": "JvaIxeLD8CV4IjEHrtWWy",
+			"type": "freedraw",
+			"x": -351.2339639320188,
+			"y": 8607.775590391298,
+			"width": 27.77777777777783,
+			"height": 91.11111111111131,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1714449344,
+			"version": 39,
+			"versionNonce": 1264972736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.444444444444457,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-2.2222222222226264
+				],
+				[
+					14.444444444444457,
+					-4.444444444445253
+				],
+				[
+					18.888888888888914,
+					-4.444444444445253
+				],
+				[
+					21.1111111111112,
+					-4.444444444445253
+				],
+				[
+					22.222222222222285,
+					-4.444444444445253
+				],
+				[
+					22.222222222222285,
+					-1.1111111111113132
+				],
+				[
+					22.222222222222285,
+					3.3333333333339397
+				],
+				[
+					21.1111111111112,
+					10
+				],
+				[
+					18.888888888888914,
+					17.777777777777374
+				],
+				[
+					14.444444444444457,
+					24.444444444445253
+				],
+				[
+					10,
+					30
+				],
+				[
+					7.777777777777828,
+					32.222222222222626
+				],
+				[
+					7.777777777777828,
+					33.33333333333394
+				],
+				[
+					7.777777777777828,
+					34.44444444444525
+				],
+				[
+					8.888888888888914,
+					35.55555555555475
+				],
+				[
+					10,
+					36.66666666666606
+				],
+				[
+					13.333333333333371,
+					38.88888888888869
+				],
+				[
+					16.666666666666742,
+					42.222222222222626
+				],
+				[
+					21.1111111111112,
+					47.777777777777374
+				],
+				[
+					24.444444444444457,
+					52.222222222222626
+				],
+				[
+					26.666666666666742,
+					56.66666666666606
+				],
+				[
+					27.77777777777783,
+					61.11111111111131
+				],
+				[
+					27.77777777777783,
+					65.55555555555475
+				],
+				[
+					26.666666666666742,
+					72.22222222222263
+				],
+				[
+					23.33333333333337,
+					78.88888888888869
+				],
+				[
+					17.77777777777783,
+					84.44444444444525
+				],
+				[
+					8.888888888888914,
+					86.66666666666606
+				],
+				[
+					7.777777777777828,
+					86.66666666666606
+				],
+				[
+					7.777777777777828,
+					86.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				7.777777777777828,
+				86.66666666666606
+			]
+		},
+		{
+			"id": "Baj23W0ASaIcREVS8Q2zO",
+			"type": "freedraw",
+			"x": -219.01174170979652,
+			"y": 8104.442257057964,
+			"width": 31.111111111111086,
+			"height": 70,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 570485696,
+			"version": 34,
+			"versionNonce": 2096375872,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3333333333339397
+				],
+				[
+					-1.1111111111110858,
+					12.222222222222626
+				],
+				[
+					-2.2222222222221717,
+					25.555555555555657
+				],
+				[
+					-3.3333333333332575,
+					38.888888888889596
+				],
+				[
+					-3.3333333333332575,
+					47.77777777777828
+				],
+				[
+					-2.2222222222221717,
+					56.66666666666697
+				],
+				[
+					-1.1111111111110858,
+					58.888888888889596
+				],
+				[
+					1.1111111111110858,
+					60
+				],
+				[
+					5.555555555555429,
+					60
+				],
+				[
+					11.111111111111086,
+					56.66666666666697
+				],
+				[
+					15.55555555555543,
+					52.222222222222626
+				],
+				[
+					20,
+					45.55555555555566
+				],
+				[
+					23.333333333333258,
+					36.66666666666697
+				],
+				[
+					26.666666666666742,
+					28.888888888889596
+				],
+				[
+					27.77777777777783,
+					22.222222222222626
+				],
+				[
+					27.77777777777783,
+					18.888888888889596
+				],
+				[
+					27.77777777777783,
+					17.777777777778283
+				],
+				[
+					27.77777777777783,
+					18.888888888889596
+				],
+				[
+					27.77777777777783,
+					27.777777777778283
+				],
+				[
+					26.666666666666742,
+					41.11111111111131
+				],
+				[
+					26.666666666666742,
+					54.44444444444434
+				],
+				[
+					25.55555555555543,
+					63.33333333333394
+				],
+				[
+					25.55555555555543,
+					67.77777777777828
+				],
+				[
+					25.55555555555543,
+					70
+				],
+				[
+					25.55555555555543,
+					70
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25.55555555555543,
+				70
+			]
+		},
+		{
+			"id": "i538axCIOuMTS1n7OHFrT",
+			"type": "freedraw",
+			"x": -170.1228528209076,
+			"y": 8175.553368169075,
+			"width": 1.1111111111110858,
+			"height": 25.555555555555657,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 70404160,
+			"version": 15,
+			"versionNonce": 435256256,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					7.777777777778283
+				],
+				[
+					0,
+					14.444444444444343
+				],
+				[
+					0,
+					18.888888888889596
+				],
+				[
+					-1.1111111111110858,
+					25.555555555555657
+				],
+				[
+					-1.1111111111110858,
+					23.33333333333303
+				],
+				[
+					-1.1111111111110858,
+					23.33333333333303
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-1.1111111111110858,
+				23.33333333333303
+			]
+		},
+		{
+			"id": "10ik5he-0ULNcMMo0GqPj",
+			"type": "freedraw",
+			"x": -159.01174170979652,
+			"y": 8144.442257057964,
+			"width": 15.55555555555543,
+			"height": 2.222222222221717,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1504454720,
+			"version": 18,
+			"versionNonce": 1422204992,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333332575,
+					-1.1111111111104037
+				],
+				[
+					4.444444444444343,
+					-1.1111111111104037
+				],
+				[
+					5.555555555555429,
+					-1.1111111111104037
+				],
+				[
+					7.777777777777828,
+					-1.1111111111104037
+				],
+				[
+					8.888888888888914,
+					-1.1111111111104037
+				],
+				[
+					13.333333333333258,
+					0
+				],
+				[
+					14.444444444444343,
+					1.1111111111113132
+				],
+				[
+					15.55555555555543,
+					1.1111111111113132
+				],
+				[
+					15.55555555555543,
+					1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.55555555555543,
+				1.1111111111113132
+			]
+		},
+		{
+			"id": "H5De2xZPxrtqKYwHBJpCY",
+			"type": "freedraw",
+			"x": -159.01174170979652,
+			"y": 8165.553368169075,
+			"width": 20,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1318331328,
+			"version": 16,
+			"versionNonce": 499909568,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					5.555555555555429,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					14.444444444444343,
+					0
+				],
+				[
+					18.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					20,
+					-1.1111111111113132
+				],
+				[
+					20,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "xyBVhdqCHd8__emTZn_Me",
+			"type": "freedraw",
+			"x": -101.2339639320187,
+			"y": 8121.108923724631,
+			"width": 33.33333333333326,
+			"height": 52.222222222222626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 262330432,
+			"version": 31,
+			"versionNonce": 2008488000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.444444444444571,
+					16.66666666666697
+				],
+				[
+					-7.777777777777828,
+					35.55555555555566
+				],
+				[
+					-10,
+					44.44444444444434
+				],
+				[
+					-11.111111111111086,
+					48.88888888888869
+				],
+				[
+					-10,
+					48.88888888888869
+				],
+				[
+					-7.777777777777828,
+					48.88888888888869
+				],
+				[
+					-2.222222222222399,
+					45.55555555555566
+				],
+				[
+					2.2222222222221717,
+					42.222222222222626
+				],
+				[
+					8.888888888888914,
+					35.55555555555566
+				],
+				[
+					15.55555555555543,
+					25.555555555555657
+				],
+				[
+					18.888888888888914,
+					16.66666666666697
+				],
+				[
+					21.111111111111086,
+					8.888888888888687
+				],
+				[
+					22.22222222222217,
+					5.555555555555657
+				],
+				[
+					22.22222222222217,
+					6.66666666666697
+				],
+				[
+					21.111111111111086,
+					15.555555555555657
+				],
+				[
+					21.111111111111086,
+					27.777777777777374
+				],
+				[
+					20,
+					40
+				],
+				[
+					20,
+					45.55555555555566
+				],
+				[
+					20,
+					48.88888888888869
+				],
+				[
+					20,
+					51.11111111111131
+				],
+				[
+					22.22222222222217,
+					52.222222222222626
+				],
+				[
+					22.22222222222217,
+					52.222222222222626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.22222222222217,
+				52.222222222222626
+			]
+		},
+		{
+			"id": "svaUPsT1j27_asGEtWB5O",
+			"type": "freedraw",
+			"x": -54.56729726535218,
+			"y": 8169.997812613519,
+			"width": 21.111111111111086,
+			"height": 22.222222222222626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 837318720,
+			"version": 30,
+			"versionNonce": 1427475392,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111110858,
+					0
+				],
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.222222222222399,
+					0
+				],
+				[
+					4.444444444444571,
+					0
+				],
+				[
+					6.6666666666667425,
+					0
+				],
+				[
+					7.777777777777828,
+					1.1111111111113132
+				],
+				[
+					7.777777777777828,
+					6.66666666666697
+				],
+				[
+					4.444444444444571,
+					12.222222222222626
+				],
+				[
+					2.222222222222399,
+					16.66666666666697
+				],
+				[
+					1.1111111111110858,
+					20
+				],
+				[
+					0,
+					21.111111111111313
+				],
+				[
+					1.1111111111110858,
+					21.111111111111313
+				],
+				[
+					2.222222222222399,
+					21.111111111111313
+				],
+				[
+					4.444444444444571,
+					21.111111111111313
+				],
+				[
+					8.888888888888914,
+					22.222222222222626
+				],
+				[
+					13.333333333333485,
+					22.222222222222626
+				],
+				[
+					18.888888888888914,
+					22.222222222222626
+				],
+				[
+					20,
+					22.222222222222626
+				],
+				[
+					20,
+					21.111111111111313
+				],
+				[
+					20,
+					21.111111111111313
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20,
+				21.111111111111313
+			]
+		},
+		{
+			"id": "9os9WCStKXHlv3Ihyu3xE",
+			"type": "freedraw",
+			"x": -26.789519487574353,
+			"y": 8141.108923724631,
+			"width": 23.333333333333258,
+			"height": 2.2222222222226264,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1238696896,
+			"version": 17,
+			"versionNonce": 1504317504,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					5.555555555555657,
+					0
+				],
+				[
+					8.888888888888914,
+					1.1111111111113132
+				],
+				[
+					13.333333333333258,
+					2.2222222222226264
+				],
+				[
+					17.77777777777783,
+					2.2222222222226264
+				],
+				[
+					22.22222222222217,
+					2.2222222222226264
+				],
+				[
+					23.333333333333258,
+					2.2222222222226264
+				],
+				[
+					23.333333333333258,
+					2.2222222222226264
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				23.333333333333258,
+				2.2222222222226264
+			]
+		},
+		{
+			"id": "wBXBPZhY0Wn6v_wmC_m8t",
+			"type": "freedraw",
+			"x": -23.456186154241095,
+			"y": 8159.997812613519,
+			"width": 38.888888888888914,
+			"height": 2.222222222221717,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1232776128,
+			"version": 17,
+			"versionNonce": 2045645760,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111113132,
+					0
+				],
+				[
+					5.555555555555657,
+					0
+				],
+				[
+					13.333333333333485,
+					0
+				],
+				[
+					21.111111111111313,
+					-1.1111111111113132
+				],
+				[
+					28.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					34.44444444444457,
+					-1.1111111111113132
+				],
+				[
+					38.888888888888914,
+					-2.222222222221717
+				],
+				[
+					38.888888888888914,
+					-2.222222222221717
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				38.888888888888914,
+				-2.222222222221717
+			]
+		},
+		{
+			"id": "wjxdVfPGOGBK_5spPONIk",
+			"type": "freedraw",
+			"x": 49.87714717909239,
+			"y": 8112.220034835742,
+			"width": 4.444444444444571,
+			"height": 54.44444444444434,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 77026240,
+			"version": 19,
+			"versionNonce": 1920862272,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					0,
+					10
+				],
+				[
+					-1.1111111111110858,
+					21.111111111111313
+				],
+				[
+					-2.2222222222221717,
+					31.111111111111313
+				],
+				[
+					-3.333333333333485,
+					38.88888888888869
+				],
+				[
+					-4.444444444444571,
+					45.55555555555566
+				],
+				[
+					-4.444444444444571,
+					50
+				],
+				[
+					-4.444444444444571,
+					53.33333333333303
+				],
+				[
+					-4.444444444444571,
+					54.44444444444434
+				],
+				[
+					-4.444444444444571,
+					54.44444444444434
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-4.444444444444571,
+				54.44444444444434
+			]
+		},
+		{
+			"id": "wpyPqQ6eIf0LG0t_otk-A",
+			"type": "freedraw",
+			"x": 83.21048051242565,
+			"y": 8112.220034835742,
+			"width": 23.333333333333258,
+			"height": 58.88888888888869,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1567982528,
+			"version": 33,
+			"versionNonce": 41262016,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-8.888888888888914,
+					2.222222222221717
+				],
+				[
+					-13.333333333333258,
+					5.555555555555657
+				],
+				[
+					-17.77777777777783,
+					10
+				],
+				[
+					-18.888888888888914,
+					13.33333333333303
+				],
+				[
+					-20,
+					16.66666666666606
+				],
+				[
+					-20,
+					18.888888888888687
+				],
+				[
+					-17.77777777777783,
+					23.33333333333303
+				],
+				[
+					-13.333333333333258,
+					27.777777777777374
+				],
+				[
+					-7.777777777777828,
+					31.111111111111313
+				],
+				[
+					-2.2222222222221717,
+					35.55555555555566
+				],
+				[
+					0,
+					37.777777777777374
+				],
+				[
+					1.1111111111110858,
+					38.88888888888869
+				],
+				[
+					1.1111111111110858,
+					40
+				],
+				[
+					1.1111111111110858,
+					44.44444444444434
+				],
+				[
+					1.1111111111110858,
+					50
+				],
+				[
+					-1.1111111111110858,
+					54.44444444444434
+				],
+				[
+					-3.3333333333332575,
+					57.777777777777374
+				],
+				[
+					-7.777777777777828,
+					58.88888888888869
+				],
+				[
+					-13.333333333333258,
+					58.88888888888869
+				],
+				[
+					-18.888888888888914,
+					57.777777777777374
+				],
+				[
+					-21.111111111111086,
+					55.55555555555566
+				],
+				[
+					-22.22222222222217,
+					53.33333333333303
+				],
+				[
+					-22.22222222222217,
+					52.22222222222172
+				],
+				[
+					-22.22222222222217,
+					52.22222222222172
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-22.22222222222217,
+				52.22222222222172
+			]
+		},
+		{
+			"id": "tryC7Z3EnYHG3MDaXNavM",
+			"type": "freedraw",
+			"x": 119.87714717909239,
+			"y": 8116.664479280186,
+			"width": 42.22222222222217,
+			"height": 57.777777777777374,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 773024704,
+			"version": 21,
+			"versionNonce": 1041432640,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					4.444444444444343
+				],
+				[
+					4.444444444444343,
+					15.555555555555657
+				],
+				[
+					7.777777777777828,
+					25.555555555555657
+				],
+				[
+					13.333333333333258,
+					53.33333333333303
+				],
+				[
+					16.666666666666742,
+					48.88888888888869
+				],
+				[
+					23.333333333333258,
+					37.777777777777374
+				],
+				[
+					31.111111111111086,
+					25.555555555555657
+				],
+				[
+					35.55555555555543,
+					15.555555555555657
+				],
+				[
+					38.888888888888914,
+					6.66666666666697
+				],
+				[
+					41.111111111111086,
+					-1.1111111111113132
+				],
+				[
+					42.22222222222217,
+					-4.444444444444343
+				],
+				[
+					42.22222222222217,
+					-4.444444444444343
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				42.22222222222217,
+				-4.444444444444343
+			]
+		},
+		{
+			"id": "AliTEly6Y1J3Du5DXAvt8",
+			"type": "freedraw",
+			"x": -201.2339639320187,
+			"y": 8294.442257057965,
+			"width": 5.555555555555657,
+			"height": 65.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1846944704,
+			"version": 20,
+			"versionNonce": 550249408,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					-1.1111111111110858,
+					2.2222222222226264
+				],
+				[
+					-1.1111111111110858,
+					3.3333333333339397
+				],
+				[
+					-2.222222222222399,
+					11.111111111111313
+				],
+				[
+					-3.333333333333485,
+					25.555555555554747
+				],
+				[
+					-4.444444444444571,
+					41.11111111111131
+				],
+				[
+					-4.444444444444571,
+					53.33333333333394
+				],
+				[
+					-5.555555555555657,
+					61.11111111111131
+				],
+				[
+					-5.555555555555657,
+					64.44444444444343
+				],
+				[
+					-5.555555555555657,
+					65.55555555555475
+				],
+				[
+					-5.555555555555657,
+					65.55555555555475
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-5.555555555555657,
+				65.55555555555475
+			]
+		},
+		{
+			"id": "bFTxxe3WDX_MAcASg9YtO",
+			"type": "freedraw",
+			"x": -167.90063059868544,
+			"y": 8354.442257057965,
+			"width": 0,
+			"height": 35.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 362268736,
+			"version": 16,
+			"versionNonce": 1011415104,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					13.33333333333394
+				],
+				[
+					0,
+					20
+				],
+				[
+					0,
+					26.66666666666606
+				],
+				[
+					0,
+					32.222222222222626
+				],
+				[
+					0,
+					34.444444444443434
+				],
+				[
+					0,
+					35.55555555555475
+				],
+				[
+					0,
+					35.55555555555475
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				35.55555555555475
+			]
+		},
+		{
+			"id": "xMgvc2Ma2NMASniQdKfZQ",
+			"type": "freedraw",
+			"x": -135.67840837646327,
+			"y": 8317.775590391298,
+			"width": 28.888888888888914,
+			"height": 2.2222222222226264,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 422312896,
+			"version": 17,
+			"versionNonce": 1125231552,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.444444444444571,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-2.2222222222226264
+				],
+				[
+					15.555555555555657,
+					-2.2222222222226264
+				],
+				[
+					22.22222222222217,
+					-2.2222222222226264
+				],
+				[
+					25.555555555555657,
+					-2.2222222222226264
+				],
+				[
+					28.888888888888914,
+					-2.2222222222226264
+				],
+				[
+					28.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					28.888888888888914,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				28.888888888888914,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "iat_kr1Eb439CV5nwZxfC",
+			"type": "freedraw",
+			"x": -119.01174170979652,
+			"y": 8341.10892372463,
+			"width": 22.22222222222217,
+			"height": 3.3333333333321207,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1266066368,
+			"version": 17,
+			"versionNonce": 1895821376,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669590,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333332575,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					13.333333333333258,
+					-1.1111111111113132
+				],
+				[
+					17.77777777777783,
+					-2.2222222222226264
+				],
+				[
+					20,
+					-2.2222222222226264
+				],
+				[
+					21.111111111111086,
+					-2.2222222222226264
+				],
+				[
+					22.22222222222217,
+					-3.3333333333321207
+				],
+				[
+					22.22222222222217,
+					-3.3333333333321207
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.22222222222217,
+				-3.3333333333321207
+			]
+		},
+		{
+			"id": "Pd_lNJFmjSi3OymYb6pmY",
+			"type": "freedraw",
+			"x": -49.011741709796524,
+			"y": 8241.10892372463,
+			"width": 1.1111111111110858,
+			"height": 52.222222222222626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1914194880,
+			"version": 19,
+			"versionNonce": 325465024,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.2222222222226264
+				],
+				[
+					0,
+					7.777777777777374
+				],
+				[
+					0,
+					16.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					26.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					36.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					43.33333333333394
+				],
+				[
+					-1.1111111111110858,
+					47.777777777777374
+				],
+				[
+					-1.1111111111110858,
+					50
+				],
+				[
+					-1.1111111111110858,
+					52.222222222222626
+				],
+				[
+					-1.1111111111110858,
+					52.222222222222626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-1.1111111111110858,
+				52.222222222222626
+			]
+		},
+		{
+			"id": "HpbIL0JYTWusQkTfism5P",
+			"type": "freedraw",
+			"x": -16.789519487574353,
+			"y": 8241.10892372463,
+			"width": 23.333333333333258,
+			"height": 55.55555555555475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 601652160,
+			"version": 34,
+			"versionNonce": 1679288384,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.3333333333332575,
+					2.2222222222226264
+				],
+				[
+					-4.444444444444343,
+					4.444444444445253
+				],
+				[
+					-5.555555555555429,
+					7.777777777777374
+				],
+				[
+					-6.6666666666667425,
+					10
+				],
+				[
+					-6.6666666666667425,
+					14.444444444445253
+				],
+				[
+					-4.444444444444343,
+					17.777777777777374
+				],
+				[
+					-1.1111111111110858,
+					21.111111111111313
+				],
+				[
+					2.2222222222221717,
+					24.444444444445253
+				],
+				[
+					5.555555555555657,
+					26.66666666666606
+				],
+				[
+					8.888888888888914,
+					27.777777777777374
+				],
+				[
+					10,
+					28.888888888888687
+				],
+				[
+					11.111111111111086,
+					30
+				],
+				[
+					12.222222222222172,
+					32.222222222222626
+				],
+				[
+					12.222222222222172,
+					36.66666666666606
+				],
+				[
+					13.333333333333258,
+					40
+				],
+				[
+					13.333333333333258,
+					43.33333333333394
+				],
+				[
+					12.222222222222172,
+					46.66666666666606
+				],
+				[
+					11.111111111111086,
+					48.88888888888869
+				],
+				[
+					10,
+					51.11111111111131
+				],
+				[
+					6.6666666666667425,
+					52.222222222222626
+				],
+				[
+					2.2222222222221717,
+					54.44444444444525
+				],
+				[
+					-3.3333333333332575,
+					55.55555555555475
+				],
+				[
+					-7.777777777777828,
+					55.55555555555475
+				],
+				[
+					-10,
+					55.55555555555475
+				],
+				[
+					-10,
+					55.55555555555475
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-10,
+				55.55555555555475
+			]
+		},
+		{
+			"id": "GZG9BpEFcfO8C6QIJW67O",
+			"type": "freedraw",
+			"x": -67.90063059868544,
+			"y": 8317.775590391297,
+			"width": 73.33333333333326,
+			"height": 5.555555555554747,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1136769088,
+			"version": 26,
+			"versionNonce": 2011806656,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					6.6666666666667425,
+					-1.1111111111113132
+				],
+				[
+					12.222222222222172,
+					-2.2222222222208075
+				],
+				[
+					20,
+					-3.3333333333321207
+				],
+				[
+					30,
+					-4.444444444443434
+				],
+				[
+					42.22222222222217,
+					-4.444444444443434
+				],
+				[
+					54.44444444444434,
+					-4.444444444443434
+				],
+				[
+					61.111111111111086,
+					-4.444444444443434
+				],
+				[
+					63.33333333333326,
+					-4.444444444443434
+				],
+				[
+					65.55555555555566,
+					-5.555555555554747
+				],
+				[
+					66.66666666666674,
+					-5.555555555554747
+				],
+				[
+					67.77777777777783,
+					-5.555555555554747
+				],
+				[
+					70,
+					-5.555555555554747
+				],
+				[
+					71.11111111111109,
+					-5.555555555554747
+				],
+				[
+					72.22222222222217,
+					-5.555555555554747
+				],
+				[
+					73.33333333333326,
+					-5.555555555554747
+				],
+				[
+					73.33333333333326,
+					-5.555555555554747
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				73.33333333333326,
+				-5.555555555554747
+			]
+		},
+		{
+			"id": "p3sUDYXBa7E6tBoXq5LIA",
+			"type": "freedraw",
+			"x": -49.011741709796524,
+			"y": 8339.99781261352,
+			"width": 3.3333333333332575,
+			"height": 42.222222222222626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1089582016,
+			"version": 20,
+			"versionNonce": 561045568,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					4.444444444445253
+				],
+				[
+					0,
+					8.888888888888687
+				],
+				[
+					0,
+					13.33333333333394
+				],
+				[
+					0,
+					14.444444444445253
+				],
+				[
+					-1.1111111111110858,
+					20
+				],
+				[
+					-1.1111111111110858,
+					25.555555555556566
+				],
+				[
+					-2.2222222222221717,
+					32.222222222222626
+				],
+				[
+					-3.3333333333332575,
+					37.77777777777919
+				],
+				[
+					-3.3333333333332575,
+					41.11111111111131
+				],
+				[
+					-3.3333333333332575,
+					42.222222222222626
+				],
+				[
+					-3.3333333333332575,
+					42.222222222222626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.3333333333332575,
+				42.222222222222626
+			]
+		},
+		{
+			"id": "gawgxgiyMPPZoj5TiBIeO",
+			"type": "freedraw",
+			"x": -7.900630598685439,
+			"y": 8339.99781261352,
+			"width": 28.888888888888914,
+			"height": 46.66666666666788,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1294547008,
+			"version": 34,
+			"versionNonce": 314328000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.3333333333332575,
+					1.1111111111113132
+				],
+				[
+					-6.6666666666667425,
+					3.3333333333339397
+				],
+				[
+					-13.333333333333258,
+					6.666666666667879
+				],
+				[
+					-13.333333333333258,
+					7.7777777777791925
+				],
+				[
+					-13.333333333333258,
+					8.888888888888687
+				],
+				[
+					-11.111111111111086,
+					14.444444444445253
+				],
+				[
+					-7.777777777777828,
+					17.777777777779193
+				],
+				[
+					-2.2222222222221717,
+					22.222222222222626
+				],
+				[
+					4.444444444444343,
+					26.66666666666788
+				],
+				[
+					7.777777777777828,
+					30
+				],
+				[
+					12.222222222222172,
+					34.44444444444525
+				],
+				[
+					14.444444444444343,
+					36.66666666666788
+				],
+				[
+					15.555555555555657,
+					37.77777777777919
+				],
+				[
+					15.555555555555657,
+					38.88888888888869
+				],
+				[
+					15.555555555555657,
+					40
+				],
+				[
+					14.444444444444343,
+					42.222222222222626
+				],
+				[
+					12.222222222222172,
+					44.44444444444525
+				],
+				[
+					10,
+					45.555555555556566
+				],
+				[
+					6.6666666666667425,
+					46.66666666666788
+				],
+				[
+					4.444444444444343,
+					46.66666666666788
+				],
+				[
+					0,
+					46.66666666666788
+				],
+				[
+					-3.3333333333332575,
+					46.66666666666788
+				],
+				[
+					-6.6666666666667425,
+					44.44444444444525
+				],
+				[
+					-7.777777777777828,
+					42.222222222222626
+				],
+				[
+					-7.777777777777828,
+					42.222222222222626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-7.777777777777828,
+				42.222222222222626
+			]
+		},
+		{
+			"id": "dEzaOUSub1zzLmr54NrOM",
+			"type": "freedraw",
+			"x": 47.65492495687022,
+			"y": 8298.886701502408,
+			"width": 13.333333333333258,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1939493824,
+			"version": 17,
+			"versionNonce": 954914880,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					1.1111111111113132
+				],
+				[
+					3.3333333333332575,
+					1.1111111111113132
+				],
+				[
+					6.666666666666515,
+					1.1111111111113132
+				],
+				[
+					10,
+					2.2222222222226264
+				],
+				[
+					12.222222222222172,
+					2.2222222222226264
+				],
+				[
+					13.333333333333258,
+					3.3333333333339397
+				],
+				[
+					13.333333333333258,
+					3.3333333333339397
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.333333333333258,
+				3.3333333333339397
+			]
+		},
+		{
+			"id": "p6XZJ2ioXIrdI9j_-yxyq",
+			"type": "freedraw",
+			"x": 50.988258290203476,
+			"y": 8328.886701502408,
+			"width": 34.44444444444434,
+			"height": 2.2222222222208075,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 502135744,
+			"version": 16,
+			"versionNonce": 1107151808,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					3.3333333333332575,
+					0
+				],
+				[
+					11.111111111111086,
+					-1.1111111111094942
+				],
+				[
+					21.111111111111086,
+					-1.1111111111094942
+				],
+				[
+					30,
+					-2.2222222222208075
+				],
+				[
+					34.44444444444434,
+					-2.2222222222208075
+				],
+				[
+					34.44444444444434,
+					-2.2222222222208075
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.44444444444434,
+				-2.2222222222208075
+			]
+		},
+		{
+			"id": "aPcZYo943BfecFofwjRs-",
+			"type": "freedraw",
+			"x": 133.21048051242565,
+			"y": 8257.775590391298,
+			"width": 2.2222222222221717,
+			"height": 96.66666666666606,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1147043904,
+			"version": 19,
+			"versionNonce": 1046859840,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					6.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					15.555555555554747
+				],
+				[
+					-2.2222222222221717,
+					27.777777777777374
+				],
+				[
+					-2.2222222222221717,
+					43.33333333333212
+				],
+				[
+					-2.2222222222221717,
+					58.88888888888869
+				],
+				[
+					-2.2222222222221717,
+					74.44444444444343
+				],
+				[
+					-2.2222222222221717,
+					86.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					93.33333333333212
+				],
+				[
+					-1.1111111111110858,
+					96.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					96.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-1.1111111111110858,
+				96.66666666666606
+			]
+		},
+		{
+			"id": "puumixjoQXmIlvl2ky6g_",
+			"type": "freedraw",
+			"x": -176.78951948757435,
+			"y": 8519.99781261352,
+			"width": 8.888888888888914,
+			"height": 56.66666666666788,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1980846144,
+			"version": 20,
+			"versionNonce": 533615552,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					0,
+					6.666666666667879
+				],
+				[
+					0,
+					7.7777777777791925
+				],
+				[
+					-2.2222222222221717,
+					14.444444444445253
+				],
+				[
+					-3.3333333333332575,
+					23.33333333333394
+				],
+				[
+					-5.555555555555429,
+					34.44444444444525
+				],
+				[
+					-6.6666666666667425,
+					45.555555555556566
+				],
+				[
+					-7.777777777777828,
+					53.33333333333394
+				],
+				[
+					-8.888888888888914,
+					56.66666666666788
+				],
+				[
+					-7.777777777777828,
+					55.555555555556566
+				],
+				[
+					-7.777777777777828,
+					55.555555555556566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-7.777777777777828,
+				55.555555555556566
+			]
+		},
+		{
+			"id": "KlyXXcKib4GRvqub84fZC",
+			"type": "freedraw",
+			"x": -159.01174170979652,
+			"y": 8576.664479280187,
+			"width": 36.66666666666674,
+			"height": 37.777777777777374,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 181994432,
+			"version": 34,
+			"versionNonce": 1237436480,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.1111111111113132
+				],
+				[
+					0,
+					-5.555555555556566
+				],
+				[
+					0,
+					-6.666666666667879
+				],
+				[
+					1.1111111111110858,
+					-8.888888888888687
+				],
+				[
+					2.2222222222221717,
+					-12.222222222222626
+				],
+				[
+					3.3333333333332575,
+					-15.555555555556566
+				],
+				[
+					6.6666666666667425,
+					-18.888888888888687
+				],
+				[
+					10,
+					-18.888888888888687
+				],
+				[
+					13.333333333333258,
+					-18.888888888888687
+				],
+				[
+					15.55555555555543,
+					-16.66666666666788
+				],
+				[
+					17.77777777777783,
+					-14.444444444445253
+				],
+				[
+					18.888888888888914,
+					-10
+				],
+				[
+					18.888888888888914,
+					-4.444444444445253
+				],
+				[
+					18.888888888888914,
+					2.2222222222208075
+				],
+				[
+					18.888888888888914,
+					10
+				],
+				[
+					16.666666666666742,
+					15.555555555554747
+				],
+				[
+					16.666666666666742,
+					17.777777777777374
+				],
+				[
+					15.55555555555543,
+					18.888888888888687
+				],
+				[
+					16.666666666666742,
+					18.888888888888687
+				],
+				[
+					20,
+					18.888888888888687
+				],
+				[
+					24.444444444444343,
+					18.888888888888687
+				],
+				[
+					30,
+					18.888888888888687
+				],
+				[
+					35.55555555555543,
+					18.888888888888687
+				],
+				[
+					36.66666666666674,
+					17.777777777777374
+				],
+				[
+					36.66666666666674,
+					17.777777777777374
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.66666666666674,
+				17.777777777777374
+			]
+		},
+		{
+			"id": "3OneHv8UuzU5mwriEQx8u",
+			"type": "freedraw",
+			"x": -99.01174170979652,
+			"y": 8535.553368169076,
+			"width": 30,
+			"height": 4.444444444445253,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 322875456,
+			"version": 19,
+			"versionNonce": 38656960,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					-1.1111111111113132
+				],
+				[
+					7.777777777777828,
+					-1.1111111111113132
+				],
+				[
+					11.111111111111086,
+					-2.2222222222226264
+				],
+				[
+					16.666666666666742,
+					-2.2222222222226264
+				],
+				[
+					21.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					25.55555555555543,
+					-4.444444444445253
+				],
+				[
+					28.888888888888914,
+					-4.444444444445253
+				],
+				[
+					30,
+					-4.444444444445253
+				],
+				[
+					30,
+					-4.444444444445253
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				30,
+				-4.444444444445253
+			]
+		},
+		{
+			"id": "tGi_kbrEJTxmMPzjtX8cT",
+			"type": "freedraw",
+			"x": -81.2339639320187,
+			"y": 8563.331145946853,
+			"width": 15.55555555555543,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 185434176,
+			"version": 14,
+			"versionNonce": 1994309696,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					4.444444444444343,
+					-1.1111111111113132
+				],
+				[
+					6.666666666666515,
+					-2.2222222222226264
+				],
+				[
+					15.55555555555543,
+					-3.3333333333339397
+				],
+				[
+					15.55555555555543,
+					-3.3333333333339397
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.55555555555543,
+				-3.3333333333339397
+			]
+		},
+		{
+			"id": "c0Tk6QvdkKt5g5i4qwZaE",
+			"type": "freedraw",
+			"x": -27.90063059868544,
+			"y": 8433.331145946853,
+			"width": 3.3333333333332575,
+			"height": 38.88888888888869,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 46611392,
+			"version": 17,
+			"versionNonce": 2073846720,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					7.777777777777374
+				],
+				[
+					0,
+					8.888888888888687
+				],
+				[
+					-2.2222222222221717,
+					16.66666666666606
+				],
+				[
+					-2.2222222222221717,
+					23.33333333333394
+				],
+				[
+					-2.2222222222221717,
+					30
+				],
+				[
+					-3.3333333333332575,
+					35.55555555555475
+				],
+				[
+					-3.3333333333332575,
+					38.88888888888869
+				],
+				[
+					-3.3333333333332575,
+					38.88888888888869
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.3333333333332575,
+				38.88888888888869
+			]
+		},
+		{
+			"id": "vRteW7TQrL-dR4n18yeRy",
+			"type": "freedraw",
+			"x": 13.210480512425647,
+			"y": 8432.220034835742,
+			"width": 25.555555555555657,
+			"height": 45.555555555556566,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 201974720,
+			"version": 33,
+			"versionNonce": 1704769600,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10,
+					1.1111111111113132
+				],
+				[
+					-11.111111111111086,
+					1.1111111111113132
+				],
+				[
+					-13.333333333333258,
+					2.2222222222226264
+				],
+				[
+					-15.55555555555543,
+					4.444444444445253
+				],
+				[
+					-15.55555555555543,
+					7.777777777777374
+				],
+				[
+					-16.666666666666742,
+					12.222222222222626
+				],
+				[
+					-13.333333333333258,
+					16.66666666666606
+				],
+				[
+					-7.777777777777828,
+					21.111111111111313
+				],
+				[
+					-3.3333333333332575,
+					24.444444444445253
+				],
+				[
+					1.1111111111110858,
+					26.66666666666606
+				],
+				[
+					3.3333333333332575,
+					28.888888888888687
+				],
+				[
+					5.555555555555657,
+					30
+				],
+				[
+					7.777777777777828,
+					32.222222222222626
+				],
+				[
+					8.888888888888914,
+					34.44444444444525
+				],
+				[
+					8.888888888888914,
+					36.66666666666606
+				],
+				[
+					8.888888888888914,
+					37.777777777777374
+				],
+				[
+					8.888888888888914,
+					40
+				],
+				[
+					5.555555555555657,
+					42.222222222222626
+				],
+				[
+					2.2222222222221717,
+					43.33333333333394
+				],
+				[
+					0,
+					44.44444444444525
+				],
+				[
+					-1.1111111111110858,
+					45.555555555556566
+				],
+				[
+					-2.2222222222221717,
+					45.555555555556566
+				],
+				[
+					-3.3333333333332575,
+					45.555555555556566
+				],
+				[
+					-3.3333333333332575,
+					45.555555555556566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.3333333333332575,
+				45.555555555556566
+			]
+		},
+		{
+			"id": "dCjqexx8UBl8_ZEHEwm4q",
+			"type": "freedraw",
+			"x": -39.011741709796524,
+			"y": 8502.220034835742,
+			"width": 90,
+			"height": 4.444444444443434,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 764136384,
+			"version": 23,
+			"versionNonce": 1507453888,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333332575,
+					0
+				],
+				[
+					13.333333333333258,
+					0
+				],
+				[
+					25.55555555555543,
+					0
+				],
+				[
+					38.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					53.33333333333326,
+					-2.2222222222226264
+				],
+				[
+					66.66666666666674,
+					-3.3333333333339397
+				],
+				[
+					74.44444444444434,
+					-3.3333333333339397
+				],
+				[
+					81.11111111111109,
+					-4.444444444443434
+				],
+				[
+					84.44444444444434,
+					-4.444444444443434
+				],
+				[
+					86.66666666666674,
+					-4.444444444443434
+				],
+				[
+					87.77777777777783,
+					-4.444444444443434
+				],
+				[
+					88.88888888888891,
+					-4.444444444443434
+				],
+				[
+					90,
+					-4.444444444443434
+				],
+				[
+					90,
+					-4.444444444443434
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				90,
+				-4.444444444443434
+			]
+		},
+		{
+			"id": "OaI8RnKiwHA1cLhIN5Lmb",
+			"type": "freedraw",
+			"x": 19.87714717909239,
+			"y": 8525.553368169076,
+			"width": 16.666666666666742,
+			"height": 51.11111111111131,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 271846336,
+			"version": 32,
+			"versionNonce": 970698816,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.2222222222221717,
+					0
+				],
+				[
+					-6.6666666666667425,
+					2.2222222222226264
+				],
+				[
+					-11.111111111111086,
+					4.444444444443434
+				],
+				[
+					-15.555555555555657,
+					7.777777777777374
+				],
+				[
+					-16.666666666666742,
+					8.888888888888687
+				],
+				[
+					-14.44444444444457,
+					12.222222222222626
+				],
+				[
+					-11.111111111111086,
+					15.555555555554747
+				],
+				[
+					-8.888888888888914,
+					17.777777777777374
+				],
+				[
+					-6.6666666666667425,
+					20
+				],
+				[
+					-4.444444444444571,
+					23.33333333333212
+				],
+				[
+					-3.333333333333485,
+					26.66666666666606
+				],
+				[
+					-2.2222222222221717,
+					30
+				],
+				[
+					-2.2222222222221717,
+					34.444444444443434
+				],
+				[
+					-1.1111111111110858,
+					38.88888888888869
+				],
+				[
+					-1.1111111111110858,
+					42.222222222222626
+				],
+				[
+					-2.2222222222221717,
+					47.777777777777374
+				],
+				[
+					-3.333333333333485,
+					48.88888888888869
+				],
+				[
+					-5.555555555555657,
+					50
+				],
+				[
+					-7.777777777777828,
+					51.11111111111131
+				],
+				[
+					-11.111111111111086,
+					50
+				],
+				[
+					-12.222222222222172,
+					47.777777777777374
+				],
+				[
+					-13.333333333333485,
+					46.66666666666606
+				],
+				[
+					-13.333333333333485,
+					46.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-13.333333333333485,
+				46.66666666666606
+			]
+		},
+		{
+			"id": "txHDY8QGXx1dmetGHJQUy",
+			"type": "freedraw",
+			"x": 78.7660360679813,
+			"y": 8484.442257057965,
+			"width": 11.111111111111086,
+			"height": 1.1111111111113132,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 329592896,
+			"version": 14,
+			"versionNonce": 656831424,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3333333333332575,
+					-1.1111111111113132
+				],
+				[
+					6.666666666666515,
+					-1.1111111111113132
+				],
+				[
+					10,
+					-1.1111111111113132
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				],
+				[
+					11.111111111111086,
+					-1.1111111111113132
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.111111111111086,
+				-1.1111111111113132
+			]
+		},
+		{
+			"id": "QmkgSlfnwhmXlfRFVIWEK",
+			"type": "freedraw",
+			"x": 72.09936940131456,
+			"y": 8524.442257057965,
+			"width": 21.111111111111086,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 12880832,
+			"version": 16,
+			"versionNonce": 461088832,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					5.555555555555657,
+					-1.1111111111113132
+				],
+				[
+					8.888888888888914,
+					-2.2222222222226264
+				],
+				[
+					13.333333333333258,
+					-3.3333333333339397
+				],
+				[
+					18.888888888888914,
+					-3.3333333333339397
+				],
+				[
+					21.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					21.111111111111086,
+					-3.3333333333339397
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				21.111111111111086,
+				-3.3333333333339397
+			]
+		},
+		{
+			"id": "4CxNJzBf2OyNM_xegjKfg",
+			"type": "freedraw",
+			"x": 100.98825829020348,
+			"y": 8458.886701502408,
+			"width": 55.55555555555566,
+			"height": 84.44444444444525,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1933635648,
+			"version": 51,
+			"versionNonce": 698481600,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.1111111111094942
+				],
+				[
+					1.1111111111110858,
+					-2.2222222222208075
+				],
+				[
+					3.3333333333332575,
+					-3.3333333333321207
+				],
+				[
+					6.6666666666667425,
+					-4.444444444443434
+				],
+				[
+					10,
+					-6.66666666666606
+				],
+				[
+					14.444444444444343,
+					-8.888888888888687
+				],
+				[
+					20,
+					-10
+				],
+				[
+					24.444444444444343,
+					-10
+				],
+				[
+					27.77777777777783,
+					-10
+				],
+				[
+					30,
+					-8.888888888888687
+				],
+				[
+					30,
+					-7.777777777777374
+				],
+				[
+					30,
+					-6.66666666666606
+				],
+				[
+					30,
+					-3.3333333333321207
+				],
+				[
+					27.77777777777783,
+					2.2222222222226264
+				],
+				[
+					24.444444444444343,
+					6.666666666667879
+				],
+				[
+					20,
+					12.222222222222626
+				],
+				[
+					18.888888888888914,
+					15.555555555556566
+				],
+				[
+					17.77777777777783,
+					15.555555555556566
+				],
+				[
+					16.666666666666742,
+					15.555555555556566
+				],
+				[
+					17.77777777777783,
+					16.66666666666788
+				],
+				[
+					18.888888888888914,
+					17.777777777779193
+				],
+				[
+					22.22222222222217,
+					20
+				],
+				[
+					27.77777777777783,
+					22.222222222222626
+				],
+				[
+					33.33333333333326,
+					24.444444444445253
+				],
+				[
+					38.888888888888914,
+					27.777777777779193
+				],
+				[
+					45.55555555555566,
+					31.111111111111313
+				],
+				[
+					48.888888888888914,
+					34.44444444444525
+				],
+				[
+					50,
+					36.66666666666788
+				],
+				[
+					52.22222222222217,
+					40
+				],
+				[
+					53.33333333333326,
+					45.555555555556566
+				],
+				[
+					54.44444444444434,
+					50
+				],
+				[
+					55.55555555555566,
+					53.33333333333394
+				],
+				[
+					55.55555555555566,
+					58.888888888890506
+				],
+				[
+					55.55555555555566,
+					64.44444444444525
+				],
+				[
+					52.22222222222217,
+					68.8888888888905
+				],
+				[
+					48.888888888888914,
+					72.22222222222263
+				],
+				[
+					44.44444444444434,
+					73.33333333333394
+				],
+				[
+					40,
+					74.44444444444525
+				],
+				[
+					33.33333333333326,
+					74.44444444444525
+				],
+				[
+					27.77777777777783,
+					73.33333333333394
+				],
+				[
+					24.444444444444343,
+					73.33333333333394
+				],
+				[
+					24.444444444444343,
+					73.33333333333394
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				24.444444444444343,
+				73.33333333333394
+			]
+		},
+		{
+			"id": "uI67-xa1UvUAB7PH3IYNw",
+			"type": "freedraw",
+			"x": -185.67840837646327,
+			"y": 8712.220034835742,
+			"width": 57.77777777777783,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 481771584,
+			"version": 39,
+			"versionNonce": 912040000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.2222222222221717,
+					-1.1111111111113132
+				],
+				[
+					6.6666666666667425,
+					-2.2222222222208075
+				],
+				[
+					6.6666666666667425,
+					-3.3333333333321207
+				],
+				[
+					12.222222222222172,
+					-3.3333333333321207
+				],
+				[
+					20,
+					-3.3333333333321207
+				],
+				[
+					26.666666666666742,
+					-3.3333333333321207
+				],
+				[
+					32.22222222222217,
+					-4.444444444443434
+				],
+				[
+					35.55555555555566,
+					-4.444444444443434
+				],
+				[
+					36.66666666666674,
+					-4.444444444443434
+				],
+				[
+					36.66666666666674,
+					-3.3333333333321207
+				],
+				[
+					37.77777777777783,
+					-1.1111111111113132
+				],
+				[
+					38.888888888888914,
+					5.555555555556566
+				],
+				[
+					38.888888888888914,
+					14.444444444445253
+				],
+				[
+					40,
+					24.444444444445253
+				],
+				[
+					40,
+					31.111111111111313
+				],
+				[
+					40,
+					36.66666666666788
+				],
+				[
+					38.888888888888914,
+					40
+				],
+				[
+					36.66666666666674,
+					43.33333333333394
+				],
+				[
+					34.44444444444457,
+					44.44444444444525
+				],
+				[
+					32.22222222222217,
+					45.555555555556566
+				],
+				[
+					31.111111111111086,
+					45.555555555556566
+				],
+				[
+					32.22222222222217,
+					45.555555555556566
+				],
+				[
+					34.44444444444457,
+					44.44444444444525
+				],
+				[
+					37.77777777777783,
+					42.222222222222626
+				],
+				[
+					43.333333333333485,
+					40
+				],
+				[
+					50,
+					40
+				],
+				[
+					53.333333333333485,
+					40
+				],
+				[
+					55.55555555555566,
+					40
+				],
+				[
+					57.77777777777783,
+					40
+				],
+				[
+					57.77777777777783,
+					40
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				57.77777777777783,
+				40
+			]
+		},
+		{
+			"id": "ud49a1IW-Q-fedvMVPdd2",
+			"type": "freedraw",
+			"x": -92.34507504312978,
+			"y": 8712.220034835742,
+			"width": 20,
+			"height": 5.555555555554747,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 661801920,
+			"version": 12,
+			"versionNonce": 1533120576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.666666666666515,
+					-2.2222222222208075
+				],
+				[
+					8.888888888888687,
+					-3.3333333333321207
+				],
+				[
+					13.333333333333258,
+					-4.444444444443434
+				],
+				[
+					16.666666666666515,
+					-5.555555555554747
+				],
+				[
+					20,
+					-5.555555555554747
+				],
+				[
+					20,
+					-5.555555555554747
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20,
+				-5.555555555554747
+			]
+		},
+		{
+			"id": "EGmrB8zSkuXtfuwFplTl4",
+			"type": "freedraw",
+			"x": -77.90063059868544,
+			"y": 8727.775590391298,
+			"width": 10,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 554593216,
+			"version": 14,
+			"versionNonce": 829330368,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					0
+				],
+				[
+					2.2222222222221717,
+					0
+				],
+				[
+					3.3333333333332575,
+					0
+				],
+				[
+					5.555555555555657,
+					0
+				],
+				[
+					7.777777777777828,
+					0
+				],
+				[
+					8.888888888888914,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					10,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				10,
+				0
+			]
+		},
+		{
+			"id": "1Rk8j5jBIz7bSDMkscoDa",
+			"type": "freedraw",
+			"x": -31.233963932018696,
+			"y": 8674.442257057965,
+			"width": 3.3333333333332575,
+			"height": 68.88888888888869,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1741886400,
+			"version": 17,
+			"versionNonce": 1363511360,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855669591,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					8.888888888888687
+				],
+				[
+					-1.1111111111110858,
+					10
+				],
+				[
+					-1.1111111111110858,
+					20
+				],
+				[
+					-1.1111111111110858,
+					30
+				],
+				[
+					-1.1111111111110858,
+					41.11111111111131
+				],
+				[
+					-1.1111111111110858,
+					51.11111111111131
+				],
+				[
+					0,
+					60
+				],
+				[
+					1.1111111111110858,
+					65.55555555555657
+				],
+				[
+					1.1111111111110858,
+					67.77777777777737
+				],
+				[
+					2.2222222222221717,
+					68.88888888888869
+				],
+				[
+					2.2222222222221717,
+					68.88888888888869
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				2.2222222222221717,
+				68.88888888888869
+			]
+		},
+		{
+			"id": "odVq0VWX0x2jitzq9Nyvz",
+			"type": "freedraw",
+			"x": -12.345075043129782,
+			"y": 8741.10892372463,
+			"width": 3.3333333333332575,
+			"height": 23.33333333333394,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1474986048,
+			"version": 9,
+			"versionNonce": 1401446464,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855670839,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111110858,
+					7.7777777777791925
+				],
+				[
+					2.2222222222221717,
+					8.888888888890506
+				],
+				[
+					2.2222222222221717,
+					14.444444444445253
+				],
+				[
+					3.3333333333332575,
+					17.777777777779193
+				],
+				[
+					3.3333333333332575,
+					21.111111111111313
+				],
+				[
+					3.3333333333332575,
+					23.33333333333394
+				],
+				[
+					3.3333333333332575,
+					23.33333333333394
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.3333333333332575,
+				23.33333333333394
+			]
+		},
+		{
+			"id": "WaEvTqf_w21wGFbLxm7Ov",
+			"type": "freedraw",
+			"x": 3.2104805124256472,
+			"y": 8718.88670150241,
+			"width": 38.888888888888914,
+			"height": 15.555555555556566,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1339868096,
+			"version": 11,
+			"versionNonce": 1386900416,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855671230,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.555555555555657,
+					-3.3333333333339397
+				],
+				[
+					13.333333333333258,
+					-7.7777777777791925
+				],
+				[
+					21.111111111111086,
+					-10
+				],
+				[
+					22.22222222222217,
+					-11.111111111111313
+				],
+				[
+					28.888888888888914,
+					-13.33333333333394
+				],
+				[
+					35.55555555555566,
+					-14.444444444445253
+				],
+				[
+					37.77777777777783,
+					-15.555555555556566
+				],
+				[
+					38.888888888888914,
+					-15.555555555556566
+				],
+				[
+					38.888888888888914,
+					-15.555555555556566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				38.888888888888914,
+				-15.555555555556566
+			]
+		},
+		{
+			"id": "DlM1a7LTT3S5ZZW1N76HX",
+			"type": "freedraw",
+			"x": 30.988258290203476,
+			"y": 8694.442257057965,
+			"width": 2.2222222222221717,
+			"height": 43.33333333333394,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1414737984,
+			"version": 10,
+			"versionNonce": 401544128,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855671625,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1111111111110858,
+					8.888888888888687
+				],
+				[
+					-1.1111111111110858,
+					18.888888888888687
+				],
+				[
+					-1.1111111111110858,
+					26.66666666666606
+				],
+				[
+					-1.1111111111110858,
+					27.777777777777374
+				],
+				[
+					-1.1111111111110858,
+					36.66666666666606
+				],
+				[
+					0,
+					42.222222222222626
+				],
+				[
+					1.1111111111110858,
+					43.33333333333394
+				],
+				[
+					1.1111111111110858,
+					43.33333333333394
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.1111111111110858,
+				43.33333333333394
+			]
+		},
+		{
+			"id": "8MFuw2pmHb0iYU1TY8uGu",
+			"type": "freedraw",
+			"x": 57.65492495687022,
+			"y": 8676.664479280187,
+			"width": 3.3333333333332575,
+			"height": 46.66666666666606,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1896679488,
+			"version": 13,
+			"versionNonce": 1077532736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855672018,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.2222222222226264
+				],
+				[
+					0,
+					3.3333333333339397
+				],
+				[
+					0,
+					10
+				],
+				[
+					1.1111111111110858,
+					18.888888888888687
+				],
+				[
+					1.1111111111110858,
+					26.66666666666606
+				],
+				[
+					2.2222222222221717,
+					34.444444444443434
+				],
+				[
+					2.2222222222221717,
+					40
+				],
+				[
+					3.3333333333332575,
+					44.444444444443434
+				],
+				[
+					3.3333333333332575,
+					45.55555555555475
+				],
+				[
+					3.3333333333332575,
+					46.66666666666606
+				],
+				[
+					3.3333333333332575,
+					46.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.3333333333332575,
+				46.66666666666606
+			]
+		},
+		{
+			"id": "wZ87nNuLx-90wMWj5L9nS",
+			"type": "freedraw",
+			"x": 83.21048051242565,
+			"y": 8737.775590391298,
+			"width": 36.66666666666674,
+			"height": 34.44444444444525,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1528744896,
+			"version": 25,
+			"versionNonce": 67316672,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855672874,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-4.444444444445253
+				],
+				[
+					0,
+					-7.777777777777374
+				],
+				[
+					1.1111111111110858,
+					-11.111111111111313
+				],
+				[
+					1.1111111111110858,
+					-12.222222222222626
+				],
+				[
+					2.2222222222221717,
+					-12.222222222222626
+				],
+				[
+					3.3333333333332575,
+					-13.33333333333394
+				],
+				[
+					5.555555555555657,
+					-11.111111111111313
+				],
+				[
+					7.777777777777828,
+					-8.888888888888687
+				],
+				[
+					8.888888888888914,
+					-3.3333333333339397
+				],
+				[
+					10,
+					0
+				],
+				[
+					10,
+					4.444444444443434
+				],
+				[
+					10,
+					8.888888888888687
+				],
+				[
+					10,
+					12.222222222222626
+				],
+				[
+					10,
+					15.555555555554747
+				],
+				[
+					10,
+					16.66666666666606
+				],
+				[
+					10,
+					17.777777777777374
+				],
+				[
+					12.222222222222172,
+					18.888888888888687
+				],
+				[
+					14.44444444444457,
+					20
+				],
+				[
+					18.888888888888914,
+					21.111111111111313
+				],
+				[
+					25.555555555555657,
+					21.111111111111313
+				],
+				[
+					31.111111111111086,
+					20
+				],
+				[
+					36.66666666666674,
+					18.888888888888687
+				],
+				[
+					36.66666666666674,
+					18.888888888888687
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.66666666666674,
+				18.888888888888687
+			]
+		},
+		{
+			"id": "YnLcoWg1iA8_qUD0cHYn1",
+			"type": "freedraw",
+			"x": 124.32159162353673,
+			"y": 8694.442257057965,
+			"width": 14.44444444444457,
+			"height": 3.3333333333339397,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 300314688,
+			"version": 9,
+			"versionNonce": 2014072896,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855673268,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.333333333333485,
+					-1.1111111111113132
+				],
+				[
+					6.6666666666667425,
+					-2.2222222222226264
+				],
+				[
+					8.888888888888914,
+					-2.2222222222226264
+				],
+				[
+					11.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					13.333333333333485,
+					-3.3333333333339397
+				],
+				[
+					14.44444444444457,
+					-3.3333333333339397
+				],
+				[
+					14.44444444444457,
+					-3.3333333333339397
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.44444444444457,
+				-3.3333333333339397
+			]
+		},
+		{
+			"id": "U-8zqD0sep1na7Vk4HCQG",
+			"type": "freedraw",
+			"x": 123.21048051242565,
+			"y": 8715.553368169076,
+			"width": 26.666666666666742,
+			"height": 6.66666666666606,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 433050560,
+			"version": 10,
+			"versionNonce": 2098341952,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855673602,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.555555555555657,
+					-2.2222222222226264
+				],
+				[
+					11.111111111111086,
+					-3.3333333333339397
+				],
+				[
+					12.222222222222172,
+					-3.3333333333339397
+				],
+				[
+					17.77777777777783,
+					-4.444444444445253
+				],
+				[
+					22.22222222222217,
+					-5.555555555554747
+				],
+				[
+					25.555555555555657,
+					-6.66666666666606
+				],
+				[
+					26.666666666666742,
+					-6.66666666666606
+				],
+				[
+					26.666666666666742,
+					-6.66666666666606
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				26.666666666666742,
+				-6.66666666666606
+			]
+		},
+		{
+			"id": "0dU26RS71Qve0hBKy6Rsh",
+			"type": "freedraw",
+			"x": 196.54381384575913,
+			"y": 8627.775590391298,
+			"width": 33.333333333333485,
+			"height": 46.66666666666606,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 850623424,
+			"version": 22,
+			"versionNonce": 1296289856,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855674837,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.1111111111113132
+				],
+				[
+					0,
+					10
+				],
+				[
+					-2.222222222222399,
+					20
+				],
+				[
+					-3.333333333333485,
+					31.111111111111313
+				],
+				[
+					-3.333333333333485,
+					36.66666666666606
+				],
+				[
+					-3.333333333333485,
+					40
+				],
+				[
+					-3.333333333333485,
+					42.222222222222626
+				],
+				[
+					-2.222222222222399,
+					44.444444444443434
+				],
+				[
+					-1.1111111111113132,
+					45.55555555555475
+				],
+				[
+					1.1111111111110858,
+					45.55555555555475
+				],
+				[
+					5.555555555555429,
+					46.66666666666606
+				],
+				[
+					12.222222222222172,
+					46.66666666666606
+				],
+				[
+					17.7777777777776,
+					44.444444444443434
+				],
+				[
+					22.22222222222217,
+					43.33333333333212
+				],
+				[
+					25.55555555555543,
+					41.11111111111131
+				],
+				[
+					26.666666666666515,
+					41.11111111111131
+				],
+				[
+					27.7777777777776,
+					40
+				],
+				[
+					28.888888888888687,
+					37.777777777777374
+				],
+				[
+					30,
+					35.55555555555475
+				],
+				[
+					30,
+					35.55555555555475
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				30,
+				35.55555555555475
+			]
+		},
+		{
+			"id": "JkcxIWkllKFn1RAK_2joi",
+			"type": "freedraw",
+			"x": 226.54381384575913,
+			"y": 8631.10892372463,
+			"width": 7.777777777777828,
+			"height": 102.22222222222263,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1976587200,
+			"version": 15,
+			"versionNonce": 518523840,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674855675310,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					6.666666666667879
+				],
+				[
+					-1.1111111111113132,
+					17.777777777779193
+				],
+				[
+					-1.1111111111113132,
+					20
+				],
+				[
+					-1.1111111111113132,
+					33.33333333333394
+				],
+				[
+					-1.1111111111113132,
+					47.77777777777919
+				],
+				[
+					1.1111111111110858,
+					62.222222222222626
+				],
+				[
+					2.2222222222221717,
+					74.44444444444525
+				],
+				[
+					3.3333333333332575,
+					84.44444444444525
+				],
+				[
+					4.444444444444343,
+					91.11111111111131
+				],
+				[
+					5.555555555555429,
+					96.66666666666788
+				],
+				[
+					6.666666666666515,
+					101.11111111111131
+				],
+				[
+					6.666666666666515,
+					102.22222222222263
+				],
+				[
+					6.666666666666515,
+					102.22222222222263
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				6.666666666666515,
+				102.22222222222263
+			]
+		},
+		{
+			"id": "2P3AKaEWdqsb5SE1fJwkB",
+			"type": "freedraw",
+			"x": -47.067403677349034,
+			"y": 6461.05952812,
+			"width": 12.639786395398914,
+			"height": 67.85569538582604,
+			"angle": 0,
+			"strokeColor": "#087f5b",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2045119424,
+			"version": 64,
+			"versionNonce": 1546094656,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6652519155472874,
+					0.6652519155477421
+				],
+				[
+					1.3305038310946884,
+					3.991511493283724
+				],
+				[
+					1.9957557466419757,
+					11.30928256430434
+				],
+				[
+					3.3262595777365505,
+					22.61856512860868
+				],
+				[
+					5.322015324378526,
+					35.258351524007594
+				],
+				[
+					7.983022986567789,
+					48.56338983495425
+				],
+				[
+					9.978778733209651,
+					59.20742048371085
+				],
+				[
+					11.30928256430434,
+					65.19468772363689
+				],
+				[
+					11.974534479851627,
+					67.1904434702783
+				],
+				[
+					11.974534479851627,
+					67.85569538582604
+				],
+				[
+					12.639786395398914,
+					67.1904434702783
+				],
+				[
+					12.639786395398914,
+					62.53368006144774
+				],
+				[
+					12.639786395398914,
+					55.88116090597396
+				],
+				[
+					11.30928256430434,
+					47.89813791940651
+				],
+				[
+					8.648274902115077,
+					39.24986301729132
+				],
+				[
+					7.317771071020502,
+					31.26684003072387
+				],
+				[
+					5.322015324378526,
+					24.614320875250996
+				],
+				[
+					3.991511493283838,
+					18.627053635324955
+				],
+				[
+					2.661007662189263,
+					13.97029022649349
+				],
+				[
+					2.661007662189263,
+					11.30928256430434
+				],
+				[
+					2.661007662189263,
+					10.644030648757507
+				],
+				[
+					2.661007662189263,
+					9.313526817662932
+				],
+				[
+					3.991511493283838,
+					9.313526817662932
+				],
+				[
+					5.9872672399258136,
+					9.978778733209765
+				],
+				[
+					6.652519155473101,
+					10.644030648757507
+				],
+				[
+					7.317771071020502,
+					11.30928256430434
+				],
+				[
+					7.317771071020502,
+					12.639786395398914
+				],
+				[
+					7.317771071020502,
+					13.97029022649349
+				],
+				[
+					7.317771071020502,
+					15.300794057588064
+				],
+				[
+					7.317771071020502,
+					17.29654980423038
+				],
+				[
+					7.317771071020502,
+					18.627053635324955
+				],
+				[
+					6.652519155473101,
+					19.95755746641953
+				],
+				[
+					5.9872672399258136,
+					21.288061297514105
+				],
+				[
+					5.322015324378526,
+					22.61856512860868
+				],
+				[
+					4.656763408831239,
+					22.61856512860868
+				],
+				[
+					3.991511493283838,
+					22.61856512860868
+				],
+				[
+					3.991511493283838,
+					22.61856512860868
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.991511493283838,
+				22.61856512860868
+			]
+		},
+		{
+			"id": "HFAP3dygptaYHP2UZnKqI",
+			"type": "freedraw",
+			"x": 63.36441430350487,
+			"y": 6383.2250540009645,
+			"width": 9.313526817662364,
+			"height": 53.88540515933255,
+			"angle": 0,
+			"strokeColor": "#087f5b",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 875995200,
+			"version": 37,
+			"versionNonce": 35920832,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3262595777368915
+				],
+				[
+					1.3305038310945747,
+					8.64827490211519
+				],
+				[
+					1.3305038310945747,
+					9.978778733209765
+				],
+				[
+					2.661007662189263,
+					16.631297888683548
+				],
+				[
+					4.656763408831125,
+					27.940580452987888
+				],
+				[
+					5.9872672399258136,
+					37.25410727064991
+				],
+				[
+					7.983022986567676,
+					45.9023821727651
+				],
+				[
+					8.648274902115077,
+					51.2243974971434
+				],
+				[
+					9.313526817662364,
+					53.88540515933255
+				],
+				[
+					9.313526817662364,
+					53.22015324378572
+				],
+				[
+					9.313526817662364,
+					53.22015324378572
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				9.313526817662364,
+				53.22015324378572
+			]
+		},
+		{
+			"id": "pxEjLgkowapn-MC713HY9",
+			"type": "freedraw",
+			"x": 85.98297943211344,
+			"y": 6456.402764711169,
+			"width": 39.91511493283872,
+			"height": 58.542168568164016,
+			"angle": 0,
+			"strokeColor": "#087f5b",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 406952896,
+			"version": 68,
+			"versionNonce": 915177536,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.6652519155477421
+				],
+				[
+					0.6652519155472874,
+					4.656763408831466
+				],
+				[
+					1.9957557466419757,
+					11.30928256430434
+				],
+				[
+					2.661007662189263,
+					20.622809381967272
+				],
+				[
+					3.3262595777365505,
+					31.932091946271612
+				],
+				[
+					4.656763408831239,
+					42.57612259502821
+				],
+				[
+					5.322015324378526,
+					52.554901328237975
+				],
+				[
+					5.9872672399258136,
+					57.87691665261627
+				],
+				[
+					5.9872672399258136,
+					58.542168568164016
+				],
+				[
+					5.9872672399258136,
+					57.87691665261627
+				],
+				[
+					6.652519155473101,
+					55.881160905974866
+				],
+				[
+					6.652519155473101,
+					51.2243974971434
+				],
+				[
+					5.9872672399258136,
+					43.24137451057595
+				],
+				[
+					5.9872672399258136,
+					34.59309960846076
+				],
+				[
+					5.9872672399258136,
+					27.275328537440146
+				],
+				[
+					5.322015324378526,
+					21.288061297514105
+				],
+				[
+					5.322015324378526,
+					15.966045973135806
+				],
+				[
+					5.322015324378526,
+					12.639786395398914
+				],
+				[
+					6.652519155473101,
+					11.30928256430434
+				],
+				[
+					7.983022986567789,
+					11.30928256430434
+				],
+				[
+					9.313526817662364,
+					11.30928256430434
+				],
+				[
+					10.644030648757052,
+					11.974534479852082
+				],
+				[
+					11.30928256430434,
+					12.639786395398914
+				],
+				[
+					11.30928256430434,
+					13.305038310946657
+				],
+				[
+					11.30928256430434,
+					15.300794057588973
+				],
+				[
+					11.30928256430434,
+					17.961801719778123
+				],
+				[
+					10.644030648757052,
+					22.61856512860868
+				],
+				[
+					8.648274902115077,
+					27.275328537440146
+				],
+				[
+					7.317771071020502,
+					30.601588115177037
+				],
+				[
+					6.652519155473101,
+					32.597343861818445
+				],
+				[
+					6.652519155473101,
+					33.92784769291302
+				],
+				[
+					6.652519155473101,
+					34.59309960846076
+				],
+				[
+					6.652519155473101,
+					35.258351524007594
+				],
+				[
+					8.648274902115077,
+					37.25410727064991
+				],
+				[
+					12.639786395398914,
+					41.245618763933635
+				],
+				[
+					17.296549804230153,
+					45.23713025721736
+				],
+				[
+					23.283817044155967,
+					49.22864175050108
+				],
+				[
+					30.601588115176355,
+					52.554901328237975
+				],
+				[
+					35.258351524007594,
+					54.55065707488029
+				],
+				[
+					37.254107270649456,
+					55.881160905974866
+				],
+				[
+					38.584611101744144,
+					56.5464128215217
+				],
+				[
+					39.91511493283872,
+					57.21166473706944
+				],
+				[
+					39.91511493283872,
+					57.21166473706944
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				39.91511493283872,
+				57.21166473706944
+			]
+		},
+		{
+			"id": "TLrLLwUtKlEK058it0ahU",
+			"type": "freedraw",
+			"x": -704.4290125617979,
+			"y": 7840.245333901717,
+			"width": 59.37345230545668,
+			"height": 47.3132198059111,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1483468864,
+			"version": 56,
+			"versionNonce": 648717248,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.7831305768181664,
+					0.9277101922725706
+				],
+				[
+					7.4216815381820425,
+					1.8554203845451411
+				],
+				[
+					15.771073268636883,
+					4.638550961363762
+				],
+				[
+					25.04817519136452,
+					5.566261153636333
+				],
+				[
+					36.18069749863764,
+					7.4216815381823835
+				],
+				[
+					46.38550961363808,
+					7.4216815381823835
+				],
+				[
+					53.80719115182012,
+					8.349391730454954
+				],
+				[
+					56.5903217286384,
+					8.349391730454954
+				],
+				[
+					57.5180319209112,
+					8.349391730454954
+				],
+				[
+					58.44574211318388,
+					8.349391730454954
+				],
+				[
+					59.37345230545668,
+					8.349391730454954
+				],
+				[
+					59.37345230545668,
+					10.204812115000095
+				],
+				[
+					58.44574211318388,
+					13.915652884091287
+				],
+				[
+					58.44574211318388,
+					17.62649365318248
+				],
+				[
+					57.5180319209112,
+					22.26504461454624
+				],
+				[
+					56.5903217286384,
+					26.903595575910003
+				],
+				[
+					55.6626115363656,
+					31.542146537273766
+				],
+				[
+					54.734901344092805,
+					34.32527711409239
+				],
+				[
+					53.80719115182012,
+					38.03611788318358
+				],
+				[
+					51.95177076727464,
+					40.81924846000129
+				],
+				[
+					49.168640190456244,
+					43.60237903681991
+				],
+				[
+					44.53008922909248,
+					46.38550961363762
+				],
+				[
+					39.89153826772872,
+					47.3132198059111
+				],
+				[
+					34.32527711409216,
+					47.3132198059111
+				],
+				[
+					28.7590159604556,
+					47.3132198059111
+				],
+				[
+					25.04817519136452,
+					47.3132198059111
+				],
+				[
+					24.120464999091723,
+					46.38550961363762
+				],
+				[
+					25.975885383637205,
+					46.38550961363762
+				],
+				[
+					29.686726152728284,
+					46.38550961363762
+				],
+				[
+					35.25298730636496,
+					46.38550961363762
+				],
+				[
+					41.7469586522742,
+					46.38550961363762
+				],
+				[
+					47.31321980591076,
+					46.38550961363762
+				],
+				[
+					51.95177076727464,
+					46.38550961363762
+				],
+				[
+					53.80719115182012,
+					46.38550961363762
+				],
+				[
+					54.734901344092805,
+					46.38550961363762
+				],
+				[
+					54.734901344092805,
+					46.38550961363762
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				54.734901344092805,
+				46.38550961363762
+			]
+		},
+		{
+			"id": "TLrLLwUtKlEK058it0ahU",
+			"type": "freedraw",
+			"x": -704.4290125617979,
+			"y": 7840.245333901717,
+			"width": 59.37345230545668,
+			"height": 47.3132198059111,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1483468864,
+			"version": 56,
+			"versionNonce": 1771206720,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.7831305768181664,
+					0.9277101922725706
+				],
+				[
+					7.4216815381820425,
+					1.8554203845451411
+				],
+				[
+					15.771073268636883,
+					4.638550961363762
+				],
+				[
+					25.04817519136452,
+					5.566261153636333
+				],
+				[
+					36.18069749863764,
+					7.4216815381823835
+				],
+				[
+					46.38550961363808,
+					7.4216815381823835
+				],
+				[
+					53.80719115182012,
+					8.349391730454954
+				],
+				[
+					56.5903217286384,
+					8.349391730454954
+				],
+				[
+					57.5180319209112,
+					8.349391730454954
+				],
+				[
+					58.44574211318388,
+					8.349391730454954
+				],
+				[
+					59.37345230545668,
+					8.349391730454954
+				],
+				[
+					59.37345230545668,
+					10.204812115000095
+				],
+				[
+					58.44574211318388,
+					13.915652884091287
+				],
+				[
+					58.44574211318388,
+					17.62649365318248
+				],
+				[
+					57.5180319209112,
+					22.26504461454624
+				],
+				[
+					56.5903217286384,
+					26.903595575910003
+				],
+				[
+					55.6626115363656,
+					31.542146537273766
+				],
+				[
+					54.734901344092805,
+					34.32527711409239
+				],
+				[
+					53.80719115182012,
+					38.03611788318358
+				],
+				[
+					51.95177076727464,
+					40.81924846000129
+				],
+				[
+					49.168640190456244,
+					43.60237903681991
+				],
+				[
+					44.53008922909248,
+					46.38550961363762
+				],
+				[
+					39.89153826772872,
+					47.3132198059111
+				],
+				[
+					34.32527711409216,
+					47.3132198059111
+				],
+				[
+					28.7590159604556,
+					47.3132198059111
+				],
+				[
+					25.04817519136452,
+					47.3132198059111
+				],
+				[
+					24.120464999091723,
+					46.38550961363762
+				],
+				[
+					25.975885383637205,
+					46.38550961363762
+				],
+				[
+					29.686726152728284,
+					46.38550961363762
+				],
+				[
+					35.25298730636496,
+					46.38550961363762
+				],
+				[
+					41.7469586522742,
+					46.38550961363762
+				],
+				[
+					47.31321980591076,
+					46.38550961363762
+				],
+				[
+					51.95177076727464,
+					46.38550961363762
+				],
+				[
+					53.80719115182012,
+					46.38550961363762
+				],
+				[
+					54.734901344092805,
+					46.38550961363762
+				],
+				[
+					54.734901344092805,
+					46.38550961363762
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				54.734901344092805,
+				46.38550961363762
+			]
+		},
+		{
+			"id": "57yYuDj62eiLmTbs5gnVR",
+			"type": "freedraw",
+			"x": -614.4411239113401,
+			"y": 7875.4983212080815,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1264810048,
+			"version": 21,
+			"versionNonce": 153103296,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "XHByRjN3YoUVi2FYZX9uX",
+			"type": "freedraw",
+			"x": -695.1519106390704,
+			"y": 7817.052579094898,
+			"width": 43.6023790368198,
+			"height": 97.40957018863992,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 665723840,
+			"version": 52,
+			"versionNonce": 957968448,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					5.566261153636333
+				],
+				[
+					0,
+					12.987942691818716
+				],
+				[
+					0,
+					20.40962423000019
+				],
+				[
+					0.9277101922727979,
+					25.975885383637433
+				],
+				[
+					1.8554203845455959,
+					43.60237903681991
+				],
+				[
+					3.710840769091078,
+					55.66261153636515
+				],
+				[
+					7.421681538182156,
+					71.43368480500249
+				],
+				[
+					9.277101922727638,
+					81.63849692000258
+				],
+				[
+					12.060232499545918,
+					88.1324682659124
+				],
+				[
+					13.915652884091514,
+					90.9155988427301
+				],
+				[
+					15.771073268636997,
+					93.69872941954873
+				],
+				[
+					17.62649365318248,
+					95.55414980409387
+				],
+				[
+					19.481914037728075,
+					97.40957018863992
+				],
+				[
+					21.337334422273557,
+					97.40957018863992
+				],
+				[
+					24.120464999091837,
+					97.40957018863992
+				],
+				[
+					26.903595575910117,
+					95.55414980409387
+				],
+				[
+					29.686726152728397,
+					92.77101922727616
+				],
+				[
+					33.39756692181936,
+					89.06017845818496
+				],
+				[
+					36.180697498637755,
+					82.56620711227515
+				],
+				[
+					39.89153826772872,
+					75.14452557409368
+				],
+				[
+					41.746958652274316,
+					66.79513384363872
+				],
+				[
+					42.674668844547114,
+					60.30116249772891
+				],
+				[
+					43.6023790368198,
+					53.80719115182001
+				],
+				[
+					43.6023790368198,
+					48.240929998183674
+				],
+				[
+					43.6023790368198,
+					42.67466884454643
+				],
+				[
+					43.6023790368198,
+					37.1084076909101
+				],
+				[
+					43.6023790368198,
+					32.469856729546336
+				],
+				[
+					42.674668844547114,
+					28.759015960455145
+				],
+				[
+					42.674668844547114,
+					25.975885383637433
+				],
+				[
+					41.746958652274316,
+					24.120464999091382
+				],
+				[
+					40.81924846000152,
+					24.120464999091382
+				],
+				[
+					40.81924846000152,
+					24.120464999091382
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				40.81924846000152,
+				24.120464999091382
+			]
+		},
+		{
+			"id": "L4M0MFRjgTktT1TAf788M",
+			"type": "freedraw",
+			"x": -702.5735921772524,
+			"y": 7827.257391209898,
+			"width": 57.5180319209112,
+			"height": 92.77101922727616,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2063375296,
+			"version": 55,
+			"versionNonce": 329561024,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					4.638550961363762
+				],
+				[
+					0.9277101922726843,
+					13.915652884091287
+				],
+				[
+					2.78313057681828,
+					24.12046499909229
+				],
+				[
+					5.56626115363656,
+					35.25298730636496
+				],
+				[
+					10.204812115000436,
+					50.096350382728815
+				],
+				[
+					16.69878346090968,
+					66.79513384363872
+				],
+				[
+					21.337334422273557,
+					76.07223576636625
+				],
+				[
+					24.120464999091723,
+					79.78307653545744
+				],
+				[
+					25.97588538363732,
+					81.63849692000258
+				],
+				[
+					26.903595575910117,
+					81.63849692000258
+				],
+				[
+					27.8313057681828,
+					81.63849692000258
+				],
+				[
+					29.686726152728284,
+					80.71078672773001
+				],
+				[
+					31.54214653727388,
+					78.85536634318487
+				],
+				[
+					33.397566921819475,
+					73.28910518954763
+				],
+				[
+					38.963828075456036,
+					52.879480959547436
+				],
+				[
+					38.963828075456036,
+					51.024060575002295
+				],
+				[
+					39.89153826772872,
+					41.74695865227386
+				],
+				[
+					39.89153826772872,
+					32.469856729546336
+				],
+				[
+					39.89153826772872,
+					26.903595575910003
+				],
+				[
+					39.89153826772872,
+					19.48191403772762
+				],
+				[
+					39.89153826772872,
+					17.62649365318248
+				],
+				[
+					39.89153826772872,
+					18.55420384545505
+				],
+				[
+					39.89153826772872,
+					24.12046499909229
+				],
+				[
+					41.7469586522742,
+					34.32527711409239
+				],
+				[
+					44.530089229092596,
+					46.38550961363762
+				],
+				[
+					47.31321980591076,
+					61.22887269000239
+				],
+				[
+					51.02406057500184,
+					74.2168153818211
+				],
+				[
+					53.80719115182012,
+					82.56620711227606
+				],
+				[
+					55.662611536365716,
+					87.20475807363982
+				],
+				[
+					55.662611536365716,
+					88.1324682659124
+				],
+				[
+					56.5903217286384,
+					89.98788865045753
+				],
+				[
+					56.5903217286384,
+					91.84330903500359
+				],
+				[
+					57.5180319209112,
+					92.77101922727616
+				],
+				[
+					57.5180319209112,
+					91.84330903500359
+				],
+				[
+					57.5180319209112,
+					91.84330903500359
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				57.5180319209112,
+				91.84330903500359
+			]
+		},
+		{
+			"id": "AL4JX-9Exv-pqtao4762C",
+			"type": "freedraw",
+			"x": -537.441177952701,
+			"y": 7889.413974092173,
+			"width": 52.879480959547436,
+			"height": 47.3132198059111,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1404246976,
+			"version": 51,
+			"versionNonce": 1828808768,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9277101922727979,
+					0
+				],
+				[
+					2.78313057681828,
+					0.9277101922725706
+				],
+				[
+					4.638550961363876,
+					0.9277101922725706
+				],
+				[
+					8.34939173045484,
+					0
+				],
+				[
+					12.060232499545918,
+					-1.8554203845451411
+				],
+				[
+					15.771073268636997,
+					-4.638550961363762
+				],
+				[
+					19.48191403772796,
+					-10.204812115000095
+				],
+				[
+					23.19275480681904,
+					-15.771073268637338
+				],
+				[
+					25.97588538363732,
+					-19.48191403772762
+				],
+				[
+					25.97588538363732,
+					-20.40962423000019
+				],
+				[
+					25.97588538363732,
+					-21.33733442227367
+				],
+				[
+					25.04817519136452,
+					-21.33733442227367
+				],
+				[
+					24.120464999091837,
+					-20.40962423000019
+				],
+				[
+					20.40962423000076,
+					-17.62649365318248
+				],
+				[
+					15.771073268636997,
+					-14.843363076363858
+				],
+				[
+					12.987942691818716,
+					-10.204812115000095
+				],
+				[
+					10.204812115000436,
+					-5.566261153636333
+				],
+				[
+					10.204812115000436,
+					-0.9277101922725706
+				],
+				[
+					10.204812115000436,
+					3.7108407690911918
+				],
+				[
+					11.13252230727312,
+					7.4216815381823835
+				],
+				[
+					12.987942691818716,
+					11.132522307273575
+				],
+				[
+					14.843363076364199,
+					15.771073268637338
+				],
+				[
+					17.62649365318248,
+					19.48191403772762
+				],
+				[
+					21.337334422273557,
+					23.19275480681881
+				],
+				[
+					25.04817519136452,
+					25.048175191364862
+				],
+				[
+					29.686726152728397,
+					25.975885383637433
+				],
+				[
+					35.25298730636496,
+					25.048175191364862
+				],
+				[
+					41.746958652274316,
+					24.12046499909229
+				],
+				[
+					46.38550961363808,
+					22.26504461454624
+				],
+				[
+					50.096350382729156,
+					21.33733442227367
+				],
+				[
+					52.879480959547436,
+					20.4096242300011
+				],
+				[
+					52.879480959547436,
+					20.4096242300011
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				52.879480959547436,
+				20.4096242300011
+			]
+		},
+		{
+			"id": "g_DqP2Hge5TcQVAcMGTrl",
+			"type": "freedraw",
+			"x": -245.2124673867812,
+			"y": 7835.606782940353,
+			"width": 51.95177076727464,
+			"height": 104.8312517268223,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 843240384,
+			"version": 39,
+			"versionNonce": 1817721792,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.9277101922725706
+				],
+				[
+					1.8554203845454822,
+					5.566261153636333
+				],
+				[
+					5.56626115363656,
+					15.771073268637338
+				],
+				[
+					12.060232499545918,
+					29.686726152728625
+				],
+				[
+					18.554203845455277,
+					45.45779942136505
+				],
+				[
+					25.04817519136452,
+					64.0120032668201
+				],
+				[
+					30.61443634500108,
+					82.56620711227606
+				],
+				[
+					36.18069749863764,
+					96.48185999636735
+				],
+				[
+					39.89153826772872,
+					103.90354153454882
+				],
+				[
+					39.89153826772872,
+					104.8312517268223
+				],
+				[
+					39.89153826772872,
+					103.90354153454882
+				],
+				[
+					39.89153826772872,
+					102.97583134227625
+				],
+				[
+					39.89153826772872,
+					97.40957018863992
+				],
+				[
+					39.89153826772872,
+					89.06017845818496
+				],
+				[
+					40.81924846000152,
+					78.85536634318487
+				],
+				[
+					47.313219805910876,
+					49.168640190456244
+				],
+				[
+					48.24092999818356,
+					47.3132198059111
+				],
+				[
+					48.24092999818356,
+					42.67466884454734
+				],
+				[
+					51.02406057500184,
+					33.397566921819816
+				],
+				[
+					51.95177076727464,
+					28.759015960455145
+				],
+				[
+					51.95177076727464,
+					28.759015960455145
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				51.95177076727464,
+				28.759015960455145
+			]
+		},
+		{
+			"id": "h6wBcdSV5hjxWO1OtOqhJ",
+			"type": "freedraw",
+			"x": -786.9952196740737,
+			"y": 8119.486101775818,
+			"width": 40.81924846000152,
+			"height": 63.08429307454753,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 826589248,
+			"version": 47,
+			"versionNonce": 1361731648,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9277101922727979,
+					0
+				],
+				[
+					2.783130576818394,
+					-1.8554203845451411
+				],
+				[
+					7.421681538182156,
+					-6.4939713459089035
+				],
+				[
+					12.060232499545918,
+					-12.987942691818716
+				],
+				[
+					18.554203845455277,
+					-21.33733442227367
+				],
+				[
+					24.120464999091837,
+					-28.759015960455145
+				],
+				[
+					28.7590159604556,
+					-34.32527711409239
+				],
+				[
+					31.542146537273993,
+					-38.03611788318267
+				],
+				[
+					31.542146537273993,
+					-37.1084076909101
+				],
+				[
+					31.542146537273993,
+					-34.32527711409239
+				],
+				[
+					32.46985672954668,
+					-25.048175191364862
+				],
+				[
+					32.46985672954668,
+					-11.132522307272666
+				],
+				[
+					32.46985672954668,
+					1.8554203845460506
+				],
+				[
+					32.46985672954668,
+					11.132522307273575
+				],
+				[
+					32.46985672954668,
+					15.771073268637338
+				],
+				[
+					31.542146537273993,
+					16.698783460909908
+				],
+				[
+					28.7590159604556,
+					18.55420384545505
+				],
+				[
+					24.120464999091837,
+					20.4096242300011
+				],
+				[
+					18.554203845455277,
+					21.33733442227367
+				],
+				[
+					12.987942691818716,
+					22.26504461454624
+				],
+				[
+					9.277101922727638,
+					23.19275480681881
+				],
+				[
+					8.349391730454954,
+					23.19275480681881
+				],
+				[
+					9.277101922727638,
+					24.12046499909229
+				],
+				[
+					12.060232499545918,
+					24.12046499909229
+				],
+				[
+					16.69878346090968,
+					25.048175191364862
+				],
+				[
+					23.19275480681904,
+					25.048175191364862
+				],
+				[
+					29.686726152728397,
+					25.048175191364862
+				],
+				[
+					35.25298730636496,
+					24.12046499909229
+				],
+				[
+					39.89153826772872,
+					23.19275480681881
+				],
+				[
+					40.81924846000152,
+					22.26504461454624
+				],
+				[
+					40.81924846000152,
+					22.26504461454624
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				40.81924846000152,
+				22.26504461454624
+			]
+		},
+		{
+			"id": "TETxupKzVJqucTf4RJ6cI",
+			"type": "freedraw",
+			"x": -744.3205508295266,
+			"y": 8046.19699658627,
+			"width": 49.168640190456244,
+			"height": 115.0360638418224,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 930538432,
+			"version": 38,
+			"versionNonce": 1968882624,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9.277101922727525,
+					14.843363076363858
+				],
+				[
+					11.13252230727312,
+					17.62649365318248
+				],
+				[
+					17.62649365318248,
+					26.903595575910003
+				],
+				[
+					25.04817519136452,
+					36.18069749863753
+				],
+				[
+					32.469856729546564,
+					46.38550961363762
+				],
+				[
+					38.96382807545592,
+					54.73490134409258
+				],
+				[
+					43.602379036819684,
+					63.08429307454753
+				],
+				[
+					46.38550961363808,
+					69.57826442045643
+				],
+				[
+					48.24092999818345,
+					76.07223576636625
+				],
+				[
+					49.168640190456244,
+					82.56620711227515
+				],
+				[
+					49.168640190456244,
+					89.06017845818496
+				],
+				[
+					47.31321980591076,
+					95.55414980409387
+				],
+				[
+					44.53008922909248,
+					102.04812115000368
+				],
+				[
+					41.7469586522742,
+					106.68667211136744
+				],
+				[
+					38.036117883183124,
+					109.46980268818515
+				],
+				[
+					33.39756692181936,
+					111.3252230727312
+				],
+				[
+					28.7590159604556,
+					113.18064345727635
+				],
+				[
+					25.04817519136452,
+					114.10835364954892
+				],
+				[
+					23.19275480681904,
+					115.0360638418224
+				],
+				[
+					21.337334422273443,
+					114.10835364954892
+				],
+				[
+					20.409624230000645,
+					113.18064345727635
+				],
+				[
+					19.481914037727847,
+					113.18064345727635
+				],
+				[
+					19.481914037727847,
+					113.18064345727635
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				19.481914037727847,
+				113.18064345727635
+			]
+		},
+		{
+			"id": "bl81kyeHLUhq4oYRcg8ji",
+			"type": "freedraw",
+			"x": -757.3084935213453,
+			"y": 8101.859608122635,
+			"width": 30.614436345001195,
+			"height": 66.79513384363872,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1009431488,
+			"version": 35,
+			"versionNonce": 896817216,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.8554203845455959,
+					-6.4939713459089035
+				],
+				[
+					5.56626115363656,
+					-12.987942691818716
+				],
+				[
+					9.277101922727638,
+					-20.40962423000019
+				],
+				[
+					15.771073268636883,
+					-28.759015960455145
+				],
+				[
+					20.40962423000076,
+					-35.25298730636496
+				],
+				[
+					24.120464999091837,
+					-40.81924846000129
+				],
+				[
+					25.97588538363732,
+					-41.74695865227386
+				],
+				[
+					25.97588538363732,
+					-40.81924846000129
+				],
+				[
+					25.97588538363732,
+					-38.03611788318267
+				],
+				[
+					27.8313057681828,
+					-29.686726152727715
+				],
+				[
+					29.686726152728397,
+					-18.55420384545505
+				],
+				[
+					30.614436345001195,
+					-6.4939713459089035
+				],
+				[
+					30.614436345001195,
+					2.783130576818621
+				],
+				[
+					30.614436345001195,
+					11.132522307273575
+				],
+				[
+					30.614436345001195,
+					16.698783460909908
+				],
+				[
+					30.614436345001195,
+					20.4096242300011
+				],
+				[
+					29.686726152728397,
+					23.19275480681972
+				],
+				[
+					29.686726152728397,
+					24.12046499909229
+				],
+				[
+					29.686726152728397,
+					25.048175191364862
+				],
+				[
+					29.686726152728397,
+					25.048175191364862
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				29.686726152728397,
+				25.048175191364862
+			]
+		},
+		{
 			"id": "VCVgcoFNd_2K3BOhoDRzv",
 			"type": "freedraw",
 			"x": -882.549369478168,
@@ -32670,11 +43604,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1286561856,
-			"version": 33,
-			"versionNonce": 1020078144,
-			"isDeleted": false,
+			"version": 44,
+			"versionNonce": 1288457152,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32824,11 +43758,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 959691712,
-			"version": 27,
-			"versionNonce": 539524032,
-			"isDeleted": false,
+			"version": 38,
+			"versionNonce": 1841254464,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32950,11 +43884,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 390103104,
-			"version": 37,
-			"versionNonce": 830349376,
-			"isDeleted": false,
+			"version": 48,
+			"versionNonce": 1288491968,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33120,11 +44054,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 947694528,
-			"version": 44,
-			"versionNonce": 1159922624,
-			"isDeleted": false,
+			"version": 55,
+			"versionNonce": 1374373952,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33318,11 +44252,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 727307200,
-			"version": 17,
-			"versionNonce": 1431312448,
-			"isDeleted": false,
+			"version": 28,
+			"versionNonce": 192699328,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33408,11 +44342,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1600000064,
-			"version": 20,
-			"versionNonce": 2039253952,
-			"isDeleted": false,
+			"version": 31,
+			"versionNonce": 1037582400,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33493,6 +44427,330 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
+			"id": "msrKTVkXGOMOCLF5StNKx",
+			"type": "freedraw",
+			"x": -206.24863931132518,
+			"y": 8099.076477545817,
+			"width": 75.14452557409368,
+			"height": 120.60232499545873,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 83216448,
+			"version": 52,
+			"versionNonce": 1526391744,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9277101922727979,
+					0
+				],
+				[
+					-2.783130576818394,
+					-4.638550961363762
+				],
+				[
+					-4.638550961363876,
+					-12.060232499546146
+				],
+				[
+					-4.638550961363876,
+					-22.26504461454624
+				],
+				[
+					-4.638550961363876,
+					-28.759015960456054
+				],
+				[
+					-4.638550961363876,
+					-36.18069749863753
+				],
+				[
+					-2.783130576818394,
+					-44.53008922909248
+				],
+				[
+					3.7108407690909644,
+					-51.951770767274866
+				],
+				[
+					15.771073268636883,
+					-56.59032172863863
+				],
+				[
+					28.759015960455486,
+					-57.5180319209112
+				],
+				[
+					59.37345230545668,
+					-31.542146537273766
+				],
+				[
+					62.15658288227496,
+					-21.33733442227367
+				],
+				[
+					62.15658288227496,
+					-20.4096242300011
+				],
+				[
+					64.01200326682044,
+					-2.783130576818621
+				],
+				[
+					59.37345230545668,
+					32.469856729546336
+				],
+				[
+					50.09635038272904,
+					52.879480959547436
+				],
+				[
+					42.674668844547,
+					60.30116249772891
+				],
+				[
+					35.252987306364844,
+					63.08429307454753
+				],
+				[
+					27.8313057681828,
+					63.08429307454753
+				],
+				[
+					20.409624230000645,
+					61.22887269000239
+				],
+				[
+					14.843363076364085,
+					57.5180319209112
+				],
+				[
+					10.204812115000323,
+					51.951770767273956
+				],
+				[
+					6.4939713459092445,
+					41.74695865227386
+				],
+				[
+					4.638550961363762,
+					34.32527711409239
+				],
+				[
+					4.638550961363762,
+					30.614436345001195
+				],
+				[
+					8.34939173045484,
+					28.759015960455145
+				],
+				[
+					14.843363076364085,
+					27.831305768182574
+				],
+				[
+					21.337334422273443,
+					27.831305768182574
+				],
+				[
+					28.759015960455486,
+					28.759015960455145
+				],
+				[
+					34.32527711409216,
+					30.614436345001195
+				],
+				[
+					40.819248460001404,
+					34.32527711409239
+				],
+				[
+					47.31321980591076,
+					38.03611788318267
+				],
+				[
+					51.951770767274525,
+					38.96382807545524
+				],
+				[
+					58.44574211318388,
+					39.89153826772872
+				],
+				[
+					64.93971345909324,
+					39.89153826772872
+				],
+				[
+					68.65055422818432,
+					38.96382807545524
+				],
+				[
+					70.5059746127298,
+					38.03611788318267
+				],
+				[
+					70.5059746127298,
+					38.03611788318267
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				70.5059746127298,
+				38.03611788318267
+			]
+		},
+		{
+			"id": "z_HURdMDTCN9JxRmUqdWZ",
+			"type": "freedraw",
+			"x": -113.47762008404914,
+			"y": 8031.353633509905,
+			"width": 18.554203845455163,
+			"height": 13.915652884091287,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 339159104,
+			"version": 37,
+			"versionNonce": 291911744,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.638550961363762,
+					0
+				],
+				[
+					-10.204812115000323,
+					2.783130576818621
+				],
+				[
+					-13.9156528840914,
+					5.566261153637242
+				],
+				[
+					-16.69878346090968,
+					7.4216815381823835
+				],
+				[
+					-18.554203845455163,
+					9.277101922727525
+				],
+				[
+					-18.554203845455163,
+					10.204812115001005
+				],
+				[
+					-18.554203845455163,
+					11.132522307273575
+				],
+				[
+					-18.554203845455163,
+					12.060232499546146
+				],
+				[
+					-16.69878346090968,
+					12.060232499546146
+				],
+				[
+					-12.987942691818603,
+					12.987942691818716
+				],
+				[
+					-10.204812115000323,
+					11.132522307273575
+				],
+				[
+					-7.4216815381820425,
+					10.204812115001005
+				],
+				[
+					-5.56626115363656,
+					8.349391730454954
+				],
+				[
+					-4.638550961363762,
+					6.493971345909813
+				],
+				[
+					-4.638550961363762,
+					4.638550961363762
+				],
+				[
+					-4.638550961363762,
+					3.7108407690911918
+				],
+				[
+					-3.710840769091078,
+					1.8554203845460506
+				],
+				[
+					-3.710840769091078,
+					0.9277101922734801
+				],
+				[
+					-3.710840769091078,
+					0
+				],
+				[
+					-4.638550961363762,
+					0
+				],
+				[
+					-5.56626115363656,
+					0
+				],
+				[
+					-6.493971345909358,
+					-0.9277101922725706
+				],
+				[
+					-8.34939173045484,
+					-0.9277101922725706
+				],
+				[
+					-8.34939173045484,
+					-0.9277101922725706
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-8.34939173045484,
+				-0.9277101922725706
+			]
+		},
+		{
 			"id": "-KeDtIy6qP6zk09H3TaBW",
 			"type": "freedraw",
 			"x": -205.3209291190525,
@@ -33510,11 +44768,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2005210048,
-			"version": 36,
-			"versionNonce": 2116255808,
-			"isDeleted": false,
+			"version": 47,
+			"versionNonce": 1231580096,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855293358,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33684,11 +44942,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 134456256,
-			"version": 25,
-			"versionNonce": 593757120,
-			"isDeleted": false,
+			"version": 36,
+			"versionNonce": 812986432,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855294129,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33810,11 +45068,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 933173312,
-			"version": 15,
-			"versionNonce": 1448665152,
-			"isDeleted": false,
+			"version": 26,
+			"versionNonce": 551875520,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855295641,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33900,11 +45158,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 5522368,
-			"version": 24,
-			"versionNonce": 1892843584,
-			"isDeleted": false,
+			"version": 35,
+			"versionNonce": 48572480,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855296391,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34026,11 +45284,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 465871808,
-			"version": 11,
-			"versionNonce": 1369852864,
-			"isDeleted": false,
+			"version": 22,
+			"versionNonce": 1737522112,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855297129,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34100,11 +45358,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 998592576,
-			"version": 47,
-			"versionNonce": 311793728,
-			"isDeleted": false,
+			"version": 58,
+			"versionNonce": 1955995712,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855298615,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34318,11 +45576,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1029639104,
-			"version": 47,
-			"versionNonce": 1322664896,
-			"isDeleted": false,
+			"version": 58,
+			"versionNonce": 1602945984,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855301226,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34519,6 +45777,66 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
+			"id": "f65nZSIsQ3gSSX5qsZ_g6",
+			"type": "line",
+			"x": -396.42922872724125,
+			"y": 7785.510432557624,
+			"width": 6375.155582255541,
+			"height": 2780,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1668339776,
+			"version": 277,
+			"versionNonce": 1969756224,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674855669589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					211.51792383818952,
+					129.87942691818625
+				],
+				[
+					6375.155582255541,
+					-509.0007151822001
+				],
+				[
+					3965.155582255541,
+					220.9992848177999
+				],
+				[
+					4345.155582255541,
+					-2559.0007151822
+				],
+				[
+					5565.155582255541,
+					-479.0007151822001
+				]
+			],
+			"lastCommittedPoint": [
+				4345.155582255541,
+				-2559.0007151822
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "WFRyikKO5kEBF8e4EsQxi",
 			"type": "freedraw",
 			"x": -937.9006305986854,
@@ -34536,11 +45854,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1639819328,
-			"version": 57,
-			"versionNonce": 2022885440,
-			"isDeleted": false,
+			"version": 68,
+			"versionNonce": 116689856,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855389573,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34794,11 +46112,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 621599680,
-			"version": 12,
-			"versionNonce": 1483708480,
-			"isDeleted": false,
+			"version": 23,
+			"versionNonce": 2033913920,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855390937,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34872,11 +46190,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1512377280,
-			"version": 13,
-			"versionNonce": 1264139200,
-			"isDeleted": false,
+			"version": 24,
+			"versionNonce": 401413056,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855398398,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34954,11 +46272,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 515465280,
-			"version": 32,
-			"versionNonce": 864664512,
-			"isDeleted": false,
+			"version": 43,
+			"versionNonce": 2012153920,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855400056,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35112,11 +46430,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1875959872,
-			"version": 31,
-			"versionNonce": 1031759936,
-			"isDeleted": false,
+			"version": 42,
+			"versionNonce": 143956928,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855400834,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35266,11 +46584,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1790589888,
-			"version": 15,
-			"versionNonce": 25621440,
-			"isDeleted": false,
+			"version": 26,
+			"versionNonce": 1835270208,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855401545,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35356,11 +46674,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1969432640,
-			"version": 40,
-			"versionNonce": 1829737408,
-			"isDeleted": false,
+			"version": 51,
+			"versionNonce": 185279424,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855402983,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35546,11 +46864,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1546946624,
-			"version": 22,
-			"versionNonce": 887843776,
-			"isDeleted": false,
+			"version": 33,
+			"versionNonce": 1501165632,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855403550,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35664,11 +46982,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1923231808,
-			"version": 21,
-			"versionNonce": 2117001280,
-			"isDeleted": false,
+			"version": 32,
+			"versionNonce": 225487808,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855404094,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35778,11 +47096,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1759396800,
-			"version": 12,
-			"versionNonce": 1880731712,
-			"isDeleted": false,
+			"version": 23,
+			"versionNonce": 1074851904,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855405380,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35856,11 +47174,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2076734400,
-			"version": 10,
-			"versionNonce": 1623427136,
-			"isDeleted": false,
+			"version": 21,
+			"versionNonce": 971322304,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855405717,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35926,11 +47244,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 625482688,
-			"version": 12,
-			"versionNonce": 353392704,
-			"isDeleted": false,
+			"version": 23,
+			"versionNonce": 688449600,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855406758,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36004,11 +47322,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1156598720,
-			"version": 37,
-			"versionNonce": 814799808,
-			"isDeleted": false,
+			"version": 48,
+			"versionNonce": 1988672448,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855407801,
+			"updated": 1674855669589,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36182,11 +47500,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 38518848,
-			"version": 24,
-			"versionNonce": 819805120,
-			"isDeleted": false,
+			"version": 35,
+			"versionNonce": 541188160,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855408997,
+			"updated": 1674855669590,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36308,11 +47626,11 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1131765824,
-			"version": 15,
-			"versionNonce": 126888000,
-			"isDeleted": false,
+			"version": 26,
+			"versionNonce": 1702577088,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855410797,
+			"updated": 1674855669590,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36381,856 +47699,14 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
-			"id": "2P3AKaEWdqsb5SE1fJwkB",
+			"id": "wtO5ooxNmIcu60c6ZSc3f",
 			"type": "freedraw",
-			"x": -47.067403677349034,
-			"y": 6461.05952812,
-			"width": 12.639786395398914,
-			"height": 67.85569538582604,
-			"angle": 0,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2045119424,
-			"version": 54,
-			"versionNonce": 839878720,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855292497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.6652519155472874,
-					0.6652519155477421
-				],
-				[
-					1.3305038310946884,
-					3.991511493283724
-				],
-				[
-					1.9957557466419757,
-					11.30928256430434
-				],
-				[
-					3.3262595777365505,
-					22.61856512860868
-				],
-				[
-					5.322015324378526,
-					35.258351524007594
-				],
-				[
-					7.983022986567789,
-					48.56338983495425
-				],
-				[
-					9.978778733209651,
-					59.20742048371085
-				],
-				[
-					11.30928256430434,
-					65.19468772363689
-				],
-				[
-					11.974534479851627,
-					67.1904434702783
-				],
-				[
-					11.974534479851627,
-					67.85569538582604
-				],
-				[
-					12.639786395398914,
-					67.1904434702783
-				],
-				[
-					12.639786395398914,
-					62.53368006144774
-				],
-				[
-					12.639786395398914,
-					55.88116090597396
-				],
-				[
-					11.30928256430434,
-					47.89813791940651
-				],
-				[
-					8.648274902115077,
-					39.24986301729132
-				],
-				[
-					7.317771071020502,
-					31.26684003072387
-				],
-				[
-					5.322015324378526,
-					24.614320875250996
-				],
-				[
-					3.991511493283838,
-					18.627053635324955
-				],
-				[
-					2.661007662189263,
-					13.97029022649349
-				],
-				[
-					2.661007662189263,
-					11.30928256430434
-				],
-				[
-					2.661007662189263,
-					10.644030648757507
-				],
-				[
-					2.661007662189263,
-					9.313526817662932
-				],
-				[
-					3.991511493283838,
-					9.313526817662932
-				],
-				[
-					5.9872672399258136,
-					9.978778733209765
-				],
-				[
-					6.652519155473101,
-					10.644030648757507
-				],
-				[
-					7.317771071020502,
-					11.30928256430434
-				],
-				[
-					7.317771071020502,
-					12.639786395398914
-				],
-				[
-					7.317771071020502,
-					13.97029022649349
-				],
-				[
-					7.317771071020502,
-					15.300794057588064
-				],
-				[
-					7.317771071020502,
-					17.29654980423038
-				],
-				[
-					7.317771071020502,
-					18.627053635324955
-				],
-				[
-					6.652519155473101,
-					19.95755746641953
-				],
-				[
-					5.9872672399258136,
-					21.288061297514105
-				],
-				[
-					5.322015324378526,
-					22.61856512860868
-				],
-				[
-					4.656763408831239,
-					22.61856512860868
-				],
-				[
-					3.991511493283838,
-					22.61856512860868
-				],
-				[
-					3.991511493283838,
-					22.61856512860868
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.991511493283838,
-				22.61856512860868
-			]
-		},
-		{
-			"id": "HFAP3dygptaYHP2UZnKqI",
-			"type": "freedraw",
-			"x": 63.36441430350487,
-			"y": 6383.2250540009645,
-			"width": 9.313526817662364,
-			"height": 53.88540515933255,
-			"angle": 0,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 875995200,
-			"version": 27,
-			"versionNonce": 1589386176,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855292497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					3.3262595777368915
-				],
-				[
-					1.3305038310945747,
-					8.64827490211519
-				],
-				[
-					1.3305038310945747,
-					9.978778733209765
-				],
-				[
-					2.661007662189263,
-					16.631297888683548
-				],
-				[
-					4.656763408831125,
-					27.940580452987888
-				],
-				[
-					5.9872672399258136,
-					37.25410727064991
-				],
-				[
-					7.983022986567676,
-					45.9023821727651
-				],
-				[
-					8.648274902115077,
-					51.2243974971434
-				],
-				[
-					9.313526817662364,
-					53.88540515933255
-				],
-				[
-					9.313526817662364,
-					53.22015324378572
-				],
-				[
-					9.313526817662364,
-					53.22015324378572
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9.313526817662364,
-				53.22015324378572
-			]
-		},
-		{
-			"id": "pxEjLgkowapn-MC713HY9",
-			"type": "freedraw",
-			"x": 85.98297943211344,
-			"y": 6456.402764711169,
-			"width": 39.91511493283872,
-			"height": 58.542168568164016,
-			"angle": 0,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 406952896,
-			"version": 58,
-			"versionNonce": 259293248,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855292497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.6652519155477421
-				],
-				[
-					0.6652519155472874,
-					4.656763408831466
-				],
-				[
-					1.9957557466419757,
-					11.30928256430434
-				],
-				[
-					2.661007662189263,
-					20.622809381967272
-				],
-				[
-					3.3262595777365505,
-					31.932091946271612
-				],
-				[
-					4.656763408831239,
-					42.57612259502821
-				],
-				[
-					5.322015324378526,
-					52.554901328237975
-				],
-				[
-					5.9872672399258136,
-					57.87691665261627
-				],
-				[
-					5.9872672399258136,
-					58.542168568164016
-				],
-				[
-					5.9872672399258136,
-					57.87691665261627
-				],
-				[
-					6.652519155473101,
-					55.881160905974866
-				],
-				[
-					6.652519155473101,
-					51.2243974971434
-				],
-				[
-					5.9872672399258136,
-					43.24137451057595
-				],
-				[
-					5.9872672399258136,
-					34.59309960846076
-				],
-				[
-					5.9872672399258136,
-					27.275328537440146
-				],
-				[
-					5.322015324378526,
-					21.288061297514105
-				],
-				[
-					5.322015324378526,
-					15.966045973135806
-				],
-				[
-					5.322015324378526,
-					12.639786395398914
-				],
-				[
-					6.652519155473101,
-					11.30928256430434
-				],
-				[
-					7.983022986567789,
-					11.30928256430434
-				],
-				[
-					9.313526817662364,
-					11.30928256430434
-				],
-				[
-					10.644030648757052,
-					11.974534479852082
-				],
-				[
-					11.30928256430434,
-					12.639786395398914
-				],
-				[
-					11.30928256430434,
-					13.305038310946657
-				],
-				[
-					11.30928256430434,
-					15.300794057588973
-				],
-				[
-					11.30928256430434,
-					17.961801719778123
-				],
-				[
-					10.644030648757052,
-					22.61856512860868
-				],
-				[
-					8.648274902115077,
-					27.275328537440146
-				],
-				[
-					7.317771071020502,
-					30.601588115177037
-				],
-				[
-					6.652519155473101,
-					32.597343861818445
-				],
-				[
-					6.652519155473101,
-					33.92784769291302
-				],
-				[
-					6.652519155473101,
-					34.59309960846076
-				],
-				[
-					6.652519155473101,
-					35.258351524007594
-				],
-				[
-					8.648274902115077,
-					37.25410727064991
-				],
-				[
-					12.639786395398914,
-					41.245618763933635
-				],
-				[
-					17.296549804230153,
-					45.23713025721736
-				],
-				[
-					23.283817044155967,
-					49.22864175050108
-				],
-				[
-					30.601588115176355,
-					52.554901328237975
-				],
-				[
-					35.258351524007594,
-					54.55065707488029
-				],
-				[
-					37.254107270649456,
-					55.881160905974866
-				],
-				[
-					38.584611101744144,
-					56.5464128215217
-				],
-				[
-					39.91511493283872,
-					57.21166473706944
-				],
-				[
-					39.91511493283872,
-					57.21166473706944
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				39.91511493283872,
-				57.21166473706944
-			]
-		},
-		{
-			"id": "TLrLLwUtKlEK058it0ahU",
-			"type": "freedraw",
-			"x": -704.4290125617979,
-			"y": 7840.245333901717,
-			"width": 59.37345230545668,
-			"height": 47.3132198059111,
-			"angle": 0,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1483468864,
-			"version": 46,
-			"versionNonce": 1702524992,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855292497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.7831305768181664,
-					0.9277101922725706
-				],
-				[
-					7.4216815381820425,
-					1.8554203845451411
-				],
-				[
-					15.771073268636883,
-					4.638550961363762
-				],
-				[
-					25.04817519136452,
-					5.566261153636333
-				],
-				[
-					36.18069749863764,
-					7.4216815381823835
-				],
-				[
-					46.38550961363808,
-					7.4216815381823835
-				],
-				[
-					53.80719115182012,
-					8.349391730454954
-				],
-				[
-					56.5903217286384,
-					8.349391730454954
-				],
-				[
-					57.5180319209112,
-					8.349391730454954
-				],
-				[
-					58.44574211318388,
-					8.349391730454954
-				],
-				[
-					59.37345230545668,
-					8.349391730454954
-				],
-				[
-					59.37345230545668,
-					10.204812115000095
-				],
-				[
-					58.44574211318388,
-					13.915652884091287
-				],
-				[
-					58.44574211318388,
-					17.62649365318248
-				],
-				[
-					57.5180319209112,
-					22.26504461454624
-				],
-				[
-					56.5903217286384,
-					26.903595575910003
-				],
-				[
-					55.6626115363656,
-					31.542146537273766
-				],
-				[
-					54.734901344092805,
-					34.32527711409239
-				],
-				[
-					53.80719115182012,
-					38.03611788318358
-				],
-				[
-					51.95177076727464,
-					40.81924846000129
-				],
-				[
-					49.168640190456244,
-					43.60237903681991
-				],
-				[
-					44.53008922909248,
-					46.38550961363762
-				],
-				[
-					39.89153826772872,
-					47.3132198059111
-				],
-				[
-					34.32527711409216,
-					47.3132198059111
-				],
-				[
-					28.7590159604556,
-					47.3132198059111
-				],
-				[
-					25.04817519136452,
-					47.3132198059111
-				],
-				[
-					24.120464999091723,
-					46.38550961363762
-				],
-				[
-					25.975885383637205,
-					46.38550961363762
-				],
-				[
-					29.686726152728284,
-					46.38550961363762
-				],
-				[
-					35.25298730636496,
-					46.38550961363762
-				],
-				[
-					41.7469586522742,
-					46.38550961363762
-				],
-				[
-					47.31321980591076,
-					46.38550961363762
-				],
-				[
-					51.95177076727464,
-					46.38550961363762
-				],
-				[
-					53.80719115182012,
-					46.38550961363762
-				],
-				[
-					54.734901344092805,
-					46.38550961363762
-				],
-				[
-					54.734901344092805,
-					46.38550961363762
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				54.734901344092805,
-				46.38550961363762
-			]
-		},
-		{
-			"id": "TLrLLwUtKlEK058it0ahU",
-			"type": "freedraw",
-			"x": -704.4290125617979,
-			"y": 7840.245333901717,
-			"width": 59.37345230545668,
-			"height": 47.3132198059111,
-			"angle": 0,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1483468864,
-			"version": 46,
-			"versionNonce": 532163520,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855292497,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.7831305768181664,
-					0.9277101922725706
-				],
-				[
-					7.4216815381820425,
-					1.8554203845451411
-				],
-				[
-					15.771073268636883,
-					4.638550961363762
-				],
-				[
-					25.04817519136452,
-					5.566261153636333
-				],
-				[
-					36.18069749863764,
-					7.4216815381823835
-				],
-				[
-					46.38550961363808,
-					7.4216815381823835
-				],
-				[
-					53.80719115182012,
-					8.349391730454954
-				],
-				[
-					56.5903217286384,
-					8.349391730454954
-				],
-				[
-					57.5180319209112,
-					8.349391730454954
-				],
-				[
-					58.44574211318388,
-					8.349391730454954
-				],
-				[
-					59.37345230545668,
-					8.349391730454954
-				],
-				[
-					59.37345230545668,
-					10.204812115000095
-				],
-				[
-					58.44574211318388,
-					13.915652884091287
-				],
-				[
-					58.44574211318388,
-					17.62649365318248
-				],
-				[
-					57.5180319209112,
-					22.26504461454624
-				],
-				[
-					56.5903217286384,
-					26.903595575910003
-				],
-				[
-					55.6626115363656,
-					31.542146537273766
-				],
-				[
-					54.734901344092805,
-					34.32527711409239
-				],
-				[
-					53.80719115182012,
-					38.03611788318358
-				],
-				[
-					51.95177076727464,
-					40.81924846000129
-				],
-				[
-					49.168640190456244,
-					43.60237903681991
-				],
-				[
-					44.53008922909248,
-					46.38550961363762
-				],
-				[
-					39.89153826772872,
-					47.3132198059111
-				],
-				[
-					34.32527711409216,
-					47.3132198059111
-				],
-				[
-					28.7590159604556,
-					47.3132198059111
-				],
-				[
-					25.04817519136452,
-					47.3132198059111
-				],
-				[
-					24.120464999091723,
-					46.38550961363762
-				],
-				[
-					25.975885383637205,
-					46.38550961363762
-				],
-				[
-					29.686726152728284,
-					46.38550961363762
-				],
-				[
-					35.25298730636496,
-					46.38550961363762
-				],
-				[
-					41.7469586522742,
-					46.38550961363762
-				],
-				[
-					47.31321980591076,
-					46.38550961363762
-				],
-				[
-					51.95177076727464,
-					46.38550961363762
-				],
-				[
-					53.80719115182012,
-					46.38550961363762
-				],
-				[
-					54.734901344092805,
-					46.38550961363762
-				],
-				[
-					54.734901344092805,
-					46.38550961363762
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				54.734901344092805,
-				46.38550961363762
-			]
-		},
-		{
-			"id": "57yYuDj62eiLmTbs5gnVR",
-			"type": "freedraw",
-			"x": -614.4411239113401,
-			"y": 7875.4983212080815,
+			"x": -101.2339639320187,
+			"y": 7995.553368169075,
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37239,12 +47715,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1264810048,
-			"version": 11,
-			"versionNonce": 2013360192,
+			"seed": 1293786048,
+			"version": 13,
+			"versionNonce": 899405888,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669590,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37265,14 +47741,14 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			]
 		},
 		{
-			"id": "XHByRjN3YoUVi2FYZX9uX",
+			"id": "a8V4TqI-i2hNJnuqYrEoQ",
 			"type": "freedraw",
-			"x": -695.1519106390704,
-			"y": 7817.052579094898,
-			"width": 43.6023790368198,
-			"height": 97.40957018863992,
+			"x": -504.56729726535207,
+			"y": 8186.664479280186,
+			"width": 4.444444444444457,
+			"height": 18.888888888887777,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37281,12 +47757,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 665723840,
-			"version": 42,
-			"versionNonce": 389854144,
+			"seed": 293783616,
+			"version": 26,
+			"versionNonce": 87015488,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669590,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37295,150 +47771,82 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					0,
-					5.566261153636333
+					1.1111111111110858,
+					0
+				],
+				[
+					1.1111111111110858,
+					1.1111111111104037
+				],
+				[
+					1.1111111111110858,
+					2.222222222221717
+				],
+				[
+					1.1111111111110858,
+					3.33333333333303
 				],
 				[
 					0,
-					12.987942691818716
+					4.444444444444343
 				],
 				[
 					0,
-					20.40962423000019
+					5.555555555555657
 				],
 				[
-					0.9277101922727979,
-					25.975885383637433
+					0,
+					6.66666666666697
 				],
 				[
-					1.8554203845455959,
-					43.60237903681991
+					0,
+					8.888888888887777
 				],
 				[
-					3.710840769091078,
-					55.66261153636515
+					-1.1111111111111995,
+					12.222222222221717
 				],
 				[
-					7.421681538182156,
-					71.43368480500249
+					-2.2222222222222854,
+					14.444444444444343
 				],
 				[
-					9.277101922727638,
-					81.63849692000258
+					-2.2222222222222854,
+					15.555555555555657
 				],
 				[
-					12.060232499545918,
-					88.1324682659124
+					-2.2222222222222854,
+					16.66666666666697
 				],
 				[
-					13.915652884091514,
-					90.9155988427301
+					-3.3333333333333712,
+					17.777777777776464
 				],
 				[
-					15.771073268636997,
-					93.69872941954873
+					-3.3333333333333712,
+					18.888888888887777
 				],
 				[
-					17.62649365318248,
-					95.55414980409387
-				],
-				[
-					19.481914037728075,
-					97.40957018863992
-				],
-				[
-					21.337334422273557,
-					97.40957018863992
-				],
-				[
-					24.120464999091837,
-					97.40957018863992
-				],
-				[
-					26.903595575910117,
-					95.55414980409387
-				],
-				[
-					29.686726152728397,
-					92.77101922727616
-				],
-				[
-					33.39756692181936,
-					89.06017845818496
-				],
-				[
-					36.180697498637755,
-					82.56620711227515
-				],
-				[
-					39.89153826772872,
-					75.14452557409368
-				],
-				[
-					41.746958652274316,
-					66.79513384363872
-				],
-				[
-					42.674668844547114,
-					60.30116249772891
-				],
-				[
-					43.6023790368198,
-					53.80719115182001
-				],
-				[
-					43.6023790368198,
-					48.240929998183674
-				],
-				[
-					43.6023790368198,
-					42.67466884454643
-				],
-				[
-					43.6023790368198,
-					37.1084076909101
-				],
-				[
-					43.6023790368198,
-					32.469856729546336
-				],
-				[
-					42.674668844547114,
-					28.759015960455145
-				],
-				[
-					42.674668844547114,
-					25.975885383637433
-				],
-				[
-					41.746958652274316,
-					24.120464999091382
-				],
-				[
-					40.81924846000152,
-					24.120464999091382
-				],
-				[
-					40.81924846000152,
-					24.120464999091382
+					-3.3333333333333712,
+					18.888888888887777
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				40.81924846000152,
-				24.120464999091382
+				-3.3333333333333712,
+				18.888888888887777
 			]
 		},
 		{
-			"id": "L4M0MFRjgTktT1TAf788M",
+			"id": "l48b7ai3qdUtyu9ghllHF",
 			"type": "freedraw",
-			"x": -702.5735921772524,
-			"y": 7827.257391209898,
-			"width": 57.5180319209112,
-			"height": 92.77101922727616,
+			"x": -515.6784083764633,
+			"y": 8296.664479280185,
+			"width": 0,
+			"height": 27.777777777779193,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37447,12 +47855,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2063375296,
-			"version": 45,
-			"versionNonce": 250177600,
+			"seed": 1407493056,
+			"version": 19,
+			"versionNonce": 1903006656,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669590,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37462,161 +47870,57 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 				],
 				[
 					0,
-					4.638550961363762
+					2.2222222222226264
 				],
 				[
-					0.9277101922726843,
-					13.915652884091287
+					0,
+					5.555555555556566
 				],
 				[
-					2.78313057681828,
-					24.12046499909229
+					0,
+					7.7777777777791925
 				],
 				[
-					5.56626115363656,
-					35.25298730636496
+					0,
+					12.222222222222626
 				],
 				[
-					10.204812115000436,
-					50.096350382728815
+					0,
+					18.888888888890506
 				],
 				[
-					16.69878346090968,
-					66.79513384363872
+					0,
+					23.33333333333394
 				],
 				[
-					21.337334422273557,
-					76.07223576636625
+					0,
+					26.66666666666788
 				],
 				[
-					24.120464999091723,
-					79.78307653545744
+					0,
+					27.777777777779193
 				],
 				[
-					25.97588538363732,
-					81.63849692000258
-				],
-				[
-					26.903595575910117,
-					81.63849692000258
-				],
-				[
-					27.8313057681828,
-					81.63849692000258
-				],
-				[
-					29.686726152728284,
-					80.71078672773001
-				],
-				[
-					31.54214653727388,
-					78.85536634318487
-				],
-				[
-					33.397566921819475,
-					73.28910518954763
-				],
-				[
-					38.963828075456036,
-					52.879480959547436
-				],
-				[
-					38.963828075456036,
-					51.024060575002295
-				],
-				[
-					39.89153826772872,
-					41.74695865227386
-				],
-				[
-					39.89153826772872,
-					32.469856729546336
-				],
-				[
-					39.89153826772872,
-					26.903595575910003
-				],
-				[
-					39.89153826772872,
-					19.48191403772762
-				],
-				[
-					39.89153826772872,
-					17.62649365318248
-				],
-				[
-					39.89153826772872,
-					18.55420384545505
-				],
-				[
-					39.89153826772872,
-					24.12046499909229
-				],
-				[
-					41.7469586522742,
-					34.32527711409239
-				],
-				[
-					44.530089229092596,
-					46.38550961363762
-				],
-				[
-					47.31321980591076,
-					61.22887269000239
-				],
-				[
-					51.02406057500184,
-					74.2168153818211
-				],
-				[
-					53.80719115182012,
-					82.56620711227606
-				],
-				[
-					55.662611536365716,
-					87.20475807363982
-				],
-				[
-					55.662611536365716,
-					88.1324682659124
-				],
-				[
-					56.5903217286384,
-					89.98788865045753
-				],
-				[
-					56.5903217286384,
-					91.84330903500359
-				],
-				[
-					57.5180319209112,
-					92.77101922727616
-				],
-				[
-					57.5180319209112,
-					91.84330903500359
-				],
-				[
-					57.5180319209112,
-					91.84330903500359
+					0,
+					27.777777777779193
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				57.5180319209112,
-				91.84330903500359
+				0,
+				27.777777777779193
 			]
 		},
 		{
-			"id": "AL4JX-9Exv-pqtao4762C",
+			"id": "9b16Zi8_rRXjXF_knlVl0",
 			"type": "freedraw",
-			"x": -537.441177952701,
-			"y": 7889.413974092173,
-			"width": 52.879480959547436,
-			"height": 47.3132198059111,
+			"x": -103.4561861542411,
+			"y": 8747.775590391298,
+			"width": 32.2222222222224,
+			"height": 43.33333333333394,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37625,12 +47929,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1404246976,
-			"version": 41,
-			"versionNonce": 1466190784,
+			"seed": 1175371840,
+			"version": 35,
+			"versionNonce": 1668056000,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669591,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37639,150 +47943,126 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					0.9277101922727979,
+					4.444444444444571,
+					-1.1111111111113132
+				],
+				[
+					8.888888888888914,
+					-1.1111111111113132
+				],
+				[
+					14.44444444444457,
+					-1.1111111111113132
+				],
+				[
+					21.111111111111313,
 					0
 				],
 				[
-					2.78313057681828,
-					0.9277101922725706
+					25.555555555555657,
+					1.1111111111113132
 				],
 				[
-					4.638550961363876,
-					0.9277101922725706
+					27.77777777777783,
+					1.1111111111113132
 				],
 				[
-					8.34939173045484,
-					0
+					28.888888888888914,
+					1.1111111111113132
 				],
 				[
-					12.060232499545918,
-					-1.8554203845451411
+					28.888888888888914,
+					2.2222222222226264
 				],
 				[
-					15.771073268636997,
-					-4.638550961363762
+					28.888888888888914,
+					5.555555555554747
 				],
 				[
-					19.48191403772796,
-					-10.204812115000095
+					27.77777777777783,
+					10
 				],
 				[
-					23.19275480681904,
-					-15.771073268637338
+					26.666666666666742,
+					15.555555555554747
 				],
 				[
-					25.97588538363732,
-					-19.48191403772762
+					26.666666666666742,
+					17.777777777777374
 				],
 				[
-					25.97588538363732,
-					-20.40962423000019
+					26.666666666666742,
+					18.888888888888687
 				],
 				[
-					25.97588538363732,
-					-21.33733442227367
+					28.888888888888914,
+					21.111111111111313
 				],
 				[
-					25.04817519136452,
-					-21.33733442227367
+					28.888888888888914,
+					22.222222222222626
 				],
 				[
-					24.120464999091837,
-					-20.40962423000019
+					31.111111111111313,
+					24.444444444443434
 				],
 				[
-					20.40962423000076,
-					-17.62649365318248
+					31.111111111111313,
+					25.555555555554747
 				],
 				[
-					15.771073268636997,
-					-14.843363076363858
+					32.2222222222224,
+					27.777777777777374
 				],
 				[
-					12.987942691818716,
-					-10.204812115000095
+					32.2222222222224,
+					31.111111111111313
 				],
 				[
-					10.204812115000436,
-					-5.566261153636333
+					32.2222222222224,
+					33.33333333333212
 				],
 				[
-					10.204812115000436,
-					-0.9277101922725706
+					31.111111111111313,
+					37.777777777777374
 				],
 				[
-					10.204812115000436,
-					3.7108407690911918
+					30,
+					40
 				],
 				[
-					11.13252230727312,
-					7.4216815381823835
+					26.666666666666742,
+					42.222222222222626
 				],
 				[
-					12.987942691818716,
-					11.132522307273575
+					23.333333333333485,
+					42.222222222222626
 				],
 				[
-					14.843363076364199,
-					15.771073268637338
+					18.888888888888914,
+					42.222222222222626
 				],
 				[
-					17.62649365318248,
-					19.48191403772762
-				],
-				[
-					21.337334422273557,
-					23.19275480681881
-				],
-				[
-					25.04817519136452,
-					25.048175191364862
-				],
-				[
-					29.686726152728397,
-					25.975885383637433
-				],
-				[
-					35.25298730636496,
-					25.048175191364862
-				],
-				[
-					41.746958652274316,
-					24.12046499909229
-				],
-				[
-					46.38550961363808,
-					22.26504461454624
-				],
-				[
-					50.096350382729156,
-					21.33733442227367
-				],
-				[
-					52.879480959547436,
-					20.4096242300011
-				],
-				[
-					52.879480959547436,
-					20.4096242300011
+					18.888888888888914,
+					42.222222222222626
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				52.879480959547436,
-				20.4096242300011
+				18.888888888888914,
+				42.222222222222626
 			]
 		},
 		{
-			"id": "g_DqP2Hge5TcQVAcMGTrl",
+			"id": "t4TYr7yLKxyBTW_1DGUH-",
 			"type": "freedraw",
-			"x": -245.2124673867812,
-			"y": 7835.606782940353,
-			"width": 51.95177076727464,
-			"height": 104.8312517268223,
+			"x": -46.78951948757435,
+			"y": 8713.331145946853,
+			"width": 18.888888888888914,
+			"height": 3.3333333333321207,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37791,12 +48071,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 843240384,
-			"version": 29,
-			"versionNonce": 1284694976,
+			"seed": 1808617536,
+			"version": 17,
+			"versionNonce": 979277888,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669591,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37806,105 +48086,57 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 				],
 				[
 					0,
-					0.9277101922725706
+					-1.1111111111113132
 				],
 				[
-					1.8554203845454822,
-					5.566261153636333
+					1.1111111111110858,
+					-1.1111111111113132
 				],
 				[
-					5.56626115363656,
-					15.771073268637338
+					4.444444444444571,
+					-2.2222222222226264
 				],
 				[
-					12.060232499545918,
-					29.686726152728625
+					7.777777777777828,
+					-3.3333333333321207
 				],
 				[
-					18.554203845455277,
-					45.45779942136505
+					12.222222222222172,
+					-3.3333333333321207
 				],
 				[
-					25.04817519136452,
-					64.0120032668201
+					15.555555555555657,
+					-3.3333333333321207
 				],
 				[
-					30.61443634500108,
-					82.56620711227606
+					17.77777777777783,
+					-3.3333333333321207
 				],
 				[
-					36.18069749863764,
-					96.48185999636735
+					18.888888888888914,
+					-3.3333333333321207
 				],
 				[
-					39.89153826772872,
-					103.90354153454882
-				],
-				[
-					39.89153826772872,
-					104.8312517268223
-				],
-				[
-					39.89153826772872,
-					103.90354153454882
-				],
-				[
-					39.89153826772872,
-					102.97583134227625
-				],
-				[
-					39.89153826772872,
-					97.40957018863992
-				],
-				[
-					39.89153826772872,
-					89.06017845818496
-				],
-				[
-					40.81924846000152,
-					78.85536634318487
-				],
-				[
-					47.313219805910876,
-					49.168640190456244
-				],
-				[
-					48.24092999818356,
-					47.3132198059111
-				],
-				[
-					48.24092999818356,
-					42.67466884454734
-				],
-				[
-					51.02406057500184,
-					33.397566921819816
-				],
-				[
-					51.95177076727464,
-					28.759015960455145
-				],
-				[
-					51.95177076727464,
-					28.759015960455145
+					18.888888888888914,
+					-3.3333333333321207
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				51.95177076727464,
-				28.759015960455145
+				18.888888888888914,
+				-3.3333333333321207
 			]
 		},
 		{
-			"id": "h6wBcdSV5hjxWO1OtOqhJ",
+			"id": "NahhtZcKSemjZQ-ivXCzs",
 			"type": "freedraw",
-			"x": -786.9952196740737,
-			"y": 8119.486101775818,
-			"width": 40.81924846000152,
-			"height": 63.08429307454753,
+			"x": -45.67840837646327,
+			"y": 8735.553368169076,
+			"width": 26.666666666666742,
+			"height": 2.2222222222226264,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -37913,12 +48145,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 826589248,
-			"version": 37,
-			"versionNonce": 1207987136,
+			"seed": 908229568,
+			"version": 16,
+			"versionNonce": 312871872,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669591,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37927,146 +48159,58 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					0.9277101922727979,
+					1.1111111111110858,
 					0
 				],
 				[
-					2.783130576818394,
-					-1.8554203845451411
+					3.333333333333485,
+					0
 				],
 				[
-					7.421681538182156,
-					-6.4939713459089035
+					7.777777777777828,
+					0
 				],
 				[
-					12.060232499545918,
-					-12.987942691818716
+					13.333333333333485,
+					-1.1111111111113132
 				],
 				[
-					18.554203845455277,
-					-21.33733442227367
+					17.77777777777783,
+					-2.2222222222226264
 				],
 				[
-					24.120464999091837,
-					-28.759015960455145
+					21.111111111111086,
+					-2.2222222222226264
 				],
 				[
-					28.7590159604556,
-					-34.32527711409239
+					24.44444444444457,
+					-2.2222222222226264
 				],
 				[
-					31.542146537273993,
-					-38.03611788318267
+					26.666666666666742,
+					-2.2222222222226264
 				],
 				[
-					31.542146537273993,
-					-37.1084076909101
-				],
-				[
-					31.542146537273993,
-					-34.32527711409239
-				],
-				[
-					32.46985672954668,
-					-25.048175191364862
-				],
-				[
-					32.46985672954668,
-					-11.132522307272666
-				],
-				[
-					32.46985672954668,
-					1.8554203845460506
-				],
-				[
-					32.46985672954668,
-					11.132522307273575
-				],
-				[
-					32.46985672954668,
-					15.771073268637338
-				],
-				[
-					31.542146537273993,
-					16.698783460909908
-				],
-				[
-					28.7590159604556,
-					18.55420384545505
-				],
-				[
-					24.120464999091837,
-					20.4096242300011
-				],
-				[
-					18.554203845455277,
-					21.33733442227367
-				],
-				[
-					12.987942691818716,
-					22.26504461454624
-				],
-				[
-					9.277101922727638,
-					23.19275480681881
-				],
-				[
-					8.349391730454954,
-					23.19275480681881
-				],
-				[
-					9.277101922727638,
-					24.12046499909229
-				],
-				[
-					12.060232499545918,
-					24.12046499909229
-				],
-				[
-					16.69878346090968,
-					25.048175191364862
-				],
-				[
-					23.19275480681904,
-					25.048175191364862
-				],
-				[
-					29.686726152728397,
-					25.048175191364862
-				],
-				[
-					35.25298730636496,
-					24.12046499909229
-				],
-				[
-					39.89153826772872,
-					23.19275480681881
-				],
-				[
-					40.81924846000152,
-					22.26504461454624
-				],
-				[
-					40.81924846000152,
-					22.26504461454624
+					26.666666666666742,
+					-2.2222222222226264
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				40.81924846000152,
-				22.26504461454624
+				26.666666666666742,
+				-2.2222222222226264
 			]
 		},
 		{
-			"id": "TETxupKzVJqucTf4RJ6cI",
+			"id": "zTi-RPZf3SvnKNVSD2Eeh",
 			"type": "freedraw",
-			"x": -744.3205508295266,
-			"y": 8046.19699658627,
-			"width": 49.168640190456244,
-			"height": 115.0360638418224,
+			"x": -7.900630598685439,
+			"y": 8734.442257057965,
+			"width": 2.2222222222221717,
+			"height": 27.777777777777374,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -38075,12 +48219,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 930538432,
-			"version": 28,
-			"versionNonce": 123547712,
+			"seed": 1536546880,
+			"version": 13,
+			"versionNonce": 1978014656,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669591,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38089,114 +48233,50 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					9.277101922727525,
-					14.843363076363858
+					1.1111111111110858,
+					7.777777777777374
 				],
 				[
-					11.13252230727312,
-					17.62649365318248
+					1.1111111111110858,
+					14.444444444445253
 				],
 				[
-					17.62649365318248,
-					26.903595575910003
+					1.1111111111110858,
+					20
 				],
 				[
-					25.04817519136452,
-					36.18069749863753
+					1.1111111111110858,
+					21.111111111111313
 				],
 				[
-					32.469856729546564,
-					46.38550961363762
+					2.2222222222221717,
+					25.555555555556566
 				],
 				[
-					38.96382807545592,
-					54.73490134409258
+					2.2222222222221717,
+					27.777777777777374
 				],
 				[
-					43.602379036819684,
-					63.08429307454753
-				],
-				[
-					46.38550961363808,
-					69.57826442045643
-				],
-				[
-					48.24092999818345,
-					76.07223576636625
-				],
-				[
-					49.168640190456244,
-					82.56620711227515
-				],
-				[
-					49.168640190456244,
-					89.06017845818496
-				],
-				[
-					47.31321980591076,
-					95.55414980409387
-				],
-				[
-					44.53008922909248,
-					102.04812115000368
-				],
-				[
-					41.7469586522742,
-					106.68667211136744
-				],
-				[
-					38.036117883183124,
-					109.46980268818515
-				],
-				[
-					33.39756692181936,
-					111.3252230727312
-				],
-				[
-					28.7590159604556,
-					113.18064345727635
-				],
-				[
-					25.04817519136452,
-					114.10835364954892
-				],
-				[
-					23.19275480681904,
-					115.0360638418224
-				],
-				[
-					21.337334422273443,
-					114.10835364954892
-				],
-				[
-					20.409624230000645,
-					113.18064345727635
-				],
-				[
-					19.481914037727847,
-					113.18064345727635
-				],
-				[
-					19.481914037727847,
-					113.18064345727635
+					2.2222222222221717,
+					27.777777777777374
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				19.481914037727847,
-				113.18064345727635
+				2.2222222222221717,
+				27.777777777777374
 			]
 		},
 		{
-			"id": "bl81kyeHLUhq4oYRcg8ji",
+			"id": "nRVOXBuII28BeprP3J805",
 			"type": "freedraw",
-			"x": -757.3084935213453,
-			"y": 8101.859608122635,
-			"width": 30.614436345001195,
-			"height": 66.79513384363872,
+			"x": 0.9882582902034756,
+			"y": 8705.553368169076,
+			"width": 22.22222222222217,
+			"height": 5.555555555554747,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -38205,12 +48285,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1009431488,
-			"version": 25,
-			"versionNonce": 209515456,
+			"seed": 1625222080,
+			"version": 13,
+			"versionNonce": 1873509312,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669227,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38219,102 +48299,54 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					1.8554203845455959,
-					-6.4939713459089035
+					3.3333333333332575,
+					-1.1111111111113132
 				],
 				[
-					5.56626115363656,
-					-12.987942691818716
+					4.444444444444343,
+					-2.2222222222226264
 				],
 				[
-					9.277101922727638,
-					-20.40962423000019
+					10,
+					-3.3333333333339397
 				],
 				[
-					15.771073268636883,
-					-28.759015960455145
+					14.444444444444343,
+					-4.444444444445253
 				],
 				[
-					20.40962423000076,
-					-35.25298730636496
+					18.888888888888914,
+					-5.555555555554747
 				],
 				[
-					24.120464999091837,
-					-40.81924846000129
+					21.111111111111086,
+					-5.555555555554747
 				],
 				[
-					25.97588538363732,
-					-41.74695865227386
+					22.22222222222217,
+					-5.555555555554747
 				],
 				[
-					25.97588538363732,
-					-40.81924846000129
-				],
-				[
-					25.97588538363732,
-					-38.03611788318267
-				],
-				[
-					27.8313057681828,
-					-29.686726152727715
-				],
-				[
-					29.686726152728397,
-					-18.55420384545505
-				],
-				[
-					30.614436345001195,
-					-6.4939713459089035
-				],
-				[
-					30.614436345001195,
-					2.783130576818621
-				],
-				[
-					30.614436345001195,
-					11.132522307273575
-				],
-				[
-					30.614436345001195,
-					16.698783460909908
-				],
-				[
-					30.614436345001195,
-					20.4096242300011
-				],
-				[
-					29.686726152728397,
-					23.19275480681972
-				],
-				[
-					29.686726152728397,
-					24.12046499909229
-				],
-				[
-					29.686726152728397,
-					25.048175191364862
-				],
-				[
-					29.686726152728397,
-					25.048175191364862
+					22.22222222222217,
+					-5.555555555554747
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				29.686726152728397,
-				25.048175191364862
+				22.22222222222217,
+				-5.555555555554747
 			]
 		},
 		{
-			"id": "msrKTVkXGOMOCLF5StNKx",
+			"id": "XOql0yyyueYg4hK5mw-Ol",
 			"type": "freedraw",
-			"x": -206.24863931132518,
-			"y": 8099.076477545817,
-			"width": 75.14452557409368,
-			"height": 120.60232499545873,
+			"x": 10.988258290203476,
+			"y": 8692.220034835742,
+			"width": 3.3333333333332575,
+			"height": 34.44444444444525,
 			"angle": 0,
-			"strokeColor": "#a61e4d",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -38323,12 +48355,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 83216448,
-			"version": 42,
-			"versionNonce": 472059968,
+			"seed": 894669760,
+			"version": 14,
+			"versionNonce": 2071906368,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292498,
+			"updated": 1674855669006,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38337,174 +48369,62 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					-0.9277101922727979,
-					0
+					0,
+					1.1111111111113132
 				],
 				[
-					-2.783130576818394,
-					-4.638550961363762
+					0,
+					2.2222222222226264
 				],
 				[
-					-4.638550961363876,
-					-12.060232499546146
+					-1.1111111111110858,
+					4.444444444445253
 				],
 				[
-					-4.638550961363876,
-					-22.26504461454624
+					-1.1111111111110858,
+					11.111111111111313
 				],
 				[
-					-4.638550961363876,
-					-28.759015960456054
+					0,
+					27.777777777779193
 				],
 				[
-					-4.638550961363876,
-					-36.18069749863753
+					0,
+					28.888888888888687
 				],
 				[
-					-2.783130576818394,
-					-44.53008922909248
+					0,
+					30
 				],
 				[
-					3.7108407690909644,
-					-51.951770767274866
+					2.2222222222221717,
+					33.33333333333394
 				],
 				[
-					15.771073268636883,
-					-56.59032172863863
+					2.2222222222221717,
+					34.44444444444525
 				],
 				[
-					28.759015960455486,
-					-57.5180319209112
-				],
-				[
-					59.37345230545668,
-					-31.542146537273766
-				],
-				[
-					62.15658288227496,
-					-21.33733442227367
-				],
-				[
-					62.15658288227496,
-					-20.4096242300011
-				],
-				[
-					64.01200326682044,
-					-2.783130576818621
-				],
-				[
-					59.37345230545668,
-					32.469856729546336
-				],
-				[
-					50.09635038272904,
-					52.879480959547436
-				],
-				[
-					42.674668844547,
-					60.30116249772891
-				],
-				[
-					35.252987306364844,
-					63.08429307454753
-				],
-				[
-					27.8313057681828,
-					63.08429307454753
-				],
-				[
-					20.409624230000645,
-					61.22887269000239
-				],
-				[
-					14.843363076364085,
-					57.5180319209112
-				],
-				[
-					10.204812115000323,
-					51.951770767273956
-				],
-				[
-					6.4939713459092445,
-					41.74695865227386
-				],
-				[
-					4.638550961363762,
-					34.32527711409239
-				],
-				[
-					4.638550961363762,
-					30.614436345001195
-				],
-				[
-					8.34939173045484,
-					28.759015960455145
-				],
-				[
-					14.843363076364085,
-					27.831305768182574
-				],
-				[
-					21.337334422273443,
-					27.831305768182574
-				],
-				[
-					28.759015960455486,
-					28.759015960455145
-				],
-				[
-					34.32527711409216,
-					30.614436345001195
-				],
-				[
-					40.819248460001404,
-					34.32527711409239
-				],
-				[
-					47.31321980591076,
-					38.03611788318267
-				],
-				[
-					51.951770767274525,
-					38.96382807545524
-				],
-				[
-					58.44574211318388,
-					39.89153826772872
-				],
-				[
-					64.93971345909324,
-					39.89153826772872
-				],
-				[
-					68.65055422818432,
-					38.96382807545524
-				],
-				[
-					70.5059746127298,
-					38.03611788318267
-				],
-				[
-					70.5059746127298,
-					38.03611788318267
+					2.2222222222221717,
+					34.44444444444525
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				70.5059746127298,
-				38.03611788318267
+				2.2222222222221717,
+				34.44444444444525
 			]
 		},
 		{
-			"id": "z_HURdMDTCN9JxRmUqdWZ",
+			"id": "YybvXh321fQQndyHQe1G9",
 			"type": "freedraw",
-			"x": -113.47762008404914,
-			"y": 8031.353633509905,
-			"width": 18.554203845455163,
-			"height": 13.915652884091287,
+			"x": 52.09936940131456,
+			"y": 8671.10892372463,
+			"width": 3.3333333333332575,
+			"height": 46.66666666666788,
 			"angle": 0,
-			"strokeColor": "#a61e4d",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -38513,12 +48433,12 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 339159104,
-			"version": 27,
-			"versionNonce": 799402048,
+			"seed": 1677837248,
+			"version": 18,
+			"versionNonce": 407597120,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674855292138,
+			"updated": 1674855668793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38527,168 +48447,72 @@ b4fd313c6bc12ad4a04b7f73b7724b11856bffb3: [[rv_exos/physics/theme 5/assets/Circu
 					0
 				],
 				[
-					-4.638550961363762,
-					0
+					0,
+					3.3333333333339397
 				],
 				[
-					-10.204812115000323,
-					2.783130576818621
+					0,
+					6.666666666667879
 				],
 				[
-					-13.9156528840914,
-					5.566261153637242
+					0,
+					10
 				],
 				[
-					-16.69878346090968,
-					7.4216815381823835
+					1.1111111111110858,
+					12.222222222222626
 				],
 				[
-					-18.554203845455163,
-					9.277101922727525
+					1.1111111111110858,
+					15.555555555556566
 				],
 				[
-					-18.554203845455163,
-					10.204812115001005
+					1.1111111111110858,
+					17.777777777779193
 				],
 				[
-					-18.554203845455163,
-					11.132522307273575
+					2.2222222222221717,
+					20
 				],
 				[
-					-18.554203845455163,
-					12.060232499546146
+					2.2222222222221717,
+					21.111111111111313
 				],
 				[
-					-16.69878346090968,
-					12.060232499546146
+					2.2222222222221717,
+					24.444444444445253
 				],
 				[
-					-12.987942691818603,
-					12.987942691818716
+					2.2222222222221717,
+					30
 				],
 				[
-					-10.204812115000323,
-					11.132522307273575
+					3.3333333333332575,
+					36.66666666666788
 				],
 				[
-					-7.4216815381820425,
-					10.204812115001005
+					3.3333333333332575,
+					42.222222222222626
 				],
 				[
-					-5.56626115363656,
-					8.349391730454954
+					3.3333333333332575,
+					44.44444444444525
 				],
 				[
-					-4.638550961363762,
-					6.493971345909813
+					3.3333333333332575,
+					46.66666666666788
 				],
 				[
-					-4.638550961363762,
-					4.638550961363762
-				],
-				[
-					-4.638550961363762,
-					3.7108407690911918
-				],
-				[
-					-3.710840769091078,
-					1.8554203845460506
-				],
-				[
-					-3.710840769091078,
-					0.9277101922734801
-				],
-				[
-					-3.710840769091078,
-					0
-				],
-				[
-					-4.638550961363762,
-					0
-				],
-				[
-					-5.56626115363656,
-					0
-				],
-				[
-					-6.493971345909358,
-					-0.9277101922725706
-				],
-				[
-					-8.34939173045484,
-					-0.9277101922725706
-				],
-				[
-					-8.34939173045484,
-					-0.9277101922725706
+					3.3333333333332575,
+					46.66666666666788
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				-8.34939173045484,
-				-0.9277101922725706
+				3.3333333333332575,
+				46.66666666666788
 			]
-		},
-		{
-			"id": "f65nZSIsQ3gSSX5qsZ_g6",
-			"type": "line",
-			"x": -396.42922872724125,
-			"y": 7785.510432557624,
-			"width": 6375.155582255541,
-			"height": 2780,
-			"angle": 0,
-			"strokeColor": "#a61e4d",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1668339776,
-			"version": 267,
-			"versionNonce": 543010880,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674855318624,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					211.51792383818952,
-					129.87942691818625
-				],
-				[
-					6375.155582255541,
-					-509.0007151822001
-				],
-				[
-					3965.155582255541,
-					220.9992848177999
-				],
-				[
-					4345.155582255541,
-					-2559.0007151822
-				],
-				[
-					5565.155582255541,
-					-479.0007151822001
-				]
-			],
-			"lastCommittedPoint": [
-				4345.155582255541,
-				-2559.0007151822
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
 		}
 	],
 	"appState": {
