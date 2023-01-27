@@ -23,8 +23,8 @@ Question 5 ^hOtBQhHe
 b4f09c37b582039c49e0be874e44360875ac563a: [[Pasted Image 20230127200930_392.png]]
 ae2d9d48791a449c6302cd303aaccd1e6789b6db: [[Pasted Image 20230127201021_292.png]]
 db1554616da1a48b2615d5a36e494301dfdd5649: [[assets/Circuits & Kirchoff's Laws/Pasted Image 20230127194829_334.png]]
-ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201858_222.png]]
-7c051d07de57b7455652e00486d9cc3c9b8e6867: [[rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png]]
+451494e5e7f3dda9d1ef9fb848b76e7ac45996e2: [[assets/Pasted Image 20230127202751_978.png]]
+8486af06e22c48eebb8326475f0eda04e5848ba0: [[assets/Pasted Image 20230127202759_875.png]]
 
 %%
 # Drawing
@@ -36,8 +36,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 	"elements": [
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 116931520,
+			"version": 130,
+			"versionNonce": 984844352,
 			"isDeleted": false,
 			"id": "C8M0m0jK",
 			"fillStyle": "hachure",
@@ -56,7 +56,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -71,8 +71,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 814374976,
+			"version": 121,
+			"versionNonce": 576199616,
 			"isDeleted": false,
 			"id": "JTQTFX--7_UU7UF3Dv3WI",
 			"fillStyle": "hachure",
@@ -91,7 +91,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -206,8 +206,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 1006289856,
+			"version": 140,
+			"versionNonce": 1670938688,
 			"isDeleted": false,
 			"id": "5w-FZc0-e8l8_KUf86QeU",
 			"fillStyle": "hachure",
@@ -226,7 +226,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -421,8 +421,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 685004864,
+			"version": 102,
+			"versionNonce": 543073216,
 			"isDeleted": false,
 			"id": "jB-K9RWZKPe-RygKeLuQ5",
 			"fillStyle": "hachure",
@@ -441,7 +441,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -484,8 +484,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1064061888,
+			"version": 103,
+			"versionNonce": 354318400,
 			"isDeleted": false,
 			"id": "XJsS5xG0-k94X-KH70va8",
 			"fillStyle": "hachure",
@@ -504,7 +504,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -551,8 +551,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1964986432,
+			"version": 103,
+			"versionNonce": 743713728,
 			"isDeleted": false,
 			"id": "1IMxLTo3LJ9FVuGwbcv98",
 			"fillStyle": "hachure",
@@ -571,7 +571,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -618,8 +618,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1802294208,
+			"version": 133,
+			"versionNonce": 321220672,
 			"isDeleted": false,
 			"id": "6yCgCGPWSnBr6PluwFDYc",
 			"fillStyle": "hachure",
@@ -638,7 +638,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -805,8 +805,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1833650240,
+			"version": 114,
+			"versionNonce": 811119552,
 			"isDeleted": false,
 			"id": "N7bEYaeajuFOr7Lc7qfPv",
 			"fillStyle": "hachure",
@@ -825,7 +825,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -916,8 +916,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1444699072,
+			"version": 105,
+			"versionNonce": 630024256,
 			"isDeleted": false,
 			"id": "SQ0NqVCWBK6wu5j_8ukgE",
 			"fillStyle": "hachure",
@@ -936,7 +936,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -991,8 +991,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1832403008,
+			"version": 120,
+			"versionNonce": 1384922048,
 			"isDeleted": false,
 			"id": "Q8lbJLeHUT43Vil-KH05F",
 			"fillStyle": "hachure",
@@ -1011,7 +1011,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1126,8 +1126,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1369105344,
+			"version": 102,
+			"versionNonce": 406216768,
 			"isDeleted": false,
 			"id": "jS55V3h3CuEdroAm1gvjg",
 			"fillStyle": "hachure",
@@ -1146,7 +1146,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1189,8 +1189,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1422276672,
+			"version": 103,
+			"versionNonce": 1963901888,
 			"isDeleted": false,
 			"id": "4itV8VcDmMLwmWfsCh7XO",
 			"fillStyle": "hachure",
@@ -1209,7 +1209,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1256,8 +1256,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1812491200,
+			"version": 120,
+			"versionNonce": 989878336,
 			"isDeleted": false,
 			"id": "vy9w_T4DcClGutJWuvrBz",
 			"fillStyle": "hachure",
@@ -1276,7 +1276,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1391,8 +1391,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 131412032,
+			"version": 136,
+			"versionNonce": 905989056,
 			"isDeleted": false,
 			"id": "rJAEpeSK22xRayLAQyd2O",
 			"fillStyle": "hachure",
@@ -1411,7 +1411,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1590,8 +1590,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1870984128,
+			"version": 115,
+			"versionNonce": 1640714304,
 			"isDeleted": false,
 			"id": "HR1bIJZDxBgqWF9jrO-sQ",
 			"fillStyle": "hachure",
@@ -1610,7 +1610,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1705,8 +1705,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1850026048,
+			"version": 134,
+			"versionNonce": 1870713792,
 			"isDeleted": false,
 			"id": "DduBL8a9jIdwcONIcHGvp",
 			"fillStyle": "hachure",
@@ -1725,7 +1725,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1896,8 +1896,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1647344576,
+			"version": 116,
+			"versionNonce": 1685538880,
 			"isDeleted": false,
 			"id": "2c3oCpdZVpTxbvaiukJqq",
 			"fillStyle": "hachure",
@@ -1916,7 +1916,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150077,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2023,8 +2023,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1945509952,
+			"version": 119,
+			"versionNonce": 934304704,
 			"isDeleted": false,
 			"id": "5TJZRgexf9SoKvSW92UX8",
 			"fillStyle": "hachure",
@@ -2043,7 +2043,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2162,8 +2162,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 103482304,
+			"version": 136,
+			"versionNonce": 518275136,
 			"isDeleted": false,
 			"id": "tWvXThLCpiV06riKqkgbz",
 			"fillStyle": "hachure",
@@ -2182,7 +2182,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2381,8 +2381,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 147331136,
+			"version": 114,
+			"versionNonce": 1622074304,
 			"isDeleted": false,
 			"id": "mL4G7ntCgnyjaqqDsZjBb",
 			"fillStyle": "hachure",
@@ -2401,7 +2401,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2512,8 +2512,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1502907328,
+			"version": 113,
+			"versionNonce": 1894922304,
 			"isDeleted": false,
 			"id": "JQkplefJgTjx_lyo89oPd",
 			"fillStyle": "hachure",
@@ -2532,7 +2532,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2639,8 +2639,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 547033152,
+			"version": 98,
+			"versionNonce": 2023517120,
 			"isDeleted": false,
 			"id": "B_Xqe24YKKKj6cyENU2rN",
 			"fillStyle": "hachure",
@@ -2659,7 +2659,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2706,8 +2706,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 378344384,
+			"version": 99,
+			"versionNonce": 1048653888,
 			"isDeleted": false,
 			"id": "6EawoWmX9Anvn_QPhM7Rs",
 			"fillStyle": "hachure",
@@ -2726,7 +2726,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2777,8 +2777,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 860817472,
+			"version": 109,
+			"versionNonce": 1234760640,
 			"isDeleted": false,
 			"id": "DNC0kwK5KAdr2YrEErJVS",
 			"fillStyle": "hachure",
@@ -2797,7 +2797,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2888,8 +2888,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 859085760,
+			"version": 109,
+			"versionNonce": 1869686848,
 			"isDeleted": false,
 			"id": "qT_u_oPcsIeY-Xkhm_ntD",
 			"fillStyle": "hachure",
@@ -2908,7 +2908,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2999,8 +2999,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1019478080,
+			"version": 108,
+			"versionNonce": 1506048960,
 			"isDeleted": false,
 			"id": "jARvNYrFDMA2NkVwN82s5",
 			"fillStyle": "hachure",
@@ -3019,7 +3019,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3114,8 +3114,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1638605760,
+			"version": 89,
+			"versionNonce": 1872896064,
 			"isDeleted": false,
 			"id": "zr77R-5IQXIZWS_lYefaG",
 			"fillStyle": "hachure",
@@ -3134,7 +3134,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3153,8 +3153,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1020917824,
+			"version": 118,
+			"versionNonce": 1799291840,
 			"isDeleted": false,
 			"id": "oxzC6jJ84QVsOJjefoxJQ",
 			"fillStyle": "hachure",
@@ -3173,7 +3173,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3308,8 +3308,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 269528000,
+			"version": 104,
+			"versionNonce": 787748928,
 			"isDeleted": false,
 			"id": "-vSU8Q3HtWAxUzoRh7Lex",
 			"fillStyle": "hachure",
@@ -3328,7 +3328,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3407,8 +3407,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 930148416,
+			"version": 115,
+			"versionNonce": 2083032000,
 			"isDeleted": false,
 			"id": "-CK9J-zgI0S2H4Q5gd6Dr",
 			"fillStyle": "hachure",
@@ -3427,7 +3427,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3550,8 +3550,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1753560000,
+			"version": 103,
+			"versionNonce": 558305344,
 			"isDeleted": false,
 			"id": "5CNBnrth5fF1ZSJ10QZxj",
 			"fillStyle": "hachure",
@@ -3570,7 +3570,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3645,8 +3645,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 879290432,
+			"version": 100,
+			"versionNonce": 1184961472,
 			"isDeleted": false,
 			"id": "J1nq7OL6etBFTRFjgHhXR",
 			"fillStyle": "hachure",
@@ -3665,7 +3665,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3728,8 +3728,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1361624000,
+			"version": 124,
+			"versionNonce": 1048250432,
 			"isDeleted": false,
 			"id": "px2TjRf1KdxpED45v5mtN",
 			"fillStyle": "hachure",
@@ -3748,7 +3748,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517501,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3907,8 +3907,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1067573312,
+			"version": 99,
+			"versionNonce": 1086888896,
 			"isDeleted": false,
 			"id": "wk_6pvFFWyURrTHze0xNQ",
 			"fillStyle": "hachure",
@@ -3927,7 +3927,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3986,8 +3986,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1813726144,
+			"version": 100,
+			"versionNonce": 40894528,
 			"isDeleted": false,
 			"id": "E5r7AsIpGYS3lyS62pGAl",
 			"fillStyle": "hachure",
@@ -4006,7 +4006,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4069,8 +4069,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1761335360,
+			"version": 98,
+			"versionNonce": 482288576,
 			"isDeleted": false,
 			"id": "DaeKfS_1lmAWfUdhCiZhF",
 			"fillStyle": "hachure",
@@ -4089,7 +4089,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4144,8 +4144,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 394054592,
+			"version": 100,
+			"versionNonce": 1829107776,
 			"isDeleted": false,
 			"id": "lTdtnbiGs8Uvzt0u1NpfQ",
 			"fillStyle": "hachure",
@@ -4164,7 +4164,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4227,8 +4227,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 1146540096,
+			"version": 137,
+			"versionNonce": 1218751424,
 			"isDeleted": false,
 			"id": "da08S9CmqytywJNnf7fRo",
 			"fillStyle": "hachure",
@@ -4247,7 +4247,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4458,8 +4458,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 1835881408,
+			"version": 164,
+			"versionNonce": 35450944,
 			"isDeleted": false,
 			"id": "kpP_merPH_wV7pQq8hl8d",
 			"fillStyle": "hachure",
@@ -4478,7 +4478,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4533,8 +4533,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 166,
-			"versionNonce": 1771227200,
+			"version": 168,
+			"versionNonce": 1855534016,
 			"isDeleted": false,
 			"id": "GEGC0lA2ItnqyZSo7D7Cv",
 			"fillStyle": "hachure",
@@ -4553,7 +4553,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4624,8 +4624,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 1141693376,
+			"version": 189,
+			"versionNonce": 1234495552,
 			"isDeleted": false,
 			"id": "rYnCeVxXSrnpRn4MDM3_l",
 			"fillStyle": "hachure",
@@ -4644,7 +4644,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4807,8 +4807,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1955577920,
+			"version": 127,
+			"versionNonce": 1958525888,
 			"isDeleted": false,
 			"id": "5SOoJ_iCuX1O4NYWi39K4",
 			"fillStyle": "hachure",
@@ -4827,7 +4827,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4898,8 +4898,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 763061184,
+			"version": 140,
+			"versionNonce": 1330503744,
 			"isDeleted": false,
 			"id": "ItkGu4GUX5FOOENo5HNtV",
 			"fillStyle": "hachure",
@@ -4918,7 +4918,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5041,8 +5041,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 86882368,
+			"version": 123,
+			"versionNonce": 2100249536,
 			"isDeleted": false,
 			"id": "zRvxcVtWAlewaHdEZvTyW",
 			"fillStyle": "hachure",
@@ -5061,7 +5061,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5116,8 +5116,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 2010704832,
+			"version": 121,
+			"versionNonce": 589813824,
 			"isDeleted": false,
 			"id": "4j9neRc5lY00wvtZ-MUv1",
 			"fillStyle": "hachure",
@@ -5136,7 +5136,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5183,8 +5183,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1061990464,
+			"version": 125,
+			"versionNonce": 1712376768,
 			"isDeleted": false,
 			"id": "mA7ma__vl3t8nUP_qVPH7",
 			"fillStyle": "hachure",
@@ -5203,7 +5203,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5266,8 +5266,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 759526336,
+			"version": 150,
+			"versionNonce": 1493356608,
 			"isDeleted": false,
 			"id": "13a77oSTY0g8dYQ11wFfg",
 			"fillStyle": "hachure",
@@ -5286,7 +5286,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5449,8 +5449,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1254926400,
+			"version": 95,
+			"versionNonce": 1233212352,
 			"isDeleted": false,
 			"id": "8rGYU6sg4luacjjkO4RPf",
 			"fillStyle": "hachure",
@@ -5469,7 +5469,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5556,8 +5556,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 333511616,
+			"version": 107,
+			"versionNonce": 146720832,
 			"isDeleted": false,
 			"id": "eWjs4CKMUSJM_tx9uFn7h",
 			"fillStyle": "hachure",
@@ -5576,7 +5576,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5711,8 +5711,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1401790528,
+			"version": 86,
+			"versionNonce": 2107694016,
 			"isDeleted": false,
 			"id": "WxmN4m322uv68Osmhnf6_",
 			"fillStyle": "hachure",
@@ -5731,7 +5731,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5782,8 +5782,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 768312256,
+			"version": 87,
+			"versionNonce": 1312538688,
 			"isDeleted": false,
 			"id": "E1RX7y-kfBhBnAW-qy929",
 			"fillStyle": "hachure",
@@ -5802,7 +5802,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5857,8 +5857,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 158308416,
+			"version": 93,
+			"versionNonce": 344941504,
 			"isDeleted": false,
 			"id": "fEy76Fj2abHFKs1O2CggU",
 			"fillStyle": "hachure",
@@ -5877,7 +5877,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5964,8 +5964,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 958729152,
+			"version": 87,
+			"versionNonce": 1230616640,
 			"isDeleted": false,
 			"id": "AxUKB5-jk6mlECG55D-q4",
 			"fillStyle": "hachure",
@@ -5984,7 +5984,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6047,8 +6047,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 542281792,
+			"version": 89,
+			"versionNonce": 1550642112,
 			"isDeleted": false,
 			"id": "tgDwnOonGBE2zV1yr2ogO",
 			"fillStyle": "hachure",
@@ -6067,7 +6067,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6214,8 +6214,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 806196160,
+			"version": 64,
+			"versionNonce": 502837312,
 			"isDeleted": false,
 			"id": "8KNHcQyJ33WtT5HnIId9s",
 			"fillStyle": "hachure",
@@ -6234,7 +6234,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6281,8 +6281,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1343653952,
+			"version": 66,
+			"versionNonce": 1599697856,
 			"isDeleted": false,
 			"id": "5iNSpB7BWNDxWu6HUz63C",
 			"fillStyle": "hachure",
@@ -6301,7 +6301,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6356,8 +6356,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1218780096,
+			"version": 89,
+			"versionNonce": 1945675840,
 			"isDeleted": false,
 			"id": "Hyxmk9dHEedlVCwGkB6tU",
 			"fillStyle": "hachure",
@@ -6376,7 +6376,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6523,8 +6523,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1419477056,
+			"version": 66,
+			"versionNonce": 1668611008,
 			"isDeleted": false,
 			"id": "StP-gd1DMd-WNcqsQaRo3",
 			"fillStyle": "hachure",
@@ -6543,7 +6543,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6598,8 +6598,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1963697088,
+			"version": 66,
+			"versionNonce": 2000265280,
 			"isDeleted": false,
 			"id": "6Qe-Ua3CIb9PfqBUnppS2",
 			"fillStyle": "hachure",
@@ -6618,7 +6618,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6673,8 +6673,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1841395776,
+			"version": 70,
+			"versionNonce": 1793033152,
 			"isDeleted": false,
 			"id": "pQYiE9wcCGmmW_N5Jm6De",
 			"fillStyle": "hachure",
@@ -6693,7 +6693,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6764,8 +6764,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1667312576,
+			"version": 88,
+			"versionNonce": 1469814848,
 			"isDeleted": false,
 			"id": "HDVYmHb19pTLfATkS4Qiv",
 			"fillStyle": "hachure",
@@ -6784,7 +6784,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6927,8 +6927,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1600680000,
+			"version": 86,
+			"versionNonce": 867765184,
 			"isDeleted": false,
 			"id": "ip5OsIrrogQJBg5pJ61Kd",
 			"fillStyle": "hachure",
@@ -6947,7 +6947,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7082,8 +7082,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 2110108608,
+			"version": 65,
+			"versionNonce": 1224642624,
 			"isDeleted": false,
 			"id": "73LTI42wVv_jVnBjSmKRU",
 			"fillStyle": "hachure",
@@ -7102,7 +7102,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7153,8 +7153,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1903192128,
+			"version": 69,
+			"versionNonce": 941724608,
 			"isDeleted": false,
 			"id": "45SK1fpVf02qZg8p5BVS_",
 			"fillStyle": "hachure",
@@ -7173,7 +7173,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7240,8 +7240,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1784232896,
+			"version": 84,
+			"versionNonce": 54691904,
 			"isDeleted": false,
 			"id": "WfH6oPSwuSNWyxcM5rM-q",
 			"fillStyle": "hachure",
@@ -7260,7 +7260,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7387,8 +7387,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1874419776,
+			"version": 70,
+			"versionNonce": 775494592,
 			"isDeleted": false,
 			"id": "oI2RybYo70N8kvhTZq0vT",
 			"fillStyle": "hachure",
@@ -7407,7 +7407,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7478,8 +7478,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 188466112,
+			"version": 88,
+			"versionNonce": 1111982144,
 			"isDeleted": false,
 			"id": "GrtsMJSKd9KN1FV7XxPbk",
 			"fillStyle": "hachure",
@@ -7498,7 +7498,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7645,8 +7645,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 706959424,
+			"version": 65,
+			"versionNonce": 136291264,
 			"isDeleted": false,
 			"id": "1-8CyYKzbylDBN1xeAMCg",
 			"fillStyle": "hachure",
@@ -7665,7 +7665,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7720,8 +7720,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 2123189184,
+			"version": 64,
+			"versionNonce": 1173190720,
 			"isDeleted": false,
 			"id": "WlP7FfS_XFokUIbsjro4V",
 			"fillStyle": "hachure",
@@ -7740,7 +7740,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7791,8 +7791,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1955483712,
+			"version": 89,
+			"versionNonce": 1945447360,
 			"isDeleted": false,
 			"id": "8lmEdBzO0rxvwXb5BOV8D",
 			"fillStyle": "hachure",
@@ -7811,7 +7811,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7962,8 +7962,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 510514112,
+			"version": 68,
+			"versionNonce": 1377071168,
 			"isDeleted": false,
 			"id": "NN0e6QqS2XlIvQHXzeWNN",
 			"fillStyle": "hachure",
@@ -7982,7 +7982,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8049,8 +8049,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 651839552,
+			"version": 80,
+			"versionNonce": 1540993984,
 			"isDeleted": false,
 			"id": "CEIUwHMjkcvYt0LKV33lc",
 			"fillStyle": "hachure",
@@ -8069,7 +8069,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8184,8 +8184,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 16604096,
+			"version": 72,
+			"versionNonce": 782002240,
 			"isDeleted": false,
 			"id": "Sy3_yT-awJOk31rDpLu0B",
 			"fillStyle": "hachure",
@@ -8204,7 +8204,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8287,8 +8287,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 484917312,
+			"version": 66,
+			"versionNonce": 1710046144,
 			"isDeleted": false,
 			"id": "3h4_kYIqwGaAsBQjh7suK",
 			"fillStyle": "hachure",
@@ -8307,7 +8307,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8366,8 +8366,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 2019288000,
+			"version": 70,
+			"versionNonce": 660955200,
 			"isDeleted": false,
 			"id": "O55zOxeYP5Ke7j5QuWM3K",
 			"fillStyle": "hachure",
@@ -8386,7 +8386,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8461,8 +8461,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 915748928,
+			"version": 68,
+			"versionNonce": 1951384512,
 			"isDeleted": false,
 			"id": "ejXPQumvUCkHTfaxnB4jl",
 			"fillStyle": "hachure",
@@ -8481,7 +8481,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150078,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8548,8 +8548,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 313093056,
+			"version": 65,
+			"versionNonce": 206526528,
 			"isDeleted": false,
 			"id": "LbVf42kC7AsYbIkKTwfOR",
 			"fillStyle": "hachure",
@@ -8568,7 +8568,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8623,8 +8623,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1472475200,
+			"version": 67,
+			"versionNonce": 622939072,
 			"isDeleted": false,
 			"id": "AizAvvJsi3fDow7UEvhf5",
 			"fillStyle": "hachure",
@@ -8643,7 +8643,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8706,8 +8706,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 436597696,
+			"version": 84,
+			"versionNonce": 825905216,
 			"isDeleted": false,
 			"id": "tuip1rJGR911LxGNsJwjR",
 			"fillStyle": "hachure",
@@ -8726,7 +8726,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8885,8 +8885,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1750345792,
+			"version": 74,
+			"versionNonce": 1384240064,
 			"isDeleted": false,
 			"id": "zmYvYukbOV6hVo2BTGbXK",
 			"fillStyle": "hachure",
@@ -8905,7 +8905,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9024,8 +9024,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 345078720,
+			"version": 59,
+			"versionNonce": 1845905472,
 			"isDeleted": false,
 			"id": "r_gZC_x027MWNaORli3En",
 			"fillStyle": "hachure",
@@ -9044,7 +9044,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9103,8 +9103,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1411719232,
+			"version": 71,
+			"versionNonce": 311516096,
 			"isDeleted": false,
 			"id": "g24S1q8vucFZXHVoicznz",
 			"fillStyle": "hachure",
@@ -9123,7 +9123,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9234,8 +9234,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1147929536,
+			"version": 58,
+			"versionNonce": 512966720,
 			"isDeleted": false,
 			"id": "5yOf9k6XRhCfrE6C7Xj7_",
 			"fillStyle": "hachure",
@@ -9254,7 +9254,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9313,8 +9313,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 186062912,
+			"version": 60,
+			"versionNonce": 930079680,
 			"isDeleted": false,
 			"id": "2UdsJqF0ca40-bgwJjELK",
 			"fillStyle": "hachure",
@@ -9333,7 +9333,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9400,8 +9400,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 666209216,
+			"version": 72,
+			"versionNonce": 583088192,
 			"isDeleted": false,
 			"id": "iuS2_DEJtBH0yYhQRSed5",
 			"fillStyle": "hachure",
@@ -9420,7 +9420,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9535,8 +9535,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 17436736,
+			"version": 59,
+			"versionNonce": 1329425344,
 			"isDeleted": false,
 			"id": "XeFz3DnrO98fZpbdX9u-W",
 			"fillStyle": "hachure",
@@ -9555,7 +9555,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9618,8 +9618,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2022577088,
+			"version": 69,
+			"versionNonce": 1584410688,
 			"isDeleted": false,
 			"id": "KoWKm3zrgV7Rc1eFrd7gS",
 			"fillStyle": "hachure",
@@ -9638,7 +9638,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9741,8 +9741,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 769525824,
+			"version": 56,
+			"versionNonce": 605680576,
 			"isDeleted": false,
 			"id": "i5TzYtTsEfEUVmFogVbLl",
 			"fillStyle": "hachure",
@@ -9761,7 +9761,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9812,8 +9812,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 756390848,
+			"version": 56,
+			"versionNonce": 964700224,
 			"isDeleted": false,
 			"id": "5KPRbw9SCo_Hfvmc4t-LB",
 			"fillStyle": "hachure",
@@ -9832,7 +9832,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9883,8 +9883,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 225640512,
+			"version": 64,
+			"versionNonce": 1009089472,
 			"isDeleted": false,
 			"id": "F2pjk6jqPJ5NQaiZJMDzB",
 			"fillStyle": "hachure",
@@ -9903,7 +9903,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9986,8 +9986,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 2003575744,
+			"version": 57,
+			"versionNonce": 533798976,
 			"isDeleted": false,
 			"id": "NSCm4lCax-bG8UuTOpe2e",
 			"fillStyle": "hachure",
@@ -10006,7 +10006,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10061,8 +10061,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 531167296,
+			"version": 75,
+			"versionNonce": 1501561792,
 			"isDeleted": false,
 			"id": "uGP_KcSzOtxZ-qaWPU_bP",
 			"fillStyle": "hachure",
@@ -10081,7 +10081,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10208,8 +10208,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1169271744,
+			"version": 64,
+			"versionNonce": 21174336,
 			"isDeleted": false,
 			"id": "4za0fexvREseP5wQgxXko",
 			"fillStyle": "hachure",
@@ -10228,7 +10228,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10311,8 +10311,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1751117888,
+			"version": 74,
+			"versionNonce": 2051640256,
 			"isDeleted": false,
 			"id": "CnEVBap7yhCsI08vtHbrg",
 			"fillStyle": "hachure",
@@ -10331,7 +10331,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10454,8 +10454,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1107702720,
+			"version": 76,
+			"versionNonce": 1370886208,
 			"isDeleted": false,
 			"id": "Oa5vOhkg0BGuKh3LAPpmQ",
 			"fillStyle": "hachure",
@@ -10474,7 +10474,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10605,8 +10605,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1870129216,
+			"version": 59,
+			"versionNonce": 1487016896,
 			"isDeleted": false,
 			"id": "6f6wdHRrn3u1zwEWunvQk",
 			"fillStyle": "hachure",
@@ -10625,7 +10625,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10688,8 +10688,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1384758208,
+			"version": 57,
+			"versionNonce": 151652416,
 			"isDeleted": false,
 			"id": "ezzQpoN4XSkYd-v1Bs24x",
 			"fillStyle": "hachure",
@@ -10708,7 +10708,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10763,8 +10763,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1087430720,
+			"version": 59,
+			"versionNonce": 1789500352,
 			"isDeleted": false,
 			"id": "wq5X0oRp3bZGINnFUROAK",
 			"fillStyle": "hachure",
@@ -10783,7 +10783,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517502,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10846,8 +10846,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 425477056,
+			"version": 57,
+			"versionNonce": 589234240,
 			"isDeleted": false,
 			"id": "LvnxzHNQH8WuDutDWRwXl",
 			"fillStyle": "hachure",
@@ -10866,7 +10866,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10921,8 +10921,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1816844352,
+			"version": 56,
+			"versionNonce": 1652564928,
 			"isDeleted": false,
 			"id": "Mm03u-x7XSiecP4KqfAdp",
 			"fillStyle": "hachure",
@@ -10941,7 +10941,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10992,8 +10992,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1956498368,
+			"version": 56,
+			"versionNonce": 534050880,
 			"isDeleted": false,
 			"id": "w9WSrNK6TgEvpgtKeWg8H",
 			"fillStyle": "hachure",
@@ -11012,7 +11012,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11063,8 +11063,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 96849984,
+			"version": 58,
+			"versionNonce": 776317888,
 			"isDeleted": false,
 			"id": "Mf3hprq3kE513Ig4WM6z4",
 			"fillStyle": "hachure",
@@ -11083,7 +11083,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11142,8 +11142,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 2121159616,
+			"version": 57,
+			"versionNonce": 51114048,
 			"isDeleted": false,
 			"id": "VkIpwkTpw3L-4l1ssHRth",
 			"fillStyle": "hachure",
@@ -11162,7 +11162,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11217,8 +11217,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 622970944,
+			"version": 55,
+			"versionNonce": 2014983104,
 			"isDeleted": false,
 			"id": "jQLfPayaUPqxBEI8dmUHZ",
 			"fillStyle": "hachure",
@@ -11237,7 +11237,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11284,8 +11284,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 216914880,
+			"version": 63,
+			"versionNonce": 1420027968,
 			"isDeleted": false,
 			"id": "yktixdl2mliaEd-vNEqVI",
 			"fillStyle": "hachure",
@@ -11304,7 +11304,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11383,8 +11383,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1715388480,
+			"version": 57,
+			"versionNonce": 639482816,
 			"isDeleted": false,
 			"id": "YCU_Qes3Sbyz-McDXL_oT",
 			"fillStyle": "hachure",
@@ -11403,7 +11403,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11458,8 +11458,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 842818496,
+			"version": 58,
+			"versionNonce": 545054784,
 			"isDeleted": false,
 			"id": "U3dyNsh321TOnlba1ybB1",
 			"fillStyle": "hachure",
@@ -11478,7 +11478,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11537,8 +11537,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1761392704,
+			"version": 56,
+			"versionNonce": 1517306816,
 			"isDeleted": false,
 			"id": "kUoCfSrA8vqf84Fk7uDGZ",
 			"fillStyle": "hachure",
@@ -11557,7 +11557,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11608,8 +11608,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1014623168,
+			"version": 70,
+			"versionNonce": 1987500096,
 			"isDeleted": false,
 			"id": "BrAFJFCH8t501fGbp1yYH",
 			"fillStyle": "hachure",
@@ -11628,7 +11628,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11735,8 +11735,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1362866240,
+			"version": 65,
+			"versionNonce": 1932643264,
 			"isDeleted": false,
 			"id": "lo7OCA3gMHpvROphcgipk",
 			"fillStyle": "hachure",
@@ -11755,7 +11755,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11842,8 +11842,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 902198208,
+			"version": 63,
+			"versionNonce": 1785843776,
 			"isDeleted": false,
 			"id": "xOBk8j2l6nazgb0pcx1jk",
 			"fillStyle": "hachure",
@@ -11862,7 +11862,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11941,8 +11941,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1188800576,
+			"version": 57,
+			"versionNonce": 176313280,
 			"isDeleted": false,
 			"id": "MjV0OID86UD-ffSRt5ElS",
 			"fillStyle": "hachure",
@@ -11961,7 +11961,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12016,8 +12016,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1682045888,
+			"version": 54,
+			"versionNonce": 340641856,
 			"isDeleted": false,
 			"id": "o3xCve2TidoJjhK_tQQ3h",
 			"fillStyle": "hachure",
@@ -12036,7 +12036,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12079,8 +12079,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1975296064,
+			"version": 55,
+			"versionNonce": 1988221888,
 			"isDeleted": false,
 			"id": "lElco3eY_hjw-WZy9Jwvw",
 			"fillStyle": "hachure",
@@ -12099,7 +12099,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12146,8 +12146,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1242334144,
+			"version": 74,
+			"versionNonce": 267042880,
 			"isDeleted": false,
 			"id": "mwgsIy6OiQM9i8kox2wAk",
 			"fillStyle": "hachure",
@@ -12166,7 +12166,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12289,8 +12289,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 230594624,
+			"version": 82,
+			"versionNonce": 1230005184,
 			"isDeleted": false,
 			"id": "yhH8Q5IMGxMlUhLJhPCcp",
 			"fillStyle": "hachure",
@@ -12309,7 +12309,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12464,8 +12464,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 625347520,
+			"version": 55,
+			"versionNonce": 2099820608,
 			"isDeleted": false,
 			"id": "SxvTtzafJblDuXtyrRTxA",
 			"fillStyle": "hachure",
@@ -12484,7 +12484,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12531,8 +12531,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1119981632,
+			"version": 56,
+			"versionNonce": 1359866816,
 			"isDeleted": false,
 			"id": "0eQldX3diijeTZp1tR1I_",
 			"fillStyle": "hachure",
@@ -12551,7 +12551,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12602,8 +12602,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1880003520,
+			"version": 56,
+			"versionNonce": 2145890368,
 			"isDeleted": false,
 			"id": "Q_kzJhEJuIm1lHAsH5VQC",
 			"fillStyle": "hachure",
@@ -12622,7 +12622,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12673,8 +12673,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1285916736,
+			"version": 74,
+			"versionNonce": 400192448,
 			"isDeleted": false,
 			"id": "-QZLoaMhWjw2HEDoJS_PD",
 			"fillStyle": "hachure",
@@ -12693,7 +12693,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12816,8 +12816,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1619401664,
+			"version": 56,
+			"versionNonce": 1074243648,
 			"isDeleted": false,
 			"id": "yDf1ECbAUGMhmRrCOcC1k",
 			"fillStyle": "hachure",
@@ -12836,7 +12836,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12887,8 +12887,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1732935744,
+			"version": 62,
+			"versionNonce": 1674968000,
 			"isDeleted": false,
 			"id": "DQCsSzFcsF7C0PCQ2QhUg",
 			"fillStyle": "hachure",
@@ -12907,7 +12907,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12982,8 +12982,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1758241728,
+			"version": 82,
+			"versionNonce": 1768464448,
 			"isDeleted": false,
 			"id": "WLAmrku0Ctm14xo-QZA5_",
 			"fillStyle": "hachure",
@@ -13002,7 +13002,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13157,8 +13157,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1385199680,
+			"version": 56,
+			"versionNonce": 924877760,
 			"isDeleted": false,
 			"id": "0bucuUJIWwf9g0Rl47u3O",
 			"fillStyle": "hachure",
@@ -13177,7 +13177,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13228,8 +13228,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 922889152,
+			"version": 55,
+			"versionNonce": 736794688,
 			"isDeleted": false,
 			"id": "9SgEunmHGTJ5rPBpyNNuU",
 			"fillStyle": "hachure",
@@ -13248,7 +13248,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13295,8 +13295,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1381462080,
+			"version": 87,
+			"versionNonce": 1339689920,
 			"isDeleted": false,
 			"id": "a1Lo7DJKXUJpn-82z0t9S",
 			"fillStyle": "hachure",
@@ -13315,7 +13315,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13490,8 +13490,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 893825984,
+			"version": 147,
+			"versionNonce": 997036096,
 			"isDeleted": false,
 			"id": "SHaZE2zJCXhGRCogqrnfZ",
 			"fillStyle": "hachure",
@@ -13510,7 +13510,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13937,8 +13937,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 780101696,
+			"version": 77,
+			"versionNonce": 673354688,
 			"isDeleted": false,
 			"id": "6W3k5DOe",
 			"fillStyle": "hachure",
@@ -13957,7 +13957,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -13972,8 +13972,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 163199936,
+			"version": 82,
+			"versionNonce": 1339131968,
 			"isDeleted": false,
 			"id": "zXS0_i3zt4QUEu_7L4yYz",
 			"fillStyle": "hachure",
@@ -13992,7 +13992,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14159,8 +14159,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 854089792,
+			"version": 73,
+			"versionNonce": 1981422528,
 			"isDeleted": false,
 			"id": "ML_xsN49gopP_wQUkd2TV",
 			"fillStyle": "hachure",
@@ -14179,7 +14179,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14310,8 +14310,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 377275328,
+			"version": 63,
+			"versionNonce": 620134464,
 			"isDeleted": false,
 			"id": "scvkl3Sh",
 			"fillStyle": "hachure",
@@ -14330,7 +14330,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -14345,8 +14345,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 796022848,
+			"version": 73,
+			"versionNonce": 736142272,
 			"isDeleted": false,
 			"id": "p_Dk3zg9ot9AfC8zMbWiH",
 			"fillStyle": "hachure",
@@ -14365,7 +14365,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14496,8 +14496,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 2041465792,
+			"version": 81,
+			"versionNonce": 2059171904,
 			"isDeleted": false,
 			"id": "J0ZEme7XaoHq1ONzsFO7W",
 			"fillStyle": "hachure",
@@ -14516,7 +14516,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14679,8 +14679,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 2013089856,
+			"version": 53,
+			"versionNonce": 2006330304,
 			"isDeleted": false,
 			"id": "ZSzXfEXffL_wXRr7jsTbO",
 			"fillStyle": "hachure",
@@ -14699,7 +14699,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14750,8 +14750,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 225366976,
+			"version": 55,
+			"versionNonce": 352546880,
 			"isDeleted": false,
 			"id": "Qz7w6rJJ9CW2l5rogjdWw",
 			"fillStyle": "hachure",
@@ -14770,7 +14770,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14829,8 +14829,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1684621376,
+			"version": 73,
+			"versionNonce": 1130017728,
 			"isDeleted": false,
 			"id": "-VFhf9SPBEKfWL__ky7G3",
 			"fillStyle": "hachure",
@@ -14849,7 +14849,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150079,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14984,8 +14984,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1742625728,
+			"version": 80,
+			"versionNonce": 1001089088,
 			"isDeleted": false,
 			"id": "faqK2TISCGww9G3HUVH1_",
 			"fillStyle": "hachure",
@@ -15004,7 +15004,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15167,8 +15167,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1352024128,
+			"version": 51,
+			"versionNonce": 894319552,
 			"isDeleted": false,
 			"id": "ZOtp9Kzvo82-6-jQvKPsT",
 			"fillStyle": "hachure",
@@ -15187,7 +15187,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15234,8 +15234,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1528619968,
+			"version": 55,
+			"versionNonce": 982802496,
 			"isDeleted": false,
 			"id": "ie0bGKb4U-15XoQCrbpn6",
 			"fillStyle": "hachure",
@@ -15254,7 +15254,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15317,8 +15317,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 476330048,
+			"version": 75,
+			"versionNonce": 798016448,
 			"isDeleted": false,
 			"id": "P3pBcD-z1awOh3KVIYesD",
 			"fillStyle": "hachure",
@@ -15337,7 +15337,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15480,8 +15480,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1967811520,
+			"version": 72,
+			"versionNonce": 1637767232,
 			"isDeleted": false,
 			"id": "VhvEBJHorb6qXeR2EvrdD",
 			"fillStyle": "hachure",
@@ -15500,7 +15500,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15631,8 +15631,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 733163584,
+			"version": 76,
+			"versionNonce": 1346522048,
 			"isDeleted": false,
 			"id": "PSBjDgJ0jrnMsWpKd1qfV",
 			"fillStyle": "hachure",
@@ -15651,7 +15651,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15814,8 +15814,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 8844224,
+			"version": 57,
+			"versionNonce": 78204992,
 			"isDeleted": false,
 			"id": "bVEUeqrm8mm8w3L0NTA_D",
 			"fillStyle": "hachure",
@@ -15834,7 +15834,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15921,8 +15921,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1717774400,
+			"version": 49,
+			"versionNonce": 1904399296,
 			"isDeleted": false,
 			"id": "ezh7xAZj3D_SkXOJhfN6i",
 			"fillStyle": "hachure",
@@ -15941,7 +15941,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15996,8 +15996,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 49445824,
+			"version": 50,
+			"versionNonce": 2073380928,
 			"isDeleted": false,
 			"id": "Km_-ANinx1SBjRgoGA5gE",
 			"fillStyle": "hachure",
@@ -16016,7 +16016,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16075,8 +16075,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 945037376,
+			"version": 48,
+			"versionNonce": 695360448,
 			"isDeleted": false,
 			"id": "LtWblvhYbTFYGk85irIMk",
 			"fillStyle": "hachure",
@@ -16095,7 +16095,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16146,8 +16146,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1051526080,
+			"version": 72,
+			"versionNonce": 574767168,
 			"isDeleted": false,
 			"id": "j8HyvpBbabLtD5wXxx7jJ",
 			"fillStyle": "hachure",
@@ -16166,7 +16166,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16313,8 +16313,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 291903552,
+			"version": 77,
+			"versionNonce": 1244718016,
 			"isDeleted": false,
 			"id": "iVPpUp4XUOsSwqp5swBjX",
 			"fillStyle": "hachure",
@@ -16333,7 +16333,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16500,8 +16500,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 836144064,
+			"version": 76,
+			"versionNonce": 1485846592,
 			"isDeleted": false,
 			"id": "h7ltwegR-JPEAw_bB8yra",
 			"fillStyle": "hachure",
@@ -16520,7 +16520,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16683,8 +16683,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1702432832,
+			"version": 51,
+			"versionNonce": 1641966528,
 			"isDeleted": false,
 			"id": "PMl2mjk2PqnU1udvRCRqY",
 			"fillStyle": "hachure",
@@ -16703,7 +16703,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16766,8 +16766,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 378475456,
+			"version": 54,
+			"versionNonce": 39792704,
 			"isDeleted": false,
 			"id": "kmvI-IUjgG8dMHS5qxvzM",
 			"fillStyle": "hachure",
@@ -16786,7 +16786,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16861,8 +16861,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 745343040,
+			"version": 50,
+			"versionNonce": 983233472,
 			"isDeleted": false,
 			"id": "u8uYr1EmLogA9bk29qzoL",
 			"fillStyle": "hachure",
@@ -16881,7 +16881,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16940,8 +16940,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1660328896,
+			"version": 70,
+			"versionNonce": 126822464,
 			"isDeleted": false,
 			"id": "QZto_5gPp0LF58vMPXHcV",
 			"fillStyle": "hachure",
@@ -16960,7 +16960,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17099,8 +17099,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1646395456,
+			"version": 62,
+			"versionNonce": 1518762944,
 			"isDeleted": false,
 			"id": "8q5xskwccn2AFSo9EP9dT",
 			"fillStyle": "hachure",
@@ -17119,7 +17119,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17226,8 +17226,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1227695040,
+			"version": 64,
+			"versionNonce": 1409294400,
 			"isDeleted": false,
 			"id": "rgp-ldPFlvy1oi7X_BcZA",
 			"fillStyle": "hachure",
@@ -17246,7 +17246,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17361,8 +17361,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 108525632,
+			"version": 69,
+			"versionNonce": 62981056,
 			"isDeleted": false,
 			"id": "IY_UJFshb0iLVaWsdc3lJ",
 			"fillStyle": "hachure",
@@ -17381,7 +17381,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17516,8 +17516,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 928164800,
+			"version": 54,
+			"versionNonce": 1469192256,
 			"isDeleted": false,
 			"id": "n4mhisYaEJJ99FDniKDv9",
 			"fillStyle": "hachure",
@@ -17536,7 +17536,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17611,8 +17611,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 491712576,
+			"version": 52,
+			"versionNonce": 879397824,
 			"isDeleted": false,
 			"id": "p-gOpIqsosXW8sQrOsu9n",
 			"fillStyle": "hachure",
@@ -17631,7 +17631,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17698,8 +17698,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1468478400,
+			"version": 49,
+			"versionNonce": 103092288,
 			"isDeleted": false,
 			"id": "F93ORkAZ_8uwTaKsh4bGc",
 			"fillStyle": "hachure",
@@ -17718,7 +17718,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17773,8 +17773,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 780593216,
+			"version": 65,
+			"versionNonce": 648221632,
 			"isDeleted": false,
 			"id": "kyEeTrvQac2U5sn8TNzSk",
 			"fillStyle": "hachure",
@@ -17793,7 +17793,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517503,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17912,8 +17912,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 267041728,
+			"version": 82,
+			"versionNonce": 1469646912,
 			"isDeleted": false,
 			"id": "zZka5crm2zvM81xIlpgzA",
 			"fillStyle": "hachure",
@@ -17932,7 +17932,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18119,8 +18119,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1174396992,
+			"version": 77,
+			"versionNonce": 1351261120,
 			"isDeleted": false,
 			"id": "bJZtyL_1Ptp_XnU6HioEk",
 			"fillStyle": "hachure",
@@ -18139,7 +18139,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18306,8 +18306,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 43860928,
+			"version": 50,
+			"versionNonce": 1204682816,
 			"isDeleted": false,
 			"id": "bxkOfgECOPujrO64x9BWC",
 			"fillStyle": "hachure",
@@ -18326,7 +18326,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18385,8 +18385,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1939462208,
+			"version": 52,
+			"versionNonce": 1681990592,
 			"isDeleted": false,
 			"id": "tcHjs-vuEgNjnF4-LEYGl",
 			"fillStyle": "hachure",
@@ -18405,7 +18405,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18472,8 +18472,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 230607808,
+			"version": 71,
+			"versionNonce": 1453586496,
 			"isDeleted": false,
 			"id": "9AKRHjXdnRPNLBo6zavqW",
 			"fillStyle": "hachure",
@@ -18492,7 +18492,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18635,8 +18635,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1261752384,
+			"version": 73,
+			"versionNonce": 1340517312,
 			"isDeleted": false,
 			"id": "KUeM2mne5RSt4PVx_IPj_",
 			"fillStyle": "hachure",
@@ -18655,7 +18655,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18806,8 +18806,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1265587136,
+			"version": 63,
+			"versionNonce": 133886016,
 			"isDeleted": false,
 			"id": "llxpbZRMU-x7doyCPVcvj",
 			"fillStyle": "hachure",
@@ -18826,7 +18826,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18937,8 +18937,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1689307200,
+			"version": 46,
+			"versionNonce": 1033581504,
 			"isDeleted": false,
 			"id": "iTWBaGUwoauTflG3MuK1h",
 			"fillStyle": "hachure",
@@ -18957,7 +18957,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19000,8 +19000,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 298769344,
+			"version": 48,
+			"versionNonce": 1672669248,
 			"isDeleted": false,
 			"id": "1_Myk7-60AQxuVEaFpYK6",
 			"fillStyle": "hachure",
@@ -19020,7 +19020,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19071,8 +19071,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1542307904,
+			"version": 65,
+			"versionNonce": 327072704,
 			"isDeleted": false,
 			"id": "TXcoEhLzfS_mH_o-6WCU6",
 			"fillStyle": "hachure",
@@ -19091,7 +19091,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19210,8 +19210,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 1929208768,
+			"version": 172,
+			"versionNonce": 1974198336,
 			"isDeleted": false,
 			"id": "RVrdCWcJvHCM8_e_3yTub",
 			"fillStyle": "hachure",
@@ -19230,7 +19230,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19777,8 +19777,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1355528256,
+			"version": 74,
+			"versionNonce": 1940997056,
 			"isDeleted": false,
 			"id": "7Zp1hrL3",
 			"fillStyle": "hachure",
@@ -19797,7 +19797,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -19812,8 +19812,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "image",
-			"version": 244,
-			"versionNonce": 1025174464,
+			"version": 246,
+			"versionNonce": 1304811584,
 			"isDeleted": false,
 			"id": "cnH-Wd2ImwpttYNWCc8j3",
 			"fillStyle": "hachure",
@@ -19832,7 +19832,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19844,8 +19844,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "image",
-			"version": 146,
-			"versionNonce": 1730850880,
+			"version": 148,
+			"versionNonce": 1012059072,
 			"isDeleted": false,
 			"id": "JYnHMfXGriG3MwA0-G0Bh",
 			"fillStyle": "hachure",
@@ -19864,7 +19864,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19876,8 +19876,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "image",
-			"version": 101,
-			"versionNonce": 2051503040,
+			"version": 103,
+			"versionNonce": 2145439808,
 			"isDeleted": false,
 			"id": "KOl7sP3T4rD4XlBXkCIaC",
 			"fillStyle": "hachure",
@@ -19896,7 +19896,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -19908,8 +19908,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1889729472,
+			"version": 66,
+			"versionNonce": 126047168,
 			"isDeleted": false,
 			"id": "OPQs2vUKVW7YBxygNBImS",
 			"fillStyle": "hachure",
@@ -19928,7 +19928,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20051,8 +20051,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 468426816,
+			"version": 49,
+			"versionNonce": 601671744,
 			"isDeleted": false,
 			"id": "UkvKXclHgujCYD2IBp7Ol",
 			"fillStyle": "hachure",
@@ -20071,7 +20071,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20126,8 +20126,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 575505344,
+			"version": 48,
+			"versionNonce": 727899072,
 			"isDeleted": false,
 			"id": "lKBSynuI-KW-w11DpH7X6",
 			"fillStyle": "hachure",
@@ -20146,7 +20146,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20197,8 +20197,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 369989696,
+			"version": 51,
+			"versionNonce": 1436139584,
 			"isDeleted": false,
 			"id": "jx8dOFpr9PsE9AtiQrTvk",
 			"fillStyle": "hachure",
@@ -20217,7 +20217,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20280,8 +20280,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1298598848,
+			"version": 78,
+			"versionNonce": 974218176,
 			"isDeleted": false,
 			"id": "XgYBA5dS-I2gzH2sQUX5G",
 			"fillStyle": "hachure",
@@ -20300,7 +20300,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20471,8 +20471,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1764790336,
+			"version": 58,
+			"versionNonce": 888649792,
 			"isDeleted": false,
 			"id": "xgmmAHh-QsFLfU3RMgDlg",
 			"fillStyle": "hachure",
@@ -20491,7 +20491,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20582,8 +20582,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1812960192,
+			"version": 48,
+			"versionNonce": 28240832,
 			"isDeleted": false,
 			"id": "9yT8eIafxuKxe0ln5fl5H",
 			"fillStyle": "hachure",
@@ -20602,7 +20602,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20653,8 +20653,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1295288384,
+			"version": 47,
+			"versionNonce": 1708568640,
 			"isDeleted": false,
 			"id": "D9RBM29zBTiHoJSLXjhny",
 			"fillStyle": "hachure",
@@ -20673,7 +20673,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20720,8 +20720,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 879172544,
+			"version": 69,
+			"versionNonce": 207320000,
 			"isDeleted": false,
 			"id": "eAx5No45v8Uj-NxIlfUYL",
 			"fillStyle": "hachure",
@@ -20740,7 +20740,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20875,8 +20875,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 2113503296,
+			"version": 71,
+			"versionNonce": 269920320,
 			"isDeleted": false,
 			"id": "H7Ydzns2JwQs8cOhbhSTT",
 			"fillStyle": "hachure",
@@ -20895,7 +20895,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21038,8 +21038,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 411935680,
+			"version": 54,
+			"versionNonce": 540474304,
 			"isDeleted": false,
 			"id": "OzSQ2MV3wiARRCBcMrSv4",
 			"fillStyle": "hachure",
@@ -21058,7 +21058,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21129,8 +21129,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 996112448,
+			"version": 69,
+			"versionNonce": 1603772480,
 			"isDeleted": false,
 			"id": "Wje1nIpFG-cyR-YBcgan9",
 			"fillStyle": "hachure",
@@ -21149,7 +21149,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21280,8 +21280,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1185098688,
+			"version": 47,
+			"versionNonce": 1063355328,
 			"isDeleted": false,
 			"id": "fhoHeOZ3LhzQ7S4IwdUSl",
 			"fillStyle": "hachure",
@@ -21300,7 +21300,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21343,8 +21343,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1229353024,
+			"version": 48,
+			"versionNonce": 70883392,
 			"isDeleted": false,
 			"id": "fOD6yo5khLYN9kwcipEWm",
 			"fillStyle": "hachure",
@@ -21363,7 +21363,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21410,8 +21410,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 684176320,
+			"version": 55,
+			"versionNonce": 670763968,
 			"isDeleted": false,
 			"id": "RjGQ1EYg9A0PJXuPDrrQT",
 			"fillStyle": "hachure",
@@ -21430,7 +21430,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21505,8 +21505,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1871603776,
+			"version": 57,
+			"versionNonce": 836538432,
 			"isDeleted": false,
 			"id": "gbsEQy6pxBIPpc8un2iMX",
 			"fillStyle": "hachure",
@@ -21525,7 +21525,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21608,8 +21608,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1696283584,
+			"version": 65,
+			"versionNonce": 1411617728,
 			"isDeleted": false,
 			"id": "u47lmZJ_ol_EUD_2xMtsy",
 			"fillStyle": "hachure",
@@ -21628,7 +21628,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21771,8 +21771,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 2048352320,
+			"version": 43,
+			"versionNonce": 543197248,
 			"isDeleted": false,
 			"id": "FMlCSnadtw8jEwamN75sQ",
 			"fillStyle": "hachure",
@@ -21791,7 +21791,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21846,8 +21846,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1572717504,
+			"version": 72,
+			"versionNonce": 2046499776,
 			"isDeleted": false,
 			"id": "FCZEVJd_3YoNepmfKXAY7",
 			"fillStyle": "hachure",
@@ -21866,7 +21866,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22041,8 +22041,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 952195136,
+			"version": 58,
+			"versionNonce": 195395648,
 			"isDeleted": false,
 			"id": "ysATy_k_zcjBz8s8sQJmn",
 			"fillStyle": "hachure",
@@ -22061,7 +22061,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22180,8 +22180,8 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 818891712,
+			"version": 56,
+			"versionNonce": 195142592,
 			"isDeleted": false,
 			"id": "7b9i1y8McZvyawgXWFyJf",
 			"fillStyle": "hachure",
@@ -22200,7 +22200,7 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22310,60 +22310,28 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"pressures": []
 		},
 		{
-			"id": "U3k22RLysdIPOghGyrSBV",
-			"type": "image",
-			"x": -596.9492097047805,
-			"y": 4505.3693685391345,
-			"width": 788,
-			"height": 478,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"type": "freedraw",
+			"version": 37,
+			"versionNonce": 864778304,
+			"isDeleted": false,
+			"id": "sa6Q5-3bd8dZS9PCx3kKK",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1127966784,
-			"version": 103,
-			"versionNonce": 637028416,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"id": "sa6Q5-3bd8dZS9PCx3kKK",
-			"type": "freedraw",
+			"angle": 0,
 			"x": -78.7401614927287,
 			"y": 5042.524130443897,
-			"width": 13,
-			"height": 281,
-			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 13,
+			"height": 281,
+			"seed": 1545085888,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1545085888,
-			"version": 35,
-			"versionNonce": 1752311872,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22440,36 +22408,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					280
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4,
-				280
-			]
+			"pressures": []
 		},
 		{
-			"id": "0MoFruPU2UGI6TbUETuri",
 			"type": "freedraw",
-			"x": -22.740161492728703,
-			"y": 5085.524130443897,
-			"width": 34,
-			"height": 75,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 59,
+			"versionNonce": 926362560,
+			"isDeleted": false,
+			"id": "0MoFruPU2UGI6TbUETuri",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -22.740161492728703,
+			"y": 5085.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34,
+			"height": 75,
+			"seed": 1724887104,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1724887104,
-			"version": 57,
-			"versionNonce": 760445888,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22634,36 +22599,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					63
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26,
-				63
-			]
+			"pressures": []
 		},
 		{
-			"id": "x7LdOnTFLHPJ-tvWcmToj",
 			"type": "freedraw",
-			"x": 30.259838507271297,
-			"y": 5154.524130443897,
-			"width": 17,
-			"height": 27,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 42,
+			"versionNonce": 1542615104,
+			"isDeleted": false,
+			"id": "x7LdOnTFLHPJ-tvWcmToj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 30.259838507271297,
+			"y": 5154.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17,
+			"height": 27,
+			"seed": 610089024,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 610089024,
-			"version": 40,
-			"versionNonce": 2012711872,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22772,36 +22734,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					8
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17,
-				8
-			]
+			"pressures": []
 		},
 		{
-			"id": "U7ay0mkEq3VQbwG9-yo9G",
 			"type": "freedraw",
-			"x": 52.2598385072713,
-			"y": 5140.524130443897,
-			"width": 21,
-			"height": 73,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 41,
+			"versionNonce": 1725674432,
+			"isDeleted": false,
+			"id": "U7ay0mkEq3VQbwG9-yo9G",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 52.2598385072713,
+			"y": 5140.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21,
+			"height": 73,
+			"seed": 1176916928,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1176916928,
-			"version": 39,
-			"versionNonce": 1307054144,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22906,36 +22865,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					67
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17,
-				67
-			]
+			"pressures": []
 		},
 		{
-			"id": "iw3dJ4TwcGrqOQy_pbo9d",
 			"type": "freedraw",
-			"x": 81.2598385072713,
-			"y": 5128.524130443897,
-			"width": 19,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 1287284800,
+			"isDeleted": false,
+			"id": "iw3dJ4TwcGrqOQy_pbo9d",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 81.2598385072713,
+			"y": 5128.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 1,
+			"seed": 1181891520,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1181891520,
-			"version": 22,
-			"versionNonce": 1888490432,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22972,36 +22928,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				1
-			]
+			"pressures": []
 		},
 		{
-			"id": "8kEE_tBEU05fQFCRH92MM",
 			"type": "freedraw",
-			"x": 91.2598385072713,
-			"y": 5150.524130443897,
-			"width": 11,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1085225920,
+			"isDeleted": false,
+			"id": "8kEE_tBEU05fQFCRH92MM",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 91.2598385072713,
+			"y": 5150.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 11,
+			"height": 3,
+			"seed": 928923712,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 928923712,
-			"version": 23,
-			"versionNonce": 788269120,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23042,36 +22995,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11,
-				-3
-			]
+			"pressures": []
 		},
 		{
-			"id": "puppZRcpp_G-WN5RS6NJU",
 			"type": "freedraw",
-			"x": 133.2598385072713,
-			"y": 5124.524130443897,
-			"width": 108,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1371758656,
+			"isDeleted": false,
+			"id": "puppZRcpp_G-WN5RS6NJU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 133.2598385072713,
+			"y": 5124.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 108,
+			"height": 2,
+			"seed": 992876608,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 992876608,
-			"version": 33,
-			"versionNonce": 1423416256,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23152,36 +23102,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				108,
-				-1
-			]
+			"pressures": []
 		},
 		{
-			"id": "VQI5O7MORkZKGI2JiIOJM",
 			"type": "freedraw",
-			"x": 153.2598385072713,
-			"y": 5062.524130443897,
-			"width": 29,
-			"height": 59,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 58,
+			"versionNonce": 651281344,
+			"isDeleted": false,
+			"id": "VQI5O7MORkZKGI2JiIOJM",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 153.2598385072713,
+			"y": 5062.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 29,
+			"height": 59,
+			"seed": 1954072640,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1954072640,
-			"version": 56,
-			"versionNonce": 986775616,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23354,36 +23301,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					35
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				8,
-				35
-			]
+			"pressures": []
 		},
 		{
-			"id": "5NPomZE8epQr24-XluV56",
 			"type": "freedraw",
-			"x": 215.2598385072713,
-			"y": 5033.524130443897,
-			"width": 19,
-			"height": 51,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 988633152,
+			"isDeleted": false,
+			"id": "5NPomZE8epQr24-XluV56",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 215.2598385072713,
+			"y": 5033.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 51,
+			"seed": 1118176192,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1118176192,
-			"version": 43,
-			"versionNonce": 1458447296,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23504,36 +23448,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					43
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-15,
-				43
-			]
+			"pressures": []
 		},
 		{
-			"id": "ZOSAegPn88K8t_Mb729hH",
 			"type": "freedraw",
-			"x": 162.2598385072713,
-			"y": 5140.524130443897,
-			"width": 7,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 929254336,
+			"isDeleted": false,
+			"id": "ZOSAegPn88K8t_Mb729hH",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 162.2598385072713,
+			"y": 5140.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 7,
+			"height": 45,
+			"seed": 1841036224,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1841036224,
-			"version": 24,
-			"versionNonce": 1900476480,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23578,36 +23519,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					45
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7,
-				45
-			]
+			"pressures": []
 		},
 		{
-			"id": "_FuH_NjpFFd8xYiKcpVHJ",
 			"type": "freedraw",
-			"x": 189.2598385072713,
-			"y": 5157.524130443897,
-			"width": 31,
-			"height": 47,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 50,
+			"versionNonce": 1545097280,
+			"isDeleted": false,
+			"id": "_FuH_NjpFFd8xYiKcpVHJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 189.2598385072713,
+			"y": 5157.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 31,
+			"height": 47,
+			"seed": 2113304640,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2113304640,
-			"version": 48,
-			"versionNonce": 1693690816,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23748,36 +23686,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					23
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				31,
-				23
-			]
+			"pressures": []
 		},
 		{
-			"id": "DmnKzTylvEMeIneveLTmU",
 			"type": "freedraw",
-			"x": 291.2598385072713,
-			"y": 5125.524130443897,
-			"width": 33,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1283707840,
+			"isDeleted": false,
+			"id": "DmnKzTylvEMeIneveLTmU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 291.2598385072713,
+			"y": 5125.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 33,
+			"height": 4,
+			"seed": 1895286848,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1895286848,
-			"version": 23,
-			"versionNonce": 1328472128,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23834,36 +23769,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-4
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33,
-				-4
-			]
+			"pressures": []
 		},
 		{
-			"id": "Oe220TbuO-w8f0qrRLqCC",
 			"type": "freedraw",
-			"x": 298.2598385072713,
-			"y": 5106.524130443897,
-			"width": 9,
-			"height": 39,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 220481600,
+			"isDeleted": false,
+			"id": "Oe220TbuO-w8f0qrRLqCC",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 298.2598385072713,
+			"y": 5106.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9,
+			"height": 39,
+			"seed": 1532465216,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1532465216,
-			"version": 22,
-			"versionNonce": 668877760,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23916,36 +23848,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					39
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				9,
-				39
-			]
+			"pressures": []
 		},
 		{
-			"id": "oQanBBcGSe3sCOR0fjbJr",
 			"type": "freedraw",
-			"x": 369.2598385072713,
-			"y": 5070.524130443897,
-			"width": 23,
-			"height": 73,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 2085837760,
+			"isDeleted": false,
+			"id": "oQanBBcGSe3sCOR0fjbJr",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 369.2598385072713,
+			"y": 5070.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 73,
+			"seed": 449233856,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 449233856,
-			"version": 33,
-			"versionNonce": 2129188928,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24042,36 +23971,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					52
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-7,
-				52
-			]
+			"pressures": []
 		},
 		{
-			"id": "i0htAFkYTt3B9MVOxSVsm",
 			"type": "freedraw",
-			"x": 414.2598385072713,
-			"y": 5099.524130443897,
-			"width": 20.000000000000227,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 703676480,
+			"isDeleted": false,
+			"id": "i0htAFkYTt3B9MVOxSVsm",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 414.2598385072713,
+			"y": 5099.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20.000000000000227,
+			"height": 1,
+			"seed": 1853301696,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1853301696,
-			"version": 20,
-			"versionNonce": 1658833856,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24116,36 +24042,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.000000000000227,
-				1
-			]
+			"pressures": []
 		},
 		{
-			"id": "RiPaMjiE1Hy63kb60PwyQ",
 			"type": "freedraw",
-			"x": 423.2598385072713,
-			"y": 5115.524130443897,
-			"width": 17.000000000000227,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 418505664,
+			"isDeleted": false,
+			"id": "RiPaMjiE1Hy63kb60PwyQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 423.2598385072713,
+			"y": 5115.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.000000000000227,
+			"height": 3,
+			"seed": 30068800,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 30068800,
-			"version": 19,
-			"versionNonce": 346280000,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24186,36 +24109,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17.000000000000227,
-				-3
-			]
+			"pressures": []
 		},
 		{
-			"id": "OZyPDdE7pdNolagB3r0px",
 			"type": "freedraw",
-			"x": 484.2598385072715,
-			"y": 5065.524130443897,
-			"width": 45,
-			"height": 83,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 52,
+			"versionNonce": 308230208,
+			"isDeleted": false,
+			"id": "OZyPDdE7pdNolagB3r0px",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 484.2598385072715,
+			"y": 5065.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 45,
+			"height": 83,
+			"seed": 532719680,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 532719680,
-			"version": 50,
-			"versionNonce": 1416647616,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24380,36 +24300,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					76
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-38,
-				76
-			]
+			"pressures": []
 		},
 		{
-			"id": "fOOXQ9uP5dmN4Y4w_M_LJ",
 			"type": "freedraw",
-			"x": -504.7401614927288,
-			"y": 5421.524130443897,
-			"width": 18,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 813657024,
+			"isDeleted": false,
+			"id": "fOOXQ9uP5dmN4Y4w_M_LJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -504.7401614927288,
+			"y": 5421.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18,
+			"height": 1,
+			"seed": 862034880,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 862034880,
-			"version": 20,
-			"versionNonce": 675268672,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24454,36 +24371,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18,
-				-1
-			]
+			"pressures": []
 		},
 		{
-			"id": "3NInEYM3_Eq8cT7jOODX4",
 			"type": "freedraw",
-			"x": -500.7401614927288,
-			"y": 5455.524130443897,
-			"width": 25,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 709767232,
+			"isDeleted": false,
+			"id": "3NInEYM3_Eq8cT7jOODX4",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -500.7401614927288,
+			"y": 5455.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25,
+			"height": 0,
+			"seed": 1393428544,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1393428544,
-			"version": 19,
-			"versionNonce": 1436336192,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24528,36 +24442,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "2q3mRufhWihTjWieC_AlU",
 			"type": "freedraw",
-			"x": -426.7401614927288,
-			"y": 5385.524130443897,
-			"width": 3,
-			"height": 47,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 219935680,
+			"isDeleted": false,
+			"id": "2q3mRufhWihTjWieC_AlU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -426.7401614927288,
+			"y": 5385.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 3,
+			"height": 47,
+			"seed": 2100052928,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2100052928,
-			"version": 25,
-			"versionNonce": 1874748352,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24626,36 +24537,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					47
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3,
-				47
-			]
+			"pressures": []
 		},
 		{
-			"id": "Am9NBlYhx3GUhPDki8Quj",
 			"type": "freedraw",
-			"x": -389.7401614927288,
-			"y": 5386.524130443897,
-			"width": 28,
-			"height": 67,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 44,
+			"versionNonce": 1503537216,
+			"isDeleted": false,
+			"id": "Am9NBlYhx3GUhPDki8Quj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -389.7401614927288,
+			"y": 5386.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 67,
+			"seed": 1592694848,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1592694848,
-			"version": 42,
-			"versionNonce": 1016772672,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24792,36 +24700,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-8
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5,
-				-8
-			]
+			"pressures": []
 		},
 		{
-			"id": "xVBr0bwsEDudLNTVu1Ttb",
 			"type": "freedraw",
-			"x": -419.7401614927288,
-			"y": 5464.524130443897,
-			"width": 71,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 887585728,
+			"isDeleted": false,
+			"id": "xVBr0bwsEDudLNTVu1Ttb",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -419.7401614927288,
+			"y": 5464.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 71,
+			"height": 2,
+			"seed": 816386112,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 816386112,
-			"version": 24,
-			"versionNonce": 2042358720,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24886,36 +24791,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-2
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				71,
-				-2
-			]
+			"pressures": []
 		},
 		{
-			"id": "dCejbw-kTPqHK-E8G-1VB",
 			"type": "freedraw",
-			"x": -373.7401614927288,
-			"y": 5481.524130443897,
-			"width": 29,
-			"height": 56,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 204415040,
+			"isDeleted": false,
+			"id": "dCejbw-kTPqHK-E8G-1VB",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -373.7401614927288,
+			"y": 5481.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 29,
+			"height": 56,
+			"seed": 1717882944,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1717882944,
-			"version": 43,
-			"versionNonce": 18460736,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25056,36 +24958,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					51
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-9,
-				51
-			]
+			"pressures": []
 		},
 		{
-			"id": "bh32mZUBvdyebgRzNQ1Ct",
 			"type": "freedraw",
-			"x": -331.7401614927287,
-			"y": 5458.524130443897,
-			"width": 20,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1778516928,
+			"isDeleted": false,
+			"id": "bh32mZUBvdyebgRzNQ1Ct",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -331.7401614927287,
+			"y": 5458.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 2,
+			"seed": 1620007872,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1620007872,
-			"version": 19,
-			"versionNonce": 2059957184,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25130,36 +25029,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					2
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20,
-				2
-			]
+			"pressures": []
 		},
 		{
-			"id": "ZaTJqRZxNiFY7gXrKxQ2B",
 			"type": "freedraw",
-			"x": -324.7401614927287,
-			"y": 5485.524130443897,
-			"width": 13,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 836835392,
+			"isDeleted": false,
+			"id": "ZaTJqRZxNiFY7gXrKxQ2B",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -324.7401614927287,
+			"y": 5485.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13,
+			"height": 6,
+			"seed": 1290082368,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1290082368,
-			"version": 17,
-			"versionNonce": 1257875520,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25196,36 +25092,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-6
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13,
-				-6
-			]
+			"pressures": []
 		},
 		{
-			"id": "sGCBSD6wtr-viQvR_Miau",
 			"type": "freedraw",
-			"x": -258.7401614927287,
-			"y": 5468.524130443897,
-			"width": 71,
-			"height": 79,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 44,
+			"versionNonce": 713788352,
+			"isDeleted": false,
+			"id": "sGCBSD6wtr-viQvR_Miau",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -258.7401614927287,
+			"y": 5468.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 71,
+			"height": 79,
+			"seed": 918793152,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 918793152,
-			"version": 42,
-			"versionNonce": 956562368,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25362,36 +25255,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				71,
-				3
-			]
+			"pressures": []
 		},
 		{
-			"id": "xawWQFBEOt1g0dUw8Ohu5",
 			"type": "freedraw",
-			"x": -278.7401614927287,
-			"y": 4691.524130443897,
-			"width": 3,
-			"height": 15,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1049890880,
+			"isDeleted": false,
+			"id": "xawWQFBEOt1g0dUw8Ohu5",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -278.7401614927287,
+			"y": 4691.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 3,
+			"height": 15,
+			"seed": 1343796160,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1343796160,
-			"version": 18,
-			"versionNonce": 1176150080,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25432,36 +25322,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					15
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3,
-				15
-			]
+			"pressures": []
 		},
 		{
-			"id": "vquDZ9aYvj2qYADE0vsPu",
 			"type": "freedraw",
-			"x": -281.7401614927287,
-			"y": 4680.524130443897,
-			"width": 5,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 816059328,
+			"isDeleted": false,
+			"id": "vquDZ9aYvj2qYADE0vsPu",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -281.7401614927287,
+			"y": 4680.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 5,
+			"height": 18,
+			"seed": 2138069952,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2138069952,
-			"version": 18,
-			"versionNonce": 915309504,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25502,36 +25389,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					18
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				5,
-				18
-			]
+			"pressures": []
 		},
 		{
-			"id": "TOnw0GWWdX9tZvww07e0r",
 			"type": "freedraw",
-			"x": -300.7401614927287,
-			"y": 4703.524130443897,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 707266624,
+			"isDeleted": false,
+			"id": "TOnw0GWWdX9tZvww07e0r",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -300.7401614927287,
+			"y": 4703.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 10,
+			"height": 10,
+			"seed": 478279744,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 478279744,
-			"version": 22,
-			"versionNonce": 830999488,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25592,36 +25476,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					7
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10,
-				7
-			]
+			"pressures": []
 		},
 		{
-			"id": "-PnaEtemn9xFcmJi-cYI9",
 			"type": "freedraw",
-			"x": -255.7401614927287,
-			"y": 4694.524130443897,
-			"width": 1,
-			"height": 16,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1919654848,
+			"isDeleted": false,
+			"id": "-PnaEtemn9xFcmJi-cYI9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -255.7401614927287,
+			"y": 4694.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 1,
+			"height": 16,
+			"seed": 525558720,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 525558720,
-			"version": 19,
-			"versionNonce": 329224256,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25670,36 +25551,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					16
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1,
-				16
-			]
+			"pressures": []
 		},
 		{
-			"id": "QW-rosHAsBgw8arIzeyR6",
 			"type": "freedraw",
-			"x": -122.7401614927287,
-			"y": 4591.524130443897,
-			"width": 10,
-			"height": 22,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 31,
+			"versionNonce": 1887240256,
+			"isDeleted": false,
+			"id": "QW-rosHAsBgw8arIzeyR6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -122.7401614927287,
+			"y": 4591.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 10,
+			"height": 22,
+			"seed": 1608881088,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1608881088,
-			"version": 29,
-			"versionNonce": 605066176,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517504,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25788,36 +25666,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					22
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4,
-				22
-			]
+			"pressures": []
 		},
 		{
-			"id": "s4x79olMOb72X81hMTb0p",
 			"type": "freedraw",
-			"x": -100.7401614927287,
-			"y": 4574.524130443897,
-			"width": 2,
-			"height": 11,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 570565568,
+			"isDeleted": false,
+			"id": "s4x79olMOb72X81hMTb0p",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.7401614927287,
+			"y": 4574.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 11,
+			"seed": 1501653952,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1501653952,
-			"version": 17,
-			"versionNonce": 1371768896,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25858,36 +25733,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					11
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-2,
-				11
-			]
+			"pressures": []
 		},
 		{
-			"id": "1r71Onf63K4nKKXM7IPE_",
 			"type": "freedraw",
-			"x": -93.7401614927287,
-			"y": 4583.524130443897,
-			"width": 10,
-			"height": 11,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 292747328,
+			"isDeleted": false,
+			"id": "1r71Onf63K4nKKXM7IPE_",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -93.7401614927287,
+			"y": 4583.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 10,
+			"height": 11,
+			"seed": 2019955648,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2019955648,
-			"version": 26,
-			"versionNonce": 1145576384,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25964,36 +25836,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					11
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10,
-				11
-			]
+			"pressures": []
 		},
 		{
-			"id": "ySC-0J4JR6ECN5hddVe-2",
 			"type": "freedraw",
-			"x": -149.7401614927287,
-			"y": 4623.524130443897,
-			"width": 16,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 763866048,
+			"isDeleted": false,
+			"id": "ySC-0J4JR6ECN5hddVe-2",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -149.7401614927287,
+			"y": 4623.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 16,
+			"height": 6,
+			"seed": 1390854208,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1390854208,
-			"version": 26,
-			"versionNonce": 413696064,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26070,36 +25939,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					4
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				4
-			]
+			"pressures": []
 		},
 		{
-			"id": "PdDZcX1lZfyQIbOj6dB6o",
 			"type": "freedraw",
-			"x": -122.7401614927287,
-			"y": 4622.524130443897,
-			"width": 14,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 283766848,
+			"isDeleted": false,
+			"id": "PdDZcX1lZfyQIbOj6dB6o",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -122.7401614927287,
+			"y": 4622.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 14,
+			"height": 0,
+			"seed": 1977232320,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1977232320,
-			"version": 18,
-			"versionNonce": 72262592,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26144,36 +26010,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "Ate6ZMBiMtHSzCUTEjuHQ",
 			"type": "freedraw",
-			"x": -114.7401614927287,
-			"y": 4628.524130443897,
-			"width": 3,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1058812864,
+			"isDeleted": false,
+			"id": "Ate6ZMBiMtHSzCUTEjuHQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -114.7401614927287,
+			"y": 4628.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 3,
+			"height": 12,
+			"seed": 1980844096,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1980844096,
-			"version": 20,
-			"versionNonce": 674134080,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26226,36 +26089,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					12
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3,
-				12
-			]
+			"pressures": []
 		},
 		{
-			"id": "OQvwGzDJVM8Pb2Ok4X2rX",
 			"type": "freedraw",
-			"x": -100.7401614927287,
-			"y": 4637.524130443897,
-			"width": 7,
-			"height": 14,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 1992419392,
+			"isDeleted": false,
+			"id": "OQvwGzDJVM8Pb2Ok4X2rX",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.7401614927287,
+			"y": 4637.524130443897,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"width": 7,
+			"height": 14,
+			"seed": 1823378368,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1823378368,
-			"version": 32,
-			"versionNonce": 306457536,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150081,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26356,36 +26216,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					14
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				14
-			]
+			"pressures": []
 		},
 		{
-			"id": "A7KQBlq3-1erIa1e9BKUT",
 			"type": "freedraw",
-			"x": -660.7401614927288,
-			"y": 5741.524130443897,
-			"width": 53,
-			"height": 46,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 52,
+			"versionNonce": 1021295552,
+			"isDeleted": false,
+			"id": "A7KQBlq3-1erIa1e9BKUT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -660.7401614927288,
+			"y": 5741.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 53,
+			"height": 46,
+			"seed": 390615104,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 390615104,
-			"version": 50,
-			"versionNonce": 1419699136,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26566,36 +26423,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					38
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				53,
-				38
-			]
+			"pressures": []
 		},
 		{
-			"id": "fQHHrh7MLRnPD-0Sl4Xtb",
 			"type": "freedraw",
-			"x": -592.7401614927288,
-			"y": 5743.524130443897,
-			"width": 17,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1322967104,
+			"isDeleted": false,
+			"id": "fQHHrh7MLRnPD-0Sl4Xtb",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -592.7401614927288,
+			"y": 5743.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17,
+			"height": 2,
+			"seed": 393380800,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 393380800,
-			"version": 14,
-			"versionNonce": 1946302528,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26632,36 +26486,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					2
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17,
-				2
-			]
+			"pressures": []
 		},
 		{
-			"id": "xnzLGXE2LPSDC5vr2XZ8M",
 			"type": "freedraw",
-			"x": -585.7401614927288,
-			"y": 5761.524130443897,
-			"width": 19,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1223836608,
+			"isDeleted": false,
+			"id": "xnzLGXE2LPSDC5vr2XZ8M",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -585.7401614927288,
+			"y": 5761.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 0,
+			"seed": 696940608,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 696940608,
-			"version": 15,
-			"versionNonce": 1854696384,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26702,36 +26553,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "vfYPqHvuSrBxBtIwHupNJ",
 			"type": "freedraw",
-			"x": -541.7401614927288,
-			"y": 5724.524130443897,
-			"width": 41,
-			"height": 46,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 689231936,
+			"isDeleted": false,
+			"id": "vfYPqHvuSrBxBtIwHupNJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -541.7401614927288,
+			"y": 5724.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 41,
+			"height": 46,
+			"seed": 850874432,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 850874432,
-			"version": 38,
-			"versionNonce": 1603350592,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26864,36 +26712,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					44
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41,
-				44
-			]
+			"pressures": []
 		},
 		{
-			"id": "Zu_sbs6CcNkhW-SZNn7Hw",
 			"type": "freedraw",
-			"x": -489.7401614927288,
-			"y": 5755.524130443897,
-			"width": 40,
-			"height": 29,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 1098107840,
+			"isDeleted": false,
+			"id": "Zu_sbs6CcNkhW-SZNn7Hw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -489.7401614927288,
+			"y": 5755.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 29,
+			"seed": 626348992,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 626348992,
-			"version": 26,
-			"versionNonce": 25752512,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26978,36 +26823,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					22
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				40,
-				22
-			]
+			"pressures": []
 		},
 		{
-			"id": "3BkwB8Lvots0ZWlt1MKLd",
 			"type": "freedraw",
-			"x": -436.7401614927288,
-			"y": 5739.524130443897,
-			"width": 23,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 424661056,
+			"isDeleted": false,
+			"id": "3BkwB8Lvots0ZWlt1MKLd",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -436.7401614927288,
+			"y": 5739.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 0,
+			"seed": 710506560,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 710506560,
-			"version": 16,
-			"versionNonce": 1853958208,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27052,36 +26894,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "pCaSOHERVD-SjY7-O1kVP",
 			"type": "freedraw",
-			"x": -430.7401614927288,
-			"y": 5729.524130443897,
-			"width": 4,
-			"height": 26,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1082414016,
+			"isDeleted": false,
+			"id": "pCaSOHERVD-SjY7-O1kVP",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -430.7401614927288,
+			"y": 5729.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4,
+			"height": 26,
+			"seed": 106288064,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 106288064,
-			"version": 16,
-			"versionNonce": 330595264,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27126,36 +26965,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					26
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4,
-				26
-			]
+			"pressures": []
 		},
 		{
-			"id": "3HBZrD_fs2UraO7BROoud",
 			"type": "freedraw",
-			"x": -392.7401614927288,
-			"y": 5726.524130443897,
-			"width": 23,
-			"height": 43,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 929810496,
+			"isDeleted": false,
+			"id": "3HBZrD_fs2UraO7BROoud",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -392.7401614927288,
+			"y": 5726.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 43,
+			"seed": 1028020288,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1028020288,
-			"version": 31,
-			"versionNonce": 1731134400,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27264,36 +27100,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					36
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23,
-				36
-			]
+			"pressures": []
 		},
 		{
-			"id": "X4UeuB6ZL135lYkm0wOn-",
 			"type": "freedraw",
-			"x": -362.7401614927288,
-			"y": 5756.524130443897,
-			"width": 29.000000000000114,
-			"height": 26,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 474209216,
+			"isDeleted": false,
+			"id": "X4UeuB6ZL135lYkm0wOn-",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -362.7401614927288,
+			"y": 5756.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 29.000000000000114,
+			"height": 26,
+			"seed": 829633472,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 829633472,
-			"version": 32,
-			"versionNonce": 704911424,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27406,36 +27239,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					26
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21,
-				26
-			]
+			"pressures": []
 		},
 		{
-			"id": "zpiZWIfEiUOnZaFIixOy1",
 			"type": "freedraw",
-			"x": -209.7401614927287,
-			"y": 5686.524130443897,
-			"width": 6,
-			"height": 100,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 524861504,
+			"isDeleted": false,
+			"id": "zpiZWIfEiUOnZaFIixOy1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -209.7401614927287,
+			"y": 5686.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6,
+			"height": 100,
+			"seed": 1702470592,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1702470592,
-			"version": 18,
-			"versionNonce": 2048428992,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27492,36 +27322,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					98
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-5,
-				98
-			]
+			"pressures": []
 		},
 		{
-			"id": "WoEDaiXi-kNjYVN_NEPj6",
 			"type": "freedraw",
-			"x": -179.7401614927287,
-			"y": 5702.524130443897,
-			"width": 28,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1725064128,
+			"isDeleted": false,
+			"id": "WoEDaiXi-kNjYVN_NEPj6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -179.7401614927287,
+			"y": 5702.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 45,
+			"seed": 1496013760,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1496013760,
-			"version": 33,
-			"versionNonce": 978784320,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27638,36 +27465,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					40
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				28,
-				40
-			]
+			"pressures": []
 		},
 		{
-			"id": "rhxg3hV2iSKZtv6zuDpu6",
 			"type": "freedraw",
-			"x": -139.7401614927287,
-			"y": 5734.524130443897,
-			"width": 27,
-			"height": 21,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 1892071488,
+			"isDeleted": false,
+			"id": "rhxg3hV2iSKZtv6zuDpu6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -139.7401614927287,
+			"y": 5734.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 27,
+			"height": 21,
+			"seed": 1341640768,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1341640768,
-			"version": 26,
-			"versionNonce": 110171072,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27756,36 +27580,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					17
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				27,
-				17
-			]
+			"pressures": []
 		},
 		{
-			"id": "6-trfmBpb-w6rje9C7euj",
 			"type": "freedraw",
-			"x": -105.7401614927287,
-			"y": 5717.524130443897,
-			"width": 22,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1850731456,
+			"isDeleted": false,
+			"id": "6-trfmBpb-w6rje9C7euj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -105.7401614927287,
+			"y": 5717.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 1,
+			"seed": 537032768,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 537032768,
-			"version": 15,
-			"versionNonce": 898304064,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27830,36 +27651,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "fvLvMo4aJOtkAHlBRuv4V",
 			"type": "freedraw",
-			"x": -100.7401614927287,
-			"y": 5736.524130443897,
-			"width": 15,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1338355776,
+			"isDeleted": false,
+			"id": "fvLvMo4aJOtkAHlBRuv4V",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.7401614927287,
+			"y": 5736.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15,
+			"height": 0,
+			"seed": 459068352,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 459068352,
-			"version": 16,
-			"versionNonce": 45652928,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27908,36 +27726,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "MptBdwm4tQR_OCiC929PX",
 			"type": "freedraw",
-			"x": -67.7401614927287,
-			"y": 5698.524130443897,
-			"width": 26,
-			"height": 40,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1021080512,
+			"isDeleted": false,
+			"id": "MptBdwm4tQR_OCiC929PX",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -67.7401614927287,
+			"y": 5698.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 40,
+			"seed": 35324864,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 35324864,
-			"version": 33,
-			"versionNonce": 394264640,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28054,36 +27869,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					40
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25,
-				40
-			]
+			"pressures": []
 		},
 		{
-			"id": "k49prQVCWBcL7DgFPyQ_W",
 			"type": "freedraw",
-			"x": -38.7401614927287,
-			"y": 5730.524130443897,
-			"width": 25,
-			"height": 43,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 41,
+			"versionNonce": 1680189504,
+			"isDeleted": false,
+			"id": "k49prQVCWBcL7DgFPyQ_W",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -38.7401614927287,
+			"y": 5730.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25,
+			"height": 43,
+			"seed": 702326848,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 702326848,
-			"version": 39,
-			"versionNonce": 548348864,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851150082,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28224,36 +28036,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					41
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23,
-				41
-			]
+			"pressures": []
 		},
 		{
-			"id": "BRStZ-XIVjvruNhVLDjjM",
 			"type": "freedraw",
-			"x": -636.7401614927288,
-			"y": 5885.524130443897,
-			"width": 21,
-			"height": 41,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 412613568,
+			"isDeleted": false,
+			"id": "BRStZ-XIVjvruNhVLDjjM",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -636.7401614927288,
+			"y": 5885.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21,
+			"height": 41,
+			"seed": 1318366144,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1318366144,
-			"version": 30,
-			"versionNonce": 928481344,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851151125,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28374,36 +28183,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					32
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21,
-				32
-			]
+			"pressures": []
 		},
 		{
-			"id": "S7VRv_HV_j39csMfhZboI",
 			"type": "freedraw",
-			"x": -628.7401614927288,
-			"y": 5890.524130443897,
-			"width": 22,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1506189376,
+			"isDeleted": false,
+			"id": "S7VRv_HV_j39csMfhZboI",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -628.7401614927288,
+			"y": 5890.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 2,
+			"seed": 739222464,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 739222464,
-			"version": 13,
-			"versionNonce": 1114756032,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851151892,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28456,36 +28262,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22,
-				-1
-			]
+			"pressures": []
 		},
 		{
-			"id": "tGJ_86n1cAFIC-IbQhFbk",
 			"type": "freedraw",
-			"x": -596.7401614927288,
-			"y": 5912.524130443897,
-			"width": 29,
-			"height": 28,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 60982208,
+			"isDeleted": false,
+			"id": "tGJ_86n1cAFIC-IbQhFbk",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -596.7401614927288,
+			"y": 5912.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 29,
+			"height": 28,
+			"seed": 890652736,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 890652736,
-			"version": 23,
-			"versionNonce": 1411117120,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851152569,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28578,36 +28381,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					17
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				29,
-				17
-			]
+			"pressures": []
 		},
 		{
-			"id": "keKmazQ7kmf0GOqiBth02",
 			"type": "freedraw",
-			"x": -547.7401614927288,
-			"y": 5879.524130443897,
-			"width": 25,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1619564608,
+			"isDeleted": false,
+			"id": "keKmazQ7kmf0GOqiBth02",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -547.7401614927288,
+			"y": 5879.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25,
+			"height": 1,
+			"seed": 668608,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 668608,
-			"version": 10,
-			"versionNonce": 996001856,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851152999,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28648,36 +28448,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25,
-				1
-			]
+			"pressures": []
 		},
 		{
-			"id": "Ebd80DOM3ma02wuzcIzBN",
 			"type": "freedraw",
-			"x": -541.7401614927288,
-			"y": 5905.524130443897,
-			"width": 21,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1008470976,
+			"isDeleted": false,
+			"id": "Ebd80DOM3ma02wuzcIzBN",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -541.7401614927288,
+			"y": 5905.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21,
+			"height": 3,
+			"seed": 141679552,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 141679552,
-			"version": 10,
-			"versionNonce": 645439552,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851153324,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28718,36 +28515,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21,
-				-3
-			]
+			"pressures": []
 		},
 		{
-			"id": "DHD8AZgT9AuILNhmUm-B3",
 			"type": "freedraw",
-			"x": -472.7401614927288,
-			"y": 5832.524130443897,
-			"width": 29,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 36,
+			"versionNonce": 743149632,
+			"isDeleted": false,
+			"id": "DHD8AZgT9AuILNhmUm-B3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -472.7401614927288,
+			"y": 5832.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 29,
+			"height": 32,
+			"seed": 319849408,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 319849408,
-			"version": 34,
-			"versionNonce": 1386354752,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851154405,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28884,36 +28678,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					27
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				29,
-				27
-			]
+			"pressures": []
 		},
 		{
-			"id": "tdkeCbyiqqrZ2Txo0oRMu",
 			"type": "freedraw",
-			"x": -471.7401614927288,
-			"y": 5881.524130443897,
-			"width": 38,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1009030080,
+			"isDeleted": false,
+			"id": "tdkeCbyiqqrZ2Txo0oRMu",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -471.7401614927288,
+			"y": 5881.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38,
+			"height": 3,
+			"seed": 844794816,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 844794816,
-			"version": 15,
-			"versionNonce": 2141275072,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851154885,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28974,36 +28765,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				38,
-				-1
-			]
+			"pressures": []
 		},
 		{
-			"id": "wwZn8U_hLWpU45yCcf9Zu",
 			"type": "freedraw",
-			"x": -459.7401614927288,
-			"y": 5912.524130443897,
-			"width": 15,
-			"height": 40,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 31,
+			"versionNonce": 1961855040,
+			"isDeleted": false,
+			"id": "wwZn8U_hLWpU45yCcf9Zu",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -459.7401614927288,
+			"y": 5912.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15,
+			"height": 40,
+			"seed": 953538624,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 953538624,
-			"version": 29,
-			"versionNonce": 466249792,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851155688,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29120,36 +28908,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					30
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15,
-				30
-			]
+			"pressures": []
 		},
 		{
-			"id": "Xrj_etdfOizbs392Q1jWi",
 			"type": "freedraw",
-			"x": -415.7401614927288,
-			"y": 5874.524130443897,
-			"width": 12,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 970726336,
+			"isDeleted": false,
+			"id": "Xrj_etdfOizbs392Q1jWi",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -415.7401614927288,
+			"y": 5874.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 12,
+			"height": 3,
+			"seed": 715078592,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 715078592,
-			"version": 11,
-			"versionNonce": 1289872320,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851156239,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29194,36 +28979,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				12,
-				3
-			]
+			"pressures": []
 		},
 		{
-			"id": "ORD_c60AeQh3F8JYTF_t3",
 			"type": "freedraw",
-			"x": -415.7401614927288,
-			"y": 5893.524130443897,
-			"width": 11,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1985249344,
+			"isDeleted": false,
+			"id": "ORD_c60AeQh3F8JYTF_t3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -415.7401614927288,
+			"y": 5893.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 11,
+			"height": 2,
+			"seed": 1433352256,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1433352256,
-			"version": 10,
-			"versionNonce": 1752927168,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851156580,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29264,36 +29046,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					2
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11,
-				2
-			]
+			"pressures": []
 		},
 		{
-			"id": "4uXHJBUwA0Nbu9cZhQpjV",
 			"type": "freedraw",
-			"x": -351.7401614927288,
-			"y": 5846.524130443897,
-			"width": 37.000000000000114,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 660775872,
+			"isDeleted": false,
+			"id": "4uXHJBUwA0Nbu9cZhQpjV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -351.7401614927288,
+			"y": 5846.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 37.000000000000114,
+			"height": 44,
+			"seed": 396628032,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 396628032,
-			"version": 27,
-			"versionNonce": 53848128,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851157605,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29402,36 +29181,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					16
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.000000000000114,
-				16
-			]
+			"pressures": []
 		},
 		{
-			"id": "8rhhso5dtvmlx1MALFnR9",
 			"type": "freedraw",
-			"x": -357.7401614927288,
-			"y": 5896.524130443897,
-			"width": 43.000000000000114,
-			"height": 5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1884977216,
+			"isDeleted": false,
+			"id": "8rhhso5dtvmlx1MALFnR9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -357.7401614927288,
+			"y": 5896.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 43.000000000000114,
+			"height": 5,
+			"seed": 847772608,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 847772608,
-			"version": 12,
-			"versionNonce": 57309248,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851157949,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29480,36 +29256,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-5
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				43.000000000000114,
-				-5
-			]
+			"pressures": []
 		},
 		{
-			"id": "wSneMd4GJyF_XEQ2mgxte",
 			"type": "freedraw",
-			"x": -339.7401614927287,
-			"y": 5920.524130443897,
-			"width": 44,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 853027776,
+			"isDeleted": false,
+			"id": "wSneMd4GJyF_XEQ2mgxte",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -339.7401614927287,
+			"y": 5920.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 44,
+			"height": 25,
+			"seed": 415771584,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 415771584,
-			"version": 22,
-			"versionNonce": 1701716032,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851158500,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29598,36 +29371,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					17
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				44,
-				17
-			]
+			"pressures": []
 		},
 		{
-			"id": "rbu58hFB7xslGxDFHaWHw",
 			"type": "freedraw",
-			"x": -285.7401614927287,
-			"y": 5880.524130443897,
-			"width": 24,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 652308544,
+			"isDeleted": false,
+			"id": "rbu58hFB7xslGxDFHaWHw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -285.7401614927287,
+			"y": 5880.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 3,
+			"seed": 137561024,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 137561024,
-			"version": 10,
-			"versionNonce": 1129445440,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851158941,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29668,36 +29438,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-3
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24,
-				-3
-			]
+			"pressures": []
 		},
 		{
-			"id": "0SKMn1Uvn81c2_OMOKFO6",
 			"type": "freedraw",
-			"x": -284.7401614927287,
-			"y": 5900.524130443897,
-			"width": 24,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1180480448,
+			"isDeleted": false,
+			"id": "0SKMn1Uvn81c2_OMOKFO6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -284.7401614927287,
+			"y": 5900.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 1,
+			"seed": 1293462464,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1293462464,
-			"version": 9,
-			"versionNonce": 277138368,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851159250,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29734,36 +29501,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					1
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24,
-				1
-			]
+			"pressures": []
 		},
 		{
-			"id": "gES70n_EMYPKw0Vbu4UXx",
 			"type": "freedraw",
-			"x": -200.7401614927287,
-			"y": 5839.524130443897,
-			"width": 1,
-			"height": 83,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1640589376,
+			"isDeleted": false,
+			"id": "gES70n_EMYPKw0Vbu4UXx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -200.7401614927287,
+			"y": 5839.524130443897,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1,
+			"height": 83,
+			"seed": 1070518336,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1070518336,
-			"version": 15,
-			"versionNonce": 468162624,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851159911,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29824,36 +29588,33 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					83
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1,
-				83
-			]
+			"pressures": []
 		},
 		{
-			"id": "8g7xya8AzGpc4aE-ZTnSR",
 			"type": "freedraw",
-			"x": -658.730875481941,
-			"y": 6007.065917416584,
-			"width": 556.25,
-			"height": 216.25,
-			"angle": 0,
-			"strokeColor": "#2b8a3e",
-			"backgroundColor": "transparent",
+			"version": 119,
+			"versionNonce": 135281600,
+			"isDeleted": false,
+			"id": "8g7xya8AzGpc4aE-ZTnSR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -658.730875481941,
+			"y": 6007.065917416584,
+			"strokeColor": "#2b8a3e",
+			"backgroundColor": "transparent",
+			"width": 556.25,
+			"height": 216.25,
+			"seed": 707595200,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 707595200,
-			"version": 117,
-			"versionNonce": 685169600,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851177502,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30322,55 +30083,52 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					-15
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-7.5,
-				-15
-			]
+			"pressures": []
 		},
 		{
-			"id": "hOtBQhHe",
 			"type": "text",
-			"x": -602.7189707200362,
-			"y": 6132.315917416587,
-			"width": 191,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 46,
+			"versionNonce": 1827823680,
+			"isDeleted": false,
+			"id": "hOtBQhHe",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -602.7189707200362,
+			"y": 6132.315917416587,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 191,
+			"height": 45,
+			"seed": 1135279040,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1135279040,
-			"version": 44,
-			"versionNonce": 1767954496,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1674851210964,
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
-			"text": "Question 5",
-			"rawText": "Question 5",
 			"fontSize": 36,
 			"fontFamily": 1,
+			"text": "Question 5",
+			"rawText": "Question 5",
+			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 32,
 			"containerId": null,
 			"originalText": "Question 5"
 		},
 		{
-			"id": "NgzSx1UMFhqGVFTYtizZ6",
+			"id": "6CVzOYYWWsQrsWhIEEr8m",
 			"type": "image",
-			"x": -606.8879577479437,
-			"y": 6212.469747410866,
-			"width": 673.5694822888285,
-			"height": 600.0000000000001,
+			"x": -579.0714705717846,
+			"y": 4501.1220592334,
+			"width": 788,
+			"height": 478,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -30381,12 +30139,76 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 209212352,
-			"version": 37,
-			"versionNonce": 1920612416,
+			"seed": 1505016768,
+			"version": 117,
+			"versionNonce": 1511179200,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1674851223643,
+			"updated": 1674851517505,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "451494e5e7f3dda9d1ef9fb848b76e7ac45996e2",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "Dvrpb8bkO1W8DzBm3dgGd",
+			"type": "image",
+			"x": -667.0714705717846,
+			"y": 6218.1220592334,
+			"width": 824,
+			"height": 734,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 307626048,
+			"version": 56,
+			"versionNonce": 406607936,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674851517505,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8486af06e22c48eebb8326475f0eda04e5848ba0",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 40,
+			"versionNonce": 1518619584,
+			"isDeleted": true,
+			"id": "NgzSx1UMFhqGVFTYtizZ6",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -606.8879577479437,
+			"y": 6212.469747410866,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 673.5694822888285,
+			"height": 600.0000000000001,
+			"seed": 209212352,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -30398,27 +30220,27 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 		},
 		{
 			"type": "image",
-			"version": 92,
-			"versionNonce": 1189783616,
+			"version": 106,
+			"versionNonce": 931614784,
 			"isDeleted": true,
-			"id": "fcT6ygq-Y-bF6AKuXa_Vr",
+			"id": "U3k22RLysdIPOghGyrSBV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -560.0157840963411,
-			"y": 4506.329430156821,
+			"x": -596.9492097047805,
+			"y": 4505.3693685391345,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 788,
 			"height": 478,
-			"seed": 280773568,
+			"seed": 1127966784,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1674851150080,
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -30429,28 +30251,28 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			]
 		},
 		{
+			"id": "u_LMC-XpvBcoHXbON1rem",
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 2137804864,
-			"isDeleted": true,
-			"id": "I5X2QLW7tl4HEf-LMJ8rr",
+			"x": -640.2770982774111,
+			"y": 6816.809687006141,
+			"width": 13.63636363636374,
+			"height": 5.454545454545951,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -320.8588552473442,
-			"y": 5247.850591051163,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 26.57131833910171,
-			"height": 0.885710611302784,
-			"seed": 815909824,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1674851150081,
+			"seed": 1935907776,
+			"version": 11,
+			"versionNonce": 1669649344,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30459,138 +30281,50 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				],
 				[
-					1.7714212226068184,
-					0
+					2.727272727272748,
+					-0.9090909090909918
 				],
 				[
-					6.199974279123694,
-					0
+					5.454545454545496,
+					-1.8181818181819835
 				],
 				[
-					9.742816724337331,
-					-0.885710611302784
+					8.181818181818244,
+					-2.7272727272729753
 				],
 				[
-					15.942791003461025,
-					-0.885710611302784
+					10,
+					-3.636363636363967
 				],
 				[
-					19.485633448674548,
-					-0.885710611302784
+					12.727272727272748,
+					-4.545454545454959
 				],
 				[
-					22.14276528258472,
-					-0.885710611302784
+					13.63636363636374,
+					-5.454545454545951
 				],
 				[
-					23.914186505191537,
-					-0.885710611302784
-				],
-				[
-					24.79989711649489,
-					-0.885710611302784
-				],
-				[
-					26.57131833910171,
-					0
-				],
-				[
-					26.57131833910171,
-					0
+					13.63636363636374,
+					-5.454545454545951
 				]
 			],
-			"lastCommittedPoint": null,
+			"pressures": [],
 			"simulatePressure": true,
-			"pressures": []
+			"lastCommittedPoint": [
+				13.63636363636374,
+				-5.454545454545951
+			]
 		},
 		{
+			"id": "aEio3nRfhuUhczIEbIJiJ",
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 946852800,
-			"isDeleted": true,
-			"id": "arDLxPQvrs9x6NjfJOf4P",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -312.8874597456137,
-			"y": 5264.679092665928,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 33.657003229528755,
-			"height": 7.085684890426819,
-			"seed": 1296432064,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.8857106113036934
-				],
-				[
-					0.8857106113033524,
-					0.8857106113036934
-				],
-				[
-					3.542842445213523,
-					1.7714212226064774
-				],
-				[
-					7.085684890427046,
-					2.657131833910171
-				],
-				[
-					11.514237946944036,
-					2.657131833910171
-				],
-				[
-					17.71421222606773,
-					0
-				],
-				[
-					23.914186505191537,
-					-1.7714212226064774
-				],
-				[
-					29.228450173011765,
-					-3.5428424452138643
-				],
-				[
-					32.7712926182254,
-					-4.428553056516648
-				],
-				[
-					33.657003229528755,
-					-4.428553056516648
-				],
-				[
-					33.657003229528755,
-					-4.428553056516648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"id": "2vZdkOUjMko9hqX_Zjx5s",
-			"type": "freedraw",
-			"x": -200.7401614927287,
-			"y": 5198.524130443897,
+			"x": 265.17744717713435,
+			"y": 6621.355141551595,
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -30599,12 +30333,12 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1987445696,
-			"version": 28,
-			"versionNonce": 180313024,
+			"seed": 151691328,
+			"version": 5,
+			"versionNonce": 598926272,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674851150081,
+			"updated": 1674851519693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30625,14 +30359,14 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			]
 		},
 		{
-			"id": "5_xJ1NAgK2tdATRU4pXpa",
+			"id": "iKGcbudHN2SuCxCWYyb-6",
 			"type": "freedraw",
-			"x": -261.7401614927287,
-			"y": 5246.524130443897,
-			"width": 144,
-			"height": 17,
+			"x": -794.1786134289268,
+			"y": 5857.448215144666,
+			"width": 0.0001,
+			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -30641,12 +30375,12 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 560350144,
-			"version": 36,
-			"versionNonce": 138756160,
+			"seed": 1402473408,
+			"version": 4,
+			"versionNonce": 187980736,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1674851150081,
+			"updated": 1674851517505,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30655,3604 +30389,22 @@ ff8cbfedfdff1deb14bce0cf7e8e7e538a7d2045: [[rv_exos/physics/assets/Circuits & Ki
 					0
 				],
 				[
-					1,
-					0
-				],
-				[
-					5,
-					-1
-				],
-				[
-					11,
-					-4
-				],
-				[
-					18,
-					-6
-				],
-				[
-					25,
-					-7
-				],
-				[
-					41,
-					-10
-				],
-				[
-					64,
-					-11
-				],
-				[
-					90,
-					-13
-				],
-				[
-					106,
-					-14
-				],
-				[
-					123,
-					-16
-				],
-				[
-					135,
-					-16
-				],
-				[
-					141,
-					-17
-				],
-				[
-					144,
-					-17
-				],
-				[
-					144,
-					-17
+					0.0001,
+					0.0001
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				144,
-				-17
+				0.0001,
+				0.0001
 			]
-		},
-		{
-			"id": "dwrX1geVlszjSvAM5Ag12",
-			"type": "freedraw",
-			"x": -258.7401614927287,
-			"y": 5246.524130443897,
-			"width": 187,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2041523136,
-			"version": 43,
-			"versionNonce": 2044584896,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					0
-				],
-				[
-					9,
-					-1
-				],
-				[
-					20,
-					-2
-				],
-				[
-					36,
-					-3
-				],
-				[
-					56,
-					-3
-				],
-				[
-					78,
-					-3
-				],
-				[
-					101,
-					-2
-				],
-				[
-					119,
-					-1
-				],
-				[
-					134,
-					-1
-				],
-				[
-					144,
-					-1
-				],
-				[
-					151,
-					-1
-				],
-				[
-					157,
-					-2
-				],
-				[
-					162,
-					-3
-				],
-				[
-					168,
-					-3
-				],
-				[
-					174,
-					-4
-				],
-				[
-					179,
-					-4
-				],
-				[
-					184,
-					-4
-				],
-				[
-					186,
-					-4
-				],
-				[
-					187,
-					-4
-				],
-				[
-					187,
-					-4
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				187,
-				-4
-			]
-		},
-		{
-			"id": "GjgbxGJ9WIf7h5-EVMcIZ",
-			"type": "freedraw",
-			"x": -245.7401614927287,
-			"y": 5252.524130443897,
-			"width": 129,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 348057664,
-			"version": 36,
-			"versionNonce": 104020032,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5,
-					0
-				],
-				[
-					10,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					22,
-					0
-				],
-				[
-					60,
-					0
-				],
-				[
-					63,
-					0
-				],
-				[
-					73,
-					0
-				],
-				[
-					87,
-					0
-				],
-				[
-					107,
-					0
-				],
-				[
-					115,
-					0
-				],
-				[
-					122,
-					-1
-				],
-				[
-					127,
-					-1
-				],
-				[
-					129,
-					-1
-				],
-				[
-					129,
-					-1
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				129,
-				-1
-			]
-		},
-		{
-			"id": "kjuTUHgBsF1-O4BJguucT",
-			"type": "freedraw",
-			"x": -212.7401614927287,
-			"y": 5183.524130443897,
-			"width": 4,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1855631424,
-			"version": 34,
-			"versionNonce": 334195648,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2
-				],
-				[
-					0,
-					3
-				],
-				[
-					1,
-					8
-				],
-				[
-					1,
-					16
-				],
-				[
-					2,
-					25
-				],
-				[
-					2,
-					32
-				],
-				[
-					2,
-					37
-				],
-				[
-					3,
-					41
-				],
-				[
-					3,
-					43
-				],
-				[
-					3,
-					44
-				],
-				[
-					3,
-					45
-				],
-				[
-					4,
-					45
-				],
-				[
-					4,
-					45
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4,
-				45
-			]
-		},
-		{
-			"id": "8BKMFFJXGkQk64zxOp6xQ",
-			"type": "freedraw",
-			"x": -173.7401614927287,
-			"y": 5168.524130443897,
-			"width": 31,
-			"height": 66,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1345530816,
-			"version": 57,
-			"versionNonce": 60960832,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-4,
-					-1
-				],
-				[
-					-6,
-					-1
-				],
-				[
-					-7,
-					-1
-				],
-				[
-					-8,
-					-1
-				],
-				[
-					-11,
-					3
-				],
-				[
-					-12,
-					7
-				],
-				[
-					-12,
-					13
-				],
-				[
-					-10,
-					19
-				],
-				[
-					-6,
-					24
-				],
-				[
-					-1,
-					31
-				],
-				[
-					4,
-					36
-				],
-				[
-					7,
-					41
-				],
-				[
-					9,
-					44
-				],
-				[
-					10,
-					48
-				],
-				[
-					11,
-					52
-				],
-				[
-					10,
-					55
-				],
-				[
-					7,
-					57
-				],
-				[
-					2,
-					58
-				],
-				[
-					-6,
-					56
-				],
-				[
-					-12,
-					50
-				],
-				[
-					-15,
-					46
-				],
-				[
-					-17,
-					41
-				],
-				[
-					-17,
-					37
-				],
-				[
-					-15,
-					32
-				],
-				[
-					-10,
-					27
-				],
-				[
-					-4,
-					23
-				],
-				[
-					1,
-					19
-				],
-				[
-					7,
-					14
-				],
-				[
-					11,
-					10
-				],
-				[
-					13,
-					7
-				],
-				[
-					14,
-					3
-				],
-				[
-					14,
-					0
-				],
-				[
-					14,
-					-3
-				],
-				[
-					12,
-					-5
-				],
-				[
-					11,
-					-7
-				],
-				[
-					10,
-					-8
-				],
-				[
-					10,
-					-8
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10,
-				-8
-			]
-		},
-		{
-			"id": "Y2a2410VFujEFGgluRC86",
-			"type": "freedraw",
-			"x": -50.7401614927287,
-			"y": 5040.524130443897,
-			"width": 37,
-			"height": 422,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1316266944,
-			"version": 34,
-			"versionNonce": 587723712,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					32
-				],
-				[
-					-1,
-					63
-				],
-				[
-					-2,
-					99
-				],
-				[
-					-2,
-					131
-				],
-				[
-					1,
-					198
-				],
-				[
-					10,
-					266
-				],
-				[
-					19,
-					330
-				],
-				[
-					25,
-					374
-				],
-				[
-					30,
-					404
-				],
-				[
-					33,
-					418
-				],
-				[
-					34,
-					422
-				],
-				[
-					35,
-					422
-				],
-				[
-					35,
-					421
-				],
-				[
-					35,
-					419
-				],
-				[
-					35,
-					419
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				35,
-				419
-			]
-		},
-		{
-			"id": "2P3qK9ETEXlBU7V-ckhjR",
-			"type": "freedraw",
-			"x": 26.259838507271297,
-			"y": 5150.524130443897,
-			"width": 28,
-			"height": 37,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1178276800,
-			"version": 42,
-			"versionNonce": 545464384,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					1,
-					-1
-				],
-				[
-					3,
-					-5
-				],
-				[
-					4,
-					-10
-				],
-				[
-					5,
-					-15
-				],
-				[
-					6,
-					-20
-				],
-				[
-					7,
-					-24
-				],
-				[
-					7,
-					-25
-				],
-				[
-					6,
-					-24
-				],
-				[
-					5,
-					-21
-				],
-				[
-					4,
-					-14
-				],
-				[
-					3,
-					-6
-				],
-				[
-					3,
-					1
-				],
-				[
-					3,
-					7
-				],
-				[
-					3,
-					9
-				],
-				[
-					4,
-					10
-				],
-				[
-					6,
-					12
-				],
-				[
-					10,
-					12
-				],
-				[
-					16,
-					11
-				],
-				[
-					20,
-					10
-				],
-				[
-					23,
-					8
-				],
-				[
-					26,
-					6
-				],
-				[
-					28,
-					4
-				],
-				[
-					28,
-					4
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				28,
-				4
-			]
-		},
-		{
-			"id": "8fshKu-9GzzYbZVsyZPhE",
-			"type": "freedraw",
-			"x": 71.2598385072713,
-			"y": 5133.524130443897,
-			"width": 20,
-			"height": 64,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1758395328,
-			"version": 44,
-			"versionNonce": 1961755584,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2,
-					0
-				],
-				[
-					-3,
-					2
-				],
-				[
-					-3,
-					5
-				],
-				[
-					-4,
-					8
-				],
-				[
-					-4,
-					11
-				],
-				[
-					-5,
-					15
-				],
-				[
-					-4,
-					18
-				],
-				[
-					-3,
-					21
-				],
-				[
-					-1,
-					22
-				],
-				[
-					1,
-					23
-				],
-				[
-					4,
-					22
-				],
-				[
-					8,
-					18
-				],
-				[
-					10,
-					14
-				],
-				[
-					11,
-					11
-				],
-				[
-					12,
-					9
-				],
-				[
-					12,
-					10
-				],
-				[
-					12,
-					15
-				],
-				[
-					11,
-					22
-				],
-				[
-					10,
-					31
-				],
-				[
-					10,
-					39
-				],
-				[
-					10,
-					48
-				],
-				[
-					12,
-					55
-				],
-				[
-					13,
-					60
-				],
-				[
-					14,
-					64
-				],
-				[
-					15,
-					64
-				],
-				[
-					15,
-					62
-				],
-				[
-					15,
-					61
-				],
-				[
-					15,
-					61
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15,
-				61
-			]
-		},
-		{
-			"id": "s00XEEWOxG42yLNYJy7VG",
-			"type": "freedraw",
-			"x": 44.2598385072713,
-			"y": 5155.524130443897,
-			"width": 1,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 122675264,
-			"version": 19,
-			"versionNonce": 464853056,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1,
-					0
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1,
-				0
-			]
-		},
-		{
-			"id": "ASsOHEIIwh4FAE2dPC0E1",
-			"type": "freedraw",
-			"x": 267.2598385072713,
-			"y": 5121.524130443897,
-			"width": 20,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2051093440,
-			"version": 23,
-			"versionNonce": 1446899776,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2,
-					0
-				],
-				[
-					4,
-					1
-				],
-				[
-					7,
-					2
-				],
-				[
-					12,
-					2
-				],
-				[
-					16,
-					2
-				],
-				[
-					18,
-					2
-				],
-				[
-					20,
-					2
-				],
-				[
-					20,
-					2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20,
-				2
-			]
-		},
-		{
-			"id": "DalBlZQWAAm7lBfD7ffFZ",
-			"type": "freedraw",
-			"x": 264.2598385072713,
-			"y": 5149.524130443897,
-			"width": 16,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1078516672,
-			"version": 21,
-			"versionNonce": 688403392,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3,
-					0
-				],
-				[
-					6,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					14,
-					0
-				],
-				[
-					16,
-					0
-				],
-				[
-					16,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				0
-			]
-		},
-		{
-			"id": "mhvuxxVXwpN3fkwTdv9dD",
-			"type": "freedraw",
-			"x": 327.2598385072713,
-			"y": 5091.524130443897,
-			"width": 48,
-			"height": 69,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1729208384,
-			"version": 50,
-			"versionNonce": 1905649728,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					2,
-					-6
-				],
-				[
-					6,
-					-10
-				],
-				[
-					9,
-					-13
-				],
-				[
-					13,
-					-15
-				],
-				[
-					17,
-					-15
-				],
-				[
-					20,
-					-13
-				],
-				[
-					23,
-					-10
-				],
-				[
-					26,
-					-4
-				],
-				[
-					27,
-					3
-				],
-				[
-					27,
-					12
-				],
-				[
-					27,
-					21
-				],
-				[
-					26,
-					25
-				],
-				[
-					25,
-					27
-				],
-				[
-					24,
-					27
-				],
-				[
-					25,
-					27
-				],
-				[
-					25,
-					28
-				],
-				[
-					26,
-					29
-				],
-				[
-					26,
-					32
-				],
-				[
-					27,
-					35
-				],
-				[
-					28,
-					39
-				],
-				[
-					28,
-					42
-				],
-				[
-					28,
-					45
-				],
-				[
-					28,
-					47
-				],
-				[
-					28,
-					49
-				],
-				[
-					28,
-					51
-				],
-				[
-					27,
-					53
-				],
-				[
-					25,
-					53
-				],
-				[
-					22,
-					54
-				],
-				[
-					16,
-					54
-				],
-				[
-					8,
-					54
-				],
-				[
-					-1,
-					53
-				],
-				[
-					-10,
-					53
-				],
-				[
-					-16,
-					53
-				],
-				[
-					-19,
-					52
-				],
-				[
-					-20,
-					52
-				],
-				[
-					-20,
-					52
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-20,
-				52
-			]
-		},
-		{
-			"id": "KKL8FuwIELGqdDkQT3F-C",
-			"type": "freedraw",
-			"x": 349.2598385072713,
-			"y": 5112.524130443897,
-			"width": 18,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 894540736,
-			"version": 27,
-			"versionNonce": 155958208,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1,
-					0
-				],
-				[
-					-2,
-					0
-				],
-				[
-					-3,
-					0
-				],
-				[
-					-5,
-					0
-				],
-				[
-					-6,
-					0
-				],
-				[
-					-8,
-					-1
-				],
-				[
-					-10,
-					-1
-				],
-				[
-					-11,
-					-1
-				],
-				[
-					-13,
-					-1
-				],
-				[
-					-14,
-					-1
-				],
-				[
-					-15,
-					-1
-				],
-				[
-					-16,
-					-1
-				],
-				[
-					-17,
-					-1
-				],
-				[
-					-18,
-					-1
-				],
-				[
-					-18,
-					-1
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-18,
-				-1
-			]
-		},
-		{
-			"id": "PO_OcnFhEoDb3-NVy_yrk",
-			"type": "freedraw",
-			"x": -497.7401614927288,
-			"y": 5448.524130443897,
-			"width": 50,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2017384512,
-			"version": 20,
-			"versionNonce": 1387256768,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					-1
-				],
-				[
-					10,
-					-3
-				],
-				[
-					20,
-					-4
-				],
-				[
-					29,
-					-5
-				],
-				[
-					39,
-					-6
-				],
-				[
-					46,
-					-6
-				],
-				[
-					50,
-					-6
-				],
-				[
-					50,
-					-6
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				50,
-				-6
-			]
-		},
-		{
-			"id": "X8egrqsGzfXmeMtiiHljw",
-			"type": "freedraw",
-			"x": -308.7401614927287,
-			"y": 4704.524130443897,
-			"width": 17,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1526662080,
-			"version": 29,
-			"versionNonce": 576493632,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150081,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					1
-				],
-				[
-					3,
-					3
-				],
-				[
-					4,
-					4
-				],
-				[
-					6,
-					5
-				],
-				[
-					7,
-					7
-				],
-				[
-					8,
-					8
-				],
-				[
-					9,
-					9
-				],
-				[
-					10,
-					10
-				],
-				[
-					11,
-					10
-				],
-				[
-					12,
-					10
-				],
-				[
-					14,
-					9
-				],
-				[
-					15,
-					7
-				],
-				[
-					15,
-					5
-				],
-				[
-					16,
-					2
-				],
-				[
-					17,
-					0
-				],
-				[
-					17,
-					-1
-				],
-				[
-					17,
-					-2
-				],
-				[
-					17,
-					-2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				17,
-				-2
-			]
-		},
-		{
-			"id": "yuq5wxxwH9KC6dC7vKFgi",
-			"type": "freedraw",
-			"x": -656.7401614927288,
-			"y": 5663.524130443897,
-			"width": 46,
-			"height": 54,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 701673536,
-			"version": 44,
-			"versionNonce": 1144352832,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					9,
-					-2
-				],
-				[
-					12,
-					-2
-				],
-				[
-					20,
-					-4
-				],
-				[
-					28,
-					-6
-				],
-				[
-					36,
-					-8
-				],
-				[
-					41,
-					-9
-				],
-				[
-					43,
-					-10
-				],
-				[
-					42,
-					-12
-				],
-				[
-					41,
-					-13
-				],
-				[
-					39,
-					-13
-				],
-				[
-					38,
-					-13
-				],
-				[
-					36,
-					-12
-				],
-				[
-					34,
-					-9
-				],
-				[
-					34,
-					-6
-				],
-				[
-					33,
-					1
-				],
-				[
-					33,
-					9
-				],
-				[
-					33,
-					17
-				],
-				[
-					32,
-					23
-				],
-				[
-					27,
-					33
-				],
-				[
-					21,
-					38
-				],
-				[
-					16,
-					40
-				],
-				[
-					15,
-					41
-				],
-				[
-					14,
-					41
-				],
-				[
-					13,
-					41
-				],
-				[
-					14,
-					41
-				],
-				[
-					17,
-					40
-				],
-				[
-					22,
-					38
-				],
-				[
-					28,
-					37
-				],
-				[
-					35,
-					37
-				],
-				[
-					40,
-					37
-				],
-				[
-					44,
-					37
-				],
-				[
-					46,
-					37
-				],
-				[
-					46,
-					37
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				46,
-				37
-			]
-		},
-		{
-			"id": "B3bUAEZydLem1keAj975j",
-			"type": "freedraw",
-			"x": -587.7401614927288,
-			"y": 5700.524130443897,
-			"width": 6,
-			"height": 42,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1254491072,
-			"version": 19,
-			"versionNonce": 1481159616,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					5
-				],
-				[
-					1,
-					9
-				],
-				[
-					1,
-					11
-				],
-				[
-					2,
-					16
-				],
-				[
-					3,
-					24
-				],
-				[
-					4,
-					30
-				],
-				[
-					5,
-					36
-				],
-				[
-					6,
-					40
-				],
-				[
-					6,
-					41
-				],
-				[
-					6,
-					42
-				],
-				[
-					6,
-					42
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				6,
-				42
-			]
-		},
-		{
-			"id": "hu73p3_J8BzhbOc1D1ibv",
-			"type": "freedraw",
-			"x": -632.7401614927288,
-			"y": 5787.524130443897,
-			"width": 37,
-			"height": 55,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1892920256,
-			"version": 38,
-			"versionNonce": 882731072,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					2,
-					-2
-				],
-				[
-					7,
-					-4
-				],
-				[
-					13,
-					-4
-				],
-				[
-					20,
-					-3
-				],
-				[
-					29,
-					-1
-				],
-				[
-					34,
-					0
-				],
-				[
-					37,
-					0
-				],
-				[
-					36,
-					1
-				],
-				[
-					36,
-					5
-				],
-				[
-					35,
-					11
-				],
-				[
-					34,
-					19
-				],
-				[
-					33,
-					30
-				],
-				[
-					31,
-					41
-				],
-				[
-					30,
-					48
-				],
-				[
-					27,
-					51
-				],
-				[
-					23,
-					51
-				],
-				[
-					18,
-					49
-				],
-				[
-					14,
-					47
-				],
-				[
-					10,
-					45
-				],
-				[
-					9,
-					44
-				],
-				[
-					9,
-					42
-				],
-				[
-					12,
-					41
-				],
-				[
-					16,
-					40
-				],
-				[
-					21,
-					40
-				],
-				[
-					24,
-					40
-				],
-				[
-					27,
-					40
-				],
-				[
-					29,
-					40
-				],
-				[
-					29,
-					41
-				],
-				[
-					29,
-					41
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				29,
-				41
-			]
-		},
-		{
-			"id": "_7-Roo4b2B0fa1f3ES-Gs",
-			"type": "freedraw",
-			"x": -606.7401614927288,
-			"y": 5784.524130443897,
-			"width": 24,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1579428800,
-			"version": 20,
-			"versionNonce": 2088516544,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					0
-				],
-				[
-					3,
-					0
-				],
-				[
-					6,
-					0
-				],
-				[
-					9,
-					0
-				],
-				[
-					13,
-					1
-				],
-				[
-					17,
-					1
-				],
-				[
-					21,
-					1
-				],
-				[
-					22,
-					1
-				],
-				[
-					23,
-					1
-				],
-				[
-					24,
-					1
-				],
-				[
-					24,
-					1
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24,
-				1
-			]
-		},
-		{
-			"id": "_A4adkZp3E-sCLLLTFIUM",
-			"type": "freedraw",
-			"x": -611.7401614927288,
-			"y": 5827.524130443897,
-			"width": 34,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1014948800,
-			"version": 23,
-			"versionNonce": 1162240064,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					-1
-				],
-				[
-					5,
-					-1
-				],
-				[
-					8,
-					-2
-				],
-				[
-					12,
-					-2
-				],
-				[
-					15,
-					-2
-				],
-				[
-					19,
-					-2
-				],
-				[
-					24,
-					-3
-				],
-				[
-					26,
-					-3
-				],
-				[
-					29,
-					-3
-				],
-				[
-					30,
-					-3
-				],
-				[
-					32,
-					-3
-				],
-				[
-					33,
-					-4
-				],
-				[
-					34,
-					-4
-				],
-				[
-					34,
-					-4
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				34,
-				-4
-			]
-		},
-		{
-			"id": "ibv5tousgoLKGoq4V9YB1",
-			"type": "freedraw",
-			"x": -555.7401614927288,
-			"y": 5822.524130443897,
-			"width": 0,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1177942080,
-			"version": 16,
-			"versionNonce": 1627308992,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					4
-				],
-				[
-					0,
-					5
-				],
-				[
-					0,
-					9
-				],
-				[
-					0,
-					12
-				],
-				[
-					0,
-					16
-				],
-				[
-					0,
-					19
-				],
-				[
-					0,
-					20
-				],
-				[
-					0,
-					20
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				20
-			]
-		},
-		{
-			"id": "NCpg1clOhE2-4aW3TzQhE",
-			"type": "freedraw",
-			"x": -532.7401614927288,
-			"y": 5796.524130443897,
-			"width": 24,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1949487168,
-			"version": 17,
-			"versionNonce": 1175476288,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					0
-				],
-				[
-					5,
-					0
-				],
-				[
-					11,
-					0
-				],
-				[
-					16,
-					0
-				],
-				[
-					20,
-					0
-				],
-				[
-					23,
-					0
-				],
-				[
-					24,
-					0
-				],
-				[
-					24,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24,
-				0
-			]
-		},
-		{
-			"id": "AQMeRaMQrxGfJfrjcUh4b",
-			"type": "freedraw",
-			"x": -526.7401614927288,
-			"y": 5811.524130443897,
-			"width": 16,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1900346304,
-			"version": 17,
-			"versionNonce": 602950592,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					0
-				],
-				[
-					5,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					11,
-					-1
-				],
-				[
-					14,
-					-2
-				],
-				[
-					15,
-					-2
-				],
-				[
-					16,
-					-3
-				],
-				[
-					16,
-					-3
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				-3
-			]
-		},
-		{
-			"id": "G6YEAESLRjW4mHRxDed7z",
-			"type": "freedraw",
-			"x": -477.7401614927288,
-			"y": 5767.524130443897,
-			"width": 40,
-			"height": 43,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1058895936,
-			"version": 36,
-			"versionNonce": 182145088,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					10,
-					1
-				],
-				[
-					16,
-					1
-				],
-				[
-					22,
-					1
-				],
-				[
-					25,
-					1
-				],
-				[
-					25,
-					3
-				],
-				[
-					24,
-					9
-				],
-				[
-					23,
-					15
-				],
-				[
-					22,
-					20
-				],
-				[
-					22,
-					25
-				],
-				[
-					22,
-					28
-				],
-				[
-					22,
-					31
-				],
-				[
-					22,
-					34
-				],
-				[
-					22,
-					39
-				],
-				[
-					20,
-					42
-				],
-				[
-					18,
-					43
-				],
-				[
-					16,
-					43
-				],
-				[
-					15,
-					43
-				],
-				[
-					14,
-					43
-				],
-				[
-					15,
-					42
-				],
-				[
-					19,
-					40
-				],
-				[
-					25,
-					39
-				],
-				[
-					30,
-					38
-				],
-				[
-					34,
-					38
-				],
-				[
-					36,
-					38
-				],
-				[
-					38,
-					39
-				],
-				[
-					40,
-					39
-				],
-				[
-					40,
-					39
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				40,
-				39
-			]
-		},
-		{
-			"id": "Ofs6KMOdmuM_wdAWKrSYA",
-			"type": "freedraw",
-			"x": -424.7401614927288,
-			"y": 5800.524130443897,
-			"width": 26,
-			"height": 29,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 575602752,
-			"version": 39,
-			"versionNonce": 527487936,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					1,
-					-1
-				],
-				[
-					2,
-					-2
-				],
-				[
-					4,
-					-5
-				],
-				[
-					6,
-					-6
-				],
-				[
-					9,
-					-8
-				],
-				[
-					11,
-					-8
-				],
-				[
-					13,
-					-8
-				],
-				[
-					15,
-					-7
-				],
-				[
-					15,
-					-4
-				],
-				[
-					16,
-					0
-				],
-				[
-					16,
-					6
-				],
-				[
-					14,
-					13
-				],
-				[
-					12,
-					18
-				],
-				[
-					11,
-					20
-				],
-				[
-					9,
-					21
-				],
-				[
-					8,
-					20
-				],
-				[
-					7,
-					20
-				],
-				[
-					7,
-					19
-				],
-				[
-					7,
-					18
-				],
-				[
-					8,
-					16
-				],
-				[
-					11,
-					15
-				],
-				[
-					13,
-					15
-				],
-				[
-					14,
-					15
-				],
-				[
-					17,
-					17
-				],
-				[
-					19,
-					19
-				],
-				[
-					21,
-					20
-				],
-				[
-					23,
-					20
-				],
-				[
-					25,
-					20
-				],
-				[
-					26,
-					19
-				],
-				[
-					26,
-					19
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26,
-				19
-			]
-		},
-		{
-			"id": "MyP5f_QY8tsYEeKLqyN9N",
-			"type": "freedraw",
-			"x": -367.7401614927288,
-			"y": 5779.524130443897,
-			"width": 23,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1471194048,
-			"version": 17,
-			"versionNonce": 1804027968,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					4,
-					1
-				],
-				[
-					9,
-					2
-				],
-				[
-					14,
-					3
-				],
-				[
-					19,
-					3
-				],
-				[
-					22,
-					3
-				],
-				[
-					23,
-					3
-				],
-				[
-					23,
-					2
-				],
-				[
-					23,
-					2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23,
-				2
-			]
-		},
-		{
-			"id": "P6ALws5EC3HzVlxQ-e8_j",
-			"type": "freedraw",
-			"x": -352.7401614927288,
-			"y": 5764.524130443897,
-			"width": 4,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2144948288,
-			"version": 20,
-			"versionNonce": 1772116928,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1,
-					4
-				],
-				[
-					-2,
-					5
-				],
-				[
-					-2,
-					6
-				],
-				[
-					-3,
-					12
-				],
-				[
-					-3,
-					19
-				],
-				[
-					-3,
-					26
-				],
-				[
-					-3,
-					30
-				],
-				[
-					-3,
-					33
-				],
-				[
-					-3,
-					34
-				],
-				[
-					-3,
-					35
-				],
-				[
-					-4,
-					35
-				],
-				[
-					-4,
-					35
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4,
-				35
-			]
-		},
-		{
-			"id": "OvXe1DmN0ifSxIekIOoVY",
-			"type": "line",
-			"x": -641.7401614927288,
-			"y": 5737.524130443897,
-			"width": 37,
-			"height": 28,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 556981184,
-			"version": 34,
-			"versionNonce": 1140080704,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					37,
-					28
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"id": "12B68co2UZLJ5Dd38RjZo",
-			"type": "freedraw",
-			"x": -400.7401614927288,
-			"y": 5722.524130443897,
-			"width": 38,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 532488256,
-			"version": 37,
-			"versionNonce": 213000256,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					-1
-				],
-				[
-					9,
-					-1
-				],
-				[
-					17,
-					1
-				],
-				[
-					23,
-					4
-				],
-				[
-					28,
-					6
-				],
-				[
-					29,
-					8
-				],
-				[
-					29,
-					10
-				],
-				[
-					29,
-					13
-				],
-				[
-					26,
-					17
-				],
-				[
-					24,
-					19
-				],
-				[
-					23,
-					20
-				],
-				[
-					23,
-					21
-				],
-				[
-					23,
-					22
-				],
-				[
-					25,
-					24
-				],
-				[
-					28,
-					26
-				],
-				[
-					31,
-					28
-				],
-				[
-					34,
-					30
-				],
-				[
-					36,
-					31
-				],
-				[
-					38,
-					33
-				],
-				[
-					38,
-					34
-				],
-				[
-					38,
-					35
-				],
-				[
-					37,
-					39
-				],
-				[
-					34,
-					42
-				],
-				[
-					31,
-					46
-				],
-				[
-					26,
-					48
-				],
-				[
-					21,
-					49
-				],
-				[
-					17,
-					49
-				],
-				[
-					14,
-					48
-				],
-				[
-					14,
-					48
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14,
-				48
-			]
-		},
-		{
-			"id": "gct94VMc1Gk-4nakUVDua",
-			"type": "freedraw",
-			"x": -646.7401614927288,
-			"y": 5879.524130443897,
-			"width": 37,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 6030272,
-			"version": 15,
-			"versionNonce": 496696256,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851143339,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					1,
-					1
-				],
-				[
-					3,
-					2
-				],
-				[
-					6,
-					3
-				],
-				[
-					11,
-					3
-				],
-				[
-					20,
-					3
-				],
-				[
-					28,
-					3
-				],
-				[
-					33,
-					2
-				],
-				[
-					36,
-					2
-				],
-				[
-					37,
-					2
-				],
-				[
-					37,
-					2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				37,
-				2
-			]
-		},
-		{
-			"id": "gi-wtQwNuWLV2xZ-kGLY6",
-			"type": "freedraw",
-			"x": -622.7401614927288,
-			"y": 5880.524130443897,
-			"width": 38,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 512223296,
-			"version": 26,
-			"versionNonce": 810191808,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851142807,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					-1,
-					3
-				],
-				[
-					-1,
-					7
-				],
-				[
-					-1,
-					12
-				],
-				[
-					-2,
-					18
-				],
-				[
-					-3,
-					25
-				],
-				[
-					-4,
-					28
-				],
-				[
-					-5,
-					29
-				],
-				[
-					-5,
-					30
-				],
-				[
-					-6,
-					31
-				],
-				[
-					-10,
-					33
-				],
-				[
-					-15,
-					34
-				],
-				[
-					-19,
-					35
-				],
-				[
-					-18,
-					35
-				],
-				[
-					-16,
-					35
-				],
-				[
-					-11,
-					34
-				],
-				[
-					-3,
-					33
-				],
-				[
-					7,
-					31
-				],
-				[
-					13,
-					31
-				],
-				[
-					17,
-					31
-				],
-				[
-					18,
-					31
-				],
-				[
-					19,
-					31
-				],
-				[
-					19,
-					31
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				31
-			]
-		},
-		{
-			"id": "SOKAa2tPQIG3tLiuH1i2g",
-			"type": "freedraw",
-			"x": -650.7401614927288,
-			"y": 5899.524130443897,
-			"width": 29,
-			"height": 56,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1517527104,
-			"version": 29,
-			"versionNonce": 925621184,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851149071,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					0,
-					-3
-				],
-				[
-					1,
-					-8
-				],
-				[
-					3,
-					-14
-				],
-				[
-					6,
-					-20
-				],
-				[
-					9,
-					-24
-				],
-				[
-					14,
-					-27
-				],
-				[
-					20,
-					-28
-				],
-				[
-					23,
-					-28
-				],
-				[
-					26,
-					-26
-				],
-				[
-					28,
-					-19
-				],
-				[
-					29,
-					-11
-				],
-				[
-					29,
-					-3
-				],
-				[
-					29,
-					4
-				],
-				[
-					29,
-					11
-				],
-				[
-					28,
-					17
-				],
-				[
-					25,
-					22
-				],
-				[
-					23,
-					25
-				],
-				[
-					21,
-					27
-				],
-				[
-					19,
-					28
-				],
-				[
-					17,
-					28
-				],
-				[
-					17,
-					27
-				],
-				[
-					16,
-					26
-				],
-				[
-					16,
-					25
-				],
-				[
-					16,
-					24
-				],
-				[
-					16,
-					24
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				24
-			]
-		},
-		{
-			"id": "n3rVdcZk-wV92Uq_pT96M",
-			"type": "freedraw",
-			"x": -637.7401614927288,
-			"y": 5909.524130443897,
-			"width": 27,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 115392576,
-			"version": 24,
-			"versionNonce": 1612052544,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851150082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					1,
-					-5
-				],
-				[
-					2,
-					-13
-				],
-				[
-					4,
-					-20
-				],
-				[
-					5,
-					-26
-				],
-				[
-					7,
-					-31
-				],
-				[
-					9,
-					-35
-				],
-				[
-					13,
-					-37
-				],
-				[
-					17,
-					-38
-				],
-				[
-					19,
-					-38
-				],
-				[
-					20,
-					-38
-				],
-				[
-					22,
-					-36
-				],
-				[
-					24,
-					-32
-				],
-				[
-					25,
-					-27
-				],
-				[
-					27,
-					-18
-				],
-				[
-					27,
-					-14
-				],
-				[
-					27,
-					-9
-				],
-				[
-					27,
-					-7
-				],
-				[
-					27,
-					-6
-				],
-				[
-					26,
-					-6
-				],
-				[
-					26,
-					-6
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26,
-				-6
-			]
-		},
-		{
-			"id": "U9T3yK8B7iSnsAVr0cZln",
-			"type": "text",
-			"x": -504.3856373867029,
-			"y": 6148.982584083254,
-			"width": 19,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 426098752,
-			"version": 6,
-			"versionNonce": 240088000,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1674851197907,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 36,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 32,
-			"containerId": null,
-			"originalText": ""
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#c92a2a",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
