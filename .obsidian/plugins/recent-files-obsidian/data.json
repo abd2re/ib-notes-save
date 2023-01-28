@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Pasted Image 20230128135153_127",
+      "path": "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128135153_127.png"
+    },
+    {
       "basename": "Drawing 2023-01-28 11.09.58.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md"
     },
@@ -9,24 +29,12 @@
       "path": "Loi de Coulomb.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Drawing 2023-01-27 22.18.19.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
     },
     {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
       "basename": "Drawing 2023-01-27 22.18.13.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
     },
     {
       "basename": "Champ de gravitation",
@@ -191,14 +199,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Revenu total des entreprises",
-      "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Elasticités de l'offre",
-      "path": "Elasticités de l'offre.md"
     }
   ],
   "omittedPaths": [],

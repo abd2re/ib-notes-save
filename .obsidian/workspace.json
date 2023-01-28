@@ -22,21 +22,23 @@
             }
           },
           {
-            "id": "0e9349c0510592c2",
+            "id": "07b3d9326750222f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md"
+                "file": "Piles électriques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md",
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md",
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md"
+                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
           },
@@ -231,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e9349c0510592c2",
+  "active": "cc2d1015a8bca08b",
   "lastOpenFiles": [
-    "Loi de Coulomb.md",
-    "_physics.md",
-    "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128194407_174.png",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128163629_835.png",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128142455_121.png",
+    "Piles électriques.md",
     "Résistance électrique.md",
-    "Champ de gravitation.md",
-    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127213335_349.png",
-    "assets/Pasted Image 20230127202759_875.png",
-    "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230127213335_349.png",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128141919_254.png",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230127220422_420.png",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128135153_127.png"
   ]
 }

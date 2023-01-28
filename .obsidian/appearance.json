@@ -1,6 +1,6 @@
 {
   "cssTheme": "Molecule",
   "baseFontSize": 21,
-  "theme": "moonstone",
-  "accentColor": ""
+  "theme": "obsidian",
+  "accentColor": "#41d72d"
 }
