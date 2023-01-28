@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+      "basename": "Drawing 2023-01-28 21.16.09.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md"
     },
     {
       "basename": "Piles électriques",
       "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Résistance électrique",
@@ -195,10 +199,6 @@
     {
       "basename": "Vitesses",
       "path": "Vitesses.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     }
   ],
   "omittedPaths": [],

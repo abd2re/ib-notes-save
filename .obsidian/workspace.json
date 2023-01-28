@@ -29,16 +29,14 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Piles électriques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+                "file": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md"
               }
             }
           },
@@ -234,17 +232,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d1015a8bca08b",
+  "active": "07b3d9326750222f",
   "lastOpenFiles": [
-    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128194407_174.png",
+    "Excalidraw/assets/Drawing 2023-01-28 21.16.09.excalidraw/Pasted Image 20230128211619_597.png",
+    "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md",
+    "Piles électriques.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128194407_174.png",
     "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128163629_835.png",
     "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128142455_121.png",
-    "Piles électriques.md",
     "Résistance électrique.md",
     "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230127213335_349.png",
-    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128141919_254.png",
-    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230127220422_420.png",
-    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128135153_127.png"
+    "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128141919_254.png"
   ]
 }
