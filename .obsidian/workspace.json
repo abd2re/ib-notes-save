@@ -29,9 +29,12 @@
               "stack": []
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
+                "file": "Loi de Coulomb.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
+                "file": "Loi de Coulomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
+                "file": "Loi de Coulomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
+                "file": "Loi de Coulomb.md"
               }
             }
           },
@@ -233,15 +236,15 @@
   },
   "active": "0e9349c0510592c2",
   "lastOpenFiles": [
+    "_physics.md",
+    "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md",
     "Résistance électrique.md",
-    "_physics.md",
     "Champ de gravitation.md",
     "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127213335_349.png",
     "assets/Pasted Image 20230127202759_875.png",
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png",
-    "rv_exos/physics/theme 5/assets/Circuits & Kirchoff's Laws/Pasted Image 20230127202705_514.png"
+    "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png"
   ]
 }
