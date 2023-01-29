@@ -20,23 +20,8 @@
                 "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
-          },
-          {
-            "id": "07b3d9326750222f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,8 +217,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b3d9326750222f",
+  "active": "cc2d1015a8bca08b",
   "lastOpenFiles": [
+    "assets/Pasted Image 20230127202759_875.png",
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
     "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md",
     "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md",
@@ -241,8 +228,6 @@
     "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md",
     "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md",
     "Piles électriques.md",
-    "Excalidraw/assets/Drawing 2023-01-28 21.16.09.excalidraw/Pasted Image 20230128221512_179.png",
-    "Excalidraw/assets/Drawing 2023-01-28 21.16.09.excalidraw/Pasted Image 20230128211619_597.png",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    "Excalidraw/assets/Drawing 2023-01-28 21.16.09.excalidraw/Pasted Image 20230128221512_179.png"
   ]
 }

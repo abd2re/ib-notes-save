@@ -5,6 +5,10 @@
       "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
+      "basename": "Pasted Image 20230127202759_875",
+      "path": "assets/Pasted Image 20230127202759_875.png"
+    },
+    {
       "basename": "Drawing 2023-01-27 20.51.04.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Vitesses",
-      "path": "Vitesses.md"
     }
   ],
   "omittedPaths": [],
