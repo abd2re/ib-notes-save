@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d1015a8bca08b",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
     "assets/Pasted Image 20230127202759_875.png",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
