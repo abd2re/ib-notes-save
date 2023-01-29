@@ -25,7 +25,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 <!--SR:!2023-02-07,34,230-->
 
 - Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
-<!--SR:!2023-01-29,3,263-->
+<!--SR:!2023-02-08,10,263-->
 
 <!--SR:!2023-02-11,17,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
@@ -35,7 +35,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
 <!--SR:!2023-02-04,33,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
-<!--SR:!2023-01-29,29,241-->
+<!--SR:!2023-04-09,70,241-->
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?
@@ -53,7 +53,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
 
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
-<!--SR:!2023-01-29,3,263-->
+<!--SR:!2023-02-08,10,263-->
 
 <!--SR:!2023-03-31,65,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
@@ -74,7 +74,7 @@ $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2023-01-29,3,263-->
+<!--SR:!2023-02-06,8,263-->
 
 <!--SR:!2023-02-03,9,198-->
 
