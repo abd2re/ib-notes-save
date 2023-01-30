@@ -9,7 +9,7 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 <!--SR:!2023-03-07,37,190-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
-<!--SR:!2023-01-29,3,266-->
+<!--SR:!2023-02-11,13,286-->
 
 <!--SR:!2023-02-27,33,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
@@ -51,7 +51,7 @@ formule emf::$$e=(r+R)I$$
 ?
 Un récepteur (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet joule.
 Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne. 
-<!--SR:!2023-01-29,13,240-->
+<!--SR:!2023-03-01,31,240-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2023-02-01,15,240-->
