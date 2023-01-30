@@ -20,8 +20,26 @@
                 "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
               }
             }
+          },
+          {
+            "id": "a9488413f8b21a2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loi des gaz parfait.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Loi des gaz parfait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Loi des gaz parfait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+                "file": "Loi des gaz parfait.md"
               }
             }
           },
@@ -217,8 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d1015a8bca08b",
+  "active": "a9488413f8b21a2a",
   "lastOpenFiles": [
+    "_physics.md",
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
     "Excalidraw/Drawing 2023-01-29 20.31.53.excalidraw.md",
     "__dashboard.md",
@@ -226,8 +246,6 @@
     "exercices info 2.md",
     "_economy.md",
     "Excalidraw/assets/Drawing 2023-01-29 20.31.53.excalidraw/Pasted Image 20230129210823_164.png",
-    "Excalidraw/assets/Drawing 2023-01-29 20.31.53.excalidraw/Pasted Image 20230129203159_712.png",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "assets/Pasted Image 20230127202759_875.png"
+    "Excalidraw/assets/Drawing 2023-01-29 20.31.53.excalidraw/Pasted Image 20230129203159_712.png"
   ]
 }
