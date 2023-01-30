@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Drawing 2023-01-29 20.31.53.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-29 20.31.53.excalidraw.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "math",
       "path": "Excalidraw/math.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Drawing 2023-01-26 11.40.46.excalidraw",
@@ -191,10 +195,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "_CAS",
