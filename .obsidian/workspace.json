@@ -232,8 +232,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "a9488413f8b21a2a",
   "lastOpenFiles": [
+    "rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130183121_058.png",
+    "rv_exos/math/theme 1/Sequences & Series.md",
     "rv_exos/math/theme 1/Sequences & Series/Drawing 2023-01-30 18.18.14.excalidraw.md",
     "Loi des gaz parfait.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
@@ -241,8 +243,6 @@
     "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md",
     "Excalidraw/Drawing 2023-01-29 20.31.53.excalidraw.md",
     "__dashboard.md",
-    "_computer science.md",
-    "exercices info 2.md",
-    "_economy.md"
+    "_computer science.md"
   ]
 }
