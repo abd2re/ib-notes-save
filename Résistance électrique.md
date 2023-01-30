@@ -15,12 +15,12 @@ $$R=\frac{\rho l}{A}$$
 - $\rho$ est la résistivité du matériau en ohm-metre
 - $l$ est la longueur du fil
 - $A$ est la surface du fil
-<!--SR:!2023-01-27,28,230-->
+<!--SR:!2023-04-05,66,230-->
 
 ## Loi d'Ohm et conducteur ohmique
 
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
-<!--SR:!2023-01-28,28,230-->
+<!--SR:!2023-04-03,64,230-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
 <!--SR:!2023-02-07,34,230-->
 

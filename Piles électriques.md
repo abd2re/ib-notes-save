@@ -6,7 +6,7 @@ Created: 2022-12-20
 # Piles électriques
 ?
 Une pile convertit l'énergie chimique en énergie électrique avec dissipation/perte d'énergie sous forme de chaleur.
-<!--SR:!2023-01-25,18,190-->
+<!--SR:!2023-03-07,37,190-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2023-01-29,3,266-->
@@ -22,7 +22,7 @@ $$U=e-rI$$- $U$ = tension dans la puissance électrique
 - $r$ = résistance interne 
 - $I$ = intensité
 - ![[Piles électriques-6.png]]
-<!--SR:!2023-01-21,16,226-->
+<!--SR:!2023-03-14,44,226-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
 <!--SR:!2023-02-14,34,246-->
@@ -63,7 +63,7 @@ Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement)
 ?
 ![[image-20230109163848957.png]]
 $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
-<!--SR:!2023-01-27,12,240-->
+<!--SR:!2023-02-28,30,240-->
 
 ## Circuit avec des nœuds comportant des générateurs
 
