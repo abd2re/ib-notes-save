@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sequences & Series",
+      "path": "rv_exos/math/theme 1/Sequences & Series.md"
+    },
+    {
       "basename": "Loi des gaz parfait",
       "path": "Loi des gaz parfait.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Perspective",
       "path": "Perspective.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     }
   ],
   "omittedPaths": [],
