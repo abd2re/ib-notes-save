@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Représentation de données",
+      "path": "Représentation de données.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
       "basename": "Sequences & Series",
       "path": "rv_exos/math/theme 1/Sequences & Series.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Loi des gaz parfait",
       "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "_physics",
@@ -31,10 +39,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Pasted Image 20230127202759_875",
@@ -195,10 +199,6 @@
     {
       "basename": "Natural Sciences",
       "path": "Natural Sciences.md"
-    },
-    {
-      "basename": "Scope",
-      "path": "Scope.md"
     }
   ],
   "omittedPaths": [],
