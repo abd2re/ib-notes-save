@@ -48,9 +48,26 @@
                 "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "91e1081908a607d2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -245,17 +262,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fabfa66470c9cceb",
+  "active": "91e1081908a607d2",
   "lastOpenFiles": [
-    "Excalidraw/assets/Drawing 2023-02-01 09.48.00.excalidraw/Pasted Image 20230201094825_328.png",
     "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+    "_physics.md",
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "Excalidraw/assets/Drawing 2023-02-01 09.48.00.excalidraw/Pasted Image 20230201094825_328.png",
     "_computer science.md",
     "Représentation de données.md",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "rv_exos/math/theme 1/Sequences & Series.md",
     "Excalidraw/Drawing 2023-01-30 18.54.53.excalidraw.md",
     "rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130183121_058.png",
-    "rv_exos/math/theme 1/Sequences & Series/Drawing 2023-01-30 18.18.14.excalidraw.md",
-    "Loi des gaz parfait.md"
+    "rv_exos/math/theme 1/Sequences & Series/Drawing 2023-01-30 18.18.14.excalidraw.md"
   ]
 }

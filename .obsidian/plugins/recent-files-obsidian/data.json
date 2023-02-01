@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Drawing 2023-02-01 09.48.00.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "_computer science",
@@ -11,10 +19,6 @@
     {
       "basename": "Représentation de données",
       "path": "Représentation de données.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Sequences & Series",
@@ -27,10 +31,6 @@
     {
       "basename": "Loi des gaz parfait",
       "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Drawing 2023-01-27 20.51.04.excalidraw",
