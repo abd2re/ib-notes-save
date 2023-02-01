@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie discrete",
+      "path": "Energie discrete.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "Acceleration",
-      "path": "Acceleration.md"
     }
   ],
   "omittedPaths": [],
