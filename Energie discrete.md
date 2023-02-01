@@ -16,3 +16,8 @@ Les rares impacts sont des particules $\alpha$ qui ont heurté un noyau ou se so
 
 D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant Z protons autour duquel tourne Z électrons. Entre les électrons et le noyau il y a le vide.
 
+Inconvenient du modèle de Ruthford:
+?
+Toute particule électrisée animée de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tomber sur le noyau. 
+
+- Composition du noyau:: Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse Le nombre de proton d'un noyau est note Z on l'appelle numéro atomique ou nombre de charges.

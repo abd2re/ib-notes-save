@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/__dashboard",
+  "attachmentFolderPath": "./assets/Energie discrete",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false
 }

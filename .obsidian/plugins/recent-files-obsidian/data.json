@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie discrete",
+      "path": "Energie discrete.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Energie discrete",
-      "path": "Energie discrete.md"
     },
     {
       "basename": "_physics",
