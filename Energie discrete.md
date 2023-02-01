@@ -9,5 +9,4 @@ Created: 2023-02-01
 ![[image-20230201135413248.png|475]]
 Interprétation:
 ![[image-20230201135833164.png|450]]
-
-
+Pour expliquer le fait que la maj
