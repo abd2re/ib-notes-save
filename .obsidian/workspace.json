@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc2d1015a8bca08b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
-              }
-            }
-          },
-          {
-            "id": "a9488413f8b21a2a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "rv_exos/math/theme 1/Sequences & Series.md"
-              }
-            }
-          },
-          {
-            "id": "fabfa66470c9cceb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "91e1081908a607d2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -66,8 +24,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,15 +221,15 @@
   },
   "active": "91e1081908a607d2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+    "Champ de gravitation.md",
     "_physics.md",
+    "Loi de gravitation de Newton.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "rv_exos/math/theme 1/Sequences & Series.md",
+    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-02-01 09.48.00.excalidraw/Pasted Image 20230201094825_328.png",
     "_computer science.md",
-    "Représentation de données.md",
-    "rv_exos/math/theme 1/Sequences & Series.md",
-    "Excalidraw/Drawing 2023-01-30 18.54.53.excalidraw.md",
-    "rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130183121_058.png",
-    "rv_exos/math/theme 1/Sequences & Series/Drawing 2023-01-30 18.18.14.excalidraw.md"
+    "Représentation de données.md"
   ]
 }

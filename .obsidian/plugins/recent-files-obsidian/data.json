@@ -5,12 +5,28 @@
       "path": "_physics.md"
     },
     {
-      "basename": "Drawing 2023-02-01 09.48.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "Sequences & Series",
+      "path": "rv_exos/math/theme 1/Sequences & Series.md"
+    },
+    {
+      "basename": "Drawing 2023-02-01 13.43.06.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-01 09.48.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
     },
     {
       "basename": "_computer science",
@@ -19,10 +35,6 @@
     {
       "basename": "Représentation de données",
       "path": "Représentation de données.md"
-    },
-    {
-      "basename": "Sequences & Series",
-      "path": "rv_exos/math/theme 1/Sequences & Series.md"
     },
     {
       "basename": "Drawing 2023-01-30 18.54.53.excalidraw",
@@ -83,10 +95,6 @@
     {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
     },
     {
       "basename": "Pasted Image 20230127205144_692",
@@ -191,14 +199,6 @@
     {
       "basename": "Acceleration",
       "path": "Acceleration.md"
-    },
-    {
-      "basename": "Drawing 2023-01-25 09.28.40.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-25 09.28.40.excalidraw.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     }
   ],
   "omittedPaths": [],
