@@ -38,11 +38,11 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2023-02-12,33,246-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
-<!--SR:!2023-01-30,25,246-->
+<!--SR:!2023-04-04,63,246-->
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2023-01-31,22,226-->
+<!--SR:!2023-03-22,50,226-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors
@@ -56,7 +56,7 @@ Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) e
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2023-02-01,15,240-->
 - Une pile branchée en opposition se comporte comme:: un récepteur
-<!--SR:!2023-01-30,14,240-->
+<!--SR:!2023-03-11,39,240-->
 
 
 Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement):
@@ -88,7 +88,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2023-01-31,13,240-->
+<!--SR:!2023-03-02,30,240-->
 
 
 
