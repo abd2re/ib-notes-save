@@ -43,12 +43,9 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "_computer science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
               }
             }
           }
@@ -159,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
               }
             }
           },
@@ -250,15 +247,15 @@
   },
   "active": "fabfa66470c9cceb",
   "lastOpenFiles": [
-    "Représentation de données.md",
+    "Excalidraw/assets/Drawing 2023-02-01 09.48.00.excalidraw/Pasted Image 20230201094825_328.png",
+    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "_computer science.md",
+    "Représentation de données.md",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "rv_exos/math/theme 1/Sequences & Series.md",
     "Excalidraw/Drawing 2023-01-30 18.54.53.excalidraw.md",
     "rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130183121_058.png",
     "rv_exos/math/theme 1/Sequences & Series/Drawing 2023-01-30 18.18.14.excalidraw.md",
-    "Loi des gaz parfait.md",
-    "_physics.md",
-    "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
+    "Loi des gaz parfait.md"
   ]
 }
