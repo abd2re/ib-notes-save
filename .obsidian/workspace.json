@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie discrete.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete.md"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -242,7 +242,7 @@
     "__dashboard.md",
     "_computer science.md",
     "_economy.md",
-    "Energie discrete.md",
+    "Energie discrete et Radioactivité.md",
     "_french B.md",
     "_TOK.md",
     "_physics.md",

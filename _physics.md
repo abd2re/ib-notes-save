@@ -37,7 +37,7 @@ retour [[__dashboard]]
 
 # Theme 7: Physique nucléaire
 ## 1. Energie discrete et Radioactivité
-1. [[Energie discrete]]
+1. [[Energie discrete et Radioactivité]]
 2. 
 
 
