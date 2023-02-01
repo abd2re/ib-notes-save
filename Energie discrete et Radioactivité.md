@@ -21,4 +21,9 @@ Inconvenient du modèle de Ruthford:
 Toute particule électrisée animée de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tomber sur le noyau. 
 
 - Composition du noyau:: Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse Le nombre de proton d'un noyau est note Z on l'appelle numéro atomique ou nombre de charges.![[image-20230201143053776.png|475]]
+- Des isotopes:: ce sont des atomes (ou noyaux) ayant le meme nombre de protons mais un nombre de neutrons (ou de nucleons). Ils ont les meme propriétés chimiques mais de propriétés physiques different (ex: la masse, la radioactivités)
+
+### Interaction forte
+
+
 
