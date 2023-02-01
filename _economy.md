@@ -4,6 +4,8 @@ alias: econ
 banner: "![[pngtree-financial-economy-stock-banner-poster-image_261098.jpg]]"
 ---
 
+retour [[__dashboard]]
+
 ### Mot clés en économie
 [[Conceptes de base economie|Economics basic concepts]]
 

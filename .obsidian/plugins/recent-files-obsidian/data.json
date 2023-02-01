@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Energie discrete",
       "path": "Energie discrete.md"
     },
@@ -33,10 +45,6 @@
       "path": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Représentation de données",
       "path": "Représentation de données.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Drawing 2023-01-29 20.31.53.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-29 20.31.53.excalidraw.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
     },
     {
       "basename": "Pasted Image 20230127202759_875",
@@ -195,10 +199,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91e1081908a607d2",
+            "id": "a832143c5fa20264",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -93,8 +93,26 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "327629051f96b026",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete.md",
+                "file": "__dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete.md",
+                "file": "__dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete.md"
+                "file": "__dashboard.md"
               }
             }
           },
@@ -219,17 +237,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91e1081908a607d2",
+  "active": "327629051f96b026",
   "lastOpenFiles": [
-    "_physics.md",
-    "Champ de gravitation.md",
-    "Loi de gravitation de Newton.md",
-    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "rv_exos/math/theme 1/Sequences & Series.md",
-    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-02-01 09.48.00.excalidraw/Pasted Image 20230201094825_328.png",
     "_computer science.md",
-    "Représentation de données.md"
+    "__dashboard.md",
+    "_economy.md",
+    "Energie discrete.md",
+    "_french B.md",
+    "_TOK.md",
+    "_physics.md",
+    "Résistance électrique.md",
+    "Champ de gravitation.md",
+    "Loi de gravitation de Newton.md"
   ]
 }
