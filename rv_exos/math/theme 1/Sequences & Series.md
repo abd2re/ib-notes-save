@@ -26,8 +26,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 	"elements": [
 		{
 			"type": "image",
-			"version": 298,
-			"versionNonce": 1794042281,
+			"version": 330,
+			"versionNonce": 1636318055,
 			"isDeleted": false,
 			"id": "XsS6pQ9UXA4bIQocVkOa2",
 			"fillStyle": "hachure",
@@ -46,7 +46,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -58,8 +58,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 273,
-			"versionNonce": 789356903,
+			"version": 305,
+			"versionNonce": 112775817,
 			"isDeleted": false,
 			"id": "PDVAxp0uznHIatrL1bPH1",
 			"fillStyle": "hachure",
@@ -78,7 +78,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -209,8 +209,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 276,
-			"versionNonce": 244698249,
+			"version": 308,
+			"versionNonce": 2077898375,
 			"isDeleted": false,
 			"id": "SIyLj7CBhZGtaTAwUvrbX",
 			"fillStyle": "hachure",
@@ -229,7 +229,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -372,8 +372,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 669113479,
+			"version": 289,
+			"versionNonce": 1861196137,
 			"isDeleted": false,
 			"id": "0oBXvdap8rSnz8rk858B6",
 			"fillStyle": "hachure",
@@ -392,7 +392,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -459,8 +459,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 622678889,
+			"version": 287,
+			"versionNonce": 1820315047,
 			"isDeleted": false,
 			"id": "I7tZrWGFptzG_CDWYsJH0",
 			"fillStyle": "hachure",
@@ -479,7 +479,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -538,8 +538,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1151513511,
+			"version": 294,
+			"versionNonce": 1986692169,
 			"isDeleted": false,
 			"id": "_GHCq7zqzMi3pQBNtuA08",
 			"fillStyle": "hachure",
@@ -558,7 +558,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -645,8 +645,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1389428297,
+			"version": 286,
+			"versionNonce": 1587904711,
 			"isDeleted": false,
 			"id": "RHEIxTWxn5q0Q179_hh7_",
 			"fillStyle": "hachure",
@@ -665,7 +665,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -720,8 +720,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 1031513799,
+			"version": 302,
+			"versionNonce": 1761940265,
 			"isDeleted": false,
 			"id": "3iulTHm8owXA_tmLGthHS",
 			"fillStyle": "hachure",
@@ -740,7 +740,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -859,8 +859,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 279,
-			"versionNonce": 646729001,
+			"version": 311,
+			"versionNonce": 1676136423,
 			"isDeleted": false,
 			"id": "nzhcoX3b2lOGc_qbtciFi",
 			"fillStyle": "hachure",
@@ -879,7 +879,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1046,8 +1046,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 285816295,
+			"version": 283,
+			"versionNonce": 187352585,
 			"isDeleted": false,
 			"id": "eiGRsRAfUIt9lw61gvk9n",
 			"fillStyle": "hachure",
@@ -1066,7 +1066,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1121,8 +1121,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 250,
-			"versionNonce": 1203421193,
+			"version": 282,
+			"versionNonce": 642988807,
 			"isDeleted": false,
 			"id": "kn4huwfouK1lh4mBeI83T",
 			"fillStyle": "hachure",
@@ -1141,7 +1141,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1192,8 +1192,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 281,
-			"versionNonce": 911728903,
+			"version": 313,
+			"versionNonce": 131538153,
 			"isDeleted": false,
 			"id": "sbmWf8c0chX_9yxrAXJlp",
 			"fillStyle": "hachure",
@@ -1212,7 +1212,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1387,8 +1387,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 282,
-			"versionNonce": 1683478249,
+			"version": 314,
+			"versionNonce": 1516519975,
 			"isDeleted": false,
 			"id": "ElURov6OFnz2gzQpVKrRZ",
 			"fillStyle": "hachure",
@@ -1407,7 +1407,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1586,8 +1586,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 249833511,
+			"version": 300,
+			"versionNonce": 513120201,
 			"isDeleted": false,
 			"id": "v41faA0vYuXmPzv7Bh58S",
 			"fillStyle": "hachure",
@@ -1606,7 +1606,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1741,8 +1741,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 271,
-			"versionNonce": 1592725961,
+			"version": 303,
+			"versionNonce": 1896310087,
 			"isDeleted": false,
 			"id": "NzbLaRpdD8MiP-vhUZrtV",
 			"fillStyle": "hachure",
@@ -1761,7 +1761,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1908,8 +1908,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 412781383,
+			"version": 278,
+			"versionNonce": 293713577,
 			"isDeleted": false,
 			"id": "RZKKAJsCAL6gQDfpVxbEk",
 			"fillStyle": "hachure",
@@ -1928,7 +1928,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1975,8 +1975,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1016852649,
+			"version": 287,
+			"versionNonce": 161031271,
 			"isDeleted": false,
 			"id": "s0poK09QYgb3gfyJdXPOJ",
 			"fillStyle": "hachure",
@@ -1995,7 +1995,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2078,8 +2078,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 271,
-			"versionNonce": 1607961191,
+			"version": 303,
+			"versionNonce": 1397160329,
 			"isDeleted": false,
 			"id": "9_6Rw-tb94N9c97Ci1F0s",
 			"fillStyle": "hachure",
@@ -2098,7 +2098,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2245,8 +2245,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1393161097,
+			"version": 277,
+			"versionNonce": 602275719,
 			"isDeleted": false,
 			"id": "zqxHsMdL9HKb6MtuoPJlT",
 			"fillStyle": "hachure",
@@ -2265,7 +2265,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2308,8 +2308,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 828876167,
+			"version": 284,
+			"versionNonce": 1965088873,
 			"isDeleted": false,
 			"id": "RNMDUmtDWiUPaXrnNG_k-",
 			"fillStyle": "hachure",
@@ -2328,7 +2328,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2399,8 +2399,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 913611369,
+			"version": 284,
+			"versionNonce": 304772775,
 			"isDeleted": false,
 			"id": "m7MWbqCgCjsTYE1kW5LBV",
 			"fillStyle": "hachure",
@@ -2419,7 +2419,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2490,8 +2490,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 277,
-			"versionNonce": 210197671,
+			"version": 309,
+			"versionNonce": 1423633225,
 			"isDeleted": false,
 			"id": "qi2nbpdPG9VqdyLzxWWNn",
 			"fillStyle": "hachure",
@@ -2510,7 +2510,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2697,8 +2697,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 272,
-			"versionNonce": 1739023689,
+			"version": 304,
+			"versionNonce": 722667975,
 			"isDeleted": false,
 			"id": "SnWpF5oBX9i4T8ttT2R5f",
 			"fillStyle": "hachure",
@@ -2717,7 +2717,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2888,8 +2888,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1424175047,
+			"version": 277,
+			"versionNonce": 181443113,
 			"isDeleted": false,
 			"id": "vK4gEJXkojCmBaKqOekhD",
 			"fillStyle": "hachure",
@@ -2908,7 +2908,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2971,8 +2971,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 1107153961,
+			"version": 274,
+			"versionNonce": 1002191079,
 			"isDeleted": false,
 			"id": "20oYbnDSfPvAc0aVAVHal",
 			"fillStyle": "hachure",
@@ -2991,7 +2991,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496207,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3042,8 +3042,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 276,
-			"versionNonce": 1150787303,
+			"version": 308,
+			"versionNonce": 401435913,
 			"isDeleted": false,
 			"id": "UtY599Yqn4NNqNdolIA1r",
 			"fillStyle": "hachure",
@@ -3062,7 +3062,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3257,8 +3257,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 274,
-			"versionNonce": 694380297,
+			"version": 306,
+			"versionNonce": 968000519,
 			"isDeleted": false,
 			"id": "Hw_pR0uz-iu_5Z-C1wDIy",
 			"fillStyle": "hachure",
@@ -3277,7 +3277,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3460,8 +3460,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 506538503,
+			"version": 272,
+			"versionNonce": 1403839465,
 			"isDeleted": false,
 			"id": "JTzG2IESL2ZgoE5Uhj4hk",
 			"fillStyle": "hachure",
@@ -3480,7 +3480,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3531,8 +3531,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 2018745833,
+			"version": 272,
+			"versionNonce": 888302375,
 			"isDeleted": false,
 			"id": "CTwi7nCiHpmiByLFWZPdn",
 			"fillStyle": "hachure",
@@ -3551,7 +3551,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3602,8 +3602,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 514609447,
+			"version": 281,
+			"versionNonce": 437944009,
 			"isDeleted": false,
 			"id": "wRgYBANs_IaWqv8qGVDYB",
 			"fillStyle": "hachure",
@@ -3622,7 +3622,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3713,8 +3713,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 769259721,
+			"version": 274,
+			"versionNonce": 166227527,
 			"isDeleted": false,
 			"id": "YHv8EnoSIUTfWD0E4ED5G",
 			"fillStyle": "hachure",
@@ -3733,7 +3733,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3796,8 +3796,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 796234823,
+			"version": 280,
+			"versionNonce": 970046889,
 			"isDeleted": false,
 			"id": "5MI3oAKYtlykOZNDg4fmB",
 			"fillStyle": "hachure",
@@ -3816,7 +3816,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3903,8 +3903,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 269,
-			"versionNonce": 1536292777,
+			"version": 301,
+			"versionNonce": 1399917927,
 			"isDeleted": false,
 			"id": "qS3yEgqFEPxQv8XvKvoQm",
 			"fillStyle": "hachure",
@@ -3923,7 +3923,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4102,8 +4102,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 1483305831,
+			"version": 284,
+			"versionNonce": 570302601,
 			"isDeleted": false,
 			"id": "YpiUwjlwzNeXH3b-MSF8P",
 			"fillStyle": "hachure",
@@ -4122,7 +4122,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4233,8 +4233,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1403460233,
+			"version": 270,
+			"versionNonce": 483969159,
 			"isDeleted": false,
 			"id": "O89xMxtOr4X10no5fn58q",
 			"fillStyle": "hachure",
@@ -4253,7 +4253,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4308,8 +4308,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 1909747335,
+			"version": 268,
+			"versionNonce": 1348151145,
 			"isDeleted": false,
 			"id": "oz7K83dSEctLFLh4B5LHd",
 			"fillStyle": "hachure",
@@ -4328,7 +4328,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4375,8 +4375,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 383050089,
+			"version": 274,
+			"versionNonce": 1406934951,
 			"isDeleted": false,
 			"id": "LhWGxZoE5EpmuUakkoQEU",
 			"fillStyle": "hachure",
@@ -4395,7 +4395,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4466,8 +4466,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 376636839,
+			"version": 286,
+			"versionNonce": 2134135369,
 			"isDeleted": false,
 			"id": "0Lg3prJgbTZuu493lVmUG",
 			"fillStyle": "hachure",
@@ -4486,7 +4486,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4605,8 +4605,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 40291401,
+			"version": 274,
+			"versionNonce": 2057802439,
 			"isDeleted": false,
 			"id": "SmwELFyGMHxQ0y-I_uH39",
 			"fillStyle": "hachure",
@@ -4625,7 +4625,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4696,8 +4696,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 272,
-			"versionNonce": 1433516231,
+			"version": 304,
+			"versionNonce": 325394729,
 			"isDeleted": false,
 			"id": "AMeIqzAbnhiwrrHBPovz8",
 			"fillStyle": "hachure",
@@ -4716,7 +4716,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4907,8 +4907,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 250,
-			"versionNonce": 1043880745,
+			"version": 282,
+			"versionNonce": 433562087,
 			"isDeleted": false,
 			"id": "2sBLQiXrfiyWve4FfJcsQ",
 			"fillStyle": "hachure",
@@ -4927,7 +4927,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5030,8 +5030,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 611125223,
+			"version": 269,
+			"versionNonce": 1247351817,
 			"isDeleted": false,
 			"id": "s1aD7aONH0gsZJiDRpOAD",
 			"fillStyle": "hachure",
@@ -5050,7 +5050,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5101,8 +5101,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1790250505,
+			"version": 270,
+			"versionNonce": 1920519431,
 			"isDeleted": false,
 			"id": "IoPX_SNZCoQ76iAIk_Ro1",
 			"fillStyle": "hachure",
@@ -5121,7 +5121,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5176,8 +5176,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 292647687,
+			"version": 300,
+			"versionNonce": 671853289,
 			"isDeleted": false,
 			"id": "YZUhKS4dO-yc3BXOslULx",
 			"fillStyle": "hachure",
@@ -5196,7 +5196,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5371,8 +5371,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 249062633,
+			"version": 289,
+			"versionNonce": 1879544871,
 			"isDeleted": false,
 			"id": "-L5qeGIu3fkSj0L96_dk0",
 			"fillStyle": "hachure",
@@ -5391,7 +5391,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5518,8 +5518,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 274,
-			"versionNonce": 888896039,
+			"version": 306,
+			"versionNonce": 621307337,
 			"isDeleted": false,
 			"id": "3pgQYqegscbXudzi3E0Dx",
 			"fillStyle": "hachure",
@@ -5538,7 +5538,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5737,8 +5737,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 1177411529,
+			"version": 283,
+			"versionNonce": 1517320007,
 			"isDeleted": false,
 			"id": "_hLyS59CgRzvdrrV4N4C2",
 			"fillStyle": "hachure",
@@ -5757,7 +5757,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5864,8 +5864,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1677172039,
+			"version": 271,
+			"versionNonce": 476759209,
 			"isDeleted": false,
 			"id": "_4C01AFj1lD9V7n0EO4AZ",
 			"fillStyle": "hachure",
@@ -5884,7 +5884,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5943,8 +5943,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 785448617,
+			"version": 271,
+			"versionNonce": 1209005671,
 			"isDeleted": false,
 			"id": "DvBJoTXuo0W8XhQ7L02vA",
 			"fillStyle": "hachure",
@@ -5963,7 +5963,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6022,8 +6022,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 566385767,
+			"version": 272,
+			"versionNonce": 2044610441,
 			"isDeleted": false,
 			"id": "vePtCtr2RPH3-cDXLQNs3",
 			"fillStyle": "hachure",
@@ -6042,7 +6042,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6105,8 +6105,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 274,
-			"versionNonce": 393036169,
+			"version": 306,
+			"versionNonce": 1337102727,
 			"isDeleted": false,
 			"id": "C461ZC1UfLFntfXjAwgR8",
 			"fillStyle": "hachure",
@@ -6125,7 +6125,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6324,8 +6324,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1378367367,
+			"version": 269,
+			"versionNonce": 664694377,
 			"isDeleted": false,
 			"id": "EQjGvUWhwFwKJ08o1ftNK",
 			"fillStyle": "hachure",
@@ -6344,7 +6344,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6395,8 +6395,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1832790121,
+			"version": 269,
+			"versionNonce": 2056571047,
 			"isDeleted": false,
 			"id": "WwQrcRFKd9v0MrgGafRhS",
 			"fillStyle": "hachure",
@@ -6415,7 +6415,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6466,8 +6466,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 728084135,
+			"version": 296,
+			"versionNonce": 1014413641,
 			"isDeleted": false,
 			"id": "a7GJgURSg8Aj5Q6WT3exA",
 			"fillStyle": "hachure",
@@ -6486,7 +6486,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6645,8 +6645,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 1779381065,
+			"version": 291,
+			"versionNonce": 1986206663,
 			"isDeleted": false,
 			"id": "ysUuTD4-xzgh51awQd82_",
 			"fillStyle": "hachure",
@@ -6665,7 +6665,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6804,8 +6804,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 1747403207,
+			"version": 283,
+			"versionNonce": 1774364713,
 			"isDeleted": false,
 			"id": "k8t0QHlxELHzwqm4YyYRX",
 			"fillStyle": "hachure",
@@ -6824,7 +6824,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6931,8 +6931,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 37478953,
+			"version": 270,
+			"versionNonce": 121244391,
 			"isDeleted": false,
 			"id": "VLVrcsaLmA5x6wF5L8hvR",
 			"fillStyle": "hachure",
@@ -6951,7 +6951,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7006,8 +7006,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 965308647,
+			"version": 270,
+			"versionNonce": 695057161,
 			"isDeleted": false,
 			"id": "z3a-0MRY_MUUDVu6zE4Lm",
 			"fillStyle": "hachure",
@@ -7026,7 +7026,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7081,8 +7081,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 313505033,
+			"version": 271,
+			"versionNonce": 967185927,
 			"isDeleted": false,
 			"id": "SouKwFxIKosU5DzlSBi4U",
 			"fillStyle": "hachure",
@@ -7101,7 +7101,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7160,8 +7160,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 2031664135,
+			"version": 271,
+			"versionNonce": 737374697,
 			"isDeleted": false,
 			"id": "yxaG_QkmpehNGyB3rZH2D",
 			"fillStyle": "hachure",
@@ -7180,7 +7180,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7239,8 +7239,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 269,
-			"versionNonce": 1323707369,
+			"version": 301,
+			"versionNonce": 1420016935,
 			"isDeleted": false,
 			"id": "GIht232pAdBqBTro1xI3f",
 			"fillStyle": "hachure",
@@ -7259,7 +7259,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7438,8 +7438,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 449946407,
+			"version": 297,
+			"versionNonce": 106908873,
 			"isDeleted": false,
 			"id": "EJaBk43pcBXMpxcNRdF8p",
 			"fillStyle": "hachure",
@@ -7458,7 +7458,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7621,8 +7621,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1860880073,
+			"version": 271,
+			"versionNonce": 195002439,
 			"isDeleted": false,
 			"id": "IyfrYc5B114VwcNOx1Byc",
 			"fillStyle": "hachure",
@@ -7641,7 +7641,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496208,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7700,8 +7700,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 1595975239,
+			"version": 273,
+			"versionNonce": 541903785,
 			"isDeleted": false,
 			"id": "pv9JcQRYNSNwN54-2EdHF",
 			"fillStyle": "hachure",
@@ -7720,7 +7720,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7787,8 +7787,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 492373417,
+			"version": 288,
+			"versionNonce": 1886773095,
 			"isDeleted": false,
 			"id": "M80jLnLjfi0efVVkcsuZs",
 			"fillStyle": "hachure",
@@ -7807,7 +7807,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7934,8 +7934,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 1155679591,
+			"version": 295,
+			"versionNonce": 1642557065,
 			"isDeleted": false,
 			"id": "QbgrOaKmIeTKCrdtfBCjc",
 			"fillStyle": "hachure",
@@ -7954,7 +7954,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8109,8 +8109,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 626813065,
+			"version": 267,
+			"versionNonce": 628316807,
 			"isDeleted": false,
 			"id": "u6GqTLZvQ4PssiyD-DPal",
 			"fillStyle": "hachure",
@@ -8129,7 +8129,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8180,8 +8180,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 996343943,
+			"version": 268,
+			"versionNonce": 569029993,
 			"isDeleted": false,
 			"id": "Uu1FsnNAVSyOnfC9L--ID",
 			"fillStyle": "hachure",
@@ -8200,7 +8200,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8255,8 +8255,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 1622175593,
+			"version": 293,
+			"versionNonce": 1330934183,
 			"isDeleted": false,
 			"id": "ZqeGChRUrXsRyU2zQEpjU",
 			"fillStyle": "hachure",
@@ -8275,7 +8275,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8430,8 +8430,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 341792679,
+			"version": 267,
+			"versionNonce": 1403134025,
 			"isDeleted": false,
 			"id": "OOIfIwYYBqCXkD8bAFVGP",
 			"fillStyle": "hachure",
@@ -8450,7 +8450,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8501,8 +8501,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1705024073,
+			"version": 267,
+			"versionNonce": 1195746503,
 			"isDeleted": false,
 			"id": "Jifi-2Y_9Ovvrp2fXEwIJ",
 			"fillStyle": "hachure",
@@ -8521,7 +8521,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8572,8 +8572,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 260,
-			"versionNonce": 906218183,
+			"version": 292,
+			"versionNonce": 1961439017,
 			"isDeleted": false,
 			"id": "FrXAeG5W38H0jvYrcrzzz",
 			"fillStyle": "hachure",
@@ -8592,7 +8592,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8743,8 +8743,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 1963485481,
+			"version": 285,
+			"versionNonce": 216232935,
 			"isDeleted": false,
 			"id": "MWZf3xiiMHrK9taiCQTwb",
 			"fillStyle": "hachure",
@@ -8763,7 +8763,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8882,8 +8882,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 216848871,
+			"version": 300,
+			"versionNonce": 1009476105,
 			"isDeleted": false,
 			"id": "ADeAwkwdW3Ia0tu_lKz4F",
 			"fillStyle": "hachure",
@@ -8902,7 +8902,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9085,8 +9085,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 676551689,
+			"version": 295,
+			"versionNonce": 2017091335,
 			"isDeleted": false,
 			"id": "wHADMHVz4wFzzqAXBlD6U",
 			"fillStyle": "hachure",
@@ -9105,7 +9105,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9268,8 +9268,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1042744583,
+			"version": 267,
+			"versionNonce": 107231465,
 			"isDeleted": false,
 			"id": "gLR6XW-dElG6qE8rjoHb-",
 			"fillStyle": "hachure",
@@ -9288,7 +9288,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9339,8 +9339,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1602024169,
+			"version": 269,
+			"versionNonce": 734455335,
 			"isDeleted": false,
 			"id": "hch_epofrEhU23q6Ef8EW",
 			"fillStyle": "hachure",
@@ -9359,7 +9359,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9418,8 +9418,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 422497319,
+			"version": 295,
+			"versionNonce": 85930953,
 			"isDeleted": false,
 			"id": "bqcQK4f3H4fud6XyUUosw",
 			"fillStyle": "hachure",
@@ -9438,7 +9438,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9601,8 +9601,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1863364041,
+			"version": 267,
+			"versionNonce": 1182107975,
 			"isDeleted": false,
 			"id": "xsh4Z4i2cdKecwAI8wdZ6",
 			"fillStyle": "hachure",
@@ -9621,7 +9621,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9672,8 +9672,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 1240510279,
+			"version": 272,
+			"versionNonce": 746050217,
 			"isDeleted": false,
 			"id": "egpga_lgwiQUcjl_7oaCk",
 			"fillStyle": "hachure",
@@ -9692,7 +9692,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9763,8 +9763,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 293,
-			"versionNonce": 237636777,
+			"version": 325,
+			"versionNonce": 1436731495,
 			"isDeleted": false,
 			"id": "IUhQ9BxFWbSknWrQSWdXd",
 			"fillStyle": "hachure",
@@ -9783,7 +9783,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10066,8 +10066,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1254698599,
+			"version": 286,
+			"versionNonce": 1629066633,
 			"isDeleted": false,
 			"id": "A0wO-C7LV-k5tX8oc-Kng",
 			"fillStyle": "hachure",
@@ -10086,7 +10086,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10213,8 +10213,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 74747785,
+			"version": 270,
+			"versionNonce": 119219079,
 			"isDeleted": false,
 			"id": "7NKqaR9EsQVzACi5YZJad",
 			"fillStyle": "hachure",
@@ -10233,7 +10233,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10296,8 +10296,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 377801095,
+			"version": 266,
+			"versionNonce": 1715469417,
 			"isDeleted": false,
 			"id": "PZ0tCmLgggvsWbV6KEH1J",
 			"fillStyle": "hachure",
@@ -10316,7 +10316,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10363,8 +10363,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 405517929,
+			"version": 267,
+			"versionNonce": 454761127,
 			"isDeleted": false,
 			"id": "2LCb0NkCw1JrYqiXF_pPo",
 			"fillStyle": "hachure",
@@ -10383,7 +10383,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10434,8 +10434,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 442499239,
+			"version": 280,
+			"versionNonce": 196511561,
 			"isDeleted": false,
 			"id": "M5WQSh-OAjhp6xOMyITnn",
 			"fillStyle": "hachure",
@@ -10454,7 +10454,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10561,8 +10561,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 1008402761,
+			"version": 268,
+			"versionNonce": 374287815,
 			"isDeleted": false,
 			"id": "XNZ_YcaPKIXhDpc5hj14B",
 			"fillStyle": "hachure",
@@ -10581,7 +10581,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10640,8 +10640,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 1745310663,
+			"version": 276,
+			"versionNonce": 467187241,
 			"isDeleted": false,
 			"id": "_6T24wBNa7eNLylxmkxl6",
 			"fillStyle": "hachure",
@@ -10660,7 +10660,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10751,8 +10751,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 2107502633,
+			"version": 267,
+			"versionNonce": 869522663,
 			"isDeleted": false,
 			"id": "5V5pL7D-YzncdtOf_ygzt",
 			"fillStyle": "hachure",
@@ -10771,7 +10771,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10826,8 +10826,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 266,
-			"versionNonce": 664224487,
+			"version": 298,
+			"versionNonce": 160565513,
 			"isDeleted": false,
 			"id": "izWBdiqeOUMww_cCidvHr",
 			"fillStyle": "hachure",
@@ -10846,7 +10846,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11025,8 +11025,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 849347337,
+			"version": 281,
+			"versionNonce": 389392391,
 			"isDeleted": false,
 			"id": "R0jsCgdm5bVaU4BW5XCvZ",
 			"fillStyle": "hachure",
@@ -11045,7 +11045,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11156,8 +11156,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 1234980359,
+			"version": 265,
+			"versionNonce": 1583218665,
 			"isDeleted": false,
 			"id": "6RiKzgqMSGmB1A8nx2wJe",
 			"fillStyle": "hachure",
@@ -11176,7 +11176,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11223,8 +11223,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 1738324457,
+			"version": 297,
+			"versionNonce": 1047596839,
 			"isDeleted": false,
 			"id": "CGsz_bJU00i3B1CyX4BUL",
 			"fillStyle": "hachure",
@@ -11243,7 +11243,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11418,8 +11418,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 2031285543,
+			"version": 284,
+			"versionNonce": 1749555913,
 			"isDeleted": false,
 			"id": "zhTzbW5BXXw2QACgP-B8A",
 			"fillStyle": "hachure",
@@ -11438,7 +11438,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11561,8 +11561,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 228562121,
+			"version": 296,
+			"versionNonce": 871535175,
 			"isDeleted": false,
 			"id": "xOH1DiMqo8RrJdWU31Apl",
 			"fillStyle": "hachure",
@@ -11581,7 +11581,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11768,8 +11768,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 260,
-			"versionNonce": 1298643015,
+			"version": 292,
+			"versionNonce": 669768105,
 			"isDeleted": false,
 			"id": "3uqph2jfgK4N5zuwOscWi",
 			"fillStyle": "hachure",
@@ -11788,7 +11788,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11959,8 +11959,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 1749291945,
+			"version": 289,
+			"versionNonce": 9875815,
 			"isDeleted": false,
 			"id": "GmuBpWPOKu71rmdsocRJX",
 			"fillStyle": "hachure",
@@ -11979,7 +11979,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12138,8 +12138,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 266,
-			"versionNonce": 1014437735,
+			"version": 298,
+			"versionNonce": 2121579657,
 			"isDeleted": false,
 			"id": "90ADCLPFaFhs8Tzy7j70v",
 			"fillStyle": "hachure",
@@ -12158,7 +12158,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12349,8 +12349,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1001764489,
+			"version": 267,
+			"versionNonce": 1571417223,
 			"isDeleted": false,
 			"id": "abZLe4KadXsV953IY4-Rj",
 			"fillStyle": "hachure",
@@ -12369,7 +12369,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12440,8 +12440,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1284346503,
+			"version": 262,
+			"versionNonce": 463356777,
 			"isDeleted": false,
 			"id": "D9eDAGSBIXzBLIftXJ2tO",
 			"fillStyle": "hachure",
@@ -12460,7 +12460,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496209,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12511,8 +12511,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 984612201,
+			"version": 283,
+			"versionNonce": 652788647,
 			"isDeleted": false,
 			"id": "nUujKi6RctQnZJEHNtXU8",
 			"fillStyle": "hachure",
@@ -12531,7 +12531,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12666,8 +12666,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 107456935,
+			"version": 264,
+			"versionNonce": 733212233,
 			"isDeleted": false,
 			"id": "hawAAz2DflX4GdL1KPnRF",
 			"fillStyle": "hachure",
@@ -12686,7 +12686,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12745,8 +12745,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 880699465,
+			"version": 283,
+			"versionNonce": 209696455,
 			"isDeleted": false,
 			"id": "EiFJ70IzdTTGOOlCgzPoR",
 			"fillStyle": "hachure",
@@ -12765,7 +12765,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12900,8 +12900,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 290,
-			"versionNonce": 657579207,
+			"version": 322,
+			"versionNonce": 1167146281,
 			"isDeleted": false,
 			"id": "DPWrsww44ffixZTQc3TlW",
 			"fillStyle": "hachure",
@@ -12920,7 +12920,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13211,8 +13211,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "image",
-			"version": 231,
-			"versionNonce": 50100009,
+			"version": 263,
+			"versionNonce": 84624871,
 			"isDeleted": false,
 			"id": "W-6sh57plmQKXO7gXs-kH",
 			"fillStyle": "hachure",
@@ -13231,7 +13231,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -13243,8 +13243,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 310946791,
+			"version": 280,
+			"versionNonce": 413249545,
 			"isDeleted": false,
 			"id": "8z7NApgcZ-vLg4E0Blzkx",
 			"fillStyle": "hachure",
@@ -13263,7 +13263,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13386,8 +13386,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 949332489,
+			"version": 268,
+			"versionNonce": 2140664071,
 			"isDeleted": false,
 			"id": "vi0Xj3ZaTJetVmZskY1r_",
 			"fillStyle": "hachure",
@@ -13406,7 +13406,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13481,8 +13481,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 75011847,
+			"version": 264,
+			"versionNonce": 1524680425,
 			"isDeleted": false,
 			"id": "AmvhbjlZqUJiZ4M7-qul_",
 			"fillStyle": "hachure",
@@ -13501,7 +13501,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13560,8 +13560,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 239436009,
+			"version": 262,
+			"versionNonce": 1436694567,
 			"isDeleted": false,
 			"id": "ZRovZ1fTetr6dyhn_wQ4r",
 			"fillStyle": "hachure",
@@ -13580,7 +13580,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13631,8 +13631,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 58596903,
+			"version": 284,
+			"versionNonce": 1993998793,
 			"isDeleted": false,
 			"id": "D3rDa2E_9fZmYUNRwajSi",
 			"fillStyle": "hachure",
@@ -13651,7 +13651,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13794,8 +13794,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 295140297,
+			"version": 269,
+			"versionNonce": 2098633543,
 			"isDeleted": false,
 			"id": "PJs_u6hzyyBccvoXSfgs_",
 			"fillStyle": "hachure",
@@ -13814,7 +13814,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13897,8 +13897,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 310755655,
+			"version": 263,
+			"versionNonce": 2041110697,
 			"isDeleted": false,
 			"id": "JzRYE5h7W6dhygh_UInjS",
 			"fillStyle": "hachure",
@@ -13917,7 +13917,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13976,8 +13976,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 312941225,
+			"version": 279,
+			"versionNonce": 2052168295,
 			"isDeleted": false,
 			"id": "ALRKD6-XNgxaVMsjtHHYe",
 			"fillStyle": "hachure",
@@ -13996,7 +13996,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14119,8 +14119,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 585891943,
+			"version": 289,
+			"versionNonce": 1090053001,
 			"isDeleted": false,
 			"id": "6BoSM3Rd6np4v__5ex8Wl",
 			"fillStyle": "hachure",
@@ -14139,7 +14139,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14302,8 +14302,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1377820041,
+			"version": 264,
+			"versionNonce": 304067975,
 			"isDeleted": false,
 			"id": "hIBYMNj0fTPmxm14j3zK9",
 			"fillStyle": "hachure",
@@ -14322,7 +14322,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14385,8 +14385,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 1182620551,
+			"version": 263,
+			"versionNonce": 1761970793,
 			"isDeleted": false,
 			"id": "OhJy5oUYjnkA0x6_44dwP",
 			"fillStyle": "hachure",
@@ -14405,7 +14405,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14464,8 +14464,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 1866286185,
+			"version": 288,
+			"versionNonce": 1002269863,
 			"isDeleted": false,
 			"id": "S_KZC2yAuXZZ9mxOHKAk7",
 			"fillStyle": "hachure",
@@ -14484,7 +14484,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14643,8 +14643,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 561402535,
+			"version": 291,
+			"versionNonce": 2056934729,
 			"isDeleted": false,
 			"id": "7VUKRzExcjoKWjn0AMnKL",
 			"fillStyle": "hachure",
@@ -14663,7 +14663,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14834,8 +14834,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 365612873,
+			"version": 302,
+			"versionNonce": 1389838279,
 			"isDeleted": false,
 			"id": "ReqhQok00gNpGoJ2_lmm-",
 			"fillStyle": "hachure",
@@ -14854,7 +14854,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15069,8 +15069,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 478373319,
+			"version": 233,
+			"versionNonce": 1494402089,
 			"isDeleted": false,
 			"id": "m9E_xEprdtg-mL-buOK3v",
 			"fillStyle": "hachure",
@@ -15089,7 +15089,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15172,8 +15172,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 1814298153,
+			"version": 200,
+			"versionNonce": 160018151,
 			"isDeleted": false,
 			"id": "OexgBRrh4mkfhWGmZYk1p",
 			"fillStyle": "hachure",
@@ -15192,7 +15192,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15319,8 +15319,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1455494375,
+			"version": 183,
+			"versionNonce": 1884968713,
 			"isDeleted": false,
 			"id": "5XH5L4vMduHJ8DOOkpqfh",
 			"fillStyle": "hachure",
@@ -15339,7 +15339,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15398,8 +15398,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 166,
-			"versionNonce": 1093947657,
+			"version": 198,
+			"versionNonce": 442579463,
 			"isDeleted": false,
 			"id": "9gjAQu6-Q58F8OBWuQQfw",
 			"fillStyle": "hachure",
@@ -15418,7 +15418,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15537,8 +15537,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 1471930375,
+			"version": 202,
+			"versionNonce": 585928169,
 			"isDeleted": false,
 			"id": "PUiG0rTIxpSWMkeTItT0o",
 			"fillStyle": "hachure",
@@ -15557,7 +15557,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15692,8 +15692,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 2054637545,
+			"version": 183,
+			"versionNonce": 979001639,
 			"isDeleted": false,
 			"id": "GYbe_PXffoXHDAAIe63ho",
 			"fillStyle": "hachure",
@@ -15712,7 +15712,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15771,8 +15771,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 24135463,
+			"version": 179,
+			"versionNonce": 2010441929,
 			"isDeleted": false,
 			"id": "qYQKzluTFs_WtaW4YwsNE",
 			"fillStyle": "hachure",
@@ -15791,7 +15791,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15834,8 +15834,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 1106797257,
+			"version": 204,
+			"versionNonce": 1256301639,
 			"isDeleted": false,
 			"id": "ViprqTrheUD9ohiuyusJX",
 			"fillStyle": "hachure",
@@ -15854,7 +15854,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15997,8 +15997,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 1112197703,
+			"version": 188,
+			"versionNonce": 145680297,
 			"isDeleted": false,
 			"id": "M-otxWBWaN0IyvKdSvhQn",
 			"fillStyle": "hachure",
@@ -16017,7 +16017,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16096,8 +16096,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1951605161,
+			"version": 185,
+			"versionNonce": 1272152935,
 			"isDeleted": false,
 			"id": "_alSJyqrleo2zGWBHxIa4",
 			"fillStyle": "hachure",
@@ -16116,7 +16116,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16183,8 +16183,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 120056167,
+			"version": 199,
+			"versionNonce": 799410825,
 			"isDeleted": false,
 			"id": "u-a1iSKw2r9FLAqYJyGU_",
 			"fillStyle": "hachure",
@@ -16203,7 +16203,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16330,8 +16330,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 1320354953,
+			"version": 179,
+			"versionNonce": 226262663,
 			"isDeleted": false,
 			"id": "_60rM7IHneT5JxBz4HoZH",
 			"fillStyle": "hachure",
@@ -16350,7 +16350,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16397,8 +16397,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1834230919,
+			"version": 187,
+			"versionNonce": 1970655593,
 			"isDeleted": false,
 			"id": "fu2cFuXhnoWccGuRrMQG5",
 			"fillStyle": "hachure",
@@ -16417,7 +16417,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16496,8 +16496,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 1557367657,
+			"version": 181,
+			"versionNonce": 580457895,
 			"isDeleted": false,
 			"id": "XSa6BIctUyGKM0fJsMqmK",
 			"fillStyle": "hachure",
@@ -16516,7 +16516,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16571,8 +16571,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 881589159,
+			"version": 181,
+			"versionNonce": 1063894089,
 			"isDeleted": false,
 			"id": "xHpwBEUGmucNvD7LLtrDA",
 			"fillStyle": "hachure",
@@ -16591,7 +16591,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16646,8 +16646,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 161,
-			"versionNonce": 654325321,
+			"version": 193,
+			"versionNonce": 307611847,
 			"isDeleted": false,
 			"id": "-K-3pmzT0KwzHwtN48ogc",
 			"fillStyle": "hachure",
@@ -16666,7 +16666,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16769,8 +16769,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1895558855,
+			"version": 177,
+			"versionNonce": 1029524265,
 			"isDeleted": false,
 			"id": "wkgvMN5P7v90YLnTTryt-",
 			"fillStyle": "hachure",
@@ -16789,7 +16789,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16828,8 +16828,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 538215721,
+			"version": 180,
+			"versionNonce": 1246697447,
 			"isDeleted": false,
 			"id": "mJ7wHqtGzcjnCXb9wLYOd",
 			"fillStyle": "hachure",
@@ -16848,7 +16848,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16899,8 +16899,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 2101378535,
+			"version": 202,
+			"versionNonce": 398196233,
 			"isDeleted": false,
 			"id": "i87u1PXszYwHIbInk5p5B",
 			"fillStyle": "hachure",
@@ -16919,7 +16919,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17058,8 +17058,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1400633353,
+			"version": 211,
+			"versionNonce": 1351713543,
 			"isDeleted": false,
 			"id": "BpFgvseDEi3pXy4lYP3OK",
 			"fillStyle": "hachure",
@@ -17078,7 +17078,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17253,8 +17253,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 184,
-			"versionNonce": 744892679,
+			"version": 216,
+			"versionNonce": 1568756969,
 			"isDeleted": false,
 			"id": "jtGK7pOcXkrnpsdzGbjQc",
 			"fillStyle": "hachure",
@@ -17273,7 +17273,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17468,8 +17468,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 1395789545,
+			"version": 203,
+			"versionNonce": 899254823,
 			"isDeleted": false,
 			"id": "c2UaO12ympLuI4CRQpuqS",
 			"fillStyle": "hachure",
@@ -17488,7 +17488,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496210,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17631,8 +17631,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1005154343,
+			"version": 182,
+			"versionNonce": 842584009,
 			"isDeleted": false,
 			"id": "2Y22Vwy5s18arlsrPL7LV",
 			"fillStyle": "hachure",
@@ -17651,7 +17651,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17710,8 +17710,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1707231689,
+			"version": 183,
+			"versionNonce": 1179888967,
 			"isDeleted": false,
 			"id": "dP-PGuYEHeeN6N_En_0JN",
 			"fillStyle": "hachure",
@@ -17730,7 +17730,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17793,8 +17793,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 95867719,
+			"version": 180,
+			"versionNonce": 1006497449,
 			"isDeleted": false,
 			"id": "zM1KDpDBNhN1Of39Y3BHy",
 			"fillStyle": "hachure",
@@ -17813,7 +17813,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17864,8 +17864,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 1950886057,
+			"version": 204,
+			"versionNonce": 2115791975,
 			"isDeleted": false,
 			"id": "NfcGNKeWGxZF48eIcy0Uh",
 			"fillStyle": "hachure",
@@ -17884,7 +17884,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18031,8 +18031,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1915408999,
+			"version": 212,
+			"versionNonce": 1367093641,
 			"isDeleted": false,
 			"id": "z5CN05fWVPmd2EyJiVJkD",
 			"fillStyle": "hachure",
@@ -18051,7 +18051,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18230,8 +18230,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 946809737,
+			"version": 212,
+			"versionNonce": 952125319,
 			"isDeleted": false,
 			"id": "zgO744mfWfyW-1X3LuXwq",
 			"fillStyle": "hachure",
@@ -18250,7 +18250,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18429,8 +18429,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 705817991,
+			"version": 179,
+			"versionNonce": 1743722601,
 			"isDeleted": false,
 			"id": "7RAyNfj5iKwhl1A5LtNtl",
 			"fillStyle": "hachure",
@@ -18449,7 +18449,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18496,8 +18496,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 712168041,
+			"version": 200,
+			"versionNonce": 612089511,
 			"isDeleted": false,
 			"id": "fDz8HEQEEcxpPxa442rdv",
 			"fillStyle": "hachure",
@@ -18516,7 +18516,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18647,8 +18647,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 145269927,
+			"version": 211,
+			"versionNonce": 1092756297,
 			"isDeleted": false,
 			"id": "jI46Q6h9FZk6Mvbe5is6p",
 			"fillStyle": "hachure",
@@ -18667,7 +18667,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18842,8 +18842,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 790535497,
+			"version": 213,
+			"versionNonce": 1945850311,
 			"isDeleted": false,
 			"id": "9CYdCSgOoMRevq6l7yUal",
 			"fillStyle": "hachure",
@@ -18862,7 +18862,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19045,8 +19045,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 163,
-			"versionNonce": 1302034375,
+			"version": 195,
+			"versionNonce": 1500566057,
 			"isDeleted": false,
 			"id": "X-JzOlku1D2gdlfazKNkd",
 			"fillStyle": "hachure",
@@ -19065,7 +19065,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19176,8 +19176,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 165,
-			"versionNonce": 97389609,
+			"version": 197,
+			"versionNonce": 1348174055,
 			"isDeleted": false,
 			"id": "XmHgIFL7v7KC9tvmIHIRZ",
 			"fillStyle": "hachure",
@@ -19196,7 +19196,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19315,8 +19315,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 252110567,
+			"version": 205,
+			"versionNonce": 365339913,
 			"isDeleted": false,
 			"id": "ImlVT_Wv9NVbZzBrVUPas",
 			"fillStyle": "hachure",
@@ -19335,7 +19335,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19486,8 +19486,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1986830089,
+			"version": 218,
+			"versionNonce": 187223047,
 			"isDeleted": false,
 			"id": "sBB6m8fhFWGn6i-Sa_xzZ",
 			"fillStyle": "hachure",
@@ -19506,7 +19506,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19709,8 +19709,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 163,
-			"versionNonce": 1802990087,
+			"version": 195,
+			"versionNonce": 832510953,
 			"isDeleted": false,
 			"id": "lzD_zvvi5EU2Ow2GaKOSQ",
 			"fillStyle": "hachure",
@@ -19729,7 +19729,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19840,8 +19840,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 1064687081,
+			"version": 201,
+			"versionNonce": 274707239,
 			"isDeleted": false,
 			"id": "-urvXdZG_38TxMwKEOAVN",
 			"fillStyle": "hachure",
@@ -19860,7 +19860,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19995,8 +19995,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 2078906663,
+			"version": 179,
+			"versionNonce": 1829091017,
 			"isDeleted": false,
 			"id": "O8S394j46cpt68DuJZ1yF",
 			"fillStyle": "hachure",
@@ -20015,7 +20015,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20062,8 +20062,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1140142281,
+			"version": 192,
+			"versionNonce": 409777735,
 			"isDeleted": false,
 			"id": "DiakxO6sdS0V3y4KG9MDw",
 			"fillStyle": "hachure",
@@ -20082,7 +20082,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20181,8 +20181,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 97115207,
+			"version": 207,
+			"versionNonce": 2056648105,
 			"isDeleted": false,
 			"id": "VimZHrwIHx4qcpeuGJTdB",
 			"fillStyle": "hachure",
@@ -20201,7 +20201,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20360,8 +20360,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 2038837161,
+			"version": 210,
+			"versionNonce": 439113063,
 			"isDeleted": false,
 			"id": "PwopoHTYYWRPmgk5SEBOh",
 			"fillStyle": "hachure",
@@ -20380,7 +20380,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20551,8 +20551,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1827978087,
+			"version": 192,
+			"versionNonce": 763058313,
 			"isDeleted": false,
 			"id": "XAmk2j0gcK8VlxKlKSKN_",
 			"fillStyle": "hachure",
@@ -20571,7 +20571,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20670,8 +20670,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 374624905,
+			"version": 184,
+			"versionNonce": 2095779975,
 			"isDeleted": false,
 			"id": "tDfzBCFqfgXCX4OT_RZWN",
 			"fillStyle": "hachure",
@@ -20690,7 +20690,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20757,8 +20757,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1706473095,
+			"version": 180,
+			"versionNonce": 1735483241,
 			"isDeleted": false,
 			"id": "30WMVIh3BeLJlpQ9Q3ZA7",
 			"fillStyle": "hachure",
@@ -20777,7 +20777,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20828,8 +20828,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 2132482409,
+			"version": 181,
+			"versionNonce": 174417831,
 			"isDeleted": false,
 			"id": "0LN7DGly6UmdN8N29XPDY",
 			"fillStyle": "hachure",
@@ -20848,7 +20848,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20903,8 +20903,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1724665255,
+			"version": 177,
+			"versionNonce": 1187220041,
 			"isDeleted": false,
 			"id": "FqgSOS1jprptWYLHfgG_B",
 			"fillStyle": "hachure",
@@ -20923,7 +20923,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20962,8 +20962,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 1965425737,
+			"version": 202,
+			"versionNonce": 549968583,
 			"isDeleted": false,
 			"id": "z3eY_v_tKiQi8eNSDYSlJ",
 			"fillStyle": "hachure",
@@ -20982,7 +20982,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21121,8 +21121,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1533149383,
+			"version": 187,
+			"versionNonce": 340613417,
 			"isDeleted": false,
 			"id": "KVdxbO_6EQoJnzRz7JHO1",
 			"fillStyle": "hachure",
@@ -21141,7 +21141,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21220,8 +21220,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 72389417,
+			"version": 181,
+			"versionNonce": 615442919,
 			"isDeleted": false,
 			"id": "7-EEEqel5CgQdpKPF6tqt",
 			"fillStyle": "hachure",
@@ -21240,7 +21240,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21295,8 +21295,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 353652711,
+			"version": 203,
+			"versionNonce": 1903840265,
 			"isDeleted": false,
 			"id": "lTnDxMtivVIortsgUatbS",
 			"fillStyle": "hachure",
@@ -21315,7 +21315,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21470,8 +21470,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 822494729,
+			"version": 182,
+			"versionNonce": 858199303,
 			"isDeleted": false,
 			"id": "EjJsums6xd9dBw2hXiDFh",
 			"fillStyle": "hachure",
@@ -21490,7 +21490,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21561,8 +21561,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 2112862983,
+			"version": 178,
+			"versionNonce": 1178985193,
 			"isDeleted": false,
 			"id": "IUx3xZMjtWEOvwtdTWiyk",
 			"fillStyle": "hachure",
@@ -21581,7 +21581,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21640,8 +21640,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 1715641577,
+			"version": 178,
+			"versionNonce": 330095655,
 			"isDeleted": false,
 			"id": "6VdR55gW2M5pP3GgPE_fZ",
 			"fillStyle": "hachure",
@@ -21660,7 +21660,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21719,8 +21719,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 175161895,
+			"version": 179,
+			"versionNonce": 1866177993,
 			"isDeleted": false,
 			"id": "HWRUPnqRh0W4-0JDOrQjA",
 			"fillStyle": "hachure",
@@ -21739,7 +21739,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21802,8 +21802,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 165,
-			"versionNonce": 596711369,
+			"version": 197,
+			"versionNonce": 1781317447,
 			"isDeleted": false,
 			"id": "XKfTdg0JhllfOLCp6O92u",
 			"fillStyle": "hachure",
@@ -21822,7 +21822,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21957,8 +21957,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1803806023,
+			"version": 205,
+			"versionNonce": 729218217,
 			"isDeleted": false,
 			"id": "EvNwueP5Vgvz-jOiVCL9-",
 			"fillStyle": "hachure",
@@ -21977,7 +21977,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22144,8 +22144,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1796028073,
+			"version": 212,
+			"versionNonce": 688078439,
 			"isDeleted": false,
 			"id": "6ApzwwBuQgB9CYJS0jMJJ",
 			"fillStyle": "hachure",
@@ -22164,7 +22164,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22359,8 +22359,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 8758375,
+			"version": 185,
+			"versionNonce": 1252229001,
 			"isDeleted": false,
 			"id": "_wRpTcdeCuFTZRhODpBPC",
 			"fillStyle": "hachure",
@@ -22379,7 +22379,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22466,8 +22466,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1868724617,
+			"version": 189,
+			"versionNonce": 1123867015,
 			"isDeleted": false,
 			"id": "Tsp5yoglbrfkTIUovD0xH",
 			"fillStyle": "hachure",
@@ -22486,7 +22486,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22589,8 +22589,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 155352967,
+			"version": 178,
+			"versionNonce": 452765289,
 			"isDeleted": false,
 			"id": "5xel-5uMd8Fv4wKE_D_hR",
 			"fillStyle": "hachure",
@@ -22609,7 +22609,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22668,8 +22668,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 30171241,
+			"version": 175,
+			"versionNonce": 492179623,
 			"isDeleted": false,
 			"id": "Q-1AphEaV4hAG0yZJdAfM",
 			"fillStyle": "hachure",
@@ -22688,7 +22688,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22735,8 +22735,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 402060967,
+			"version": 175,
+			"versionNonce": 390984009,
 			"isDeleted": false,
 			"id": "QQowGyileVukKTcQZXxH_",
 			"fillStyle": "hachure",
@@ -22755,7 +22755,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22802,8 +22802,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1075211081,
+			"version": 185,
+			"versionNonce": 1102799815,
 			"isDeleted": false,
 			"id": "5Psrt59wA9nl1zviFiNzV",
 			"fillStyle": "hachure",
@@ -22822,7 +22822,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22909,8 +22909,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 1129286087,
+			"version": 196,
+			"versionNonce": 1425203241,
 			"isDeleted": false,
 			"id": "LQvSiP0Nyj8gtsyoomFXt",
 			"fillStyle": "hachure",
@@ -22929,7 +22929,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23060,8 +23060,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 43784745,
+			"version": 182,
+			"versionNonce": 1346982631,
 			"isDeleted": false,
 			"id": "HsKp4mP0Ga18rRVpODwJS",
 			"fillStyle": "hachure",
@@ -23080,7 +23080,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496211,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23155,8 +23155,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 409516263,
+			"version": 178,
+			"versionNonce": 836170505,
 			"isDeleted": false,
 			"id": "a3Rd0uYTthSdKRc85E6KK",
 			"fillStyle": "hachure",
@@ -23175,7 +23175,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496212,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23234,8 +23234,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 172551433,
+			"version": 175,
+			"versionNonce": 831282695,
 			"isDeleted": false,
 			"id": "6teJCdx0djBOGtFwfcRer",
 			"fillStyle": "hachure",
@@ -23254,7 +23254,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496212,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23301,8 +23301,8 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 1288635399,
+			"version": 199,
+			"versionNonce": 1115007465,
 			"isDeleted": false,
 			"id": "m65eHYR5dbJOAe0A6qdcK",
 			"fillStyle": "hachure",
@@ -23321,7 +23321,7 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675354496212,
+			"updated": 1675355080164,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23480,11 +23480,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1930988071,
-			"version": 219,
-			"versionNonce": 1855480809,
+			"version": 251,
+			"versionNonce": 142673191,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -23512,11 +23512,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1613254249,
-			"version": 145,
-			"versionNonce": 813624103,
+			"version": 177,
+			"versionNonce": 2145027273,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23634,11 +23634,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 210927367,
-			"version": 157,
-			"versionNonce": 1268121289,
+			"version": 189,
+			"versionNonce": 1687406663,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23800,11 +23800,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1905779145,
-			"version": 131,
-			"versionNonce": 1608838727,
+			"version": 163,
+			"versionNonce": 899744681,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23866,11 +23866,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2052546503,
-			"version": 131,
-			"versionNonce": 803028393,
+			"version": 163,
+			"versionNonce": 866199399,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23932,11 +23932,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 684771241,
-			"version": 163,
-			"versionNonce": 903712103,
+			"version": 195,
+			"versionNonce": 804562569,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24126,11 +24126,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 80415207,
-			"version": 144,
-			"versionNonce": 1251582089,
+			"version": 176,
+			"versionNonce": 1945477767,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24244,11 +24244,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1384376391,
-			"version": 131,
-			"versionNonce": 2109032583,
+			"version": 163,
+			"versionNonce": 697363817,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24310,11 +24310,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1930643241,
-			"version": 126,
-			"versionNonce": 1501996905,
+			"version": 158,
+			"versionNonce": 642628007,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24356,11 +24356,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1659392233,
-			"version": 129,
-			"versionNonce": 1697161127,
+			"version": 161,
+			"versionNonce": 2042714185,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24414,11 +24414,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2132642695,
-			"version": 151,
-			"versionNonce": 1458557513,
+			"version": 183,
+			"versionNonce": 2144726215,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24560,11 +24560,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1524037801,
-			"version": 133,
-			"versionNonce": 778310343,
+			"version": 165,
+			"versionNonce": 39937833,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24634,11 +24634,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1277141511,
-			"version": 132,
-			"versionNonce": 1739628841,
+			"version": 164,
+			"versionNonce": 1546304487,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24704,11 +24704,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1750498727,
-			"version": 135,
-			"versionNonce": 570696167,
+			"version": 167,
+			"versionNonce": 1574738441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24786,11 +24786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1341606281,
-			"version": 145,
-			"versionNonce": 154440713,
+			"version": 177,
+			"versionNonce": 1868080903,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24908,11 +24908,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 811749863,
-			"version": 146,
-			"versionNonce": 1091915015,
+			"version": 178,
+			"versionNonce": 1294889193,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25034,11 +25034,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1920503655,
-			"version": 150,
-			"versionNonce": 2138516201,
+			"version": 182,
+			"versionNonce": 937176615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25176,11 +25176,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1023393575,
-			"version": 135,
-			"versionNonce": 924062759,
+			"version": 167,
+			"versionNonce": 1709337545,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25258,11 +25258,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 68812809,
-			"version": 129,
-			"versionNonce": 50587081,
+			"version": 161,
+			"versionNonce": 815911239,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25316,11 +25316,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2000964199,
-			"version": 145,
-			"versionNonce": 200079175,
+			"version": 177,
+			"versionNonce": 1313449,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25438,11 +25438,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1325374249,
-			"version": 132,
-			"versionNonce": 787891369,
+			"version": 164,
+			"versionNonce": 1124470887,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25508,11 +25508,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 61637001,
-			"version": 129,
-			"versionNonce": 368866919,
+			"version": 161,
+			"versionNonce": 1684983177,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25566,11 +25566,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1125527783,
-			"version": 157,
-			"versionNonce": 788121481,
+			"version": 189,
+			"versionNonce": 2027252615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25736,11 +25736,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 257502729,
-			"version": 160,
-			"versionNonce": 739185031,
+			"version": 192,
+			"versionNonce": 976106601,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25926,11 +25926,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2028971497,
-			"version": 166,
-			"versionNonce": 759819881,
+			"version": 198,
+			"versionNonce": 1850499751,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26032,11 +26032,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 507057479,
-			"version": 116,
-			"versionNonce": 392251559,
+			"version": 148,
+			"versionNonce": 891141961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26090,11 +26090,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 312359753,
-			"version": 116,
-			"versionNonce": 11680073,
+			"version": 148,
+			"versionNonce": 68646343,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26148,11 +26148,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 736762663,
-			"version": 126,
-			"versionNonce": 1168088007,
+			"version": 158,
+			"versionNonce": 60354089,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26246,11 +26246,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 844346825,
-			"version": 119,
-			"versionNonce": 445524009,
+			"version": 151,
+			"versionNonce": 1364403431,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26316,11 +26316,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 771487785,
-			"version": 167,
-			"versionNonce": 988187367,
+			"version": 199,
+			"versionNonce": 2089500937,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26466,11 +26466,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1480185673,
-			"version": 118,
-			"versionNonce": 885603081,
+			"version": 150,
+			"versionNonce": 1435234311,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26532,11 +26532,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 786822983,
-			"version": 108,
-			"versionNonce": 1136825863,
+			"version": 140,
+			"versionNonce": 225458153,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26630,11 +26630,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1836010409,
-			"version": 98,
-			"versionNonce": 1071575529,
+			"version": 130,
+			"versionNonce": 1790859047,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26688,11 +26688,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1199252679,
-			"version": 108,
-			"versionNonce": 1731214631,
+			"version": 140,
+			"versionNonce": 1750291145,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26786,11 +26786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 423310889,
-			"version": 99,
-			"versionNonce": 282774729,
+			"version": 131,
+			"versionNonce": 2002180679,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26848,11 +26848,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 537811369,
-			"version": 100,
-			"versionNonce": 412876871,
+			"version": 132,
+			"versionNonce": 1909461417,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26914,11 +26914,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1737541095,
-			"version": 99,
-			"versionNonce": 1331186601,
+			"version": 131,
+			"versionNonce": 1613887847,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26976,11 +26976,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 773266023,
-			"version": 109,
-			"versionNonce": 702701415,
+			"version": 141,
+			"versionNonce": 1863447689,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27078,11 +27078,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 521272967,
-			"version": 101,
-			"versionNonce": 595783305,
+			"version": 133,
+			"versionNonce": 983315591,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496212,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27148,11 +27148,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 431950375,
-			"version": 101,
-			"versionNonce": 2102385287,
+			"version": 133,
+			"versionNonce": 1943305065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27218,11 +27218,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 280023495,
-			"version": 127,
-			"versionNonce": 605435241,
+			"version": 159,
+			"versionNonce": 1045564327,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27392,11 +27392,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 602004999,
-			"version": 104,
-			"versionNonce": 2007036327,
+			"version": 136,
+			"versionNonce": 274933321,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27474,11 +27474,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 373548841,
-			"version": 101,
-			"versionNonce": 73244745,
+			"version": 133,
+			"versionNonce": 2004876999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27544,11 +27544,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 985746825,
-			"version": 108,
-			"versionNonce": 839001287,
+			"version": 140,
+			"versionNonce": 1067021609,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27642,11 +27642,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2066855047,
-			"version": 101,
-			"versionNonce": 37007145,
+			"version": 133,
+			"versionNonce": 952274407,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27712,11 +27712,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 491585575,
-			"version": 112,
-			"versionNonce": 1812984807,
+			"version": 144,
+			"versionNonce": 350414857,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27826,11 +27826,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1772470921,
-			"version": 101,
-			"versionNonce": 335995401,
+			"version": 133,
+			"versionNonce": 1294350599,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27896,11 +27896,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1219366121,
-			"version": 99,
-			"versionNonce": 1037491975,
+			"version": 131,
+			"versionNonce": 708509417,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27958,11 +27958,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1526714473,
-			"version": 117,
-			"versionNonce": 1456453865,
+			"version": 149,
+			"versionNonce": 1780973607,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080165,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28092,11 +28092,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 94459337,
-			"version": 103,
-			"versionNonce": 164849191,
+			"version": 135,
+			"versionNonce": 1311586761,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28170,11 +28170,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1586670345,
-			"version": 100,
-			"versionNonce": 1008382921,
+			"version": 132,
+			"versionNonce": 1639113543,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28236,11 +28236,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 734882439,
-			"version": 100,
-			"versionNonce": 787614023,
+			"version": 132,
+			"versionNonce": 1909790889,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28302,11 +28302,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2138777833,
-			"version": 116,
-			"versionNonce": 2013483689,
+			"version": 148,
+			"versionNonce": 337961575,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28432,11 +28432,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1029755815,
-			"version": 101,
-			"versionNonce": 2056210535,
+			"version": 133,
+			"versionNonce": 1457396617,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28502,11 +28502,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 914664263,
-			"version": 98,
-			"versionNonce": 792008073,
+			"version": 130,
+			"versionNonce": 575274375,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28560,11 +28560,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 528172361,
-			"version": 114,
-			"versionNonce": 1517790087,
+			"version": 146,
+			"versionNonce": 2105786985,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28682,11 +28682,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 493460007,
-			"version": 111,
-			"versionNonce": 1693154409,
+			"version": 143,
+			"versionNonce": 1600042151,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28792,11 +28792,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1613260135,
-			"version": 101,
-			"versionNonce": 1323801255,
+			"version": 133,
+			"versionNonce": 1385270601,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28862,11 +28862,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1771644167,
-			"version": 101,
-			"versionNonce": 686950217,
+			"version": 133,
+			"versionNonce": 51349447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28932,11 +28932,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 981344423,
-			"version": 120,
-			"versionNonce": 478916039,
+			"version": 152,
+			"versionNonce": 493026345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29078,11 +29078,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 942390665,
-			"version": 104,
-			"versionNonce": 94647849,
+			"version": 136,
+			"versionNonce": 460912359,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29160,11 +29160,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 55896647,
-			"version": 99,
-			"versionNonce": 1048599783,
+			"version": 131,
+			"versionNonce": 769888009,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29222,11 +29222,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1274416839,
-			"version": 105,
-			"versionNonce": 770541833,
+			"version": 137,
+			"versionNonce": 1059553799,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29308,11 +29308,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 138855591,
-			"version": 100,
-			"versionNonce": 408037383,
+			"version": 132,
+			"versionNonce": 1250870761,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29374,11 +29374,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 869863625,
-			"version": 115,
-			"versionNonce": 1799978985,
+			"version": 147,
+			"versionNonce": 2132257063,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29500,11 +29500,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 355093321,
-			"version": 107,
-			"versionNonce": 1744670503,
+			"version": 139,
+			"versionNonce": 1584406729,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29594,11 +29594,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1914942025,
-			"version": 100,
-			"versionNonce": 1271110345,
+			"version": 132,
+			"versionNonce": 414575687,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29660,11 +29660,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 945231687,
-			"version": 104,
-			"versionNonce": 2012156487,
+			"version": 136,
+			"versionNonce": 1730355113,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29742,11 +29742,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2134823401,
-			"version": 108,
-			"versionNonce": 267868585,
+			"version": 140,
+			"versionNonce": 1742654311,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29840,11 +29840,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1354860071,
-			"version": 120,
-			"versionNonce": 285421927,
+			"version": 152,
+			"versionNonce": 584270473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29986,11 +29986,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1236865033,
-			"version": 103,
-			"versionNonce": 1494236297,
+			"version": 135,
+			"versionNonce": 417252999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30064,11 +30064,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 178894153,
-			"version": 98,
-			"versionNonce": 747007111,
+			"version": 130,
+			"versionNonce": 2117863785,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30122,11 +30122,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1769275687,
-			"version": 108,
-			"versionNonce": 382321513,
+			"version": 140,
+			"versionNonce": 443702695,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30220,11 +30220,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 842543049,
-			"version": 109,
-			"versionNonce": 1714766759,
+			"version": 141,
+			"versionNonce": 1118368841,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30322,11 +30322,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 843666857,
-			"version": 99,
-			"versionNonce": 896495177,
+			"version": 131,
+			"versionNonce": 1338380487,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30384,11 +30384,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 659601705,
-			"version": 120,
-			"versionNonce": 775698119,
+			"version": 152,
+			"versionNonce": 66421545,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30530,11 +30530,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 815290791,
-			"version": 108,
-			"versionNonce": 199015721,
+			"version": 140,
+			"versionNonce": 41312231,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30628,11 +30628,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 351084361,
-			"version": 97,
-			"versionNonce": 993510887,
+			"version": 129,
+			"versionNonce": 1317877257,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30682,11 +30682,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1660655593,
-			"version": 112,
-			"versionNonce": 159199241,
+			"version": 144,
+			"versionNonce": 344967943,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30796,11 +30796,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 79135335,
-			"version": 105,
-			"versionNonce": 1010069767,
+			"version": 137,
+			"versionNonce": 359369961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30882,11 +30882,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 108825671,
-			"version": 97,
-			"versionNonce": 608978665,
+			"version": 129,
+			"versionNonce": 1921962535,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30936,11 +30936,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 842857895,
-			"version": 109,
-			"versionNonce": 1252964391,
+			"version": 141,
+			"versionNonce": 1612449737,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31038,11 +31038,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 863648199,
-			"version": 99,
-			"versionNonce": 114655689,
+			"version": 131,
+			"versionNonce": 1163916615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31100,11 +31100,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1295490631,
-			"version": 97,
-			"versionNonce": 479402823,
+			"version": 129,
+			"versionNonce": 951723689,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31154,11 +31154,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1631145895,
-			"version": 114,
-			"versionNonce": 2117361833,
+			"version": 146,
+			"versionNonce": 1683993703,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31276,11 +31276,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 948126185,
-			"version": 119,
-			"versionNonce": 1983781479,
+			"version": 151,
+			"versionNonce": 1508993417,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31418,11 +31418,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 24938025,
-			"version": 106,
-			"versionNonce": 672424841,
+			"version": 138,
+			"versionNonce": 123375495,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496213,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31508,11 +31508,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1039591111,
-			"version": 108,
-			"versionNonce": 1551644039,
+			"version": 140,
+			"versionNonce": 486363241,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31606,11 +31606,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 353801257,
-			"version": 98,
-			"versionNonce": 1622215273,
+			"version": 130,
+			"versionNonce": 948766375,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31664,11 +31664,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2031146055,
-			"version": 116,
-			"versionNonce": 109702311,
+			"version": 148,
+			"versionNonce": 665410377,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31794,11 +31794,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 735355433,
-			"version": 99,
-			"versionNonce": 1893061961,
+			"version": 131,
+			"versionNonce": 111385031,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31856,11 +31856,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1418839465,
-			"version": 99,
-			"versionNonce": 269729735,
+			"version": 131,
+			"versionNonce": 1515260457,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31918,11 +31918,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1776363817,
-			"version": 125,
-			"versionNonce": 2078164009,
+			"version": 157,
+			"versionNonce": 1991952615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32084,11 +32084,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 450259465,
-			"version": 101,
-			"versionNonce": 1798713063,
+			"version": 133,
+			"versionNonce": 2111823113,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32154,11 +32154,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 285607017,
-			"version": 98,
-			"versionNonce": 766891785,
+			"version": 130,
+			"versionNonce": 912200711,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32212,11 +32212,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2007441415,
-			"version": 106,
-			"versionNonce": 310229511,
+			"version": 138,
+			"versionNonce": 835802089,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32302,11 +32302,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1010612233,
-			"version": 95,
-			"versionNonce": 685247977,
+			"version": 127,
+			"versionNonce": 227343143,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32348,11 +32348,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 326735335,
-			"version": 119,
-			"versionNonce": 2061951271,
+			"version": 151,
+			"versionNonce": 439414473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32494,11 +32494,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1028942921,
-			"version": 104,
-			"versionNonce": 877684937,
+			"version": 136,
+			"versionNonce": 280034887,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32580,11 +32580,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1774176361,
-			"version": 103,
-			"versionNonce": 1172186183,
+			"version": 135,
+			"versionNonce": 1301949865,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32662,11 +32662,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1359127911,
-			"version": 98,
-			"versionNonce": 700082089,
+			"version": 130,
+			"versionNonce": 312974695,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32724,11 +32724,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1440561639,
-			"version": 111,
-			"versionNonce": 859833191,
+			"version": 143,
+			"versionNonce": 54038665,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32838,11 +32838,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1708995785,
-			"version": 103,
-			"versionNonce": 591497865,
+			"version": 135,
+			"versionNonce": 1455249543,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32920,11 +32920,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 194836231,
-			"version": 109,
-			"versionNonce": 1398341255,
+			"version": 141,
+			"versionNonce": 13080425,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33026,11 +33026,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 452330185,
-			"version": 110,
-			"versionNonce": 1772179817,
+			"version": 142,
+			"versionNonce": 45002663,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33136,11 +33136,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1055181705,
-			"version": 113,
-			"versionNonce": 2028311975,
+			"version": 145,
+			"versionNonce": 1217577545,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33258,11 +33258,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 130330599,
-			"version": 104,
-			"versionNonce": 572865609,
+			"version": 136,
+			"versionNonce": 1353196231,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33344,11 +33344,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 304867783,
-			"version": 107,
-			"versionNonce": 1796360391,
+			"version": 139,
+			"versionNonce": 125145385,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33442,11 +33442,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1604993321,
-			"version": 103,
-			"versionNonce": 1017695017,
+			"version": 135,
+			"versionNonce": 21377511,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33524,11 +33524,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 361343143,
-			"version": 111,
-			"versionNonce": 1467717607,
+			"version": 143,
+			"versionNonce": 1121682441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33638,11 +33638,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2103009287,
-			"version": 108,
-			"versionNonce": 563576329,
+			"version": 140,
+			"versionNonce": 227892487,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33744,11 +33744,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1559022025,
-			"version": 97,
-			"versionNonce": 70124295,
+			"version": 129,
+			"versionNonce": 1186994921,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33806,11 +33806,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2144993193,
-			"version": 109,
-			"versionNonce": 535614697,
+			"version": 141,
+			"versionNonce": 420619303,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33924,11 +33924,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1013726025,
-			"version": 101,
-			"versionNonce": 1101400615,
+			"version": 133,
+			"versionNonce": 1403966921,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34010,11 +34010,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2005301097,
-			"version": 95,
-			"versionNonce": 456413129,
+			"version": 127,
+			"versionNonce": 598280007,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34072,11 +34072,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1997470441,
-			"version": 95,
-			"versionNonce": 483405127,
+			"version": 127,
+			"versionNonce": 214119593,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34134,11 +34134,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1920581225,
-			"version": 103,
-			"versionNonce": 2039049897,
+			"version": 135,
+			"versionNonce": 2075559527,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34228,11 +34228,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1618347369,
-			"version": 95,
-			"versionNonce": 1359539303,
+			"version": 127,
+			"versionNonce": 631814025,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34290,11 +34290,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1019709673,
-			"version": 95,
-			"versionNonce": 1368895881,
+			"version": 127,
+			"versionNonce": 1879515527,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34352,11 +34352,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1752910953,
-			"version": 101,
-			"versionNonce": 2048706439,
+			"version": 133,
+			"versionNonce": 1352326761,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34438,11 +34438,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1133120649,
-			"version": 113,
-			"versionNonce": 1486526569,
+			"version": 145,
+			"versionNonce": 1104631975,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34572,11 +34572,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 417237769,
-			"version": 100,
-			"versionNonce": 105397927,
+			"version": 132,
+			"versionNonce": 1818569033,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34674,11 +34674,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 258672873,
-			"version": 96,
-			"versionNonce": 274572105,
+			"version": 128,
+			"versionNonce": 1456712647,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34760,11 +34760,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 358799625,
-			"version": 105,
-			"versionNonce": 1748488647,
+			"version": 137,
+			"versionNonce": 1919096873,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34882,11 +34882,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1504954983,
-			"version": 96,
-			"versionNonce": 893145641,
+			"version": 128,
+			"versionNonce": 723032807,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34968,11 +34968,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1738134599,
-			"version": 88,
-			"versionNonce": 151519463,
+			"version": 120,
+			"versionNonce": 612379401,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35022,11 +35022,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 905921959,
-			"version": 90,
-			"versionNonce": 1814177033,
+			"version": 122,
+			"versionNonce": 53650951,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35084,11 +35084,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 208124455,
-			"version": 96,
-			"versionNonce": 2051361799,
+			"version": 128,
+			"versionNonce": 2067259881,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35170,11 +35170,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1892482055,
-			"version": 92,
-			"versionNonce": 814390249,
+			"version": 124,
+			"versionNonce": 1579044135,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35240,11 +35240,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1936431015,
-			"version": 114,
-			"versionNonce": 1743532839,
+			"version": 146,
+			"versionNonce": 1402322121,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35398,11 +35398,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 619964839,
-			"version": 98,
-			"versionNonce": 42022601,
+			"version": 130,
+			"versionNonce": 659034183,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35492,11 +35492,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1069716135,
-			"version": 113,
-			"versionNonce": 1248409159,
+			"version": 145,
+			"versionNonce": 1563769769,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35646,11 +35646,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 646091369,
-			"version": 103,
-			"versionNonce": 1419867561,
+			"version": 135,
+			"versionNonce": 680292199,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35760,11 +35760,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1821413351,
-			"version": 90,
-			"versionNonce": 1486411111,
+			"version": 122,
+			"versionNonce": 1212276361,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35822,11 +35822,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 400680039,
-			"version": 91,
-			"versionNonce": 974575753,
+			"version": 123,
+			"versionNonce": 1010297479,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496214,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35888,11 +35888,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1945152777,
-			"version": 97,
-			"versionNonce": 969379975,
+			"version": 129,
+			"versionNonce": 863446377,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35978,11 +35978,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1493197287,
-			"version": 89,
-			"versionNonce": 1419566953,
+			"version": 121,
+			"versionNonce": 1057423783,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36036,11 +36036,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1760953513,
-			"version": 91,
-			"versionNonce": 2008147879,
+			"version": 123,
+			"versionNonce": 1512083529,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36102,11 +36102,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 27445991,
-			"version": 101,
-			"versionNonce": 41880137,
+			"version": 133,
+			"versionNonce": 1109800135,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36208,11 +36208,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 37714153,
-			"version": 91,
-			"versionNonce": 813980359,
+			"version": 123,
+			"versionNonce": 35233577,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36274,11 +36274,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1798560423,
-			"version": 102,
-			"versionNonce": 1285085481,
+			"version": 134,
+			"versionNonce": 2100429799,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36384,11 +36384,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 825492967,
-			"version": 98,
-			"versionNonce": 148597223,
+			"version": 130,
+			"versionNonce": 701354505,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36478,11 +36478,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1894936295,
-			"version": 90,
-			"versionNonce": 341167113,
+			"version": 122,
+			"versionNonce": 3600135,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36540,11 +36540,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1490830183,
-			"version": 111,
-			"versionNonce": 1573098759,
+			"version": 143,
+			"versionNonce": 1983424745,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36686,11 +36686,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1463350985,
-			"version": 95,
-			"versionNonce": 28402409,
+			"version": 127,
+			"versionNonce": 632387111,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36768,11 +36768,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 691524871,
-			"version": 97,
-			"versionNonce": 918117415,
+			"version": 129,
+			"versionNonce": 1625662409,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36858,11 +36858,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1163539209,
-			"version": 112,
-			"versionNonce": 825695689,
+			"version": 144,
+			"versionNonce": 1150163271,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37008,11 +37008,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 939798057,
-			"version": 95,
-			"versionNonce": 2007580487,
+			"version": 127,
+			"versionNonce": 636502697,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37090,11 +37090,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 866831271,
-			"version": 89,
-			"versionNonce": 570588329,
+			"version": 121,
+			"versionNonce": 573134951,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37148,11 +37148,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1838563049,
-			"version": 91,
-			"versionNonce": 1391443559,
+			"version": 123,
+			"versionNonce": 1912866185,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37214,11 +37214,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1610052775,
-			"version": 94,
-			"versionNonce": 1673461641,
+			"version": 126,
+			"versionNonce": 609203079,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37292,11 +37292,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1323797351,
-			"version": 86,
-			"versionNonce": 2069453191,
+			"version": 118,
+			"versionNonce": 1348234345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37338,11 +37338,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1716198823,
-			"version": 88,
-			"versionNonce": 78128745,
+			"version": 120,
+			"versionNonce": 1128114855,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37392,11 +37392,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1042320135,
-			"version": 96,
-			"versionNonce": 371364007,
+			"version": 128,
+			"versionNonce": 1489303369,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37478,11 +37478,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1856211175,
-			"version": 100,
-			"versionNonce": 1065972041,
+			"version": 132,
+			"versionNonce": 1000324551,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37580,11 +37580,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 497425671,
-			"version": 91,
-			"versionNonce": 1828185031,
+			"version": 123,
+			"versionNonce": 496576041,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37646,11 +37646,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1867914857,
-			"version": 89,
-			"versionNonce": 1774084137,
+			"version": 121,
+			"versionNonce": 9596135,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37704,11 +37704,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1719887367,
-			"version": 100,
-			"versionNonce": 1609945831,
+			"version": 132,
+			"versionNonce": 1506048265,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37806,11 +37806,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 204092967,
-			"version": 86,
-			"versionNonce": 556954377,
+			"version": 118,
+			"versionNonce": 1839347719,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37852,11 +37852,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1366431847,
-			"version": 107,
-			"versionNonce": 396942855,
+			"version": 139,
+			"versionNonce": 1589800937,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37982,11 +37982,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1596416009,
-			"version": 119,
-			"versionNonce": 979446249,
+			"version": 151,
+			"versionNonce": 952868647,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38160,11 +38160,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 344784199,
-			"version": 94,
-			"versionNonce": 1997374759,
+			"version": 126,
+			"versionNonce": 1117686473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38238,11 +38238,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1378229255,
-			"version": 92,
-			"versionNonce": 1851131081,
+			"version": 124,
+			"versionNonce": 612049479,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38308,11 +38308,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 957396903,
-			"version": 88,
-			"versionNonce": 1301301319,
+			"version": 120,
+			"versionNonce": 1307855273,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080167,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38362,11 +38362,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 735339783,
-			"version": 92,
-			"versionNonce": 1219265449,
+			"version": 124,
+			"versionNonce": 1905082727,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38432,11 +38432,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1873895591,
-			"version": 92,
-			"versionNonce": 1225631591,
+			"version": 124,
+			"versionNonce": 703540361,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38502,11 +38502,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1138563143,
-			"version": 111,
-			"versionNonce": 1435510409,
+			"version": 143,
+			"versionNonce": 290356359,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38648,11 +38648,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1626335209,
-			"version": 231,
-			"versionNonce": 668082823,
+			"version": 263,
+			"versionNonce": 1313518441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -38680,11 +38680,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 16768903,
-			"version": 131,
-			"versionNonce": 1514514089,
+			"version": 163,
+			"versionNonce": 393958311,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38806,11 +38806,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1533267079,
-			"version": 90,
-			"versionNonce": 323761255,
+			"version": 122,
+			"versionNonce": 793927241,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38868,11 +38868,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1633800455,
-			"version": 90,
-			"versionNonce": 1041033609,
+			"version": 122,
+			"versionNonce": 1816151751,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38930,11 +38930,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1341756807,
-			"version": 96,
-			"versionNonce": 615976839,
+			"version": 128,
+			"versionNonce": 736210217,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39016,11 +39016,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1136998439,
-			"version": 93,
-			"versionNonce": 1985578663,
+			"version": 125,
+			"versionNonce": 1043977703,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39094,11 +39094,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2090635079,
-			"version": 95,
-			"versionNonce": 1236730889,
+			"version": 127,
+			"versionNonce": 996417545,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39256,11 +39256,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 157016167,
-			"version": 113,
-			"versionNonce": 338812167,
+			"version": 145,
+			"versionNonce": 880050439,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39494,11 +39494,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 556019111,
-			"version": 118,
-			"versionNonce": 1714133737,
+			"version": 150,
+			"versionNonce": 1540699881,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39752,11 +39752,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1328443367,
-			"version": 88,
-			"versionNonce": 220563271,
+			"version": 120,
+			"versionNonce": 1617741863,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39898,11 +39898,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 700428873,
-			"version": 86,
-			"versionNonce": 1733211305,
+			"version": 118,
+			"versionNonce": 1069576649,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40036,11 +40036,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 160202599,
-			"version": 70,
-			"versionNonce": 27461223,
+			"version": 102,
+			"versionNonce": 1880042311,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40110,11 +40110,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 627808489,
-			"version": 83,
-			"versionNonce": 583284617,
+			"version": 115,
+			"versionNonce": 1010913449,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40236,11 +40236,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1989518185,
-			"version": 83,
-			"versionNonce": 73638279,
+			"version": 115,
+			"versionNonce": 532163175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40362,11 +40362,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1372843497,
-			"version": 67,
-			"versionNonce": 507928169,
+			"version": 99,
+			"versionNonce": 1996706697,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40424,11 +40424,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1168978281,
-			"version": 69,
-			"versionNonce": 379836583,
+			"version": 101,
+			"versionNonce": 1815364999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40494,11 +40494,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 117653799,
-			"version": 73,
-			"versionNonce": 1798215721,
+			"version": 105,
+			"versionNonce": 1413610089,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40588,11 +40588,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 593652263,
-			"version": 82,
-			"versionNonce": 382016231,
+			"version": 114,
+			"versionNonce": 79690919,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40714,11 +40714,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 417604425,
-			"version": 100,
-			"versionNonce": 1162814983,
+			"version": 132,
+			"versionNonce": 617137481,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40920,11 +40920,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 171353737,
-			"version": 114,
-			"versionNonce": 1461936617,
+			"version": 146,
+			"versionNonce": 2097663943,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41182,11 +41182,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 361809385,
-			"version": 87,
-			"versionNonce": 682282279,
+			"version": 119,
+			"versionNonce": 334705705,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41336,11 +41336,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 71111687,
-			"version": 101,
-			"versionNonce": 638663881,
+			"version": 133,
+			"versionNonce": 1059602151,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41546,11 +41546,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 3828073,
-			"version": 71,
-			"versionNonce": 2107811177,
+			"version": 103,
+			"versionNonce": 1437386505,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41656,11 +41656,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1675061801,
-			"version": 62,
-			"versionNonce": 525566375,
+			"version": 94,
+			"versionNonce": 1034799623,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41730,11 +41730,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 175261511,
-			"version": 83,
-			"versionNonce": 2111008519,
+			"version": 115,
+			"versionNonce": 342949353,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41908,11 +41908,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 211233897,
-			"version": 54,
-			"versionNonce": 245639401,
+			"version": 86,
+			"versionNonce": 1704259879,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41970,11 +41970,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1201483753,
-			"version": 78,
-			"versionNonce": 1002305063,
+			"version": 110,
+			"versionNonce": 525031625,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42128,11 +42128,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 265010665,
-			"version": 67,
-			"versionNonce": 1608590281,
+			"version": 99,
+			"versionNonce": 1347040327,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42242,11 +42242,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1485061223,
-			"version": 72,
-			"versionNonce": 1695193415,
+			"version": 104,
+			"versionNonce": 1473730473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42376,11 +42376,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1138550023,
-			"version": 87,
-			"versionNonce": 964412073,
+			"version": 119,
+			"versionNonce": 900338535,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42570,11 +42570,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 788882537,
-			"version": 59,
-			"versionNonce": 2132138087,
+			"version": 91,
+			"versionNonce": 1614838409,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42652,11 +42652,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 378128743,
-			"version": 55,
-			"versionNonce": 136283529,
+			"version": 87,
+			"versionNonce": 503385735,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42718,11 +42718,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 800251143,
-			"version": 46,
-			"versionNonce": 1424614825,
+			"version": 78,
+			"versionNonce": 155337065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42800,11 +42800,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 754817065,
-			"version": 58,
-			"versionNonce": 860841319,
+			"version": 90,
+			"versionNonce": 1410049447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42930,11 +42930,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2083969127,
-			"version": 73,
-			"versionNonce": 2010204297,
+			"version": 105,
+			"versionNonce": 2632777,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43120,11 +43120,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1534443239,
-			"version": 47,
-			"versionNonce": 522985607,
+			"version": 79,
+			"versionNonce": 385243335,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43206,11 +43206,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 427022535,
-			"version": 47,
-			"versionNonce": 1367953257,
+			"version": 79,
+			"versionNonce": 1020115753,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43292,11 +43292,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 218877607,
-			"version": 44,
-			"versionNonce": 1644459943,
+			"version": 76,
+			"versionNonce": 207464423,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43366,11 +43366,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1027138985,
-			"version": 73,
-			"versionNonce": 140343881,
+			"version": 105,
+			"versionNonce": 798912009,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43556,11 +43556,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2016171817,
-			"version": 44,
-			"versionNonce": 1376053959,
+			"version": 76,
+			"versionNonce": 1917719303,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43630,11 +43630,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 434600839,
-			"version": 48,
-			"versionNonce": 1831422249,
+			"version": 80,
+			"versionNonce": 798344425,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43720,11 +43720,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1075242121,
-			"version": 60,
-			"versionNonce": 1271527911,
+			"version": 92,
+			"versionNonce": 289675815,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43858,11 +43858,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1220524327,
-			"version": 76,
-			"versionNonce": 693648393,
+			"version": 108,
+			"versionNonce": 675233737,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44060,11 +44060,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2040561961,
-			"version": 47,
-			"versionNonce": 1684022535,
+			"version": 79,
+			"versionNonce": 1848393031,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44146,11 +44146,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2034112841,
-			"version": 47,
-			"versionNonce": 753259241,
+			"version": 79,
+			"versionNonce": 129392297,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44232,11 +44232,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1253971305,
-			"version": 45,
-			"versionNonce": 1531178023,
+			"version": 77,
+			"versionNonce": 1013120103,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44310,11 +44310,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 927150761,
-			"version": 63,
-			"versionNonce": 1549635017,
+			"version": 95,
+			"versionNonce": 1822859657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44460,11 +44460,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1154572745,
-			"version": 62,
-			"versionNonce": 1281478471,
+			"version": 94,
+			"versionNonce": 263509895,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44606,11 +44606,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1143481095,
-			"version": 87,
-			"versionNonce": 2128276649,
+			"version": 119,
+			"versionNonce": 340494441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44852,11 +44852,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 224118631,
-			"version": 74,
-			"versionNonce": 571887207,
+			"version": 106,
+			"versionNonce": 1314803367,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45046,11 +45046,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2083670025,
-			"version": 46,
-			"versionNonce": 1812557705,
+			"version": 78,
+			"versionNonce": 141595465,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45128,11 +45128,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 426649543,
-			"version": 44,
-			"versionNonce": 1194191239,
+			"version": 76,
+			"versionNonce": 1661723079,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45202,11 +45202,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 437428873,
-			"version": 41,
-			"versionNonce": 2049218153,
+			"version": 73,
+			"versionNonce": 225526313,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45264,11 +45264,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2065470985,
-			"version": 71,
-			"versionNonce": 417669287,
+			"version": 103,
+			"versionNonce": 786043111,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45446,11 +45446,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 877565097,
-			"version": 48,
-			"versionNonce": 737665353,
+			"version": 80,
+			"versionNonce": 1345918217,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45536,11 +45536,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1188474951,
-			"version": 88,
-			"versionNonce": 417887175,
+			"version": 120,
+			"versionNonce": 995449863,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45786,11 +45786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 907027785,
-			"version": 75,
-			"versionNonce": 517918761,
+			"version": 107,
+			"versionNonce": 1413712873,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45984,11 +45984,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 952747433,
-			"version": 44,
-			"versionNonce": 1599365863,
+			"version": 76,
+			"versionNonce": 746210087,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46058,11 +46058,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 437929223,
-			"version": 49,
-			"versionNonce": 952427273,
+			"version": 81,
+			"versionNonce": 563881673,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46152,11 +46152,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 240094727,
-			"version": 46,
-			"versionNonce": 1286958599,
+			"version": 78,
+			"versionNonce": 1924482631,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46234,11 +46234,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1720530729,
-			"version": 70,
-			"versionNonce": 371562985,
+			"version": 102,
+			"versionNonce": 853435817,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46412,11 +46412,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1341712553,
-			"version": 85,
-			"versionNonce": 940340425,
+			"version": 117,
+			"versionNonce": 1021502823,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080168,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46650,11 +46650,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2043111273,
-			"version": 74,
-			"versionNonce": 1958271047,
+			"version": 106,
+			"versionNonce": 590727305,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46844,11 +46844,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1826530855,
-			"version": 51,
-			"versionNonce": 1913975721,
+			"version": 83,
+			"versionNonce": 709861511,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46946,11 +46946,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 273830471,
-			"version": 45,
-			"versionNonce": 480524135,
+			"version": 77,
+			"versionNonce": 475909993,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47024,11 +47024,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 19378439,
-			"version": 47,
-			"versionNonce": 409638537,
+			"version": 79,
+			"versionNonce": 1018689447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47110,11 +47110,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 508653287,
-			"version": 79,
-			"versionNonce": 1779872391,
+			"version": 111,
+			"versionNonce": 77724233,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47324,11 +47324,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1474862601,
-			"version": 48,
-			"versionNonce": 1663421415,
+			"version": 80,
+			"versionNonce": 172518087,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47430,11 +47430,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1522602791,
-			"version": 39,
-			"versionNonce": 601524745,
+			"version": 71,
+			"versionNonce": 1826474281,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47500,11 +47500,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1649228487,
-			"version": 38,
-			"versionNonce": 74561287,
+			"version": 70,
+			"versionNonce": 798849511,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47566,11 +47566,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1646763177,
-			"version": 42,
-			"versionNonce": 2112774377,
+			"version": 74,
+			"versionNonce": 1048361993,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47648,11 +47648,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 874669351,
-			"version": 48,
-			"versionNonce": 1733508647,
+			"version": 80,
+			"versionNonce": 29598983,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47754,11 +47754,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1904519849,
-			"version": 39,
-			"versionNonce": 1495555017,
+			"version": 71,
+			"versionNonce": 695882473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47824,11 +47824,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1402462473,
-			"version": 38,
-			"versionNonce": 2125914439,
+			"version": 70,
+			"versionNonce": 3632167,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47890,11 +47890,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1048155271,
-			"version": 41,
-			"versionNonce": 362281641,
+			"version": 73,
+			"versionNonce": 1382157769,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47968,11 +47968,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2013807431,
-			"version": 39,
-			"versionNonce": 737747047,
+			"version": 71,
+			"versionNonce": 115691335,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48038,11 +48038,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 812799719,
-			"version": 82,
-			"versionNonce": 66370953,
+			"version": 114,
+			"versionNonce": 1078946985,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48280,11 +48280,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 116618697,
-			"version": 74,
-			"versionNonce": 1894153095,
+			"version": 106,
+			"versionNonce": 1076481639,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48490,11 +48490,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2016385031,
-			"version": 40,
-			"versionNonce": 1400251497,
+			"version": 72,
+			"versionNonce": 183365513,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48564,11 +48564,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 124190281,
-			"version": 43,
-			"versionNonce": 1639674535,
+			"version": 75,
+			"versionNonce": 1456564615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48650,11 +48650,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 264936041,
-			"version": 39,
-			"versionNonce": 1072148297,
+			"version": 71,
+			"versionNonce": 1215895145,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48720,11 +48720,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1903163593,
-			"version": 39,
-			"versionNonce": 1462011335,
+			"version": 71,
+			"versionNonce": 1746444455,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48790,11 +48790,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 68049705,
-			"version": 62,
-			"versionNonce": 2141511209,
+			"version": 94,
+			"versionNonce": 1002201417,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48952,11 +48952,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1668733415,
-			"version": 40,
-			"versionNonce": 1614689511,
+			"version": 72,
+			"versionNonce": 900461511,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49026,11 +49026,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 427931241,
-			"version": 67,
-			"versionNonce": 1905864969,
+			"version": 99,
+			"versionNonce": 1108561961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49208,11 +49208,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 239751433,
-			"version": 42,
-			"versionNonce": 1955921927,
+			"version": 74,
+			"versionNonce": 396878567,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49290,11 +49290,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 684060359,
-			"version": 41,
-			"versionNonce": 188753897,
+			"version": 73,
+			"versionNonce": 23683849,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49368,11 +49368,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 39579015,
-			"version": 44,
-			"versionNonce": 1713727271,
+			"version": 76,
+			"versionNonce": 781774343,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49458,11 +49458,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1013600905,
-			"version": 41,
-			"versionNonce": 111493833,
+			"version": 73,
+			"versionNonce": 1446648297,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49536,11 +49536,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1093081033,
-			"version": 41,
-			"versionNonce": 324790855,
+			"version": 73,
+			"versionNonce": 1434162471,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49614,11 +49614,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2136927497,
-			"version": 44,
-			"versionNonce": 1348731305,
+			"version": 76,
+			"versionNonce": 26277065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49704,11 +49704,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 680403431,
-			"version": 43,
-			"versionNonce": 1494550887,
+			"version": 75,
+			"versionNonce": 1404852295,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49790,11 +49790,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1802083271,
-			"version": 56,
-			"versionNonce": 900195465,
+			"version": 88,
+			"versionNonce": 386495401,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49928,11 +49928,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 122361225,
-			"version": 40,
-			"versionNonce": 1151157383,
+			"version": 72,
+			"versionNonce": 1329051495,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50002,11 +50002,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1443335975,
-			"version": 59,
-			"versionNonce": 1378642793,
+			"version": 91,
+			"versionNonce": 718214793,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50152,11 +50152,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 633846279,
-			"version": 45,
-			"versionNonce": 95493031,
+			"version": 77,
+			"versionNonce": 2117743239,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50246,11 +50246,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 762839815,
-			"version": 61,
-			"versionNonce": 1044190793,
+			"version": 93,
+			"versionNonce": 1067277673,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50404,11 +50404,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 856528135,
-			"version": 36,
-			"versionNonce": 545066695,
+			"version": 68,
+			"versionNonce": 427837863,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50462,11 +50462,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2010447753,
-			"version": 38,
-			"versionNonce": 2092262697,
+			"version": 70,
+			"versionNonce": 1958725705,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50528,11 +50528,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 49470983,
-			"version": 41,
-			"versionNonce": 1604165095,
+			"version": 73,
+			"versionNonce": 238451911,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50606,11 +50606,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 844917959,
-			"version": 43,
-			"versionNonce": 687921161,
+			"version": 75,
+			"versionNonce": 1947326249,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50692,11 +50692,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1898111655,
-			"version": 39,
-			"versionNonce": 102713607,
+			"version": 71,
+			"versionNonce": 1878608871,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50762,11 +50762,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1679645255,
-			"version": 38,
-			"versionNonce": 1696263913,
+			"version": 70,
+			"versionNonce": 536807945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50828,11 +50828,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 196801833,
-			"version": 50,
-			"versionNonce": 1098813479,
+			"version": 82,
+			"versionNonce": 718616327,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50942,11 +50942,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1705912615,
-			"version": 58,
-			"versionNonce": 126822857,
+			"version": 90,
+			"versionNonce": 25354473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51088,11 +51088,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1297177865,
-			"version": 44,
-			"versionNonce": 1537733447,
+			"version": 76,
+			"versionNonce": 1967570471,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51178,11 +51178,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 670872039,
-			"version": 62,
-			"versionNonce": 158927017,
+			"version": 94,
+			"versionNonce": 1982389193,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51336,11 +51336,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2092913161,
-			"version": 39,
-			"versionNonce": 754446951,
+			"version": 71,
+			"versionNonce": 37380423,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51406,11 +51406,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 475917417,
-			"version": 37,
-			"versionNonce": 881068937,
+			"version": 69,
+			"versionNonce": 504134313,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51468,11 +51468,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 400397801,
-			"version": 65,
-			"versionNonce": 283882089,
+			"version": 97,
+			"versionNonce": 1930207335,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51646,11 +51646,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1480707431,
-			"version": 39,
-			"versionNonce": 179160231,
+			"version": 71,
+			"versionNonce": 165232009,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51720,11 +51720,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2090789609,
-			"version": 39,
-			"versionNonce": 326860105,
+			"version": 71,
+			"versionNonce": 160037767,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51794,11 +51794,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 925621191,
-			"version": 43,
-			"versionNonce": 301766599,
+			"version": 75,
+			"versionNonce": 684369001,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51884,11 +51884,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 288252551,
-			"version": 37,
-			"versionNonce": 10157127,
+			"version": 69,
+			"versionNonce": 435090087,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51950,11 +51950,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 960606441,
-			"version": 37,
-			"versionNonce": 668405673,
+			"version": 69,
+			"versionNonce": 1990995785,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52016,11 +52016,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1677516585,
-			"version": 72,
-			"versionNonce": 967929255,
+			"version": 104,
+			"versionNonce": 1021838791,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52142,11 +52142,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 485984681,
-			"version": 60,
-			"versionNonce": 111338569,
+			"version": 92,
+			"versionNonce": 1775853097,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52220,11 +52220,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1600681705,
-			"version": 59,
-			"versionNonce": 1419976903,
+			"version": 91,
+			"versionNonce": 1100068071,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52294,11 +52294,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1590726599,
-			"version": 61,
-			"versionNonce": 322007849,
+			"version": 93,
+			"versionNonce": 557691145,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52376,11 +52376,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 758195271,
-			"version": 78,
-			"versionNonce": 835052071,
+			"version": 110,
+			"versionNonce": 1601732615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52542,11 +52542,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 395040103,
-			"version": 76,
-			"versionNonce": 530446281,
+			"version": 108,
+			"versionNonce": 1381279721,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52700,11 +52700,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1107339111,
-			"version": 54,
-			"versionNonce": 724895047,
+			"version": 86,
+			"versionNonce": 681109287,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52814,11 +52814,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 476815209,
-			"version": 64,
-			"versionNonce": 901208457,
+			"version": 96,
+			"versionNonce": 1999225545,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53016,11 +53016,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 260252423,
-			"version": 34,
-			"versionNonce": 1787117673,
+			"version": 66,
+			"versionNonce": 996108871,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53110,11 +53110,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 108686343,
-			"version": 41,
-			"versionNonce": 1539053223,
+			"version": 73,
+			"versionNonce": 1012433321,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53232,11 +53232,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 716693385,
-			"version": 44,
-			"versionNonce": 1588808521,
+			"version": 76,
+			"versionNonce": 883460455,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53366,11 +53366,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 237424873,
-			"version": 29,
-			"versionNonce": 292596167,
+			"version": 61,
+			"versionNonce": 789341321,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080169,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53440,11 +53440,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 449910215,
-			"version": 30,
-			"versionNonce": 2057108009,
+			"version": 62,
+			"versionNonce": 1640023175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53518,11 +53518,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 563991687,
-			"version": 31,
-			"versionNonce": 1164302567,
+			"version": 63,
+			"versionNonce": 721480553,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53600,11 +53600,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1534425257,
-			"version": 39,
-			"versionNonce": 254659849,
+			"version": 71,
+			"versionNonce": 845454247,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53714,11 +53714,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1358953895,
-			"version": 39,
-			"versionNonce": 489169927,
+			"version": 71,
+			"versionNonce": 142710345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53828,11 +53828,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1921269001,
-			"version": 60,
-			"versionNonce": 1138836457,
+			"version": 92,
+			"versionNonce": 1791004359,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54026,11 +54026,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1218413929,
-			"version": 54,
-			"versionNonce": 1488194343,
+			"version": 86,
+			"versionNonce": 174712105,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54200,11 +54200,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1035078953,
-			"version": 30,
-			"versionNonce": 1153621705,
+			"version": 62,
+			"versionNonce": 359734759,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54278,11 +54278,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 642407017,
-			"version": 28,
-			"versionNonce": 74845767,
+			"version": 60,
+			"versionNonce": 203773961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54348,11 +54348,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1075296457,
-			"version": 34,
-			"versionNonce": 812522921,
+			"version": 66,
+			"versionNonce": 897763591,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54442,11 +54442,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1856741321,
-			"version": 47,
-			"versionNonce": 1800056167,
+			"version": 79,
+			"versionNonce": 1873768169,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54584,11 +54584,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 527779079,
-			"version": 67,
-			"versionNonce": 1175355529,
+			"version": 99,
+			"versionNonce": 946999335,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54810,11 +54810,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1726810089,
-			"version": 60,
-			"versionNonce": 1216243847,
+			"version": 92,
+			"versionNonce": 1267968457,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55008,11 +55008,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1283703881,
-			"version": 33,
-			"versionNonce": 1398769513,
+			"version": 65,
+			"versionNonce": 673936199,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55098,11 +55098,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 48051879,
-			"version": 33,
-			"versionNonce": 969785255,
+			"version": 65,
+			"versionNonce": 1491962025,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55188,11 +55188,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1981572969,
-			"version": 30,
-			"versionNonce": 1655485001,
+			"version": 62,
+			"versionNonce": 487289447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55266,11 +55266,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1346110633,
-			"version": 62,
-			"versionNonce": 1902457543,
+			"version": 94,
+			"versionNonce": 560499593,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55472,11 +55472,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1237270505,
-			"version": 50,
-			"versionNonce": 684818729,
+			"version": 82,
+			"versionNonce": 1876856199,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55630,11 +55630,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 63819241,
-			"version": 33,
-			"versionNonce": 669073895,
+			"version": 65,
+			"versionNonce": 1832923753,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55720,11 +55720,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1174160135,
-			"version": 37,
-			"versionNonce": 859403273,
+			"version": 69,
+			"versionNonce": 736183463,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55826,11 +55826,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1698625225,
-			"version": 29,
-			"versionNonce": 1313762567,
+			"version": 61,
+			"versionNonce": 1900019017,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55900,11 +55900,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2055786663,
-			"version": 34,
-			"versionNonce": 2700327,
+			"version": 66,
+			"versionNonce": 1086330823,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55994,11 +55994,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 348158375,
-			"version": 33,
-			"versionNonce": 1498465737,
+			"version": 65,
+			"versionNonce": 1019440169,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56084,11 +56084,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 640644201,
-			"version": 61,
-			"versionNonce": 895358791,
+			"version": 93,
+			"versionNonce": 1956087527,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56286,11 +56286,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1963035495,
-			"version": 75,
-			"versionNonce": 1755784361,
+			"version": 107,
+			"versionNonce": 1739980553,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56544,11 +56544,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 965307145,
-			"version": 54,
-			"versionNonce": 877237863,
+			"version": 86,
+			"versionNonce": 368316935,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56718,11 +56718,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1540868809,
-			"version": 30,
-			"versionNonce": 1066313609,
+			"version": 62,
+			"versionNonce": 9647593,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56796,11 +56796,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1756192777,
-			"version": 29,
-			"versionNonce": 1136144775,
+			"version": 61,
+			"versionNonce": 1842493735,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56870,11 +56870,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 821214375,
-			"version": 26,
-			"versionNonce": 407031401,
+			"version": 58,
+			"versionNonce": 979800265,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56932,11 +56932,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 40349991,
-			"version": 52,
-			"versionNonce": 484862119,
+			"version": 84,
+			"versionNonce": 1906211911,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57098,11 +57098,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 967837255,
-			"version": 67,
-			"versionNonce": 1502550345,
+			"version": 99,
+			"versionNonce": 1523290025,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57324,11 +57324,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1767750313,
-			"version": 59,
-			"versionNonce": 494975943,
+			"version": 91,
+			"versionNonce": 892689255,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57518,11 +57518,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1293567719,
-			"version": 29,
-			"versionNonce": 80676905,
+			"version": 61,
+			"versionNonce": 1743630985,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57592,11 +57592,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1590278505,
-			"version": 29,
-			"versionNonce": 967027431,
+			"version": 61,
+			"versionNonce": 484660871,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57666,11 +57666,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1215513927,
-			"version": 27,
-			"versionNonce": 1676548873,
+			"version": 59,
+			"versionNonce": 378042729,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57732,11 +57732,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 785491687,
-			"version": 51,
-			"versionNonce": 1898274087,
+			"version": 83,
+			"versionNonce": 1332014503,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57902,11 +57902,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 556901353,
-			"version": 26,
-			"versionNonce": 608677065,
+			"version": 58,
+			"versionNonce": 2011653193,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57972,11 +57972,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 29430345,
-			"version": 36,
-			"versionNonce": 1726816327,
+			"version": 68,
+			"versionNonce": 1743167687,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58082,11 +58082,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1191869193,
-			"version": 49,
-			"versionNonce": 573123497,
+			"version": 81,
+			"versionNonce": 1743123241,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58244,11 +58244,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 407169031,
-			"version": 27,
-			"versionNonce": 1359970151,
+			"version": 59,
+			"versionNonce": 1745154023,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58318,11 +58318,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 188788297,
-			"version": 36,
-			"versionNonce": 691523209,
+			"version": 68,
+			"versionNonce": 988784137,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58428,11 +58428,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 957674377,
-			"version": 33,
-			"versionNonce": 1613698409,
+			"version": 65,
+			"versionNonce": 1775000327,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58530,11 +58530,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1753211241,
-			"version": 33,
-			"versionNonce": 1309020583,
+			"version": 65,
+			"versionNonce": 738196713,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58632,11 +58632,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 324678473,
-			"version": 25,
-			"versionNonce": 173703241,
+			"version": 57,
+			"versionNonce": 297361959,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58702,11 +58702,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 398722473,
-			"version": 71,
-			"versionNonce": 1052984519,
+			"version": 103,
+			"versionNonce": 178419657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58956,11 +58956,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1745680073,
-			"version": 41,
-			"versionNonce": 1957201447,
+			"version": 73,
+			"versionNonce": 1085834567,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59118,11 +59118,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1595967559,
-			"version": 21,
-			"versionNonce": 1822921673,
+			"version": 53,
+			"versionNonce": 686986921,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59200,11 +59200,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 777892073,
-			"version": 22,
-			"versionNonce": 1109600583,
+			"version": 54,
+			"versionNonce": 103171175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59286,11 +59286,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 660766985,
-			"version": 19,
-			"versionNonce": 1140077225,
+			"version": 51,
+			"versionNonce": 161208713,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59360,11 +59360,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 563530663,
-			"version": 41,
-			"versionNonce": 1251764327,
+			"version": 73,
+			"versionNonce": 1372528519,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59522,11 +59522,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1552954441,
-			"version": 27,
-			"versionNonce": 168424841,
+			"version": 59,
+			"versionNonce": 1306116201,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59628,11 +59628,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1301252327,
-			"version": 23,
-			"versionNonce": 1809892231,
+			"version": 55,
+			"versionNonce": 1710200487,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59718,11 +59718,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1542770985,
-			"version": 42,
-			"versionNonce": 1378114665,
+			"version": 74,
+			"versionNonce": 1668795209,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59884,11 +59884,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1977946633,
-			"version": 56,
-			"versionNonce": 372030119,
+			"version": 88,
+			"versionNonce": 154413511,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60106,11 +60106,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1879312137,
-			"version": 39,
-			"versionNonce": 1007609673,
+			"version": 71,
+			"versionNonce": 1926330921,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60260,11 +60260,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2142163175,
-			"version": 15,
-			"versionNonce": 2116865479,
+			"version": 47,
+			"versionNonce": 2025412839,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60318,11 +60318,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 385721769,
-			"version": 19,
-			"versionNonce": 1646597673,
+			"version": 51,
+			"versionNonce": 215108873,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60392,11 +60392,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1094739207,
-			"version": 16,
-			"versionNonce": 251493607,
+			"version": 48,
+			"versionNonce": 436970503,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60454,11 +60454,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 300820871,
-			"version": 21,
-			"versionNonce": 122841353,
+			"version": 53,
+			"versionNonce": 418759657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60536,11 +60536,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 883471273,
-			"version": 22,
-			"versionNonce": 472598535,
+			"version": 54,
+			"versionNonce": 1831308071,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60622,11 +60622,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 997202889,
-			"version": 19,
-			"versionNonce": 85090281,
+			"version": 51,
+			"versionNonce": 55008969,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60696,11 +60696,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1332114663,
-			"version": 23,
-			"versionNonce": 1404219175,
+			"version": 55,
+			"versionNonce": 1048153671,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60786,11 +60786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 938026281,
-			"version": 18,
-			"versionNonce": 2037414601,
+			"version": 50,
+			"versionNonce": 711105961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60856,11 +60856,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 929024905,
-			"version": 31,
-			"versionNonce": 1879061063,
+			"version": 63,
+			"versionNonce": 417213799,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60974,11 +60974,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 597274599,
-			"version": 20,
-			"versionNonce": 889731497,
+			"version": 52,
+			"versionNonce": 225640585,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61052,11 +61052,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 452220583,
-			"version": 17,
-			"versionNonce": 703615335,
+			"version": 49,
+			"versionNonce": 2007099527,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61118,11 +61118,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1884200649,
-			"version": 18,
-			"versionNonce": 1761942665,
+			"version": 50,
+			"versionNonce": 976488297,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61188,11 +61188,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1694843177,
-			"version": 17,
-			"versionNonce": 1791986823,
+			"version": 49,
+			"versionNonce": 947994535,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61254,11 +61254,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1168999,
-			"version": 33,
-			"versionNonce": 354591593,
+			"version": 65,
+			"versionNonce": 2062627401,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61384,11 +61384,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1485275657,
-			"version": 32,
-			"versionNonce": 1046111143,
+			"version": 64,
+			"versionNonce": 1302901447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61510,11 +61510,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1436605577,
-			"version": 19,
-			"versionNonce": 900484681,
+			"version": 51,
+			"versionNonce": 1149632809,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61584,11 +61584,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 454826023,
-			"version": 62,
-			"versionNonce": 79517383,
+			"version": 94,
+			"versionNonce": 800375271,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61830,11 +61830,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 647032967,
-			"version": 48,
-			"versionNonce": 830315817,
+			"version": 80,
+			"versionNonce": 1683878921,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62020,11 +62020,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 256804615,
-			"version": 22,
-			"versionNonce": 1687479783,
+			"version": 54,
+			"versionNonce": 263318791,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62106,11 +62106,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2057635047,
-			"version": 22,
-			"versionNonce": 134352905,
+			"version": 54,
+			"versionNonce": 1853131497,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62192,11 +62192,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 162389703,
-			"version": 17,
-			"versionNonce": 2095943943,
+			"version": 49,
+			"versionNonce": 1226617895,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62258,11 +62258,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 686110889,
-			"version": 20,
-			"versionNonce": 1060447977,
+			"version": 52,
+			"versionNonce": 1800750537,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62336,11 +62336,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1083451273,
-			"version": 43,
-			"versionNonce": 295854537,
+			"version": 75,
+			"versionNonce": 333551431,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62510,11 +62510,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 515139401,
-			"version": 30,
-			"versionNonce": 428096327,
+			"version": 62,
+			"versionNonce": 1176216745,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62628,11 +62628,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2017876007,
-			"version": 16,
-			"versionNonce": 1550139561,
+			"version": 48,
+			"versionNonce": 1985812071,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62694,11 +62694,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1708668233,
-			"version": 16,
-			"versionNonce": 2014001767,
+			"version": 48,
+			"versionNonce": 2054367113,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62760,11 +62760,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 165790791,
-			"version": 18,
-			"versionNonce": 1294549897,
+			"version": 50,
+			"versionNonce": 2002497927,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62834,11 +62834,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1763827209,
-			"version": 18,
-			"versionNonce": 1738888583,
+			"version": 50,
+			"versionNonce": 43470441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62908,11 +62908,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 131063463,
-			"version": 19,
-			"versionNonce": 1344924265,
+			"version": 51,
+			"versionNonce": 270133415,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62986,11 +62986,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 937981287,
-			"version": 18,
-			"versionNonce": 261033127,
+			"version": 50,
+			"versionNonce": 89364809,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63060,11 +63060,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 808436457,
-			"version": 55,
-			"versionNonce": 1043510601,
+			"version": 87,
+			"versionNonce": 1581530055,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63282,11 +63282,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1203378153,
-			"version": 36,
-			"versionNonce": 2071257031,
+			"version": 68,
+			"versionNonce": 1141082153,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63428,11 +63428,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 193271527,
-			"version": 15,
-			"versionNonce": 1251943465,
+			"version": 47,
+			"versionNonce": 368519911,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63490,11 +63490,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1624959847,
-			"version": 19,
-			"versionNonce": 225660647,
+			"version": 51,
+			"versionNonce": 1217567497,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63568,11 +63568,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1207104039,
-			"version": 17,
-			"versionNonce": 828028681,
+			"version": 49,
+			"versionNonce": 868169223,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63638,11 +63638,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1500756423,
-			"version": 18,
-			"versionNonce": 806803975,
+			"version": 50,
+			"versionNonce": 1400656361,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63712,11 +63712,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 357025159,
-			"version": 16,
-			"versionNonce": 2084391113,
+			"version": 48,
+			"versionNonce": 1855511847,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63786,11 +63786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1684003017,
-			"version": 16,
-			"versionNonce": 1739539527,
+			"version": 48,
+			"versionNonce": 164375753,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63860,11 +63860,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2023827431,
-			"version": 19,
-			"versionNonce": 554387369,
+			"version": 51,
+			"versionNonce": 1777377351,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63946,11 +63946,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 655860297,
-			"version": 14,
-			"versionNonce": 1031170697,
+			"version": 46,
+			"versionNonce": 1662888873,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64024,11 +64024,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1392875401,
-			"version": 14,
-			"versionNonce": 1264721543,
+			"version": 46,
+			"versionNonce": 664993639,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64102,11 +64102,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1305124041,
-			"version": 10,
-			"versionNonce": 708456809,
+			"version": 42,
+			"versionNonce": 1469861513,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64164,11 +64164,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1512533961,
-			"version": 23,
-			"versionNonce": 480386121,
+			"version": 55,
+			"versionNonce": 972847751,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64282,11 +64282,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1975779177,
-			"version": 27,
-			"versionNonce": 190015687,
+			"version": 59,
+			"versionNonce": 1308857705,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64412,11 +64412,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 367600841,
-			"version": 10,
-			"versionNonce": 344566569,
+			"version": 42,
+			"versionNonce": 901353895,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64474,11 +64474,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 785468615,
-			"version": 28,
-			"versionNonce": 311998439,
+			"version": 60,
+			"versionNonce": 1235157065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64608,11 +64608,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 414749833,
-			"version": 13,
-			"versionNonce": 173825545,
+			"version": 45,
+			"versionNonce": 1678165191,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64686,11 +64686,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1918622153,
-			"version": 13,
-			"versionNonce": 514269959,
+			"version": 45,
+			"versionNonce": 1481248553,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64764,11 +64764,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1184509705,
-			"version": 13,
-			"versionNonce": 1561703657,
+			"version": 45,
+			"versionNonce": 880841703,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64842,11 +64842,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1239913545,
-			"version": 9,
-			"versionNonce": 1878731303,
+			"version": 41,
+			"versionNonce": 1081098761,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64904,11 +64904,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 51029961,
-			"version": 10,
-			"versionNonce": 4272073,
+			"version": 42,
+			"versionNonce": 1865645831,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64970,11 +64970,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1455356359,
-			"version": 32,
-			"versionNonce": 58805575,
+			"version": 64,
+			"versionNonce": 1863129321,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65124,11 +65124,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1908656457,
-			"version": 17,
-			"versionNonce": 1778011817,
+			"version": 49,
+			"versionNonce": 647759399,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65218,11 +65218,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 517943369,
-			"version": 18,
-			"versionNonce": 76942439,
+			"version": 50,
+			"versionNonce": 632034249,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65316,11 +65316,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2131093383,
-			"version": 10,
-			"versionNonce": 248740841,
+			"version": 42,
+			"versionNonce": 1772529991,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354496714,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65386,11 +65386,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 388059943,
-			"version": 9,
-			"versionNonce": 1398212519,
+			"version": 41,
+			"versionNonce": 1751691945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354497083,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65452,11 +65452,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2000415305,
-			"version": 10,
-			"versionNonce": 1209687879,
+			"version": 42,
+			"versionNonce": 900720743,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354497528,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65522,11 +65522,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 615734441,
-			"version": 21,
-			"versionNonce": 1423265129,
+			"version": 53,
+			"versionNonce": 737047945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354498048,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65632,11 +65632,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 134175143,
-			"version": 23,
-			"versionNonce": 495030279,
+			"version": 55,
+			"versionNonce": 679756679,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354498888,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65754,11 +65754,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 556046313,
-			"version": 7,
-			"versionNonce": 1721914505,
+			"version": 39,
+			"versionNonce": 1131994217,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354499326,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65812,11 +65812,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 180475015,
-			"version": 9,
-			"versionNonce": 226220295,
+			"version": 41,
+			"versionNonce": 1918909095,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354499676,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65878,11 +65878,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2072993513,
-			"version": 8,
-			"versionNonce": 986684807,
+			"version": 40,
+			"versionNonce": 248735561,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354500646,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65940,11 +65940,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1369973353,
-			"version": 8,
-			"versionNonce": 400368135,
+			"version": 40,
+			"versionNonce": 133189063,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354501813,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66002,11 +66002,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 964896233,
-			"version": 8,
-			"versionNonce": 432301703,
+			"version": 40,
+			"versionNonce": 1750701609,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354502182,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66064,11 +66064,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 536897897,
-			"version": 7,
-			"versionNonce": 1311610377,
+			"version": 39,
+			"versionNonce": 340851943,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354502602,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66122,11 +66122,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 631597831,
-			"version": 26,
-			"versionNonce": 1573648233,
+			"version": 58,
+			"versionNonce": 1391913225,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354504197,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66256,11 +66256,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 782258087,
-			"version": 20,
-			"versionNonce": 1735358505,
+			"version": 52,
+			"versionNonce": 722388999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354504843,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66366,11 +66366,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 595737319,
-			"version": 8,
-			"versionNonce": 957455273,
+			"version": 40,
+			"versionNonce": 1747378153,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354506011,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66428,11 +66428,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1327894375,
-			"version": 4,
-			"versionNonce": 1270580585,
+			"version": 36,
+			"versionNonce": 975580967,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354506283,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66474,11 +66474,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 62431655,
-			"version": 30,
-			"versionNonce": 780110985,
+			"version": 62,
+			"versionNonce": 99941065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354507151,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66624,11 +66624,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 611589255,
-			"version": 16,
-			"versionNonce": 489927561,
+			"version": 48,
+			"versionNonce": 1006875207,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354507671,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66718,11 +66718,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1203365255,
-			"version": 29,
-			"versionNonce": 827972935,
+			"version": 61,
+			"versionNonce": 1023195561,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354508651,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66864,11 +66864,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 263372457,
-			"version": 47,
-			"versionNonce": 940177479,
+			"version": 79,
+			"versionNonce": 696504679,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675354767763,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -66876,6 +66876,9346 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"scale": [
 				1,
 				1
+			]
+		},
+		{
+			"id": "Ml6KzT_drPXQXcSQEZcCG",
+			"type": "freedraw",
+			"x": -419.1539420941825,
+			"y": 17336.87920378488,
+			"width": 28.872185114157787,
+			"height": 65.38700746441464,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 416372583,
+			"version": 61,
+			"versionNonce": 753358023,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5.944273405855995,
+					20.380365962933865
+				],
+				[
+					-5.944273405855995,
+					21.22954787805429
+				],
+				[
+					-6.793455320978296,
+					35.665640435134264
+				],
+				[
+					-5.944273405855995,
+					45.8558234166012
+				],
+				[
+					-2.547545745366847,
+					50.95091490733466
+				],
+				[
+					-0.8491819151223012,
+					52.64927873757915
+				],
+				[
+					0,
+					52.64927873757915
+				],
+				[
+					1.6983638302446025,
+					52.64927873757915
+				],
+				[
+					4.245909575611449,
+					50.10173299221424
+				],
+				[
+					8.491819151222899,
+					43.30827767123628
+				],
+				[
+					11.888546811712047,
+					31.41973085952486
+				],
+				[
+					11.888546811712047,
+					30.570548944400798
+				],
+				[
+					16.98363830244574,
+					16.134456387320824
+				],
+				[
+					17.83282021756804,
+					10.190182981466933
+				],
+				[
+					18.682002132690343,
+					7.6426372360983805
+				],
+				[
+					18.682002132690343,
+					11.039364896587358
+				],
+				[
+					19.531184047812587,
+					19.531184047809802
+				],
+				[
+					19.531184047812587,
+					34.81645852001384
+				],
+				[
+					20.38036596293489,
+					50.10173299221424
+				],
+				[
+					21.22954787805719,
+					57.74437022831262
+				],
+				[
+					21.22954787805719,
+					63.68864363417015
+				],
+				[
+					21.22954787805719,
+					65.38700746441464
+				],
+				[
+					22.07872979317949,
+					65.38700746441464
+				],
+				[
+					22.07872979317949,
+					64.53782554929421
+				],
+				[
+					21.22954787805719,
+					62.839461719046085
+				],
+				[
+					21.22954787805719,
+					61.99027980392566
+				],
+				[
+					21.22954787805719,
+					61.99027980392566
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				21.22954787805719,
+				61.99027980392566
+			]
+		},
+		{
+			"id": "x1NfEVcvUgopfhB3a0NJT",
+			"type": "freedraw",
+			"x": -366.5046633566007,
+			"y": 17393.774392098072,
+			"width": 0.8491819151223012,
+			"height": 22.927911708302418,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1149744873,
+			"version": 39,
+			"versionNonce": 1893828841,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.547545745364914
+				],
+				[
+					0,
+					5.944273405853892
+				],
+				[
+					0,
+					8.491819151222444
+				],
+				[
+					-0.8491819151223012,
+					11.888546811711421
+				],
+				[
+					-0.8491819151223012,
+					15.285274472200399
+				],
+				[
+					-0.8491819151223012,
+					18.682002132689377
+				],
+				[
+					-0.8491819151223012,
+					21.22954787805793
+				],
+				[
+					-0.8491819151223012,
+					22.927911708302418
+				],
+				[
+					-0.8491819151223012,
+					22.927911708302418
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-0.8491819151223012,
+				22.927911708302418
+			]
+		},
+		{
+			"id": "gfkxc03LsLZqg7k0U3VTl",
+			"type": "freedraw",
+			"x": -341.87838781805436,
+			"y": 17371.695662304894,
+			"width": 33.11809468976918,
+			"height": 6.793455320977955,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1296912327,
+			"version": 41,
+			"versionNonce": 780572199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151240634
+				],
+				[
+					2.547545745366847,
+					-1.6983638302444888
+				],
+				[
+					5.944273405855995,
+					-2.547545745368552
+				],
+				[
+					11.039364896589746,
+					-3.3967276604889776
+				],
+				[
+					15.285274472201138,
+					-4.245909575613041
+				],
+				[
+					20.38036596293489,
+					-5.095091490733466
+				],
+				[
+					25.475457453668582,
+					-5.94427340585753
+				],
+				[
+					29.72136702928003,
+					-5.94427340585753
+				],
+				[
+					32.268912774646935,
+					-5.94427340585753
+				],
+				[
+					33.11809468976918,
+					-6.793455320977955
+				],
+				[
+					33.11809468976918,
+					-6.793455320977955
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				33.11809468976918,
+				-6.793455320977955
+			]
+		},
+		{
+			"id": "JffxCG2vRnKV-_Fz220CA",
+			"type": "freedraw",
+			"x": -322.3472037702418,
+			"y": 17378.48911762587,
+			"width": 18.682002132690343,
+			"height": 0.8491819151240634,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1244971369,
+			"version": 38,
+			"versionNonce": 1400013769,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223012,
+					0
+				],
+				[
+					5.095091490733751,
+					0
+				],
+				[
+					10.190182981467444,
+					0
+				],
+				[
+					13.586910641956592,
+					0
+				],
+				[
+					16.134456387323496,
+					-0.8491819151240634
+				],
+				[
+					17.83282021756804,
+					-0.8491819151240634
+				],
+				[
+					18.682002132690343,
+					-0.8491819151240634
+				],
+				[
+					18.682002132690343,
+					-0.8491819151240634
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.682002132690343,
+				-0.8491819151240634
+			]
+		},
+		{
+			"id": "Y39NO0xkPUkq7ohFOr9Mn",
+			"type": "freedraw",
+			"x": -271.3962888629046,
+			"y": 17353.01366017218,
+			"width": 34.81645852001384,
+			"height": 54.34764256782728,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 700588583,
+			"version": 40,
+			"versionNonce": 679660199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.396727660489205,
+					9.341001066346507
+				],
+				[
+					4.245909575611449,
+					10.19018298147057
+				],
+				[
+					9.341001066345143,
+					22.078729793181992
+				],
+				[
+					16.13445638732344,
+					33.11809468976935
+				],
+				[
+					23.777093623424093,
+					44.157459586360346
+				],
+				[
+					30.57054894440239,
+					51.800096822462365
+				],
+				[
+					31.419730859524634,
+					53.498460652706854
+				],
+				[
+					31.419730859524634,
+					54.34764256782728
+				],
+				[
+					31.419730859524634,
+					53.498460652706854
+				],
+				[
+					30.57054894440239,
+					39.06236809562688
+				],
+				[
+					30.57054894440239,
+					38.21318618050282
+				],
+				[
+					31.419730859524634,
+					18.682002132693015
+				],
+				[
+					33.11809468976924,
+					9.341001066346507
+				],
+				[
+					33.96727660489148,
+					2.547545745368552
+				],
+				[
+					34.81645852001384,
+					0
+				],
+				[
+					34.81645852001384,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.81645852001384,
+				0
+			]
+		},
+		{
+			"id": "3dXTYitCUwPGNQHKIJUH1",
+			"type": "freedraw",
+			"x": -212.8027367194668,
+			"y": 17409.05966657025,
+			"width": 4.245909575611449,
+			"height": 11.888546811711421,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1252675143,
+			"version": 30,
+			"versionNonce": 769775433,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151240634
+				],
+				[
+					0.8491819151223581,
+					1.6983638302444888
+				],
+				[
+					2.547545745366847,
+					5.94427340585753
+				],
+				[
+					3.396727660489205,
+					9.341001066346507
+				],
+				[
+					4.245909575611449,
+					11.888546811711421
+				],
+				[
+					4.245909575611449,
+					11.888546811711421
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				4.245909575611449,
+				11.888546811711421
+			]
+		},
+		{
+			"id": "hBjbUZbDCaFkPt4Ny9gfD",
+			"type": "freedraw",
+			"x": -194.1207345867765,
+			"y": 17375.94157188048,
+			"width": 17.83282021756804,
+			"height": 5.944273405853892,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1534685895,
+			"version": 32,
+			"versionNonce": 2067848647,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					4.245909575611449,
+					-1.6983638302444888
+				],
+				[
+					8.491819151222899,
+					-2.547545745364914
+				],
+				[
+					13.586910641956592,
+					-4.245909575609403
+				],
+				[
+					16.983638302445797,
+					-5.095091490733466
+				],
+				[
+					17.83282021756804,
+					-5.095091490733466
+				],
+				[
+					17.83282021756804,
+					-5.944273405853892
+				],
+				[
+					17.83282021756804,
+					-5.944273405853892
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.83282021756804,
+				-5.944273405853892
+			]
+		},
+		{
+			"id": "SykAb-RY7GTkwPakIOw1_",
+			"type": "freedraw",
+			"x": -187.3272792657982,
+			"y": 17393.77439209805,
+			"width": 27.1738212839133,
+			"height": 8.491819151222444,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 162911847,
+			"version": 31,
+			"versionNonce": 2082080297,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.095091490733807,
+					-1.6983638302444888
+				],
+				[
+					10.190182981467501,
+					-3.3967276604889776
+				],
+				[
+					16.134456387323553,
+					-5.095091490733466
+				],
+				[
+					21.229547878057247,
+					-6.793455320977955
+				],
+				[
+					26.32463936879094,
+					-7.6426372361020185
+				],
+				[
+					27.1738212839133,
+					-8.491819151222444
+				],
+				[
+					27.1738212839133,
+					-8.491819151222444
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				27.1738212839133,
+				-8.491819151222444
+			]
+		},
+		{
+			"id": "TwIGb7rKaFjQ1Ky1aWW-n",
+			"type": "freedraw",
+			"x": -134.67800052821633,
+			"y": 17346.2202048512,
+			"width": 15.285274472201195,
+			"height": 54.34764256782728,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1082514185,
+			"version": 33,
+			"versionNonce": 1863290087,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3967276604889776
+				],
+				[
+					0.8491819151222444,
+					5.095091490733466
+				],
+				[
+					4.245909575611449,
+					19.53118404781344
+				],
+				[
+					7.642637236100541,
+					33.11809468976935
+				],
+				[
+					11.039364896589746,
+					43.30827767123628
+				],
+				[
+					12.737728726834348,
+					50.9509149073383
+				],
+				[
+					14.436092557078837,
+					53.498460652706854
+				],
+				[
+					15.285274472201195,
+					54.34764256782728
+				],
+				[
+					15.285274472201195,
+					54.34764256782728
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.285274472201195,
+				54.34764256782728
+			]
+		},
+		{
+			"id": "DC0rSMjJv3qFCXY8B-H6I",
+			"type": "freedraw",
+			"x": -108.35336115942539,
+			"y": 17375.94157188048,
+			"width": 82.3706457668618,
+			"height": 83.21982768198359,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 354570663,
+			"version": 55,
+			"versionNonce": 1965644041,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					-1.6983638302444888
+				],
+				[
+					1.6983638302444888,
+					-8.491819151222444
+				],
+				[
+					3.3967276604890912,
+					-16.134456387324462
+				],
+				[
+					7.642637236100541,
+					-25.47545745366733
+				],
+				[
+					11.039364896589746,
+					-31.41973085952486
+				],
+				[
+					15.285274472201081,
+					-34.81645852001384
+				],
+				[
+					21.229547878057133,
+					-37.36400426537875
+				],
+				[
+					28.02300319903543,
+					-38.21318618050282
+				],
+				[
+					35.66564043513597,
+					-33.967276604889776
+				],
+				[
+					43.308277671236624,
+					-25.47545745366733
+				],
+				[
+					50.10173299221492,
+					-12.737728726831847
+				],
+				[
+					52.64927873758177,
+					0
+				],
+				[
+					50.950914907337165,
+					11.888546811711421
+				],
+				[
+					46.705005331725715,
+					17.83282021756895
+				],
+				[
+					40.76073192586978,
+					18.682002132689377
+				],
+				[
+					28.872185114157674,
+					14.436092557079974
+				],
+				[
+					22.927911708301735,
+					9.341001066346507
+				],
+				[
+					21.229547878057133,
+					5.94427340585753
+				],
+				[
+					21.229547878057133,
+					5.095091490733466
+				],
+				[
+					23.77709362342398,
+					5.095091490733466
+				],
+				[
+					30.570548944402276,
+					11.039364896590996
+				],
+				[
+					41.60991384099202,
+					25.47545745367097
+				],
+				[
+					51.80009682245952,
+					37.36400426538239
+				],
+				[
+					60.29191597368231,
+					44.157459586360346
+				],
+				[
+					67.0853712946606,
+					45.00664150148077
+				],
+				[
+					73.02964470051666,
+					44.157459586360346
+				],
+				[
+					77.2755542761281,
+					41.609913840991794
+				],
+				[
+					79.82310002149495,
+					39.06236809562688
+				],
+				[
+					82.3706457668618,
+					36.51482235025833
+				],
+				[
+					82.3706457668618,
+					35.6656404351379
+				],
+				[
+					82.3706457668618,
+					35.6656404351379
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				82.3706457668618,
+				35.6656404351379
+			]
+		},
+		{
+			"id": "jhhdTEJLTFAwrZqlPQi5c",
+			"type": "freedraw",
+			"x": -449.7244910385849,
+			"y": 17582.2927772552,
+			"width": 36.51482235025833,
+			"height": 75.57719044588521,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1173622345,
+			"version": 39,
+			"versionNonce": 1333483527,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151204254
+				],
+				[
+					0.8491819151222444,
+					7.6426372360983805
+				],
+				[
+					5.095091490733694,
+					21.22954787805429
+				],
+				[
+					9.341001066345143,
+					39.06236809562324
+				],
+				[
+					13.586910641956592,
+					50.95091490733466
+				],
+				[
+					17.83282021756804,
+					57.74437022831262
+				],
+				[
+					20.38036596293489,
+					62.839461719046085
+				],
+				[
+					22.07872979317949,
+					63.68864363417015
+				],
+				[
+					22.07872979317949,
+					62.839461719046085
+				],
+				[
+					22.927911708301735,
+					58.59355214343668
+				],
+				[
+					26.324639368790827,
+					46.70500533172526
+				],
+				[
+					36.51482235025833,
+					-5.94427340585753
+				],
+				[
+					36.51482235025833,
+					-6.793455320981593
+				],
+				[
+					36.51482235025833,
+					-11.88854681171506
+				],
+				[
+					36.51482235025833,
+					-11.88854681171506
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.51482235025833,
+				-11.88854681171506
+			]
+		},
+		{
+			"id": "U_dgc63I5QMdxGo0HQTFY",
+			"type": "freedraw",
+			"x": -403.0194857068592,
+			"y": 17646.83060280449,
+			"width": 13.586910641956706,
+			"height": 27.17382128391546,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1011425223,
+			"version": 55,
+			"versionNonce": 2055950313,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					5.095091490737104
+				],
+				[
+					0,
+					9.341001066346507
+				],
+				[
+					0,
+					10.19018298147057
+				],
+				[
+					0,
+					13.586910641959548
+				],
+				[
+					0,
+					16.983638302448526
+				],
+				[
+					0,
+					19.53118404781344
+				],
+				[
+					0,
+					22.927911708302418
+				],
+				[
+					0.8491819151223581,
+					24.626275538546906
+				],
+				[
+					0.8491819151223581,
+					25.47545745367097
+				],
+				[
+					0.8491819151223581,
+					22.927911708302418
+				],
+				[
+					0.8491819151223581,
+					18.682002132693015
+				],
+				[
+					0.8491819151223581,
+					13.586910641959548
+				],
+				[
+					0.8491819151223581,
+					7.6426372361020185
+				],
+				[
+					0.8491819151223581,
+					2.547545745368552
+				],
+				[
+					1.6983638302446025,
+					-1.6983638302444888
+				],
+				[
+					2.5475457453669605,
+					-1.6983638302444888
+				],
+				[
+					3.396727660489205,
+					-1.6983638302444888
+				],
+				[
+					4.245909575611449,
+					0
+				],
+				[
+					5.095091490733807,
+					2.547545745368552
+				],
+				[
+					5.944273405856052,
+					5.94427340585753
+				],
+				[
+					6.79345532097841,
+					9.341001066346507
+				],
+				[
+					9.341001066345257,
+					15.285274472204037
+				],
+				[
+					11.039364896589746,
+					18.682002132693015
+				],
+				[
+					11.888546811712104,
+					21.22954787805793
+				],
+				[
+					11.888546811712104,
+					22.078729793181992
+				],
+				[
+					12.737728726834348,
+					22.927911708302418
+				],
+				[
+					13.586910641956706,
+					22.927911708302418
+				],
+				[
+					13.586910641956706,
+					22.078729793181992
+				],
+				[
+					13.586910641956706,
+					20.380365962937503
+				],
+				[
+					13.586910641956706,
+					17.83282021756895
+				],
+				[
+					13.586910641956706,
+					17.83282021756895
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.586910641956706,
+				17.83282021756895
+			]
+		},
+		{
+			"id": "C4JGyn7CVgVP9h7HPkjr7",
+			"type": "freedraw",
+			"x": -374.99648250782366,
+			"y": 17618.807599605458,
+			"width": 12.737728726834348,
+			"height": 0.8491819151240634,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 340587049,
+			"version": 33,
+			"versionNonce": 1115733799,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					3.3967276604890912,
+					0
+				],
+				[
+					6.793455320978296,
+					0
+				],
+				[
+					9.341001066345143,
+					0
+				],
+				[
+					11.039364896589746,
+					0
+				],
+				[
+					11.88854681171199,
+					0
+				],
+				[
+					12.737728726834348,
+					0
+				],
+				[
+					12.737728726834348,
+					-0.8491819151240634
+				],
+				[
+					12.737728726834348,
+					-0.8491819151240634
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				12.737728726834348,
+				-0.8491819151240634
+			]
+		},
+		{
+			"id": "JDiP7c5scTaVgEQjMbupa",
+			"type": "freedraw",
+			"x": -369.90139101708996,
+			"y": 17634.94205599278,
+			"width": 15.285274472201195,
+			"height": 5.095091490733466,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 531951751,
+			"version": 33,
+			"versionNonce": 843803337,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0.8491819151240634
+				],
+				[
+					4.245909575611449,
+					0.8491819151240634
+				],
+				[
+					6.793455320978296,
+					-0.8491819151204254
+				],
+				[
+					10.190182981467501,
+					-2.547545745364914
+				],
+				[
+					12.737728726834348,
+					-3.3967276604889776
+				],
+				[
+					13.586910641956592,
+					-4.245909575609403
+				],
+				[
+					14.43609255707895,
+					-4.245909575609403
+				],
+				[
+					15.285274472201195,
+					-4.245909575609403
+				],
+				[
+					15.285274472201195,
+					-4.245909575609403
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.285274472201195,
+				-4.245909575609403
+			]
+		},
+		{
+			"id": "cGHu0BUMxLtDKC5LDzMNt",
+			"type": "freedraw",
+			"x": -126.18618137699332,
+			"y": 17608.617416623973,
+			"width": 4.245909575611449,
+			"height": 14.436092557079974,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 763455431,
+			"version": 33,
+			"versionNonce": 2078542985,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					5.94427340585753
+				],
+				[
+					0.8491819151222444,
+					9.341001066346507
+				],
+				[
+					0.8491819151222444,
+					10.190182981466933
+				],
+				[
+					0.8491819151222444,
+					12.737728726835485
+				],
+				[
+					0,
+					14.436092557079974
+				],
+				[
+					-0.8491819151223581,
+					14.436092557079974
+				],
+				[
+					-2.5475457453669605,
+					14.436092557079974
+				],
+				[
+					-3.396727660489205,
+					13.586910641959548
+				],
+				[
+					-3.396727660489205,
+					13.586910641959548
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.396727660489205,
+				13.586910641959548
+			]
+		},
+		{
+			"id": "V6AWcHpVeZeD8cHa05-Gl",
+			"type": "freedraw",
+			"x": -132.13045478284937,
+			"y": 17572.95177618884,
+			"width": 1.6983638302446025,
+			"height": 0.8491819151240634,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 56320649,
+			"version": 28,
+			"versionNonce": 764910727,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					1.6983638302446025,
+					-0.8491819151240634
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				-0.8491819151240634
+			]
+		},
+		{
+			"id": "_CgYWrNIVr8y1EhT83jpu",
+			"type": "freedraw",
+			"x": -93.91726860234644,
+			"y": 17574.650140019083,
+			"width": 30.57054894440239,
+			"height": 44.15745958635671,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1676780329,
+			"version": 47,
+			"versionNonce": 1319342953,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					6.793455320977955
+				],
+				[
+					3.3967276604890912,
+					18.682002132689377
+				],
+				[
+					8.491819151222899,
+					33.11809468976935
+				],
+				[
+					9.341001066345143,
+					33.967276604889776
+				],
+				[
+					15.285274472201195,
+					38.21318618050282
+				],
+				[
+					19.531184047812644,
+					39.06236809562324
+				],
+				[
+					22.07872979317949,
+					36.51482235025833
+				],
+				[
+					23.77709362342398,
+					32.26891277464529
+				],
+				[
+					25.475457453668582,
+					25.47545745366733
+				],
+				[
+					27.173821283913185,
+					16.134456387324462
+				],
+				[
+					27.173821283913185,
+					14.436092557079974
+				],
+				[
+					28.02300319903543,
+					3.3967276604889776
+				],
+				[
+					28.02300319903543,
+					-2.547545745368552
+				],
+				[
+					28.02300319903543,
+					-5.095091490733466
+				],
+				[
+					28.02300319903543,
+					-3.3967276604889776
+				],
+				[
+					28.02300319903543,
+					0
+				],
+				[
+					28.02300319903543,
+					8.491819151222444
+				],
+				[
+					28.02300319903543,
+					19.53118404781344
+				],
+				[
+					28.872185114157787,
+					27.17382128391182
+				],
+				[
+					28.872185114157787,
+					31.41973085952486
+				],
+				[
+					29.72136702928003,
+					32.26891277464529
+				],
+				[
+					30.57054894440239,
+					33.11809468976935
+				],
+				[
+					30.57054894440239,
+					33.11809468976935
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				30.57054894440239,
+				33.11809468976935
+			]
+		},
+		{
+			"id": "NVyhBsI0oTNLTv6TFeab0",
+			"type": "freedraw",
+			"x": -29.37944305305257,
+			"y": 17600.974779387874,
+			"width": 16.983638302445797,
+			"height": 33.11809468976935,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1647148391,
+			"version": 46,
+			"versionNonce": 228619175,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10.190182981467501,
+					0
+				],
+				[
+					-15.285274472201195,
+					2.547545745364914
+				],
+				[
+					-16.983638302445797,
+					5.944273405853892
+				],
+				[
+					-16.983638302445797,
+					7.6426372360983805
+				],
+				[
+					-16.983638302445797,
+					9.34100106634287
+				],
+				[
+					-16.134456387323553,
+					11.888546811711421
+				],
+				[
+					-15.285274472201195,
+					13.58691064195591
+				],
+				[
+					-14.43609255707895,
+					15.285274472200399
+				],
+				[
+					-12.737728726834348,
+					16.983638302444888
+				],
+				[
+					-11.039364896589746,
+					18.682002132689377
+				],
+				[
+					-10.190182981467501,
+					19.53118404781344
+				],
+				[
+					-9.341001066345257,
+					20.380365962933865
+				],
+				[
+					-8.491819151222899,
+					22.927911708302418
+				],
+				[
+					-8.491819151222899,
+					24.626275538546906
+				],
+				[
+					-8.491819151222899,
+					27.17382128391182
+				],
+				[
+					-10.190182981467501,
+					29.721367029280373
+				],
+				[
+					-11.888546811712104,
+					31.41973085952486
+				],
+				[
+					-14.43609255707895,
+					32.26891277464529
+				],
+				[
+					-15.285274472201195,
+					33.11809468976935
+				],
+				[
+					-16.134456387323553,
+					33.11809468976935
+				],
+				[
+					-16.134456387323553,
+					32.26891277464529
+				],
+				[
+					-16.134456387323553,
+					32.26891277464529
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-16.134456387323553,
+				32.26891277464529
+			]
+		},
+		{
+			"id": "3gu3hExUm9nBqpBj2r9YG",
+			"type": "freedraw",
+			"x": 30.063291005507494,
+			"y": 17611.16496236934,
+			"width": 7.642637236100541,
+			"height": 18.682002132689377,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1020164839,
+			"version": 33,
+			"versionNonce": 1905213001,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.6983638302446025,
+					10.190182981466933
+				],
+				[
+					-3.3967276604890912,
+					15.285274472200399
+				],
+				[
+					-4.245909575611449,
+					17.83282021756895
+				],
+				[
+					-4.245909575611449,
+					18.682002132689377
+				],
+				[
+					-5.095091490733694,
+					18.682002132689377
+				],
+				[
+					-5.944273405856052,
+					18.682002132689377
+				],
+				[
+					-6.793455320978296,
+					17.83282021756895
+				],
+				[
+					-7.642637236100541,
+					17.83282021756895
+				],
+				[
+					-7.642637236100541,
+					17.83282021756895
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-7.642637236100541,
+				17.83282021756895
+			]
+		},
+		{
+			"id": "JBl62ZHWtV54OCRk_gVfY",
+			"type": "freedraw",
+			"x": 16.476380363550902,
+			"y": 17581.44359534006,
+			"width": 1.6983638302446025,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1434142057,
+			"version": 28,
+			"versionNonce": 549545671,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					-1.6983638302444888
+				],
+				[
+					1.6983638302446025,
+					-1.6983638302444888
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "KWe835zzqcVdTzfYgmi8y",
+			"type": "freedraw",
+			"x": 58.93547611966528,
+			"y": 17572.95177618884,
+			"width": 36.51482235025833,
+			"height": 47.554187246849324,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1824911881,
+			"version": 47,
+			"versionNonce": 1401064745,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					3.3967276604889776
+				],
+				[
+					1.6983638302446025,
+					11.888546811711421
+				],
+				[
+					3.3967276604890912,
+					24.626275538546906
+				],
+				[
+					6.793455320978296,
+					38.21318618050282
+				],
+				[
+					6.793455320978296,
+					39.911550010747305
+				],
+				[
+					10.190182981467387,
+					46.70500533172526
+				],
+				[
+					11.88854681171199,
+					47.554187246849324
+				],
+				[
+					15.285274472201195,
+					45.00664150148077
+				],
+				[
+					19.531184047812644,
+					39.911550010747305
+				],
+				[
+					23.777093623424093,
+					33.11809468976935
+				],
+				[
+					27.173821283913185,
+					26.324639368791395
+				],
+				[
+					28.02300319903543,
+					18.682002132689377
+				],
+				[
+					28.872185114157787,
+					11.039364896590996
+				],
+				[
+					28.872185114157787,
+					5.095091490733466
+				],
+				[
+					28.872185114157787,
+					3.3967276604889776
+				],
+				[
+					28.872185114157787,
+					4.245909575609403
+				],
+				[
+					28.872185114157787,
+					8.491819151222444
+				],
+				[
+					29.72136702928003,
+					17.83282021756895
+				],
+				[
+					31.419730859524634,
+					30.570548944400798
+				],
+				[
+					33.96727660489148,
+					39.911550010747305
+				],
+				[
+					35.66564043513608,
+					42.45909575611222
+				],
+				[
+					36.51482235025833,
+					42.45909575611222
+				],
+				[
+					36.51482235025833,
+					42.45909575611222
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.51482235025833,
+				42.45909575611222
+			]
+		},
+		{
+			"id": "B2DDbHgkROs7wgAcrD2RQ",
+			"type": "freedraw",
+			"x": 112.4339367723694,
+			"y": 17613.712508114706,
+			"width": 5.944273405855938,
+			"height": 24.626275538546906,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1836642887,
+			"version": 30,
+			"versionNonce": 1395499271,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					7.6426372361020185
+				],
+				[
+					0.8491819151222444,
+					8.491819151226082
+				],
+				[
+					2.547545745366847,
+					15.285274472204037
+				],
+				[
+					4.245909575611449,
+					20.380365962937503
+				],
+				[
+					5.095091490733694,
+					23.77709362342648
+				],
+				[
+					5.944273405855938,
+					24.626275538546906
+				],
+				[
+					5.944273405855938,
+					23.77709362342648
+				],
+				[
+					5.944273405855938,
+					23.77709362342648
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.944273405855938,
+				23.77709362342648
+			]
+		},
+		{
+			"id": "KF28wTPc8lVuIstXhFyuE",
+			"type": "freedraw",
+			"x": 127.7192112445706,
+			"y": 17617.95841769032,
+			"width": 35.66564043513608,
+			"height": 22.927911708302418,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 513123815,
+			"version": 49,
+			"versionNonce": 2025723625,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151204254
+				],
+				[
+					1.6983638302444888,
+					-4.245909575613041
+				],
+				[
+					5.095091490733694,
+					-6.793455320977955
+				],
+				[
+					8.491819151222785,
+					-6.793455320977955
+				],
+				[
+					10.190182981467387,
+					-6.793455320977955
+				],
+				[
+					12.737728726834234,
+					-5.94427340585753
+				],
+				[
+					13.586910641956592,
+					-5.095091490733466
+				],
+				[
+					14.436092557078837,
+					-5.095091490733466
+				],
+				[
+					14.436092557078837,
+					-3.3967276604889776
+				],
+				[
+					12.737728726834234,
+					0.8491819151204254
+				],
+				[
+					11.039364896589632,
+					3.3967276604889776
+				],
+				[
+					9.341001066345143,
+					4.245909575613041
+				],
+				[
+					8.491819151222785,
+					5.095091490733466
+				],
+				[
+					8.491819151222785,
+					5.94427340585753
+				],
+				[
+					11.039364896589632,
+					7.6426372361020185
+				],
+				[
+					16.13445638732344,
+					9.341001066346507
+				],
+				[
+					22.927911708301735,
+					11.039364896590996
+				],
+				[
+					30.570548944402276,
+					13.58691064195591
+				],
+				[
+					33.11809468976912,
+					14.436092557079974
+				],
+				[
+					31.419730859524634,
+					14.436092557079974
+				],
+				[
+					28.872185114157674,
+					14.436092557079974
+				],
+				[
+					23.77709362342398,
+					15.285274472200399
+				],
+				[
+					18.682002132690286,
+					16.134456387324462
+				],
+				[
+					7.642637236100541,
+					16.134456387324462
+				],
+				[
+					0.8491819151222444,
+					14.436092557079974
+				],
+				[
+					-2.5475457453669605,
+					13.58691064195591
+				],
+				[
+					-2.5475457453669605,
+					13.58691064195591
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-2.5475457453669605,
+				13.58691064195591
+			]
+		},
+		{
+			"id": "EipHhkQcQfByFfszRJMLp",
+			"type": "freedraw",
+			"x": 149.79794103774998,
+			"y": 17533.04022617809,
+			"width": 38.21318618050293,
+			"height": 125.67892343809945,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 23237991,
+			"version": 70,
+			"versionNonce": 1065699943,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.396727660489205,
+					0
+				],
+				[
+					4.245909575611449,
+					0
+				],
+				[
+					5.944273405856052,
+					0
+				],
+				[
+					6.793455320978296,
+					0
+				],
+				[
+					6.793455320978296,
+					0.8491819151204254
+				],
+				[
+					8.491819151222899,
+					3.3967276604889776
+				],
+				[
+					9.341001066345257,
+					6.793455320977955
+				],
+				[
+					10.190182981467501,
+					11.888546811711421
+				],
+				[
+					11.039364896589746,
+					19.53118404781344
+				],
+				[
+					12.737728726834348,
+					28.87218511415631
+				],
+				[
+					14.43609255707895,
+					34.81645852001384
+				],
+				[
+					14.43609255707895,
+					38.21318618050282
+				],
+				[
+					14.43609255707895,
+					39.06236809562324
+				],
+				[
+					14.43609255707895,
+					40.76073192586773
+				],
+				[
+					13.586910641956592,
+					40.76073192586773
+				],
+				[
+					14.43609255707895,
+					40.76073192586773
+				],
+				[
+					15.285274472201195,
+					41.609913840991794
+				],
+				[
+					17.83282021756804,
+					42.45909575611222
+				],
+				[
+					21.229547878057247,
+					43.30827767123628
+				],
+				[
+					26.32463936879094,
+					44.15745958635671
+				],
+				[
+					27.173821283913185,
+					45.00664150148077
+				],
+				[
+					27.173821283913185,
+					45.8558234166012
+				],
+				[
+					27.173821283913185,
+					46.70500533172526
+				],
+				[
+					26.32463936879094,
+					48.40336916196975
+				],
+				[
+					24.626275538546338,
+					50.10173299221424
+				],
+				[
+					21.229547878057247,
+					52.64927873758279
+				],
+				[
+					16.134456387323553,
+					56.04600639807177
+				],
+				[
+					11.039364896589746,
+					56.89518831319219
+				],
+				[
+					10.190182981467501,
+					56.89518831319219
+				],
+				[
+					11.039364896589746,
+					56.89518831319219
+				],
+				[
+					11.888546811712104,
+					56.89518831319219
+				],
+				[
+					12.737728726834348,
+					56.89518831319219
+				],
+				[
+					13.586910641956592,
+					56.89518831319219
+				],
+				[
+					14.43609255707895,
+					58.59355214343668
+				],
+				[
+					16.983638302445797,
+					63.68864363417015
+				],
+				[
+					20.38036596293489,
+					71.33128087027217
+				],
+				[
+					25.475457453668696,
+					80.67228193661504
+				],
+				[
+					30.57054894440239,
+					89.16410108784112
+				],
+				[
+					33.96727660489148,
+					96.8067383239395
+				],
+				[
+					37.364004265380686,
+					103.60019364491745
+				],
+				[
+					38.21318618050293,
+					107.8461032205305
+				],
+				[
+					38.21318618050293,
+					109.54446705077498
+				],
+				[
+					38.21318618050293,
+					110.39364896589541
+				],
+				[
+					37.364004265380686,
+					111.24283088101947
+				],
+				[
+					34.81645852001384,
+					112.94119471126396
+				],
+				[
+					33.11809468976924,
+					114.63955854150845
+				],
+				[
+					28.872185114157787,
+					118.03628620199743
+				],
+				[
+					22.07872979317949,
+					121.4330138624864
+				],
+				[
+					16.983638302445797,
+					123.98055960785496
+				],
+				[
+					11.039364896589746,
+					124.82974152297538
+				],
+				[
+					9.341001066345257,
+					125.67892343809945
+				],
+				[
+					9.341001066345257,
+					125.67892343809945
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				9.341001066345257,
+				125.67892343809945
+			]
+		},
+		{
+			"id": "JreIhCLbmzvQXEok3PhNq",
+			"type": "freedraw",
+			"x": -271.3962888629045,
+			"y": 17523.699225111744,
+			"width": 36.51482235025833,
+			"height": 123.1313776927309,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 212428007,
+			"version": 92,
+			"versionNonce": 1578644361,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					0
+				],
+				[
+					-1.6983638302446025,
+					0.8491819151240634
+				],
+				[
+					-3.396727660489148,
+					1.6983638302444888
+				],
+				[
+					-5.095091490733751,
+					2.547545745368552
+				],
+				[
+					-8.491819151222899,
+					5.095091490733466
+				],
+				[
+					-11.888546811712047,
+					7.6426372361020185
+				],
+				[
+					-14.436092557078894,
+					10.190182981466933
+				],
+				[
+					-16.98363830244574,
+					12.737728726835485
+				],
+				[
+					-16.98363830244574,
+					14.436092557079974
+				],
+				[
+					-16.98363830244574,
+					16.983638302444888
+				],
+				[
+					-16.98363830244574,
+					20.380365962933865
+				],
+				[
+					-16.134456387323496,
+					21.22954787805793
+				],
+				[
+					-14.436092557078894,
+					25.47545745366733
+				],
+				[
+					-12.737728726834291,
+					29.721367029280373
+				],
+				[
+					-10.190182981467444,
+					33.967276604889776
+				],
+				[
+					-7.642637236100597,
+					37.36400426538239
+				],
+				[
+					-5.095091490733751,
+					42.45909575611586
+				],
+				[
+					-4.245909575611449,
+					45.855823416604835
+				],
+				[
+					-4.245909575611449,
+					46.70500533172526
+				],
+				[
+					-3.396727660489148,
+					48.40336916196975
+				],
+				[
+					-3.396727660489148,
+					50.9509149073383
+				],
+				[
+					-2.547545745366847,
+					51.80009682245873
+				],
+				[
+					-2.547545745366847,
+					52.64927873758279
+				],
+				[
+					-2.547545745366847,
+					53.498460652703216
+				],
+				[
+					-2.547545745366847,
+					54.34764256782728
+				],
+				[
+					-3.396727660489148,
+					55.196824482947704
+				],
+				[
+					-5.095091490733751,
+					57.74437022831626
+				],
+				[
+					-6.793455320978296,
+					59.442734058560745
+				],
+				[
+					-7.642637236100597,
+					60.29191597368117
+				],
+				[
+					-8.491819151222899,
+					61.141097888805234
+				],
+				[
+					-9.341001066345143,
+					61.141097888805234
+				],
+				[
+					-8.491819151222899,
+					61.99027980392566
+				],
+				[
+					-6.793455320978296,
+					62.83946171904972
+				],
+				[
+					-5.095091490733751,
+					64.53782554929421
+				],
+				[
+					-2.547545745366847,
+					65.38700746441464
+				],
+				[
+					-1.6983638302446025,
+					67.08537129465913
+				],
+				[
+					-0.8491819151223012,
+					67.93455320978319
+				],
+				[
+					0,
+					70.4820989551481
+				],
+				[
+					0,
+					72.18046278539623
+				],
+				[
+					0.8491819151223012,
+					74.72800853076114
+				],
+				[
+					0.8491819151223012,
+					78.12473619125012
+				],
+				[
+					0.8491819151223012,
+					80.67228193661867
+				],
+				[
+					0.8491819151223012,
+					83.21982768198359
+				],
+				[
+					0.8491819151223012,
+					86.61655534247257
+				],
+				[
+					0.8491819151223012,
+					89.16410108784112
+				],
+				[
+					1.6983638302445456,
+					90.8624649180856
+				],
+				[
+					1.6983638302445456,
+					94.25919257857458
+				],
+				[
+					1.6983638302445456,
+					95.95755640881907
+				],
+				[
+					2.547545745366847,
+					96.8067383239395
+				],
+				[
+					2.547545745366847,
+					97.65592023906356
+				],
+				[
+					2.547545745366847,
+					98.50510215418399
+				],
+				[
+					2.547545745366847,
+					99.35428406930805
+				],
+				[
+					3.396727660489148,
+					101.05264789955254
+				],
+				[
+					3.396727660489148,
+					101.90182981467296
+				],
+				[
+					3.396727660489148,
+					102.75101172979703
+				],
+				[
+					3.396727660489148,
+					103.60019364491745
+				],
+				[
+					4.245909575611449,
+					106.147739390286
+				],
+				[
+					4.245909575611449,
+					106.99692130541007
+				],
+				[
+					4.245909575611449,
+					107.8461032205305
+				],
+				[
+					4.245909575611449,
+					109.54446705077498
+				],
+				[
+					5.095091490733694,
+					112.94119471126396
+				],
+				[
+					5.095091490733694,
+					114.63955854150845
+				],
+				[
+					5.944273405855995,
+					116.33792237175294
+				],
+				[
+					5.944273405855995,
+					117.187104286877
+				],
+				[
+					6.793455320978296,
+					118.88546811712149
+				],
+				[
+					8.491819151222842,
+					120.58383194736598
+				],
+				[
+					10.190182981467444,
+					121.4330138624864
+				],
+				[
+					11.88854681171199,
+					122.28219577761047
+				],
+				[
+					13.586910641956592,
+					122.28219577761047
+				],
+				[
+					15.285274472201138,
+					123.1313776927309
+				],
+				[
+					16.98363830244574,
+					123.1313776927309
+				],
+				[
+					18.682002132690286,
+					123.1313776927309
+				],
+				[
+					19.531184047812587,
+					123.1313776927309
+				],
+				[
+					19.531184047812587,
+					123.1313776927309
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				19.531184047812587,
+				123.1313776927309
+			]
+		},
+		{
+			"id": "Xa2LIlUADhEuwcWV9KqCp",
+			"type": "freedraw",
+			"x": -221.29455587068958,
+			"y": 17556.817319801514,
+			"width": 0,
+			"height": 46.70500533172526,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 693924327,
+			"version": 31,
+			"versionNonce": 1432184199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151204254
+				],
+				[
+					0,
+					6.793455320977955
+				],
+				[
+					0,
+					8.491819151222444
+				],
+				[
+					0,
+					15.285274472200399
+				],
+				[
+					0,
+					22.078729793178354
+				],
+				[
+					0,
+					28.023003199035884
+				],
+				[
+					0,
+					33.11809468976935
+				],
+				[
+					0,
+					37.36400426537875
+				],
+				[
+					0,
+					41.609913840991794
+				],
+				[
+					0,
+					45.00664150148077
+				],
+				[
+					0,
+					45.855823416604835
+				],
+				[
+					0,
+					46.70500533172526
+				],
+				[
+					0,
+					46.70500533172526
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				46.70500533172526
+			]
+		},
+		{
+			"id": "PT0XIPXxLlmA75Ce5oZwn",
+			"type": "freedraw",
+			"x": -209.40600905897753,
+			"y": 17598.427233642506,
+			"width": 36.514822350258385,
+			"height": 58.59355214343668,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 650696745,
+			"version": 59,
+			"versionNonce": 1169873513,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-5.095091490733466
+				],
+				[
+					0.8491819151223012,
+					-11.039364896590996
+				],
+				[
+					1.6983638302445456,
+					-18.682002132689377
+				],
+				[
+					3.396727660489148,
+					-25.47545745366733
+				],
+				[
+					3.396727660489148,
+					-26.324639368791395
+				],
+				[
+					5.944273405855995,
+					-31.41973085952486
+				],
+				[
+					9.3410010663452,
+					-35.665640435134264
+				],
+				[
+					11.039364896589689,
+					-38.21318618050282
+				],
+				[
+					14.436092557078894,
+					-39.06236809562688
+				],
+				[
+					18.682002132690343,
+					-39.911550010747305
+				],
+				[
+					22.078729793179434,
+					-39.06236809562688
+				],
+				[
+					22.927911708301792,
+					-38.21318618050282
+				],
+				[
+					23.777093623424037,
+					-37.36400426537875
+				],
+				[
+					24.62627553854628,
+					-32.26891277464529
+				],
+				[
+					24.62627553854628,
+					-25.47545745366733
+				],
+				[
+					23.777093623424037,
+					-16.983638302444888
+				],
+				[
+					22.927911708301792,
+					-8.491819151222444
+				],
+				[
+					22.078729793179434,
+					-0.8491819151204254
+				],
+				[
+					22.078729793179434,
+					0
+				],
+				[
+					21.22954787805719,
+					6.793455320977955
+				],
+				[
+					19.531184047812587,
+					11.039364896590996
+				],
+				[
+					17.832820217567985,
+					14.436092557079974
+				],
+				[
+					15.285274472201138,
+					16.983638302444888
+				],
+				[
+					14.436092557078894,
+					16.983638302444888
+				],
+				[
+					14.436092557078894,
+					16.134456387324462
+				],
+				[
+					14.436092557078894,
+					13.58691064195591
+				],
+				[
+					15.285274472201138,
+					11.039364896590996
+				],
+				[
+					17.832820217567985,
+					9.341001066346507
+				],
+				[
+					20.380365962934945,
+					8.491819151222444
+				],
+				[
+					22.078729793179434,
+					8.491819151222444
+				],
+				[
+					22.927911708301792,
+					8.491819151222444
+				],
+				[
+					24.62627553854628,
+					9.341001066346507
+				],
+				[
+					25.47545745366864,
+					11.039364896590996
+				],
+				[
+					27.17382128391324,
+					13.58691064195591
+				],
+				[
+					28.023003199035486,
+					16.134456387324462
+				],
+				[
+					28.87218511415773,
+					16.983638302444888
+				],
+				[
+					29.72136702928009,
+					17.83282021756895
+				],
+				[
+					30.570548944402333,
+					17.83282021756895
+				],
+				[
+					33.96727660489154,
+					18.682002132689377
+				],
+				[
+					36.514822350258385,
+					18.682002132689377
+				],
+				[
+					36.514822350258385,
+					18.682002132689377
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.514822350258385,
+				18.682002132689377
+			]
+		},
+		{
+			"id": "uQzwky4YvSTn-iTm4KrQl",
+			"type": "freedraw",
+			"x": -303.66520163755143,
+			"y": 17817.516167744052,
+			"width": 30.57054894440239,
+			"height": 56.89518831319583,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 482131079,
+			"version": 42,
+			"versionNonce": 734338215,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					23.77709362342648
+				],
+				[
+					-0.8491819151223012,
+					26.324639368791395
+				],
+				[
+					0,
+					38.21318618050282
+				],
+				[
+					2.547545745366847,
+					45.00664150148441
+				],
+				[
+					5.944273405855995,
+					46.7050053317289
+				],
+				[
+					11.888546811712047,
+					47.554187246849324
+				],
+				[
+					16.98363830244574,
+					46.7050053317289
+				],
+				[
+					17.83282021756804,
+					45.855823416604835
+				],
+				[
+					22.07872979317949,
+					38.21318618050282
+				],
+				[
+					26.32463936879094,
+					29.721367029280373
+				],
+				[
+					28.023003199035486,
+					22.078729793181992
+				],
+				[
+					29.72136702928009,
+					10.19018298147057
+				],
+				[
+					29.72136702928009,
+					4.245909575613041
+				],
+				[
+					29.72136702928009,
+					2.547545745368552
+				],
+				[
+					29.72136702928009,
+					3.3967276604889776
+				],
+				[
+					28.872185114157787,
+					7.6426372361020185
+				],
+				[
+					27.173821283913185,
+					22.927911708302418
+				],
+				[
+					25.47545745366864,
+					39.06236809562688
+				],
+				[
+					24.626275538546338,
+					48.40336916197339
+				],
+				[
+					24.626275538546338,
+					54.34764256782728
+				],
+				[
+					24.626275538546338,
+					56.89518831319583
+				],
+				[
+					25.47545745366864,
+					56.04600639807177
+				],
+				[
+					26.32463936879094,
+					54.34764256782728
+				],
+				[
+					26.32463936879094,
+					54.34764256782728
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				26.32463936879094,
+				54.34764256782728
+			]
+		},
+		{
+			"id": "_QT7Q6rnBWacZbHXwxbFT",
+			"type": "freedraw",
+			"x": -254.41265056045876,
+			"y": 17862.522809245536,
+			"width": 26.324639368790884,
+			"height": 24.626275538546906,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 702230823,
+			"version": 41,
+			"versionNonce": 874882377,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.547545745366847,
+					-0.8491819151240634
+				],
+				[
+					-5.944273405855995,
+					-0.8491819151240634
+				],
+				[
+					-8.491819151222899,
+					0
+				],
+				[
+					-10.190182981467444,
+					0.8491819151204254
+				],
+				[
+					-10.190182981467444,
+					2.547545745364914
+				],
+				[
+					-8.491819151222899,
+					4.245909575609403
+				],
+				[
+					-5.095091490733751,
+					5.944273405853892
+				],
+				[
+					-2.547545745366847,
+					7.6426372360983805
+				],
+				[
+					-0.8491819151223012,
+					8.491819151222444
+				],
+				[
+					0,
+					9.34100106634287
+				],
+				[
+					0.8491819151223012,
+					11.039364896587358
+				],
+				[
+					2.547545745366847,
+					12.737728726831847
+				],
+				[
+					2.547545745366847,
+					13.58691064195591
+				],
+				[
+					2.547545745366847,
+					15.285274472200399
+				],
+				[
+					2.547545745366847,
+					18.682002132689377
+				],
+				[
+					2.547545745366847,
+					20.380365962933865
+				],
+				[
+					0.8491819151223012,
+					21.22954787805429
+				],
+				[
+					0,
+					21.22954787805429
+				],
+				[
+					-3.396727660489148,
+					22.92791170829878
+				],
+				[
+					-8.491819151222899,
+					22.92791170829878
+				],
+				[
+					-16.98363830244574,
+					23.777093623422843
+				],
+				[
+					-23.777093623424037,
+					23.777093623422843
+				],
+				[
+					-23.777093623424037,
+					23.777093623422843
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-23.777093623424037,
+				23.777093623422843
+			]
+		},
+		{
+			"id": "OXFiuU55gBr-CNcwgXdhp",
+			"type": "freedraw",
+			"x": -335.93411441219837,
+			"y": 17908.378632662138,
+			"width": 108.6952851356528,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1276007241,
+			"version": 27,
+			"versionNonce": 1181282247,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					22.07872979317949,
+					1.6983638302444888
+				],
+				[
+					41.60991384099208,
+					1.6983638302444888
+				],
+				[
+					64.53782554929387,
+					1.6983638302444888
+				],
+				[
+					88.31491917271791,
+					1.6983638302444888
+				],
+				[
+					89.16410108784021,
+					1.6983638302444888
+				],
+				[
+					101.9018298146745,
+					0.8491819151240634
+				],
+				[
+					107.8461032205305,
+					0.8491819151240634
+				],
+				[
+					108.6952851356528,
+					0
+				],
+				[
+					108.6952851356528,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				108.6952851356528,
+				0
+			]
+		},
+		{
+			"id": "fAjHQhhiCiXf1tY0IpHis",
+			"type": "freedraw",
+			"x": -302.81601972242913,
+			"y": 17944.893455012396,
+			"width": 11.039364896589746,
+			"height": 68.78373512490725,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1647975,
+			"version": 36,
+			"versionNonce": 1689523241,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					7.6426372361020185
+				],
+				[
+					0,
+					13.58691064195591
+				],
+				[
+					0,
+					18.682002132689377
+				],
+				[
+					0,
+					27.17382128391546
+				],
+				[
+					0.8491819151223012,
+					36.51482235025833
+				],
+				[
+					1.6983638302445456,
+					45.00664150148077
+				],
+				[
+					1.6983638302445456,
+					46.70500533172526
+				],
+				[
+					2.547545745366847,
+					52.64927873758279
+				],
+				[
+					2.547545745366847,
+					58.59355214343668
+				],
+				[
+					2.547545745366847,
+					63.688643634173786
+				],
+				[
+					2.547545745366847,
+					67.08537129466276
+				],
+				[
+					2.547545745366847,
+					68.78373512490725
+				],
+				[
+					2.547545745366847,
+					67.93455320978319
+				],
+				[
+					3.396727660489148,
+					66.2361893795387
+				],
+				[
+					5.944273405855995,
+					61.99027980392566
+				],
+				[
+					10.190182981467444,
+					56.89518831319219
+				],
+				[
+					10.190182981467444,
+					56.04600639807177
+				],
+				[
+					10.190182981467444,
+					56.04600639807177
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				10.190182981467444,
+				56.04600639807177
+			]
+		},
+		{
+			"id": "Vv-qZ0kxhb3rZl942J4go",
+			"type": "freedraw",
+			"x": -271.3962888629045,
+			"y": 17985.654186938267,
+			"width": 38.21318618050293,
+			"height": 62.83946171904972,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1216274599,
+			"version": 52,
+			"versionNonce": 2137349863,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151240634
+				],
+				[
+					0,
+					-4.245909575613041
+				],
+				[
+					0,
+					-10.190182981466933
+				],
+				[
+					1.6983638302445456,
+					-19.53118404781344
+				],
+				[
+					4.245909575611449,
+					-28.872185114159947
+				],
+				[
+					6.793455320978296,
+					-34.81645852001384
+				],
+				[
+					10.190182981467444,
+					-38.21318618050282
+				],
+				[
+					11.88854681171199,
+					-38.21318618050282
+				],
+				[
+					13.586910641956592,
+					-38.21318618050282
+				],
+				[
+					15.285274472201138,
+					-35.6656404351379
+				],
+				[
+					16.98363830244574,
+					-28.872185114159947
+				],
+				[
+					18.682002132690286,
+					-19.53118404781344
+				],
+				[
+					19.531184047812587,
+					-7.6426372361020185
+				],
+				[
+					20.38036596293489,
+					1.6983638302444888
+				],
+				[
+					20.38036596293489,
+					10.190182981466933
+				],
+				[
+					18.682002132690286,
+					16.983638302444888
+				],
+				[
+					14.436092557078894,
+					22.078729793178354
+				],
+				[
+					11.039364896589746,
+					24.626275538546906
+				],
+				[
+					10.190182981467444,
+					24.626275538546906
+				],
+				[
+					10.190182981467444,
+					23.777093623422843
+				],
+				[
+					10.190182981467444,
+					21.22954787805429
+				],
+				[
+					11.039364896589746,
+					16.134456387320824
+				],
+				[
+					13.586910641956592,
+					11.888546811711421
+				],
+				[
+					16.13445638732344,
+					11.039364896587358
+				],
+				[
+					18.682002132690286,
+					10.190182981466933
+				],
+				[
+					20.38036596293489,
+					11.888546811711421
+				],
+				[
+					22.927911708301735,
+					15.285274472200399
+				],
+				[
+					25.47545745366864,
+					18.682002132689377
+				],
+				[
+					27.173821283913185,
+					20.380365962933865
+				],
+				[
+					28.023003199035486,
+					21.22954787805429
+				],
+				[
+					30.570548944402333,
+					22.078729793178354
+				],
+				[
+					34.81645852001378,
+					22.078729793178354
+				],
+				[
+					38.21318618050293,
+					22.078729793178354
+				],
+				[
+					38.21318618050293,
+					22.078729793178354
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				38.21318618050293,
+				22.078729793178354
+			]
+		},
+		{
+			"id": "ujhuoM67kr7XUzfeF3Oz_",
+			"type": "freedraw",
+			"x": -212.80273671946668,
+			"y": 17904.98190500165,
+			"width": 16.13445638732344,
+			"height": 5.095091490733466,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1491596519,
+			"version": 26,
+			"versionNonce": 458336009,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.547545745366847,
+					1.6983638302444888
+				],
+				[
+					5.944273405856052,
+					2.547545745368552
+				],
+				[
+					8.491819151222899,
+					3.3967276604889776
+				],
+				[
+					11.88854681171199,
+					4.245909575613041
+				],
+				[
+					14.436092557078837,
+					4.245909575613041
+				],
+				[
+					15.285274472201195,
+					5.095091490733466
+				],
+				[
+					16.13445638732344,
+					5.095091490733466
+				],
+				[
+					16.13445638732344,
+					5.095091490733466
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.13445638732344,
+				5.095091490733466
+			]
+		},
+		{
+			"id": "eYmvd6FdN63DjrSqZP-Pb",
+			"type": "freedraw",
+			"x": -206.85846331361063,
+			"y": 17933.004908200684,
+			"width": 14.436092557078837,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1529808007,
+			"version": 28,
+			"versionNonce": 960948743,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					-0.8491819151240634
+				],
+				[
+					1.6983638302444888,
+					-0.8491819151240634
+				],
+				[
+					2.547545745366847,
+					-0.8491819151240634
+				],
+				[
+					4.245909575611449,
+					-1.6983638302444888
+				],
+				[
+					6.793455320978296,
+					-1.6983638302444888
+				],
+				[
+					9.341001066345143,
+					-1.6983638302444888
+				],
+				[
+					11.88854681171199,
+					-1.6983638302444888
+				],
+				[
+					13.586910641956592,
+					-1.6983638302444888
+				],
+				[
+					14.436092557078837,
+					-1.6983638302444888
+				],
+				[
+					14.436092557078837,
+					-1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.436092557078837,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "Ul4ukFsP-BHwWEleCtdgD",
+			"type": "freedraw",
+			"x": -99.01236009308013,
+			"y": 17829.404714555767,
+			"width": 24.626275538546338,
+			"height": 45.8558234166012,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1240052551,
+			"version": 42,
+			"versionNonce": 309976553,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3967276604889776
+				],
+				[
+					0,
+					4.245909575609403
+				],
+				[
+					0,
+					14.436092557076336
+				],
+				[
+					0,
+					25.47545745366733
+				],
+				[
+					0.8491819151222444,
+					36.51482235025833
+				],
+				[
+					2.547545745366847,
+					39.06236809562324
+				],
+				[
+					4.245909575611449,
+					39.06236809562324
+				],
+				[
+					6.793455320978296,
+					38.21318618050282
+				],
+				[
+					11.039364896589746,
+					35.665640435134264
+				],
+				[
+					11.88854681171199,
+					34.81645852001384
+				],
+				[
+					14.436092557078837,
+					29.721367029276735
+				],
+				[
+					17.83282021756804,
+					21.22954787805429
+				],
+				[
+					20.38036596293489,
+					11.039364896587358
+				],
+				[
+					22.078729793179377,
+					3.3967276604889776
+				],
+				[
+					22.078729793179377,
+					0
+				],
+				[
+					22.078729793179377,
+					0.8491819151204254
+				],
+				[
+					22.078729793179377,
+					6.793455320977955
+				],
+				[
+					22.078729793179377,
+					15.285274472200399
+				],
+				[
+					22.078729793179377,
+					27.17382128391182
+				],
+				[
+					22.078729793179377,
+					34.81645852001384
+				],
+				[
+					22.927911708301735,
+					41.609913840991794
+				],
+				[
+					24.626275538546338,
+					45.00664150148077
+				],
+				[
+					24.626275538546338,
+					45.8558234166012
+				],
+				[
+					24.626275538546338,
+					45.8558234166012
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				24.626275538546338,
+				45.8558234166012
+			]
+		},
+		{
+			"id": "lMN1TJZ2vtdB5_He8xDA6",
+			"type": "freedraw",
+			"x": -55.70408242184351,
+			"y": 17869.316264566514,
+			"width": 2.547545745366847,
+			"height": 19.531184047809802,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 10170343,
+			"version": 23,
+			"versionNonce": 1359614247,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.6983638302446025,
+					7.6426372360983805
+				],
+				[
+					-1.6983638302446025,
+					14.436092557076336
+				],
+				[
+					-1.6983638302446025,
+					18.682002132689377
+				],
+				[
+					-2.547545745366847,
+					19.531184047809802
+				],
+				[
+					-2.547545745366847,
+					19.531184047809802
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-2.547545745366847,
+				19.531184047809802
+			]
+		},
+		{
+			"id": "vwgRaZXNliC6_aojboj61",
+			"type": "freedraw",
+			"x": -40.418807949642314,
+			"y": 17865.0703549909,
+			"width": 16.13445638732344,
+			"height": 27.17382128391182,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 364402345,
+			"version": 38,
+			"versionNonce": 691550409,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6983638302444888,
+					0
+				],
+				[
+					2.547545745366847,
+					0
+				],
+				[
+					5.944273405855938,
+					0
+				],
+				[
+					16.13445638732344,
+					0.8491819151240634
+				],
+				[
+					15.285274472201195,
+					6.793455320977955
+				],
+				[
+					15.285274472201195,
+					7.6426372361020185
+				],
+				[
+					12.737728726834234,
+					12.737728726835485
+				],
+				[
+					11.88854681171199,
+					14.436092557079974
+				],
+				[
+					11.039364896589746,
+					15.285274472200399
+				],
+				[
+					12.737728726834234,
+					16.134456387324462
+				],
+				[
+					14.436092557078837,
+					16.983638302444888
+				],
+				[
+					15.285274472201195,
+					16.983638302444888
+				],
+				[
+					16.13445638732344,
+					17.83282021756895
+				],
+				[
+					16.13445638732344,
+					18.682002132689377
+				],
+				[
+					16.13445638732344,
+					19.53118404781344
+				],
+				[
+					14.436092557078837,
+					22.078729793178354
+				],
+				[
+					12.737728726834234,
+					22.927911708302418
+				],
+				[
+					6.793455320978296,
+					24.626275538546906
+				],
+				[
+					0.8491819151222444,
+					27.17382128391182
+				],
+				[
+					0.8491819151222444,
+					27.17382128391182
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.8491819151222444,
+				27.17382128391182
+			]
+		},
+		{
+			"id": "LHrC443ezqD6_uUCU7gPv",
+			"type": "freedraw",
+			"x": -107.50417924430303,
+			"y": 17910.076996492382,
+			"width": 92.5608287483293,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1173982665,
+			"version": 32,
+			"versionNonce": 1361590185,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.944273405856052,
+					0
+				],
+				[
+					13.586910641956592,
+					0
+				],
+				[
+					23.77709362342398,
+					-0.8491819151204254
+				],
+				[
+					38.21318618050293,
+					-0.8491819151204254
+				],
+				[
+					53.498460652704125,
+					-0.8491819151204254
+				],
+				[
+					65.38700746441611,
+					-0.8491819151204254
+				],
+				[
+					73.02964470051666,
+					-0.8491819151204254
+				],
+				[
+					77.2755542761281,
+					-0.8491819151204254
+				],
+				[
+					80.67228193661731,
+					-0.8491819151204254
+				],
+				[
+					84.0690095971064,
+					-0.8491819151204254
+				],
+				[
+					87.4657372575956,
+					-0.8491819151204254
+				],
+				[
+					90.8624649180847,
+					-0.8491819151204254
+				],
+				[
+					92.5608287483293,
+					-0.8491819151204254
+				],
+				[
+					92.5608287483293,
+					0
+				],
+				[
+					92.5608287483293,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				92.5608287483293,
+				0
+			]
+		},
+		{
+			"id": "E_fAy1wd1POR_yOYWy6TU",
+			"type": "freedraw",
+			"x": -82.02872179063445,
+			"y": 17933.854090115805,
+			"width": 16.13445638732344,
+			"height": 34.81645852001384,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 517789767,
+			"version": 38,
+			"versionNonce": 1582773095,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					5.095091490737104
+				],
+				[
+					-0.8491819151222444,
+					11.039364896590996
+				],
+				[
+					-0.8491819151222444,
+					14.436092557079974
+				],
+				[
+					1.6983638302446025,
+					21.22954787805793
+				],
+				[
+					4.245909575611449,
+					23.77709362342648
+				],
+				[
+					5.095091490733694,
+					23.77709362342648
+				],
+				[
+					8.491819151222899,
+					22.927911708302418
+				],
+				[
+					11.88854681171199,
+					18.682002132693015
+				],
+				[
+					12.737728726834348,
+					13.586910641959548
+				],
+				[
+					12.737728726834348,
+					12.737728726835485
+				],
+				[
+					12.737728726834348,
+					10.19018298147057
+				],
+				[
+					12.737728726834348,
+					8.491819151226082
+				],
+				[
+					12.737728726834348,
+					11.88854681171506
+				],
+				[
+					12.737728726834348,
+					16.134456387324462
+				],
+				[
+					12.737728726834348,
+					22.078729793181992
+				],
+				[
+					13.586910641956592,
+					28.023003199035884
+				],
+				[
+					14.43609255707895,
+					32.268912774648925
+				],
+				[
+					14.43609255707895,
+					33.967276604893414
+				],
+				[
+					14.43609255707895,
+					34.81645852001384
+				],
+				[
+					15.285274472201195,
+					34.81645852001384
+				],
+				[
+					15.285274472201195,
+					34.81645852001384
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.285274472201195,
+				34.81645852001384
+			]
+		},
+		{
+			"id": "_e_ZhttImB_kVXwOIFkzc",
+			"type": "freedraw",
+			"x": -11.546622835484527,
+			"y": 17966.123002890454,
+			"width": 21.229547878057133,
+			"height": 39.06236809562688,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2041004295,
+			"version": 52,
+			"versionNonce": 1946824327,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151240634
+				],
+				[
+					-1.6983638302446025,
+					-1.6983638302444888
+				],
+				[
+					-3.396727660489205,
+					-2.547545745368552
+				],
+				[
+					-5.095091490733807,
+					-2.547545745368552
+				],
+				[
+					-6.793455320978296,
+					-2.547545745368552
+				],
+				[
+					-9.341001066345257,
+					-2.547545745368552
+				],
+				[
+					-11.888546811712104,
+					-2.547545745368552
+				],
+				[
+					-13.586910641956592,
+					-1.6983638302444888
+				],
+				[
+					-15.285274472201195,
+					-1.6983638302444888
+				],
+				[
+					-16.134456387323553,
+					-1.6983638302444888
+				],
+				[
+					-16.134456387323553,
+					-0.8491819151240634
+				],
+				[
+					-16.134456387323553,
+					0.8491819151204254
+				],
+				[
+					-16.134456387323553,
+					5.94427340585753
+				],
+				[
+					-15.285274472201195,
+					10.190182981466933
+				],
+				[
+					-14.43609255707895,
+					12.737728726835485
+				],
+				[
+					-12.737728726834348,
+					15.285274472200399
+				],
+				[
+					-9.341001066345257,
+					16.983638302444888
+				],
+				[
+					-4.245909575611449,
+					17.83282021756895
+				],
+				[
+					0.8491819151222444,
+					17.83282021756895
+				],
+				[
+					2.547545745366847,
+					17.83282021756895
+				],
+				[
+					3.3967276604890912,
+					17.83282021756895
+				],
+				[
+					3.3967276604890912,
+					18.682002132689377
+				],
+				[
+					3.3967276604890912,
+					19.53118404781344
+				],
+				[
+					3.3967276604890912,
+					21.22954787805793
+				],
+				[
+					3.3967276604890912,
+					23.777093623422843
+				],
+				[
+					2.547545745366847,
+					27.17382128391182
+				],
+				[
+					0,
+					30.570548944400798
+				],
+				[
+					-5.095091490733807,
+					33.967276604889776
+				],
+				[
+					-9.341001066345257,
+					35.665640435134264
+				],
+				[
+					-12.737728726834348,
+					36.51482235025833
+				],
+				[
+					-15.285274472201195,
+					36.51482235025833
+				],
+				[
+					-17.83282021756804,
+					36.51482235025833
+				],
+				[
+					-17.83282021756804,
+					35.665640435134264
+				],
+				[
+					-17.83282021756804,
+					33.11809468976935
+				],
+				[
+					-17.83282021756804,
+					31.41973085952486
+				],
+				[
+					-17.83282021756804,
+					31.41973085952486
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-17.83282021756804,
+				31.41973085952486
+			]
+		},
+		{
+			"id": "VHHBkfxv91mRPKaE4UiLf",
+			"type": "freedraw",
+			"x": 94.60111655480137,
+			"y": 17879.50644754798,
+			"width": 28.872185114157787,
+			"height": 33.11809468976935,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 991562311,
+			"version": 26,
+			"versionNonce": 380541737,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.6983638302446025,
+					0.8491819151204254
+				],
+				[
+					-5.944273405856052,
+					5.944273405853892
+				],
+				[
+					-11.039364896589746,
+					11.039364896587358
+				],
+				[
+					-16.983638302445797,
+					16.983638302444888
+				],
+				[
+					-19.531184047812644,
+					21.22954787805793
+				],
+				[
+					-21.229547878057247,
+					22.927911708302418
+				],
+				[
+					-21.229547878057247,
+					23.777093623422843
+				],
+				[
+					-18.6820021326904,
+					26.324639368791395
+				],
+				[
+					-15.285274472201195,
+					28.023003199035884
+				],
+				[
+					-7.642637236100654,
+					31.41973085952486
+				],
+				[
+					-0.8491819151223581,
+					32.26891277464529
+				],
+				[
+					5.095091490733694,
+					33.11809468976935
+				],
+				[
+					7.642637236100541,
+					33.11809468976935
+				],
+				[
+					7.642637236100541,
+					33.11809468976935
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				7.642637236100541,
+				33.11809468976935
+			]
+		},
+		{
+			"id": "suv4Uzkb8c0VYion8dvxv",
+			"type": "freedraw",
+			"x": 89.50602506406767,
+			"y": 17887.998266699204,
+			"width": 19.53118404781253,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1262883655,
+			"version": 20,
+			"versionNonce": 1702545383,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					4.245909575611336,
+					-0.8491819151240634
+				],
+				[
+					8.491819151222785,
+					-0.8491819151240634
+				],
+				[
+					11.88854681171199,
+					-1.6983638302444888
+				],
+				[
+					15.285274472201081,
+					-1.6983638302444888
+				],
+				[
+					18.682002132690286,
+					-1.6983638302444888
+				],
+				[
+					19.53118404781253,
+					-1.6983638302444888
+				],
+				[
+					19.53118404781253,
+					-1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				19.53118404781253,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "garcvZ4XArCMeRUPZAUdK",
+			"type": "freedraw",
+			"x": 85.26011548845622,
+			"y": 17903.283541171404,
+			"width": 26.324639368790827,
+			"height": 0.8491819151240634,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 856565479,
+			"version": 21,
+			"versionNonce": 1516457481,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.095091490733694,
+					0
+				],
+				[
+					9.341001066345143,
+					0
+				],
+				[
+					12.737728726834234,
+					0.8491819151240634
+				],
+				[
+					16.13445638732344,
+					0.8491819151240634
+				],
+				[
+					20.38036596293489,
+					0.8491819151240634
+				],
+				[
+					23.77709362342398,
+					0.8491819151240634
+				],
+				[
+					25.475457453668582,
+					0
+				],
+				[
+					26.324639368790827,
+					0
+				],
+				[
+					26.324639368790827,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				26.324639368790827,
+				0
+			]
+		},
+		{
+			"id": "aUKSX5_plDdQ5kqkEsy-p",
+			"type": "freedraw",
+			"x": 110.7355729421248,
+			"y": 17878.657265632857,
+			"width": 16.983638302445797,
+			"height": 33.967276604893414,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1308028777,
+			"version": 26,
+			"versionNonce": 1857987817,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.095091490733694,
+					2.547545745368552
+				],
+				[
+					9.341001066345143,
+					5.095091490733466
+				],
+				[
+					15.285274472201195,
+					12.737728726835485
+				],
+				[
+					15.285274472201195,
+					13.58691064195591
+				],
+				[
+					16.983638302445797,
+					18.682002132689377
+				],
+				[
+					16.983638302445797,
+					19.53118404781344
+				],
+				[
+					16.983638302445797,
+					20.380365962933865
+				],
+				[
+					16.13445638732344,
+					22.078729793181992
+				],
+				[
+					13.586910641956592,
+					24.626275538546906
+				],
+				[
+					11.039364896589746,
+					27.17382128391546
+				],
+				[
+					9.341001066345143,
+					29.721367029280373
+				],
+				[
+					7.642637236100541,
+					32.268912774648925
+				],
+				[
+					5.944273405856052,
+					33.11809468976935
+				],
+				[
+					5.095091490733694,
+					33.967276604893414
+				],
+				[
+					5.095091490733694,
+					33.967276604893414
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.095091490733694,
+				33.967276604893414
+			]
+		},
+		{
+			"id": "cKC96TBfDoPIhoULN1OrU",
+			"type": "freedraw",
+			"x": 194.8045825392311,
+			"y": 17859.126081585044,
+			"width": 22.07872979317949,
+			"height": 56.04600639807177,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1363247271,
+			"version": 36,
+			"versionNonce": 1570322983,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151240634
+				],
+				[
+					-0.8491819151223581,
+					6.793455320977955
+				],
+				[
+					-1.6983638302446025,
+					20.380365962937503
+				],
+				[
+					0,
+					37.36400426538239
+				],
+				[
+					3.3967276604890912,
+					47.554187246849324
+				],
+				[
+					4.245909575611449,
+					50.10173299221424
+				],
+				[
+					6.793455320978296,
+					50.10173299221424
+				],
+				[
+					11.039364896589746,
+					46.70500533172526
+				],
+				[
+					14.436092557078837,
+					41.609913840991794
+				],
+				[
+					14.436092557078837,
+					40.76073192587137
+				],
+				[
+					16.983638302445684,
+					33.11809468976935
+				],
+				[
+					18.682002132690286,
+					23.77709362342648
+				],
+				[
+					19.53118404781253,
+					17.83282021756895
+				],
+				[
+					19.53118404781253,
+					14.436092557079974
+				],
+				[
+					19.53118404781253,
+					15.285274472200399
+				],
+				[
+					18.682002132690286,
+					22.078729793181992
+				],
+				[
+					17.83282021756804,
+					32.268912774648925
+				],
+				[
+					16.983638302445684,
+					44.157459586360346
+				],
+				[
+					16.983638302445684,
+					51.800096822462365
+				],
+				[
+					17.83282021756804,
+					55.19682448295134
+				],
+				[
+					17.83282021756804,
+					56.04600639807177
+				],
+				[
+					17.83282021756804,
+					54.34764256782728
+				],
+				[
+					19.53118404781253,
+					52.64927873758279
+				],
+				[
+					20.38036596293489,
+					52.64927873758279
+				],
+				[
+					20.38036596293489,
+					52.64927873758279
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20.38036596293489,
+				52.64927873758279
+			]
+		},
+		{
+			"id": "e2fD7J4JR-a2Er3j6Iu8p",
+			"type": "freedraw",
+			"x": 236.4144963802231,
+			"y": 17911.775360322627,
+			"width": 20.38036596293489,
+			"height": 28.87218511415631,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 470653609,
+			"version": 33,
+			"versionNonce": 1330388937,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					0
+				],
+				[
+					-1.6983638302446025,
+					0
+				],
+				[
+					-4.245909575611449,
+					1.6983638302444888
+				],
+				[
+					-7.642637236100541,
+					3.3967276604889776
+				],
+				[
+					-9.341001066345143,
+					5.095091490733466
+				],
+				[
+					-10.190182981467387,
+					7.6426372361020185
+				],
+				[
+					-7.642637236100541,
+					11.039364896590996
+				],
+				[
+					-1.6983638302446025,
+					14.436092557079974
+				],
+				[
+					5.095091490733694,
+					17.83282021756895
+				],
+				[
+					9.341001066345143,
+					19.53118404781344
+				],
+				[
+					10.190182981467501,
+					19.53118404781344
+				],
+				[
+					10.190182981467501,
+					20.380365962933865
+				],
+				[
+					10.190182981467501,
+					22.078729793178354
+				],
+				[
+					9.341001066345143,
+					23.777093623422843
+				],
+				[
+					8.491819151222899,
+					25.47545745366733
+				],
+				[
+					7.642637236100654,
+					28.023003199035884
+				],
+				[
+					6.793455320978296,
+					28.87218511415631
+				],
+				[
+					5.944273405856052,
+					28.87218511415631
+				],
+				[
+					5.944273405856052,
+					28.023003199035884
+				],
+				[
+					6.793455320978296,
+					24.626275538546906
+				],
+				[
+					7.642637236100654,
+					22.927911708302418
+				],
+				[
+					7.642637236100654,
+					22.927911708302418
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				7.642637236100654,
+				22.927911708302418
+			]
+		},
+		{
+			"id": "zUQJ4nqcGJoSTbCy7TsO5",
+			"type": "freedraw",
+			"x": 236.4144963802231,
+			"y": 17858.276899669923,
+			"width": 31.419730859524634,
+			"height": 21.22954787805793,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1048453065,
+			"version": 35,
+			"versionNonce": 2049392297,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151240634
+				],
+				[
+					0,
+					-3.3967276604889776
+				],
+				[
+					0,
+					-5.095091490733466
+				],
+				[
+					0,
+					-5.94427340585753
+				],
+				[
+					0.8491819151223581,
+					-6.793455320977955
+				],
+				[
+					3.396727660489205,
+					-7.6426372361020185
+				],
+				[
+					5.944273405856052,
+					-7.6426372361020185
+				],
+				[
+					8.491819151222899,
+					-6.793455320977955
+				],
+				[
+					10.190182981467501,
+					-5.94427340585753
+				],
+				[
+					10.190182981467501,
+					-5.095091490733466
+				],
+				[
+					10.190182981467501,
+					-2.547545745368552
+				],
+				[
+					9.341001066345143,
+					2.547545745364914
+				],
+				[
+					8.491819151222899,
+					5.944273405853892
+				],
+				[
+					8.491819151222899,
+					7.6426372360983805
+				],
+				[
+					8.491819151222899,
+					8.491819151222444
+				],
+				[
+					10.190182981467501,
+					9.34100106634287
+				],
+				[
+					11.88854681171199,
+					9.34100106634287
+				],
+				[
+					15.285274472201195,
+					11.039364896587358
+				],
+				[
+					17.83282021756804,
+					11.888546811711421
+				],
+				[
+					22.07872979317949,
+					12.737728726831847
+				],
+				[
+					25.475457453668696,
+					13.58691064195591
+				],
+				[
+					28.872185114157787,
+					13.58691064195591
+				],
+				[
+					30.57054894440239,
+					13.58691064195591
+				],
+				[
+					31.419730859524634,
+					13.58691064195591
+				],
+				[
+					31.419730859524634,
+					13.58691064195591
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				31.419730859524634,
+				13.58691064195591
+			]
+		},
+		{
+			"id": "vPm0VKqy0Lu9uo5m4uCQn",
+			"type": "freedraw",
+			"x": 299.2539580992724,
+			"y": 17881.204811378226,
+			"width": 21.229547878057247,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1239703975,
+			"version": 18,
+			"versionNonce": 503021961,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					2.547545745366847,
+					0.8491819151204254
+				],
+				[
+					5.944273405856052,
+					0.8491819151204254
+				],
+				[
+					10.190182981467501,
+					0.8491819151204254
+				],
+				[
+					13.586910641956592,
+					0.8491819151204254
+				],
+				[
+					18.682002132690286,
+					1.6983638302444888
+				],
+				[
+					20.38036596293489,
+					1.6983638302444888
+				],
+				[
+					21.229547878057247,
+					1.6983638302444888
+				],
+				[
+					21.229547878057247,
+					1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				21.229547878057247,
+				1.6983638302444888
+			]
+		},
+		{
+			"id": "q8Zct8bdOP5X6iC4kVv0U",
+			"type": "freedraw",
+			"x": 298.40477618415014,
+			"y": 17897.339267765547,
+			"width": 16.983638302445684,
+			"height": 2.547545745368552,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2092229289,
+			"version": 15,
+			"versionNonce": 1922955143,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.944273405855938,
+					1.6983638302444888
+				],
+				[
+					9.341001066345143,
+					1.6983638302444888
+				],
+				[
+					13.586910641956592,
+					2.547545745368552
+				],
+				[
+					16.13445638732344,
+					2.547545745368552
+				],
+				[
+					16.983638302445684,
+					2.547545745368552
+				],
+				[
+					16.983638302445684,
+					2.547545745368552
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.983638302445684,
+				2.547545745368552
+			]
+		},
+		{
+			"id": "YJ-sZbYtqUL2_ABlfNWnE",
+			"type": "freedraw",
+			"x": 368.03769322417793,
+			"y": 17851.483444348945,
+			"width": 2.547545745366847,
+			"height": 50.10173299221424,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 487441961,
+			"version": 19,
+			"versionNonce": 134506601,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					0
+				],
+				[
+					-0.8491819151222444,
+					0.8491819151204254
+				],
+				[
+					-0.8491819151222444,
+					1.6983638302444888
+				],
+				[
+					-1.6983638302446025,
+					11.039364896587358
+				],
+				[
+					-1.6983638302446025,
+					23.777093623422843
+				],
+				[
+					-1.6983638302446025,
+					35.665640435134264
+				],
+				[
+					0,
+					45.00664150148077
+				],
+				[
+					0.8491819151222444,
+					49.252551077090175
+				],
+				[
+					0.8491819151222444,
+					50.10173299221424
+				],
+				[
+					0.8491819151222444,
+					50.10173299221424
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.8491819151222444,
+				50.10173299221424
+			]
+		},
+		{
+			"id": "Lxi69lgZhe2d1XURgOGPm",
+			"type": "freedraw",
+			"x": 384.17214961150137,
+			"y": 17886.29990286896,
+			"width": 33.96727660489148,
+			"height": 58.59355214343668,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 365384553,
+			"version": 45,
+			"versionNonce": 925068967,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-5.94427340585753
+				],
+				[
+					0.8491819151222444,
+					-13.586910641959548
+				],
+				[
+					2.547545745366847,
+					-22.927911708302418
+				],
+				[
+					2.547545745366847,
+					-23.77709362342648
+				],
+				[
+					5.095091490733694,
+					-29.721367029280373
+				],
+				[
+					7.642637236100654,
+					-33.967276604893414
+				],
+				[
+					10.190182981467501,
+					-36.51482235025833
+				],
+				[
+					14.43609255707895,
+					-38.21318618050282
+				],
+				[
+					17.83282021756804,
+					-38.21318618050282
+				],
+				[
+					23.777093623424093,
+					-33.11809468976935
+				],
+				[
+					28.872185114157787,
+					-25.47545745367097
+				],
+				[
+					28.872185114157787,
+					-24.626275538546906
+				],
+				[
+					31.419730859524634,
+					-13.586910641959548
+				],
+				[
+					31.419730859524634,
+					-12.737728726835485
+				],
+				[
+					32.26891277464688,
+					0
+				],
+				[
+					30.57054894440239,
+					9.34100106634287
+				],
+				[
+					26.32463936879094,
+					15.285274472200399
+				],
+				[
+					22.07872979317949,
+					17.832820217565313
+				],
+				[
+					19.531184047812644,
+					18.682002132689377
+				],
+				[
+					17.83282021756804,
+					18.682002132689377
+				],
+				[
+					14.43609255707895,
+					17.832820217565313
+				],
+				[
+					12.737728726834348,
+					14.436092557076336
+				],
+				[
+					11.88854681171199,
+					11.039364896587358
+				],
+				[
+					11.88854681171199,
+					8.491819151222444
+				],
+				[
+					12.737728726834348,
+					6.793455320977955
+				],
+				[
+					15.285274472201195,
+					5.944273405853892
+				],
+				[
+					17.83282021756804,
+					5.944273405853892
+				],
+				[
+					21.229547878057247,
+					5.944273405853892
+				],
+				[
+					22.07872979317949,
+					5.944273405853892
+				],
+				[
+					23.777093623424093,
+					7.6426372360983805
+				],
+				[
+					24.626275538546338,
+					8.491819151222444
+				],
+				[
+					25.475457453668582,
+					10.190182981466933
+				],
+				[
+					25.475457453668582,
+					11.039364896587358
+				],
+				[
+					29.72136702928003,
+					16.983638302444888
+				],
+				[
+					33.96727660489148,
+					20.380365962933865
+				],
+				[
+					33.96727660489148,
+					20.380365962933865
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				33.96727660489148,
+				20.380365962933865
+			]
+		},
+		{
+			"id": "oj2vbwUg0-h5B9BVt4UV2",
+			"type": "freedraw",
+			"x": 433.42470068859404,
+			"y": 17876.958901802613,
+			"width": 13.586910641956592,
+			"height": 25.47545745366733,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1335823881,
+			"version": 37,
+			"versionNonce": 1376613193,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151240634
+				],
+				[
+					0,
+					1.6983638302444888
+				],
+				[
+					0.8491819151222444,
+					5.94427340585753
+				],
+				[
+					1.6983638302446025,
+					14.436092557079974
+				],
+				[
+					3.396727660489205,
+					21.22954787805793
+				],
+				[
+					3.396727660489205,
+					22.078729793178354
+				],
+				[
+					5.095091490733694,
+					24.626275538546906
+				],
+				[
+					5.095091490733694,
+					25.47545745366733
+				],
+				[
+					6.793455320978296,
+					25.47545745366733
+				],
+				[
+					9.341001066345143,
+					25.47545745366733
+				],
+				[
+					11.039364896589746,
+					24.626275538546906
+				],
+				[
+					13.586910641956592,
+					22.078729793178354
+				],
+				[
+					13.586910641956592,
+					21.22954787805793
+				],
+				[
+					13.586910641956592,
+					18.682002132689377
+				],
+				[
+					13.586910641956592,
+					16.134456387324462
+				],
+				[
+					13.586910641956592,
+					11.039364896590996
+				],
+				[
+					13.586910641956592,
+					5.94427340585753
+				],
+				[
+					12.737728726834348,
+					3.3967276604889776
+				],
+				[
+					12.737728726834348,
+					5.94427340585753
+				],
+				[
+					12.737728726834348,
+					11.039364896590996
+				],
+				[
+					12.737728726834348,
+					15.285274472200399
+				],
+				[
+					12.737728726834348,
+					18.682002132689377
+				],
+				[
+					12.737728726834348,
+					19.53118404781344
+				],
+				[
+					12.737728726834348,
+					20.380365962933865
+				],
+				[
+					13.586910641956592,
+					22.078729793178354
+				],
+				[
+					13.586910641956592,
+					22.927911708302418
+				],
+				[
+					13.586910641956592,
+					23.777093623422843
+				],
+				[
+					13.586910641956592,
+					23.777093623422843
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.586910641956592,
+				23.777093623422843
+			]
+		},
+		{
+			"id": "GIJyizCvUCOrYUZbviiyv",
+			"type": "freedraw",
+			"x": 458.9001581422626,
+			"y": 17896.490085850426,
+			"width": 1.6983638302446025,
+			"height": 25.47545745366733,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 456288553,
+			"version": 16,
+			"versionNonce": 908919239,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.547545745364914
+				],
+				[
+					0,
+					3.3967276604889776
+				],
+				[
+					0.8491819151223581,
+					8.491819151222444
+				],
+				[
+					1.6983638302446025,
+					16.983638302444888
+				],
+				[
+					1.6983638302446025,
+					22.927911708302418
+				],
+				[
+					1.6983638302446025,
+					25.47545745366733
+				],
+				[
+					1.6983638302446025,
+					25.47545745366733
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				25.47545745366733
+			]
+		},
+		{
+			"id": "mg0d89ZhX77hlKK7YRlN-",
+			"type": "freedraw",
+			"x": 470.78870495397473,
+			"y": 17894.79172202018,
+			"width": 15.285274472201081,
+			"height": 34.81645852001384,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 309924713,
+			"version": 39,
+			"versionNonce": 1087844583,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.547545745366847,
+					-4.245909575613041
+				],
+				[
+					3.3967276604890912,
+					-4.245909575613041
+				],
+				[
+					5.095091490733694,
+					-5.095091490733466
+				],
+				[
+					7.642637236100541,
+					-6.793455320977955
+				],
+				[
+					11.039364896589746,
+					-6.793455320977955
+				],
+				[
+					11.88854681171199,
+					-6.793455320977955
+				],
+				[
+					14.436092557078837,
+					-6.793455320977955
+				],
+				[
+					14.436092557078837,
+					-5.095091490733466
+				],
+				[
+					13.586910641956592,
+					-3.3967276604889776
+				],
+				[
+					12.737728726834234,
+					-2.547545745368552
+				],
+				[
+					11.88854681171199,
+					-0.8491819151240634
+				],
+				[
+					11.039364896589746,
+					0.8491819151204254
+				],
+				[
+					11.039364896589746,
+					2.547545745364914
+				],
+				[
+					11.039364896589746,
+					4.245909575609403
+				],
+				[
+					11.039364896589746,
+					6.793455320977955
+				],
+				[
+					12.737728726834234,
+					9.34100106634287
+				],
+				[
+					13.586910641956592,
+					11.039364896587358
+				],
+				[
+					14.436092557078837,
+					11.888546811711421
+				],
+				[
+					15.285274472201081,
+					13.58691064195591
+				],
+				[
+					15.285274472201081,
+					14.436092557076336
+				],
+				[
+					15.285274472201081,
+					15.285274472200399
+				],
+				[
+					15.285274472201081,
+					16.983638302444888
+				],
+				[
+					15.285274472201081,
+					18.682002132689377
+				],
+				[
+					15.285274472201081,
+					21.22954787805793
+				],
+				[
+					14.436092557078837,
+					23.777093623422843
+				],
+				[
+					12.737728726834234,
+					26.324639368791395
+				],
+				[
+					11.039364896589746,
+					27.17382128391182
+				],
+				[
+					9.341001066345143,
+					28.023003199035884
+				],
+				[
+					7.642637236100541,
+					28.023003199035884
+				],
+				[
+					5.944273405855938,
+					28.023003199035884
+				],
+				[
+					5.944273405855938,
+					28.023003199035884
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.944273405855938,
+				28.023003199035884
+			]
+		},
+		{
+			"id": "c4bhP3vtPiKmsibUrKm6L",
+			"type": "freedraw",
+			"x": -478.59667615274213,
+			"y": 17912.62454223774,
+			"width": 15.285274472201138,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1697858983,
+			"version": 13,
+			"versionNonce": 1075705097,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.095091490733694,
+					0
+				],
+				[
+					10.190182981467387,
+					0
+				],
+				[
+					14.436092557078837,
+					-0.8491819151204254
+				],
+				[
+					15.285274472201138,
+					-0.8491819151204254
+				],
+				[
+					15.285274472201138,
+					-0.8491819151204254
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15.285274472201138,
+				-0.8491819151204254
+			]
+		},
+		{
+			"id": "xLNruHcNdS_8lcdROEBgf",
+			"type": "freedraw",
+			"x": -476.8983123224976,
+			"y": 17889.696630529437,
+			"width": 28.023003199035486,
+			"height": 44.157459586360346,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1087644905,
+			"version": 24,
+			"versionNonce": 1353612295,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9.341001066345143,
+					5.095091490733466
+				],
+				[
+					11.039364896589689,
+					5.095091490733466
+				],
+				[
+					12.737728726834291,
+					6.793455320977955
+				],
+				[
+					17.83282021756804,
+					9.341001066346507
+				],
+				[
+					22.927911708301735,
+					13.58691064195591
+				],
+				[
+					25.47545745366864,
+					17.83282021756895
+				],
+				[
+					27.173821283913185,
+					21.22954787805793
+				],
+				[
+					28.023003199035486,
+					23.77709362342648
+				],
+				[
+					28.023003199035486,
+					28.023003199035884
+				],
+				[
+					27.173821283913185,
+					33.11809468976935
+				],
+				[
+					25.47545745366864,
+					35.6656404351379
+				],
+				[
+					22.927911708301735,
+					39.06236809562688
+				],
+				[
+					21.22954787805719,
+					41.609913840991794
+				],
+				[
+					20.38036596293489,
+					42.45909575611586
+				],
+				[
+					19.531184047812587,
+					44.157459586360346
+				],
+				[
+					19.531184047812587,
+					44.157459586360346
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				19.531184047812587,
+				44.157459586360346
+			]
+		},
+		{
+			"id": "ICkxwD1mjY_2yQaeG9HpG",
+			"type": "freedraw",
+			"x": -444.62939954785065,
+			"y": 18189.457846567606,
+			"width": 22.927911708301735,
+			"height": 2.547545745364914,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1538164425,
+			"version": 19,
+			"versionNonce": 881617897,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					0
+				],
+				[
+					0,
+					0.8491819151204254
+				],
+				[
+					2.547545745366847,
+					0.8491819151204254
+				],
+				[
+					5.095091490733694,
+					0.8491819151204254
+				],
+				[
+					11.039364896589689,
+					0.8491819151204254
+				],
+				[
+					16.13445638732344,
+					0
+				],
+				[
+					18.682002132690286,
+					0
+				],
+				[
+					20.38036596293489,
+					-0.8491819151240634
+				],
+				[
+					22.078729793179434,
+					-0.8491819151240634
+				],
+				[
+					22.078729793179434,
+					-1.6983638302444888
+				],
+				[
+					22.078729793179434,
+					-1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.078729793179434,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "T9ZonvGIorc5jpd3U9yB-",
+			"type": "freedraw",
+			"x": -430.1933069907718,
+			"y": 18174.172572095405,
+			"width": 24.626275538546338,
+			"height": 47.554187246845686,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 827278599,
+			"version": 22,
+			"versionNonce": 2041537319,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.547545745364914
+				],
+				[
+					0.8491819151223012,
+					3.3967276604889776
+				],
+				[
+					2.5475457453669037,
+					8.491819151222444
+				],
+				[
+					9.3410010663452,
+					17.832820217565313
+				],
+				[
+					14.436092557078894,
+					26.324639368787757
+				],
+				[
+					19.531184047812644,
+					33.967276604889776
+				],
+				[
+					23.777093623424093,
+					39.911550010747305
+				],
+				[
+					24.626275538546338,
+					40.76073192586773
+				],
+				[
+					23.777093623424093,
+					42.45909575611222
+				],
+				[
+					22.07872979317949,
+					44.15745958635671
+				],
+				[
+					20.380365962934945,
+					45.8558234166012
+				],
+				[
+					18.682002132690343,
+					47.554187246845686
+				],
+				[
+					17.83282021756804,
+					47.554187246845686
+				],
+				[
+					17.83282021756804,
+					47.554187246845686
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.83282021756804,
+				47.554187246845686
+			]
+		},
+		{
+			"id": "XLUZe6P1w9b49NhPzgt56",
+			"type": "freedraw",
+			"x": -350.37020696927675,
+			"y": 18153.79220613247,
+			"width": 17.83282021756804,
+			"height": 67.08537129465913,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1619299847,
+			"version": 34,
+			"versionNonce": 1170802377,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					9.34100106634287
+				],
+				[
+					-0.8491819151223012,
+					21.22954787805429
+				],
+				[
+					-0.8491819151223012,
+					32.26891277464529
+				],
+				[
+					0.8491819151222444,
+					40.76073192586773
+				],
+				[
+					3.396727660489148,
+					45.8558234166012
+				],
+				[
+					4.2459095756113925,
+					48.40336916196975
+				],
+				[
+					5.095091490733694,
+					48.40336916196975
+				],
+				[
+					5.944273405855995,
+					48.40336916196975
+				],
+				[
+					9.341001066345143,
+					42.45909575611222
+				],
+				[
+					11.88854681171199,
+					33.967276604889776
+				],
+				[
+					13.586910641956592,
+					24.62627553854327
+				],
+				[
+					14.436092557078837,
+					16.983638302444888
+				],
+				[
+					14.436092557078837,
+					10.190182981466933
+				],
+				[
+					13.586910641956592,
+					9.34100106634287
+				],
+				[
+					13.586910641956592,
+					10.190182981466933
+				],
+				[
+					13.586910641956592,
+					16.134456387320824
+				],
+				[
+					13.586910641956592,
+					28.023003199032246
+				],
+				[
+					14.436092557078837,
+					42.45909575611222
+				],
+				[
+					16.13445638732344,
+					55.196824482947704
+				],
+				[
+					16.13445638732344,
+					56.04600639806813
+				],
+				[
+					16.98363830244574,
+					63.68864363417015
+				],
+				[
+					16.98363830244574,
+					66.2361893795387
+				],
+				[
+					16.98363830244574,
+					67.08537129465913
+				],
+				[
+					16.98363830244574,
+					62.839461719046085
+				],
+				[
+					16.98363830244574,
+					60.29191597368117
+				],
+				[
+					16.98363830244574,
+					60.29191597368117
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.98363830244574,
+				60.29191597368117
+			]
+		},
+		{
+			"id": "f2Mn057nITWi8V7ii_a1U",
+			"type": "freedraw",
+			"x": -306.2127473829178,
+			"y": 18202.19557529444,
+			"width": 17.83282021756804,
+			"height": 24.626275538546906,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 201041351,
+			"version": 58,
+			"versionNonce": 474375751,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					0
+				],
+				[
+					-1.6983638302446025,
+					-0.8491819151240634
+				],
+				[
+					-2.547545745366847,
+					-0.8491819151240634
+				],
+				[
+					-4.245909575611449,
+					-0.8491819151240634
+				],
+				[
+					-5.095091490733751,
+					-0.8491819151240634
+				],
+				[
+					-5.944273405855995,
+					-0.8491819151240634
+				],
+				[
+					-6.793455320978296,
+					-1.6983638302444888
+				],
+				[
+					-7.642637236100597,
+					-1.6983638302444888
+				],
+				[
+					-8.491819151222899,
+					-1.6983638302444888
+				],
+				[
+					-9.3410010663452,
+					-1.6983638302444888
+				],
+				[
+					-10.190182981467444,
+					-1.6983638302444888
+				],
+				[
+					-11.039364896589746,
+					-1.6983638302444888
+				],
+				[
+					-11.888546811712047,
+					-1.6983638302444888
+				],
+				[
+					-13.586910641956592,
+					-1.6983638302444888
+				],
+				[
+					-14.436092557078894,
+					-1.6983638302444888
+				],
+				[
+					-15.285274472201195,
+					-1.6983638302444888
+				],
+				[
+					-15.285274472201195,
+					-0.8491819151240634
+				],
+				[
+					-15.285274472201195,
+					0
+				],
+				[
+					-15.285274472201195,
+					2.547545745364914
+				],
+				[
+					-14.436092557078894,
+					4.245909575609403
+				],
+				[
+					-13.586910641956592,
+					6.793455320977955
+				],
+				[
+					-12.737728726834348,
+					7.6426372360983805
+				],
+				[
+					-11.888546811712047,
+					8.491819151222444
+				],
+				[
+					-10.190182981467444,
+					8.491819151222444
+				],
+				[
+					-9.3410010663452,
+					9.34100106634287
+				],
+				[
+					-7.642637236100597,
+					9.34100106634287
+				],
+				[
+					-5.944273405855995,
+					9.34100106634287
+				],
+				[
+					-5.095091490733751,
+					9.34100106634287
+				],
+				[
+					-4.245909575611449,
+					10.190182981466933
+				],
+				[
+					-2.547545745366847,
+					10.190182981466933
+				],
+				[
+					-1.6983638302446025,
+					11.039364896587358
+				],
+				[
+					0,
+					11.888546811711421
+				],
+				[
+					0.8491819151223012,
+					12.737728726831847
+				],
+				[
+					0.8491819151223012,
+					14.436092557076336
+				],
+				[
+					1.6983638302445456,
+					15.285274472200399
+				],
+				[
+					2.547545745366847,
+					16.983638302444888
+				],
+				[
+					2.547545745366847,
+					17.83282021756895
+				],
+				[
+					2.547545745366847,
+					19.53118404781344
+				],
+				[
+					2.547545745366847,
+					20.380365962933865
+				],
+				[
+					0.8491819151223012,
+					21.22954787805793
+				],
+				[
+					0,
+					22.078729793178354
+				],
+				[
+					-1.6983638302446025,
+					22.078729793178354
+				],
+				[
+					-3.396727660489148,
+					22.927911708302418
+				],
+				[
+					-5.095091490733751,
+					22.927911708302418
+				],
+				[
+					-5.944273405855995,
+					22.927911708302418
+				],
+				[
+					-8.491819151222899,
+					22.927911708302418
+				],
+				[
+					-9.3410010663452,
+					22.927911708302418
+				],
+				[
+					-11.039364896589746,
+					22.927911708302418
+				],
+				[
+					-11.888546811712047,
+					22.927911708302418
+				],
+				[
+					-11.888546811712047,
+					22.927911708302418
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-11.888546811712047,
+				22.927911708302418
+			]
+		},
+		{
+			"id": "EsXbcYPuQvCuOk7JmcjjY",
+			"type": "freedraw",
+			"x": -293.47501865608353,
+			"y": 18180.966027416383,
+			"width": 13.586910641956592,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 127400711,
+			"version": 18,
+			"versionNonce": 2121221545,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6983638302446025,
+					0
+				],
+				[
+					3.396727660489148,
+					0
+				],
+				[
+					5.944273405855995,
+					0.8491819151204254
+				],
+				[
+					7.642637236100597,
+					0.8491819151204254
+				],
+				[
+					10.190182981467444,
+					0.8491819151204254
+				],
+				[
+					11.039364896589746,
+					0.8491819151204254
+				],
+				[
+					11.888546811712047,
+					0.8491819151204254
+				],
+				[
+					12.737728726834291,
+					0.8491819151204254
+				],
+				[
+					13.586910641956592,
+					0.8491819151204254
+				],
+				[
+					13.586910641956592,
+					0.8491819151204254
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.586910641956592,
+				0.8491819151204254
+			]
+		},
+		{
+			"id": "Qal2PH7N4jZRYHs0DYdXW",
+			"type": "freedraw",
+			"x": -239.1273760882571,
+			"y": 18151.244660387103,
+			"width": 1.6983638302446025,
+			"height": 47.554187246849324,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1120584809,
+			"version": 19,
+			"versionNonce": 162179209,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					11.039364896590996
+				],
+				[
+					0,
+					12.737728726835485
+				],
+				[
+					-0.8491819151223012,
+					21.22954787805793
+				],
+				[
+					-1.6983638302446025,
+					28.023003199035884
+				],
+				[
+					-1.6983638302446025,
+					33.967276604893414
+				],
+				[
+					-0.8491819151223012,
+					38.21318618050282
+				],
+				[
+					0,
+					42.45909575611586
+				],
+				[
+					0,
+					45.855823416604835
+				],
+				[
+					0,
+					46.70500533172526
+				],
+				[
+					0,
+					47.554187246849324
+				],
+				[
+					0,
+					46.70500533172526
+				],
+				[
+					0,
+					46.70500533172526
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				46.70500533172526
+			]
+		},
+		{
+			"id": "2vYtdTh_m9buFTzqx_sJn",
+			"type": "freedraw",
+			"x": -226.38964736142282,
+			"y": 18180.11684550126,
+			"width": 33.96727660489148,
+			"height": 54.34764256782728,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 812680329,
+			"version": 46,
+			"versionNonce": 974700679,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223012,
+					-7.6426372360983805
+				],
+				[
+					0.8491819151223012,
+					-8.491819151222444
+				],
+				[
+					1.6983638302445456,
+					-15.285274472200399
+				],
+				[
+					2.547545745366847,
+					-21.22954787805429
+				],
+				[
+					2.547545745366847,
+					-27.17382128391182
+				],
+				[
+					3.396727660489148,
+					-29.721367029276735
+				],
+				[
+					5.095091490733694,
+					-30.570548944400798
+				],
+				[
+					5.944273405855995,
+					-31.41973085952486
+				],
+				[
+					7.642637236100597,
+					-30.570548944400798
+				],
+				[
+					9.341001066345143,
+					-27.17382128391182
+				],
+				[
+					11.88854681171199,
+					-18.682002132689377
+				],
+				[
+					14.436092557078894,
+					-9.34100106634287
+				],
+				[
+					15.285274472201138,
+					-0.8491819151204254
+				],
+				[
+					15.285274472201138,
+					5.095091490737104
+				],
+				[
+					15.285274472201138,
+					5.94427340585753
+				],
+				[
+					15.285274472201138,
+					10.19018298147057
+				],
+				[
+					13.586910641956592,
+					11.88854681171506
+				],
+				[
+					11.88854681171199,
+					13.586910641959548
+				],
+				[
+					9.341001066345143,
+					14.436092557079974
+				],
+				[
+					6.793455320978296,
+					14.436092557079974
+				],
+				[
+					5.944273405855995,
+					14.436092557079974
+				],
+				[
+					5.944273405855995,
+					13.586910641959548
+				],
+				[
+					5.944273405855995,
+					6.793455320981593
+				],
+				[
+					6.793455320978296,
+					2.547545745368552
+				],
+				[
+					8.491819151222842,
+					1.6983638302444888
+				],
+				[
+					11.039364896589746,
+					0.8491819151240634
+				],
+				[
+					12.737728726834291,
+					0.8491819151240634
+				],
+				[
+					14.436092557078894,
+					2.547545745368552
+				],
+				[
+					14.436092557078894,
+					3.3967276604889776
+				],
+				[
+					16.13445638732344,
+					8.491819151226082
+				],
+				[
+					18.682002132690286,
+					14.436092557079974
+				],
+				[
+					21.22954787805719,
+					19.53118404781344
+				],
+				[
+					22.07872979317949,
+					22.078729793181992
+				],
+				[
+					22.927911708301735,
+					22.927911708302418
+				],
+				[
+					23.777093623424037,
+					22.927911708302418
+				],
+				[
+					27.173821283913185,
+					22.078729793181992
+				],
+				[
+					30.57054894440239,
+					20.380365962937503
+				],
+				[
+					33.96727660489148,
+					19.53118404781344
+				],
+				[
+					33.96727660489148,
+					19.53118404781344
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				33.96727660489148,
+				19.53118404781344
+			]
+		},
+		{
+			"id": "9VunYRg63Yp_r5kpguLJr",
+			"type": "freedraw",
+			"x": -189.8748250111645,
+			"y": 18161.43484336857,
+			"width": 13.586910641956592,
+			"height": 6.793455320977955,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2055879431,
+			"version": 17,
+			"versionNonce": 557231977,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					3.396727660489205,
+					1.6983638302444888
+				],
+				[
+					5.095091490733694,
+					2.547545745368552
+				],
+				[
+					5.944273405856052,
+					2.547545745368552
+				],
+				[
+					7.642637236100654,
+					4.245909575613041
+				],
+				[
+					10.190182981467501,
+					5.095091490733466
+				],
+				[
+					11.88854681171199,
+					5.94427340585753
+				],
+				[
+					13.586910641956592,
+					5.94427340585753
+				],
+				[
+					13.586910641956592,
+					6.793455320977955
+				],
+				[
+					13.586910641956592,
+					6.793455320977955
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.586910641956592,
+				6.793455320977955
+			]
+		},
+		{
+			"id": "wT8atwzaP5FotNIBP7ShE",
+			"type": "freedraw",
+			"x": -189.02564309604213,
+			"y": 18186.061118907117,
+			"width": 11.88854681171199,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 705300935,
+			"version": 16,
+			"versionNonce": 912070567,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					1.6983638302444888,
+					0
+				],
+				[
+					4.245909575611336,
+					0
+				],
+				[
+					6.793455320978296,
+					0
+				],
+				[
+					8.491819151222785,
+					0
+				],
+				[
+					10.190182981467387,
+					0
+				],
+				[
+					11.039364896589632,
+					0
+				],
+				[
+					11.88854681171199,
+					0
+				],
+				[
+					11.88854681171199,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.88854681171199,
+				0
+			]
+		},
+		{
+			"id": "j9k_hm_gopFnWBCY2bC2d",
+			"type": "freedraw",
+			"x": -132.97963669797116,
+			"y": 18171.625026350037,
+			"width": 43.30827767123674,
+			"height": 63.68864363417015,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1448550537,
+			"version": 48,
+			"versionNonce": 996072009,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					-8.491819151222444
+				],
+				[
+					0.8491819151222444,
+					-9.341001066346507
+				],
+				[
+					2.547545745366847,
+					-13.58691064195591
+				],
+				[
+					5.944273405855938,
+					-18.682002132689377
+				],
+				[
+					6.793455320978296,
+					-19.53118404781344
+				],
+				[
+					11.039364896589632,
+					-22.927911708302418
+				],
+				[
+					15.285274472201081,
+					-24.626275538546906
+				],
+				[
+					21.229547878057133,
+					-25.47545745366733
+				],
+				[
+					26.324639368790827,
+					-22.927911708302418
+				],
+				[
+					29.72136702928003,
+					-20.380365962933865
+				],
+				[
+					30.570548944402276,
+					-14.436092557079974
+				],
+				[
+					30.570548944402276,
+					-5.095091490733466
+				],
+				[
+					30.570548944402276,
+					7.6426372361020185
+				],
+				[
+					29.72136702928003,
+					10.190182981466933
+				],
+				[
+					27.173821283913185,
+					21.22954787805793
+				],
+				[
+					22.927911708301735,
+					28.023003199035884
+				],
+				[
+					15.285274472201081,
+					33.11809468976935
+				],
+				[
+					12.737728726834234,
+					33.967276604889776
+				],
+				[
+					5.095091490733694,
+					36.51482235025833
+				],
+				[
+					0.8491819151222444,
+					36.51482235025833
+				],
+				[
+					-0.8491819151223581,
+					34.81645852001384
+				],
+				[
+					-2.5475457453669605,
+					33.11809468976935
+				],
+				[
+					-2.5475457453669605,
+					29.721367029280373
+				],
+				[
+					-0.8491819151223581,
+					24.626275538546906
+				],
+				[
+					2.547545745366847,
+					22.927911708302418
+				],
+				[
+					2.547545745366847,
+					22.078729793178354
+				],
+				[
+					5.944273405855938,
+					22.078729793178354
+				],
+				[
+					8.491819151222785,
+					22.927911708302418
+				],
+				[
+					11.039364896589632,
+					25.47545745366733
+				],
+				[
+					14.436092557078837,
+					29.721367029280373
+				],
+				[
+					15.285274472201081,
+					30.570548944400798
+				],
+				[
+					18.682002132690286,
+					34.81645852001384
+				],
+				[
+					22.078729793179377,
+					36.51482235025833
+				],
+				[
+					24.626275538546224,
+					38.21318618050282
+				],
+				[
+					28.02300319903543,
+					38.21318618050282
+				],
+				[
+					28.872185114157674,
+					38.21318618050282
+				],
+				[
+					33.96727660489148,
+					38.21318618050282
+				],
+				[
+					37.36400426538057,
+					38.21318618050282
+				],
+				[
+					38.21318618050293,
+					36.51482235025833
+				],
+				[
+					40.76073192586978,
+					31.41973085952486
+				],
+				[
+					40.76073192586978,
+					31.41973085952486
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				40.76073192586978,
+				31.41973085952486
+			]
+		},
+		{
+			"id": "PHHchHb0tYNO-MZbkEQyb",
+			"type": "freedraw",
+			"x": -59.10081008233226,
+			"y": 18148.697114641735,
+			"width": 19.531184047812644,
+			"height": 56.89518831319219,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1159587367,
+			"version": 26,
+			"versionNonce": 1380551367,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.3967276604890912,
+					2.547545745368552
+				],
+				[
+					-4.245909575611449,
+					3.3967276604889776
+				],
+				[
+					-8.491819151222785,
+					10.190182981466933
+				],
+				[
+					-12.737728726834234,
+					18.682002132689377
+				],
+				[
+					-15.285274472201081,
+					29.721367029280373
+				],
+				[
+					-16.13445638732344,
+					40.76073192587137
+				],
+				[
+					-15.285274472201081,
+					49.25255107709381
+				],
+				[
+					-14.436092557078837,
+					50.10173299221424
+				],
+				[
+					-13.586910641956592,
+					51.80009682245873
+				],
+				[
+					-11.88854681171199,
+					53.498460652703216
+				],
+				[
+					-9.341001066345143,
+					54.34764256782728
+				],
+				[
+					-6.793455320978296,
+					55.196824482947704
+				],
+				[
+					-3.3967276604890912,
+					56.04600639807177
+				],
+				[
+					0,
+					56.89518831319219
+				],
+				[
+					1.6983638302446025,
+					56.89518831319219
+				],
+				[
+					2.5475457453669605,
+					56.89518831319219
+				],
+				[
+					3.396727660489205,
+					56.89518831319219
+				],
+				[
+					3.396727660489205,
+					56.04600639807177
+				],
+				[
+					3.396727660489205,
+					56.04600639807177
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.396727660489205,
+				56.04600639807177
+			]
+		},
+		{
+			"id": "UDeTZRQ06pJKk1LllQidh",
+			"type": "freedraw",
+			"x": -47.212263270620156,
+			"y": 18152.943024217348,
+			"width": 21.229547878057133,
+			"height": 38.21318618050282,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 248364169,
+			"version": 34,
+			"versionNonce": 2029955369,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.547545745364914
+				],
+				[
+					0,
+					11.888546811711421
+				],
+				[
+					0.8491819151222444,
+					24.626275538546906
+				],
+				[
+					0.8491819151222444,
+					26.324639368791395
+				],
+				[
+					2.547545745366847,
+					35.665640435134264
+				],
+				[
+					2.547545745366847,
+					37.36400426537875
+				],
+				[
+					2.547545745366847,
+					38.21318618050282
+				],
+				[
+					4.245909575611449,
+					38.21318618050282
+				],
+				[
+					6.793455320978296,
+					37.36400426537875
+				],
+				[
+					8.491819151222785,
+					36.51482235025833
+				],
+				[
+					11.88854681171199,
+					32.26891277464529
+				],
+				[
+					13.586910641956592,
+					25.47545745366733
+				],
+				[
+					16.13445638732344,
+					17.832820217565313
+				],
+				[
+					16.983638302445684,
+					12.737728726831847
+				],
+				[
+					16.983638302445684,
+					11.888546811711421
+				],
+				[
+					16.983638302445684,
+					11.039364896587358
+				],
+				[
+					16.983638302445684,
+					10.190182981466933
+				],
+				[
+					16.983638302445684,
+					13.58691064195591
+				],
+				[
+					17.83282021756804,
+					20.380365962933865
+				],
+				[
+					18.682002132690286,
+					27.17382128391182
+				],
+				[
+					19.53118404781253,
+					32.26891277464529
+				],
+				[
+					20.38036596293489,
+					34.81645852001384
+				],
+				[
+					20.38036596293489,
+					35.665640435134264
+				],
+				[
+					20.38036596293489,
+					36.51482235025833
+				],
+				[
+					21.229547878057133,
+					36.51482235025833
+				],
+				[
+					21.229547878057133,
+					37.36400426537875
+				],
+				[
+					21.229547878057133,
+					37.36400426537875
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				21.229547878057133,
+				37.36400426537875
+			]
+		},
+		{
+			"id": "BOsBJ_YOpBAEYyjGBmEKq",
+			"type": "freedraw",
+			"x": -13.244986665728675,
+			"y": 18189.457846567606,
+			"width": 1.6983638302446025,
+			"height": 23.777093623422843,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 744006727,
+			"version": 15,
+			"versionNonce": 444242407,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					6.793455320977955
+				],
+				[
+					0,
+					7.6426372360983805
+				],
+				[
+					0.8491819151222444,
+					12.737728726831847
+				],
+				[
+					0.8491819151222444,
+					18.682002132689377
+				],
+				[
+					0.8491819151222444,
+					22.927911708302418
+				],
+				[
+					0.8491819151222444,
+					23.777093623422843
+				],
+				[
+					1.6983638302446025,
+					23.777093623422843
+				],
+				[
+					1.6983638302446025,
+					23.777093623422843
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				23.777093623422843
+			]
+		},
+		{
+			"id": "BCXqfVLKiVV_UkDqnc5Pe",
+			"type": "freedraw",
+			"x": -1.3564398540166849,
+			"y": 18192.854574228095,
+			"width": 14.43609255707895,
+			"height": 30.570548944400798,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1634080743,
+			"version": 30,
+			"versionNonce": 1401003017,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6983638302446025,
+					-1.6983638302444888
+				],
+				[
+					2.547545745366847,
+					-2.547545745368552
+				],
+				[
+					5.944273405856052,
+					-3.3967276604889776
+				],
+				[
+					9.341001066345143,
+					-3.3967276604889776
+				],
+				[
+					11.88854681171199,
+					-3.3967276604889776
+				],
+				[
+					11.88854681171199,
+					-1.6983638302444888
+				],
+				[
+					9.341001066345143,
+					0.8491819151204254
+				],
+				[
+					7.642637236100541,
+					3.3967276604889776
+				],
+				[
+					7.642637236100541,
+					4.245909575609403
+				],
+				[
+					11.039364896589746,
+					7.6426372360983805
+				],
+				[
+					13.586910641956592,
+					12.737728726831847
+				],
+				[
+					14.43609255707895,
+					13.58691064195591
+				],
+				[
+					14.43609255707895,
+					17.83282021756895
+				],
+				[
+					14.43609255707895,
+					21.22954787805793
+				],
+				[
+					13.586910641956592,
+					23.777093623422843
+				],
+				[
+					12.737728726834348,
+					24.626275538546906
+				],
+				[
+					11.88854681171199,
+					25.47545745366733
+				],
+				[
+					11.039364896589746,
+					26.324639368791395
+				],
+				[
+					10.190182981467501,
+					26.324639368791395
+				],
+				[
+					8.491819151222899,
+					26.324639368791395
+				],
+				[
+					6.793455320978296,
+					27.17382128391182
+				],
+				[
+					5.944273405856052,
+					27.17382128391182
+				],
+				[
+					5.944273405856052,
+					27.17382128391182
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.944273405856052,
+				27.17382128391182
+			]
+		},
+		{
+			"id": "_OKscBXU77E9WRRcVmTnr",
+			"type": "freedraw",
+			"x": 24.968199514774255,
+			"y": 18168.228298689548,
+			"width": 11.88854681171199,
+			"height": 0.8491819151240634,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 433346697,
+			"version": 14,
+			"versionNonce": 1409074439,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.3967276604890912,
+					0
+				],
+				[
+					5.944273405855938,
+					0
+				],
+				[
+					7.642637236100541,
+					0
+				],
+				[
+					9.341001066345143,
+					0
+				],
+				[
+					10.190182981467387,
+					-0.8491819151240634
+				],
+				[
+					11.88854681171199,
+					-0.8491819151240634
+				],
+				[
+					11.88854681171199,
+					-0.8491819151240634
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.88854681171199,
+				-0.8491819151240634
+			]
+		},
+		{
+			"id": "ajiut6nph_8YLqgaHivRh",
+			"type": "freedraw",
+			"x": 64.03056761039943,
+			"y": 18137.657749745144,
+			"width": 22.927911708301735,
+			"height": 57.74437022831626,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 22942983,
+			"version": 32,
+			"versionNonce": 182661865,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					11.039364896590996
+				],
+				[
+					0,
+					24.626275538546906
+				],
+				[
+					0,
+					26.324639368791395
+				],
+				[
+					0,
+					38.213186180506455
+				],
+				[
+					1.6983638302446025,
+					45.855823416604835
+				],
+				[
+					4.245909575611449,
+					49.25255107709381
+				],
+				[
+					5.944273405856052,
+					50.101732992217876
+				],
+				[
+					7.642637236100654,
+					50.9509149073383
+				],
+				[
+					10.190182981467501,
+					50.101732992217876
+				],
+				[
+					11.88854681171199,
+					47.554187246849324
+				],
+				[
+					13.586910641956592,
+					42.45909575611586
+				],
+				[
+					16.13445638732344,
+					34.81645852001384
+				],
+				[
+					16.983638302445797,
+					25.47545745367097
+				],
+				[
+					17.83282021756804,
+					17.83282021756895
+				],
+				[
+					17.83282021756804,
+					11.88854681171506
+				],
+				[
+					17.83282021756804,
+					9.341001066346507
+				],
+				[
+					18.682002132690286,
+					10.19018298147057
+				],
+				[
+					18.682002132690286,
+					17.83282021756895
+				],
+				[
+					19.531184047812644,
+					26.324639368791395
+				],
+				[
+					20.38036596293489,
+					38.213186180506455
+				],
+				[
+					21.229547878057247,
+					47.554187246849324
+				],
+				[
+					22.07872979317949,
+					53.498460652706854
+				],
+				[
+					22.927911708301735,
+					56.04600639807177
+				],
+				[
+					22.927911708301735,
+					57.74437022831626
+				],
+				[
+					22.927911708301735,
+					57.74437022831626
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.927911708301735,
+				57.74437022831626
+			]
+		},
+		{
+			"id": "-iWPscNHYpBp1SN5ZFgdF",
+			"type": "freedraw",
+			"x": 112.43393677236986,
+			"y": 18185.211936991993,
+			"width": 8.491819151222899,
+			"height": 23.777093623422843,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 299522121,
+			"version": 27,
+			"versionNonce": 1850510375,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223581,
+					0
+				],
+				[
+					-1.6983638302446025,
+					0
+				],
+				[
+					-3.396727660489205,
+					1.6983638302444888
+				],
+				[
+					-5.095091490733807,
+					4.245909575613041
+				],
+				[
+					-5.095091490733807,
+					5.94427340585753
+				],
+				[
+					-5.095091490733807,
+					7.6426372361020185
+				],
+				[
+					-0.8491819151223581,
+					11.039364896590996
+				],
+				[
+					2.547545745366847,
+					13.58691064195591
+				],
+				[
+					3.3967276604890912,
+					13.58691064195591
+				],
+				[
+					3.3967276604890912,
+					14.436092557079974
+				],
+				[
+					3.3967276604890912,
+					15.285274472200399
+				],
+				[
+					3.3967276604890912,
+					17.83282021756895
+				],
+				[
+					3.3967276604890912,
+					19.53118404781344
+				],
+				[
+					2.547545745366847,
+					20.380365962933865
+				],
+				[
+					1.6983638302444888,
+					22.078729793178354
+				],
+				[
+					0,
+					22.927911708302418
+				],
+				[
+					-0.8491819151223581,
+					22.927911708302418
+				],
+				[
+					-2.547545745366847,
+					23.777093623422843
+				],
+				[
+					-3.396727660489205,
+					23.777093623422843
+				],
+				[
+					-3.396727660489205,
+					23.777093623422843
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.396727660489205,
+				23.777093623422843
+			]
+		},
+		{
+			"id": "zmeT3rCVujTj9tmFJHaDx",
+			"type": "freedraw",
+			"x": 105.64048145139157,
+			"y": 18130.864294424166,
+			"width": 25.475457453668582,
+			"height": 70.48209895515174,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 120141801,
+			"version": 24,
+			"versionNonce": 1403973065,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.793455320978296,
+					5.94427340585753
+				],
+				[
+					7.642637236100541,
+					6.793455320977955
+				],
+				[
+					10.190182981467387,
+					11.88854681171506
+				],
+				[
+					13.586910641956592,
+					20.380365962937503
+				],
+				[
+					16.13445638732344,
+					31.41973085952486
+				],
+				[
+					19.53118404781253,
+					43.30827767123992
+				],
+				[
+					19.53118404781253,
+					44.157459586360346
+				],
+				[
+					22.07872979317949,
+					50.9509149073383
+				],
+				[
+					23.77709362342398,
+					57.74437022831626
+				],
+				[
+					24.626275538546338,
+					62.83946171904972
+				],
+				[
+					25.475457453668582,
+					65.38700746441828
+				],
+				[
+					25.475457453668582,
+					67.08537129466276
+				],
+				[
+					25.475457453668582,
+					68.78373512490725
+				],
+				[
+					23.77709362342398,
+					69.63291704002768
+				],
+				[
+					22.927911708301735,
+					70.48209895515174
+				],
+				[
+					22.07872979317949,
+					70.48209895515174
+				],
+				[
+					22.07872979317949,
+					70.48209895515174
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.07872979317949,
+				70.48209895515174
+			]
+		},
+		{
+			"id": "NFlDT-TERLoS9vM1T31dP",
+			"type": "freedraw",
+			"x": 188.01112721825336,
+			"y": 18151.244660387103,
+			"width": 16.13445638732344,
+			"height": 31.41973085952486,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1157647529,
+			"version": 19,
+			"versionNonce": 461633161,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355080837,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8491819151204254
+				],
+				[
+					-2.547545745366847,
+					5.095091490733466
+				],
+				[
+					-6.793455320978296,
+					11.888546811711421
+				],
+				[
+					-11.039364896589746,
+					18.682002132689377
+				],
+				[
+					-13.586910641956592,
+					22.927911708302418
+				],
+				[
+					-14.436092557078837,
+					23.777093623422843
+				],
+				[
+					-14.436092557078837,
+					24.626275538546906
+				],
+				[
+					-13.586910641956592,
+					26.324639368791395
+				],
+				[
+					-11.039364896589746,
+					28.87218511415631
+				],
+				[
+					-7.642637236100541,
+					30.570548944400798
+				],
+				[
+					-3.3967276604890912,
+					31.41973085952486
+				],
+				[
+					-2.547545745366847,
+					31.41973085952486
+				],
+				[
+					-1.6983638302444888,
+					31.41973085952486
+				],
+				[
+					-0.8491819151222444,
+					31.41973085952486
+				],
+				[
+					0,
+					31.41973085952486
+				],
+				[
+					1.6983638302446025,
+					30.570548944400798
+				],
+				[
+					1.6983638302446025,
+					30.570548944400798
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				30.570548944400798
+			]
+		},
+		{
+			"id": "RIjAm284RRP6zjBEtZhoJ",
+			"type": "freedraw",
+			"x": 182.91603572751967,
+			"y": 18169.926662519792,
+			"width": 18.682002132690286,
+			"height": 4.245909575613041,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1203982983,
+			"version": 7,
+			"versionNonce": 1821797351,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355081349,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.793455320978296,
+					-1.6983638302444888
+				],
+				[
+					11.88854681171199,
+					-3.3967276604889776
+				],
+				[
+					16.983638302445797,
+					-4.245909575613041
+				],
+				[
+					18.682002132690286,
+					-4.245909575613041
+				],
+				[
+					18.682002132690286,
+					-4.245909575613041
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.682002132690286,
+				-4.245909575613041
+			]
+		},
+		{
+			"id": "OX9Xr7r7Ee3Nm7P6HZxD_",
+			"type": "freedraw",
+			"x": 184.61439955776427,
+			"y": 18176.72011784077,
+			"width": 18.682002132690286,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 524544521,
+			"version": 11,
+			"versionNonce": 553878633,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355081771,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					3.3967276604890912,
+					0
+				],
+				[
+					7.642637236100541,
+					0
+				],
+				[
+					11.88854681171199,
+					-0.8491819151204254
+				],
+				[
+					12.737728726834348,
+					-0.8491819151204254
+				],
+				[
+					16.13445638732344,
+					-0.8491819151204254
+				],
+				[
+					17.83282021756804,
+					-1.6983638302444888
+				],
+				[
+					18.682002132690286,
+					-1.6983638302444888
+				],
+				[
+					18.682002132690286,
+					-1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.682002132690286,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "W0Tn8cserbMxHutTEUfFn",
+			"type": "freedraw",
+			"x": 211.78822084167746,
+			"y": 18152.943024217348,
+			"width": 22.927911708301735,
+			"height": 39.911550010747305,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 104075943,
+			"version": 16,
+			"versionNonce": 878300009,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355082415,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6983638302446025,
+					1.6983638302444888
+				],
+				[
+					5.095091490733694,
+					5.095091490733466
+				],
+				[
+					10.190182981467387,
+					10.190182981466933
+				],
+				[
+					16.13445638732344,
+					14.436092557076336
+				],
+				[
+					20.38036596293489,
+					17.832820217565313
+				],
+				[
+					22.07872979317949,
+					19.531184047809802
+				],
+				[
+					22.927911708301735,
+					21.22954787805793
+				],
+				[
+					22.927911708301735,
+					23.777093623422843
+				],
+				[
+					20.38036596293489,
+					28.023003199035884
+				],
+				[
+					16.13445638732344,
+					32.26891277464529
+				],
+				[
+					11.039364896589746,
+					37.36400426537875
+				],
+				[
+					9.341001066345143,
+					39.911550010747305
+				],
+				[
+					8.491819151222899,
+					39.911550010747305
+				],
+				[
+					8.491819151222899,
+					39.911550010747305
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				8.491819151222899,
+				39.911550010747305
+			]
+		},
+		{
+			"id": "DKyCemLUPBXdeOVtjUQ4K",
+			"type": "freedraw",
+			"x": 263.588317664137,
+			"y": 18142.75284123588,
+			"width": 24.626275538546338,
+			"height": 45.8558234166012,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 797555623,
+			"version": 25,
+			"versionNonce": 1615288615,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355084979,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223581,
+					5.944273405853892
+				],
+				[
+					-0.8491819151223581,
+					11.888546811711421
+				],
+				[
+					-1.6983638302446025,
+					19.531184047809802
+				],
+				[
+					-0.8491819151223581,
+					26.324639368787757
+				],
+				[
+					0,
+					28.023003199032246
+				],
+				[
+					2.547545745366847,
+					32.26891277464529
+				],
+				[
+					5.095091490733694,
+					33.967276604889776
+				],
+				[
+					7.642637236100541,
+					33.967276604889776
+				],
+				[
+					11.88854681171199,
+					31.41973085952486
+				],
+				[
+					16.983638302445684,
+					25.47545745366733
+				],
+				[
+					18.682002132690286,
+					17.832820217565313
+				],
+				[
+					18.682002132690286,
+					16.983638302444888
+				],
+				[
+					19.53118404781253,
+					11.888546811711421
+				],
+				[
+					19.53118404781253,
+					9.34100106634287
+				],
+				[
+					19.53118404781253,
+					11.039364896587358
+				],
+				[
+					19.53118404781253,
+					16.134456387320824
+				],
+				[
+					19.53118404781253,
+					22.92791170829878
+				],
+				[
+					20.38036596293489,
+					33.11809468976935
+				],
+				[
+					21.229547878057133,
+					40.76073192586773
+				],
+				[
+					22.078729793179377,
+					45.00664150148077
+				],
+				[
+					22.078729793179377,
+					45.8558234166012
+				],
+				[
+					22.927911708301735,
+					45.8558234166012
+				],
+				[
+					22.927911708301735,
+					45.8558234166012
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.927911708301735,
+				45.8558234166012
+			]
+		},
+		{
+			"id": "bcxU3wZYfS3EvYv46JoAD",
+			"type": "freedraw",
+			"x": 307.74577725049585,
+			"y": 18179.26766358614,
+			"width": 16.13445638732344,
+			"height": 28.023003199032246,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 760443081,
+			"version": 20,
+			"versionNonce": 515073127,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355085599,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.6983638302444888,
+					0.8491819151204254
+				],
+				[
+					-2.547545745366847,
+					2.547545745364914
+				],
+				[
+					-2.547545745366847,
+					3.3967276604889776
+				],
+				[
+					-2.547545745366847,
+					5.944273405853892
+				],
+				[
+					0.8491819151223581,
+					9.34100106634287
+				],
+				[
+					7.642637236100654,
+					14.436092557076336
+				],
+				[
+					8.491819151222899,
+					14.436092557076336
+				],
+				[
+					11.888546811712104,
+					16.983638302444888
+				],
+				[
+					13.586910641956592,
+					17.832820217565313
+				],
+				[
+					13.586910641956592,
+					18.682002132689377
+				],
+				[
+					13.586910641956592,
+					20.380365962933865
+				],
+				[
+					11.888546811712104,
+					22.078729793178354
+				],
+				[
+					10.190182981467501,
+					23.777093623422843
+				],
+				[
+					8.491819151222899,
+					25.47545745366733
+				],
+				[
+					7.642637236100654,
+					27.17382128391182
+				],
+				[
+					6.793455320978296,
+					27.17382128391182
+				],
+				[
+					5.944273405856052,
+					28.023003199032246
+				],
+				[
+					5.944273405856052,
+					28.023003199032246
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.944273405856052,
+				28.023003199032246
+			]
+		},
+		{
+			"id": "_1AOkjbQ_w-IK5LhamI08",
+			"type": "freedraw",
+			"x": 325.5785974680638,
+			"y": 18161.43484336856,
+			"width": 17.83282021756804,
+			"height": 3.3967276604889776,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1676720521,
+			"version": 11,
+			"versionNonce": 37659625,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355088135,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					1.6983638302446025,
+					0
+				],
+				[
+					4.245909575611449,
+					0
+				],
+				[
+					8.491819151222899,
+					-0.8491819151204254
+				],
+				[
+					12.737728726834348,
+					-1.6983638302444888
+				],
+				[
+					15.285274472201195,
+					-2.547545745364914
+				],
+				[
+					16.983638302445797,
+					-3.3967276604889776
+				],
+				[
+					17.83282021756804,
+					-3.3967276604889776
+				],
+				[
+					17.83282021756804,
+					-3.3967276604889776
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.83282021756804,
+				-3.3967276604889776
+			]
+		},
+		{
+			"id": "2WyX2KpUWTGvgOWXObekT",
+			"type": "freedraw",
+			"x": 357.84751024271077,
+			"y": 18135.95938591489,
+			"width": 10.190182981467387,
+			"height": 49.25255107709381,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1096592167,
+			"version": 13,
+			"versionNonce": 1636950503,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355088594,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.547545745366847,
+					6.793455320977955
+				],
+				[
+					4.245909575611449,
+					16.134456387324462
+				],
+				[
+					5.944273405855938,
+					25.47545745366733
+				],
+				[
+					5.944273405855938,
+					26.324639368791395
+				],
+				[
+					7.642637236100541,
+					34.81645852001384
+				],
+				[
+					8.491819151222899,
+					40.76073192587137
+				],
+				[
+					9.341001066345143,
+					45.855823416604835
+				],
+				[
+					9.341001066345143,
+					48.40336916196975
+				],
+				[
+					10.190182981467387,
+					48.40336916196975
+				],
+				[
+					10.190182981467387,
+					49.25255107709381
+				],
+				[
+					10.190182981467387,
+					49.25255107709381
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				10.190182981467387,
+				49.25255107709381
+			]
+		},
+		{
+			"id": "YOxHnLtVteAcmZlQIMPwo",
+			"type": "freedraw",
+			"x": 378.22787620564566,
+			"y": 18154.64138804758,
+			"width": 32.26891277464688,
+			"height": 54.34764256782728,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 576902153,
+			"version": 40,
+			"versionNonce": 834472039,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355089482,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					-5.944273405853892
+				],
+				[
+					2.547545745366847,
+					-9.34100106634287
+				],
+				[
+					4.245909575611449,
+					-13.58691064195591
+				],
+				[
+					6.793455320978296,
+					-16.983638302444888
+				],
+				[
+					9.341001066345143,
+					-17.832820217565313
+				],
+				[
+					10.190182981467387,
+					-17.832820217565313
+				],
+				[
+					11.88854681171199,
+					-18.682002132689377
+				],
+				[
+					13.586910641956592,
+					-17.832820217565313
+				],
+				[
+					16.13445638732344,
+					-13.58691064195591
+				],
+				[
+					18.682002132690286,
+					-5.095091490733466
+				],
+				[
+					20.38036596293489,
+					6.793455320977955
+				],
+				[
+					20.38036596293489,
+					18.682002132693015
+				],
+				[
+					18.682002132690286,
+					26.324639368791395
+				],
+				[
+					18.682002132690286,
+					27.17382128391546
+				],
+				[
+					16.983638302445684,
+					30.570548944404436
+				],
+				[
+					13.586910641956592,
+					32.268912774648925
+				],
+				[
+					8.491819151222899,
+					32.268912774648925
+				],
+				[
+					8.491819151222899,
+					31.41973085952486
+				],
+				[
+					6.793455320978296,
+					31.41973085952486
+				],
+				[
+					6.793455320978296,
+					30.570548944404436
+				],
+				[
+					6.793455320978296,
+					28.872185114159947
+				],
+				[
+					8.491819151222899,
+					28.023003199035884
+				],
+				[
+					11.88854681171199,
+					26.324639368791395
+				],
+				[
+					16.13445638732344,
+					26.324639368791395
+				],
+				[
+					16.13445638732344,
+					27.17382128391546
+				],
+				[
+					18.682002132690286,
+					28.023003199035884
+				],
+				[
+					20.38036596293489,
+					30.570548944404436
+				],
+				[
+					22.07872979317949,
+					32.268912774648925
+				],
+				[
+					23.77709362342398,
+					33.967276604893414
+				],
+				[
+					24.626275538546338,
+					34.81645852001384
+				],
+				[
+					25.475457453668582,
+					35.6656404351379
+				],
+				[
+					26.32463936879094,
+					35.6656404351379
+				],
+				[
+					27.173821283913185,
+					35.6656404351379
+				],
+				[
+					28.02300319903543,
+					35.6656404351379
+				],
+				[
+					29.72136702928003,
+					34.81645852001384
+				],
+				[
+					32.26891277464688,
+					33.11809468976935
+				],
+				[
+					32.26891277464688,
+					32.268912774648925
+				],
+				[
+					32.26891277464688,
+					32.268912774648925
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				32.26891277464688,
+				32.268912774648925
+			]
+		},
+		{
+			"id": "hW8RgMysLeNGERost0sdX",
+			"type": "freedraw",
+			"x": 422.38533579200464,
+			"y": 18163.982389113928,
+			"width": 14.436092557078837,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 449009033,
+			"version": 11,
+			"versionNonce": 368033769,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675355089882,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					2.547545745366847,
+					-0.8491819151204254
+				],
+				[
+					3.3967276604890912,
+					-0.8491819151204254
+				],
+				[
+					6.793455320978296,
+					-0.8491819151204254
+				],
+				[
+					9.341001066345143,
+					-0.8491819151204254
+				],
+				[
+					11.88854681171199,
+					0
+				],
+				[
+					12.737728726834234,
+					0
+				],
+				[
+					14.436092557078837,
+					0
+				],
+				[
+					14.436092557078837,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.436092557078837,
+				0
 			]
 		},
 		{
@@ -66896,11 +76236,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1958887015,
-			"version": 151,
-			"versionNonce": 264007017,
+			"version": 183,
+			"versionNonce": 2120850569,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67034,11 +76374,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 289370345,
-			"version": 163,
-			"versionNonce": 714750375,
+			"version": 195,
+			"versionNonce": 737348743,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67216,11 +76556,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1646853511,
-			"version": 135,
-			"versionNonce": 243062857,
+			"version": 167,
+			"versionNonce": 167191401,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67290,11 +76630,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 895557833,
-			"version": 133,
-			"versionNonce": 1184001223,
+			"version": 165,
+			"versionNonce": 252568487,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080171,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67356,11 +76696,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 517041383,
-			"version": 148,
-			"versionNonce": 1940711209,
+			"version": 180,
+			"versionNonce": 468766281,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67486,11 +76826,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 231995881,
-			"version": 132,
-			"versionNonce": 391592935,
+			"version": 164,
+			"versionNonce": 1929434823,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67556,11 +76896,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1345169481,
-			"version": 138,
-			"versionNonce": 431495689,
+			"version": 170,
+			"versionNonce": 1530010921,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67654,11 +76994,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1774759817,
-			"version": 144,
-			"versionNonce": 284501767,
+			"version": 176,
+			"versionNonce": 1047029223,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67780,11 +77120,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1567304265,
-			"version": 138,
-			"versionNonce": 26865897,
+			"version": 170,
+			"versionNonce": 119967753,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67882,11 +77222,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1342603305,
-			"version": 126,
-			"versionNonce": 1911074343,
+			"version": 158,
+			"versionNonce": 1347490055,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67936,11 +77276,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 739386569,
-			"version": 126,
-			"versionNonce": 14543817,
+			"version": 158,
+			"versionNonce": 1707714281,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67990,11 +77330,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1768721769,
-			"version": 135,
-			"versionNonce": 1964921159,
+			"version": 167,
+			"versionNonce": 1916229671,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68080,11 +77420,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 602917767,
-			"version": 129,
-			"versionNonce": 798984873,
+			"version": 161,
+			"versionNonce": 1906762185,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68146,11 +77486,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 886822889,
-			"version": 138,
-			"versionNonce": 1139970151,
+			"version": 170,
+			"versionNonce": 168278855,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68248,11 +77588,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 495245769,
-			"version": 135,
-			"versionNonce": 378162569,
+			"version": 167,
+			"versionNonce": 1205452969,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68338,11 +77678,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1425410343,
-			"version": 126,
-			"versionNonce": 674360199,
+			"version": 158,
+			"versionNonce": 203340391,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68392,11 +77732,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1255745159,
-			"version": 124,
-			"versionNonce": 484029545,
+			"version": 156,
+			"versionNonce": 1443742601,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496215,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68438,11 +77778,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1319661767,
-			"version": 128,
-			"versionNonce": 2115560103,
+			"version": 160,
+			"versionNonce": 759747975,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68500,11 +77840,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 269636935,
-			"version": 139,
-			"versionNonce": 911818569,
+			"version": 171,
+			"versionNonce": 1216244329,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68606,11 +77946,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1414017161,
-			"version": 130,
-			"versionNonce": 1716778439,
+			"version": 162,
+			"versionNonce": 1422036135,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68676,11 +78016,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1510718185,
-			"version": 140,
-			"versionNonce": 1365536297,
+			"version": 172,
+			"versionNonce": 938947913,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68786,11 +78126,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 880335785,
-			"version": 126,
-			"versionNonce": 939500775,
+			"version": 158,
+			"versionNonce": 1312317383,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68840,11 +78180,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 277360713,
-			"version": 126,
-			"versionNonce": 82231561,
+			"version": 158,
+			"versionNonce": 399746089,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68894,11 +78234,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 776227049,
-			"version": 140,
-			"versionNonce": 849899527,
+			"version": 172,
+			"versionNonce": 1002884839,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69004,11 +78344,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1509419433,
-			"version": 135,
-			"versionNonce": 2119940073,
+			"version": 167,
+			"versionNonce": 1677670153,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69094,11 +78434,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 411142983,
-			"version": 127,
-			"versionNonce": 1883952935,
+			"version": 159,
+			"versionNonce": 1207589383,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69152,11 +78492,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1850762569,
-			"version": 142,
-			"versionNonce": 802083529,
+			"version": 174,
+			"versionNonce": 250965481,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69274,11 +78614,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2009233959,
-			"version": 146,
-			"versionNonce": 391338567,
+			"version": 178,
+			"versionNonce": 399474983,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69416,11 +78756,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1419918121,
-			"version": 141,
-			"versionNonce": 1037799849,
+			"version": 173,
+			"versionNonce": 801229001,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69538,11 +78878,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 932759111,
-			"version": 126,
-			"versionNonce": 1285454183,
+			"version": 158,
+			"versionNonce": 2092090439,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69600,11 +78940,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 23849671,
-			"version": 126,
-			"versionNonce": 766342281,
+			"version": 158,
+			"versionNonce": 1879033769,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69662,11 +79002,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 273207111,
-			"version": 143,
-			"versionNonce": 1702409351,
+			"version": 175,
+			"versionNonce": 1719706471,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69792,11 +79132,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 434525993,
-			"version": 130,
-			"versionNonce": 1392507753,
+			"version": 162,
+			"versionNonce": 970648201,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69870,11 +79210,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 88024169,
-			"version": 128,
-			"versionNonce": 1503562663,
+			"version": 160,
+			"versionNonce": 361078407,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69940,11 +79280,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2060337865,
-			"version": 130,
-			"versionNonce": 2115937865,
+			"version": 162,
+			"versionNonce": 638497129,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70018,11 +79358,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 711579657,
-			"version": 121,
-			"versionNonce": 1966898887,
+			"version": 153,
+			"versionNonce": 209597863,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70060,11 +79400,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1514508327,
-			"version": 126,
-			"versionNonce": 1776612649,
+			"version": 158,
+			"versionNonce": 702979145,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70122,11 +79462,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 133481639,
-			"version": 136,
-			"versionNonce": 1257180647,
+			"version": 168,
+			"versionNonce": 1117186247,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70224,11 +79564,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2047484103,
-			"version": 140,
-			"versionNonce": 1774086153,
+			"version": 172,
+			"versionNonce": 87960361,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70342,11 +79682,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 209390375,
-			"version": 132,
-			"versionNonce": 1707260167,
+			"version": 164,
+			"versionNonce": 359413735,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70432,11 +79772,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1030418729,
-			"version": 123,
-			"versionNonce": 1470529257,
+			"version": 155,
+			"versionNonce": 1887493641,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70486,11 +79826,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 689976777,
-			"version": 133,
-			"versionNonce": 993263655,
+			"version": 165,
+			"versionNonce": 2064294663,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70580,11 +79920,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1172544615,
-			"version": 134,
-			"versionNonce": 1109965257,
+			"version": 166,
+			"versionNonce": 178926825,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70686,11 +80026,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1126903657,
-			"version": 121,
-			"versionNonce": 1563386695,
+			"version": 153,
+			"versionNonce": 1945020967,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70744,11 +80084,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 138429703,
-			"version": 121,
-			"versionNonce": 1516279977,
+			"version": 153,
+			"versionNonce": 122007497,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70806,11 +80146,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1367062919,
-			"version": 142,
-			"versionNonce": 1813078631,
+			"version": 174,
+			"versionNonce": 1023724871,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70952,11 +80292,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1786456745,
-			"version": 126,
-			"versionNonce": 570006409,
+			"version": 158,
+			"versionNonce": 477023913,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71038,11 +80378,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 67007177,
-			"version": 119,
-			"versionNonce": 1218870663,
+			"version": 151,
+			"versionNonce": 1101630567,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71100,11 +80440,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1836992073,
-			"version": 121,
-			"versionNonce": 1496269417,
+			"version": 153,
+			"versionNonce": 819007881,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71174,11 +80514,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1840529991,
-			"version": 128,
-			"versionNonce": 103494823,
+			"version": 160,
+			"versionNonce": 1302947719,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496216,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71280,11 +80620,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 242234249,
-			"version": 118,
-			"versionNonce": 751635785,
+			"version": 150,
+			"versionNonce": 1235744873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71350,11 +80690,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 198303209,
-			"version": 119,
-			"versionNonce": 474744775,
+			"version": 151,
+			"versionNonce": 2134957735,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71428,11 +80768,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 772184873,
-			"version": 117,
-			"versionNonce": 607026217,
+			"version": 149,
+			"versionNonce": 952042313,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71502,11 +80842,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1137047431,
-			"version": 124,
-			"versionNonce": 1495627495,
+			"version": 156,
+			"versionNonce": 2031907271,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71608,11 +80948,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 766958153,
-			"version": 113,
-			"versionNonce": 1329532681,
+			"version": 145,
+			"versionNonce": 175223337,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71674,11 +81014,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1618898759,
-			"version": 123,
-			"versionNonce": 323224071,
+			"version": 155,
+			"versionNonce": 1415094503,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71784,11 +81124,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 552292999,
-			"version": 109,
-			"versionNonce": 880428521,
+			"version": 141,
+			"versionNonce": 866878729,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71842,11 +81182,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 731638281,
-			"version": 105,
-			"versionNonce": 463743271,
+			"version": 137,
+			"versionNonce": 1384246279,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71888,11 +81228,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 671988681,
-			"version": 135,
-			"versionNonce": 2129371337,
+			"version": 167,
+			"versionNonce": 2145909737,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72058,11 +81398,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1778422375,
-			"version": 114,
-			"versionNonce": 1873964103,
+			"version": 146,
+			"versionNonce": 1335153447,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72148,11 +81488,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1618243497,
-			"version": 104,
-			"versionNonce": 1814994857,
+			"version": 136,
+			"versionNonce": 1060280009,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72202,11 +81542,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2143044681,
-			"version": 125,
-			"versionNonce": 726354791,
+			"version": 157,
+			"versionNonce": 1946015303,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72344,11 +81684,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 88072329,
-			"version": 100,
-			"versionNonce": 2054079113,
+			"version": 132,
+			"versionNonce": 874960297,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72390,11 +81730,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1292243529,
-			"version": 101,
-			"versionNonce": 985351815,
+			"version": 133,
+			"versionNonce": 647591271,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496217,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72444,11 +81784,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 171272937,
-			"version": 122,
-			"versionNonce": 1449625961,
+			"version": 154,
+			"versionNonce": 1106262153,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72586,11 +81926,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1459810089,
-			"version": 105,
-			"versionNonce": 1287576999,
+			"version": 137,
+			"versionNonce": 1051996295,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72664,11 +82004,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1510587497,
-			"version": 100,
-			"versionNonce": 157578313,
+			"version": 132,
+			"versionNonce": 1514815337,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72726,11 +82066,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 626198985,
-			"version": 117,
-			"versionNonce": 75665607,
+			"version": 149,
+			"versionNonce": 1980401575,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72860,11 +82200,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 210534921,
-			"version": 123,
-			"versionNonce": 1732313897,
+			"version": 155,
+			"versionNonce": 729836105,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73022,11 +82362,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2097749321,
-			"version": 104,
-			"versionNonce": 1805836263,
+			"version": 136,
+			"versionNonce": 449379015,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73112,11 +82452,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 251252135,
-			"version": 110,
-			"versionNonce": 1013495305,
+			"version": 142,
+			"versionNonce": 242104617,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73230,11 +82570,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 207609321,
-			"version": 103,
-			"versionNonce": 606882567,
+			"version": 135,
+			"versionNonce": 25954791,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73328,11 +82668,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1125333543,
-			"version": 95,
-			"versionNonce": 1003949289,
+			"version": 127,
+			"versionNonce": 880749577,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73398,11 +82738,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1869021639,
-			"version": 106,
-			"versionNonce": 1520128551,
+			"version": 138,
+			"versionNonce": 929051911,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73516,11 +82856,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 533105703,
-			"version": 91,
-			"versionNonce": 756516809,
+			"version": 123,
+			"versionNonce": 363774697,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73578,11 +82918,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 451137351,
-			"version": 97,
-			"versionNonce": 2010936647,
+			"version": 129,
+			"versionNonce": 1942092839,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73664,11 +83004,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1535730535,
-			"version": 137,
-			"versionNonce": 1906888809,
+			"version": 169,
+			"versionNonce": 512261577,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73914,11 +83254,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1097641703,
-			"version": 105,
-			"versionNonce": 1524947785,
+			"version": 137,
+			"versionNonce": 1251860295,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74036,11 +83376,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 616026919,
-			"version": 104,
-			"versionNonce": 1457527239,
+			"version": 136,
+			"versionNonce": 505928873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74174,11 +83514,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2046271657,
-			"version": 101,
-			"versionNonce": 438077993,
+			"version": 133,
+			"versionNonce": 508583527,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74296,11 +83636,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1435241257,
-			"version": 102,
-			"versionNonce": 191318247,
+			"version": 134,
+			"versionNonce": 1949851529,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74446,11 +83786,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1879800233,
-			"version": 112,
-			"versionNonce": 943414537,
+			"version": 144,
+			"versionNonce": 1369831815,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74636,11 +83976,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 570945161,
-			"version": 114,
-			"versionNonce": 24876039,
+			"version": 146,
+			"versionNonce": 2130019945,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74834,11 +84174,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1307685449,
-			"version": 89,
-			"versionNonce": 347919337,
+			"version": 121,
+			"versionNonce": 970666151,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74932,11 +84272,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 275780199,
-			"version": 117,
-			"versionNonce": 1092188967,
+			"version": 149,
+			"versionNonce": 1227542857,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75142,11 +84482,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 934592201,
-			"version": 123,
-			"versionNonce": 330067657,
+			"version": 155,
+			"versionNonce": 1352434631,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75384,11 +84724,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 199629193,
-			"version": 81,
-			"versionNonce": 514686535,
+			"version": 113,
+			"versionNonce": 2016657449,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75458,11 +84798,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 931744551,
-			"version": 86,
-			"versionNonce": 195407273,
+			"version": 118,
+			"versionNonce": 637956839,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75556,11 +84896,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1387234761,
-			"version": 79,
-			"versionNonce": 756292967,
+			"version": 111,
+			"versionNonce": 2046546697,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75630,11 +84970,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 508095207,
-			"version": 86,
-			"versionNonce": 1943277705,
+			"version": 118,
+			"versionNonce": 312835591,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75736,11 +85076,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 405756137,
-			"version": 90,
-			"versionNonce": 1872353415,
+			"version": 122,
+			"versionNonce": 1929284073,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75862,11 +85202,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 431580009,
-			"version": 94,
-			"versionNonce": 1374885737,
+			"version": 126,
+			"versionNonce": 695608615,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76008,11 +85348,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1626497895,
-			"version": 82,
-			"versionNonce": 1274752935,
+			"version": 114,
+			"versionNonce": 1816618185,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76110,11 +85450,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1847797639,
-			"version": 72,
-			"versionNonce": 1749959241,
+			"version": 104,
+			"versionNonce": 1776609351,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76176,11 +85516,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1506425833,
-			"version": 87,
-			"versionNonce": 1013228231,
+			"version": 119,
+			"versionNonce": 1097982889,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76306,11 +85646,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 772449801,
-			"version": 87,
-			"versionNonce": 599855401,
+			"version": 119,
+			"versionNonce": 835602279,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76436,11 +85776,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 392601607,
-			"version": 90,
-			"versionNonce": 1098035687,
+			"version": 122,
+			"versionNonce": 1319732873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76578,11 +85918,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 67169481,
-			"version": 80,
-			"versionNonce": 404661287,
+			"version": 112,
+			"versionNonce": 1870578311,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76684,11 +86024,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 838805607,
-			"version": 87,
-			"versionNonce": 2041206217,
+			"version": 119,
+			"versionNonce": 1588186473,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496218,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76822,11 +86162,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 332672969,
-			"version": 108,
-			"versionNonce": 2023795017,
+			"version": 140,
+			"versionNonce": 330488231,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77052,11 +86392,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 991367623,
-			"version": 73,
-			"versionNonce": 1578118087,
+			"version": 105,
+			"versionNonce": 1488861257,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77142,11 +86482,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1003006537,
-			"version": 78,
-			"versionNonce": 2010884873,
+			"version": 110,
+			"versionNonce": 1133972679,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77256,11 +86596,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 463183657,
-			"version": 76,
-			"versionNonce": 1816432711,
+			"version": 108,
+			"versionNonce": 784484137,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77370,11 +86710,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 585735975,
-			"version": 65,
-			"versionNonce": 1413528489,
+			"version": 97,
+			"versionNonce": 1254611943,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77444,11 +86784,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 413037031,
-			"version": 80,
-			"versionNonce": 435744615,
+			"version": 112,
+			"versionNonce": 186743305,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77578,11 +86918,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 271067783,
-			"version": 64,
-			"versionNonce": 1373462153,
+			"version": 96,
+			"versionNonce": 1297204999,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77656,11 +86996,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1974032265,
-			"version": 67,
-			"versionNonce": 1276406407,
+			"version": 99,
+			"versionNonce": 1054298345,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77746,11 +87086,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1770584199,
-			"version": 83,
-			"versionNonce": 1390153801,
+			"version": 115,
+			"versionNonce": 967921191,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77904,11 +87244,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1942194823,
-			"version": 71,
-			"versionNonce": 1692579015,
+			"version": 103,
+			"versionNonce": 1869564873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78022,11 +87362,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1647914855,
-			"version": 69,
-			"versionNonce": 1466244905,
+			"version": 101,
+			"versionNonce": 2060644679,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78132,11 +87472,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 804940455,
-			"version": 72,
-			"versionNonce": 341738471,
+			"version": 104,
+			"versionNonce": 84208297,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78258,11 +87598,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1879672871,
-			"version": 77,
-			"versionNonce": 1235833353,
+			"version": 109,
+			"versionNonce": 1779642471,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78408,11 +87748,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1150818313,
-			"version": 118,
-			"versionNonce": 799814535,
+			"version": 150,
+			"versionNonce": 1480830345,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78722,11 +88062,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1576949351,
-			"version": 88,
-			"versionNonce": 386395241,
+			"version": 120,
+			"versionNonce": 20876167,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78920,11 +88260,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 742675113,
-			"version": 93,
-			"versionNonce": 789195431,
+			"version": 125,
+			"versionNonce": 543626345,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79138,11 +88478,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 856499271,
-			"version": 61,
-			"versionNonce": 1040217929,
+			"version": 93,
+			"versionNonce": 1284604583,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79232,11 +88572,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 428022857,
-			"version": 59,
-			"versionNonce": 2044476871,
+			"version": 91,
+			"versionNonce": 557489993,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79318,11 +88658,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1045723241,
-			"version": 56,
-			"versionNonce": 1331996201,
+			"version": 88,
+			"versionNonce": 481859015,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79392,11 +88732,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1697207879,
-			"version": 55,
-			"versionNonce": 1128197351,
+			"version": 87,
+			"versionNonce": 421121577,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79462,11 +88802,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1200064999,
-			"version": 83,
-			"versionNonce": 1176500489,
+			"version": 115,
+			"versionNonce": 2026915047,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79644,11 +88984,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1968145223,
-			"version": 72,
-			"versionNonce": 650033159,
+			"version": 104,
+			"versionNonce": 1861230857,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79782,11 +89122,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1053726217,
-			"version": 58,
-			"versionNonce": 867037161,
+			"version": 90,
+			"versionNonce": 1348800519,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79864,11 +89204,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 430979527,
-			"version": 55,
-			"versionNonce": 441982759,
+			"version": 87,
+			"versionNonce": 540612585,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79934,11 +89274,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 164642151,
-			"version": 72,
-			"versionNonce": 1847200457,
+			"version": 104,
+			"versionNonce": 1836283687,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80072,11 +89412,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1647133161,
-			"version": 69,
-			"versionNonce": 544711239,
+			"version": 101,
+			"versionNonce": 1862283977,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80198,11 +89538,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1044499561,
-			"version": 67,
-			"versionNonce": 2113915305,
+			"version": 99,
+			"versionNonce": 644348487,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80320,11 +89660,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 429094633,
-			"version": 63,
-			"versionNonce": 972669287,
+			"version": 95,
+			"versionNonce": 1340141993,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80426,11 +89766,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1008202823,
-			"version": 54,
-			"versionNonce": 1284156553,
+			"version": 86,
+			"versionNonce": 1344215399,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80496,11 +89836,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 529754087,
-			"version": 54,
-			"versionNonce": 405470343,
+			"version": 86,
+			"versionNonce": 403100809,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80566,11 +89906,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 693278599,
-			"version": 65,
-			"versionNonce": 292959081,
+			"version": 97,
+			"versionNonce": 1877300359,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80680,11 +90020,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 808192297,
-			"version": 78,
-			"versionNonce": 247976871,
+			"version": 110,
+			"versionNonce": 1798134633,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80850,11 +90190,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1399816295,
-			"version": 99,
-			"versionNonce": 17686089,
+			"version": 131,
+			"versionNonce": 762784679,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496219,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81104,11 +90444,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1431818215,
-			"version": 87,
-			"versionNonce": 1174193863,
+			"version": 119,
+			"versionNonce": 1772095049,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81310,11 +90650,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 939837607,
-			"version": 77,
-			"versionNonce": 976039209,
+			"version": 109,
+			"versionNonce": 83959495,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81480,11 +90820,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 854839655,
-			"version": 54,
-			"versionNonce": 744904167,
+			"version": 86,
+			"versionNonce": 507139369,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81558,11 +90898,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 665278503,
-			"version": 51,
-			"versionNonce": 1950326793,
+			"version": 83,
+			"versionNonce": 958377447,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080173,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81624,11 +90964,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 159855945,
-			"version": 53,
-			"versionNonce": 688980231,
+			"version": 85,
+			"versionNonce": 744998921,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81698,11 +91038,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 267428711,
-			"version": 78,
-			"versionNonce": 1832957673,
+			"version": 110,
+			"versionNonce": 81746183,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81872,11 +91212,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 595232679,
-			"version": 53,
-			"versionNonce": 226052135,
+			"version": 85,
+			"versionNonce": 1042538217,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81946,11 +91286,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1169677481,
-			"version": 98,
-			"versionNonce": 398193097,
+			"version": 130,
+			"versionNonce": 230465575,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82200,11 +91540,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1305105705,
-			"version": 91,
-			"versionNonce": 1200335687,
+			"version": 123,
+			"versionNonce": 838474185,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82426,11 +91766,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1126688999,
-			"version": 53,
-			"versionNonce": 147640489,
+			"version": 85,
+			"versionNonce": 363070279,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82500,11 +91840,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 271611753,
-			"version": 57,
-			"versionNonce": 1403300455,
+			"version": 89,
+			"versionNonce": 151386281,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82590,11 +91930,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 287326599,
-			"version": 53,
-			"versionNonce": 639554441,
+			"version": 85,
+			"versionNonce": 1827799655,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82664,11 +92004,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1922211017,
-			"version": 74,
-			"versionNonce": 1854981511,
+			"version": 106,
+			"versionNonce": 351468425,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82822,11 +92162,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1541106377,
-			"version": 76,
-			"versionNonce": 334330473,
+			"version": 108,
+			"versionNonce": 611523975,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82988,11 +92328,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 683161513,
-			"version": 89,
-			"versionNonce": 126647463,
+			"version": 121,
+			"versionNonce": 1711055465,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83210,11 +92550,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1821396137,
-			"version": 59,
-			"versionNonce": 1661224265,
+			"version": 91,
+			"versionNonce": 2137248935,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83316,11 +92656,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 672147625,
-			"version": 98,
-			"versionNonce": 1917079495,
+			"version": 130,
+			"versionNonce": 2028891465,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83578,11 +92918,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 133993481,
-			"version": 81,
-			"versionNonce": 2126427177,
+			"version": 113,
+			"versionNonce": 628139975,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83772,11 +93112,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 3122055,
-			"version": 49,
-			"versionNonce": 1490337511,
+			"version": 81,
+			"versionNonce": 623107113,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83838,11 +93178,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2031189993,
-			"version": 46,
-			"versionNonce": 1527269129,
+			"version": 78,
+			"versionNonce": 347477735,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83892,11 +93232,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1540897929,
-			"version": 51,
-			"versionNonce": 1841973767,
+			"version": 83,
+			"versionNonce": 1250455305,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83966,11 +93306,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 627488807,
-			"version": 68,
-			"versionNonce": 1650228713,
+			"version": 100,
+			"versionNonce": 1405133319,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84108,11 +93448,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 271816679,
-			"version": 50,
-			"versionNonce": 1579249959,
+			"version": 82,
+			"versionNonce": 1066903017,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84178,11 +93518,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1070909319,
-			"version": 94,
-			"versionNonce": 600234185,
+			"version": 126,
+			"versionNonce": 1670170919,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84424,11 +93764,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1880046567,
-			"version": 77,
-			"versionNonce": 54965319,
+			"version": 109,
+			"versionNonce": 2136801481,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84602,11 +93942,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1324399049,
-			"version": 50,
-			"versionNonce": 1088608169,
+			"version": 82,
+			"versionNonce": 1904675911,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84672,11 +94012,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 871791657,
-			"version": 49,
-			"versionNonce": 1427542887,
+			"version": 81,
+			"versionNonce": 393478057,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84738,11 +94078,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1073957735,
-			"version": 52,
-			"versionNonce": 467401353,
+			"version": 84,
+			"versionNonce": 1233906535,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84816,11 +94156,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 89346599,
-			"version": 76,
-			"versionNonce": 467504775,
+			"version": 108,
+			"versionNonce": 1443373705,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84990,11 +94330,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1851459175,
-			"version": 54,
-			"versionNonce": 1164820841,
+			"version": 86,
+			"versionNonce": 132638343,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85084,11 +94424,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1142079049,
-			"version": 62,
-			"versionNonce": 1649943975,
+			"version": 94,
+			"versionNonce": 936700265,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85210,11 +94550,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1215717511,
-			"version": 56,
-			"versionNonce": 719563849,
+			"version": 88,
+			"versionNonce": 190283175,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85312,11 +94652,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1218928807,
-			"version": 48,
-			"versionNonce": 666032327,
+			"version": 80,
+			"versionNonce": 371577929,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85382,11 +94722,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1125324871,
-			"version": 46,
-			"versionNonce": 68762409,
+			"version": 78,
+			"versionNonce": 654782663,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85444,11 +94784,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1009597639,
-			"version": 86,
-			"versionNonce": 1368008679,
+			"version": 118,
+			"versionNonce": 349594409,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85666,11 +95006,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1450629063,
-			"version": 69,
-			"versionNonce": 24768009,
+			"version": 101,
+			"versionNonce": 345210855,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85820,11 +95160,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1622477641,
-			"version": 49,
-			"versionNonce": 1575654151,
+			"version": 81,
+			"versionNonce": 1347556873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85894,11 +95234,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1323101543,
-			"version": 49,
-			"versionNonce": 973161705,
+			"version": 81,
+			"versionNonce": 638118663,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85968,11 +95308,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1417267945,
-			"version": 48,
-			"versionNonce": 1431345703,
+			"version": 80,
+			"versionNonce": 1268018409,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86038,11 +95378,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1074846025,
-			"version": 66,
-			"versionNonce": 1497022409,
+			"version": 98,
+			"versionNonce": 937685543,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86180,11 +95520,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1987818889,
-			"version": 56,
-			"versionNonce": 2091433287,
+			"version": 88,
+			"versionNonce": 505997257,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86282,11 +95622,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1738302313,
-			"version": 79,
-			"versionNonce": 222420649,
+			"version": 111,
+			"versionNonce": 1662063943,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86488,11 +95828,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 173727079,
-			"version": 80,
-			"versionNonce": 1196391527,
+			"version": 112,
+			"versionNonce": 1646986921,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86698,11 +96038,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1744200649,
-			"version": 69,
-			"versionNonce": 885137801,
+			"version": 101,
+			"versionNonce": 1861014631,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86864,11 +96204,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 968495273,
-			"version": 46,
-			"versionNonce": 152131463,
+			"version": 78,
+			"versionNonce": 1648773513,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86938,11 +96278,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 823724551,
-			"version": 44,
-			"versionNonce": 1291257961,
+			"version": 76,
+			"versionNonce": 54767495,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87004,11 +96344,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 717947241,
-			"version": 47,
-			"versionNonce": 1747635879,
+			"version": 79,
+			"versionNonce": 129380457,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87082,11 +96422,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 464461481,
-			"version": 68,
-			"versionNonce": 531370825,
+			"version": 100,
+			"versionNonce": 441591463,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87244,11 +96584,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 647827047,
-			"version": 48,
-			"versionNonce": 256401863,
+			"version": 80,
+			"versionNonce": 138820425,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87326,11 +96666,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 258061513,
-			"version": 44,
-			"versionNonce": 826065449,
+			"version": 76,
+			"versionNonce": 851753415,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87392,11 +96732,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1261550791,
-			"version": 50,
-			"versionNonce": 528912615,
+			"version": 82,
+			"versionNonce": 1414654505,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496220,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87482,11 +96822,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 693956425,
-			"version": 85,
-			"versionNonce": 1855231241,
+			"version": 117,
+			"versionNonce": 1102571751,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87712,11 +97052,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 675197737,
-			"version": 75,
-			"versionNonce": 1651629063,
+			"version": 107,
+			"versionNonce": 1153744137,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87902,11 +97242,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1251239081,
-			"version": 93,
-			"versionNonce": 456068073,
+			"version": 125,
+			"versionNonce": 1689793543,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88164,11 +97504,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1374113801,
-			"version": 52,
-			"versionNonce": 1007076135,
+			"version": 84,
+			"versionNonce": 152712169,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88266,11 +97606,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1226928905,
-			"version": 54,
-			"versionNonce": 2132256457,
+			"version": 86,
+			"versionNonce": 1405229863,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88376,11 +97716,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1510796233,
-			"version": 48,
-			"versionNonce": 1555154503,
+			"version": 80,
+			"versionNonce": 1432211145,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88462,11 +97802,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2054467623,
-			"version": 37,
-			"versionNonce": 2080904487,
+			"version": 69,
+			"versionNonce": 323100231,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88504,11 +97844,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1078434503,
-			"version": 47,
-			"versionNonce": 1841880425,
+			"version": 79,
+			"versionNonce": 1344998825,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88598,11 +97938,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 360391623,
-			"version": 42,
-			"versionNonce": 1439484327,
+			"version": 74,
+			"versionNonce": 1712635239,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88676,11 +98016,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1147873097,
-			"version": 44,
-			"versionNonce": 1367033929,
+			"version": 76,
+			"versionNonce": 1085108361,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88762,11 +98102,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 734454633,
-			"version": 42,
-			"versionNonce": 217251015,
+			"version": 74,
+			"versionNonce": 2139519111,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88840,11 +98180,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 987332777,
-			"version": 33,
-			"versionNonce": 761091881,
+			"version": 65,
+			"versionNonce": 2090891113,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496221,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88882,11 +98222,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1577316329,
-			"version": 41,
-			"versionNonce": 1312492935,
+			"version": 73,
+			"versionNonce": 1968426919,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88960,11 +98300,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1961713737,
-			"version": 57,
-			"versionNonce": 193915945,
+			"version": 89,
+			"versionNonce": 374317641,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89102,11 +98442,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2131754121,
-			"version": 37,
-			"versionNonce": 1782843111,
+			"version": 69,
+			"versionNonce": 1906918087,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89164,11 +98504,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1369239561,
-			"version": 42,
-			"versionNonce": 1360101129,
+			"version": 74,
+			"versionNonce": 1251373353,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89246,11 +98586,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 10485703,
-			"version": 39,
-			"versionNonce": 571511303,
+			"version": 71,
+			"versionNonce": 623071719,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89316,11 +98656,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 69485415,
-			"version": 53,
-			"versionNonce": 847164905,
+			"version": 85,
+			"versionNonce": 786457609,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080174,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89442,11 +98782,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1837908199,
-			"version": 54,
-			"versionNonce": 1113504039,
+			"version": 86,
+			"versionNonce": 2026798343,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496222,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89572,11 +98912,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 251576201,
-			"version": 46,
-			"versionNonce": 585240777,
+			"version": 78,
+			"versionNonce": 522779369,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89670,11 +99010,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 699212455,
-			"version": 66,
-			"versionNonce": 815913831,
+			"version": 98,
+			"versionNonce": 2573351,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89844,11 +99184,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 740931303,
-			"version": 38,
-			"versionNonce": 126431881,
+			"version": 70,
+			"versionNonce": 1811658185,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89910,11 +99250,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1794015881,
-			"version": 43,
-			"versionNonce": 1992283783,
+			"version": 75,
+			"versionNonce": 723134279,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89996,11 +99336,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 201156265,
-			"version": 46,
-			"versionNonce": 917764457,
+			"version": 78,
+			"versionNonce": 1215567017,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90094,11 +99434,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1911914857,
-			"version": 54,
-			"versionNonce": 154234855,
+			"version": 86,
+			"versionNonce": 939763303,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90236,11 +99576,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1345348105,
-			"version": 44,
-			"versionNonce": 1892361737,
+			"version": 76,
+			"versionNonce": 2017302409,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90338,11 +99678,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 885194729,
-			"version": 36,
-			"versionNonce": 828955399,
+			"version": 68,
+			"versionNonce": 1706049927,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90412,11 +99752,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 735106343,
-			"version": 49,
-			"versionNonce": 443251945,
+			"version": 81,
+			"versionNonce": 1033092713,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90534,11 +99874,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 567689033,
-			"version": 60,
-			"versionNonce": 310253225,
+			"version": 92,
+			"versionNonce": 1700559015,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90708,11 +100048,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 497829127,
-			"version": 81,
-			"versionNonce": 1829946471,
+			"version": 113,
+			"versionNonce": 121768265,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90886,11 +100226,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1574146375,
-			"version": 71,
-			"versionNonce": 657170311,
+			"version": 103,
+			"versionNonce": 213175239,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496223,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91124,11 +100464,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1660004839,
-			"version": 31,
-			"versionNonce": 1440746217,
+			"version": 63,
+			"versionNonce": 1587804201,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91202,11 +100542,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 377666089,
-			"version": 47,
-			"versionNonce": 769373703,
+			"version": 79,
+			"versionNonce": 1205189351,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91348,11 +100688,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 189573287,
-			"version": 28,
-			"versionNonce": 2003292649,
+			"version": 60,
+			"versionNonce": 363137801,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91422,11 +100762,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 720836361,
-			"version": 36,
-			"versionNonce": 30997127,
+			"version": 68,
+			"versionNonce": 1263257095,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91532,11 +100872,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1208942121,
-			"version": 51,
-			"versionNonce": 1972735785,
+			"version": 83,
+			"versionNonce": 885047785,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91722,11 +101062,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1374760873,
-			"version": 20,
-			"versionNonce": 61674471,
+			"version": 52,
+			"versionNonce": 101936423,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91792,11 +101132,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 43296551,
-			"version": 25,
-			"versionNonce": 676053513,
+			"version": 57,
+			"versionNonce": 688037065,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91882,11 +101222,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1461169897,
-			"version": 21,
-			"versionNonce": 617611015,
+			"version": 53,
+			"versionNonce": 1402548295,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91960,11 +101300,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 847371815,
-			"version": 33,
-			"versionNonce": 1333303529,
+			"version": 65,
+			"versionNonce": 839261097,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496224,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92082,11 +101422,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1057416681,
-			"version": 48,
-			"versionNonce": 1464064039,
+			"version": 80,
+			"versionNonce": 1840877415,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92272,11 +101612,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1741582473,
-			"version": 18,
-			"versionNonce": 618720745,
+			"version": 50,
+			"versionNonce": 267828873,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92346,11 +101686,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 305546279,
-			"version": 17,
-			"versionNonce": 1213989159,
+			"version": 49,
+			"versionNonce": 515967623,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92420,11 +101760,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1715429831,
-			"version": 46,
-			"versionNonce": 1038951271,
+			"version": 78,
+			"versionNonce": 1905263977,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92622,11 +101962,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 585461833,
-			"version": 36,
-			"versionNonce": 1389016487,
+			"version": 68,
+			"versionNonce": 862724519,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496225,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92788,11 +102128,11 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1715150279,
-			"version": 10,
-			"versionNonce": 1089245577,
+			"version": 42,
+			"versionNonce": 572354633,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675354496226,
+			"updated": 1675355080175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92834,6 +102174,4024 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"lastCommittedPoint": [
 				116.66613910473006,
 				-1.6431850578119338
+			]
+		},
+		{
+			"id": "lmVu7aabuKJH8A-DAeFnO",
+			"type": "freedraw",
+			"x": -380.9407559136796,
+			"y": 17398.02030167368,
+			"width": 16.98363830244574,
+			"height": 35.6656404351379,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1867653833,
+			"version": 56,
+			"versionNonce": 2004516649,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					9.341001066346507
+				],
+				[
+					0,
+					17.83282021756895
+				],
+				[
+					0,
+					18.682002132693015
+				],
+				[
+					0.8491819151223012,
+					28.023003199035884
+				],
+				[
+					3.396727660489148,
+					16.134456387324462
+				],
+				[
+					3.396727660489148,
+					14.436092557079974
+				],
+				[
+					5.944273405855995,
+					6.793455320981593
+				],
+				[
+					5.944273405855995,
+					5.94427340585753
+				],
+				[
+					7.642637236100597,
+					2.547545745368552
+				],
+				[
+					8.491819151222899,
+					1.6983638302444888
+				],
+				[
+					9.341001066345143,
+					2.547545745368552
+				],
+				[
+					10.190182981467444,
+					5.095091490737104
+				],
+				[
+					11.888546811712047,
+					12.737728726835485
+				],
+				[
+					12.737728726834291,
+					19.53118404781344
+				],
+				[
+					14.436092557078894,
+					26.324639368791395
+				],
+				[
+					15.285274472201195,
+					32.268912774648925
+				],
+				[
+					15.285274472201195,
+					33.11809468976935
+				],
+				[
+					16.13445638732344,
+					35.6656404351379
+				],
+				[
+					16.13445638732344,
+					34.81645852001384
+				],
+				[
+					16.13445638732344,
+					29.721367029280373
+				],
+				[
+					16.98363830244574,
+					28.023003199035884
+				],
+				[
+					16.98363830244574,
+					28.023003199035884
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.98363830244574,
+				28.023003199035884
+			]
+		},
+		{
+			"id": "cG24GumGJ1ra6d_arH8jM",
+			"type": "freedraw",
+			"x": -335.08493249707607,
+			"y": 17371.695662304894,
+			"width": 27.173821283913185,
+			"height": 3.3967276604889776,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 467164489,
+			"version": 40,
+			"versionNonce": 852435943,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.944273405855995,
+					0.8491819151204254
+				],
+				[
+					13.586910641956592,
+					1.6983638302444888
+				],
+				[
+					14.436092557078894,
+					1.6983638302444888
+				],
+				[
+					19.531184047812587,
+					1.6983638302444888
+				],
+				[
+					24.626275538546338,
+					2.547545745364914
+				],
+				[
+					27.173821283913185,
+					3.3967276604889776
+				],
+				[
+					27.173821283913185,
+					3.3967276604889776
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				27.173821283913185,
+				3.3967276604889776
+			]
+		},
+		{
+			"id": "6tlNaPOEF3r3qpyB9ezMH",
+			"type": "freedraw",
+			"x": -327.44229526097547,
+			"y": 17393.774392098072,
+			"width": 14.436092557078837,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 392961095,
+			"version": 39,
+			"versionNonce": 1225225,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.547545745366847,
+					0
+				],
+				[
+					5.095091490733694,
+					0
+				],
+				[
+					7.642637236100541,
+					0.8491819151204254
+				],
+				[
+					11.039364896589689,
+					0.8491819151204254
+				],
+				[
+					13.586910641956592,
+					0.8491819151204254
+				],
+				[
+					14.436092557078837,
+					0.8491819151204254
+				],
+				[
+					14.436092557078837,
+					0.8491819151204254
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.436092557078837,
+				0.8491819151204254
+			]
+		},
+		{
+			"id": "Eedf1jZvlPrUy4UEAUZh2",
+			"type": "freedraw",
+			"x": -228.08801119166787,
+			"y": 17314.800473991698,
+			"width": 51.80009682245952,
+			"height": 128.226469183468,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1175606057,
+			"version": 91,
+			"versionNonce": 1160777479,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-16.98363830244574,
+					2.547545745368552
+				],
+				[
+					-28.872185114157787,
+					7.6426372361020185
+				],
+				[
+					-36.51482235025833,
+					13.586910641959548
+				],
+				[
+					-40.76073192586978,
+					17.83282021756895
+				],
+				[
+					-40.76073192586978,
+					18.682002132693015
+				],
+				[
+					-40.76073192586978,
+					20.380365962937503
+				],
+				[
+					-39.911550010747476,
+					23.77709362342648
+				],
+				[
+					-33.96727660489148,
+					28.872185114159947
+				],
+				[
+					-27.173821283913185,
+					33.967276604893414
+				],
+				[
+					-22.07872979317949,
+					37.36400426538239
+				],
+				[
+					-17.83282021756804,
+					39.911550010747305
+				],
+				[
+					-14.436092557078894,
+					43.30827767123628
+				],
+				[
+					-11.039364896589746,
+					46.70500533172526
+				],
+				[
+					-8.491819151222842,
+					49.25255107709381
+				],
+				[
+					-6.793455320978296,
+					50.101732992217876
+				],
+				[
+					-6.793455320978296,
+					50.9509149073383
+				],
+				[
+					-6.793455320978296,
+					51.800096822462365
+				],
+				[
+					-8.491819151222842,
+					53.498460652706854
+				],
+				[
+					-11.039364896589746,
+					56.04600639807177
+				],
+				[
+					-14.436092557078894,
+					58.59355214344032
+				],
+				[
+					-18.682002132690343,
+					62.83946171904972
+				],
+				[
+					-22.927911708301735,
+					66.2361893795387
+				],
+				[
+					-27.173821283913185,
+					68.78373512490725
+				],
+				[
+					-28.872185114157787,
+					70.48209895515174
+				],
+				[
+					-29.72136702928003,
+					70.48209895515174
+				],
+				[
+					-29.72136702928003,
+					71.33128087027217
+				],
+				[
+					-28.872185114157787,
+					71.33128087027217
+				],
+				[
+					-27.173821283913185,
+					72.18046278539623
+				],
+				[
+					-24.626275538546338,
+					73.02964470051666
+				],
+				[
+					-22.927911708301735,
+					73.87882661564072
+				],
+				[
+					-21.22954787805719,
+					74.72800853076114
+				],
+				[
+					-20.38036596293489,
+					74.72800853076114
+				],
+				[
+					-20.38036596293489,
+					75.57719044588521
+				],
+				[
+					-19.531184047812587,
+					77.2755542761297
+				],
+				[
+					-19.531184047812587,
+					79.82310002149461
+				],
+				[
+					-19.531184047812587,
+					83.21982768198359
+				],
+				[
+					-19.531184047812587,
+					87.46573725759663
+				],
+				[
+					-19.531184047812587,
+					93.41001066345416
+				],
+				[
+					-19.531184047812587,
+					98.50510215418763
+				],
+				[
+					-19.531184047812587,
+					103.60019364492109
+				],
+				[
+					-19.531184047812587,
+					106.99692130541007
+				],
+				[
+					-19.531184047812587,
+					111.24283088101947
+				],
+				[
+					-19.531184047812587,
+					115.48874045663251
+				],
+				[
+					-19.531184047812587,
+					118.88546811712149
+				],
+				[
+					-19.531184047812587,
+					121.43301386249004
+				],
+				[
+					-19.531184047812587,
+					123.98055960785496
+				],
+				[
+					-19.531184047812587,
+					126.52810535322351
+				],
+				[
+					-19.531184047812587,
+					127.37728726834393
+				],
+				[
+					-18.682002132690343,
+					127.37728726834393
+				],
+				[
+					-16.13445638732344,
+					128.226469183468
+				],
+				[
+					-9.341001066345143,
+					127.37728726834393
+				],
+				[
+					-3.396727660489148,
+					126.52810535322351
+				],
+				[
+					1.6983638302446025,
+					126.52810535322351
+				],
+				[
+					5.944273405855995,
+					125.67892343809945
+				],
+				[
+					8.491819151222899,
+					125.67892343809945
+				],
+				[
+					9.341001066345143,
+					125.67892343809945
+				],
+				[
+					10.190182981467444,
+					125.67892343809945
+				],
+				[
+					11.039364896589746,
+					123.98055960785496
+				],
+				[
+					11.039364896589746,
+					123.13137769273453
+				],
+				[
+					11.039364896589746,
+					123.13137769273453
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.039364896589746,
+				123.13137769273453
+			]
+		},
+		{
+			"id": "omR9pK3AjNug8c6ffWrvy",
+			"type": "freedraw",
+			"x": -284.13401758973885,
+			"y": 17341.974295275613,
+			"width": 5.095091490733751,
+			"height": 50.95091490733466,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 27377609,
+			"version": 43,
+			"versionNonce": 901724487,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223012,
+					5.095091490733466
+				],
+				[
+					0.8491819151223012,
+					5.944273405853892
+				],
+				[
+					1.6983638302446025,
+					13.58691064195591
+				],
+				[
+					1.6983638302446025,
+					21.22954787805429
+				],
+				[
+					2.547545745366847,
+					28.87218511415631
+				],
+				[
+					2.547545745366847,
+					33.967276604889776
+				],
+				[
+					3.396727660489148,
+					38.21318618050282
+				],
+				[
+					3.396727660489148,
+					41.609913840991794
+				],
+				[
+					4.245909575611449,
+					45.8558234166012
+				],
+				[
+					5.095091490733751,
+					48.40336916196975
+				],
+				[
+					5.095091490733751,
+					50.10173299221424
+				],
+				[
+					5.095091490733751,
+					50.95091490733466
+				],
+				[
+					5.095091490733751,
+					50.95091490733466
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5.095091490733751,
+				50.95091490733466
+			]
+		},
+		{
+			"id": "znyVjA80GPtZTbWUYhqzR",
+			"type": "freedraw",
+			"x": -258.6585601360702,
+			"y": 17381.88584528636,
+			"width": 81.52146385173961,
+			"height": 68.78373512490725,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 900711207,
+			"version": 73,
+			"versionNonce": 1944134313,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-2.547545745368552
+				],
+				[
+					0,
+					-10.190182981466933
+				],
+				[
+					1.6983638302445456,
+					-16.983638302444888
+				],
+				[
+					1.6983638302445456,
+					-17.83282021756895
+				],
+				[
+					4.245909575611449,
+					-27.17382128391546
+				],
+				[
+					8.491819151222842,
+					-34.81645852001384
+				],
+				[
+					8.491819151222842,
+					-35.6656404351379
+				],
+				[
+					12.737728726834291,
+					-39.911550010747305
+				],
+				[
+					19.531184047812587,
+					-43.30827767123628
+				],
+				[
+					39.06236809562523,
+					-45.855823416604835
+				],
+				[
+					51.80009682245952,
+					-45.00664150148077
+				],
+				[
+					57.74437022831552,
+					-41.609913840991794
+				],
+				[
+					60.291915973682364,
+					-36.51482235025833
+				],
+				[
+					62.83946171904921,
+					-26.324639368791395
+				],
+				[
+					62.83946171904921,
+					-15.285274472200399
+				],
+				[
+					62.83946171904921,
+					-3.3967276604889776
+				],
+				[
+					60.291915973682364,
+					7.6426372360983805
+				],
+				[
+					54.34764256782637,
+					16.983638302444888
+				],
+				[
+					46.70500533172577,
+					21.22954787805793
+				],
+				[
+					36.51482235025833,
+					21.22954787805793
+				],
+				[
+					28.023003199035486,
+					19.53118404781344
+				],
+				[
+					27.173821283913185,
+					18.682002132689377
+				],
+				[
+					22.927911708301735,
+					16.983638302444888
+				],
+				[
+					21.22954787805719,
+					13.58691064195591
+				],
+				[
+					20.38036596293489,
+					7.6426372360983805
+				],
+				[
+					23.777093623424037,
+					4.245909575609403
+				],
+				[
+					23.777093623424037,
+					3.3967276604889776
+				],
+				[
+					24.626275538546338,
+					3.3967276604889776
+				],
+				[
+					30.570548944402333,
+					1.6983638302444888
+				],
+				[
+					38.21318618050293,
+					4.245909575609403
+				],
+				[
+					44.157459586358925,
+					7.6426372360983805
+				],
+				[
+					48.403369161970375,
+					11.888546811711421
+				],
+				[
+					48.403369161970375,
+					12.737728726831847
+				],
+				[
+					50.95091490733722,
+					15.285274472200399
+				],
+				[
+					54.34764256782637,
+					18.682002132689377
+				],
+				[
+					57.74437022831552,
+					20.380365962933865
+				],
+				[
+					61.14109788880472,
+					21.22954787805793
+				],
+				[
+					66.23618937953842,
+					22.927911708302418
+				],
+				[
+					70.48209895514987,
+					22.927911708302418
+				],
+				[
+					75.57719044588356,
+					22.927911708302418
+				],
+				[
+					79.82310002149501,
+					22.078729793178354
+				],
+				[
+					79.82310002149501,
+					21.22954787805793
+				],
+				[
+					81.52146385173961,
+					20.380365962933865
+				],
+				[
+					81.52146385173961,
+					20.380365962933865
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				81.52146385173961,
+				20.380365962933865
+			]
+		},
+		{
+			"id": "FQPzWHqXmpIGt7-ZRJAq7",
+			"type": "freedraw",
+			"x": -431.8916708210168,
+			"y": 17423.495759127352,
+			"width": 260.6988479425422,
+			"height": 132.4723787590774,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1950004999,
+			"version": 61,
+			"versionNonce": 272005223,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151223012,
+					-18.682002132689377
+				],
+				[
+					-0.8491819151223012,
+					-21.22954787805793
+				],
+				[
+					-2.5475457453669037,
+					-33.967276604893414
+				],
+				[
+					-3.396727660489148,
+					-37.36400426538239
+				],
+				[
+					-5.944273405856052,
+					-49.25255107709381
+				],
+				[
+					-11.039364896589746,
+					-70.48209895515174
+				],
+				[
+					-20.38036596293489,
+					-91.71164683320603
+				],
+				[
+					-22.07872979317949,
+					-93.41001066345052
+				],
+				[
+					-27.17382128391324,
+					-103.60019364492109
+				],
+				[
+					-30.570548944402333,
+					-111.24283088101947
+				],
+				[
+					-32.268912774646935,
+					-118.03628620199743
+				],
+				[
+					-33.11809468976924,
+					-123.98055960785496
+				],
+				[
+					-33.11809468976924,
+					-128.22646918346436
+				],
+				[
+					-32.268912774646935,
+					-129.07565109858842
+				],
+				[
+					-26.32463936879094,
+					-131.62319684395698
+				],
+				[
+					-12.737728726834348,
+					-132.4723787590774
+				],
+				[
+					13.586910641956592,
+					-132.4723787590774
+				],
+				[
+					14.436092557078894,
+					-132.4723787590774
+				],
+				[
+					48.403369161970375,
+					-131.62319684395698
+				],
+				[
+					54.34764256782637,
+					-130.7740149288329
+				],
+				[
+					91.711646833207,
+					-130.7740149288329
+				],
+				[
+					122.28219577760939,
+					-130.7740149288329
+				],
+				[
+					125.67892343809854,
+					-130.7740149288329
+				],
+				[
+					151.15438089176712,
+					-129.07565109858842
+				],
+				[
+					169.83638302445746,
+					-128.22646918346436
+				],
+				[
+					185.1216574966586,
+					-128.22646918346436
+				],
+				[
+					186.8200213269032,
+					-128.22646918346436
+				],
+				[
+					197.85938622349295,
+					-128.22646918346436
+				],
+				[
+					205.50202345959354,
+					-128.22646918346436
+				],
+				[
+					214.8430245259387,
+					-128.22646918346436
+				],
+				[
+					222.48566176203929,
+					-129.07565109858842
+				],
+				[
+					226.73157133765068,
+					-129.92483301370885
+				],
+				[
+					227.58075325277298,
+					-129.92483301370885
+				],
+				[
+					227.58075325277298,
+					-129.92483301370885
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				227.58075325277298,
+				-129.92483301370885
+			]
+		},
+		{
+			"id": "dZ5Kqc75K0bVVuABPiYay",
+			"type": "freedraw",
+			"x": -447.176945293218,
+			"y": 17439.630215514677,
+			"width": 253.05621070644162,
+			"height": 12.737728726835485,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 409566121,
+			"version": 37,
+			"versionNonce": 249095561,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					34.81645852001378,
+					1.6983638302444888
+				],
+				[
+					44.157459586358925,
+					1.6983638302444888
+				],
+				[
+					79.82310002149501,
+					0.8491819151204254
+				],
+				[
+					132.47237875907683,
+					-1.6983638302444888
+				],
+				[
+					168.13801919421292,
+					-2.547545745368552
+				],
+				[
+					201.2561138839821,
+					-5.095091490737104
+				],
+				[
+					228.42993516789528,
+					-6.793455320981593
+				],
+				[
+					247.11193730058562,
+					-9.341001066346507
+				],
+				[
+					253.05621070644162,
+					-11.039364896590996
+				],
+				[
+					253.05621070644162,
+					-11.039364896590996
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				253.05621070644162,
+				-11.039364896590996
+			]
+		},
+		{
+			"id": "4KoiRk81x17SC-ikxyw5v",
+			"type": "freedraw",
+			"x": -417.4555782639379,
+			"y": 17472.748310204443,
+			"width": 154.55110855225627,
+			"height": 5.944273405853892,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1295837417,
+			"version": 38,
+			"versionNonce": 330879879,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.586910641956592,
+					0
+				],
+				[
+					33.96727660489148,
+					0
+				],
+				[
+					40.76073192586978,
+					0
+				],
+				[
+					65.38700746441611,
+					-0.8491819151204254
+				],
+				[
+					92.5608287483293,
+					-0.8491819151204254
+				],
+				[
+					118.03628620199794,
+					-0.8491819151204254
+				],
+				[
+					119.73465003224248,
+					-0.8491819151204254
+				],
+				[
+					142.66256174054428,
+					-3.3967276604889776
+				],
+				[
+					152.85274472201172,
+					-5.095091490733466
+				],
+				[
+					154.55110855225627,
+					-5.944273405853892
+				],
+				[
+					152.85274472201172,
+					-5.095091490733466
+				],
+				[
+					152.85274472201172,
+					-5.095091490733466
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				152.85274472201172,
+				-5.095091490733466
+			]
+		},
+		{
+			"id": "AiN43Dp8ADfHjEecgxg6d",
+			"type": "freedraw",
+			"x": -522.7541357391018,
+			"y": 17606.919052793754,
+			"width": 28.02300319903543,
+			"height": 90.8624649180856,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1276164361,
+			"version": 51,
+			"versionNonce": 1066749033,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					21.22954787805793
+				],
+				[
+					1.6983638302444888,
+					39.911550010747305
+				],
+				[
+					1.6983638302444888,
+					42.45909575611586
+				],
+				[
+					5.944273405855938,
+					60.29191597368117
+				],
+				[
+					11.039364896589746,
+					71.33128087027217
+				],
+				[
+					14.436092557078837,
+					73.02964470051666
+				],
+				[
+					16.983638302445684,
+					73.02964470051666
+				],
+				[
+					20.38036596293489,
+					70.48209895515174
+				],
+				[
+					24.626275538546338,
+					63.68864363417015
+				],
+				[
+					27.173821283913185,
+					55.196824482947704
+				],
+				[
+					27.173821283913185,
+					42.45909575611586
+				],
+				[
+					27.173821283913185,
+					29.721367029280373
+				],
+				[
+					24.626275538546338,
+					21.22954787805793
+				],
+				[
+					23.77709362342398,
+					16.983638302444888
+				],
+				[
+					23.77709362342398,
+					16.134456387324462
+				],
+				[
+					23.77709362342398,
+					16.983638302444888
+				],
+				[
+					22.927911708301735,
+					23.777093623422843
+				],
+				[
+					22.927911708301735,
+					37.36400426538239
+				],
+				[
+					22.07872979317949,
+					55.196824482947704
+				],
+				[
+					24.626275538546338,
+					73.02964470051666
+				],
+				[
+					26.324639368790827,
+					84.06900959710765
+				],
+				[
+					28.02300319903543,
+					90.8624649180856
+				],
+				[
+					28.02300319903543,
+					90.01328300296154
+				],
+				[
+					28.02300319903543,
+					88.31491917271705
+				],
+				[
+					28.02300319903543,
+					87.46573725759663
+				],
+				[
+					28.02300319903543,
+					87.46573725759663
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				28.02300319903543,
+				87.46573725759663
+			]
+		},
+		{
+			"id": "Wt1awhwzhICU9RN8xFwfF",
+			"type": "freedraw",
+			"x": -274.79301652339365,
+			"y": 17538.135317668824,
+			"width": 56.046006398070915,
+			"height": 106.147739390286,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1877720521,
+			"version": 59,
+			"versionNonce": 2056012359,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-9.341001066345143,
+					1.6983638302444888
+				],
+				[
+					-11.039364896589746,
+					3.3967276604889776
+				],
+				[
+					-19.531184047812644,
+					9.341001066346507
+				],
+				[
+					-26.32463936879094,
+					15.285274472200399
+				],
+				[
+					-31.419730859524634,
+					20.380365962933865
+				],
+				[
+					-33.96727660489148,
+					23.777093623422843
+				],
+				[
+					-32.268912774646935,
+					28.87218511415631
+				],
+				[
+					-22.927911708301792,
+					35.665640435134264
+				],
+				[
+					-22.07872979317949,
+					36.51482235025833
+				],
+				[
+					-9.341001066345143,
+					41.609913840991794
+				],
+				[
+					2.547545745366847,
+					45.855823416604835
+				],
+				[
+					8.491819151222842,
+					47.554187246849324
+				],
+				[
+					10.190182981467444,
+					48.40336916196975
+				],
+				[
+					11.039364896589746,
+					49.25255107709381
+				],
+				[
+					10.190182981467444,
+					50.9509149073383
+				],
+				[
+					6.793455320978296,
+					54.34764256782728
+				],
+				[
+					2.547545745366847,
+					59.442734058560745
+				],
+				[
+					-2.547545745366847,
+					64.53782554929421
+				],
+				[
+					-6.793455320978296,
+					68.78373512490361
+				],
+				[
+					-6.793455320978296,
+					70.4820989551481
+				],
+				[
+					-8.491819151222899,
+					73.02964470051666
+				],
+				[
+					-8.491819151222899,
+					74.72800853076114
+				],
+				[
+					-8.491819151222899,
+					76.42637236100563
+				],
+				[
+					-5.095091490733751,
+					90.01328300296154
+				],
+				[
+					-5.095091490733751,
+					90.8624649180856
+				],
+				[
+					5.095091490733694,
+					104.44937556004152
+				],
+				[
+					9.341001066345143,
+					106.147739390286
+				],
+				[
+					13.586910641956592,
+					106.147739390286
+				],
+				[
+					16.98363830244574,
+					106.147739390286
+				],
+				[
+					18.682002132690286,
+					106.147739390286
+				],
+				[
+					20.38036596293489,
+					106.147739390286
+				],
+				[
+					20.38036596293489,
+					105.29855747516194
+				],
+				[
+					22.078729793179434,
+					103.60019364491745
+				],
+				[
+					22.078729793179434,
+					103.60019364491745
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.078729793179434,
+				103.60019364491745
+			]
+		},
+		{
+			"id": "wKkY0dQk2wE9Xlcu_a5iI",
+			"type": "freedraw",
+			"x": -235.73064842776841,
+			"y": 17575.499321934203,
+			"width": 43.308277671236624,
+			"height": 50.10173299221424,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1800859017,
+			"version": 50,
+			"versionNonce": 1963272617,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					11.039364896590996
+				],
+				[
+					0,
+					12.737728726835485
+				],
+				[
+					0,
+					16.134456387324462
+				],
+				[
+					0,
+					22.078729793181992
+				],
+				[
+					0,
+					31.41973085952486
+				],
+				[
+					2.547545745366847,
+					38.21318618050282
+				],
+				[
+					5.095091490733694,
+					41.60991384099543
+				],
+				[
+					7.642637236100541,
+					43.30827767123628
+				],
+				[
+					12.737728726834291,
+					42.45909575611586
+				],
+				[
+					19.531184047812587,
+					36.51482235025833
+				],
+				[
+					25.475457453668582,
+					29.721367029280373
+				],
+				[
+					32.26891277464688,
+					21.22954787805793
+				],
+				[
+					38.21318618050293,
+					11.88854681171506
+				],
+				[
+					38.21318618050293,
+					11.039364896590996
+				],
+				[
+					39.062368095625175,
+					9.341001066346507
+				],
+				[
+					41.60991384099202,
+					0
+				],
+				[
+					43.308277671236624,
+					-5.944273405853892
+				],
+				[
+					43.308277671236624,
+					-6.793455320977955
+				],
+				[
+					43.308277671236624,
+					-0.8491819151204254
+				],
+				[
+					42.45909575611438,
+					7.6426372361020185
+				],
+				[
+					41.60991384099202,
+					17.83282021756895
+				],
+				[
+					40.76073192586978,
+					26.324639368791395
+				],
+				[
+					40.76073192586978,
+					31.41973085952486
+				],
+				[
+					40.76073192586978,
+					33.11809468976935
+				],
+				[
+					40.76073192586978,
+					33.11809468976935
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				40.76073192586978,
+				33.11809468976935
+			]
+		},
+		{
+			"id": "1a4q0iQHkYwp75Sr2xF9A",
+			"type": "freedraw",
+			"x": -177.1370962843306,
+			"y": 17603.52232513324,
+			"width": 1.6983638302446025,
+			"height": 22.927911708302418,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1665490983,
+			"version": 33,
+			"versionNonce": 679108967,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.3967276604889776
+				],
+				[
+					0,
+					6.793455320977955
+				],
+				[
+					0,
+					11.888546811711421
+				],
+				[
+					0.8491819151222444,
+					17.83282021756895
+				],
+				[
+					1.6983638302446025,
+					22.078729793181992
+				],
+				[
+					1.6983638302446025,
+					22.927911708302418
+				],
+				[
+					1.6983638302446025,
+					21.22954787805793
+				],
+				[
+					1.6983638302446025,
+					21.22954787805793
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.6983638302446025,
+				21.22954787805793
+			]
+		},
+		{
+			"id": "pok1jxJpnk-3EYcSgi0Sk",
+			"type": "freedraw",
+			"x": 120.07657400846995,
+			"y": 17615.41087194495,
+			"width": 4.245909575611449,
+			"height": 16.134456387324462,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 899177607,
+			"version": 35,
+			"versionNonce": 93779431,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					5.94427340585753
+				],
+				[
+					-0.8491819151222444,
+					6.793455320981593
+				],
+				[
+					-0.8491819151222444,
+					8.491819151226082
+				],
+				[
+					-0.8491819151222444,
+					11.88854681171506
+				],
+				[
+					-0.8491819151222444,
+					14.436092557079974
+				],
+				[
+					-0.8491819151222444,
+					16.134456387324462
+				],
+				[
+					-0.8491819151222444,
+					15.285274472204037
+				],
+				[
+					1.6983638302446025,
+					11.88854681171506
+				],
+				[
+					2.547545745366847,
+					9.341001066346507
+				],
+				[
+					3.396727660489205,
+					7.6426372361020185
+				],
+				[
+					3.396727660489205,
+					7.6426372361020185
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.396727660489205,
+				7.6426372361020185
+			]
+		},
+		{
+			"id": "WzYNC6iCJB8AhxfTpeGVu",
+			"type": "freedraw",
+			"x": 124.3224835840814,
+			"y": 17603.52232513324,
+			"width": 33.11809468976924,
+			"height": 30.570548944404436,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1752002729,
+			"version": 49,
+			"versionNonce": 2078867465,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080175,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.245909575611449,
+					0.8491819151240634
+				],
+				[
+					6.793455320978296,
+					1.6983638302444888
+				],
+				[
+					11.039364896589746,
+					5.095091490733466
+				],
+				[
+					11.039364896589746,
+					5.94427340585753
+				],
+				[
+					11.039364896589746,
+					11.039364896590996
+				],
+				[
+					9.341001066345143,
+					12.737728726835485
+				],
+				[
+					8.491819151222899,
+					13.586910641959548
+				],
+				[
+					7.642637236100541,
+					14.436092557079974
+				],
+				[
+					6.793455320978296,
+					14.436092557079974
+				],
+				[
+					6.793455320978296,
+					15.285274472200399
+				],
+				[
+					8.491819151222899,
+					16.134456387324462
+				],
+				[
+					11.039364896589746,
+					16.983638302448526
+				],
+				[
+					16.13445638732344,
+					17.83282021756895
+				],
+				[
+					20.38036596293489,
+					17.83282021756895
+				],
+				[
+					24.626275538546338,
+					18.682002132693015
+				],
+				[
+					30.57054894440239,
+					22.927911708302418
+				],
+				[
+					33.11809468976924,
+					24.626275538546906
+				],
+				[
+					33.11809468976924,
+					27.17382128391546
+				],
+				[
+					33.11809468976924,
+					28.023003199035884
+				],
+				[
+					33.11809468976924,
+					28.872185114159947
+				],
+				[
+					30.57054894440239,
+					29.721367029280373
+				],
+				[
+					28.872185114157787,
+					30.570548944404436
+				],
+				[
+					28.023003199035543,
+					30.570548944404436
+				],
+				[
+					25.475457453668582,
+					30.570548944404436
+				],
+				[
+					25.475457453668582,
+					29.721367029280373
+				],
+				[
+					25.475457453668582,
+					29.721367029280373
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25.475457453668582,
+				29.721367029280373
+			]
+		},
+		{
+			"id": "9tcR7zKItbNe9AqZL79B6",
+			"type": "freedraw",
+			"x": 137.909394226038,
+			"y": 17551.72222831078,
+			"width": 78.12473619125046,
+			"height": 112.09201279614354,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 928865353,
+			"version": 36,
+			"versionNonce": 184674343,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					35.66564043513608,
+					27.17382128391182
+				],
+				[
+					39.91155001074753,
+					30.570548944404436
+				],
+				[
+					61.990279803927024,
+					51.80009682245873
+				],
+				[
+					73.87882661563901,
+					67.93455320978319
+				],
+				[
+					78.12473619125046,
+					82.37064576686316
+				],
+				[
+					78.12473619125046,
+					91.71164683320603
+				],
+				[
+					73.02964470051677,
+					98.50510215418399
+				],
+				[
+					61.141097888804666,
+					105.29855747516558
+				],
+				[
+					42.45909575611438,
+					110.39364896589905
+				],
+				[
+					40.76073192586978,
+					110.39364896589905
+				],
+				[
+					31.419730859524634,
+					112.09201279614354
+				],
+				[
+					25.475457453668582,
+					112.09201279614354
+				],
+				[
+					23.777093623424093,
+					111.24283088101947
+				],
+				[
+					22.927911708301735,
+					109.54446705077498
+				],
+				[
+					22.927911708301735,
+					106.147739390286
+				],
+				[
+					23.777093623424093,
+					104.44937556004152
+				],
+				[
+					23.777093623424093,
+					104.44937556004152
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				23.777093623424093,
+				104.44937556004152
+			]
+		},
+		{
+			"id": "00FO4owwh8QnwyOQ3pAmZ",
+			"type": "freedraw",
+			"x": 143.00448571677168,
+			"y": 17543.230409159558,
+			"width": 59.44273405856018,
+			"height": 103.60019364491745,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1515709513,
+			"version": 68,
+			"versionNonce": 210588105,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.095091490733807,
+					2.547545745364914
+				],
+				[
+					5.944273405856052,
+					3.3967276604889776
+				],
+				[
+					11.888546811712104,
+					8.491819151222444
+				],
+				[
+					18.6820021326904,
+					13.58691064195591
+				],
+				[
+					24.626275538546338,
+					18.682002132689377
+				],
+				[
+					26.32463936879094,
+					22.078729793178354
+				],
+				[
+					27.173821283913185,
+					23.777093623422843
+				],
+				[
+					27.173821283913185,
+					27.17382128391182
+				],
+				[
+					25.475457453668696,
+					31.41973085952486
+				],
+				[
+					22.92791170830185,
+					34.81645852001384
+				],
+				[
+					19.531184047812644,
+					37.36400426537875
+				],
+				[
+					19.531184047812644,
+					38.21318618050282
+				],
+				[
+					19.531184047812644,
+					39.06236809562688
+				],
+				[
+					20.38036596293489,
+					39.06236809562688
+				],
+				[
+					22.07872979317949,
+					39.911550010747305
+				],
+				[
+					23.777093623424093,
+					41.609913840991794
+				],
+				[
+					27.173821283913185,
+					44.157459586360346
+				],
+				[
+					31.419730859524634,
+					46.70500533172526
+				],
+				[
+					34.81645852001384,
+					50.10173299221424
+				],
+				[
+					35.66564043513608,
+					50.9509149073383
+				],
+				[
+					35.66564043513608,
+					51.80009682245873
+				],
+				[
+					35.66564043513608,
+					52.64927873758279
+				],
+				[
+					34.81645852001384,
+					53.498460652703216
+				],
+				[
+					33.11809468976924,
+					55.196824482947704
+				],
+				[
+					30.57054894440239,
+					56.89518831319219
+				],
+				[
+					27.173821283913185,
+					57.74437022831626
+				],
+				[
+					24.626275538546338,
+					57.74437022831626
+				],
+				[
+					23.777093623424093,
+					57.74437022831626
+				],
+				[
+					24.626275538546338,
+					57.74437022831626
+				],
+				[
+					24.626275538546338,
+					58.59355214343668
+				],
+				[
+					25.475457453668696,
+					58.59355214343668
+				],
+				[
+					26.32463936879094,
+					59.442734058560745
+				],
+				[
+					28.872185114157787,
+					61.99027980392566
+				],
+				[
+					33.11809468976924,
+					67.08537129465913
+				],
+				[
+					38.21318618050293,
+					73.87882661564072
+				],
+				[
+					43.30827767123674,
+					78.97391810637419
+				],
+				[
+					50.101732992215034,
+					85.76737342735214
+				],
+				[
+					56.04600639807097,
+					91.71164683320603
+				],
+				[
+					58.59355214343782,
+					95.10837449369501
+				],
+				[
+					59.44273405856018,
+					96.8067383239395
+				],
+				[
+					59.44273405856018,
+					97.65592023906356
+				],
+				[
+					58.59355214343782,
+					98.50510215418399
+				],
+				[
+					55.19682448294873,
+					100.20346598442848
+				],
+				[
+					50.101732992215034,
+					100.20346598442848
+				],
+				[
+					44.15745958635898,
+					101.05264789955254
+				],
+				[
+					35.66564043513608,
+					101.90182981467296
+				],
+				[
+					27.173821283913185,
+					102.75101172979703
+				],
+				[
+					25.475457453668696,
+					103.60019364491745
+				],
+				[
+					25.475457453668696,
+					103.60019364491745
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25.475457453668696,
+				103.60019364491745
+			]
+		},
+		{
+			"id": "8Gq4l1LACuyBdYdwGT-ZV",
+			"type": "freedraw",
+			"x": 134.5126665655489,
+			"y": 17512.659860215157,
+			"width": 44.15745958635887,
+			"height": 44.15745958635671,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1804352073,
+			"version": 43,
+			"versionNonce": 1258310471,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.642637236100541,
+					2.547545745364914
+				],
+				[
+					9.341001066345143,
+					3.3967276604889776
+				],
+				[
+					15.285274472201081,
+					5.944273405853892
+				],
+				[
+					21.229547878057133,
+					8.491819151222444
+				],
+				[
+					26.324639368790827,
+					11.888546811711421
+				],
+				[
+					32.26891277464688,
+					16.134456387320824
+				],
+				[
+					38.21318618050293,
+					20.380365962933865
+				],
+				[
+					41.60991384099202,
+					24.62627553854327
+				],
+				[
+					43.308277671236624,
+					26.324639368787757
+				],
+				[
+					43.308277671236624,
+					27.17382128391182
+				],
+				[
+					44.15745958635887,
+					28.023003199032246
+				],
+				[
+					44.15745958635887,
+					29.721367029276735
+				],
+				[
+					44.15745958635887,
+					33.11809468976571
+				],
+				[
+					43.308277671236624,
+					37.36400426537875
+				],
+				[
+					42.459095756114266,
+					40.76073192586773
+				],
+				[
+					40.76073192586978,
+					42.45909575611222
+				],
+				[
+					39.91155001074742,
+					44.15745958635671
+				],
+				[
+					39.062368095625175,
+					44.15745958635671
+				],
+				[
+					38.21318618050293,
+					44.15745958635671
+				],
+				[
+					37.36400426538057,
+					44.15745958635671
+				],
+				[
+					36.51482235025833,
+					44.15745958635671
+				],
+				[
+					35.66564043513597,
+					44.15745958635671
+				],
+				[
+					34.816458520013725,
+					44.15745958635671
+				],
+				[
+					34.816458520013725,
+					44.15745958635671
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.816458520013725,
+				44.15745958635671
+			]
+		},
+		{
+			"id": "Wkz-5kPSNP0wItBsq0EV2",
+			"type": "freedraw",
+			"x": 162.53566976458433,
+			"y": 17529.643498517602,
+			"width": 1.6983638302444888,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1986929703,
+			"version": 24,
+			"versionNonce": 477245609,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-0.8491819151222444,
+				0
+			]
+		},
+		{
+			"id": "f59xn0iWyVd2JqE0GwdA2",
+			"type": "freedraw",
+			"x": -82.8779037057567,
+			"y": 17895.640903935302,
+			"width": 69.63291704002756,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 651096649,
+			"version": 25,
+			"versionNonce": 1343968327,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.570548944402276,
+					-0.8491819151204254
+				],
+				[
+					33.11809468976924,
+					-0.8491819151204254
+				],
+				[
+					47.55418724684807,
+					-0.8491819151204254
+				],
+				[
+					59.44273405856006,
+					0
+				],
+				[
+					67.08537129466072,
+					0
+				],
+				[
+					69.63291704002756,
+					0
+				],
+				[
+					69.63291704002756,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				69.63291704002756,
+				0
+			]
+		},
+		{
+			"id": "Pl2qUlww46KH_BM4-lbsl",
+			"type": "freedraw",
+			"x": -39.56962603452007,
+			"y": 17966.123002890454,
+			"width": 13.586910641956592,
+			"height": 21.22954787805793,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1132703561,
+			"version": 34,
+			"versionNonce": 1014323849,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					-0.8491819151240634
+				],
+				[
+					-1.6983638302446025,
+					-0.8491819151240634
+				],
+				[
+					-2.547545745366847,
+					1.6983638302444888
+				],
+				[
+					-3.3967276604890912,
+					5.095091490733466
+				],
+				[
+					-3.3967276604890912,
+					8.491819151222444
+				],
+				[
+					-1.6983638302446025,
+					11.888546811711421
+				],
+				[
+					0.8491819151222444,
+					13.58691064195591
+				],
+				[
+					4.245909575611449,
+					16.134456387324462
+				],
+				[
+					7.642637236100654,
+					17.83282021756895
+				],
+				[
+					10.190182981467501,
+					18.682002132689377
+				],
+				[
+					8.491819151222899,
+					19.53118404781344
+				],
+				[
+					6.793455320978296,
+					20.380365962933865
+				],
+				[
+					5.095091490733694,
+					20.380365962933865
+				],
+				[
+					2.547545745366847,
+					20.380365962933865
+				],
+				[
+					0,
+					18.682002132689377
+				],
+				[
+					-0.8491819151222444,
+					17.83282021756895
+				],
+				[
+					-0.8491819151222444,
+					17.83282021756895
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-0.8491819151222444,
+				17.83282021756895
+			]
+		},
+		{
+			"id": "e7pb3aawKBQQAQsg9Pz3K",
+			"type": "freedraw",
+			"x": 75.06993250698872,
+			"y": 17880.3556294631,
+			"width": 34.816458520013725,
+			"height": 67.93455320978319,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1477295207,
+			"version": 30,
+			"versionNonce": 1272652137,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8491819151222444,
+					5.095091490733466
+				],
+				[
+					-1.6983638302446025,
+					5.94427340585753
+				],
+				[
+					-5.095091490733694,
+					15.285274472200399
+				],
+				[
+					-16.983638302445684,
+					55.19682448295134
+				],
+				[
+					-16.983638302445684,
+					56.89518831319583
+				],
+				[
+					-9.341001066345143,
+					67.93455320978319
+				],
+				[
+					0,
+					67.93455320978319
+				],
+				[
+					1.6983638302446025,
+					67.93455320978319
+				],
+				[
+					10.190182981467501,
+					65.38700746441828
+				],
+				[
+					11.88854681171199,
+					64.53782554929421
+				],
+				[
+					16.13445638732344,
+					61.9902798039293
+				],
+				[
+					17.83282021756804,
+					61.141097888805234
+				],
+				[
+					17.83282021756804,
+					60.29191597368481
+				],
+				[
+					17.83282021756804,
+					60.29191597368481
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.83282021756804,
+				60.29191597368481
+			]
+		},
+		{
+			"id": "X0kJMBsOQ4RZ1yuSHZzFH",
+			"type": "freedraw",
+			"x": 95.45029846992361,
+			"y": 17899.886813510915,
+			"width": 14.43609255707895,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1909302631,
+			"version": 24,
+			"versionNonce": 1274070439,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					2.547545745366847,
+					0
+				],
+				[
+					6.793455320978296,
+					-0.8491819151240634
+				],
+				[
+					10.190182981467501,
+					-1.6983638302444888
+				],
+				[
+					11.88854681171199,
+					-1.6983638302444888
+				],
+				[
+					13.586910641956592,
+					-1.6983638302444888
+				],
+				[
+					14.43609255707895,
+					-1.6983638302444888
+				],
+				[
+					14.43609255707895,
+					0
+				],
+				[
+					14.43609255707895,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				14.43609255707895,
+				0
+			]
+		},
+		{
+			"id": "6PyNc3Gp1b6OiGov6cy31",
+			"type": "freedraw",
+			"x": 99.69620804553506,
+			"y": 17915.172087983115,
+			"width": 19.531184047812644,
+			"height": 0.8491819151204254,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 550736617,
+			"version": 22,
+			"versionNonce": 1017449545,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					4.245909575611449,
+					0
+				],
+				[
+					7.642637236100541,
+					0
+				],
+				[
+					13.586910641956592,
+					-0.8491819151204254
+				],
+				[
+					16.983638302445797,
+					-0.8491819151204254
+				],
+				[
+					18.682002132690286,
+					-0.8491819151204254
+				],
+				[
+					19.531184047812644,
+					-0.8491819151204254
+				],
+				[
+					19.531184047812644,
+					-0.8491819151204254
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				19.531184047812644,
+				-0.8491819151204254
+			]
+		},
+		{
+			"id": "EytgurjLd7MN0egttgTGw",
+			"type": "freedraw",
+			"x": 116.67984634798086,
+			"y": 17876.109719887492,
+			"width": 33.96727660489148,
+			"height": 59.442734058560745,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 860725577,
+			"version": 30,
+			"versionNonce": 355956935,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.586910641956592,
+					10.190182981466933
+				],
+				[
+					14.436092557078837,
+					11.888546811711421
+				],
+				[
+					16.983638302445684,
+					13.58691064195591
+				],
+				[
+					23.77709362342398,
+					19.531184047809802
+				],
+				[
+					30.570548944402276,
+					27.17382128391182
+				],
+				[
+					33.11809468976912,
+					33.11809468976935
+				],
+				[
+					33.96727660489148,
+					40.76073192586773
+				],
+				[
+					33.96727660489148,
+					42.45909575611222
+				],
+				[
+					33.96727660489148,
+					50.10173299221424
+				],
+				[
+					32.26891277464688,
+					55.196824482947704
+				],
+				[
+					31.419730859524634,
+					57.74437022831262
+				],
+				[
+					30.570548944402276,
+					58.59355214343668
+				],
+				[
+					29.72136702928003,
+					58.59355214343668
+				],
+				[
+					28.02300319903543,
+					59.442734058560745
+				],
+				[
+					27.173821283913185,
+					59.442734058560745
+				],
+				[
+					25.475457453668582,
+					59.442734058560745
+				],
+				[
+					25.475457453668582,
+					59.442734058560745
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25.475457453668582,
+				59.442734058560745
+			]
+		},
+		{
+			"id": "_5KyTcLCcDrNC8B7tvWjq",
+			"type": "freedraw",
+			"x": 102.2437537909019,
+			"y": 17867.61790073627,
+			"width": 28.023003199035543,
+			"height": 52.64927873757915,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 841996649,
+			"version": 31,
+			"versionNonce": 1791439623,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0.8491819151204254
+				],
+				[
+					5.944273405856052,
+					4.245909575609403
+				],
+				[
+					10.190182981467501,
+					7.6426372360983805
+				],
+				[
+					16.983638302445797,
+					13.58691064195591
+				],
+				[
+					22.927911708301735,
+					19.531184047809802
+				],
+				[
+					26.32463936879094,
+					22.92791170829878
+				],
+				[
+					27.173821283913185,
+					23.777093623422843
+				],
+				[
+					27.173821283913185,
+					24.62627553854327
+				],
+				[
+					28.023003199035543,
+					25.47545745366733
+				],
+				[
+					28.023003199035543,
+					26.324639368787757
+				],
+				[
+					28.023003199035543,
+					28.023003199032246
+				],
+				[
+					26.32463936879094,
+					30.570548944400798
+				],
+				[
+					22.927911708301735,
+					33.967276604889776
+				],
+				[
+					16.983638302445797,
+					38.21318618050282
+				],
+				[
+					12.737728726834348,
+					42.45909575611222
+				],
+				[
+					7.642637236100654,
+					46.70500533172526
+				],
+				[
+					5.095091490733694,
+					50.10173299221424
+				],
+				[
+					3.396727660489205,
+					52.64927873757915
+				],
+				[
+					3.396727660489205,
+					52.64927873757915
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.396727660489205,
+				52.64927873757915
+			]
+		},
+		{
+			"id": "teOmji3TgDfxDw78DnWjD",
+			"type": "freedraw",
+			"x": 241.5095878709568,
+			"y": 17865.0703549909,
+			"width": 34.81645852001384,
+			"height": 28.023003199035884,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 331023657,
+			"version": 32,
+			"versionNonce": 853368135,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-3.3967276604889776
+				],
+				[
+					0,
+					-4.245909575613041
+				],
+				[
+					2.5475457453669605,
+					-5.095091490733466
+				],
+				[
+					5.095091490733807,
+					-5.095091490733466
+				],
+				[
+					7.642637236100654,
+					-4.245909575613041
+				],
+				[
+					9.341001066345257,
+					-1.6983638302444888
+				],
+				[
+					10.190182981467501,
+					1.6983638302444888
+				],
+				[
+					10.190182981467501,
+					2.547545745364914
+				],
+				[
+					9.341001066345257,
+					6.793455320977955
+				],
+				[
+					9.341001066345257,
+					10.190182981466933
+				],
+				[
+					8.491819151222899,
+					12.737728726835485
+				],
+				[
+					8.491819151222899,
+					14.436092557079974
+				],
+				[
+					8.491819151222899,
+					16.134456387324462
+				],
+				[
+					11.039364896589746,
+					18.682002132689377
+				],
+				[
+					16.983638302445797,
+					21.22954787805793
+				],
+				[
+					21.229547878057247,
+					22.078729793178354
+				],
+				[
+					26.32463936879094,
+					22.927911708302418
+				],
+				[
+					30.57054894440239,
+					22.927911708302418
+				],
+				[
+					33.967276604891595,
+					22.927911708302418
+				],
+				[
+					34.81645852001384,
+					22.927911708302418
+				],
+				[
+					34.81645852001384,
+					22.927911708302418
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				34.81645852001384,
+				22.927911708302418
+			]
+		},
+		{
+			"id": "HKR2RFQkrS6Dx-sCI_WXw",
+			"type": "freedraw",
+			"x": 308.5949591656175,
+			"y": 17872.712992227,
+			"width": 58.59355214343782,
+			"height": 5.095091490737104,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 212376039,
+			"version": 19,
+			"versionNonce": 233839719,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223581,
+					0
+				],
+				[
+					5.944273405856052,
+					0
+				],
+				[
+					14.43609255707895,
+					0
+				],
+				[
+					30.57054894440239,
+					1.6983638302444888
+				],
+				[
+					45.006641501481226,
+					2.547545745368552
+				],
+				[
+					46.70500533172583,
+					3.3967276604926155
+				],
+				[
+					55.19682448294873,
+					4.245909575613041
+				],
+				[
+					58.59355214343782,
+					5.095091490737104
+				],
+				[
+					58.59355214343782,
+					5.095091490737104
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				58.59355214343782,
+				5.095091490737104
+			]
+		},
+		{
+			"id": "Yu0zzsL-AmvFdjfeoAjHX",
+			"type": "freedraw",
+			"x": 469.93952303885237,
+			"y": 17896.490085850426,
+			"width": 20.38036596293489,
+			"height": 26.324639368791395,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 155135591,
+			"version": 34,
+			"versionNonce": 1349657129,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.944273405856052,
+					-1.6983638302444888
+				],
+				[
+					6.793455320978296,
+					-1.6983638302444888
+				],
+				[
+					13.586910641956592,
+					-1.6983638302444888
+				],
+				[
+					17.83282021756804,
+					0
+				],
+				[
+					20.38036596293489,
+					0
+				],
+				[
+					20.38036596293489,
+					0.8491819151204254
+				],
+				[
+					20.38036596293489,
+					1.6983638302444888
+				],
+				[
+					20.38036596293489,
+					3.3967276604889776
+				],
+				[
+					18.6820021326904,
+					5.944273405853892
+				],
+				[
+					17.83282021756804,
+					7.6426372360983805
+				],
+				[
+					16.983638302445797,
+					8.491819151222444
+				],
+				[
+					16.983638302445797,
+					9.34100106634287
+				],
+				[
+					16.983638302445797,
+					10.190182981466933
+				],
+				[
+					16.983638302445797,
+					11.039364896587358
+				],
+				[
+					17.83282021756804,
+					11.888546811711421
+				],
+				[
+					18.6820021326904,
+					12.737728726831847
+				],
+				[
+					18.6820021326904,
+					13.58691064195591
+				],
+				[
+					19.531184047812644,
+					13.58691064195591
+				],
+				[
+					19.531184047812644,
+					15.285274472200399
+				],
+				[
+					18.6820021326904,
+					16.983638302444888
+				],
+				[
+					16.13445638732344,
+					19.53118404781344
+				],
+				[
+					12.737728726834348,
+					22.078729793178354
+				],
+				[
+					7.642637236100654,
+					23.777093623422843
+				],
+				[
+					2.547545745366847,
+					24.626275538546906
+				],
+				[
+					2.547545745366847,
+					24.626275538546906
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				2.547545745366847,
+				24.626275538546906
+			]
+		},
+		{
+			"id": "peMYs3s7fXiWs5jd24ZZD",
+			"type": "freedraw",
+			"x": -253.563468645336,
+			"y": 18159.736479538326,
+			"width": 20.38036596293489,
+			"height": 49.25255107709381,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 29870535,
+			"version": 34,
+			"versionNonce": 1464862055,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					11.888546811711421
+				],
+				[
+					0.8491819151222444,
+					13.58691064195591
+				],
+				[
+					0.8491819151222444,
+					23.777093623422843
+				],
+				[
+					0.8491819151222444,
+					32.268912774648925
+				],
+				[
+					1.6983638302445456,
+					38.21318618050282
+				],
+				[
+					1.6983638302445456,
+					40.76073192587137
+				],
+				[
+					1.6983638302445456,
+					41.609913840991794
+				],
+				[
+					2.547545745366847,
+					42.45909575611586
+				],
+				[
+					3.396727660489148,
+					42.45909575611586
+				],
+				[
+					5.944273405855995,
+					41.609913840991794
+				],
+				[
+					10.190182981467444,
+					37.36400426538239
+				],
+				[
+					14.436092557078894,
+					29.721367029280373
+				],
+				[
+					16.98363830244574,
+					22.078729793178354
+				],
+				[
+					19.531184047812587,
+					14.436092557079974
+				],
+				[
+					20.38036596293489,
+					7.6426372361020185
+				],
+				[
+					20.38036596293489,
+					5.095091490733466
+				],
+				[
+					20.38036596293489,
+					4.245909575613041
+				],
+				[
+					20.38036596293489,
+					5.94427340585753
+				],
+				[
+					20.38036596293489,
+					11.888546811711421
+				],
+				[
+					20.38036596293489,
+					20.380365962933865
+				],
+				[
+					20.38036596293489,
+					33.11809468976935
+				],
+				[
+					20.38036596293489,
+					42.45909575611586
+				],
+				[
+					20.38036596293489,
+					46.70500533172526
+				],
+				[
+					20.38036596293489,
+					49.25255107709381
+				],
+				[
+					20.38036596293489,
+					47.554187246849324
+				],
+				[
+					20.38036596293489,
+					47.554187246849324
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				20.38036596293489,
+				47.554187246849324
+			]
+		},
+		{
+			"id": "2Dzc_RSW2UfNagxAaPy3L",
+			"type": "freedraw",
+			"x": -341.0292059029316,
+			"y": 18344.858137034982,
+			"width": 22.078729793179434,
+			"height": 32.268912774648925,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 841605959,
+			"version": 26,
+			"versionNonce": 1803137225,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355079761,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151223012,
+					16.134456387324462
+				],
+				[
+					3.396727660489148,
+					22.927911708302418
+				],
+				[
+					3.396727660489148,
+					23.77709362342648
+				],
+				[
+					5.944273405855995,
+					25.47545745367097
+				],
+				[
+					8.491819151222842,
+					26.324639368791395
+				],
+				[
+					10.190182981467444,
+					26.324639368791395
+				],
+				[
+					11.88854681171199,
+					26.324639368791395
+				],
+				[
+					15.285274472201138,
+					22.927911708302418
+				],
+				[
+					17.83282021756804,
+					17.83282021756895
+				],
+				[
+					17.83282021756804,
+					16.983638302448526
+				],
+				[
+					20.38036596293489,
+					10.19018298147057
+				],
+				[
+					22.078729793179434,
+					5.94427340585753
+				],
+				[
+					22.078729793179434,
+					3.3967276604889776
+				],
+				[
+					22.078729793179434,
+					7.6426372361020185
+				],
+				[
+					20.38036596293489,
+					15.285274472204037
+				],
+				[
+					19.531184047812587,
+					22.927911708302418
+				],
+				[
+					18.682002132690286,
+					29.721367029280373
+				],
+				[
+					18.682002132690286,
+					31.41973085952486
+				],
+				[
+					18.682002132690286,
+					32.268912774648925
+				],
+				[
+					18.682002132690286,
+					32.268912774648925
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.682002132690286,
+				32.268912774648925
+			]
+		},
+		{
+			"id": "OrIcpLwattI0gxDztQ56W",
+			"type": "freedraw",
+			"x": 194.80458253923166,
+			"y": 18137.657749745144,
+			"width": 31.419730859524634,
+			"height": 53.498460652706854,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 925329001,
+			"version": 28,
+			"versionNonce": 894857031,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355080177,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.547545745366847,
+					2.547545745368552
+				],
+				[
+					-3.3967276604890912,
+					3.3967276604926155
+				],
+				[
+					-10.190182981467387,
+					11.88854681171506
+				],
+				[
+					-16.983638302445684,
+					22.078729793181992
+				],
+				[
+					-19.53118404781253,
+					24.626275538546906
+				],
+				[
+					-23.77709362342398,
+					31.41973085952486
+				],
+				[
+					-26.324639368790827,
+					35.6656404351379
+				],
+				[
+					-27.173821283913185,
+					38.213186180506455
+				],
+				[
+					-28.02300319903543,
+					39.91155001075094
+				],
+				[
+					-28.02300319903543,
+					41.60991384099543
+				],
+				[
+					-26.324639368790827,
+					45.00664150148441
+				],
+				[
+					-21.229547878057133,
+					48.40336916197339
+				],
+				[
+					-15.285274472201081,
+					51.800096822462365
+				],
+				[
+					-9.341001066345143,
+					53.498460652706854
+				],
+				[
+					-8.491819151222785,
+					53.498460652706854
+				],
+				[
+					-6.793455320978296,
+					53.498460652706854
+				],
+				[
+					-5.944273405855938,
+					53.498460652706854
+				],
+				[
+					-3.3967276604890912,
+					53.498460652706854
+				],
+				[
+					-0.8491819151222444,
+					53.498460652706854
+				],
+				[
+					2.5475457453669605,
+					53.498460652706854
+				],
+				[
+					3.396727660489205,
+					53.498460652706854
+				],
+				[
+					3.396727660489205,
+					53.498460652706854
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				3.396727660489205,
+				53.498460652706854
+			]
+		},
+		{
+			"id": "ifRIg99VbiFvgx-gZBbAB",
+			"type": "freedraw",
+			"x": 176.97176232166362,
+			"y": 18167.379116774424,
+			"width": 18.6820021326904,
+			"height": 2.547545745364914,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 389624041,
+			"version": 14,
+			"versionNonce": 1014673321,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355079761,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.8491819151204254
+				],
+				[
+					2.5475457453669605,
+					-0.8491819151204254
+				],
+				[
+					7.642637236100654,
+					-1.6983638302444888
+				],
+				[
+					11.888546811712104,
+					-1.6983638302444888
+				],
+				[
+					14.43609255707895,
+					-2.547545745364914
+				],
+				[
+					16.983638302445797,
+					-2.547545745364914
+				],
+				[
+					17.83282021756804,
+					-2.547545745364914
+				],
+				[
+					18.6820021326904,
+					-2.547545745364914
+				],
+				[
+					18.6820021326904,
+					-2.547545745364914
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.6820021326904,
+				-2.547545745364914
+			]
+		},
+		{
+			"id": "wfLZMbGhIi6xrZQns0m2L",
+			"type": "freedraw",
+			"x": 180.36848998215282,
+			"y": 18175.87093592565,
+			"width": 22.927911708301735,
+			"height": 1.6983638302444888,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1011922375,
+			"version": 11,
+			"versionNonce": 1410550087,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355079404,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8491819151222444,
+					0
+				],
+				[
+					4.245909575611449,
+					0
+				],
+				[
+					11.039364896589746,
+					0
+				],
+				[
+					16.13445638732344,
+					-0.8491819151240634
+				],
+				[
+					21.229547878057133,
+					-1.6983638302444888
+				],
+				[
+					22.927911708301735,
+					-1.6983638302444888
+				],
+				[
+					22.927911708301735,
+					-1.6983638302444888
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.927911708301735,
+				-1.6983638302444888
+			]
+		},
+		{
+			"id": "pWN2WHDW8lBKYRoqGxQys",
+			"type": "freedraw",
+			"x": 210.08985701143285,
+			"y": 18144.451205066125,
+			"width": 39.06236809562529,
+			"height": 26.324639368787757,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 829084073,
+			"version": 12,
+			"versionNonce": 730542887,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675355079202,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.396727660489205,
+					2.547545745364914
+				],
+				[
+					7.642637236100654,
+					5.095091490733466
+				],
+				[
+					11.88854681171199,
+					9.34100106634287
+				],
+				[
+					21.229547878057247,
+					16.983638302444888
+				],
+				[
+					22.07872979317949,
+					16.983638302444888
+				],
+				[
+					31.419730859524634,
+					22.92791170829878
+				],
+				[
+					37.364004265380686,
+					25.47545745366733
+				],
+				[
+					39.06236809562529,
+					26.324639368787757
+				],
+				[
+					39.06236809562529,
+					26.324639368787757
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				39.06236809562529,
+				26.324639368787757
 			]
 		}
 	],
