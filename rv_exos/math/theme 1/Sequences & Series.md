@@ -13,6 +13,7 @@ tags: [excalidraw]
 5b52f846bddb02f22e867d4e7ef4653b4ef5a3be: [[Pasted Image 20230130181928_029.png]]
 25841e7fd5e29848cb61c163f5be1e245c3d2d05: [[Pasted Image 20230130183121_058.png]]
 e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202123229_219.png]]
+72d82c50e171e4d1db925147f5770ebcfc8b5fbe: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202144853_190.png]]
 
 %%
 # Drawing
@@ -38626,6 +38627,38 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			"lastCommittedPoint": [
 				-6,
 				204
+			]
+		},
+		{
+			"id": "ztjTdZPE5sbO9CAjS38Sj",
+			"type": "image",
+			"x": -884.3669694645478,
+			"y": 10421.033288748495,
+			"width": 3042.0924369747913,
+			"height": 844.5000000000003,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1626335209,
+			"version": 48,
+			"versionNonce": 1578481609,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675349336129,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "72d82c50e171e4d1db925147f5770ebcfc8b5fbe",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
