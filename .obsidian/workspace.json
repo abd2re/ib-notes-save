@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -235,6 +236,8 @@
   },
   "active": "a832143c5fa20264",
   "lastOpenFiles": [
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202174826_197.png",
+    "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "rv_exos/math/theme 1/Sequences & Series.md",
     "assets/Sequences & Series 1/Pasted Image 20230202123229_219.png",
     "Energie discrete et Radioactivité.md",
@@ -242,8 +245,6 @@
     "__dashboard.md",
     "_computer science.md",
     "_economy.md",
-    "_french B.md",
-    "_TOK.md",
-    "_physics.md"
+    "_french B.md"
   ]
 }
