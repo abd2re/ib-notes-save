@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -253,6 +253,7 @@
   },
   "active": "a832143c5fa20264",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Champ de gravitation.md",
@@ -261,7 +262,6 @@
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png",
     "_physics.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182110_961.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202174826_197.png",
-    "rv_exos/math/theme 1/Sequences & Series.md"
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202174826_197.png"
   ]
 }
