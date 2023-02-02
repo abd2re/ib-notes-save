@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
               }
             }
           },
@@ -125,12 +125,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
               }
             }
           },
@@ -253,15 +253,15 @@
   },
   "active": "a832143c5fa20264",
   "lastOpenFiles": [
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202184116_962.png",
+    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png",
     "Champ de gravitation.md",
+    "__dashboard.md",
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202184116_962.png",
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png",
     "_physics.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182110_961.png",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202174826_197.png",
-    "rv_exos/math/theme 1/Sequences & Series.md",
-    "assets/Sequences & Series 1/Pasted Image 20230202123229_219.png",
-    "Energie discrete et Radioactivité.md"
+    "rv_exos/math/theme 1/Sequences & Series.md"
   ]
 }
