@@ -27881,6 +27881,48 @@ e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequence
 			]
 		},
 		{
+			"id": "5ONiK03dPwf74zkRSGAjl",
+			"type": "freedraw",
+			"x": -367.0336361312143,
+			"y": 5231.533288748494,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 711579657,
+			"version": 3,
+			"versionNonce": 1365503721,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675343789119,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"id": "ETCu4pw6L_8zFCVEho_lJ",
 			"type": "freedraw",
 			"x": -992.3669694645482,
