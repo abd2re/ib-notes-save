@@ -12,9 +12,9 @@ tags: [excalidraw]
 # Embedded files
 5b52f846bddb02f22e867d4e7ef4653b4ef5a3be: [[Pasted Image 20230130181928_029.png]]
 25841e7fd5e29848cb61c163f5be1e245c3d2d05: [[Pasted Image 20230130183121_058.png]]
-e7073170f5f20670f41166abb8e4717b6b006621: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202123229_219.png]]
-72d82c50e171e4d1db925147f5770ebcfc8b5fbe: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202144853_190.png]]
-434765e417a1bb551695aafadb6c3c5275d60fc0: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202161931_170.png]]
+e7073170f5f20670f41166abb8e4717b6b006621: [[Pasted Image 20230202123229_219.png]]
+72d82c50e171e4d1db925147f5770ebcfc8b5fbe: [[Pasted Image 20230202144853_190.png]]
+434765e417a1bb551695aafadb6c3c5275d60fc0: [[Pasted Image 20230202161931_170.png]]
 
 %%
 # Drawing

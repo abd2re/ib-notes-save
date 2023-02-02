@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gravitational Force, Field, and Orbits",
+      "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    },
+    {
       "basename": "Sequences & Series",
       "path": "rv_exos/math/theme 1/Sequences & Series.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "History",
       "path": "History.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     }
   ],
   "omittedPaths": [],

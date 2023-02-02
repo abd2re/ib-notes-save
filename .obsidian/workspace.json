@@ -17,7 +17,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rv_exos/math/theme 1/Sequences & Series.md"
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/math/theme 1/Sequences & Series.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/math/theme 1/Sequences & Series.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/math/theme 1/Sequences & Series.md"
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -234,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a832143c5fa20264",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
-    "rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230202123229_219.png",
     "rv_exos/math/theme 1/Sequences & Series.md",
+    "assets/Sequences & Series 1/Pasted Image 20230202123229_219.png",
     "Energie discrete et Radioactivité.md",
     "_CAS.md",
     "__dashboard.md",
