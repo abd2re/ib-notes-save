@@ -6,7 +6,7 @@ Created: 2022-12-12
 # Résistance électrique
 ?
 Tout les matériaux ne conduisent pas le courant électrique de la meme manière, on définit la résistance électrique comme étant la formule::$$R=\frac{\Delta V}{I}$$
-<!--SR:!2023-02-01,31,230-->
+<!--SR:!2023-04-15,72,230-->
 
 La résistance d'un fil conducteur a comme formule:
 ?
@@ -82,14 +82,14 @@ Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fi
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png|275]]
 <!--SR:!2023-02-05,7,263-->
 
-<!--SR:!2023-02-02,8,198-->
+
 **Montage potentiométrique** branchement, formule de base et formules pour les 3 cas:
 ?
 ![[image-20230116164137567.png|450]]$$U_{AC}=\frac{R_{AC}}{R_{AC}+R_{CB}}U_{AB}=\frac{R_{AC}}{R_{AB}} \hspace2mm U_{AB}$$
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2023-02-02,8,198-->
+<!--SR:!2023-02-18,16,198!2023-02-02,8,198-->
 
 
 

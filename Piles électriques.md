@@ -54,7 +54,7 @@ Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) e
 <!--SR:!2023-03-01,31,240-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
-<!--SR:!2023-02-01,15,240-->
+<!--SR:!2023-03-13,39,240-->
 - Une pile branchée en opposition se comporte comme:: un récepteur
 <!--SR:!2023-03-11,39,240-->
 
@@ -70,7 +70,7 @@ $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
 Schema du sens de parcours (rouge) et sens du courant (bleu) pour les piles et les résistances:
 ?
 ![[image-20230109170117486.png]]
-<!--SR:!2023-02-02,16,240-->
+<!--SR:!2023-03-16,42,240-->
 
 ## Association de piles
 **En série** (Avantage, branchement et formule)
@@ -80,7 +80,7 @@ Pour avoir plus de tension.
 $$V_{PN}=e_{1}-r_{1}I+e_{2}-r_{2}I+e_{3}-r_{3}I$$
 $$V_{PN}=e_{1}+e_{2}+e_{3}-(r_{1}+r_{2}+r_{3})I$$
 $$e_s=\sum{e}$$$$r_s=\sum\limits{r}$$
-<!--SR:!2023-02-01,14,240-->
+<!--SR:!2023-03-09,35,240-->
 
 **En parallèle** (Avantage, branchement et formule)
 ?
