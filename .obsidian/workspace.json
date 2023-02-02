@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -253,15 +254,15 @@
   },
   "active": "a832143c5fa20264",
   "lastOpenFiles": [
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
+    "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
-    "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Champ de gravitation.md",
     "__dashboard.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202184116_962.png",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png",
     "_physics.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182110_961.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202174826_197.png"
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182110_961.png"
   ]
 }
