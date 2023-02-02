@@ -8,7 +8,7 @@ Created: 2023-01-18
 What is Science
 ?
 Science is both a body of knowledge and process of discovery. It explores the natural world from subatomic particles to the galaxies that make up our universe and everything that falls in between.
-<!--SR:!2023-01-31,7,230-->
+<!--SR:!2023-02-19,17,230-->
 
 What are the natural sciences
 ?
@@ -19,15 +19,15 @@ The natural sciences explores and tries to understand the natural world around u
 ?
 Scientific knowledge is based on observations and experimentation, along with the formulation of **hypotheses**. This has lead to remarkable progress in our understanding of our world because it involves analyzing evidence and drawing conclusion. Sometimes these conclusions helped to form the basis of new theories that may even go against mainstream beliefs and doctrines of the time. 
 - Sometimes scientists, however, will devise new theories before they have clear evidence for them and then design experiments to test the theories.
-<!--SR:!2023-02-02,9,230-->
+<!--SR:!2023-02-22,20,230-->
 
 ### Key words
 - **Empirical**:: based on and verified by observation and experience
 <!--SR:!2023-02-03,10,250-->
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
-<!--SR:!2023-01-31,7,230-->
+<!--SR:!2023-02-21,19,230-->
 - **Scientific methods**:: a method of procedure for the way scientifique investigation's are conducted 
-<!--SR:!2023-01-31,4,210-->
+<!--SR:!2023-02-14,12,210-->
 
 We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including : 
 ?
@@ -40,4 +40,4 @@ We often refer to the scientific method as if were a single way of correctly doi
 - making generalization
 - assessing results and theories 
 - communicating results
-<!--SR:!2023-01-30,6,222-->
+<!--SR:!2023-02-18,16,222-->
