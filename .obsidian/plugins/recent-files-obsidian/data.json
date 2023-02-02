@@ -5,6 +5,14 @@
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
+      "basename": "Champ de gravitation",
+      "path": "Champ de gravitation.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Sequences & Series",
       "path": "rv_exos/math/theme 1/Sequences & Series.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
     },
     {
       "basename": "Loi de gravitation de Newton",
