@@ -15,12 +15,9 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "rv_exos/math/theme 1/Sequences & Series.md"
               }
             }
           }
@@ -111,12 +108,12 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -148,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "rv_exos/math/theme 1/Sequences & Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "rv_exos/math/theme 1/Sequences & Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete et Radioactivité.md"
+                "file": "rv_exos/math/theme 1/Sequences & Series.md"
               }
             }
           },
@@ -221,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +236,8 @@
   },
   "active": "a832143c5fa20264",
   "lastOpenFiles": [
-    "_CAS.md",
     "Energie discrete et Radioactivité.md",
+    "_CAS.md",
     "__dashboard.md",
     "_computer science.md",
     "_economy.md",

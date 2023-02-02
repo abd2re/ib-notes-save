@@ -10,8 +10,8 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-5b52f846bddb02f22e867d4e7ef4653b4ef5a3be: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130181928_029.png]]
-25841e7fd5e29848cb61c163f5be1e245c3d2d05: [[rv_exos/math/theme 1/assets/Sequences & Series/Pasted Image 20230130183121_058.png]]
+5b52f846bddb02f22e867d4e7ef4653b4ef5a3be: [[Pasted Image 20230130181928_029.png]]
+25841e7fd5e29848cb61c163f5be1e245c3d2d05: [[Pasted Image 20230130183121_058.png]]
 
 %%
 # Drawing
