@@ -30,8 +30,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 	"elements": [
 		{
 			"type": "image",
-			"version": 208,
-			"versionNonce": 1458426088,
+			"version": 223,
+			"versionNonce": 474284440,
 			"isDeleted": false,
 			"id": "GLyOQNhsF1Y_-gCrZ82g0",
 			"fillStyle": "hachure",
@@ -50,7 +50,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514893,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -62,8 +62,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 196,
-			"versionNonce": 876745112,
+			"version": 211,
+			"versionNonce": 2008515560,
 			"isDeleted": false,
 			"id": "05snWv4NhJdUAdGBM7lIM",
 			"fillStyle": "hachure",
@@ -82,7 +82,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514893,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -94,8 +94,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 155,
-			"versionNonce": 903050216,
+			"version": 170,
+			"versionNonce": 610340504,
 			"isDeleted": false,
 			"id": "fv4dFhHwMbHCSP-OAlR2V",
 			"fillStyle": "hachure",
@@ -114,7 +114,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -126,8 +126,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 184,
-			"versionNonce": 1513889432,
+			"version": 199,
+			"versionNonce": 418301672,
 			"isDeleted": false,
 			"id": "yHZRVtQgP5U1O29vWGvcK",
 			"fillStyle": "hachure",
@@ -146,7 +146,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -158,8 +158,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 235714280,
+			"version": 144,
+			"versionNonce": 1198750616,
 			"isDeleted": false,
 			"id": "Uslj8O90o-xDxNAANjbyX",
 			"fillStyle": "hachure",
@@ -178,7 +178,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -197,8 +197,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 165,
-			"versionNonce": 795642776,
+			"version": 180,
+			"versionNonce": 944089576,
 			"isDeleted": false,
 			"id": "MJ2CknLG2TPAoJLlpLb5W",
 			"fillStyle": "hachure",
@@ -217,7 +217,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -424,8 +424,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 874879464,
+			"version": 163,
+			"versionNonce": 397428888,
 			"isDeleted": false,
 			"id": "eFSc0nK4oJ4g2lwicZM3K",
 			"fillStyle": "hachure",
@@ -444,7 +444,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -583,8 +583,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 1040668824,
+			"version": 142,
+			"versionNonce": 818425064,
 			"isDeleted": false,
 			"id": "seOriS-TpSrhAEhG9rZK0",
 			"fillStyle": "hachure",
@@ -603,7 +603,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -658,8 +658,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 187309288,
+			"version": 175,
+			"versionNonce": 1087075736,
 			"isDeleted": false,
 			"id": "w-Zk7as1zOgD4L2cGdmbI",
 			"fillStyle": "hachure",
@@ -678,7 +678,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -865,8 +865,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 700482968,
+			"version": 141,
+			"versionNonce": 469913576,
 			"isDeleted": false,
 			"id": "f4EMFQpmN2E9YIbjnzJ8J",
 			"fillStyle": "hachure",
@@ -885,7 +885,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -936,8 +936,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 883310568,
+			"version": 139,
+			"versionNonce": 1475936920,
 			"isDeleted": false,
 			"id": "pOTZLPyNYpnEqMbUW7TXm",
 			"fillStyle": "hachure",
@@ -956,7 +956,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -999,8 +999,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 2144080536,
+			"version": 140,
+			"versionNonce": 33559272,
 			"isDeleted": false,
 			"id": "YV_NhnWcxxJ4UaRkawtbN",
 			"fillStyle": "hachure",
@@ -1019,7 +1019,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1066,8 +1066,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 1084621544,
+			"version": 155,
+			"versionNonce": 736948120,
 			"isDeleted": false,
 			"id": "vcP7PmppaVtroesWBltgh",
 			"fillStyle": "hachure",
@@ -1086,7 +1086,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1193,8 +1193,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 115212184,
+			"version": 140,
+			"versionNonce": 156071400,
 			"isDeleted": false,
 			"id": "5Cknvaf3hk4OPkCpGWr3E",
 			"fillStyle": "hachure",
@@ -1213,7 +1213,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1260,8 +1260,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1572169192,
+			"version": 172,
+			"versionNonce": 349912216,
 			"isDeleted": false,
 			"id": "k7kLZELrTDhz7e49ofcR4",
 			"fillStyle": "hachure",
@@ -1280,7 +1280,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1455,8 +1455,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 254430360,
+			"version": 169,
+			"versionNonce": 653687016,
 			"isDeleted": false,
 			"id": "4PDXEW0k6outXSkU6n7QV",
 			"fillStyle": "hachure",
@@ -1475,7 +1475,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1638,8 +1638,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 148924648,
+			"version": 141,
+			"versionNonce": 1148709272,
 			"isDeleted": false,
 			"id": "VXa8LmPGjepHCYi8tzlu9",
 			"fillStyle": "hachure",
@@ -1658,7 +1658,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1709,8 +1709,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 1113913752,
+			"version": 167,
+			"versionNonce": 1317477352,
 			"isDeleted": false,
 			"id": "KDsUPLBdOqliho35PcVrh",
 			"fillStyle": "hachure",
@@ -1729,7 +1729,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1884,8 +1884,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 1035144168,
+			"version": 142,
+			"versionNonce": 368506520,
 			"isDeleted": false,
 			"id": "bCUVixzBu04Ryw6tmeOIs",
 			"fillStyle": "hachure",
@@ -1904,7 +1904,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1959,8 +1959,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1942095512,
+			"version": 140,
+			"versionNonce": 571170536,
 			"isDeleted": false,
 			"id": "sv_nJB7GXn5NNq-lRsmcS",
 			"fillStyle": "hachure",
@@ -1979,7 +1979,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2026,8 +2026,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 641289960,
+			"version": 138,
+			"versionNonce": 1577870232,
 			"isDeleted": false,
 			"id": "5PdJ4UohJu0DnVElQvG9J",
 			"fillStyle": "hachure",
@@ -2046,7 +2046,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2085,8 +2085,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1878356888,
+			"version": 140,
+			"versionNonce": 571425256,
 			"isDeleted": false,
 			"id": "HI6Q-4w39kY1NZpPMwTD1",
 			"fillStyle": "hachure",
@@ -2105,7 +2105,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2152,8 +2152,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 1258238440,
+			"version": 148,
+			"versionNonce": 988557464,
 			"isDeleted": false,
 			"id": "_xca4wZblokEzrGQUTfRJ",
 			"fillStyle": "hachure",
@@ -2172,7 +2172,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2251,8 +2251,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 1295204504,
+			"version": 141,
+			"versionNonce": 1570686184,
 			"isDeleted": false,
 			"id": "lso-MdMW0L8elh51iF4JB",
 			"fillStyle": "hachure",
@@ -2271,7 +2271,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2322,8 +2322,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 1125168360,
+			"version": 148,
+			"versionNonce": 1682595224,
 			"isDeleted": false,
 			"id": "Qo4jEitfDEIcnBspT4puz",
 			"fillStyle": "hachure",
@@ -2342,7 +2342,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2421,8 +2421,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 992963992,
+			"version": 170,
+			"versionNonce": 575006696,
 			"isDeleted": false,
 			"id": "IuZy9WxVO3dl2s3drusV_",
 			"fillStyle": "hachure",
@@ -2441,7 +2441,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2608,8 +2608,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 1677318120,
+			"version": 148,
+			"versionNonce": 2069555864,
 			"isDeleted": false,
 			"id": "EOW1mSvtuuc6hbv5C7h7n",
 			"fillStyle": "hachure",
@@ -2628,7 +2628,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037634,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2707,8 +2707,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1394473624,
+			"version": 172,
+			"versionNonce": 739289832,
 			"isDeleted": false,
 			"id": "s547oRhCq9OBamvl-Lvhj",
 			"fillStyle": "hachure",
@@ -2727,7 +2727,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2922,8 +2922,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 1908841192,
+			"version": 150,
+			"versionNonce": 1523701656,
 			"isDeleted": false,
 			"id": "WAdzmJZKkZ4DMAGM83V-b",
 			"fillStyle": "hachure",
@@ -2942,7 +2942,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3049,8 +3049,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 1739777944,
+			"version": 135,
+			"versionNonce": 1435176424,
 			"isDeleted": false,
 			"id": "q_f_BqM3e65Omz34YOCZC",
 			"fillStyle": "hachure",
@@ -3069,7 +3069,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3116,8 +3116,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1325596136,
+			"version": 133,
+			"versionNonce": 1726162072,
 			"isDeleted": false,
 			"id": "2rY6SG09CJUsqzUfgah7w",
 			"fillStyle": "hachure",
@@ -3136,7 +3136,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3175,8 +3175,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 1428305048,
+			"version": 159,
+			"versionNonce": 1203835112,
 			"isDeleted": false,
 			"id": "XYFR5r388Sul7kCwp6gv_",
 			"fillStyle": "hachure",
@@ -3195,7 +3195,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3342,8 +3342,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 750452968,
+			"version": 134,
+			"versionNonce": 1564660120,
 			"isDeleted": false,
 			"id": "pi-ziipuic-73-fLGSPPJ",
 			"fillStyle": "hachure",
@@ -3362,7 +3362,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3409,8 +3409,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 1361043864,
+			"version": 149,
+			"versionNonce": 708752360,
 			"isDeleted": false,
 			"id": "V-yI5ie8R2enXIC2umBzB",
 			"fillStyle": "hachure",
@@ -3429,7 +3429,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3540,8 +3540,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 981115880,
+			"version": 146,
+			"versionNonce": 623173272,
 			"isDeleted": false,
 			"id": "T0gkU4e_gNQ3cvIy0MQVk",
 			"fillStyle": "hachure",
@@ -3560,7 +3560,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3659,8 +3659,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 987754136,
+			"version": 143,
+			"versionNonce": 1393555176,
 			"isDeleted": false,
 			"id": "Se-VoC0wXYY_36_yz1V68",
 			"fillStyle": "hachure",
@@ -3679,7 +3679,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3766,8 +3766,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1447945960,
+			"version": 146,
+			"versionNonce": 524110744,
 			"isDeleted": false,
 			"id": "tZTyjfCCm2WixJKvs5fwd",
 			"fillStyle": "hachure",
@@ -3786,7 +3786,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3885,8 +3885,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1796627352,
+			"version": 163,
+			"versionNonce": 1992350184,
 			"isDeleted": false,
 			"id": "UR1zc-Owwx1AtFgJbXXX9",
 			"fillStyle": "hachure",
@@ -3905,7 +3905,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4072,8 +4072,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1019267560,
+			"version": 147,
+			"versionNonce": 1975523480,
 			"isDeleted": false,
 			"id": "Heyi5aiDyw_Dy0WfKNkb6",
 			"fillStyle": "hachure",
@@ -4092,7 +4092,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4195,8 +4195,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 66529432,
+			"version": 132,
+			"versionNonce": 1482513640,
 			"isDeleted": false,
 			"id": "2C-S6eb8-wzsWPQZ9McRC",
 			"fillStyle": "hachure",
@@ -4215,7 +4215,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4258,8 +4258,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 954158312,
+			"version": 158,
+			"versionNonce": 1818314136,
 			"isDeleted": false,
 			"id": "RrfSUYCHxCzjn5qu2osY4",
 			"fillStyle": "hachure",
@@ -4278,7 +4278,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4425,8 +4425,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 1094079896,
+			"version": 135,
+			"versionNonce": 2037481448,
 			"isDeleted": false,
 			"id": "Q57pRatqQWCruSXmVecPt",
 			"fillStyle": "hachure",
@@ -4445,7 +4445,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4500,8 +4500,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 1412788200,
+			"version": 134,
+			"versionNonce": 810865304,
 			"isDeleted": false,
 			"id": "ufSp_ZRDwPDyoSOG_jDLT",
 			"fillStyle": "hachure",
@@ -4520,7 +4520,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4571,8 +4571,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1208476312,
+			"version": 131,
+			"versionNonce": 1242120936,
 			"isDeleted": false,
 			"id": "CQLGJ6YOFGJd3Tg1qQr9P",
 			"fillStyle": "hachure",
@@ -4591,7 +4591,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4626,8 +4626,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 114242280,
+			"version": 161,
+			"versionNonce": 676249496,
 			"isDeleted": false,
 			"id": "mJlq8knUJ0V7RGIKmK_T-",
 			"fillStyle": "hachure",
@@ -4646,7 +4646,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4805,8 +4805,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 1998573464,
+			"version": 143,
+			"versionNonce": 1487971816,
 			"isDeleted": false,
 			"id": "42W5WhfbgFtSDuzp4w3Xb",
 			"fillStyle": "hachure",
@@ -4825,7 +4825,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4912,8 +4912,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1731761640,
+			"version": 131,
+			"versionNonce": 1149439128,
 			"isDeleted": false,
 			"id": "EuaNRlFOX1p-hK4O5rEU5",
 			"fillStyle": "hachure",
@@ -4932,7 +4932,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4971,8 +4971,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 917642392,
+			"version": 160,
+			"versionNonce": 41134312,
 			"isDeleted": false,
 			"id": "sl4ofi-Ig9Yk-JaV7RNU6",
 			"fillStyle": "hachure",
@@ -4991,7 +4991,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5146,8 +5146,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1518180584,
+			"version": 132,
+			"versionNonce": 1319483800,
 			"isDeleted": false,
 			"id": "Er6BP1VeFfHYeyvHIX-jM",
 			"fillStyle": "hachure",
@@ -5166,7 +5166,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5209,8 +5209,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 1215482264,
+			"version": 179,
+			"versionNonce": 584993768,
 			"isDeleted": false,
 			"id": "8phZYrhOlUsYgL9s42B-9",
 			"fillStyle": "hachure",
@@ -5229,7 +5229,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5332,8 +5332,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 1143618536,
+			"version": 153,
+			"versionNonce": 971687576,
 			"isDeleted": false,
 			"id": "Nw8m7q4uiQBEEYY71JD3C",
 			"fillStyle": "hachure",
@@ -5352,7 +5352,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5411,8 +5411,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 395695768,
+			"version": 132,
+			"versionNonce": 1140625128,
 			"isDeleted": false,
 			"id": "ED_NxtZvo64ILeSk0USbe",
 			"fillStyle": "hachure",
@@ -5431,7 +5431,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5474,8 +5474,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 910851816,
+			"version": 133,
+			"versionNonce": 1929786264,
 			"isDeleted": false,
 			"id": "e7wmqEEr3WkTA7z4tr1Ov",
 			"fillStyle": "hachure",
@@ -5494,7 +5494,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5541,8 +5541,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 147800984,
+			"version": 166,
+			"versionNonce": 1314550248,
 			"isDeleted": false,
 			"id": "-0-Q2IGEPiz4TkRpFTUIL",
 			"fillStyle": "hachure",
@@ -5561,7 +5561,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5712,8 +5712,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 560620008,
+			"version": 145,
+			"versionNonce": 808190104,
 			"isDeleted": false,
 			"id": "gnyKj8_ecG-4VBJmcBJR4",
 			"fillStyle": "hachure",
@@ -5732,7 +5732,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5827,8 +5827,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 1246957720,
+			"version": 159,
+			"versionNonce": 956560616,
 			"isDeleted": false,
 			"id": "ZrEszLZQ4bkuHzupdUMBr",
 			"fillStyle": "hachure",
@@ -5847,7 +5847,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5998,8 +5998,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 76932328,
+			"version": 155,
+			"versionNonce": 1091579288,
 			"isDeleted": false,
 			"id": "XLePyJ32P4O2e6nLrViiQ",
 			"fillStyle": "hachure",
@@ -6018,7 +6018,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6153,8 +6153,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 601177496,
+			"version": 140,
+			"versionNonce": 965023720,
 			"isDeleted": false,
 			"id": "catvcEgI26VofTTaWwqzg",
 			"fillStyle": "hachure",
@@ -6173,7 +6173,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6248,8 +6248,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 492373992,
+			"version": 147,
+			"versionNonce": 1592179352,
 			"isDeleted": false,
 			"id": "B8FDPMnkDu7e53o-8XOOk",
 			"fillStyle": "hachure",
@@ -6268,7 +6268,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6371,8 +6371,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1183435416,
+			"version": 137,
+			"versionNonce": 1944705768,
 			"isDeleted": false,
 			"id": "nOSq0bQb5dOIG08zRfzGv",
 			"fillStyle": "hachure",
@@ -6391,7 +6391,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6462,8 +6462,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 398445288,
+			"version": 130,
+			"versionNonce": 2086905752,
 			"isDeleted": false,
 			"id": "LMsp8uqaSDawqT7ZZ2O4B",
 			"fillStyle": "hachure",
@@ -6482,7 +6482,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6525,8 +6525,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 488945560,
+			"version": 130,
+			"versionNonce": 717110760,
 			"isDeleted": false,
 			"id": "gFcIlh0_f4X1mp-w7OXNy",
 			"fillStyle": "hachure",
@@ -6545,7 +6545,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6588,8 +6588,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1045835240,
+			"version": 138,
+			"versionNonce": 364573848,
 			"isDeleted": false,
 			"id": "N6w3QeDviTEiUMJYbqBQ5",
 			"fillStyle": "hachure",
@@ -6608,7 +6608,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6683,8 +6683,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 467272856,
+			"version": 145,
+			"versionNonce": 1863205096,
 			"isDeleted": false,
 			"id": "Hv4KkVv5jtia4-qK4efux",
 			"fillStyle": "hachure",
@@ -6703,7 +6703,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6806,8 +6806,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 707277032,
+			"version": 132,
+			"versionNonce": 10527128,
 			"isDeleted": false,
 			"id": "AtTcMqvpw1zjXa9dx04G7",
 			"fillStyle": "hachure",
@@ -6826,7 +6826,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6877,8 +6877,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 274575768,
+			"version": 132,
+			"versionNonce": 1348854760,
 			"isDeleted": false,
 			"id": "u30WC7pO4eMd_O6D-RxkE",
 			"fillStyle": "hachure",
@@ -6897,7 +6897,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6948,8 +6948,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1925305320,
+			"version": 129,
+			"versionNonce": 1011396248,
 			"isDeleted": false,
 			"id": "qJw3mPpUQkj895fXvhfiS",
 			"fillStyle": "hachure",
@@ -6968,7 +6968,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7007,8 +7007,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 1910750872,
+			"version": 152,
+			"versionNonce": 215033576,
 			"isDeleted": false,
 			"id": "9WX4YbGXS4f3P26EBvGow",
 			"fillStyle": "hachure",
@@ -7027,7 +7027,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7158,8 +7158,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 1580144360,
+			"version": 148,
+			"versionNonce": 1097276312,
 			"isDeleted": false,
 			"id": "GeBfRe813_gzCT2H8rIV6",
 			"fillStyle": "hachure",
@@ -7178,7 +7178,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7301,8 +7301,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 824191896,
+			"version": 120,
+			"versionNonce": 1088162280,
 			"isDeleted": false,
 			"id": "sIK6XacN5LMvwF36X0wVd",
 			"fillStyle": "hachure",
@@ -7321,7 +7321,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7368,8 +7368,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 284948968,
+			"version": 142,
+			"versionNonce": 1378871448,
 			"isDeleted": false,
 			"id": "5-NRtrCgrck0KEYUATLNO",
 			"fillStyle": "hachure",
@@ -7388,7 +7388,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7523,8 +7523,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 138868888,
+			"version": 129,
+			"versionNonce": 395480296,
 			"isDeleted": false,
 			"id": "cxZz2iAZJIU9HtaxzNfqX",
 			"fillStyle": "hachure",
@@ -7543,7 +7543,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7626,8 +7626,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1043627240,
+			"version": 120,
+			"versionNonce": 1247221144,
 			"isDeleted": false,
 			"id": "jdFJkvX5ZjlHTGjuDP7lB",
 			"fillStyle": "hachure",
@@ -7646,7 +7646,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7693,8 +7693,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1259087256,
+			"version": 121,
+			"versionNonce": 2055253992,
 			"isDeleted": false,
 			"id": "OyPXsyyx3ikKCbQA9MRFB",
 			"fillStyle": "hachure",
@@ -7713,7 +7713,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7764,8 +7764,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 136,
-			"versionNonce": 1466212328,
+			"version": 151,
+			"versionNonce": 1863361176,
 			"isDeleted": false,
 			"id": "oYV3tgT5Xm3-CuAQpL-bo",
 			"fillStyle": "hachure",
@@ -7784,7 +7784,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7955,8 +7955,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 916697752,
+			"version": 136,
+			"versionNonce": 1102213864,
 			"isDeleted": false,
 			"id": "Wa-zz-Ew_lavLtp8W-P5S",
 			"fillStyle": "hachure",
@@ -7975,7 +7975,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8086,8 +8086,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1016619752,
+			"version": 124,
+			"versionNonce": 1058049944,
 			"isDeleted": false,
 			"id": "Yw7Rxa57pBfDfSTaCefZ8",
 			"fillStyle": "hachure",
@@ -8106,7 +8106,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8169,8 +8169,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1103208344,
+			"version": 115,
+			"versionNonce": 1672730088,
 			"isDeleted": false,
 			"id": "e5F7qsX31qlu9UuEmuNTG",
 			"fillStyle": "hachure",
@@ -8189,7 +8189,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037635,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8232,8 +8232,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1817953768,
+			"version": 118,
+			"versionNonce": 1116396696,
 			"isDeleted": false,
 			"id": "BjWotWc9Yb6T3Iis3ZX5c",
 			"fillStyle": "hachure",
@@ -8252,7 +8252,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8307,8 +8307,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1822026904,
+			"version": 118,
+			"versionNonce": 630249704,
 			"isDeleted": false,
 			"id": "eAmhd_ZJEbWfucQIb7D5z",
 			"fillStyle": "hachure",
@@ -8327,7 +8327,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8382,8 +8382,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 867879144,
+			"version": 133,
+			"versionNonce": 1530104216,
 			"isDeleted": false,
 			"id": "E5-6MnEmysLx4bBi7XnW8",
 			"fillStyle": "hachure",
@@ -8402,7 +8402,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8517,8 +8517,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 283154840,
+			"version": 122,
+			"versionNonce": 1255504872,
 			"isDeleted": false,
 			"id": "R326PjolSU6zGmO_lAypw",
 			"fillStyle": "hachure",
@@ -8537,7 +8537,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8608,8 +8608,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1581345768,
+			"version": 125,
+			"versionNonce": 339646104,
 			"isDeleted": false,
 			"id": "pPmF_ztSEcWppdM1qN8pv",
 			"fillStyle": "hachure",
@@ -8628,7 +8628,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8715,8 +8715,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 835298968,
+			"version": 124,
+			"versionNonce": 1166917352,
 			"isDeleted": false,
 			"id": "feuNPKnPJhUwbRkx76Bgu",
 			"fillStyle": "hachure",
@@ -8735,7 +8735,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8818,8 +8818,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1710993128,
+			"version": 114,
+			"versionNonce": 1918895000,
 			"isDeleted": false,
 			"id": "eDKXsWTRrQrkWK0uGCUQ_",
 			"fillStyle": "hachure",
@@ -8838,7 +8838,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8881,8 +8881,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1275663256,
+			"version": 116,
+			"versionNonce": 1715839464,
 			"isDeleted": false,
 			"id": "2sIJIVa7sPQXhEptx1fOf",
 			"fillStyle": "hachure",
@@ -8901,7 +8901,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8952,8 +8952,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 594907624,
+			"version": 136,
+			"versionNonce": 1137430680,
 			"isDeleted": false,
 			"id": "1ja-_6TXFhxLvGvYzKL4j",
 			"fillStyle": "hachure",
@@ -8972,7 +8972,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9103,8 +9103,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 634577048,
+			"version": 133,
+			"versionNonce": 201925864,
 			"isDeleted": false,
 			"id": "gK3aH5_DfTf8aBl36jh2Y",
 			"fillStyle": "hachure",
@@ -9123,7 +9123,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9242,8 +9242,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 2109412584,
+			"version": 125,
+			"versionNonce": 1882586520,
 			"isDeleted": false,
 			"id": "eRDZC902W90aCqbAJXOSA",
 			"fillStyle": "hachure",
@@ -9262,7 +9262,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9349,8 +9349,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 517672344,
+			"version": 125,
+			"versionNonce": 1415858152,
 			"isDeleted": false,
 			"id": "xnD1zhCpmbHhzA1j1gd9b",
 			"fillStyle": "hachure",
@@ -9369,7 +9369,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9456,8 +9456,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 441989096,
+			"version": 115,
+			"versionNonce": 1221757592,
 			"isDeleted": false,
 			"id": "Tzl7CVKpR9mc5fm1D2V91",
 			"fillStyle": "hachure",
@@ -9476,7 +9476,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9523,8 +9523,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 5610136,
+			"version": 128,
+			"versionNonce": 1264782056,
 			"isDeleted": false,
 			"id": "WIrafuf_xFqRVxPNvO1_f",
 			"fillStyle": "hachure",
@@ -9543,7 +9543,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9642,8 +9642,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 223935208,
+			"version": 126,
+			"versionNonce": 1481996184,
 			"isDeleted": false,
 			"id": "pX0--bThkc9fyYuBrlQVs",
 			"fillStyle": "hachure",
@@ -9662,7 +9662,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9753,8 +9753,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1291224984,
+			"version": 146,
+			"versionNonce": 462515688,
 			"isDeleted": false,
 			"id": "tYv_tt1i7HouV4nTjvBgW",
 			"fillStyle": "hachure",
@@ -9773,7 +9773,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9944,8 +9944,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 155803112,
+			"version": 118,
+			"versionNonce": 854770840,
 			"isDeleted": false,
 			"id": "FeeTZcqlYPiEWxR8AGACD",
 			"fillStyle": "hachure",
@@ -9964,7 +9964,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10023,8 +10023,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 284284056,
+			"version": 116,
+			"versionNonce": 1039888616,
 			"isDeleted": false,
 			"id": "AFekp59_psfs93AR6JZkO",
 			"fillStyle": "hachure",
@@ -10043,7 +10043,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10094,8 +10094,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 255156456,
+			"version": 135,
+			"versionNonce": 1180594584,
 			"isDeleted": false,
 			"id": "ACIBFrJInctJpsSLH6Dg5",
 			"fillStyle": "hachure",
@@ -10114,7 +10114,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10241,8 +10241,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 838566296,
+			"version": 133,
+			"versionNonce": 707597288,
 			"isDeleted": false,
 			"id": "llQYynPS4L2qsSmdjVrUr",
 			"fillStyle": "hachure",
@@ -10261,7 +10261,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10380,8 +10380,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 514393064,
+			"version": 115,
+			"versionNonce": 701267608,
 			"isDeleted": false,
 			"id": "-pK8oA5P-qxTCDMvftd9p",
 			"fillStyle": "hachure",
@@ -10400,7 +10400,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10447,8 +10447,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1061654168,
+			"version": 116,
+			"versionNonce": 103962344,
 			"isDeleted": false,
 			"id": "VH44uQ1yyhB6ZLgKKGHs8",
 			"fillStyle": "hachure",
@@ -10467,7 +10467,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10518,8 +10518,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1706051304,
+			"version": 136,
+			"versionNonce": 1844505496,
 			"isDeleted": false,
 			"id": "aKKybnJBc2FaPxyNpQFKP",
 			"fillStyle": "hachure",
@@ -10538,7 +10538,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10669,8 +10669,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1099561880,
+			"version": 124,
+			"versionNonce": 1452751336,
 			"isDeleted": false,
 			"id": "h_kLldXnDp5g_enZIfZdG",
 			"fillStyle": "hachure",
@@ -10689,7 +10689,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10772,8 +10772,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1893149160,
+			"version": 125,
+			"versionNonce": 1828698264,
 			"isDeleted": false,
 			"id": "xvQNXG2lY9m1sYaZnbpPa",
 			"fillStyle": "hachure",
@@ -10792,7 +10792,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10879,8 +10879,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 183945368,
+			"version": 121,
+			"versionNonce": 778550504,
 			"isDeleted": false,
 			"id": "7yggp0By3EJMzWLajnf06",
 			"fillStyle": "hachure",
@@ -10899,7 +10899,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10970,8 +10970,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1529457896,
+			"version": 118,
+			"versionNonce": 447538584,
 			"isDeleted": false,
 			"id": "jD_xaHTlZ-CopXllUv1Ag",
 			"fillStyle": "hachure",
@@ -10990,7 +10990,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11049,8 +11049,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 121763224,
+			"version": 132,
+			"versionNonce": 1596973032,
 			"isDeleted": false,
 			"id": "9A8KFf6kNZkT46SGPl7C4",
 			"fillStyle": "hachure",
@@ -11069,7 +11069,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11184,8 +11184,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 2117324776,
+			"version": 127,
+			"versionNonce": 1412199064,
 			"isDeleted": false,
 			"id": "akbVNsE6Z1_AgAmltSUHH",
 			"fillStyle": "hachure",
@@ -11204,7 +11204,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11299,8 +11299,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 195003032,
+			"version": 114,
+			"versionNonce": 687579880,
 			"isDeleted": false,
 			"id": "8DYKIZWpEVXVDrlq84mWS",
 			"fillStyle": "hachure",
@@ -11319,7 +11319,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11362,8 +11362,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 570528488,
+			"version": 116,
+			"versionNonce": 808607640,
 			"isDeleted": false,
 			"id": "Tt-IAp_f7zf2Lh9_POPMa",
 			"fillStyle": "hachure",
@@ -11382,7 +11382,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11433,8 +11433,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 650342296,
+			"version": 117,
+			"versionNonce": 1784088040,
 			"isDeleted": false,
 			"id": "GAyhTCZcFNxASrLEH9P0p",
 			"fillStyle": "hachure",
@@ -11453,7 +11453,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11508,8 +11508,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 757003752,
+			"version": 117,
+			"versionNonce": 1324526744,
 			"isDeleted": false,
 			"id": "r-NmMZmcrpsN_VVrKEt2n",
 			"fillStyle": "hachure",
@@ -11528,7 +11528,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11583,8 +11583,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 1893842072,
+			"version": 122,
+			"versionNonce": 1347291368,
 			"isDeleted": false,
 			"id": "gpJ2mxbBCYW3EP_QdcZ73",
 			"fillStyle": "hachure",
@@ -11603,7 +11603,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11678,8 +11678,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1419245800,
+			"version": 116,
+			"versionNonce": 706828696,
 			"isDeleted": false,
 			"id": "EVmjSt_XmY4lbe-JfvTD1",
 			"fillStyle": "hachure",
@@ -11698,7 +11698,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11749,8 +11749,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 136,
-			"versionNonce": 1538156952,
+			"version": 151,
+			"versionNonce": 107785192,
 			"isDeleted": false,
 			"id": "3BTsu5B1ZylMnqQUfMAOj",
 			"fillStyle": "hachure",
@@ -11769,7 +11769,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -11781,8 +11781,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1274584040,
+			"version": 136,
+			"versionNonce": 1693607576,
 			"isDeleted": false,
 			"id": "3-YROPeFcqWhLOxdmvUCF",
 			"fillStyle": "hachure",
@@ -11801,7 +11801,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11932,8 +11932,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 39679640,
+			"version": 127,
+			"versionNonce": 1723789032,
 			"isDeleted": false,
 			"id": "1o67JHzvUalLYODn7_75i",
 			"fillStyle": "hachure",
@@ -11952,7 +11952,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12047,8 +12047,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1967972072,
+			"version": 114,
+			"versionNonce": 471454616,
 			"isDeleted": false,
 			"id": "RWTKiBYmZrxhOTVuHAeSF",
 			"fillStyle": "hachure",
@@ -12067,7 +12067,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12110,8 +12110,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 2040718232,
+			"version": 99,
+			"versionNonce": 701551080,
 			"isDeleted": false,
 			"id": "X3EmRVBZh13x32zV5r9ek",
 			"fillStyle": "hachure",
@@ -12130,7 +12130,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12153,8 +12153,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 287359464,
+			"version": 97,
+			"versionNonce": 902537368,
 			"isDeleted": false,
 			"id": "W_0yyS7HVOmltHM0hPEVR",
 			"fillStyle": "hachure",
@@ -12173,7 +12173,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12192,8 +12192,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 531804312,
+			"version": 142,
+			"versionNonce": 380523752,
 			"isDeleted": false,
 			"id": "XLbhDynMFVMWaRBqPUUgq",
 			"fillStyle": "hachure",
@@ -12212,7 +12212,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12411,8 +12411,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 1853900008,
+			"version": 106,
+			"versionNonce": 834391448,
 			"isDeleted": false,
 			"id": "ubdJDLMzOf8nB9dWN0gT6",
 			"fillStyle": "hachure",
@@ -12431,7 +12431,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12486,8 +12486,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1816190360,
+			"version": 158,
+			"versionNonce": 853768168,
 			"isDeleted": false,
 			"id": "e1hZbhVb-rvppTFd8X27c",
 			"fillStyle": "hachure",
@@ -12506,7 +12506,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12661,8 +12661,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 452421608,
+			"version": 118,
+			"versionNonce": 2032032408,
 			"isDeleted": false,
 			"id": "IBTP-xqs5QS1VbFrD0oHW",
 			"fillStyle": "hachure",
@@ -12681,7 +12681,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12796,8 +12796,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1082223256,
+			"version": 132,
+			"versionNonce": 1920744168,
 			"isDeleted": false,
 			"id": "rovFNYxLpvWf-jqHbbO7j",
 			"fillStyle": "hachure",
@@ -12816,7 +12816,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12987,8 +12987,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 311569128,
+			"version": 92,
+			"versionNonce": 782714776,
 			"isDeleted": false,
 			"id": "qr8wriFs6grWjAraSH_PX",
 			"fillStyle": "hachure",
@@ -13007,7 +13007,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13026,8 +13026,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 925390744,
+			"version": 92,
+			"versionNonce": 1745133032,
 			"isDeleted": false,
 			"id": "xML-d0Na2z43ETomKkLrj",
 			"fillStyle": "hachure",
@@ -13046,7 +13046,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13065,8 +13065,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1876725224,
+			"version": 109,
+			"versionNonce": 2123011224,
 			"isDeleted": false,
 			"id": "E4jGaxAY4-HTrbJfgTueJ",
 			"fillStyle": "hachure",
@@ -13085,7 +13085,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13172,8 +13172,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1953080472,
+			"version": 100,
+			"versionNonce": 1955111144,
 			"isDeleted": false,
 			"id": "OOXt6wjBHqmPXopJS1ov_",
 			"fillStyle": "hachure",
@@ -13192,7 +13192,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13243,8 +13243,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 467833064,
+			"version": 133,
+			"versionNonce": 1853637016,
 			"isDeleted": false,
 			"id": "3fdy2trfBeZ6DOYZP_QNR",
 			"fillStyle": "hachure",
@@ -13263,7 +13263,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13446,8 +13446,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1979273624,
+			"version": 94,
+			"versionNonce": 2006205416,
 			"isDeleted": false,
 			"id": "6LWWgAwToTzM2rVqUl4eI",
 			"fillStyle": "hachure",
@@ -13466,7 +13466,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13493,8 +13493,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 2117088232,
+			"version": 109,
+			"versionNonce": 766529176,
 			"isDeleted": false,
 			"id": "EJN0WFcI7VsOw4H5PbrlM",
 			"fillStyle": "hachure",
@@ -13513,7 +13513,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13604,8 +13604,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1661689496,
+			"version": 117,
+			"versionNonce": 2134083304,
 			"isDeleted": false,
 			"id": "29XFBYQb4Ibf4a7TU2t7N",
 			"fillStyle": "hachure",
@@ -13624,7 +13624,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13747,8 +13747,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 751924968,
+			"version": 92,
+			"versionNonce": 1692056472,
 			"isDeleted": false,
 			"id": "ApJ2dZ4bI6MBviKN7uCOv",
 			"fillStyle": "hachure",
@@ -13767,7 +13767,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13790,8 +13790,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1548995480,
+			"version": 94,
+			"versionNonce": 2012375528,
 			"isDeleted": false,
 			"id": "8bzz9Zr__f0rWgQCNc611",
 			"fillStyle": "hachure",
@@ -13810,7 +13810,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13841,8 +13841,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 475159016,
+			"version": 112,
+			"versionNonce": 103778456,
 			"isDeleted": false,
 			"id": "9DmRjhSpK1x95AOBZCcq8",
 			"fillStyle": "hachure",
@@ -13861,7 +13861,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13972,8 +13972,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1275500696,
+			"version": 96,
+			"versionNonce": 1557982440,
 			"isDeleted": false,
 			"id": "p0eNAjrzlbdqUx2vxRwoK",
 			"fillStyle": "hachure",
@@ -13992,7 +13992,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14039,8 +14039,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1337908456,
+			"version": 104,
+			"versionNonce": 493008280,
 			"isDeleted": false,
 			"id": "-q9Aw1EMHizUKdX_HQJxQ",
 			"fillStyle": "hachure",
@@ -14059,7 +14059,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037636,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14138,8 +14138,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 903333272,
+			"version": 108,
+			"versionNonce": 1736380392,
 			"isDeleted": false,
 			"id": "H9LNvsoeU2e4PkzHpw0Np",
 			"fillStyle": "hachure",
@@ -14158,7 +14158,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14253,8 +14253,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 144900072,
+			"version": 93,
+			"versionNonce": 531120792,
 			"isDeleted": false,
 			"id": "DJYbeCmr93mFCs9afJtxH",
 			"fillStyle": "hachure",
@@ -14273,7 +14273,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14308,8 +14308,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 117133976,
+			"version": 95,
+			"versionNonce": 1071960808,
 			"isDeleted": false,
 			"id": "B6iTnkB_Vpogo2NG20xqN",
 			"fillStyle": "hachure",
@@ -14328,7 +14328,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14371,8 +14371,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1997193960,
+			"version": 99,
+			"versionNonce": 1001664408,
 			"isDeleted": false,
 			"id": "RE64-Bbw3SCjBEDKx9zs_",
 			"fillStyle": "hachure",
@@ -14391,7 +14391,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14450,8 +14450,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1713717144,
+			"version": 120,
+			"versionNonce": 748303848,
 			"isDeleted": false,
 			"id": "Nj42o8bje-MnwBLiepg4j",
 			"fillStyle": "hachure",
@@ -14470,7 +14470,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14613,8 +14613,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1770137064,
+			"version": 96,
+			"versionNonce": 700087448,
 			"isDeleted": false,
 			"id": "Zcqw5P0rFe2p4uAyEvI5C",
 			"fillStyle": "hachure",
@@ -14633,7 +14633,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14680,8 +14680,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 59346072,
+			"version": 95,
+			"versionNonce": 1118517480,
 			"isDeleted": false,
 			"id": "zxk31oA1WussqWkVKk7yc",
 			"fillStyle": "hachure",
@@ -14700,7 +14700,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14743,8 +14743,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 2098538728,
+			"version": 119,
+			"versionNonce": 2070882712,
 			"isDeleted": false,
 			"id": "FOTOScRz37tT4AAoS8axn",
 			"fillStyle": "hachure",
@@ -14763,7 +14763,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14902,8 +14902,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1759263128,
+			"version": 108,
+			"versionNonce": 363060200,
 			"isDeleted": false,
 			"id": "V1keHdKyU1LAPsT48qc-9",
 			"fillStyle": "hachure",
@@ -14922,7 +14922,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15017,8 +15017,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1297075176,
+			"version": 100,
+			"versionNonce": 1812346520,
 			"isDeleted": false,
 			"id": "XyuB346wge5c9VcGUkuqg",
 			"fillStyle": "hachure",
@@ -15037,7 +15037,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15100,8 +15100,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1230063256,
+			"version": 93,
+			"versionNonce": 1737498344,
 			"isDeleted": false,
 			"id": "93Agh_844MTS77My93ysd",
 			"fillStyle": "hachure",
@@ -15120,7 +15120,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15155,8 +15155,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 608046824,
+			"version": 96,
+			"versionNonce": 808690584,
 			"isDeleted": false,
 			"id": "LM5-bIluy0iyPtBh5f8Ot",
 			"fillStyle": "hachure",
@@ -15175,7 +15175,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15222,8 +15222,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1369224088,
+			"version": 104,
+			"versionNonce": 1492910568,
 			"isDeleted": false,
 			"id": "dC3WI14q8WlRGWN6e8a4H",
 			"fillStyle": "hachure",
@@ -15242,7 +15242,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15329,8 +15329,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 711717352,
+			"version": 98,
+			"versionNonce": 1177251992,
 			"isDeleted": false,
 			"id": "4RNBKH4HSZ-5I6iUsMX16",
 			"fillStyle": "hachure",
@@ -15349,7 +15349,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15412,8 +15412,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 2012381336,
+			"version": 104,
+			"versionNonce": 418612456,
 			"isDeleted": false,
 			"id": "ybOOLJb7hhjyIm22WBCWB",
 			"fillStyle": "hachure",
@@ -15432,7 +15432,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15519,8 +15519,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 384136424,
+			"version": 94,
+			"versionNonce": 1168219544,
 			"isDeleted": false,
 			"id": "xmU0o1C751AVgbwjyy4XF",
 			"fillStyle": "hachure",
@@ -15539,7 +15539,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15586,8 +15586,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 1275506072,
+			"version": 107,
+			"versionNonce": 352495592,
 			"isDeleted": false,
 			"id": "nQdP94kx3FtU-TM-IjjLb",
 			"fillStyle": "hachure",
@@ -15606,7 +15606,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15705,8 +15705,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1597413352,
+			"version": 119,
+			"versionNonce": 801778328,
 			"isDeleted": false,
 			"id": "YQrqJ27M5jMEm3UrJ6Tdo",
 			"fillStyle": "hachure",
@@ -15725,7 +15725,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15872,8 +15872,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1192049304,
+			"version": 105,
+			"versionNonce": 691366632,
 			"isDeleted": false,
 			"id": "jM8L0zJ3U28EgazOuRxlI",
 			"fillStyle": "hachure",
@@ -15892,7 +15892,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15987,8 +15987,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1735088872,
+			"version": 96,
+			"versionNonce": 1062803352,
 			"isDeleted": false,
 			"id": "VUxu7i8nsh9h0IhRsDB96",
 			"fillStyle": "hachure",
@@ -16007,7 +16007,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16074,8 +16074,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 465184664,
+			"version": 96,
+			"versionNonce": 1343737320,
 			"isDeleted": false,
 			"id": "tcfO8A7ibbNxYCMkN2J9a",
 			"fillStyle": "hachure",
@@ -16094,7 +16094,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16161,8 +16161,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 839892456,
+			"version": 85,
+			"versionNonce": 948069528,
 			"isDeleted": false,
 			"id": "DsuUuARC2zb91Xz8Fl7Eh",
 			"fillStyle": "hachure",
@@ -16181,7 +16181,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16216,8 +16216,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 104952984,
+			"version": 89,
+			"versionNonce": 1387647208,
 			"isDeleted": false,
 			"id": "-sVd-Q-H5gLwmpv0i4i7i",
 			"fillStyle": "hachure",
@@ -16236,7 +16236,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16287,8 +16287,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 271565032,
+			"version": 98,
+			"versionNonce": 955912600,
 			"isDeleted": false,
 			"id": "ebVBbIp_Bncki-vIfCjzt",
 			"fillStyle": "hachure",
@@ -16307,7 +16307,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16398,8 +16398,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 475472280,
+			"version": 112,
+			"versionNonce": 2023453672,
 			"isDeleted": false,
 			"id": "05OaDsrYRvHNrOmYgmvsL",
 			"fillStyle": "hachure",
@@ -16418,7 +16418,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16565,8 +16565,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1364681704,
+			"version": 84,
+			"versionNonce": 133439128,
 			"isDeleted": false,
 			"id": "LXRfz6x0-6R5x1zLIRsaX",
 			"fillStyle": "hachure",
@@ -16585,7 +16585,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16620,8 +16620,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 489631384,
+			"version": 145,
+			"versionNonce": 936687336,
 			"isDeleted": false,
 			"id": "pOoHeWLw7ePLGSEzhVSSN",
 			"fillStyle": "hachure",
@@ -16640,7 +16640,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16663,8 +16663,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1938990824,
+			"version": 131,
+			"versionNonce": 1713671064,
 			"isDeleted": false,
 			"id": "Y_uogtXU-tZ7hppSQ14qB",
 			"fillStyle": "hachure",
@@ -16683,7 +16683,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16838,8 +16838,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1098750872,
+			"version": 113,
+			"versionNonce": 1693293032,
 			"isDeleted": false,
 			"id": "nf-1Z5x2eJ7deG1D73E-F",
 			"fillStyle": "hachure",
@@ -16858,7 +16858,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16941,8 +16941,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1399687656,
+			"version": 116,
+			"versionNonce": 1572821144,
 			"isDeleted": false,
 			"id": "lRmBiWbHq-GmvGfbZyZt8",
 			"fillStyle": "hachure",
@@ -16961,7 +16961,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17016,8 +17016,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 192309400,
+			"version": 113,
+			"versionNonce": 1660034280,
 			"isDeleted": false,
 			"id": "XASMJfPvjSDJj9RNJDq_T",
 			"fillStyle": "hachure",
@@ -17036,7 +17036,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17075,8 +17075,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1542720744,
+			"version": 116,
+			"versionNonce": 309888408,
 			"isDeleted": false,
 			"id": "3e3GET0eKH-7wIODunkID",
 			"fillStyle": "hachure",
@@ -17095,7 +17095,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17150,8 +17150,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 382571928,
+			"version": 154,
+			"versionNonce": 1399734248,
 			"isDeleted": false,
 			"id": "qVAnDPpFOXTSy_3VHBP4d",
 			"fillStyle": "hachure",
@@ -17170,7 +17170,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17377,8 +17377,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 917647336,
+			"version": 129,
+			"versionNonce": 293868184,
 			"isDeleted": false,
 			"id": "Lgk-MdCRVNDjtb49q96pU",
 			"fillStyle": "hachure",
@@ -17397,7 +17397,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17504,8 +17504,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1756832408,
+			"version": 83,
+			"versionNonce": 1181614824,
 			"isDeleted": false,
 			"id": "QpmcKKM9H5YaLsyV6PL6p",
 			"fillStyle": "hachure",
@@ -17524,7 +17524,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17571,8 +17571,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 2075390696,
+			"version": 114,
+			"versionNonce": 563478424,
 			"isDeleted": false,
 			"id": "Kd8ZZRaOc4XwIQVF5TJ-o",
 			"fillStyle": "hachure",
@@ -17591,7 +17591,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17762,8 +17762,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1072107416,
+			"version": 108,
+			"versionNonce": 1786602984,
 			"isDeleted": false,
 			"id": "3tr--HAtsYGYXX7jlgDpL",
 			"fillStyle": "hachure",
@@ -17782,7 +17782,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17929,8 +17929,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1636128232,
+			"version": 114,
+			"versionNonce": 316820632,
 			"isDeleted": false,
 			"id": "MmK7kr9M8tGq5TuFCuDaj",
 			"fillStyle": "hachure",
@@ -17949,7 +17949,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18120,8 +18120,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1687248024,
+			"version": 84,
+			"versionNonce": 1017669864,
 			"isDeleted": false,
 			"id": "YpTdgLDNU4DNiUHrBpgPw",
 			"fillStyle": "hachure",
@@ -18140,7 +18140,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18191,8 +18191,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1832016104,
+			"version": 109,
+			"versionNonce": 253557144,
 			"isDeleted": false,
 			"id": "j3Ob2ifzGV2GSS0yXD9Qk",
 			"fillStyle": "hachure",
@@ -18211,7 +18211,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18362,8 +18362,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2020215192,
+			"version": 82,
+			"versionNonce": 947588072,
 			"isDeleted": false,
 			"id": "mASTvvxO0Hr6XwIv7omXA",
 			"fillStyle": "hachure",
@@ -18382,7 +18382,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18425,8 +18425,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 575077352,
+			"version": 82,
+			"versionNonce": 1769604760,
 			"isDeleted": false,
 			"id": "3Ebar8Zsmva6t4UdhqAMo",
 			"fillStyle": "hachure",
@@ -18445,7 +18445,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18484,8 +18484,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1185224344,
+			"version": 115,
+			"versionNonce": 134303464,
 			"isDeleted": false,
 			"id": "qRIG_kdNI11zsKGeYeRRu",
 			"fillStyle": "hachure",
@@ -18504,7 +18504,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18679,8 +18679,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 852442856,
+			"version": 101,
+			"versionNonce": 1856861080,
 			"isDeleted": false,
 			"id": "NnJeMmseY6qUOAY2zCjAj",
 			"fillStyle": "hachure",
@@ -18699,7 +18699,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18818,8 +18818,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 334922648,
+			"version": 120,
+			"versionNonce": 868692456,
 			"isDeleted": false,
 			"id": "T457bz6SrxzSrw3zZ0Zol",
 			"fillStyle": "hachure",
@@ -18838,7 +18838,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19033,8 +19033,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 794239464,
+			"version": 83,
+			"versionNonce": 887832728,
 			"isDeleted": false,
 			"id": "IxyQGifoFEd9lLKIsW5C0",
 			"fillStyle": "hachure",
@@ -19053,7 +19053,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19100,8 +19100,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1855082648,
+			"version": 81,
+			"versionNonce": 1389933800,
 			"isDeleted": false,
 			"id": "pqpfitSLv0Lc_gi3YRE5t",
 			"fillStyle": "hachure",
@@ -19120,7 +19120,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19159,8 +19159,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 921347304,
+			"version": 83,
+			"versionNonce": 1810328984,
 			"isDeleted": false,
 			"id": "p_5gwxCaUiBQVPipcp8Q5",
 			"fillStyle": "hachure",
@@ -19179,7 +19179,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19226,8 +19226,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 2116844952,
+			"version": 104,
+			"versionNonce": 985782248,
 			"isDeleted": false,
 			"id": "xai16wXYn42iQkb7pFfmA",
 			"fillStyle": "hachure",
@@ -19246,7 +19246,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19377,8 +19377,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 655738856,
+			"version": 89,
+			"versionNonce": 752220824,
 			"isDeleted": false,
 			"id": "whEcP41oYsWWKppzpPOTX",
 			"fillStyle": "hachure",
@@ -19397,7 +19397,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19468,8 +19468,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1408830104,
+			"version": 92,
+			"versionNonce": 797874920,
 			"isDeleted": false,
 			"id": "S9CYaX0oE_YAkJVj31Mve",
 			"fillStyle": "hachure",
@@ -19488,7 +19488,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19571,8 +19571,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1273268968,
+			"version": 85,
+			"versionNonce": 1248520088,
 			"isDeleted": false,
 			"id": "9m8mgNZ6C1Q7rII_BmY6r",
 			"fillStyle": "hachure",
@@ -19591,7 +19591,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19646,8 +19646,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 984348568,
+			"version": 107,
+			"versionNonce": 332070376,
 			"isDeleted": false,
 			"id": "eWxGKYO47VgAMLWmojS1_",
 			"fillStyle": "hachure",
@@ -19666,7 +19666,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19809,8 +19809,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 266530280,
+			"version": 81,
+			"versionNonce": 551171224,
 			"isDeleted": false,
 			"id": "pmJaevzPn8jQUdQN77ypI",
 			"fillStyle": "hachure",
@@ -19829,7 +19829,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19868,8 +19868,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 108610712,
+			"version": 84,
+			"versionNonce": 411238632,
 			"isDeleted": false,
 			"id": "Px3hKHlLzqzwZh0GL_ObK",
 			"fillStyle": "hachure",
@@ -19888,7 +19888,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19939,8 +19939,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 740094184,
+			"version": 113,
+			"versionNonce": 1708646808,
 			"isDeleted": false,
 			"id": "mWrvB-0Q0L--3vFluAc1F",
 			"fillStyle": "hachure",
@@ -19959,7 +19959,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20126,8 +20126,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1695871384,
+			"version": 115,
+			"versionNonce": 1833083880,
 			"isDeleted": false,
 			"id": "nZGW-h7yblXPLft5jsl6Z",
 			"fillStyle": "hachure",
@@ -20146,7 +20146,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20321,8 +20321,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1478398952,
+			"version": 99,
+			"versionNonce": 2023222936,
 			"isDeleted": false,
 			"id": "FVbEciggWv4kEcbrULyWf",
 			"fillStyle": "hachure",
@@ -20341,7 +20341,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037637,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20452,8 +20452,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 766705304,
+			"version": 82,
+			"versionNonce": 1880483560,
 			"isDeleted": false,
 			"id": "WA5EvrWPefQ_wm5xJZN-E",
 			"fillStyle": "hachure",
@@ -20472,7 +20472,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20515,8 +20515,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2046023400,
+			"version": 82,
+			"versionNonce": 835607448,
 			"isDeleted": false,
 			"id": "ACD3g-3ZJyoB4GIoh_rYV",
 			"fillStyle": "hachure",
@@ -20535,7 +20535,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514896,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20578,8 +20578,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 822569880,
+			"version": 106,
+			"versionNonce": 1569245672,
 			"isDeleted": false,
 			"id": "MNOAqrDbKAHEcmCjZ5f48",
 			"fillStyle": "hachure",
@@ -20598,7 +20598,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20737,8 +20737,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1445509608,
+			"version": 110,
+			"versionNonce": 867117208,
 			"isDeleted": false,
 			"id": "MLAneMia_QK8Ixq3oMke9",
 			"fillStyle": "hachure",
@@ -20757,7 +20757,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20912,8 +20912,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 155596952,
+			"version": 94,
+			"versionNonce": 10964200,
 			"isDeleted": false,
 			"id": "JBmhYWRQd5T0iDyDZxslP",
 			"fillStyle": "hachure",
@@ -20932,7 +20932,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21023,8 +21023,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1070152936,
+			"version": 93,
+			"versionNonce": 971920792,
 			"isDeleted": false,
 			"id": "wnT3mwysrYA2eJ9No3lgv",
 			"fillStyle": "hachure",
@@ -21043,7 +21043,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21130,8 +21130,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1780704664,
+			"version": 83,
+			"versionNonce": 1660776424,
 			"isDeleted": false,
 			"id": "A0t3X6SUNouG6juxwTqJ7",
 			"fillStyle": "hachure",
@@ -21150,7 +21150,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21197,8 +21197,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1214341096,
+			"version": 116,
+			"versionNonce": 1774183064,
 			"isDeleted": false,
 			"id": "KnTvvyBEGj3lAywPuzMJ0",
 			"fillStyle": "hachure",
@@ -21217,7 +21217,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21396,8 +21396,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1892872856,
+			"version": 92,
+			"versionNonce": 2090283752,
 			"isDeleted": false,
 			"id": "8yEaAg-6ajbqAYHzLoT0D",
 			"fillStyle": "hachure",
@@ -21416,7 +21416,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21499,8 +21499,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1878860520,
+			"version": 82,
+			"versionNonce": 567791512,
 			"isDeleted": false,
 			"id": "gFwIMXPyUmMIfCFneJnp1",
 			"fillStyle": "hachure",
@@ -21519,7 +21519,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21562,8 +21562,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1946738584,
+			"version": 83,
+			"versionNonce": 1677759976,
 			"isDeleted": false,
 			"id": "4mNEscvuAJ3nyfVrDNnLT",
 			"fillStyle": "hachure",
@@ -21582,7 +21582,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21629,8 +21629,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1428719080,
+			"version": 88,
+			"versionNonce": 1248468120,
 			"isDeleted": false,
 			"id": "ADVVp21ltKG_YVIYrgB_r",
 			"fillStyle": "hachure",
@@ -21649,7 +21649,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21716,8 +21716,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1408838808,
+			"version": 79,
+			"versionNonce": 2118490344,
 			"isDeleted": false,
 			"id": "z6iSKd5dHose1u9vDU4hL",
 			"fillStyle": "hachure",
@@ -21736,7 +21736,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21763,8 +21763,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1693419752,
+			"version": 110,
+			"versionNonce": 623561112,
 			"isDeleted": false,
 			"id": "FyxRFe1mSBUdF5yYtUO2I",
 			"fillStyle": "hachure",
@@ -21783,7 +21783,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21938,8 +21938,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1247271320,
+			"version": 91,
+			"versionNonce": 787626984,
 			"isDeleted": false,
 			"id": "_obK-t4BmWVYmG5Kw_grP",
 			"fillStyle": "hachure",
@@ -21958,7 +21958,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22037,8 +22037,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 182332392,
+			"version": 86,
+			"versionNonce": 491640472,
 			"isDeleted": false,
 			"id": "JKAwONFzAN-RDguIKzMDm",
 			"fillStyle": "hachure",
@@ -22057,7 +22057,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22116,8 +22116,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 978904728,
+			"version": 85,
+			"versionNonce": 135429864,
 			"isDeleted": false,
 			"id": "2UNs9RlWbRNHeEhkRbS1r",
 			"fillStyle": "hachure",
@@ -22136,7 +22136,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22191,8 +22191,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1627418344,
+			"version": 82,
+			"versionNonce": 394740632,
 			"isDeleted": false,
 			"id": "UVAeP-tGJbVroX_vImWuZ",
 			"fillStyle": "hachure",
@@ -22211,7 +22211,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22254,8 +22254,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 11555736,
+			"version": 82,
+			"versionNonce": 2050122216,
 			"isDeleted": false,
 			"id": "uQipJspQjbZR0Aeh6muWG",
 			"fillStyle": "hachure",
@@ -22274,7 +22274,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22317,8 +22317,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1608667624,
+			"version": 84,
+			"versionNonce": 1108021400,
 			"isDeleted": false,
 			"id": "fd0kSEC2_LWcE93GM_Qjg",
 			"fillStyle": "hachure",
@@ -22337,7 +22337,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22388,8 +22388,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1133650072,
+			"version": 119,
+			"versionNonce": 73262312,
 			"isDeleted": false,
 			"id": "9TuaaUryy_PPVinMy7frh",
 			"fillStyle": "hachure",
@@ -22408,7 +22408,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22599,8 +22599,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 244307176,
+			"version": 104,
+			"versionNonce": 1686977944,
 			"isDeleted": false,
 			"id": "aXhGuXMaim7O_72UekXD-",
 			"fillStyle": "hachure",
@@ -22619,7 +22619,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22750,8 +22750,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1118981528,
+			"version": 81,
+			"versionNonce": 1679886312,
 			"isDeleted": false,
 			"id": "F8jAQO2VzS_9Q7glIW4US",
 			"fillStyle": "hachure",
@@ -22770,7 +22770,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22809,8 +22809,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 848623592,
+			"version": 97,
+			"versionNonce": 809618072,
 			"isDeleted": false,
 			"id": "w1gTTykDvfSwwfwZTMTQo",
 			"fillStyle": "hachure",
@@ -22829,7 +22829,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22932,8 +22932,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 658823832,
+			"version": 84,
+			"versionNonce": 1166527208,
 			"isDeleted": false,
 			"id": "dT5RqFXH9mOhGyzWBU4WI",
 			"fillStyle": "hachure",
@@ -22952,7 +22952,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23003,8 +23003,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 2147334888,
+			"version": 100,
+			"versionNonce": 266123160,
 			"isDeleted": false,
 			"id": "Xv9Ryw5Ypw90NOGiHB3k5",
 			"fillStyle": "hachure",
@@ -23023,7 +23023,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23138,8 +23138,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1409140632,
+			"version": 84,
+			"versionNonce": 1931357672,
 			"isDeleted": false,
 			"id": "XaNq8z9VD-W7pvourPuqz",
 			"fillStyle": "hachure",
@@ -23158,7 +23158,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23217,8 +23217,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1230380520,
+			"version": 80,
+			"versionNonce": 2006058136,
 			"isDeleted": false,
 			"id": "3QaYCAlchLID9XxhDkD2T",
 			"fillStyle": "hachure",
@@ -23237,7 +23237,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23280,8 +23280,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 890311832,
+			"version": 85,
+			"versionNonce": 99627240,
 			"isDeleted": false,
 			"id": "UjYn5B7VJqCYnpuTh16r2",
 			"fillStyle": "hachure",
@@ -23300,7 +23300,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23363,8 +23363,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 799678696,
+			"version": 83,
+			"versionNonce": 890614168,
 			"isDeleted": false,
 			"id": "n9TL5UTckuLjFQch_P2Bi",
 			"fillStyle": "hachure",
@@ -23383,7 +23383,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23438,8 +23438,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 271761816,
+			"version": 88,
+			"versionNonce": 361354216,
 			"isDeleted": false,
 			"id": "ps2Nrsx5r1kKhi6OnsyLH",
 			"fillStyle": "hachure",
@@ -23458,7 +23458,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23533,8 +23533,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1384498152,
+			"version": 83,
+			"versionNonce": 1067171480,
 			"isDeleted": false,
 			"id": "KcmtdHM8RkzwAMxYe0mEd",
 			"fillStyle": "hachure",
@@ -23553,7 +23553,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23608,8 +23608,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 77,
-			"versionNonce": 1419169432,
+			"version": 92,
+			"versionNonce": 1744246504,
 			"isDeleted": false,
 			"id": "b2B6wq28RdF4OjmPrS9HD",
 			"fillStyle": "hachure",
@@ -23628,7 +23628,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -23640,8 +23640,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 2146764520,
+			"version": 108,
+			"versionNonce": 131607448,
 			"isDeleted": false,
 			"id": "xCLL0ojHauUQ1MqMyOE8L",
 			"fillStyle": "hachure",
@@ -23660,7 +23660,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23815,8 +23815,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1794194328,
+			"version": 85,
+			"versionNonce": 566491624,
 			"isDeleted": false,
 			"id": "xf2uQLa-k98Ua8iSK8jWb",
 			"fillStyle": "hachure",
@@ -23835,7 +23835,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23898,8 +23898,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1686366696,
+			"version": 82,
+			"versionNonce": 1207892120,
 			"isDeleted": false,
 			"id": "WxmQAiV56qG0uyzNDW3W1",
 			"fillStyle": "hachure",
@@ -23918,7 +23918,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23969,8 +23969,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 91621528,
+			"version": 74,
+			"versionNonce": 1979481320,
 			"isDeleted": false,
 			"id": "EE4P4hoIyphggaII7RzcS",
 			"fillStyle": "hachure",
@@ -23989,7 +23989,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24008,8 +24008,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 993946856,
+			"version": 74,
+			"versionNonce": 1405363608,
 			"isDeleted": false,
 			"id": "Tit6LEBDnBMhmXQCmfN0r",
 			"fillStyle": "hachure",
@@ -24028,7 +24028,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24047,8 +24047,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1876506008,
+			"version": 103,
+			"versionNonce": 1445765096,
 			"isDeleted": false,
 			"id": "RKEE-tlTpaBhAlVX8TPaO",
 			"fillStyle": "hachure",
@@ -24067,7 +24067,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24238,8 +24238,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 2108723176,
+			"version": 98,
+			"versionNonce": 1750839960,
 			"isDeleted": false,
 			"id": "osUiWa97QYm6rLL0fSzGc",
 			"fillStyle": "hachure",
@@ -24258,7 +24258,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24409,8 +24409,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1598997144,
+			"version": 71,
+			"versionNonce": 576742120,
 			"isDeleted": false,
 			"id": "hQKVs91V5TDP31UaibhqD",
 			"fillStyle": "hachure",
@@ -24429,7 +24429,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24472,8 +24472,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 333861608,
+			"version": 76,
+			"versionNonce": 2088345496,
 			"isDeleted": false,
 			"id": "7bwgLoh7JVdagAcBd_YVC",
 			"fillStyle": "hachure",
@@ -24492,7 +24492,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24555,8 +24555,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1116385176,
+			"version": 63,
+			"versionNonce": 1495516648,
 			"isDeleted": false,
 			"id": "YS5dgazunkVAfDjqujkO5",
 			"fillStyle": "hachure",
@@ -24575,7 +24575,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24618,8 +24618,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 74167784,
+			"version": 92,
+			"versionNonce": 273804440,
 			"isDeleted": false,
 			"id": "C0iPUNma6qw--mTVqJ0c4",
 			"fillStyle": "hachure",
@@ -24638,7 +24638,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24797,8 +24797,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 297860248,
+			"version": 66,
+			"versionNonce": 1199753448,
 			"isDeleted": false,
 			"id": "SCSEYKGIgwI2JpNePBPga",
 			"fillStyle": "hachure",
@@ -24817,7 +24817,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24872,8 +24872,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 609007848,
+			"version": 107,
+			"versionNonce": 2107152792,
 			"isDeleted": false,
 			"id": "E8qKXIWSa_0-1Qwe5xe6U",
 			"fillStyle": "hachure",
@@ -24892,7 +24892,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25111,8 +25111,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 514173336,
+			"version": 64,
+			"versionNonce": 956918760,
 			"isDeleted": false,
 			"id": "dbAOnZb-MfF3lS3hAp_Ly",
 			"fillStyle": "hachure",
@@ -25131,7 +25131,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25178,8 +25178,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1192582120,
+			"version": 73,
+			"versionNonce": 1199679128,
 			"isDeleted": false,
 			"id": "NFtV3MaEh81nnBwM8GqbL",
 			"fillStyle": "hachure",
@@ -25198,7 +25198,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25281,8 +25281,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1684846232,
+			"version": 85,
+			"versionNonce": 667135720,
 			"isDeleted": false,
 			"id": "v2Aw8YCemhV327ubfOOsL",
 			"fillStyle": "hachure",
@@ -25301,7 +25301,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25456,8 +25456,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1859231464,
+			"version": 57,
+			"versionNonce": 1791038360,
 			"isDeleted": false,
 			"id": "-d2IaiIWP-VwZK2MOleBP",
 			"fillStyle": "hachure",
@@ -25476,7 +25476,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25519,8 +25519,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1472865176,
+			"version": 58,
+			"versionNonce": 1815974376,
 			"isDeleted": false,
 			"id": "LQ2GBCPZxYGvaZYf2hT7s",
 			"fillStyle": "hachure",
@@ -25539,7 +25539,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25586,8 +25586,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 2081260008,
+			"version": 88,
+			"versionNonce": 764076184,
 			"isDeleted": false,
 			"id": "pijORcowmfXSDc3wg2quZ",
 			"fillStyle": "hachure",
@@ -25606,7 +25606,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25773,8 +25773,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 921825432,
+			"version": 53,
+			"versionNonce": 1837307112,
 			"isDeleted": false,
 			"id": "nCIs1NS_0sa8F31mVVZ7Y",
 			"fillStyle": "hachure",
@@ -25793,7 +25793,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25816,8 +25816,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1574241512,
+			"version": 68,
+			"versionNonce": 1871908248,
 			"isDeleted": false,
 			"id": "3w-jV7ZMFvTYbN72Bc9cR",
 			"fillStyle": "hachure",
@@ -25836,7 +25836,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25923,8 +25923,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1503141272,
+			"version": 58,
+			"versionNonce": 1361065960,
 			"isDeleted": false,
 			"id": "foxMK8gH17fxjypQ1nz5l",
 			"fillStyle": "hachure",
@@ -25943,7 +25943,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037638,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25990,8 +25990,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1102325736,
+			"version": 58,
+			"versionNonce": 2047711896,
 			"isDeleted": false,
 			"id": "PUKkwP4xKmdDnQvHB8mDs",
 			"fillStyle": "hachure",
@@ -26010,7 +26010,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26057,8 +26057,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 15772312,
+			"version": 84,
+			"versionNonce": 723581672,
 			"isDeleted": false,
 			"id": "3IznsSaK_RAtpnbA1M--K",
 			"fillStyle": "hachure",
@@ -26077,7 +26077,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26228,8 +26228,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1136061160,
+			"version": 83,
+			"versionNonce": 1336838040,
 			"isDeleted": false,
 			"id": "5vFPCt3Qvsh5qaWaZiZjH",
 			"fillStyle": "hachure",
@@ -26248,7 +26248,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26395,8 +26395,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 665819032,
+			"version": 75,
+			"versionNonce": 772890088,
 			"isDeleted": false,
 			"id": "tOme_wFTF09KFLKel42WF",
 			"fillStyle": "hachure",
@@ -26415,7 +26415,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26530,8 +26530,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 510217704,
+			"version": 84,
+			"versionNonce": 2091504792,
 			"isDeleted": false,
 			"id": "nyx0MxO2j1BN5AlEgMO72",
 			"fillStyle": "hachure",
@@ -26550,7 +26550,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26701,8 +26701,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1376314520,
+			"version": 57,
+			"versionNonce": 1526554856,
 			"isDeleted": false,
 			"id": "v-k7a6QTmSbt51Ee6jATO",
 			"fillStyle": "hachure",
@@ -26721,7 +26721,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26764,8 +26764,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1524060392,
+			"version": 58,
+			"versionNonce": 1723040152,
 			"isDeleted": false,
 			"id": "t-VRom8k2Mjs55Vb67YCg",
 			"fillStyle": "hachure",
@@ -26784,7 +26784,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26831,8 +26831,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1571852696,
+			"version": 69,
+			"versionNonce": 829490152,
 			"isDeleted": false,
 			"id": "0OznGNb87oVMfTadhI3Ue",
 			"fillStyle": "hachure",
@@ -26851,7 +26851,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26942,8 +26942,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 9237480,
+			"version": 94,
+			"versionNonce": 486510232,
 			"isDeleted": false,
 			"id": "xcV_MI9AbhoTdY2KA0w-K",
 			"fillStyle": "hachure",
@@ -26962,7 +26962,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27153,8 +27153,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1373281944,
+			"version": 75,
+			"versionNonce": 1601717992,
 			"isDeleted": false,
 			"id": "6o3J1ztLK0eS08maUp3dH",
 			"fillStyle": "hachure",
@@ -27173,7 +27173,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27288,8 +27288,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1167472360,
+			"version": 51,
+			"versionNonce": 675412888,
 			"isDeleted": false,
 			"id": "8YjiHpLImp2bPvnVsq1Sg",
 			"fillStyle": "hachure",
@@ -27308,7 +27308,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27327,8 +27327,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 792398744,
+			"version": 51,
+			"versionNonce": 1906256360,
 			"isDeleted": false,
 			"id": "CuCVIXAYi2JOsB3XoJnbY",
 			"fillStyle": "hachure",
@@ -27347,7 +27347,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27366,8 +27366,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1048517096,
+			"version": 59,
+			"versionNonce": 1521404056,
 			"isDeleted": false,
 			"id": "sYhgbcvYJSe14W8q6rd6Y",
 			"fillStyle": "hachure",
@@ -27386,7 +27386,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27437,8 +27437,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1074124952,
+			"version": 54,
+			"versionNonce": 49392872,
 			"isDeleted": false,
 			"id": "1ltbV99Sh3Wo9d1BMmmqx",
 			"fillStyle": "hachure",
@@ -27457,7 +27457,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27488,8 +27488,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 240360680,
+			"version": 64,
+			"versionNonce": 536475032,
 			"isDeleted": false,
 			"id": "af0qoyuSJI4Md4b0XQ5cW",
 			"fillStyle": "hachure",
@@ -27508,7 +27508,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27579,8 +27579,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1743717784,
+			"version": 91,
+			"versionNonce": 1828442088,
 			"isDeleted": false,
 			"id": "bQUW9b4OKe3ksLmg3Q0ku",
 			"fillStyle": "hachure",
@@ -27599,7 +27599,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27778,8 +27778,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 379568104,
+			"version": 64,
+			"versionNonce": 1297580696,
 			"isDeleted": false,
 			"id": "osEg5lwRsbcmTIle4PR22",
 			"fillStyle": "hachure",
@@ -27798,7 +27798,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514897,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27869,8 +27869,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1948947096,
+			"version": 58,
+			"versionNonce": 2009699048,
 			"isDeleted": false,
 			"id": "X3Lx2Iz9FmNroykTSSQ-i",
 			"fillStyle": "hachure",
@@ -27889,7 +27889,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27936,8 +27936,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 661619432,
+			"version": 60,
+			"versionNonce": 1903914904,
 			"isDeleted": false,
 			"id": "HMb2Te9FCXtdNjCYayvY_",
 			"fillStyle": "hachure",
@@ -27956,7 +27956,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28011,8 +28011,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1802272664,
+			"version": 62,
+			"versionNonce": 166131176,
 			"isDeleted": false,
 			"id": "NNKpSv6CfXAkhLBVo4fwl",
 			"fillStyle": "hachure",
@@ -28031,7 +28031,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28094,8 +28094,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 793699816,
+			"version": 82,
+			"versionNonce": 614055064,
 			"isDeleted": false,
 			"id": "a6cUjl9QIGuRMWJfZke62",
 			"fillStyle": "hachure",
@@ -28114,7 +28114,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28257,8 +28257,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1575537816,
+			"version": 75,
+			"versionNonce": 1482684648,
 			"isDeleted": false,
 			"id": "_GM1KXqQFdbaSeW12yKN5",
 			"fillStyle": "hachure",
@@ -28277,7 +28277,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28392,8 +28392,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1800005864,
+			"version": 63,
+			"versionNonce": 1483106712,
 			"isDeleted": false,
 			"id": "mDVE3XbS_BHM425jNhEAg",
 			"fillStyle": "hachure",
@@ -28412,7 +28412,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28479,8 +28479,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 894663064,
+			"version": 66,
+			"versionNonce": 381721576,
 			"isDeleted": false,
 			"id": "NPOvdWZpgYSCw3xLmpS4t",
 			"fillStyle": "hachure",
@@ -28499,7 +28499,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28578,8 +28578,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 384601064,
+			"version": 58,
+			"versionNonce": 672495256,
 			"isDeleted": false,
 			"id": "Gr0VoqsPAkj6i9LWtKwjr",
 			"fillStyle": "hachure",
@@ -28598,7 +28598,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28645,8 +28645,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 81823384,
+			"version": 80,
+			"versionNonce": 655679208,
 			"isDeleted": false,
 			"id": "Pmi-vnd1gtCi2seNIJCsp",
 			"fillStyle": "hachure",
@@ -28665,7 +28665,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28800,8 +28800,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 474140392,
+			"version": 61,
+			"versionNonce": 677045144,
 			"isDeleted": false,
 			"id": "ovGSd1FfTOtoujSMMSRjs",
 			"fillStyle": "hachure",
@@ -28820,7 +28820,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28879,8 +28879,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1497625496,
+			"version": 60,
+			"versionNonce": 1239990760,
 			"isDeleted": false,
 			"id": "TVKtwsDmqagvNg-2tXboX",
 			"fillStyle": "hachure",
@@ -28899,7 +28899,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28954,8 +28954,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1138274792,
+			"version": 85,
+			"versionNonce": 929738904,
 			"isDeleted": false,
 			"id": "KclgSgnPrL8xeV2aQu0_l",
 			"fillStyle": "hachure",
@@ -28974,7 +28974,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29129,8 +29129,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 145866904,
+			"version": 60,
+			"versionNonce": 1313359080,
 			"isDeleted": false,
 			"id": "1RBkDOG_w13INFXBqRCBy",
 			"fillStyle": "hachure",
@@ -29149,7 +29149,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29204,8 +29204,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1689924840,
+			"version": 55,
+			"versionNonce": 1291378072,
 			"isDeleted": false,
 			"id": "NIAEFZH-iB_HPieHOXx1z",
 			"fillStyle": "hachure",
@@ -29224,7 +29224,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29259,8 +29259,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 48098712,
+			"version": 72,
+			"versionNonce": 1103063016,
 			"isDeleted": false,
 			"id": "nYM1MUtnYwQ-LBeo3_mIO",
 			"fillStyle": "hachure",
@@ -29279,7 +29279,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29382,8 +29382,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 343103464,
+			"version": 77,
+			"versionNonce": 1245276824,
 			"isDeleted": false,
 			"id": "xLUEjY9V8r9PaKHi-ADsz",
 			"fillStyle": "hachure",
@@ -29402,7 +29402,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29525,8 +29525,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 553417368,
+			"version": 61,
+			"versionNonce": 542780136,
 			"isDeleted": false,
 			"id": "S8CGZ2_c3hWHr6PbEkSBq",
 			"fillStyle": "hachure",
@@ -29545,7 +29545,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29604,8 +29604,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1460673256,
+			"version": 87,
+			"versionNonce": 1239439256,
 			"isDeleted": false,
 			"id": "tKrhQtaA8iVuzJ2nrExNC",
 			"fillStyle": "hachure",
@@ -29624,7 +29624,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29787,8 +29787,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1975609240,
+			"version": 57,
+			"versionNonce": 77893096,
 			"isDeleted": false,
 			"id": "NIQt6V1g1Ynw1K4vWAQuQ",
 			"fillStyle": "hachure",
@@ -29807,7 +29807,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29850,8 +29850,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1327267304,
+			"version": 64,
+			"versionNonce": 1881253016,
 			"isDeleted": false,
 			"id": "asNZgfIKcjXDAEK8XGtBS",
 			"fillStyle": "hachure",
@@ -29870,7 +29870,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29941,8 +29941,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 492876952,
+			"version": 59,
+			"versionNonce": 1470796008,
 			"isDeleted": false,
 			"id": "q75D_8E9bf0obZpkE1_Zr",
 			"fillStyle": "hachure",
@@ -29961,7 +29961,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30012,8 +30012,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1839497448,
+			"version": 66,
+			"versionNonce": 984699288,
 			"isDeleted": false,
 			"id": "o2JcIlEabpkbpNPFgkcIq",
 			"fillStyle": "hachure",
@@ -30032,7 +30032,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30111,8 +30111,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 227434904,
+			"version": 75,
+			"versionNonce": 16266216,
 			"isDeleted": false,
 			"id": "-Aj3V2PMFWCjqTdCuhqES",
 			"fillStyle": "hachure",
@@ -30131,7 +30131,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30246,8 +30246,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 573842408,
+			"version": 77,
+			"versionNonce": 1354981016,
 			"isDeleted": false,
 			"id": "wqVUJVnCviy3clkiek6xv",
 			"fillStyle": "hachure",
@@ -30266,7 +30266,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30429,8 +30429,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1702784664,
+			"version": 44,
+			"versionNonce": 379156200,
 			"isDeleted": false,
 			"id": "3bUdltZqn6iV31JM-GHwN",
 			"fillStyle": "hachure",
@@ -30449,7 +30449,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30480,8 +30480,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 181888744,
+			"version": 47,
+			"versionNonce": 1393281944,
 			"isDeleted": false,
 			"id": "56s9V7gw590FeoZc0UN8u",
 			"fillStyle": "hachure",
@@ -30500,7 +30500,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30543,8 +30543,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1038408600,
+			"version": 60,
+			"versionNonce": 219830760,
 			"isDeleted": false,
 			"id": "J55cJDUPhzhhCJ0mRAPqC",
 			"fillStyle": "hachure",
@@ -30563,7 +30563,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30658,8 +30658,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 605702632,
+			"version": 77,
+			"versionNonce": 733911192,
 			"isDeleted": false,
 			"id": "MjS17Ek2uOSz1gq3WnN_1",
 			"fillStyle": "hachure",
@@ -30678,7 +30678,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30841,8 +30841,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 2029365400,
+			"version": 61,
+			"versionNonce": 1736891624,
 			"isDeleted": false,
 			"id": "zrOXqG3DUgdQgf04erD-y",
 			"fillStyle": "hachure",
@@ -30861,7 +30861,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30964,8 +30964,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 2030619880,
+			"version": 46,
+			"versionNonce": 1586480536,
 			"isDeleted": false,
 			"id": "kgdQ9TQXFffwVnvEfJyvX",
 			"fillStyle": "hachure",
@@ -30984,7 +30984,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31027,8 +31027,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 308598168,
+			"version": 72,
+			"versionNonce": 1735065576,
 			"isDeleted": false,
 			"id": "OcrOKwtO2rPqqI6zvEJ2O",
 			"fillStyle": "hachure",
@@ -31047,7 +31047,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31194,8 +31194,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1395585000,
+			"version": 53,
+			"versionNonce": 1488147096,
 			"isDeleted": false,
 			"id": "MjxvBdWcq9jsFcMJqjebd",
 			"fillStyle": "hachure",
@@ -31214,7 +31214,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31285,8 +31285,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1868980888,
+			"version": 43,
+			"versionNonce": 1020445416,
 			"isDeleted": false,
 			"id": "AFJ4U30p_arwKXHmiKaXt",
 			"fillStyle": "hachure",
@@ -31305,7 +31305,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31336,8 +31336,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1788392168,
+			"version": 46,
+			"versionNonce": 1088241560,
 			"isDeleted": false,
 			"id": "1t4gcxgqOzclqr-DVHXer",
 			"fillStyle": "hachure",
@@ -31356,7 +31356,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31399,8 +31399,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 783175576,
+			"version": 65,
+			"versionNonce": 910829032,
 			"isDeleted": false,
 			"id": "DbHLM0x0mdP-zOfo6K5SD",
 			"fillStyle": "hachure",
@@ -31419,7 +31419,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31538,8 +31538,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 366089704,
+			"version": 83,
+			"versionNonce": 1195478168,
 			"isDeleted": false,
 			"id": "f3I3kiwbGYoR_exRmw-NX",
 			"fillStyle": "hachure",
@@ -31558,7 +31558,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31749,8 +31749,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 2020646040,
+			"version": 56,
+			"versionNonce": 1893542120,
 			"isDeleted": false,
 			"id": "EJbwsMRfD97rkJPomTHzU",
 			"fillStyle": "hachure",
@@ -31769,7 +31769,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31852,8 +31852,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 2045188328,
+			"version": 44,
+			"versionNonce": 1972648344,
 			"isDeleted": false,
 			"id": "bH0Yp7ymmHxSBtQ9Eu-UE",
 			"fillStyle": "hachure",
@@ -31872,7 +31872,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31907,8 +31907,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1314998680,
+			"version": 75,
+			"versionNonce": 135777256,
 			"isDeleted": false,
 			"id": "EThaJdoPnElrjliPndzvx",
 			"fillStyle": "hachure",
@@ -31927,7 +31927,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32086,8 +32086,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 979614696,
+			"version": 46,
+			"versionNonce": 2131314328,
 			"isDeleted": false,
 			"id": "GrUXG-PHjTy_OtqTpTZJ9",
 			"fillStyle": "hachure",
@@ -32106,7 +32106,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32149,8 +32149,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1538545304,
+			"version": 47,
+			"versionNonce": 1174802152,
 			"isDeleted": false,
 			"id": "4I85ONSQGYOTLZgV608sE",
 			"fillStyle": "hachure",
@@ -32169,7 +32169,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32216,8 +32216,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 693370600,
+			"version": 62,
+			"versionNonce": 273986456,
 			"isDeleted": false,
 			"id": "sSo7lc1MOxUTgwDsFI6ZU",
 			"fillStyle": "hachure",
@@ -32236,7 +32236,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32343,8 +32343,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1159578520,
+			"version": 63,
+			"versionNonce": 1395913192,
 			"isDeleted": false,
 			"id": "FOd6dSRMGqWQyXnCXxRb8",
 			"fillStyle": "hachure",
@@ -32363,7 +32363,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32474,8 +32474,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 2000937448,
+			"version": 54,
+			"versionNonce": 531267736,
 			"isDeleted": false,
 			"id": "rrRWAZDJy9LDgk5NnhCOt",
 			"fillStyle": "hachure",
@@ -32494,7 +32494,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037639,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32569,8 +32569,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 2026999960,
+			"version": 68,
+			"versionNonce": 1722643688,
 			"isDeleted": false,
 			"id": "mZer-jkZopLh7eL0AHuIM",
 			"fillStyle": "hachure",
@@ -32589,7 +32589,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32720,8 +32720,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1665098984,
+			"version": 47,
+			"versionNonce": 1019129240,
 			"isDeleted": false,
 			"id": "qD8E-1jB2Ny2vm6YJ4arn",
 			"fillStyle": "hachure",
@@ -32740,7 +32740,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32787,8 +32787,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 2122562968,
+			"version": 48,
+			"versionNonce": 1979619304,
 			"isDeleted": false,
 			"id": "paGJMiKgYA5cGv_F15N1x",
 			"fillStyle": "hachure",
@@ -32807,7 +32807,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32858,8 +32858,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1792182248,
+			"version": 42,
+			"versionNonce": 1623538328,
 			"isDeleted": false,
 			"id": "htHeom2XI52YnmfIKFvrA",
 			"fillStyle": "hachure",
@@ -32878,7 +32878,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32905,8 +32905,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1198017176,
+			"version": 49,
+			"versionNonce": 1697864424,
 			"isDeleted": false,
 			"id": "viw1ct47dCKQ5p7jEZ22p",
 			"fillStyle": "hachure",
@@ -32925,7 +32925,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32980,8 +32980,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 2047429352,
+			"version": 60,
+			"versionNonce": 1047668632,
 			"isDeleted": false,
 			"id": "M2T7tmT9fMQvGKLBORoNb",
 			"fillStyle": "hachure",
@@ -33000,7 +33000,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33099,8 +33099,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 2117285784,
+			"version": 52,
+			"versionNonce": 920108520,
 			"isDeleted": false,
 			"id": "RCeIRGAIXSBG3YDHczGUP",
 			"fillStyle": "hachure",
@@ -33119,7 +33119,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33186,8 +33186,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 460303848,
+			"version": 53,
+			"versionNonce": 301560984,
 			"isDeleted": false,
 			"id": "mlOD2Qq9NZ2KwABuG8teH",
 			"fillStyle": "hachure",
@@ -33206,7 +33206,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33277,8 +33277,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1461224600,
+			"version": 68,
+			"versionNonce": 1006092520,
 			"isDeleted": false,
 			"id": "TYZH0ZTv870iX7y9TUu3f",
 			"fillStyle": "hachure",
@@ -33297,7 +33297,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33428,8 +33428,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 672248040,
+			"version": 47,
+			"versionNonce": 1896817048,
 			"isDeleted": false,
 			"id": "_q203LdrhlE9_cB4yt-NI",
 			"fillStyle": "hachure",
@@ -33448,7 +33448,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33495,8 +33495,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1607217560,
+			"version": 48,
+			"versionNonce": 1142907880,
 			"isDeleted": false,
 			"id": "mwvz-nGVdqDGTllPe9SjU",
 			"fillStyle": "hachure",
@@ -33515,7 +33515,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33566,8 +33566,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 2004571112,
+			"version": 47,
+			"versionNonce": 451358360,
 			"isDeleted": false,
 			"id": "DuNn_lwjhRMnHgbxvoBqv",
 			"fillStyle": "hachure",
@@ -33586,7 +33586,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33633,8 +33633,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1333935768,
+			"version": 52,
+			"versionNonce": 1297786600,
 			"isDeleted": false,
 			"id": "jAFJVvrUUJtqR3wIc3NgF",
 			"fillStyle": "hachure",
@@ -33653,7 +33653,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33724,8 +33724,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 263755496,
+			"version": 54,
+			"versionNonce": 1211472792,
 			"isDeleted": false,
 			"id": "LxRR484VcH7IBCtcFbNDO",
 			"fillStyle": "hachure",
@@ -33744,7 +33744,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33823,8 +33823,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1458482072,
+			"version": 44,
+			"versionNonce": 875923944,
 			"isDeleted": false,
 			"id": "gt9hxmbA9-nEsN6TkNsr3",
 			"fillStyle": "hachure",
@@ -33843,7 +33843,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33882,8 +33882,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1431665128,
+			"version": 43,
+			"versionNonce": 2066639000,
 			"isDeleted": false,
 			"id": "m-T3YfmcAEzqxsZpUJjMj",
 			"fillStyle": "hachure",
@@ -33902,7 +33902,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33937,8 +33937,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1883601048,
+			"version": 62,
+			"versionNonce": 1673268456,
 			"isDeleted": false,
 			"id": "UBx75zo6S6c58cfSh9yzT",
 			"fillStyle": "hachure",
@@ -33957,7 +33957,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34068,8 +34068,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 996015336,
+			"version": 56,
+			"versionNonce": 1334154648,
 			"isDeleted": false,
 			"id": "b3EdpuclKgifM1_x_Vunt",
 			"fillStyle": "hachure",
@@ -34088,7 +34088,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34175,8 +34175,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 792372632,
+			"version": 77,
+			"versionNonce": 91893736,
 			"isDeleted": false,
 			"id": "IKoYBen-z2X6IjXp-VQHO",
 			"fillStyle": "hachure",
@@ -34195,7 +34195,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34366,8 +34366,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1935548392,
+			"version": 55,
+			"versionNonce": 1248797336,
 			"isDeleted": false,
 			"id": "beUISbcQ_QAb1GA4_FGW5",
 			"fillStyle": "hachure",
@@ -34386,7 +34386,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34469,8 +34469,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 285356696,
+			"version": 45,
+			"versionNonce": 830206696,
 			"isDeleted": false,
 			"id": "4jS5_b7mtWXzBCPM59G8b",
 			"fillStyle": "hachure",
@@ -34489,7 +34489,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34532,8 +34532,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 492954344,
+			"version": 41,
+			"versionNonce": 715067288,
 			"isDeleted": false,
 			"id": "F1bdsEdeIOZg218q_c6cL",
 			"fillStyle": "hachure",
@@ -34552,7 +34552,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34579,8 +34579,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1280319384,
+			"version": 43,
+			"versionNonce": 508384744,
 			"isDeleted": false,
 			"id": "IWN2FI3nUvTXyQdsazV7S",
 			"fillStyle": "hachure",
@@ -34599,7 +34599,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34634,8 +34634,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 2012562920,
+			"version": 40,
+			"versionNonce": 944331928,
 			"isDeleted": false,
 			"id": "uWjKPpcWQ8LJcYE7ahsRx",
 			"fillStyle": "hachure",
@@ -34654,7 +34654,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34677,8 +34677,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 559443096,
+			"version": 58,
+			"versionNonce": 1358584040,
 			"isDeleted": false,
 			"id": "ok95AyZ94JeyxLXfpH-dS",
 			"fillStyle": "hachure",
@@ -34697,7 +34697,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514898,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34792,8 +34792,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 270813416,
+			"version": 43,
+			"versionNonce": 354552216,
 			"isDeleted": false,
 			"id": "S3lkIcsGcyDItuh4zP4A5",
 			"fillStyle": "hachure",
@@ -34812,7 +34812,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34847,8 +34847,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 701438360,
+			"version": 50,
+			"versionNonce": 1292827624,
 			"isDeleted": false,
 			"id": "jwPJxNwtVGUgZ7bq63oCr",
 			"fillStyle": "hachure",
@@ -34867,7 +34867,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34930,8 +34930,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1903881192,
+			"version": 44,
+			"versionNonce": 207427224,
 			"isDeleted": false,
 			"id": "mH78zzlhU__zZBu_q4Yf5",
 			"fillStyle": "hachure",
@@ -34950,7 +34950,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34989,8 +34989,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 686302872,
+			"version": 68,
+			"versionNonce": 1150762728,
 			"isDeleted": false,
 			"id": "LcIJvk8W4SzPACYdamzSp",
 			"fillStyle": "hachure",
@@ -35009,7 +35009,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35144,8 +35144,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 87,
-			"versionNonce": 1443180264,
+			"version": 102,
+			"versionNonce": 1655604120,
 			"isDeleted": false,
 			"id": "n3HOmvnHmNVlxLZgRG5zv",
 			"fillStyle": "hachure",
@@ -35164,7 +35164,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -35176,8 +35176,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1532466072,
+			"version": 49,
+			"versionNonce": 1209999848,
 			"isDeleted": false,
 			"id": "_L3o0zdatSA5MSP7CYN-y",
 			"fillStyle": "hachure",
@@ -35196,7 +35196,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35295,8 +35295,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1448022504,
+			"version": 41,
+			"versionNonce": 642404504,
 			"isDeleted": false,
 			"id": "F4q7eXVznRlVjX-aR6d_v",
 			"fillStyle": "hachure",
@@ -35315,7 +35315,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35382,8 +35382,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1196515480,
+			"version": 37,
+			"versionNonce": 1991419112,
 			"isDeleted": false,
 			"id": "p-LzEEMcBYVP4v0yajHUM",
 			"fillStyle": "hachure",
@@ -35402,7 +35402,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35453,8 +35453,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 426022120,
+			"version": 31,
+			"versionNonce": 2128903576,
 			"isDeleted": false,
 			"id": "MwjJ2QdXY2jxC1P0FB-8k",
 			"fillStyle": "hachure",
@@ -35473,7 +35473,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35496,8 +35496,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 210341272,
+			"version": 31,
+			"versionNonce": 769509352,
 			"isDeleted": false,
 			"id": "GNtTsv73UNuOABI_jkd7y",
 			"fillStyle": "hachure",
@@ -35516,7 +35516,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35539,8 +35539,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 80852968,
+			"version": 65,
+			"versionNonce": 2108754584,
 			"isDeleted": false,
 			"id": "aiQcY0IgYSShsOwVq-apJ",
 			"fillStyle": "hachure",
@@ -35559,7 +35559,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35722,8 +35722,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 875829912,
+			"version": 67,
+			"versionNonce": 967609064,
 			"isDeleted": false,
 			"id": "g7cse56phase1JfUqh1K3",
 			"fillStyle": "hachure",
@@ -35742,7 +35742,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35913,8 +35913,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1822587624,
+			"version": 37,
+			"versionNonce": 1835267992,
 			"isDeleted": false,
 			"id": "ExN0i6AAuimIDWVMgvD3T",
 			"fillStyle": "hachure",
@@ -35933,7 +35933,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35984,8 +35984,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 17106840,
+			"version": 65,
+			"versionNonce": 78310888,
 			"isDeleted": false,
 			"id": "vChoy23usjZAihBm9vq3H",
 			"fillStyle": "hachure",
@@ -36004,7 +36004,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36167,8 +36167,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1130552808,
+			"version": 44,
+			"versionNonce": 573654168,
 			"isDeleted": false,
 			"id": "gslIJ59_Q3NXvS9020Ioq",
 			"fillStyle": "hachure",
@@ -36187,7 +36187,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36266,8 +36266,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1060131992,
+			"version": 66,
+			"versionNonce": 1206186216,
 			"isDeleted": false,
 			"id": "UqDqT0zE0lqdCOT8oZg2z",
 			"fillStyle": "hachure",
@@ -36286,7 +36286,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36453,8 +36453,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1243537640,
+			"version": 32,
+			"versionNonce": 1238167960,
 			"isDeleted": false,
 			"id": "IUHKXeCJ-RJ1AxlgmrbJo",
 			"fillStyle": "hachure",
@@ -36473,7 +36473,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36504,8 +36504,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 342491544,
+			"version": 29,
+			"versionNonce": 988189672,
 			"isDeleted": false,
 			"id": "l8tHXqImOR8twO_U0bnMr",
 			"fillStyle": "hachure",
@@ -36524,7 +36524,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36543,8 +36543,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1080198120,
+			"version": 64,
+			"versionNonce": 996867736,
 			"isDeleted": false,
 			"id": "I2lNtgoKQfZ7VoLP8UwKl",
 			"fillStyle": "hachure",
@@ -36563,7 +36563,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36722,8 +36722,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1340477080,
+			"version": 37,
+			"versionNonce": 1136383720,
 			"isDeleted": false,
 			"id": "InXIIGydHfgxnxVtx2mK_",
 			"fillStyle": "hachure",
@@ -36742,7 +36742,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36793,8 +36793,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 339330792,
+			"version": 61,
+			"versionNonce": 1203727256,
 			"isDeleted": false,
 			"id": "EdxAtPY_oe1utpihm4Iw0",
 			"fillStyle": "hachure",
@@ -36813,7 +36813,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36960,8 +36960,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 978877336,
+			"version": 69,
+			"versionNonce": 653310440,
 			"isDeleted": false,
 			"id": "7_eSxAcwDPDg6OS7A0a19",
 			"fillStyle": "hachure",
@@ -36980,7 +36980,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37159,8 +37159,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 305179112,
+			"version": 56,
+			"versionNonce": 150878360,
 			"isDeleted": false,
 			"id": "-8UJJhDipf7lhFYelUu5x",
 			"fillStyle": "hachure",
@@ -37179,7 +37179,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37306,8 +37306,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1710573720,
+			"version": 37,
+			"versionNonce": 932265192,
 			"isDeleted": false,
 			"id": "Ulqxql-yaKRgSEACIdVut",
 			"fillStyle": "hachure",
@@ -37326,7 +37326,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37377,8 +37377,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 357772520,
+			"version": 36,
+			"versionNonce": 853239192,
 			"isDeleted": false,
 			"id": "MXgyL4gBUp79juvrqADSF",
 			"fillStyle": "hachure",
@@ -37397,7 +37397,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37444,8 +37444,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 2121299352,
+			"version": 34,
+			"versionNonce": 120152040,
 			"isDeleted": false,
 			"id": "Wm6JLbLYBzV79Pe7UjiNK",
 			"fillStyle": "hachure",
@@ -37464,7 +37464,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37503,8 +37503,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 925716456,
+			"version": 47,
+			"versionNonce": 1653273240,
 			"isDeleted": false,
 			"id": "mB_XwdiRfi1sPnOTjXhtw",
 			"fillStyle": "hachure",
@@ -37523,7 +37523,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37614,8 +37614,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 419299992,
+			"version": 36,
+			"versionNonce": 365241064,
 			"isDeleted": false,
 			"id": "BiM36OwQF4cpQ2bsnGfOc",
 			"fillStyle": "hachure",
@@ -37634,7 +37634,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37681,8 +37681,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 2144015080,
+			"version": 69,
+			"versionNonce": 1858133912,
 			"isDeleted": false,
 			"id": "dYWeDRoZYW955-GOT4Yv0",
 			"fillStyle": "hachure",
@@ -37701,7 +37701,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37880,8 +37880,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 72478616,
+			"version": 42,
+			"versionNonce": 32540136,
 			"isDeleted": false,
 			"id": "IF7-hYfYgKijIkrHi6JGk",
 			"fillStyle": "hachure",
@@ -37900,7 +37900,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37971,8 +37971,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 364410344,
+			"version": 61,
+			"versionNonce": 934358168,
 			"isDeleted": false,
 			"id": "WpL9yZ_tQCQ7QFiW4pyyl",
 			"fillStyle": "hachure",
@@ -37991,7 +37991,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38138,8 +38138,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 413154456,
+			"version": 37,
+			"versionNonce": 951552232,
 			"isDeleted": false,
 			"id": "hHJPE3nQ7fUCY1ELf4D8U",
 			"fillStyle": "hachure",
@@ -38158,7 +38158,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38209,8 +38209,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1845590248,
+			"version": 65,
+			"versionNonce": 1997527448,
 			"isDeleted": false,
 			"id": "bUUkMbPzUCSTH2slsuG9y",
 			"fillStyle": "hachure",
@@ -38229,7 +38229,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38392,8 +38392,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 127723928,
+			"version": 44,
+			"versionNonce": 631647208,
 			"isDeleted": false,
 			"id": "_m1kwYFFF9I5LnxxUd86d",
 			"fillStyle": "hachure",
@@ -38412,7 +38412,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38491,8 +38491,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 2083658728,
+			"version": 55,
+			"versionNonce": 269543064,
 			"isDeleted": false,
 			"id": "wiMnj-Kd12qKTWxKSD86m",
 			"fillStyle": "hachure",
@@ -38511,7 +38511,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38634,8 +38634,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 746321560,
+			"version": 37,
+			"versionNonce": 1657302760,
 			"isDeleted": false,
 			"id": "zl9kVgIvBRh6ABGUp-XUO",
 			"fillStyle": "hachure",
@@ -38654,7 +38654,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38705,8 +38705,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1649827560,
+			"version": 68,
+			"versionNonce": 1600672664,
 			"isDeleted": false,
 			"id": "ffylGkWGElApCT_H4RcaL",
 			"fillStyle": "hachure",
@@ -38725,7 +38725,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38900,8 +38900,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1542546328,
+			"version": 36,
+			"versionNonce": 1755992552,
 			"isDeleted": false,
 			"id": "Qj8OspCGBeyYe5qxBx1Gk",
 			"fillStyle": "hachure",
@@ -38920,7 +38920,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38967,8 +38967,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 553271784,
+			"version": 35,
+			"versionNonce": 189407384,
 			"isDeleted": false,
 			"id": "s8d0HZVPSnwtBXyHlCWIz",
 			"fillStyle": "hachure",
@@ -38987,7 +38987,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39030,8 +39030,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 875638936,
+			"version": 59,
+			"versionNonce": 1045943528,
 			"isDeleted": false,
 			"id": "VJNzgYtSuNvRwOBs_0KuR",
 			"fillStyle": "hachure",
@@ -39050,7 +39050,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39189,8 +39189,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1193919720,
+			"version": 37,
+			"versionNonce": 1399475608,
 			"isDeleted": false,
 			"id": "FDaqe-jGEN_NIP5SolGLI",
 			"fillStyle": "hachure",
@@ -39209,7 +39209,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037640,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39260,8 +39260,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1827626392,
+			"version": 60,
+			"versionNonce": 693958632,
 			"isDeleted": false,
 			"id": "xYWq66JqhaTjF4jQqHv6q",
 			"fillStyle": "hachure",
@@ -39280,7 +39280,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39423,8 +39423,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 577824744,
+			"version": 45,
+			"versionNonce": 1627183768,
 			"isDeleted": false,
 			"id": "RFHT5qtGbKKkY7iszoDBg",
 			"fillStyle": "hachure",
@@ -39443,7 +39443,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39526,8 +39526,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 660597400,
+			"version": 55,
+			"versionNonce": 1573239528,
 			"isDeleted": false,
 			"id": "4WWvtbI1p5LgUHz2n65Pl",
 			"fillStyle": "hachure",
@@ -39546,7 +39546,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39669,8 +39669,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1859889896,
+			"version": 59,
+			"versionNonce": 381011864,
 			"isDeleted": false,
 			"id": "SrLmzdei8Tv_A-nWEDrPd",
 			"fillStyle": "hachure",
@@ -39689,7 +39689,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39828,8 +39828,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1043781528,
+			"version": 39,
+			"versionNonce": 773725672,
 			"isDeleted": false,
 			"id": "nTor3N7zHMtFSkeGvpUVS",
 			"fillStyle": "hachure",
@@ -39848,7 +39848,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39907,8 +39907,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 116788712,
+			"version": 65,
+			"versionNonce": 1623790744,
 			"isDeleted": false,
 			"id": "IKYGWrSdtqTqNBAQqThq2",
 			"fillStyle": "hachure",
@@ -39927,7 +39927,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40090,8 +40090,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 363340952,
+			"version": 90,
+			"versionNonce": 997335272,
 			"isDeleted": false,
 			"id": "wa2UpqXNRiCvJKra9bv1N",
 			"fillStyle": "hachure",
@@ -40110,7 +40110,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40245,8 +40245,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 332140776,
+			"version": 39,
+			"versionNonce": 82493848,
 			"isDeleted": false,
 			"id": "NX8vBvBf5QKopQ3OBlm_Y",
 			"fillStyle": "hachure",
@@ -40265,7 +40265,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40324,8 +40324,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1801965976,
+			"version": 41,
+			"versionNonce": 625853416,
 			"isDeleted": false,
 			"id": "aNlNQJKeo6bipMsFyGzJl",
 			"fillStyle": "hachure",
@@ -40344,7 +40344,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40411,8 +40411,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1021948904,
+			"version": 63,
+			"versionNonce": 1917767320,
 			"isDeleted": false,
 			"id": "y2PnvOH3M2EcpgHhwQPdy",
 			"fillStyle": "hachure",
@@ -40431,7 +40431,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40586,8 +40586,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 648666776,
+			"version": 48,
+			"versionNonce": 968689384,
 			"isDeleted": false,
 			"id": "Qw0fSMdbgdTtgGjObA0wf",
 			"fillStyle": "hachure",
@@ -40606,7 +40606,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40701,8 +40701,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1482356456,
+			"version": 38,
+			"versionNonce": 296303512,
 			"isDeleted": false,
 			"id": "jF3QPH4_VbMkqf_y-Hohx",
 			"fillStyle": "hachure",
@@ -40721,7 +40721,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40776,8 +40776,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 673336216,
+			"version": 56,
+			"versionNonce": 625732072,
 			"isDeleted": false,
 			"id": "kKsvuBUmTwAjsrpT2XaoV",
 			"fillStyle": "hachure",
@@ -40796,7 +40796,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40923,8 +40923,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 447470056,
+			"version": 36,
+			"versionNonce": 355338392,
 			"isDeleted": false,
 			"id": "ZJIOoUPDDRrs757b6QeB2",
 			"fillStyle": "hachure",
@@ -40943,7 +40943,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40990,8 +40990,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 436541592,
+			"version": 36,
+			"versionNonce": 587623656,
 			"isDeleted": false,
 			"id": "fyYNnmCeVctOt0Ua2lb8d",
 			"fillStyle": "hachure",
@@ -41010,7 +41010,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41057,8 +41057,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1189633256,
+			"version": 42,
+			"versionNonce": 1217475992,
 			"isDeleted": false,
 			"id": "dVagOfWHLXmzbFrZL52g1",
 			"fillStyle": "hachure",
@@ -41077,7 +41077,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41148,8 +41148,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1074152856,
+			"version": 34,
+			"versionNonce": 746098664,
 			"isDeleted": false,
 			"id": "GhyWRF0tFskDwjz0jf83A",
 			"fillStyle": "hachure",
@@ -41168,7 +41168,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41207,8 +41207,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1587314664,
+			"version": 63,
+			"versionNonce": 1627832984,
 			"isDeleted": false,
 			"id": "dAAbqLi3JXuplECbWRp8B",
 			"fillStyle": "hachure",
@@ -41227,7 +41227,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41382,8 +41382,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1197068952,
+			"version": 43,
+			"versionNonce": 699290344,
 			"isDeleted": false,
 			"id": "Nalcf9hfjea-V64ddc2fo",
 			"fillStyle": "hachure",
@@ -41402,7 +41402,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41477,8 +41477,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1372865256,
+			"version": 35,
+			"versionNonce": 1296215960,
 			"isDeleted": false,
 			"id": "RkLDZkdORVR4P6Fp6Js4q",
 			"fillStyle": "hachure",
@@ -41497,7 +41497,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41540,8 +41540,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 380878744,
+			"version": 69,
+			"versionNonce": 557037032,
 			"isDeleted": false,
 			"id": "qsVtiM8tM2ftc8hlNmoDJ",
 			"fillStyle": "hachure",
@@ -41560,7 +41560,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41739,8 +41739,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 790341096,
+			"version": 62,
+			"versionNonce": 91815064,
 			"isDeleted": false,
 			"id": "uAvF1wNPhE3zGPtQfnEzO",
 			"fillStyle": "hachure",
@@ -41759,7 +41759,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41910,8 +41910,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 508038296,
+			"version": 44,
+			"versionNonce": 1746188520,
 			"isDeleted": false,
 			"id": "SM9luO-ZiY_0rfy_wEBJN",
 			"fillStyle": "hachure",
@@ -41930,7 +41930,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42009,8 +42009,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1400809704,
+			"version": 40,
+			"versionNonce": 1532864920,
 			"isDeleted": false,
 			"id": "rd-jxjJObWzUKSr-Dmyod",
 			"fillStyle": "hachure",
@@ -42029,7 +42029,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42092,8 +42092,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 667597208,
+			"version": 41,
+			"versionNonce": 1373461480,
 			"isDeleted": false,
 			"id": "kME0YYIdHXAubDY9HOhLZ",
 			"fillStyle": "hachure",
@@ -42112,7 +42112,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42179,8 +42179,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 445205480,
+			"version": 41,
+			"versionNonce": 1243920024,
 			"isDeleted": false,
 			"id": "22vi9KnSbgbC1fmSNF6Dm",
 			"fillStyle": "hachure",
@@ -42199,7 +42199,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42266,8 +42266,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 644859544,
+			"version": 40,
+			"versionNonce": 1620680424,
 			"isDeleted": false,
 			"id": "c-P7ts1jSAIe7tPa0IR6X",
 			"fillStyle": "hachure",
@@ -42286,7 +42286,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42349,8 +42349,8 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 		},
 		{
 			"type": "image",
-			"version": 122,
-			"versionNonce": 239570664,
+			"version": 137,
+			"versionNonce": 1182933912,
 			"isDeleted": false,
 			"id": "J7aGt8SU8geR1dn4_gPK2",
 			"fillStyle": "hachure",
@@ -42369,7 +42369,7 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1675363037641,
+			"updated": 1675363514899,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -42397,11 +42397,11 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 330256024,
-			"version": 49,
-			"versionNonce": 941109736,
+			"version": 64,
+			"versionNonce": 1960149480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363274470,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -42412,28 +42412,28 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			]
 		},
 		{
+			"id": "IKyik9lLi9aVjJ7G1zPLj",
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 2101262488,
-			"isDeleted": true,
-			"id": "ezfLoURKj5hbpbp7p6j5M",
+			"x": -1950.0943924414032,
+			"y": 11264.09326869117,
+			"width": 41.25,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -1462.1128861990342,
-			"y": 10496.820206748936,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 111.99767410789036,
-			"height": 98.75063738545214,
-			"seed": 691654505,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271008,
+			"seed": 517134312,
+			"version": 44,
+			"versionNonce": 246018200,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42442,6642 +42442,144 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					-77.07366820327957,
-					-6.021380328380474
+					0,
+					7.5
 				],
 				[
-					-83.09504853166072,
-					-2.4085521313518257
+					1.25,
+					8.75
 				],
 				[
-					-84.29932459733709,
-					-2.4085521313518257
+					1.25,
+					23.75
 				],
 				[
-					-89.11642886004188,
-					6.021380328382293
+					2.5,
+					42.5
 				],
 				[
-					-89.11642886004188,
-					8.429932459734118
+					2.5,
+					58.75
 				],
 				[
-					-89.11642886004188,
-					13.247036722439589
+					2.5,
+					73.75
 				],
 				[
-					-49.37531869272607,
-					36.1282819702883
+					3.75,
+					82.5
+				],
+				[
+					3.75,
+					85
+				],
+				[
+					3.75,
+					72.5
+				],
+				[
+					2.5,
+					51.25
 				],
 				[
 					0,
-					54.19242295543154
+					30
 				],
 				[
-					22.881245247848483,
-					68.64373574354613
+					-2.5,
+					7.5
 				],
 				[
-					22.881245247848483,
-					69.84801180922295
+					-5,
+					-16.25
 				],
 				[
-					22.881245247848483,
-					71.05228787489978
+					-5,
+					-25
 				],
 				[
-					20.472693116495975,
-					80.6864964003089
+					-2.5,
+					-31.25
 				],
 				[
-					4.817104262705016,
-					90.32070492571802
+					1.25,
+					-35
 				],
 				[
-					-22.88124524784871,
-					92.72925705707166
+					11.25,
+					-35
 				],
 				[
-					-25.28979737920099,
-					92.72925705707166
+					25,
+					-30
 				],
 				[
-					-27.698349510553726,
-					92.72925705707166
+					31.25,
+					-22.5
 				],
 				[
-					-36.12828197028739,
-					89.11642886004302
+					35,
+					-15
 				],
 				[
-					-36.12828197028739,
-					89.11642886004302
+					36.25,
+					-6.25
+				],
+				[
+					35,
+					2.5
+				],
+				[
+					31.25,
+					11.25
+				],
+				[
+					21.25,
+					16.25
+				],
+				[
+					13.75,
+					17.5
+				],
+				[
+					8.75,
+					17.5
+				],
+				[
+					8.75,
+					17.5
 				]
 			],
-			"lastCommittedPoint": null,
+			"pressures": [],
 			"simulatePressure": true,
-			"pressures": []
+			"lastCommittedPoint": [
+				8.75,
+				17.5
+			]
 		},
 		{
+			"id": "YP82DelQAw-LaT48knePa",
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 93895912,
-			"isDeleted": true,
-			"id": "cPbj21faTZrN8r_dsTiDq",
+			"x": -1866.3443924414032,
+			"y": 11339.09326869117,
+			"width": 38.75,
+			"height": 51.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -1391.060598324136,
-			"y": 10526.927108390842,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0.0001,
-			"height": 0.0001,
-			"seed": 737103913,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271008,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1259070872,
-			"isDeleted": true,
-			"id": "B8LPKR98BTcD0tbfus1uF",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1391.060598324136,
-			"y": 10571.485322820865,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0.0001,
-			"height": 0.0001,
-			"seed": 66907655,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271008,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 675340264,
-			"isDeleted": true,
-			"id": "Y7TiaEZalXsd7ZdkG3skD",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1297.127065201389,
-			"y": 10511.271519537051,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 72.25656394057432,
-			"height": 62.62235541516566,
-			"seed": 1760359625,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.408552131352508,
-					8.429932459734118
-				],
-				[
-					-3.612828197028648,
-					32.51545377325965
-				],
-				[
-					-3.612828197028648,
-					37.33255803596512
-				],
-				[
-					-3.612828197028648,
-					43.353938364345595
-				],
-				[
-					-3.612828197028648,
-					59.00952721813701
-				],
-				[
-					-2.408552131352508,
-					62.62235541516566
-				],
-				[
-					-2.408552131352508,
-					61.418079349488835
-				],
-				[
-					-2.408552131352508,
-					57.80525115246019
-				],
-				[
-					1.2042760656763676,
-					39.74111016731695
-				],
-				[
-					2.408552131352508,
-					37.33255803596512
-				],
-				[
-					10.838484591086171,
-					24.085521313525533
-				],
-				[
-					16.859864919467327,
-					20.472693116496885
-				],
-				[
-					21.676969182172343,
-					22.88124524784871
-				],
-				[
-					26.49407344487736,
-					33.71972983893647
-				],
-				[
-					30.106901641906006,
-					44.55821443002242
-				],
-				[
-					31.311177707582374,
-					44.55821443002242
-				],
-				[
-					32.515453773258514,
-					46.96676656137424
-				],
-				[
-					32.515453773258514,
-					45.76249049569742
-				],
-				[
-					36.12828197028739,
-					38.536834101640125
-				],
-				[
-					45.76249049569719,
-					22.88124524784871
-				],
-				[
-					45.76249049569719,
-					21.676969182173707
-				],
-				[
-					57.80525115245973,
-					13.247036722439589
-				],
-				[
-					59.00952721813587,
-					15.655588853791414
-				],
-				[
-					63.82663148084089,
-					30.106901641906006
-				],
-				[
-					67.43945967786954,
-					46.96676656137424
-				],
-				[
-					68.64373574354568,
-					52.98814688975472
-				],
-				[
-					68.64373574354568,
-					52.98814688975472
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 548106904,
-			"isDeleted": true,
-			"id": "VtefznY340-FJ360vdDwa",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1128.5284160067154,
-			"y": 10551.012629704368,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 8.429932459733664,
-			"height": 36.12828197028648,
-			"seed": 1826390023,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.4085521313522804,
-					21.676969182171888
-				],
-				[
-					-2.4085521313522804,
-					22.88124524784871
-				],
-				[
-					-8.429932459733664,
-					36.12828197028648
-				],
-				[
-					-8.429932459733664,
-					36.12828197028648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
+			"seed": 1229590680,
 			"version": 42,
-			"versionNonce": 669819624,
-			"isDeleted": true,
-			"id": "CV8BO-K5_ZmjXPYg6bBSu",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1059.8846802631695,
-			"y": 10487.185998223527,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 85.50360066301323,
-			"height": 90.32070492571802,
-			"seed": 1891758057,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					16.859864919467555,
-					65.03090754651748
-				],
-				[
-					19.268417050819835,
-					72.25656394057478
-				],
-				[
-					20.472693116496202,
-					79.48222033463207
-				],
-				[
-					20.472693116496202,
-					75.86939213760343
-				],
-				[
-					12.042760656762539,
-					44.5582144300206
-				],
-				[
-					10.838484591086171,
-					37.3325580359633
-				],
-				[
-					8.429932459733891,
-					30.106901641906006
-				],
-				[
-					4.817104262705016,
-					8.429932459734118
-				],
-				[
-					9.634208525410031,
-					-8.429932459734118
-				],
-				[
-					9.634208525410031,
-					-9.63420852541094
-				],
-				[
-					13.24703672243868,
-					-9.63420852541094
-				],
-				[
-					18.064140985143695,
-					-10.838484591085944
-				],
-				[
-					21.676969182172343,
-					-3.612828197028648
-				],
-				[
-					21.676969182172343,
-					13.24703672243777
-				],
-				[
-					13.24703672243868,
-					36.12828197028648
-				],
-				[
-					7.225656394057523,
-					44.5582144300206
-				],
-				[
-					3.6128281970288754,
-					48.171042627049246
-				],
-				[
-					-2.408552131352508,
-					51.783870824077894
-				],
-				[
-					2.408552131352508,
-					50.57959475840289
-				],
-				[
-					9.634208525410031,
-					50.57959475840289
-				],
-				[
-					21.676969182172343,
-					51.783870824077894
-				],
-				[
-					36.128281970287276,
-					59.00952721813519
-				],
-				[
-					46.96676656137345,
-					63.82663148084066
-				],
-				[
-					46.96676656137345,
-					65.03090754651748
-				],
-				[
-					52.98814688975472,
-					68.64373574354613
-				],
-				[
-					60.213803283812126,
-					72.25656394057478
-				],
-				[
-					69.84801180922204,
-					73.46084000624978
-				],
-				[
-					72.25656394057455,
-					73.46084000624978
-				],
-				[
-					83.09504853166072,
-					74.6651160719266
-				],
-				[
-					83.09504853166072,
-					74.6651160719266
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 349265816,
-			"isDeleted": true,
-			"id": "d8BGMO2QhZM1mCA7IjNJ5",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -980.4024599285375,
-			"y": 10528.13138445652,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 24.08552131352485,
-			"height": 9.634208525409122,
-			"seed": 2003860969,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.204276065676254,
-					0
-				],
-				[
-					8.429932459733777,
-					-1.2042760656768223
-				],
-				[
-					19.26841705081995,
-					-3.612828197028648
-				],
-				[
-					24.08552131352485,
-					-6.021380328380474
-				],
-				[
-					24.08552131352485,
-					-8.429932459734118
-				],
-				[
-					24.08552131352485,
-					-9.634208525409122
-				],
-				[
-					24.08552131352485,
-					-9.634208525409122
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1663567336,
-			"isDeleted": true,
-			"id": "_ka_OZ2BlognkYOMgyBxZ",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -974.3810796001562,
-			"y": 10483.573170026499,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 19.268417050819835,
-			"height": 65.03090754651748,
-			"seed": 1652827559,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.408552131352508,
-					14.451312788114592
-				],
-				[
-					8.429932459733664,
-					37.3325580359633
-				],
-				[
-					9.634208525409917,
-					38.536834101640125
-				],
-				[
-					16.859864919467327,
-					59.00952721813519
-				],
-				[
-					16.859864919467327,
-					60.21380328381201
-				],
-				[
-					19.268417050819835,
-					65.03090754651748
-				],
-				[
-					19.268417050819835,
-					65.03090754651748
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1202826392,
-			"isDeleted": true,
-			"id": "RO-NyTbMsSuokRMp9NK_9",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -908.145895987963,
-			"y": 10512.475795602728,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 78.27794426895582,
-			"height": 87.91215279436437,
-			"seed": 1473167305,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-3.612828197028648
-				],
-				[
-					1.204276065676254,
-					-6.021380328380474
-				],
-				[
-					2.408552131352508,
-					-9.634208525409122
-				],
-				[
-					3.6128281970287617,
-					-13.24703672243777
-				],
-				[
-					8.429932459733664,
-					-26.49407344487736
-				],
-				[
-					9.634208525409917,
-					-42.14966229866877
-				],
-				[
-					9.634208525409917,
-					-44.5582144300206
-				],
-				[
-					9.634208525409917,
-					-45.76249049569742
-				],
-				[
-					4.817104262705016,
-					-52.98814688975472
-				],
-				[
-					1.204276065676254,
-					-54.19242295542972
-				],
-				[
-					-1.204276065676254,
-					-51.783870824077894
-				],
-				[
-					-3.6128281970287617,
-					-33.719729838934654
-				],
-				[
-					-3.6128281970287617,
-					-32.51545377325783
-				],
-				[
-					-3.6128281970287617,
-					-25.289797379200536
-				],
-				[
-					-1.204276065676254,
-					-8.429932459734118
-				],
-				[
-					-1.204276065676254,
-					-7.225656394057296
-				],
-				[
-					3.6128281970287617,
-					9.63420852541094
-				],
-				[
-					4.817104262705016,
-					14.451312788114592
-				],
-				[
-					4.817104262705016,
-					20.472693116496885
-				],
-				[
-					6.0213803283812695,
-					25.289797379202355
-				],
-				[
-					6.0213803283812695,
-					26.49407344487736
-				],
-				[
-					6.0213803283812695,
-					28.902625576229184
-				],
-				[
-					6.0213803283812695,
-					30.106901641906006
-				],
-				[
-					6.0213803283812695,
-					28.902625576229184
-				],
-				[
-					6.0213803283812695,
-					26.49407344487736
-				],
-				[
-					6.0213803283812695,
-					19.268417050820062
-				],
-				[
-					7.22565639405741,
-					9.63420852541094
-				],
-				[
-					7.22565639405741,
-					8.429932459734118
-				],
-				[
-					8.429932459733664,
-					6.021380328382293
-				],
-				[
-					8.429932459733664,
-					4.81710426270547
-				],
-				[
-					10.838484591086171,
-					1.2042760656768223
-				],
-				[
-					14.451312788114933,
-					-2.4085521313518257
-				],
-				[
-					19.268417050819835,
-					-4.81710426270547
-				],
-				[
-					20.47269311649609,
-					-4.81710426270547
-				],
-				[
-					27.698349510553612,
-					-1.2042760656768223
-				],
-				[
-					37.33255803596353,
-					7.225656394057296
-				],
-				[
-					49.375318692725955,
-					24.085521313525533
-				],
-				[
-					54.19242295543086,
-					30.106901641906006
-				],
-				[
-					56.600975086783365,
-					32.51545377325965
-				],
-				[
-					56.600975086783365,
-					33.719729838934654
-				],
-				[
-					59.00952721813587,
-					32.51545377325965
-				],
-				[
-					65.03090754651703,
-					31.31117770758283
-				],
-				[
-					74.66511607192706,
-					28.902625576229184
-				],
-				[
-					74.66511607192706,
-					28.902625576229184
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 117377256,
-			"isDeleted": true,
-			"id": "eOrs-GdbQZb0ZktQVZ9zg",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -733.525866464908,
-			"y": 10525.722832325167,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 10.838484591086171,
-			"height": 51.783870824077894,
-			"seed": 1530501609,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					14.451312788114592
-				],
-				[
-					4.817104262705016,
-					14.451312788114592
-				],
-				[
-					4.817104262705016,
-					15.655588853789595
-				],
-				[
-					8.429932459733891,
-					26.49407344487736
-				],
-				[
-					10.838484591086171,
-					36.12828197028648
-				],
-				[
-					10.838484591086171,
-					37.3325580359633
-				],
-				[
-					10.838484591086171,
-					42.14966229866877
-				],
-				[
-					9.634208525410031,
-					48.171042627049246
-				],
-				[
-					4.817104262705016,
-					51.783870824077894
-				],
-				[
-					3.6128281970288754,
-					51.783870824077894
-				],
-				[
-					2.408552131352508,
-					51.783870824077894
-				],
-				[
-					2.408552131352508,
-					51.783870824077894
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 855660952,
-			"isDeleted": true,
-			"id": "inXMwIJn3-cjfyanhO-Tv",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -644.4094376048658,
-			"y": 10473.938961501088,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 59.00952721813587,
-			"height": 91.52498099139484,
-			"seed": 661555721,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.4085521313522804,
-					28.902625576231003
-				],
-				[
-					4.817104262704788,
-					44.55821443002242
-				],
-				[
-					6.021380328381156,
-					46.96676656137424
-				],
-				[
-					7.225656394057296,
-					54.19242295543154
-				],
-				[
-					7.225656394057296,
-					49.37531869272607
-				],
-				[
-					6.021380328381156,
-					37.3325580359633
-				],
-				[
-					-6.021380328381383,
-					7.225656394057296
-				],
-				[
-					-15.655588853791187,
-					-14.451312788114592
-				],
-				[
-					-18.064140985143695,
-					-26.49407344487736
-				],
-				[
-					-16.859864919467555,
-					-31.31117770758101
-				],
-				[
-					-4.817104262705016,
-					-34.92400590460966
-				],
-				[
-					9.634208525409804,
-					-36.12828197028648
-				],
-				[
-					10.838484591086171,
-					-36.12828197028648
-				],
-				[
-					16.859864919467327,
-					-37.3325580359633
-				],
-				[
-					28.90262557622964,
-					-37.3325580359633
-				],
-				[
-					36.12828197028716,
-					-37.3325580359633
-				],
-				[
-					38.53683410163967,
-					-37.3325580359633
-				],
-				[
-					40.94538623299218,
-					-37.3325580359633
-				],
-				[
-					40.94538623299218,
-					-37.3325580359633
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1056812008,
-			"isDeleted": true,
-			"id": "rJeb8LRUWAMKRVQvTYQtE",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -639.592333342161,
-			"y": 10472.734685435413,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 45.76249049569719,
-			"height": 3.612828197028648,
-			"seed": 1544022599,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					0
-				],
-				[
-					6.021380328381383,
-					0
-				],
-				[
-					26.49407344487736,
-					-3.612828197028648
-				],
-				[
-					40.94538623299218,
-					-3.612828197028648
-				],
-				[
-					44.55821443002105,
-					-3.612828197028648
-				],
-				[
-					45.76249049569719,
-					-3.612828197028648
-				],
-				[
-					45.76249049569719,
-					-3.612828197028648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 2045863576,
-			"isDeleted": true,
-			"id": "aAsx4SJ5P4KuUB0AYq9i7",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1363.3622488135825,
-			"y": 10948.423731377527,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 52.98814688975449,
-			"height": 50.57959475840107,
-			"seed": 986277161,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.225656394057523,
-					-2.4085521313518257
-				],
-				[
-					6.021380328381383,
-					-3.612828197028648
-				],
-				[
-					3.6128281970288754,
-					-9.634208525409122
-				],
-				[
-					-1.2042760656761402,
-					-38.536834101640125
-				],
-				[
-					-1.2042760656761402,
-					-42.149662298666954
-				],
-				[
-					-1.2042760656761402,
-					-43.353938364343776
-				],
-				[
-					7.225656394057523,
-					-46.966766561372424
-				],
-				[
-					9.634208525410031,
-					-46.966766561372424
-				],
-				[
-					15.655588853791187,
-					-49.37531869272607
-				],
-				[
-					31.311177707582374,
-					-49.37531869272607
-				],
-				[
-					39.74111016731604,
-					-50.57959475840107
-				],
-				[
-					42.149662298668545,
-					-50.57959475840107
-				],
-				[
-					46.96676656137356,
-					-50.57959475840107
-				],
-				[
-					48.1710426270497,
-					-50.57959475840107
-				],
-				[
-					51.78387082407835,
-					-50.57959475840107
-				],
-				[
-					51.78387082407835,
-					-50.57959475840107
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1697640168,
-			"isDeleted": true,
-			"id": "eC0obMJc9uSeQcLSxa7Vv",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1368.1793530762873,
-			"y": 10909.886897275886,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 18.064140985143467,
-			"height": 96.34208525410031,
-			"seed": 1487240969,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.817104262704788,
-					24.085521313525533
-				],
-				[
-					7.225656394057523,
-					34.92400590461148
-				],
-				[
-					8.429932459733664,
-					37.33255803596512
-				],
-				[
-					12.042760656762312,
-					56.60097508678518
-				],
-				[
-					12.042760656762312,
-					59.00952721813701
-				],
-				[
-					12.042760656762312,
-					60.21380328381383
-				],
-				[
-					14.45131278811482,
-					80.6864964003089
-				],
-				[
-					15.655588853791187,
-					93.93353312274849
-				],
-				[
-					15.655588853791187,
-					95.13780918842349
-				],
-				[
-					15.655588853791187,
-					96.34208525410031
-				],
-				[
-					15.655588853791187,
-					95.13780918842349
-				],
-				[
-					16.859864919467327,
-					91.52498099139484
-				],
-				[
-					18.064140985143467,
-					85.50360066301437
-				],
-				[
-					18.064140985143467,
-					85.50360066301437
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 960025496,
-			"isDeleted": true,
-			"id": "VYVYbsmXLFbgePIl0l_u_",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1354.9323163538488,
-			"y": 10936.380970720766,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 32.515453773258514,
-			"height": 6.021380328380474,
-			"seed": 610215433,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.2042760656761402,
-					3.612828197028648
-				],
-				[
-					-1.2042760656761402,
-					4.817104262703651
-				],
-				[
-					0,
-					4.817104262703651
-				],
-				[
-					2.408552131352735,
-					4.817104262703651
-				],
-				[
-					8.429932459733891,
-					4.817104262703651
-				],
-				[
-					18.064140985143695,
-					1.2042760656750033
-				],
-				[
-					26.49407344487736,
-					-1.2042760656768223
-				],
-				[
-					31.311177707582374,
-					-1.2042760656768223
-				],
-				[
-					31.311177707582374,
-					-1.2042760656768223
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 841077224,
-			"isDeleted": true,
-			"id": "nP_wfuKPbrPvKEqdQDHTl",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1241.730366180282,
-			"y": 10925.542486129678,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 36.12828197028739,
-			"height": 1.2042760656750033,
-			"seed": 266868391,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					12.042760656762539,
-					0
-				],
-				[
-					13.24703672243868,
-					0
-				],
-				[
-					14.451312788115047,
-					0
-				],
-				[
-					26.49407344487736,
-					-1.2042760656750033
-				],
-				[
-					34.92400590461102,
-					-1.2042760656750033
-				],
-				[
-					36.12828197028739,
-					-1.2042760656750033
-				],
-				[
-					36.12828197028739,
-					-1.2042760656750033
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1460314264,
-			"isDeleted": true,
-			"id": "KNxyTmjZNtxch21n9Ed7M",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1211.6234645383759,
-			"y": 10938.789522852117,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 33.71972983893488,
-			"height": 1.2042760656768223,
-			"seed": 1331093193,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.408552131352508,
-					0
-				],
-				[
-					7.225656394057523,
-					0
-				],
-				[
-					12.042760656762539,
-					1.2042760656768223
-				],
-				[
-					20.472693116496202,
-					1.2042760656768223
-				],
-				[
-					27.6983495105535,
-					1.2042760656768223
-				],
-				[
-					33.71972983893488,
-					0
-				],
-				[
-					33.71972983893488,
-					0
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1826575592,
-			"isDeleted": true,
-			"id": "J2oyltXyh4i80ZFEllVDY",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1052.659023869112,
-			"y": 10785.846462511236,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 48.1710426270497,
-			"height": 45.76249049569742,
-			"seed": 1410413255,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.612828197028648,
-					12.042760656760947
-				],
-				[
-					7.225656394057296,
-					27.69834951055236
-				],
-				[
-					8.429932459733664,
-					32.51545377325783
-				],
-				[
-					7.225656394057296,
-					32.51545377325783
-				],
-				[
-					4.817104262705016,
-					25.289797379200536
-				],
-				[
-					2.408552131352508,
-					13.24703672243777
-				],
-				[
-					2.408552131352508,
-					10.838484591085944
-				],
-				[
-					4.817104262705016,
-					3.612828197028648
-				],
-				[
-					7.225656394057296,
-					2.4085521313518257
-				],
-				[
-					8.429932459733664,
-					2.4085521313518257
-				],
-				[
-					9.634208525410031,
-					6.021380328380474
-				],
-				[
-					10.838484591086171,
-					9.634208525409122
-				],
-				[
-					10.838484591086171,
-					12.042760656760947
-				],
-				[
-					12.042760656762312,
-					16.859864919466418
-				],
-				[
-					13.24703672243868,
-					16.859864919466418
-				],
-				[
-					14.45131278811482,
-					12.042760656760947
-				],
-				[
-					22.88124524784871,
-					-6.021380328382293
-				],
-				[
-					32.515453773258514,
-					-13.247036722439589
-				],
-				[
-					33.71972983893477,
-					-12.042760656762766
-				],
-				[
-					34.92400590461102,
-					-10.838484591087763
-				],
-				[
-					40.94538623299218,
-					2.4085521313518257
-				],
-				[
-					44.55821443002094,
-					14.451312788114592
-				],
-				[
-					46.96676656137345,
-					20.472693116495066
-				],
-				[
-					48.1710426270497,
-					21.676969182171888
-				],
-				[
-					48.1710426270497,
-					21.676969182171888
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1394265496,
-			"isDeleted": true,
-			"id": "OX1aWCTxQ4eGoDEjFH2TS",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1077.948821248313,
-			"y": 10847.264541860723,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 125.24471083032904,
-			"height": 15.655588853791414,
-			"seed": 1993068169,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.4085521313522804,
-					0
-				],
-				[
-					3.612828197028648,
-					0
-				],
-				[
-					22.881245247848483,
-					-4.817104262703651
-				],
-				[
-					34.92400590461102,
-					-6.021380328380474
-				],
-				[
-					60.21380328381201,
-					-8.4299324597323
-				],
-				[
-					81.89077246598436,
-					-9.634208525409122
-				],
-				[
-					91.52498099139427,
-					-9.634208525409122
-				],
-				[
-					92.72925705707053,
-					-9.634208525409122
-				],
-				[
-					97.54636131977543,
-					-9.634208525409122
-				],
-				[
-					103.5677416481567,
-					-10.838484591085944
-				],
-				[
-					104.77201771383295,
-					-10.838484591085944
-				],
-				[
-					105.9762937795092,
-					-10.838484591085944
-				],
-				[
-					110.79339804221411,
-					-12.042760656762766
-				],
-				[
-					113.20195017356662,
-					-12.042760656762766
-				],
-				[
-					114.40622623924287,
-					-13.24703672243777
-				],
-				[
-					116.81477837059538,
-					-13.24703672243777
-				],
-				[
-					121.63188263330028,
-					-14.451312788114592
-				],
-				[
-					124.04043476465279,
-					-15.655588853791414
-				],
-				[
-					125.24471083032904,
-					-15.655588853791414
-				],
-				[
-					125.24471083032904,
-					-15.655588853791414
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 452229096,
-			"isDeleted": true,
-			"id": "4d9w7s1kYtmMFauXgx6-i",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1057.476128131817,
-			"y": 10878.575719568305,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.698349510553726,
-			"height": 55.39669902110654,
-			"seed": 1413027369,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-8.429932459733664,
-					19.268417050820062
-				],
-				[
-					-9.634208525410031,
-					33.719729838934654
-				],
-				[
-					-8.429932459733664,
-					40.94538623299195
-				],
-				[
-					-7.225656394057296,
-					42.14966229866877
-				],
-				[
-					-4.817104262705016,
-					45.76249049569742
-				],
-				[
-					4.817104262705016,
-					52.98814688975472
-				],
-				[
-					14.451312788115047,
-					55.39669902110654
-				],
-				[
-					18.064140985143695,
-					55.39669902110654
-				],
-				[
-					18.064140985143695,
-					55.39669902110654
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 379411096,
-			"isDeleted": true,
-			"id": "j4YbO3t8Y1GqKpR6-CJ7g",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1037.003435015321,
-			"y": 10890.618480225068,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 28.90262557622998,
-			"height": 57.80525115246019,
-			"seed": 410750087,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					31.31117770758283
-				],
-				[
-					4.817104262705016,
-					36.12828197028648
-				],
-				[
-					6.021380328381383,
-					43.353938364343776
-				],
-				[
-					7.225656394057751,
-					44.5582144300206
-				],
-				[
-					7.225656394057751,
-					43.353938364343776
-				],
-				[
-					6.021380328381383,
-					26.49407344487736
-				],
-				[
-					3.6128281970288754,
-					7.225656394057296
-				],
-				[
-					7.225656394057751,
-					-12.042760656762766
-				],
-				[
-					15.6555888537913,
-					-13.247036722439589
-				],
-				[
-					20.472693116496316,
-					-9.63420852541094
-				],
-				[
-					21.676969182172456,
-					0
-				],
-				[
-					14.451312788115047,
-					16.859864919466418
-				],
-				[
-					8.429932459733891,
-					21.676969182171888
-				],
-				[
-					10.838484591086399,
-					24.085521313523714
-				],
-				[
-					13.247036722438793,
-					27.69834951055236
-				],
-				[
-					20.472693116496316,
-					39.74111016731513
-				],
-				[
-					27.698349510553726,
-					42.14966229866877
-				],
-				[
-					28.90262557622998,
-					42.14966229866877
-				],
-				[
-					28.90262557622998,
-					42.14966229866877
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 812464872,
-			"isDeleted": true,
-			"id": "k_K1Y7FPijN3We9BPuUJe",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1004.4879812420622,
-			"y": 10912.29544940724,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 24.085521313524737,
-			"height": 9.634208525409122,
-			"seed": 347284521,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					9.634208525409917,
-					-3.612828197028648
-				],
-				[
-					15.655588853791073,
-					-6.021380328380474
-				],
-				[
-					21.676969182172343,
-					-7.225656394057296
-				],
-				[
-					22.881245247848597,
-					-7.225656394057296
-				],
-				[
-					24.085521313524737,
-					-9.634208525409122
-				],
-				[
-					24.085521313524737,
-					-9.634208525409122
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1145456536,
-			"isDeleted": true,
-			"id": "HP2wdIkN5rX2I79zLF2ua",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -993.6494966509761,
-			"y": 10882.188547765334,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 3.612828197028648,
-			"height": 31.31117770758283,
-			"seed": 1092569001,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656761402,
-					20.472693116496885
-				],
-				[
-					1.2042760656761402,
-					21.676969182171888
-				],
-				[
-					2.408552131352394,
-					28.902625576229184
-				],
-				[
-					2.408552131352394,
-					30.106901641906006
-				],
-				[
-					3.612828197028648,
-					31.31117770758283
-				],
-				[
-					3.612828197028648,
-					31.31117770758283
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1070964200,
-			"isDeleted": true,
-			"id": "L_A-qKxe6FloVtlMF5HpR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -961.1340428777175,
-			"y": 10888.209928093715,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 15.655588853791187,
-			"height": 61.418079349488835,
-			"seed": 178105129,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8.429932459733664,
-					-14.451312788114592
-				],
-				[
-					10.838484591086171,
-					-26.49407344487736
-				],
-				[
-					12.042760656762425,
-					-30.106901641906006
-				],
-				[
-					12.042760656762425,
-					-34.92400590460966
-				],
-				[
-					9.634208525409917,
-					-37.3325580359633
-				],
-				[
-					3.612828197028648,
-					-33.719729838934654
-				],
-				[
-					2.408552131352508,
-					-31.31117770758101
-				],
-				[
-					1.204276065676254,
-					-26.49407344487736
-				],
-				[
-					-2.408552131352508,
-					-15.655588853789595
-				],
-				[
-					-3.6128281970287617,
-					2.4085521313536447
-				],
-				[
-					-2.408552131352508,
-					16.859864919468237
-				],
-				[
-					-1.204276065676254,
-					24.085521313525533
-				],
-				[
-					0,
-					24.085521313525533
-				],
-				[
-					0,
-					22.88124524784871
-				],
-				[
-					0,
-					16.859864919468237
-				],
-				[
-					0,
-					6.021380328382293
-				],
-				[
-					1.204276065676254,
-					2.4085521313536447
-				],
-				[
-					1.204276065676254,
-					1.2042760656768223
-				],
-				[
-					3.612828197028648,
-					0
-				],
-				[
-					6.021380328381156,
-					1.2042760656768223
-				],
-				[
-					7.22565639405741,
-					7.225656394057296
-				],
-				[
-					7.22565639405741,
-					8.429932459734118
-				],
-				[
-					9.634208525409917,
-					14.451312788116411
-				],
-				[
-					10.838484591086171,
-					15.655588853791414
-				],
-				[
-					10.838484591086171,
-					16.859864919468237
-				],
-				[
-					12.042760656762425,
-					18.06414098514506
-				],
-				[
-					12.042760656762425,
-					18.06414098514506
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 139039896,
-			"isDeleted": true,
-			"id": "TGlMS4Aau_c4oEqX-Ul1Y",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -941.8656258268977,
-			"y": 10855.694474320457,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 45.76249049569719,
-			"height": 72.25656394057478,
-			"seed": 998442919,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.22565639405741,
-					1.2042760656768223
-				],
-				[
-					10.838484591086171,
-					3.612828197028648
-				],
-				[
-					14.451312788114933,
-					6.021380328380474
-				],
-				[
-					16.85986491946744,
-					7.225656394057296
-				],
-				[
-					30.106901641906006,
-					18.06414098514324
-				],
-				[
-					42.14966229866843,
-					31.31117770758283
-				],
-				[
-					45.76249049569719,
-					46.96676656137424
-				],
-				[
-					43.353938364344685,
-					65.03090754651748
-				],
-				[
-					43.353938364344685,
-					66.2351836121943
-				],
-				[
-					38.53683410163978,
-					72.25656394057478
-				],
-				[
-					37.33255803596353,
-					72.25656394057478
-				],
-				[
-					36.128281970287276,
-					72.25656394057478
-				],
-				[
-					34.92400590461102,
-					66.2351836121943
-				],
-				[
-					34.92400590461102,
-					66.2351836121943
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 708419816,
-			"isDeleted": true,
-			"id": "aTUJeJttzo13-Zn3EkrBR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -915.3715523820204,
-			"y": 10825.58757267855,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 30.106901641906006,
-			"height": 24.085521313525533,
-			"seed": 517189799,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.612828197028648,
-					-1.2042760656768223
-				],
-				[
-					7.22565639405741,
-					-1.2042760656768223
-				],
-				[
-					12.042760656762425,
-					-1.2042760656768223
-				],
-				[
-					13.24703672243868,
-					0
-				],
-				[
-					13.24703672243868,
-					1.2042760656768223
-				],
-				[
-					12.042760656762425,
-					7.225656394057296
-				],
-				[
-					10.838484591086171,
-					10.838484591085944
-				],
-				[
-					10.838484591086171,
-					13.247036722439589
-				],
-				[
-					12.042760656762425,
-					15.655588853791414
-				],
-				[
-					19.268417050819835,
-					19.268417050820062
-				],
-				[
-					28.902625576229752,
-					22.88124524784871
-				],
-				[
-					30.106901641906006,
-					22.88124524784871
-				],
-				[
-					30.106901641906006,
-					21.676969182171888
-				],
-				[
-					30.106901641906006,
-					21.676969182171888
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1191807896,
-			"isDeleted": true,
-			"id": "2lC1XfHviMyM9fIIOUrjL",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1407.9204632436088,
-			"y": 11190.483220578473,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 69.84801180922182,
-			"height": 59.00952721813519,
-			"seed": 405494183,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.408552131352508,
-					-4.81710426270547
-				],
-				[
-					-2.408552131352508,
-					-6.021380328380474
-				],
-				[
-					-3.612828197028648,
-					-9.63420852541094
-				],
-				[
-					-2.408552131352508,
-					-19.268417050820062
-				],
-				[
-					7.225656394057523,
-					-26.49407344487736
-				],
-				[
-					19.268417050819835,
-					-28.902625576229184
-				],
-				[
-					30.106901641906006,
-					-19.268417050820062
-				],
-				[
-					31.311177707582374,
-					-18.06414098514324
-				],
-				[
-					37.33255803596353,
-					-2.4085521313518257
-				],
-				[
-					38.53683410163967,
-					2.4085521313518257
-				],
-				[
-					38.53683410163967,
-					6.021380328380474
-				],
-				[
-					42.149662298668545,
-					19.268417050820062
-				],
-				[
-					46.96676656137356,
-					28.902625576229184
-				],
-				[
-					50.57959475840221,
-					30.106901641906006
-				],
-				[
-					57.805251152459505,
-					28.902625576229184
-				],
-				[
-					63.82663148084089,
-					26.49407344487736
-				],
-				[
-					66.23518361219317,
-					20.472693116495066
-				],
-				[
-					66.23518361219317,
-					18.06414098514324
-				],
-				[
-					66.23518361219317,
-					18.06414098514324
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 819501544,
-			"isDeleted": true,
-			"id": "sDRNuyLFpJinPVQDPIGff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1380.2221137330553,
-			"y": 11220.59012222038,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 6.021380328381383,
-			"height": 63.82663148084066,
-			"seed": 1994367241,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.2042760656768223
-				],
-				[
-					1.2042760656763676,
-					-8.429932459734118
-				],
-				[
-					2.408552131352508,
-					-25.289797379200536
-				],
-				[
-					2.408552131352508,
-					-43.353938364343776
-				],
-				[
-					4.817104262705016,
-					-56.600975086783365
-				],
-				[
-					6.021380328381383,
-					-63.82663148084066
-				],
-				[
-					6.021380328381383,
-					-63.82663148084066
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1510234264,
-			"isDeleted": true,
-			"id": "pxxVYW-hHrgcN9nA72pVO",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1334.459623237358,
-			"y": 11119.430932703575,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40.94538623299218,
-			"height": 91.52498099139484,
-			"seed": 1483592839,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8.429932459733891,
-					37.3325580359633
-				],
-				[
-					9.634208525410031,
-					45.76249049569742
-				],
-				[
-					12.042760656762539,
-					69.84801180922113
-				],
-				[
-					14.451312788115047,
-					80.68649640030708
-				],
-				[
-					14.451312788115047,
-					83.09504853166072
-				],
-				[
-					14.451312788115047,
-					81.8907724659839
-				],
-				[
-					14.451312788115047,
-					74.6651160719266
-				],
-				[
-					12.042760656762539,
-					59.00952721813519
-				],
-				[
-					9.634208525410031,
-					34.92400590461148
-				],
-				[
-					9.634208525410031,
-					32.51545377325783
-				],
-				[
-					8.429932459733891,
-					27.69834951055236
-				],
-				[
-					4.817104262705016,
-					9.634208525409122
-				],
-				[
-					3.6128281970288754,
-					-1.2042760656768223
-				],
-				[
-					2.408552131352508,
-					-3.612828197028648
-				],
-				[
-					3.6128281970288754,
-					-3.612828197028648
-				],
-				[
-					8.429932459733891,
-					-6.021380328382293
-				],
-				[
-					19.268417050819835,
-					-8.429932459734118
-				],
-				[
-					31.311177707582374,
-					-8.429932459734118
-				],
-				[
-					36.12828197028739,
-					-8.429932459734118
-				],
-				[
-					38.5368341016399,
-					-8.429932459734118
-				],
-				[
-					40.94538623299218,
-					-8.429932459734118
-				],
-				[
-					40.94538623299218,
-					-7.225656394057296
-				],
-				[
-					40.94538623299218,
-					-7.225656394057296
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 2038242536,
-			"isDeleted": true,
-			"id": "4O6zCd7Y9s0AheA8fjmaO",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1322.4168625805955,
-			"y": 11151.946386476833,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40.94538623299218,
-			"height": 3.612828197028648,
-			"seed": 1855399401,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.408552131352508,
-					0
-				],
-				[
-					3.612828197028648,
-					0
-				],
-				[
-					15.65558885379096,
-					-2.4085521313518257
-				],
-				[
-					33.719729838934654,
-					-3.612828197028648
-				],
-				[
-					34.92400590461102,
-					-3.612828197028648
-				],
-				[
-					36.12828197028716,
-					-3.612828197028648
-				],
-				[
-					40.94538623299218,
-					-3.612828197028648
-				],
-				[
-					40.94538623299218,
-					-3.612828197028648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1042122136,
-			"isDeleted": true,
-			"id": "FmQLpfHQuuC0Ux0m0KI2s",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1239.3218140489348,
-			"y": 11167.601975330625,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 34.92400590461102,
-			"height": 3.612828197028648,
-			"seed": 1970623561,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.817104262705016,
-					-1.2042760656768223
-				],
-				[
-					6.021380328381156,
-					-2.4085521313518257
-				],
-				[
-					12.042760656762312,
-					-2.4085521313518257
-				],
-				[
-					26.49407344487736,
-					-3.612828197028648
-				],
-				[
-					27.6983495105535,
-					-3.612828197028648
-				],
-				[
-					32.51545377325829,
-					-3.612828197028648
-				],
-				[
-					33.719729838934654,
-					-3.612828197028648
-				],
-				[
-					34.92400590461102,
-					-3.612828197028648
-				],
-				[
-					34.92400590461102,
-					-3.612828197028648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1620656104,
-			"isDeleted": true,
-			"id": "Yvwap7lyHQ0pj7Z0GCuUF",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1235.7089858519062,
-			"y": 11144.720730082776,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 20.472693116495975,
-			"height": 6.021380328380474,
-			"seed": 1560630375,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					0
-				],
-				[
-					3.612828197028648,
-					-1.2042760656768223
-				],
-				[
-					8.429932459733664,
-					-2.4085521313518257
-				],
-				[
-					15.655588853791187,
-					-4.81710426270547
-				],
-				[
-					19.268417050819835,
-					-6.021380328380474
-				],
-				[
-					20.472693116495975,
-					-6.021380328380474
-				],
-				[
-					20.472693116495975,
-					-6.021380328380474
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 8983192,
-			"isDeleted": true,
-			"id": "3tm2PgWqSmKS4NsJ042PI",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1081.5616494453473,
-			"y": 11045.970092697324,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 45.76249049569719,
-			"height": 36.1282819702883,
-			"seed": 783564041,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					16.859864919468237
-				],
-				[
-					6.021380328381156,
-					26.49407344487736
-				],
-				[
-					6.021380328381156,
-					27.69834951055418
-				],
-				[
-					6.021380328381156,
-					32.51545377325965
-				],
-				[
-					6.021380328381156,
-					26.49407344487736
-				],
-				[
-					7.225656394057523,
-					19.268417050820062
-				],
-				[
-					8.429932459733891,
-					8.429932459734118
-				],
-				[
-					10.838484591086171,
-					3.612828197028648
-				],
-				[
-					14.45131278811482,
-					2.4085521313536447
-				],
-				[
-					16.859864919467555,
-					2.4085521313536447
-				],
-				[
-					16.859864919467555,
-					3.612828197028648
-				],
-				[
-					18.064140985143695,
-					12.042760656762766
-				],
-				[
-					19.268417050819835,
-					16.859864919468237
-				],
-				[
-					19.268417050819835,
-					15.655588853791414
-				],
-				[
-					21.67696918217257,
-					12.042760656762766
-				],
-				[
-					28.902625576229866,
-					3.612828197028648
-				],
-				[
-					36.12828197028716,
-					-2.4085521313518257
-				],
-				[
-					39.74111016731604,
-					-3.612828197028648
-				],
-				[
-					40.94538623299218,
-					-3.612828197028648
-				],
-				[
-					42.149662298668545,
-					7.225656394057296
-				],
-				[
-					43.35393836434491,
-					19.268417050820062
-				],
-				[
-					44.55821443002105,
-					22.88124524784871
-				],
-				[
-					44.55821443002105,
-					24.085521313525533
-				],
-				[
-					45.76249049569719,
-					24.085521313525533
-				],
-				[
-					45.76249049569719,
-					24.085521313525533
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1983447784,
-			"isDeleted": true,
-			"id": "0SvCGfvl0AUv8F-OlDQ0C",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1138.1626245321306,
-			"y": 11100.162515652755,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 191.47989444252255,
-			"height": 16.859864919468237,
-			"seed": 1179973799,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656761402,
-					0
-				],
-				[
-					6.021380328381156,
-					-1.2042760656768223
-				],
-				[
-					33.71972983893488,
-					-7.225656394057296
-				],
-				[
-					37.33255803596353,
-					-7.225656394057296
-				],
-				[
-					91.52498099139439,
-					-12.042760656762766
-				],
-				[
-					150.53450820953026,
-					-15.655588853791414
-				],
-				[
-					152.94306034088277,
-					-15.655588853791414
-				],
-				[
-					186.66279017981753,
-					-16.859864919468237
-				],
-				[
-					189.07134231117004,
-					-16.859864919468237
-				],
-				[
-					191.47989444252255,
-					-16.859864919468237
-				],
-				[
-					191.47989444252255,
-					-16.859864919468237
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1744502680,
-			"isDeleted": true,
-			"id": "P5wNdyqB-KdXkz-MKQM_G",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1102.0343425618435,
-			"y": 11138.699349754395,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 55.396699021107,
-			"height": 65.03090754651748,
-			"seed": 925253257,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					21.676969182171888
-				],
-				[
-					1.2042760656763676,
-					42.149662298666954
-				],
-				[
-					1.2042760656763676,
-					50.57959475840107
-				],
-				[
-					1.2042760656763676,
-					54.19242295542972
-				],
-				[
-					1.2042760656763676,
-					52.98814688975472
-				],
-				[
-					-1.2042760656761402,
-					44.5582144300206
-				],
-				[
-					-1.2042760656761402,
-					43.353938364343776
-				],
-				[
-					-7.225656394057296,
-					20.472693116495066
-				],
-				[
-					-10.838484591085944,
-					2.4085521313518257
-				],
-				[
-					-10.838484591085944,
-					-4.81710426270547
-				],
-				[
-					-3.612828197028648,
-					-8.429932459734118
-				],
-				[
-					6.021380328381383,
-					-4.81710426270547
-				],
-				[
-					8.429932459733891,
-					-2.4085521313536447
-				],
-				[
-					10.838484591086399,
-					1.2042760656750033
-				],
-				[
-					14.451312788115047,
-					12.042760656760947
-				],
-				[
-					15.655588853791414,
-					22.88124524784871
-				],
-				[
-					12.042760656762539,
-					32.51545377325783
-				],
-				[
-					7.225656394057751,
-					34.92400590460966
-				],
-				[
-					7.225656394057751,
-					36.12828197028648
-				],
-				[
-					8.429932459733891,
-					36.12828197028648
-				],
-				[
-					13.24703672243868,
-					38.536834101640125
-				],
-				[
-					21.676969182172343,
-					42.149662298666954
-				],
-				[
-					27.698349510553726,
-					45.76249049569742
-				],
-				[
-					36.12828197028739,
-					50.57959475840107
-				],
-				[
-					37.33255803596376,
-					51.783870824077894
-				],
-				[
-					42.14966229866877,
-					54.19242295542972
-				],
-				[
-					44.55821443002105,
-					55.39669902110654
-				],
-				[
-					44.55821443002105,
-					56.600975086783365
-				],
-				[
-					44.55821443002105,
-					56.600975086783365
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1760060904,
-			"isDeleted": true,
-			"id": "AUw40o6ivYerz1ffD7_fX",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1068.3146127229086,
-			"y": 11166.397699264948,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 24.08552131352485,
-			"height": 4.817104262703651,
-			"seed": 336781671,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					-1.2042760656750033
-				],
-				[
-					4.817104262705016,
-					-1.2042760656750033
-				],
-				[
-					10.838484591086171,
-					-2.4085521313518257
-				],
-				[
-					18.064140985143695,
-					-3.612828197028648
-				],
-				[
-					21.676969182172343,
-					-4.817104262703651
-				],
-				[
-					22.881245247848483,
-					-4.817104262703651
-				],
-				[
-					24.08552131352485,
-					-4.817104262703651
-				],
-				[
-					24.08552131352485,
-					-4.817104262703651
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1750811032,
-			"isDeleted": true,
-			"id": "xfJ35e_X52vjWaSnwmhpF",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -850.3406448355088,
-			"y": 10814.749088087487,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 16.85986491946744,
-			"height": 1.2042760656750033,
-			"seed": 1870012679,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970287617,
-					1.2042760656750033
-				],
-				[
-					4.817104262705016,
-					1.2042760656750033
-				],
-				[
-					8.429932459733664,
-					1.2042760656750033
-				],
-				[
-					14.451312788114933,
-					0
-				],
-				[
-					16.85986491946744,
-					0
-				],
-				[
-					16.85986491946744,
-					0
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 1327842280,
-			"isDeleted": true,
-			"id": "5ja4GKkvHzveHi-HYVv8m",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -840.7064363100989,
-			"y": 10831.608953006953,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 24.08552131352485,
-			"height": 1.2042760656768223,
-			"seed": 1231414663,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363271009,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					10.838484591086171,
-					-1.2042760656768223
-				],
-				[
-					16.85986491946744,
-					-1.2042760656768223
-				],
-				[
-					24.08552131352485,
-					-1.2042760656768223
-				],
-				[
-					24.08552131352485,
-					-1.2042760656768223
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 2002231272,
-			"isDeleted": true,
-			"id": "S948yF-mv18z9kkGoSTDD",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -658.8607503929863,
-			"y": 10755.73956086935,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 45.76249049569719,
-			"height": 27.69834951055418,
-			"seed": 1514004199,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					15.655588853791414
-				],
-				[
-					4.817104262705016,
-					20.472693116496885
-				],
-				[
-					4.817104262705016,
-					16.859864919468237
-				],
-				[
-					7.225656394057523,
-					9.63420852541094
-				],
-				[
-					10.838484591086171,
-					3.612828197028648
-				],
-				[
-					13.24703672243868,
-					2.4085521313518257
-				],
-				[
-					15.655588853791187,
-					1.2042760656768223
-				],
-				[
-					16.859864919467327,
-					1.2042760656768223
-				],
-				[
-					20.472693116496202,
-					1.2042760656768223
-				],
-				[
-					21.676969182172343,
-					6.021380328382293
-				],
-				[
-					24.08552131352485,
-					12.042760656762766
-				],
-				[
-					25.289797379201218,
-					9.63420852541094
-				],
-				[
-					26.49407344487736,
-					4.81710426270547
-				],
-				[
-					31.311177707582374,
-					-2.4085521313518257
-				],
-				[
-					37.33255803596353,
-					-6.021380328380474
-				],
-				[
-					38.5368341016399,
-					-7.225656394057296
-				],
-				[
-					40.94538623299218,
-					-7.225656394057296
-				],
-				[
-					42.149662298668545,
-					-7.225656394057296
-				],
-				[
-					43.353938364344685,
-					-3.612828197028648
-				],
-				[
-					44.55821443002105,
-					-1.2042760656750033
-				],
-				[
-					45.76249049569719,
-					2.4085521313518257
-				],
-				[
-					45.76249049569719,
-					6.021380328382293
-				],
-				[
-					45.76249049569719,
-					9.63420852541094
-				],
-				[
-					45.76249049569719,
-					10.838484591085944
-				],
-				[
-					45.76249049569719,
-					10.838484591085944
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 56668824,
-			"isDeleted": true,
-			"id": "nAWWSfh2gGii4wmcY-cNC",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -735.9344185962657,
-			"y": 10796.684947102342,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 217.9739678873998,
-			"height": 18.06414098514324,
-			"seed": 1740892265,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.612828197028648,
-					0
-				],
-				[
-					4.817104262704788,
-					0
-				],
-				[
-					6.021380328381156,
-					0
-				],
-				[
-					43.353938364344685,
-					-7.225656394057296
-				],
-				[
-					55.396699021107,
-					-8.4299324597323
-				],
-				[
-					68.64373574354568,
-					-9.634208525409122
-				],
-				[
-					119.22333050194788,
-					-10.838484591085944
-				],
-				[
-					174.62002952305488,
-					-13.24703672243777
-				],
-				[
-					209.5440354276659,
-					-16.859864919466418
-				],
-				[
-					217.9739678873998,
-					-18.06414098514324
-				],
-				[
-					217.9739678873998,
-					-18.06414098514324
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1714119400,
-			"isDeleted": true,
-			"id": "ZdRvwdmLv_63XYgQeAMui",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -702.214688757331,
-			"y": 10840.038885466687,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 43.353938364344685,
-			"height": 59.00952721813519,
-			"seed": 1088980327,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.2042760656761402,
-					6.021380328380474
-				],
-				[
-					-1.2042760656761402,
-					8.429932459734118
-				],
-				[
-					-2.408552131352508,
-					15.655588853791414
-				],
-				[
-					-2.408552131352508,
-					25.289797379200536
-				],
-				[
-					-3.612828197028648,
-					42.14966229866877
-				],
-				[
-					-3.612828197028648,
-					46.966766561372424
-				],
-				[
-					-3.612828197028648,
-					44.5582144300206
-				],
-				[
-					-9.634208525409804,
-					26.49407344487736
-				],
-				[
-					-10.838484591086171,
-					21.676969182171888
-				],
-				[
-					-12.042760656762312,
-					16.859864919466418
-				],
-				[
-					-14.45131278811482,
-					0
-				],
-				[
-					-4.817104262705016,
-					-12.042760656762766
-				],
-				[
-					2.408552131352508,
-					-9.63420852541094
-				],
-				[
-					3.612828197028648,
-					-9.63420852541094
-				],
-				[
-					6.021380328381156,
-					-2.4085521313536447
-				],
-				[
-					4.817104262705016,
-					7.225656394057296
-				],
-				[
-					-3.612828197028648,
-					16.859864919466418
-				],
-				[
-					-6.021380328381156,
-					18.06414098514324
-				],
-				[
-					-6.021380328381156,
-					19.268417050820062
-				],
-				[
-					-2.408552131352508,
-					21.676969182171888
-				],
-				[
-					-1.2042760656761402,
-					21.676969182171888
-				],
-				[
-					13.24703672243868,
-					28.902625576229184
-				],
-				[
-					27.6983495105535,
-					34.92400590461148
-				],
-				[
-					28.902625576229866,
-					34.92400590461148
-				],
-				[
-					28.902625576229866,
-					34.92400590461148
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1860083608,
-			"isDeleted": true,
-			"id": "tqoYLf2rRvMIvhc1CsuML",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -684.1505477721873,
-			"y": 10814.749088087487,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 21.676969182172343,
-			"height": 22.88124524784871,
-			"seed": 767719913,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					13.24703672243868,
-					-6.021380328382293
-				],
-				[
-					14.45131278811482,
-					-6.021380328382293
-				],
-				[
-					15.655588853791187,
-					-6.021380328382293
-				],
-				[
-					14.45131278811482,
-					7.225656394057296
-				],
-				[
-					8.429932459733664,
-					14.451312788114592
-				],
-				[
-					9.634208525409804,
-					14.451312788114592
-				],
-				[
-					14.45131278811482,
-					15.655588853789595
-				],
-				[
-					20.472693116495975,
-					16.859864919466418
-				],
-				[
-					21.676969182172343,
-					16.859864919466418
-				],
-				[
-					21.676969182172343,
-					16.859864919466418
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1804518888,
-			"isDeleted": true,
-			"id": "9_hGdvF8AMkk4zmi-ow9W",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -642.000885473519,
-			"y": 10846.060265795068,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25.289797379201218,
-			"height": 2.4085521313518257,
-			"seed": 1641166633,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					22.88124524784871,
-					-1.2042760656750033
-				],
-				[
-					25.289797379201218,
-					-2.4085521313518257
-				],
-				[
-					25.289797379201218,
-					-2.4085521313518257
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 503738600,
-			"isDeleted": true,
-			"id": "Y97g0O63tIhAABjI1VTcx",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -633.5709530137851,
-			"y": 10830.404676941276,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 1.2042760656761402,
-			"height": 39.74111016731695,
-			"seed": 1096048167,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363037642,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					14.451312788116411
-				],
-				[
-					0,
-					16.859864919468237
-				],
-				[
-					0,
-					19.268417050820062
-				],
-				[
-					0,
-					25.289797379202355
-				],
-				[
-					1.2042760656761402,
-					30.106901641906006
-				],
-				[
-					1.2042760656761402,
-					36.1282819702883
-				],
-				[
-					1.2042760656761402,
-					39.74111016731695
-				],
-				[
-					1.2042760656761402,
-					39.74111016731695
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1846996120,
-			"isDeleted": true,
-			"id": "hH9YqwoL_LfzVORzBEi0r",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -607.076879568908,
-			"y": 10832.81322907263,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 31.311177707582374,
-			"height": 43.353938364343776,
-			"seed": 745645511,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970288754,
-					-8.429932459734118
-				],
-				[
-					7.225656394057523,
-					-15.655588853791414
-				],
-				[
-					12.042760656762539,
-					-19.268417050820062
-				],
-				[
-					14.451312788115047,
-					-19.268417050820062
-				],
-				[
-					18.064140985143695,
-					-18.06414098514324
-				],
-				[
-					19.268417050820062,
-					-12.042760656762766
-				],
-				[
-					19.268417050820062,
-					1.2042760656750033
-				],
-				[
-					19.268417050820062,
-					2.4085521313518257
-				],
-				[
-					19.268417050820062,
-					10.838484591085944
-				],
-				[
-					15.655588853791187,
-					18.06414098514324
-				],
-				[
-					14.451312788115047,
-					18.06414098514324
-				],
-				[
-					9.634208525410031,
-					20.472693116495066
-				],
-				[
-					8.429932459733891,
-					20.472693116495066
-				],
-				[
-					8.429932459733891,
-					18.06414098514324
-				],
-				[
-					13.24703672243868,
-					14.451312788114592
-				],
-				[
-					19.268417050820062,
-					13.24703672243777
-				],
-				[
-					26.49407344487736,
-					18.06414098514324
-				],
-				[
-					30.106901641906234,
-					24.085521313523714
-				],
-				[
-					31.311177707582374,
-					24.085521313523714
-				],
-				[
-					31.311177707582374,
-					20.472693116495066
-				],
-				[
-					31.311177707582374,
-					20.472693116495066
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1418578152,
-			"isDeleted": true,
-			"id": "UqOVtI9c-hemTjJB2n--0",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -558.9058369418583,
-			"y": 10814.749088087487,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 20.472693116496202,
-			"height": 48.171042627049246,
-			"seed": 1408240073,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					7.225656394057296
-				],
-				[
-					1.2042760656763676,
-					8.4299324597323
-				],
-				[
-					2.408552131352508,
-					20.472693116495066
-				],
-				[
-					2.408552131352508,
-					21.676969182171888
-				],
-				[
-					3.6128281970288754,
-					33.719729838934654
-				],
-				[
-					3.6128281970288754,
-					34.92400590460966
-				],
-				[
-					3.6128281970288754,
-					33.719729838934654
-				],
-				[
-					2.408552131352508,
-					24.085521313523714
-				],
-				[
-					0,
-					7.225656394057296
-				],
-				[
-					-1.2042760656761402,
-					-2.4085521313536447
-				],
-				[
-					-1.2042760656761402,
-					-8.429932459734118
-				],
-				[
-					6.021380328381383,
-					-12.042760656762766
-				],
-				[
-					7.225656394057523,
-					-13.247036722439589
-				],
-				[
-					9.634208525410031,
-					-13.247036722439589
-				],
-				[
-					13.24703672243868,
-					-10.838484591087763
-				],
-				[
-					14.451312788115047,
-					-10.838484591087763
-				],
-				[
-					16.859864919467555,
-					-3.612828197030467
-				],
-				[
-					12.042760656762539,
-					10.838484591085944
-				],
-				[
-					10.838484591086171,
-					12.042760656760947
-				],
-				[
-					0,
-					20.472693116495066
-				],
-				[
-					-2.408552131352508,
-					21.676969182171888
-				],
-				[
-					-3.612828197028648,
-					22.88124524784689
-				],
-				[
-					-2.408552131352508,
-					24.085521313523714
-				],
-				[
-					0,
-					25.289797379200536
-				],
-				[
-					6.021380328381383,
-					28.902625576229184
-				],
-				[
-					8.429932459733664,
-					31.31117770758101
-				],
-				[
-					10.838484591086171,
-					31.31117770758101
-				],
-				[
-					10.838484591086171,
-					31.31117770758101
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1522375064,
-			"isDeleted": true,
-			"id": "YNtGvXmX1MAiy5qb8-E-0",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -532.4117634969809,
-			"y": 10809.931983824781,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 20.472693116495975,
-			"height": 37.3325580359633,
-			"seed": 329800937,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					13.24703672243777
-				],
-				[
-					0,
-					14.451312788114592
-				],
-				[
-					0,
-					15.655588853791414
-				],
-				[
-					-1.2042760656761402,
-					26.49407344487736
-				],
-				[
-					-1.2042760656761402,
-					30.106901641906006
-				],
-				[
-					-1.2042760656761402,
-					31.31117770758101
-				],
-				[
-					7.225656394057523,
-					20.472693116495066
-				],
-				[
-					9.634208525410031,
-					20.472693116495066
-				],
-				[
-					18.064140985143695,
-					37.3325580359633
-				],
-				[
-					19.268417050819835,
-					37.3325580359633
-				],
-				[
-					19.268417050819835,
-					33.719729838934654
-				],
-				[
-					19.268417050819835,
-					33.719729838934654
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1823763432,
-			"isDeleted": true,
-			"id": "yaUYUqqkt5vd8DZcwM5VC",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -534.8203156283334,
-			"y": 10782.233634314227,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 96.3420852540994,
-			"height": 14.451312788114592,
-			"seed": 396799241,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					-1.2042760656768223
-				],
-				[
-					4.817104262705016,
-					-2.4085521313518257
-				],
-				[
-					14.451312788115047,
-					-4.81710426270547
-				],
-				[
-					34.92400590461102,
-					-8.429932459734118
-				],
-				[
-					37.33255803596353,
-					-8.429932459734118
-				],
-				[
-					60.21380328381224,
-					-10.838484591085944
-				],
-				[
-					80.68649640030822,
-					-13.24703672243777
-				],
-				[
-					95.13780918842326,
-					-14.451312788114592
-				],
-				[
-					96.3420852540994,
-					-14.451312788114592
-				],
-				[
-					96.3420852540994,
-					-14.451312788114592
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 939959960,
-			"isDeleted": true,
-			"id": "ARjU0FYTxAeqFigglUy_g",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -491.46637726398876,
-			"y": 10812.340535956133,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 15.655588853791187,
-			"height": 4.81710426270547,
-			"seed": 855478857,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					0
-				],
-				[
-					6.021380328381383,
-					0
-				],
-				[
-					8.429932459733891,
-					0
-				],
-				[
-					9.634208525410031,
-					-1.2042760656768223
-				],
-				[
-					10.838484591086171,
-					-1.2042760656768223
-				],
-				[
-					12.042760656762539,
-					-2.4085521313518257
-				],
-				[
-					15.655588853791187,
-					-4.81710426270547
-				],
-				[
-					15.655588853791187,
-					-4.81710426270547
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 772714216,
-			"isDeleted": true,
-			"id": "ue-rgRmevuuIUunCMZDYf",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -490.2621011983124,
-			"y": 10796.684947102342,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 1.2042760656763676,
-			"height": 25.289797379202355,
-			"seed": 174851241,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					4.81710426270547
-				],
-				[
-					-1.2042760656763676,
-					13.247036722439589
-				],
-				[
-					-1.2042760656763676,
-					21.676969182173707
-				],
-				[
-					-1.2042760656763676,
-					25.289797379202355
-				],
-				[
-					0,
-					25.289797379202355
-				],
-				[
-					0,
-					25.289797379202355
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 44438424,
-			"isDeleted": true,
-			"id": "0plrjlEFzWf6QJcsJXsT3",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -461.3594756220825,
-			"y": 10788.25501464261,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 20.472693116495975,
-			"height": 33.719729838934654,
-			"seed": 757327913,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.4085521313522804,
-					8.4299324597323
-				],
-				[
-					3.612828197028648,
-					15.655588853789595
-				],
-				[
-					4.817104262704788,
-					18.06414098514324
-				],
-				[
-					4.817104262704788,
-					20.472693116495066
-				],
-				[
-					6.021380328381156,
-					24.085521313523714
-				],
-				[
-					7.225656394057296,
-					30.106901641906006
-				],
-				[
-					7.225656394057296,
-					31.31117770758101
-				],
-				[
-					7.225656394057296,
-					32.51545377325783
-				],
-				[
-					7.225656394057296,
-					31.31117770758101
-				],
-				[
-					7.225656394057296,
-					30.106901641906006
-				],
-				[
-					7.225656394057296,
-					27.69834951055236
-				],
-				[
-					9.634208525409804,
-					24.085521313523714
-				],
-				[
-					15.65558885379096,
-					19.268417050818243
-				],
-				[
-					19.268417050819835,
-					18.06414098514324
-				],
-				[
-					20.472693116495975,
-					18.06414098514324
-				],
-				[
-					20.472693116495975,
-					20.472693116495066
-				],
-				[
-					20.472693116495975,
-					25.289797379200536
-				],
-				[
-					20.472693116495975,
-					31.31117770758101
-				],
-				[
-					20.472693116495975,
-					32.51545377325783
-				],
-				[
-					20.472693116495975,
-					33.719729838934654
-				],
-				[
-					20.472693116495975,
-					33.719729838934654
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1898484200,
-			"isDeleted": true,
-			"id": "UzLlNLxANSuXoV9yf0r6H",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -439.6825064399102,
-			"y": 10785.846462511256,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 14.45131278811482,
-			"height": 18.06414098514324,
-			"seed": 1174423879,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363126495,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.2042760656750033
-				],
-				[
-					1.2042760656761402,
-					-1.2042760656750033
-				],
-				[
-					3.612828197028648,
-					-1.2042760656750033
-				],
-				[
-					8.429932459733664,
-					-2.4085521313518257
-				],
-				[
-					10.838484591086171,
-					-2.4085521313518257
-				],
-				[
-					10.838484591086171,
-					-1.2042760656750033
-				],
-				[
-					12.042760656762312,
-					1.2042760656768223
-				],
-				[
-					12.042760656762312,
-					7.225656394057296
-				],
-				[
-					10.838484591086171,
-					9.63420852541094
-				],
-				[
-					10.838484591086171,
-					10.838484591085944
-				],
-				[
-					10.838484591086171,
-					12.042760656762766
-				],
-				[
-					10.838484591086171,
-					13.247036722439589
-				],
-				[
-					10.838484591086171,
-					14.451312788114592
-				],
-				[
-					12.042760656762312,
-					15.655588853791414
-				],
-				[
-					13.24703672243868,
-					15.655588853791414
-				],
-				[
-					14.45131278811482,
-					15.655588853791414
-				],
-				[
-					14.45131278811482,
-					15.655588853791414
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1151814808,
-			"isDeleted": true,
-			"id": "v39L1awRBKXdHF7CCTRxg",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1016.5307418988301,
-			"y": 11155.559214673862,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 26.49407344487736,
-			"height": 56.600975086783365,
-			"seed": 1116601481,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.204276065676254,
-					-14.451312788114592
-				],
-				[
-					2.408552131352508,
-					-22.88124524784871
-				],
-				[
-					4.817104262704902,
-					-30.106901641906006
-				],
-				[
-					9.634208525409917,
-					-34.92400590461148
-				],
-				[
-					10.838484591086171,
-					-34.92400590461148
-				],
-				[
-					15.655588853791073,
-					-36.12828197028648
-				],
-				[
-					16.859864919467327,
-					-36.12828197028648
-				],
-				[
-					19.268417050819835,
-					-34.92400590461148
-				],
-				[
-					20.47269311649609,
-					-24.085521313525533
-				],
-				[
-					20.47269311649609,
-					-9.634208525409122
-				],
-				[
-					18.06414098514358,
-					6.021380328380474
-				],
-				[
-					12.042760656762425,
-					16.859864919468237
-				],
-				[
-					2.408552131352508,
-					20.472693116496885
-				],
-				[
-					-1.204276065676254,
-					20.472693116496885
-				],
-				[
-					-1.204276065676254,
-					18.06414098514324
-				],
-				[
-					2.408552131352508,
-					9.634208525409122
-				],
-				[
-					13.24703672243868,
-					6.021380328380474
-				],
-				[
-					14.45131278811482,
-					6.021380328380474
-				],
-				[
-					21.676969182172343,
-					7.225656394057296
-				],
-				[
-					24.08552131352485,
-					14.451312788114592
-				],
-				[
-					25.289797379201104,
-					16.859864919468237
-				],
-				[
-					25.289797379201104,
-					15.655588853791414
-				],
-				[
-					25.289797379201104,
-					15.655588853791414
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 900950248,
-			"isDeleted": true,
-			"id": "o_X0aEkzCdBaoA51VW9c3",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -974.3810796001617,
-			"y": 11121.839484834927,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 20.47269311649609,
-			"height": 45.76249049569742,
-			"seed": 1021239369,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					8.429932459734118
-				],
-				[
-					0,
-					9.634208525409122
-				],
-				[
-					1.204276065676254,
-					24.085521313525533
-				],
-				[
-					2.408552131352508,
-					32.51545377325783
-				],
-				[
-					3.6128281970287617,
-					34.92400590461148
-				],
-				[
-					3.6128281970287617,
-					38.536834101640125
-				],
-				[
-					6.0213803283812695,
-					40.94538623299195
-				],
-				[
-					6.0213803283812695,
-					42.14966229866877
-				],
-				[
-					6.0213803283812695,
-					44.5582144300206
-				],
-				[
-					4.817104262705016,
-					45.76249049569742
-				],
-				[
-					4.817104262705016,
-					44.5582144300206
-				],
-				[
-					4.817104262705016,
-					40.94538623299195
-				],
-				[
-					7.22565639405741,
-					32.51545377325783
-				],
-				[
-					10.838484591086171,
-					26.49407344487736
-				],
-				[
-					13.24703672243868,
-					24.085521313525533
-				],
-				[
-					14.451312788114933,
-					24.085521313525533
-				],
-				[
-					15.655588853791187,
-					27.69834951055418
-				],
-				[
-					18.06414098514358,
-					33.719729838934654
-				],
-				[
-					19.268417050819835,
-					34.92400590461148
-				],
-				[
-					20.47269311649609,
-					39.74111016731513
-				],
-				[
-					20.47269311649609,
-					42.14966229866877
-				],
-				[
-					20.47269311649609,
-					42.14966229866877
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1078065560,
-			"isDeleted": true,
-			"id": "q_reBzU7eJJQqPBYahwEb",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1122.5070356783394,
-			"y": 11130.269417294661,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25.28979737920099,
-			"height": 56.600975086783365,
-			"seed": 720761255,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-18.064140985143695,
-					18.06414098514324
-				],
-				[
-					-19.268417050819835,
-					19.268417050820062
-				],
-				[
-					-25.28979737920099,
-					34.92400590460966
-				],
-				[
-					-25.28979737920099,
-					46.966766561372424
-				],
-				[
-					-25.28979737920099,
-					48.171042627049246
-				],
-				[
-					-25.28979737920099,
-					50.57959475840107
-				],
-				[
-					-22.88124524784871,
-					55.39669902110654
-				],
-				[
-					-19.268417050819835,
-					56.600975086783365
-				],
-				[
-					-14.451312788115047,
-					56.600975086783365
-				],
-				[
-					-9.634208525410031,
-					56.600975086783365
-				],
-				[
-					-3.612828197028648,
-					54.19242295542972
-				],
-				[
-					-3.612828197028648,
-					54.19242295542972
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1478888424,
-			"isDeleted": true,
-			"id": "Jj6hZrRs8a_GAQwE9P0RS",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -950.2955582866368,
-			"y": 11114.61382844087,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 22.881245247848597,
-			"height": 66.23518361219249,
-			"seed": 258777991,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.6128281970287617,
-					4.81710426270547
-				],
-				[
-					6.021380328381156,
-					7.225656394057296
-				],
-				[
-					18.06414098514358,
-					28.902625576229184
-				],
-				[
-					19.268417050819835,
-					30.106901641906006
-				],
-				[
-					20.47269311649609,
-					37.3325580359633
-				],
-				[
-					22.881245247848597,
-					46.966766561372424
-				],
-				[
-					22.881245247848597,
-					50.57959475840107
-				],
-				[
-					22.881245247848597,
-					57.80525115246019
-				],
-				[
-					20.47269311649609,
-					62.62235541516384
-				],
-				[
-					19.268417050819835,
-					66.23518361219249
-				],
-				[
-					13.24703672243868,
-					66.23518361219249
-				],
-				[
-					13.24703672243868,
-					66.23518361219249
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 771688088,
-			"isDeleted": true,
-			"id": "m9ziAL7F0O3Co71ccknWQ",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -929.8228651701407,
-			"y": 11104.979619915459,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 22.881245247848597,
-			"height": 16.859864919466418,
-			"seed": 1536700775,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8.429932459733664,
-					-1.2042760656750033
-				],
-				[
-					12.042760656762425,
-					-1.2042760656750033
-				],
-				[
-					13.24703672243868,
-					-1.2042760656750033
-				],
-				[
-					13.24703672243868,
-					1.2042760656768223
-				],
-				[
-					9.634208525409917,
-					12.042760656762766
-				],
-				[
-					9.634208525409917,
-					15.655588853791414
-				],
-				[
-					10.838484591086171,
-					15.655588853791414
-				],
-				[
-					13.24703672243868,
-					14.451312788116411
-				],
-				[
-					18.064140985143695,
-					13.247036722439589
-				],
-				[
-					19.268417050819835,
-					12.042760656762766
-				],
-				[
-					22.881245247848597,
-					12.042760656762766
-				],
-				[
-					22.881245247848597,
-					12.042760656762766
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 2051821288,
-			"isDeleted": true,
-			"id": "5LP0-eyWcF7xe9S_P6uhp",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -867.2005097549761,
-			"y": 11054.400025157058,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 30.106901641906006,
-			"height": 1.2042760656768223,
-			"seed": 281549639,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					16.859864919467327,
-					0
-				],
-				[
-					24.08552131352485,
-					0
-				],
-				[
-					28.902625576229752,
-					-1.2042760656768223
-				],
-				[
-					30.106901641906006,
-					-1.2042760656768223
-				],
-				[
-					30.106901641906006,
-					-1.2042760656768223
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1519547288,
-			"isDeleted": true,
-			"id": "j1Kz28Gpul-_cwCFu9aHR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -856.3620251638899,
-			"y": 11079.689822536258,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 21.676969182172343,
-			"height": 4.81710426270547,
-			"seed": 1213257033,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.408552131352508,
-					0
-				],
-				[
-					7.22565639405741,
-					-1.2042760656768223
-				],
-				[
-					15.655588853791073,
-					-3.612828197028648
-				],
-				[
-					20.47269311649609,
-					-4.81710426270547
-				],
-				[
-					21.676969182172343,
-					-4.81710426270547
-				],
-				[
-					21.676969182172343,
-					-4.81710426270547
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 615657960,
-			"isDeleted": true,
-			"id": "CQWeK1jayWm7IN-qwznN6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -684.1505477721873,
-			"y": 11011.046086792712,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 50.57959475840221,
-			"height": 48.171042627051065,
-			"seed": 1984653513,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					10.838484591085944
-				],
-				[
-					0,
-					12.042760656762766
-				],
-				[
-					0,
-					14.451312788116411
-				],
-				[
-					0,
-					27.69834951055418
-				],
-				[
-					1.2042760656761402,
-					31.31117770758283
-				],
-				[
-					2.408552131352508,
-					28.902625576231003
-				],
-				[
-					3.612828197028648,
-					24.085521313525533
-				],
-				[
-					4.817104262705016,
-					18.06414098514506
-				],
-				[
-					8.429932459733664,
-					12.042760656762766
-				],
-				[
-					10.838484591086171,
-					10.838484591085944
-				],
-				[
-					12.042760656762312,
-					10.838484591085944
-				],
-				[
-					14.45131278811482,
-					12.042760656762766
-				],
-				[
-					18.064140985143695,
-					16.859864919468237
-				],
-				[
-					18.064140985143695,
-					19.268417050820062
-				],
-				[
-					19.268417050819835,
-					18.06414098514506
-				],
-				[
-					22.881245247848483,
-					14.451312788116411
-				],
-				[
-					27.6983495105535,
-					10.838484591085944
-				],
-				[
-					30.106901641906006,
-					9.63420852541094
-				],
-				[
-					32.515453773258514,
-					8.429932459734118
-				],
-				[
-					37.33255803596353,
-					16.859864919468237
-				],
-				[
-					38.53683410163967,
-					19.268417050820062
-				],
-				[
-					39.74111016731604,
-					22.88124524784871
-				],
-				[
-					45.76249049569719,
-					39.74111016731695
-				],
-				[
-					46.96676656137333,
-					40.94538623299195
-				],
-				[
-					50.57959475840221,
-					46.96676656137424
-				],
-				[
-					50.57959475840221,
-					48.171042627051065
-				],
-				[
-					50.57959475840221,
-					48.171042627051065
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1546666136,
-			"isDeleted": true,
-			"id": "wRMhXUeYcDJUPBQlb6F-M",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -813.0080867995453,
-			"y": 11097.753963521402,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 302.27329248473666,
-			"height": 27.69834951055236,
-			"seed": 2025475079,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112477,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					14.451312788114933,
-					-4.817104262703651
-				],
-				[
-					69.84801180922204,
-					-13.24703672243777
-				],
-				[
-					73.46084000625069,
-					-14.451312788114592
-				],
-				[
-					102.36346558248056,
-					-15.655588853791414
-				],
-				[
-					164.98582099764508,
-					-20.472693116495066
-				],
-				[
-					171.00720132602623,
-					-21.676969182171888
-				],
-				[
-					199.9098269022561,
-					-24.085521313523714
-				],
-				[
-					246.87659346362966,
-					-26.49407344487736
-				],
-				[
-					270.9621147771545,
-					-27.69834951055236
-				],
-				[
-					273.3706669085068,
-					-27.69834951055236
-				],
-				[
-					289.026255762298,
-					-27.69834951055236
-				],
-				[
-					298.660464287708,
-					-26.49407344487736
-				],
-				[
-					302.27329248473666,
-					-26.49407344487736
-				],
-				[
-					302.27329248473666,
-					-26.49407344487736
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1852028136,
-			"isDeleted": true,
-			"id": "7fLhJ21UaIi4vPU_IdDZ0",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -776.879804829258,
-			"y": 11133.88224549169,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 49.375318692725955,
-			"height": 65.03090754651748,
-			"seed": 1463325959,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					9.634208525409917,
-					7.225656394057296
-				],
-				[
-					16.85986491946744,
-					19.268417050820062
-				],
-				[
-					19.26841705081995,
-					32.51545377325783
-				],
-				[
-					19.26841705081995,
-					33.719729838934654
-				],
-				[
-					19.26841705081995,
-					40.94538623299195
-				],
-				[
-					19.26841705081995,
-					45.76249049569742
-				],
-				[
-					18.06414098514358,
-					42.14966229866877
-				],
-				[
-					14.451312788114933,
-					26.49407344487736
-				],
-				[
-					9.634208525409917,
-					9.634208525409122
-				],
-				[
-					6.0213803283812695,
-					-7.225656394057296
-				],
-				[
-					6.0213803283812695,
-					-9.63420852541094
-				],
-				[
-					6.0213803283812695,
-					-12.042760656762766
-				],
-				[
-					9.634208525409917,
-					-16.859864919468237
-				],
-				[
-					16.85986491946744,
-					-19.268417050820062
-				],
-				[
-					28.902625576229752,
-					-16.859864919468237
-				],
-				[
-					32.5154537732584,
-					-10.838484591085944
-				],
-				[
-					33.71972983893477,
-					0
-				],
-				[
-					30.10690164190612,
-					10.838484591085944
-				],
-				[
-					25.289797379201104,
-					15.655588853791414
-				],
-				[
-					22.881245247848597,
-					16.859864919466418
-				],
-				[
-					22.881245247848597,
-					18.06414098514324
-				],
-				[
-					27.698349510553612,
-					20.472693116495066
-				],
-				[
-					32.5154537732584,
-					24.085521313523714
-				],
-				[
-					42.14966229866843,
-					31.31117770758101
-				],
-				[
-					48.17104262704959,
-					37.3325580359633
-				],
-				[
-					49.375318692725955,
-					38.536834101640125
-				],
-				[
-					49.375318692725955,
-					38.536834101640125
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1653370264,
-			"isDeleted": true,
-			"id": "hh-iEkPXFl4CgYjBHzPgk",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -735.9344185962657,
-			"y": 11117.022380572222,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 19.268417050819835,
-			"height": 22.88124524784689,
-			"seed": 1825040169,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					6.021380328381156,
-					-7.225656394057296
-				],
-				[
-					8.429932459733664,
-					-8.4299324597323
-				],
-				[
-					9.634208525409804,
-					-8.4299324597323
-				],
-				[
-					9.634208525409804,
-					-4.817104262703651
-				],
-				[
-					9.634208525409804,
-					-3.612828197028648
-				],
-				[
-					9.634208525409804,
-					4.81710426270547
-				],
-				[
-					9.634208525409804,
-					7.225656394057296
-				],
-				[
-					9.634208525409804,
-					12.042760656762766
-				],
-				[
-					9.634208525409804,
-					14.451312788114592
-				],
-				[
-					10.838484591086171,
-					14.451312788114592
-				],
-				[
-					14.45131278811482,
-					13.247036722439589
-				],
-				[
-					18.064140985143467,
-					9.63420852541094
-				],
-				[
-					19.268417050819835,
-					8.429932459734118
-				],
-				[
-					19.268417050819835,
-					8.429932459734118
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 753719272,
-			"isDeleted": true,
-			"id": "QwSE691LRkUFprK3f5J00",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -703.4189648230072,
-			"y": 11149.537834345481,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 13.24703672243868,
-			"height": 3.612828197028648,
-			"seed": 1065315881,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656761402,
-					0
-				],
-				[
-					4.817104262704788,
-					-1.2042760656768223
-				],
-				[
-					8.429932459733664,
-					-1.2042760656768223
-				],
-				[
-					10.838484591086171,
-					-3.612828197028648
-				],
-				[
-					12.042760656762312,
-					-3.612828197028648
-				],
-				[
-					13.24703672243868,
-					-3.612828197028648
-				],
-				[
-					13.24703672243868,
-					-3.612828197028648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 115014296,
-			"isDeleted": true,
-			"id": "Qx0hQb7iqExvBqTyqpw55",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -661.2693025243389,
-			"y": 11108.59244811249,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 13.24703672243868,
-			"height": 26.49407344487554,
-			"seed": 1865644391,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					8.4299324597323
-				],
-				[
-					1.2042760656763676,
-					9.634208525409122
-				],
-				[
-					3.6128281970288754,
-					18.06414098514324
-				],
-				[
-					3.6128281970288754,
-					20.472693116495066
-				],
-				[
-					4.817104262705016,
-					22.88124524784689
-				],
-				[
-					7.225656394057523,
-					25.289797379200536
-				],
-				[
-					7.225656394057523,
-					26.49407344487554
-				],
-				[
-					9.634208525410031,
-					26.49407344487554
-				],
-				[
-					10.838484591086171,
-					26.49407344487554
-				],
-				[
-					12.042760656762539,
-					25.289797379200536
-				],
-				[
-					13.24703672243868,
-					21.676969182171888
-				],
-				[
-					13.24703672243868,
-					19.268417050818243
-				],
-				[
-					13.24703672243868,
-					19.268417050818243
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 609852136,
-			"isDeleted": true,
-			"id": "FDcufeBvB-dHqYVb4Z2IS",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -648.0222658019002,
-			"y": 11115.818104506547,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 6.021380328381156,
-			"height": 54.19242295542972,
-			"seed": 1476106409,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.2042760656761402,
-					22.88124524784871
-				],
-				[
-					-1.2042760656761402,
-					26.49407344487736
-				],
-				[
-					2.408552131352508,
-					43.353938364343776
-				],
-				[
-					2.408552131352508,
-					44.5582144300206
-				],
-				[
-					4.817104262705016,
-					52.98814688975472
-				],
-				[
-					4.817104262705016,
-					54.19242295542972
-				],
-				[
-					4.817104262705016,
-					52.98814688975472
-				],
-				[
-					4.817104262705016,
-					50.57959475840107
-				],
-				[
-					4.817104262705016,
-					50.57959475840107
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 466610072,
-			"isDeleted": true,
-			"id": "VbtjRlSDy2hw_uKKSO5I7",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -626.3452966197278,
-			"y": 11111.001000243841,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 37.33255803596353,
-			"height": 45.76249049569742,
-			"seed": 1941504519,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					8.429932459734118
-				],
-				[
-					0,
-					21.676969182171888
-				],
-				[
-					1.2042760656763676,
-					32.51545377325783
-				],
-				[
-					1.2042760656763676,
-					37.3325580359633
-				],
-				[
-					1.2042760656763676,
-					38.536834101640125
-				],
-				[
-					0,
-					33.719729838934654
-				],
-				[
-					-2.408552131352508,
-					28.902625576229184
-				],
-				[
-					-7.225656394057296,
-					18.06414098514324
-				],
-				[
-					-9.634208525409804,
-					8.429932459734118
-				],
-				[
-					-10.838484591086171,
-					0
-				],
-				[
-					-7.225656394057296,
-					-2.4085521313518257
-				],
-				[
-					-6.021380328381156,
-					-3.612828197028648
-				],
-				[
-					-1.2042760656761402,
-					-3.612828197028648
-				],
-				[
-					2.408552131352508,
-					0
-				],
-				[
-					3.6128281970288754,
-					3.612828197028648
-				],
-				[
-					2.408552131352508,
-					10.838484591085944
-				],
-				[
-					-1.2042760656761402,
-					18.06414098514324
-				],
-				[
-					-3.612828197028648,
-					20.472693116495066
-				],
-				[
-					-3.612828197028648,
-					21.676969182171888
-				],
-				[
-					-4.817104262704788,
-					22.88124524784871
-				],
-				[
-					-4.817104262704788,
-					24.085521313523714
-				],
-				[
-					-2.408552131352508,
-					28.902625576229184
-				],
-				[
-					-1.2042760656761402,
-					30.106901641906006
-				],
-				[
-					0,
-					30.106901641906006
-				],
-				[
-					7.225656394057523,
-					34.92400590461148
-				],
-				[
-					14.451312788115047,
-					37.3325580359633
-				],
-				[
-					24.08552131352485,
-					40.94538623299195
-				],
-				[
-					26.49407344487736,
-					42.14966229866877
-				],
-				[
-					26.49407344487736,
-					42.14966229866877
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 926285288,
-			"isDeleted": true,
-			"id": "dU-OsqUnbCfWQWtgS7-IM",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -601.0554992405266,
-			"y": 11117.022380572222,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 33.719729838934654,
-			"height": 46.96676656137424,
-			"seed": 2130074889,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.817104262704788,
-					16.859864919468237
-				],
-				[
-					4.817104262704788,
-					18.06414098514324
-				],
-				[
-					9.634208525409804,
-					32.51545377325965
-				],
-				[
-					10.838484591086171,
-					40.94538623299195
-				],
-				[
-					10.838484591086171,
-					42.14966229866877
-				],
-				[
-					10.838484591086171,
-					40.94538623299195
-				],
-				[
-					10.838484591086171,
-					37.3325580359633
-				],
-				[
-					12.042760656762312,
-					30.106901641906006
-				],
-				[
-					14.45131278811482,
-					25.289797379202355
-				],
-				[
-					15.655588853791187,
-					25.289797379202355
-				],
-				[
-					16.859864919467327,
-					24.085521313525533
-				],
-				[
-					21.676969182172343,
-					25.289797379202355
-				],
-				[
-					25.28979737920099,
-					27.69834951055418
-				],
-				[
-					28.90262557622964,
-					36.1282819702883
-				],
-				[
-					32.515453773258514,
-					43.353938364345595
-				],
-				[
-					32.515453773258514,
-					44.5582144300206
-				],
-				[
-					33.719729838934654,
-					46.96676656137424
-				],
-				[
-					33.719729838934654,
-					43.353938364345595
-				],
-				[
-					33.719729838934654,
-					43.353938364345595
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 2107585688,
-			"isDeleted": true,
-			"id": "1_V8lG0QnR4kAk0renoDj",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -570.9485975986206,
-			"y": 11126.656589097633,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 16.859864919467327,
-			"height": 4.81710426270547,
-			"seed": 1163560775,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.225656394057523,
-					-2.4085521313536447
-				],
-				[
-					12.042760656762312,
-					-3.612828197028648
-				],
-				[
-					13.24703672243868,
-					-3.612828197028648
-				],
-				[
-					15.655588853791187,
-					-4.81710426270547
-				],
-				[
-					16.859864919467327,
-					-4.81710426270547
-				],
-				[
-					16.859864919467327,
-					-4.81710426270547
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 378405096,
-			"isDeleted": true,
-			"id": "cLWYEa6teJej0jVcAaS9h",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -562.518665138887,
-			"y": 11114.61382844087,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 7.225656394057523,
-			"height": 31.31117770758283,
-			"seed": 1405430727,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					7.225656394057296
-				],
-				[
-					1.2042760656761402,
-					9.634208525409122
-				],
-				[
-					2.408552131352508,
-					20.472693116495066
-				],
-				[
-					4.817104262705016,
-					26.49407344487736
-				],
-				[
-					6.021380328381156,
-					30.106901641906006
-				],
-				[
-					7.225656394057523,
-					31.31117770758283
-				],
-				[
-					7.225656394057523,
-					31.31117770758283
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1643962776,
-			"isDeleted": true,
-			"id": "QvMiv6mSqbuq3ij1h9Bq-",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -534.8203156283334,
-			"y": 11097.753963521402,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 18.064140985143695,
-			"height": 54.19242295543154,
-			"seed": 450608041,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2042760656763676,
-					10.838484591087763
-				],
-				[
-					1.2042760656763676,
-					12.042760656762766
-				],
-				[
-					2.408552131352508,
-					24.085521313525533
-				],
-				[
-					3.6128281970288754,
-					38.536834101640125
-				],
-				[
-					6.021380328381383,
-					46.96676656137424
-				],
-				[
-					6.021380328381383,
-					48.171042627051065
-				],
-				[
-					6.021380328381383,
-					46.96676656137424
-				],
-				[
-					6.021380328381383,
-					43.353938364345595
-				],
-				[
-					7.225656394057523,
-					39.74111016731695
-				],
-				[
-					8.429932459733664,
-					38.536834101640125
-				],
-				[
-					10.838484591086171,
-					37.3325580359633
-				],
-				[
-					10.838484591086171,
-					36.1282819702883
-				],
-				[
-					13.24703672243868,
-					36.1282819702883
-				],
-				[
-					14.451312788115047,
-					36.1282819702883
-				],
-				[
-					15.655588853791187,
-					40.94538623299377
-				],
-				[
-					18.064140985143695,
-					48.171042627051065
-				],
-				[
-					18.064140985143695,
-					54.19242295543154
-				],
-				[
-					18.064140985143695,
-					52.98814688975472
-				],
-				[
-					18.064140985143695,
-					52.98814688975472
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1911399400,
-			"isDeleted": true,
-			"id": "JPBPfqE5lkHpnwarCCQum",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -515.5518985775136,
-			"y": 11109.796724178164,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 19.268417050820062,
-			"height": 14.451312788114592,
-			"seed": 761211559,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.2042760656750033
-				],
-				[
-					1.2042760656763676,
-					-2.4085521313518257
-				],
-				[
-					2.408552131352508,
-					-6.021380328380474
-				],
-				[
-					7.225656394057523,
-					-7.225656394057296
-				],
-				[
-					12.042760656762539,
-					-9.634208525409122
-				],
-				[
-					15.655588853791187,
-					-9.634208525409122
-				],
-				[
-					16.859864919467555,
-					-9.634208525409122
-				],
-				[
-					16.859864919467555,
-					-8.429932459734118
-				],
-				[
-					15.655588853791187,
-					-3.612828197028648
-				],
-				[
-					15.655588853791187,
-					-2.4085521313518257
-				],
-				[
-					14.451312788115047,
-					2.4085521313536447
-				],
-				[
-					14.451312788115047,
-					3.612828197028648
-				],
-				[
-					14.451312788115047,
-					4.81710426270547
-				],
-				[
-					15.655588853791187,
-					4.81710426270547
-				],
-				[
-					18.064140985143695,
-					4.81710426270547
-				],
-				[
-					19.268417050820062,
-					4.81710426270547
-				],
-				[
-					19.268417050820062,
-					4.81710426270547
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"id": "pKHunyxZvgpvFEIPjDY-s",
-			"type": "freedraw",
-			"x": -466.1777257747365,
-			"y": 11059.98215758006,
-			"width": 18,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1653376232,
-			"version": 16,
-			"versionNonce": 672984728,
-			"isDeleted": true,
+			"versionNonce": 2107442408,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363112478,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49086,646 +42588,120 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					1,
-					-1
-				],
-				[
-					4,
-					-3
-				],
-				[
-					9,
-					-5
-				],
-				[
-					15,
-					-7
-				],
-				[
-					17,
-					-8
-				],
-				[
-					18,
-					-8
-				],
-				[
-					18,
-					-8
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18,
-				-8
-			]
-		},
-		{
-			"id": "IKsXzFHjbcbhET5xJJ5B0",
-			"type": "freedraw",
-			"x": -462.1777257747365,
-			"y": 11070.98215758006,
-			"width": 10,
-			"height": 1,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1039208856,
-			"version": 14,
-			"versionNonce": 660661992,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363112478,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
+					-1.25,
 					0
 				],
 				[
-					4,
-					1
+					-5,
+					-1.25
 				],
 				[
-					6,
-					1
+					-13.75,
+					-3.75
 				],
 				[
-					9,
-					1
+					-23.75,
+					-3.75
 				],
 				[
-					10,
-					1
+					-28.75,
+					-3.75
 				],
 				[
-					10,
-					1
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				10,
-				1
-			]
-		},
-		{
-			"id": "KAKlf6CCdoFQhS8YehP0T",
-			"type": "freedraw",
-			"x": -393.1777257747365,
-			"y": 11036.98215758006,
-			"width": 51,
-			"height": 55,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1133190376,
-			"version": 40,
-			"versionNonce": 793744536,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363037642,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
+					-28.75,
+					-1.25
 				],
 				[
-					4,
-					21
+					-28.75,
+					3.75
 				],
 				[
-					4,
-					23
+					-28.75,
+					7.5
 				],
 				[
-					6,
-					32
+					-27.5,
+					13.75
 				],
 				[
-					6,
-					35
+					-27.5,
+					21.25
 				],
 				[
-					6,
-					28
-				],
-				[
-					6,
-					16
-				],
-				[
-					6,
-					6
-				],
-				[
-					6,
-					-1
-				],
-				[
-					6,
-					-2
-				],
-				[
-					7,
-					-5
-				],
-				[
-					8,
-					-5
-				],
-				[
-					9,
-					-5
-				],
-				[
-					11,
-					-4
-				],
-				[
-					13,
-					1
-				],
-				[
-					13,
-					2
-				],
-				[
-					16,
-					9
-				],
-				[
-					18,
-					12
-				],
-				[
-					18,
-					13
-				],
-				[
-					18,
-					14
-				],
-				[
-					19,
-					14
-				],
-				[
-					20,
-					10
-				],
-				[
-					25,
-					-2
-				],
-				[
-					32,
-					-13
-				],
-				[
-					39,
-					-20
-				],
-				[
-					40,
-					-20
-				],
-				[
-					40,
-					-19
-				],
-				[
-					43,
-					-12
-				],
-				[
-					45,
-					1
-				],
-				[
-					49,
-					18
-				],
-				[
-					51,
-					25
-				],
-				[
-					51,
-					26
-				],
-				[
-					51,
-					26
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				51,
-				26
-			]
-		},
-		{
-			"id": "hBd12kx3DzmcmGaq3TErM",
-			"type": "freedraw",
-			"x": -416.1777257747365,
-			"y": 11085.98215758006,
-			"width": 140,
-			"height": 17,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 913731560,
-			"version": 16,
-			"versionNonce": 2093638808,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363037252,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3,
-					-1
-				],
-				[
-					12,
-					-3
-				],
-				[
-					37,
-					-6
-				],
-				[
-					73,
-					-8
-				],
-				[
-					78,
-					-9
-				],
-				[
-					116,
-					-11
-				],
-				[
-					119,
-					-12
-				],
-				[
-					140,
-					-17
-				],
-				[
-					140,
-					-17
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				140,
-				-17
-			]
-		},
-		{
-			"id": "mvJrX6ItlW9LZb8y0J77J",
-			"type": "freedraw",
-			"x": -391.1777257747365,
-			"y": 11117.98215758006,
-			"width": 26,
-			"height": 60,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1438532504,
-			"version": 41,
-			"versionNonce": 114294248,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363036901,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					5
-				],
-				[
-					0,
-					12
-				],
-				[
-					0,
-					13
-				],
-				[
-					1,
-					21
-				],
-				[
-					1,
-					22
-				],
-				[
-					1,
+					-27.5,
 					30
 				],
 				[
-					1,
-					33
+					-27.5,
+					38.75
 				],
 				[
-					1,
-					34
+					-26.25,
+					45
 				],
 				[
-					1,
-					31
+					-25,
+					46.25
 				],
 				[
-					1,
-					21
+					-23.75,
+					47.5
 				],
 				[
-					-1,
-					6
+					-22.5,
+					47.5
 				],
 				[
-					-3,
-					-7
+					-18.75,
+					47.5
 				],
 				[
-					-4,
-					-15
+					-10,
+					47.5
 				],
 				[
-					-2,
-					-23
+					-2.5,
+					46.25
 				],
 				[
-					3,
-					-25
-				],
-				[
-					7,
-					-26
-				],
-				[
-					9,
-					-24
-				],
-				[
-					10,
-					-22
-				],
-				[
-					11,
-					-17
-				],
-				[
-					11,
-					-8
-				],
-				[
-					11,
-					-7
-				],
-				[
-					7,
-					6
-				],
-				[
-					3,
-					10
-				],
-				[
-					3,
-					11
-				],
-				[
-					2,
-					11
-				],
-				[
-					1,
-					11
-				],
-				[
-					1,
-					12
-				],
-				[
-					2,
-					12
-				],
-				[
-					4,
-					15
-				],
-				[
-					9,
-					20
-				],
-				[
-					14,
-					24
-				],
-				[
-					18,
-					28
-				],
-				[
-					21,
-					31
-				],
-				[
-					22,
-					33
-				],
-				[
-					22,
-					33
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				22,
-				33
-			]
-		},
-		{
-			"id": "u96j8HsebDGC7rkNUYso0",
-			"type": "freedraw",
-			"x": -370.1777257747365,
-			"y": 11106.98215758006,
-			"width": 21,
-			"height": 21,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1234778088,
-			"version": 26,
-			"versionNonce": 513395432,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363036368,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2,
-					-6
-				],
-				[
-					3,
-					-8
+					1.25,
+					46.25
 				],
 				[
 					5,
-					-8
+					45
 				],
 				[
-					7,
-					-8
-				],
-				[
-					8,
-					-7
-				],
-				[
-					9,
-					-7
-				],
-				[
-					9,
-					-5
+					7.5,
+					45
 				],
 				[
 					10,
-					-3
+					45
 				],
 				[
-					10,
-					1
+					8.75,
+					43.75
 				],
 				[
-					10,
-					5
-				],
-				[
-					10,
-					9
-				],
-				[
-					10,
-					11
-				],
-				[
-					10,
-					13
-				],
-				[
-					11,
-					13
-				],
-				[
-					12,
-					13
-				],
-				[
-					14,
-					13
-				],
-				[
-					17,
-					13
-				],
-				[
-					19,
-					13
-				],
-				[
-					20,
-					12
-				],
-				[
-					21,
-					12
-				],
-				[
-					21,
-					12
+					8.75,
+					43.75
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				21,
-				12
+				8.75,
+				43.75
 			]
 		},
 		{
-			"id": "t2EEq_BS3TiojFHyK0QPQ",
+			"id": "y8jmMAdw86Ds-9nnd2tAs",
 			"type": "freedraw",
-			"x": -349.1777257747365,
-			"y": 11139.98215758006,
-			"width": 26,
-			"height": 9,
+			"x": -1900.0943924414032,
+			"y": 11359.09326869117,
+			"width": 30,
+			"height": 3.75,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -49736,12 +42712,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1281190296,
-			"version": 13,
-			"versionNonce": 79957400,
-			"isDeleted": true,
+			"seed": 1771727848,
+			"version": 27,
+			"versionNonce": 2052070808,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363036107,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49750,170 +42726,60 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					3,
-					-1
+					1.25,
+					0
 				],
 				[
-					7,
-					-2
+					3.75,
+					0
 				],
 				[
-					12,
-					-4
+					10,
+					1.25
 				],
 				[
-					19,
-					-6
+					18.75,
+					1.25
 				],
 				[
-					23,
-					-8
-				],
-				[
-					24,
-					-8
+					23.75,
+					2.5
 				],
 				[
 					25,
-					-9
+					2.5
 				],
 				[
-					26,
-					-9
+					26.25,
+					2.5
 				],
 				[
-					26,
-					-9
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26,
-				-9
-			]
-		},
-		{
-			"id": "jcGaCQrx3Jlojk8zuaNIk",
-			"type": "freedraw",
-			"x": -316.1777257747365,
-			"y": 11111.98215758006,
-			"width": 33,
-			"height": 49,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1337141992,
-			"version": 22,
-			"versionNonce": 1194255256,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363035897,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
+					27.5,
 					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					0,
-					-6
-				],
-				[
-					2,
-					-11
-				],
-				[
-					5,
-					-14
-				],
-				[
-					9,
-					-15
-				],
-				[
-					17,
-					-12
-				],
-				[
-					24,
-					-7
-				],
-				[
-					29,
-					0
-				],
-				[
-					32,
-					9
-				],
-				[
-					33,
-					21
-				],
-				[
-					33,
-					22
-				],
-				[
-					33,
-					28
-				],
-				[
-					31,
-					32
 				],
 				[
 					30,
-					33
-				],
-				[
-					29,
-					33
-				],
-				[
-					29,
-					34
+					-1.25
 				],
 				[
 					30,
-					34
-				],
-				[
-					31,
-					34
-				],
-				[
-					31,
-					34
+					-1.25
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				31,
-				34
+				30,
+				-1.25
 			]
 		},
 		{
-			"id": "8hIeq3_7f_xmloTbMoyjb",
+			"id": "XSgTMHukPqV29vJTDsCUD",
 			"type": "freedraw",
-			"x": -633.1777257747365,
-			"y": 10831.98215758006,
-			"width": 4,
-			"height": 50,
+			"x": -1822.5943924414032,
+			"y": 11284.09326869117,
+			"width": 0,
+			"height": 1.25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -49924,12 +42790,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 682843032,
-			"version": 13,
-			"versionNonce": 13623448,
-			"isDeleted": true,
+			"seed": 2111987176,
+			"version": 20,
+			"versionNonce": 679225320,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363126495,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49939,59 +42805,27 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 				],
 				[
 					0,
-					4
+					1.25
 				],
 				[
 					0,
-					11
-				],
-				[
-					1,
-					18
-				],
-				[
-					1,
-					20
-				],
-				[
-					2,
-					29
-				],
-				[
-					3,
-					37
-				],
-				[
-					3,
-					44
-				],
-				[
-					4,
-					48
-				],
-				[
-					4,
-					50
-				],
-				[
-					4,
-					50
+					0
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				4,
-				50
+				0,
+				1.25
 			]
 		},
 		{
-			"id": "PqKHLBIskqL-xwK0bzZ7O",
+			"id": "LpIoF8pblY4g-dHZTy81i",
 			"type": "freedraw",
-			"x": -719.1777257747365,
-			"y": 10760.98215758006,
-			"width": 47,
-			"height": 29,
+			"x": -1817.5943924414032,
+			"y": 11327.84326869117,
+			"width": 0.0001,
+			"height": 0.0001,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -50002,1408 +42836,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 487462120,
-			"version": 38,
-			"versionNonce": 1081010328,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					8
-				],
-				[
-					1,
-					9
-				],
-				[
-					2,
-					15
-				],
-				[
-					3,
-					17
-				],
-				[
-					3,
-					19
-				],
-				[
-					3,
-					14
-				],
-				[
-					4,
-					9
-				],
-				[
-					5,
-					5
-				],
-				[
-					6,
-					0
-				],
-				[
-					7,
-					-2
-				],
-				[
-					9,
-					-4
-				],
-				[
-					10,
-					-5
-				],
-				[
-					13,
-					-5
-				],
-				[
-					16,
-					-3
-				],
-				[
-					19,
-					2
-				],
-				[
-					20,
-					4
-				],
-				[
-					21,
-					9
-				],
-				[
-					21,
-					13
-				],
-				[
-					22,
-					14
-				],
-				[
-					24,
-					11
-				],
-				[
-					27,
-					5
-				],
-				[
-					30,
-					0
-				],
-				[
-					33,
-					-4
-				],
-				[
-					38,
-					-9
-				],
-				[
-					39,
-					-9
-				],
-				[
-					40,
-					-10
-				],
-				[
-					41,
-					-10
-				],
-				[
-					42,
-					-9
-				],
-				[
-					43,
-					-4
-				],
-				[
-					44,
-					3
-				],
-				[
-					45,
-					9
-				],
-				[
-					46,
-					15
-				],
-				[
-					47,
-					18
-				],
-				[
-					47,
-					19
-				],
-				[
-					47,
-					19
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				47,
-				19
-			]
-		},
-		{
-			"id": "FIvOijuGri2VSIbAIRsCa",
-			"type": "freedraw",
-			"x": -740.1777257747365,
-			"y": 10800.98215758006,
-			"width": 85,
-			"height": 13,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1564825496,
-			"version": 17,
-			"versionNonce": 1891863784,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					-1
-				],
-				[
-					9,
-					-3
-				],
-				[
-					22,
-					-5
-				],
-				[
-					34,
-					-7
-				],
-				[
-					45,
-					-9
-				],
-				[
-					57,
-					-11
-				],
-				[
-					68,
-					-11
-				],
-				[
-					75,
-					-12
-				],
-				[
-					80,
-					-13
-				],
-				[
-					83,
-					-13
-				],
-				[
-					84,
-					-13
-				],
-				[
-					85,
-					-13
-				],
-				[
-					85,
-					-13
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				85,
-				-13
-			]
-		},
-		{
-			"id": "rzSnmFT7xoifR_x2te6U9",
-			"type": "freedraw",
-			"x": -723.1777257747365,
-			"y": 10841.98215758006,
-			"width": 19,
-			"height": 42,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1598177176,
-			"version": 21,
-			"versionNonce": 414586264,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					0,
-					3
-				],
-				[
-					0,
-					6
-				],
-				[
-					0,
-					8
-				],
-				[
-					0,
-					9
-				],
-				[
-					0,
-					8
-				],
-				[
-					0,
-					6
-				],
-				[
-					-1,
-					1
-				],
-				[
-					-2,
-					-4
-				],
-				[
-					-3,
-					-10
-				],
-				[
-					-3,
-					-17
-				],
-				[
-					-3,
-					-18
-				],
-				[
-					1,
-					-25
-				],
-				[
-					8,
-					-30
-				],
-				[
-					12,
-					-32
-				],
-				[
-					15,
-					-33
-				],
-				[
-					16,
-					-33
-				],
-				[
-					16,
-					-33
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				-33
-			]
-		},
-		{
-			"id": "gU2avi6QWBCjesdDwPfyn",
-			"type": "freedraw",
-			"x": -698.1777257747365,
-			"y": 10826.98215758006,
-			"width": 15,
-			"height": 5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1161044376,
-			"version": 11,
-			"versionNonce": 93433832,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					4,
-					-1
-				],
-				[
-					6,
-					-1
-				],
-				[
-					10,
-					-3
-				],
-				[
-					12,
-					-4
-				],
-				[
-					14,
-					-5
-				],
-				[
-					15,
-					-5
-				],
-				[
-					15,
-					-5
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15,
-				-5
-			]
-		},
-		{
-			"id": "zkiKZNVsSMjwpO1AzZeCt",
-			"type": "freedraw",
-			"x": -696.1777257747365,
-			"y": 10812.98215758006,
-			"width": 11,
-			"height": 27,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1735664280,
-			"version": 12,
-			"versionNonce": 428843672,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					1
-				],
-				[
-					2,
-					4
-				],
-				[
-					4,
-					8
-				],
-				[
-					6,
-					13
-				],
-				[
-					8,
-					18
-				],
-				[
-					10,
-					23
-				],
-				[
-					11,
-					26
-				],
-				[
-					11,
-					27
-				],
-				[
-					11,
-					27
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11,
-				27
-			]
-		},
-		{
-			"id": "xDWXYWjgqoVq14bdM2idv",
-			"type": "freedraw",
-			"x": -662.1777257747365,
-			"y": 10808.98215758006,
-			"width": 19,
-			"height": 27,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 722084328,
-			"version": 26,
-			"versionNonce": 1118008040,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					1,
-					5
-				],
-				[
-					2,
-					12
-				],
-				[
-					3,
-					16
-				],
-				[
-					4,
-					22
-				],
-				[
-					4,
-					25
-				],
-				[
-					4,
-					27
-				],
-				[
-					4,
-					23
-				],
-				[
-					5,
-					18
-				],
-				[
-					6,
-					14
-				],
-				[
-					7,
-					12
-				],
-				[
-					9,
-					10
-				],
-				[
-					11,
-					9
-				],
-				[
-					12,
-					9
-				],
-				[
-					14,
-					10
-				],
-				[
-					14,
-					11
-				],
-				[
-					15,
-					14
-				],
-				[
-					16,
-					18
-				],
-				[
-					16,
-					22
-				],
-				[
-					17,
-					26
-				],
-				[
-					18,
-					27
-				],
-				[
-					19,
-					27
-				],
-				[
-					19,
-					27
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				27
-			]
-		},
-		{
-			"id": "NsKs-hRiLKLvpr_xmUkXw",
-			"type": "freedraw",
-			"x": -612.1777257747365,
-			"y": 10774.98215758006,
-			"width": 19,
-			"height": 17,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1836461208,
-			"version": 17,
-			"versionNonce": 1102024600,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					1
-				],
-				[
-					2,
-					2
-				],
-				[
-					5,
-					4
-				],
-				[
-					8,
-					7
-				],
-				[
-					10,
-					9
-				],
-				[
-					12,
-					11
-				],
-				[
-					13,
-					12
-				],
-				[
-					14,
-					13
-				],
-				[
-					15,
-					14
-				],
-				[
-					16,
-					15
-				],
-				[
-					17,
-					16
-				],
-				[
-					18,
-					17
-				],
-				[
-					19,
-					17
-				],
-				[
-					19,
-					17
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				17
-			]
-		},
-		{
-			"id": "k9NTtS6y4dyt1I0yvE-Bl",
-			"type": "freedraw",
-			"x": -607.1777257747365,
-			"y": 10791.98215758006,
-			"width": 13,
-			"height": 33,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1099830424,
-			"version": 13,
-			"versionNonce": 512021992,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					2,
-					-8
-				],
-				[
-					5,
-					-15
-				],
-				[
-					6,
-					-19
-				],
-				[
-					8,
-					-23
-				],
-				[
-					9,
-					-26
-				],
-				[
-					11,
-					-30
-				],
-				[
-					12,
-					-32
-				],
-				[
-					13,
-					-33
-				],
-				[
-					13,
-					-33
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13,
-				-33
-			]
-		},
-		{
-			"id": "FmckYLkLBMZHTAHh215Sk",
-			"type": "freedraw",
-			"x": -518.1777257747365,
-			"y": 10721.98215758006,
-			"width": 6,
-			"height": 41,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 705413784,
-			"version": 16,
-			"versionNonce": 424271000,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2
-				],
-				[
-					0,
-					7
-				],
-				[
-					2,
-					15
-				],
-				[
-					3,
-					23
-				],
-				[
-					4,
-					27
-				],
-				[
-					4,
-					30
-				],
-				[
-					5,
-					31
-				],
-				[
-					5,
-					33
-				],
-				[
-					6,
-					36
-				],
-				[
-					6,
-					39
-				],
-				[
-					6,
-					40
-				],
-				[
-					6,
-					41
-				],
-				[
-					6,
-					41
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				6,
-				41
-			]
-		},
-		{
-			"id": "eku_ICS0pR1Bi3QxjPmLI",
-			"type": "freedraw",
-			"x": -546.1777257747365,
-			"y": 10776.98215758006,
-			"width": 82,
-			"height": 9,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 547825640,
-			"version": 15,
-			"versionNonce": 1581373672,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					5,
-					-2
-				],
-				[
-					16,
-					-4
-				],
-				[
-					27,
-					-5
-				],
-				[
-					38,
-					-5
-				],
-				[
-					53,
-					-6
-				],
-				[
-					63,
-					-7
-				],
-				[
-					72,
-					-7
-				],
-				[
-					78,
-					-8
-				],
-				[
-					81,
-					-9
-				],
-				[
-					82,
-					-9
-				],
-				[
-					82,
-					-9
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				82,
-				-9
-			]
-		},
-		{
-			"id": "ACtQpHMO1d3Edb95CfeXD",
-			"type": "freedraw",
-			"x": -531.1777257747365,
-			"y": 10803.98215758006,
-			"width": 15,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1285987560,
-			"version": 22,
-			"versionNonce": 34769304,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					6
-				],
-				[
-					2,
-					9
-				],
-				[
-					2,
-					10
-				],
-				[
-					2,
-					11
-				],
-				[
-					2,
-					14
-				],
-				[
-					3,
-					15
-				],
-				[
-					3,
-					14
-				],
-				[
-					3,
-					12
-				],
-				[
-					3,
-					9
-				],
-				[
-					3,
-					6
-				],
-				[
-					3,
-					3
-				],
-				[
-					5,
-					0
-				],
-				[
-					7,
-					-2
-				],
-				[
-					10,
-					-3
-				],
-				[
-					12,
-					-4
-				],
-				[
-					14,
-					-4
-				],
-				[
-					14,
-					-5
-				],
-				[
-					15,
-					-5
-				],
-				[
-					15,
-					-5
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				15,
-				-5
-			]
-		},
-		{
-			"id": "V95WOtmeETmgRV8xDlDxm",
-			"type": "freedraw",
-			"x": -510.1777257747365,
-			"y": 10805.98215758006,
-			"width": 14,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1507747736,
-			"version": 11,
-			"versionNonce": 1164344296,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					0
-				],
-				[
-					6,
-					0
-				],
-				[
-					9,
-					0
-				],
-				[
-					11,
-					-1
-				],
-				[
-					13,
-					-1
-				],
-				[
-					14,
-					-2
-				],
-				[
-					14,
-					-2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				14,
-				-2
-			]
-		},
-		{
-			"id": "MsD592iw5D9O2wJckz0Hd",
-			"type": "freedraw",
-			"x": -500.1777257747365,
-			"y": 10792.98215758006,
-			"width": 2,
-			"height": 26,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 720545944,
-			"version": 11,
-			"versionNonce": 121476760,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					5
-				],
-				[
-					0,
-					9
-				],
-				[
-					0,
-					13
-				],
-				[
-					1,
-					17
-				],
-				[
-					1,
-					23
-				],
-				[
-					2,
-					25
-				],
-				[
-					2,
-					26
-				],
-				[
-					2,
-					26
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				2,
-				26
-			]
-		},
-		{
-			"id": "J1K_UiUf-XLSHGTqvrn9Y",
-			"type": "freedraw",
-			"x": -484.1777257747365,
-			"y": 10789.98215758006,
-			"width": 27,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 574507416,
-			"version": 28,
-			"versionNonce": 1174322920,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363204080,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					4
-				],
-				[
-					0,
-					10
-				],
-				[
-					1,
-					16
-				],
-				[
-					1,
-					21
-				],
-				[
-					1,
-					22
-				],
-				[
-					1,
-					24
-				],
-				[
-					1,
-					25
-				],
-				[
-					1,
-					26
-				],
-				[
-					2,
-					26
-				],
-				[
-					4,
-					22
-				],
-				[
-					6,
-					20
-				],
-				[
-					8,
-					17
-				],
-				[
-					13,
-					14
-				],
-				[
-					17,
-					13
-				],
-				[
-					19,
-					12
-				],
-				[
-					20,
-					12
-				],
-				[
-					21,
-					12
-				],
-				[
-					21,
-					13
-				],
-				[
-					22,
-					16
-				],
-				[
-					23,
-					22
-				],
-				[
-					25,
-					29
-				],
-				[
-					26,
-					33
-				],
-				[
-					27,
-					35
-				],
-				[
-					27,
-					36
-				],
-				[
-					27,
-					36
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				27,
-				36
-			]
-		},
-		{
-			"id": "y0xY08mnWR79B_084H0Wb",
-			"type": "freedraw",
-			"x": -1435.1777257747367,
-			"y": 11221.98215758006,
-			"width": 49,
-			"height": 42,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 385147624,
+			"seed": 184454808,
 			"version": 18,
-			"versionNonce": 853142168,
-			"isDeleted": true,
+			"versionNonce": 1252567704,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51412,80 +42850,24 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					-1,
-					-3
-				],
-				[
-					0,
-					-3
-				],
-				[
-					6,
-					-6
-				],
-				[
-					14,
-					-7
-				],
-				[
-					20,
-					-7
-				],
-				[
-					25,
-					-5
-				],
-				[
-					28,
-					-1
-				],
-				[
-					32,
-					7
-				],
-				[
-					37,
-					16
-				],
-				[
-					40,
-					25
-				],
-				[
-					43,
-					32
-				],
-				[
-					46,
-					35
-				],
-				[
-					47,
-					35
-				],
-				[
-					48,
-					35
-				],
-				[
-					48,
-					35
+					0.0001,
+					0.0001
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				48,
-				35
+				0.0001,
+				0.0001
 			]
 		},
 		{
-			"id": "KcqSpk5hDNjkbYx4kC4mu",
+			"id": "oqdtXx008oyJhXshkmehn",
 			"type": "freedraw",
-			"x": -1408.1777257747367,
-			"y": 11258.98215758006,
-			"width": 17,
-			"height": 47,
+			"x": -1720.0943924414032,
+			"y": 11254.09326869117,
+			"width": 37.5,
+			"height": 101.25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -51496,12 +42878,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 824313752,
-			"version": 13,
-			"versionNonce": 1879157480,
-			"isDeleted": true,
+			"seed": 1986691992,
+			"version": 63,
+			"versionNonce": 293530344,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51510,59 +42892,359 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					1,
-					-3
+					-1.25,
+					1.25
 				],
 				[
-					1,
-					-4
+					-1.25,
+					2.5
 				],
 				[
-					1,
-					-5
+					-1.25,
+					10
 				],
 				[
-					4,
-					-11
+					0,
+					23.75
 				],
 				[
-					9,
-					-21
+					0,
+					33.75
 				],
 				[
-					15,
-					-40
+					1.25,
+					42.5
 				],
 				[
-					17,
-					-45
+					1.25,
+					50
 				],
 				[
-					17,
-					-46
+					1.25,
+					56.25
 				],
 				[
-					17,
-					-47
+					2.5,
+					61.25
 				],
 				[
-					17,
-					-47
+					2.5,
+					63.75
+				],
+				[
+					2.5,
+					65
+				],
+				[
+					2.5,
+					63.75
+				],
+				[
+					2.5,
+					57.5
+				],
+				[
+					2.5,
+					46.25
+				],
+				[
+					1.25,
+					32.5
+				],
+				[
+					0,
+					17.5
+				],
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-13.75
+				],
+				[
+					-1.25,
+					-23.75
+				],
+				[
+					-1.25,
+					-30
+				],
+				[
+					-1.25,
+					-32.5
+				],
+				[
+					1.25,
+					-35
+				],
+				[
+					3.75,
+					-36.25
+				],
+				[
+					7.5,
+					-36.25
+				],
+				[
+					10,
+					-35
+				],
+				[
+					12.5,
+					-32.5
+				],
+				[
+					13.75,
+					-27.5
+				],
+				[
+					16.25,
+					-22.5
+				],
+				[
+					16.25,
+					-18.75
+				],
+				[
+					16.25,
+					-11.25
+				],
+				[
+					16.25,
+					-3.75
+				],
+				[
+					13.75,
+					3.75
+				],
+				[
+					12.5,
+					8.75
+				],
+				[
+					11.25,
+					10
+				],
+				[
+					10,
+					11.25
+				],
+				[
+					7.5,
+					12.5
+				],
+				[
+					7.5,
+					13.75
+				],
+				[
+					10,
+					15
+				],
+				[
+					13.75,
+					18.75
+				],
+				[
+					17.5,
+					23.75
+				],
+				[
+					23.75,
+					31.25
+				],
+				[
+					28.75,
+					37.5
+				],
+				[
+					33.75,
+					42.5
+				],
+				[
+					35,
+					43.75
+				],
+				[
+					35,
+					45
+				],
+				[
+					36.25,
+					46.25
+				],
+				[
+					36.25,
+					46.25
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				17,
-				-47
+				36.25,
+				46.25
 			]
 		},
 		{
-			"id": "xoQ30thjFl2uXIsN4dn6f",
+			"id": "7VZC4VQhznxusbPFhjtYP",
 			"type": "freedraw",
-			"x": -1373.1777257747367,
-			"y": 11166.98215758006,
-			"width": 39,
+			"x": -1652.5943924414032,
+			"y": 11257.84326869117,
+			"width": 17.5,
+			"height": 2.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1867508200,
+			"version": 26,
+			"versionNonce": 2053609368,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					11.25,
+					0
+				],
+				[
+					13.75,
+					0
+				],
+				[
+					15,
+					1.25
+				],
+				[
+					16.25,
+					1.25
+				],
+				[
+					17.5,
+					1.25
+				],
+				[
+					17.5,
+					2.5
+				],
+				[
+					17.5,
+					2.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.5,
+				2.5
+			]
+		},
+		{
+			"id": "1En_Cfj2JJUwAvWI2DeRC",
+			"type": "freedraw",
+			"x": -1646.3443924414032,
+			"y": 11275.34326869117,
+			"width": 16.25,
+			"height": 2.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1222728680,
+			"version": 25,
+			"versionNonce": 1932611048,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					5,
+					1.25
+				],
+				[
+					7.5,
+					1.25
+				],
+				[
+					11.25,
+					2.5
+				],
+				[
+					13.75,
+					2.5
+				],
+				[
+					15,
+					2.5
+				],
+				[
+					16.25,
+					2.5
+				],
+				[
+					16.25,
+					2.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.25,
+				2.5
+			]
+		},
+		{
+			"id": "D4w0iv2kav9qZXa-ea7P6",
+			"type": "freedraw",
+			"x": -1536.3443924414032,
+			"y": 11221.59326869117,
+			"width": 50,
 			"height": 75,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -51574,12 +43256,192 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 885880216,
-			"version": 38,
-			"versionNonce": 1248909208,
-			"isDeleted": true,
+			"seed": 1612945304,
+			"version": 40,
+			"versionNonce": 230745240,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.25,
+					0
+				],
+				[
+					-12.5,
+					6.25
+				],
+				[
+					-17.5,
+					18.75
+				],
+				[
+					-25,
+					36.25
+				],
+				[
+					-28.75,
+					51.25
+				],
+				[
+					-30,
+					63.75
+				],
+				[
+					-30,
+					71.25
+				],
+				[
+					-30,
+					73.75
+				],
+				[
+					-28.75,
+					75
+				],
+				[
+					-27.5,
+					75
+				],
+				[
+					-26.25,
+					75
+				],
+				[
+					-22.5,
+					72.5
+				],
+				[
+					-18.75,
+					65
+				],
+				[
+					-17.5,
+					58.75
+				],
+				[
+					-16.25,
+					53.75
+				],
+				[
+					-16.25,
+					50
+				],
+				[
+					-20,
+					48.75
+				],
+				[
+					-30,
+					46.25
+				],
+				[
+					-36.25,
+					48.75
+				],
+				[
+					-42.5,
+					55
+				],
+				[
+					-48.75,
+					60
+				],
+				[
+					-50,
+					62.5
+				],
+				[
+					-47.5,
+					63.75
+				],
+				[
+					-47.5,
+					63.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-47.5,
+				63.75
+			]
+		},
+		{
+			"id": "V6-3sgA_RWOnwV4QhkXn_",
+			"type": "freedraw",
+			"x": -1528.8443924414032,
+			"y": 11296.59326869117,
+			"width": 1.25,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1151713432,
+			"version": 19,
+			"versionNonce": 1453281512,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.25,
+				0
+			]
+		},
+		{
+			"id": "K1KplEVJFhPA_MzazdCQF",
+			"type": "freedraw",
+			"x": -1508.8443924414032,
+			"y": 11234.09326869117,
+			"width": 35,
+			"height": 71.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 559684328,
+			"version": 51,
+			"versionNonce": 1651020184,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51589,159 +43451,1765 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 				],
 				[
 					0,
-					8
+					-1.25
+				],
+				[
+					2.5,
+					-2.5
+				],
+				[
+					7.5,
+					-5
+				],
+				[
+					16.25,
+					-6.25
+				],
+				[
+					28.75,
+					-5
+				],
+				[
+					33.75,
+					-3.75
+				],
+				[
+					35,
+					-2.5
+				],
+				[
+					35,
+					1.25
+				],
+				[
+					32.5,
+					7.5
+				],
+				[
+					30,
+					11.25
+				],
+				[
+					27.5,
+					12.5
+				],
+				[
+					25,
+					15
+				],
+				[
+					22.5,
+					17.5
+				],
+				[
+					22.5,
+					20
+				],
+				[
+					21.25,
+					20
+				],
+				[
+					21.25,
+					21.25
+				],
+				[
+					23.75,
+					22.5
+				],
+				[
+					25,
+					22.5
+				],
+				[
+					25,
+					23.75
+				],
+				[
+					26.25,
+					27.5
+				],
+				[
+					27.5,
+					30
+				],
+				[
+					28.75,
+					33.75
+				],
+				[
+					28.75,
+					36.25
+				],
+				[
+					28.75,
+					38.75
+				],
+				[
+					28.75,
+					41.25
+				],
+				[
+					28.75,
+					46.25
+				],
+				[
+					27.5,
+					51.25
+				],
+				[
+					25,
+					56.25
+				],
+				[
+					22.5,
+					61.25
+				],
+				[
+					21.25,
+					62.5
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					13.75,
+					65
+				],
+				[
+					12.5,
+					65
+				],
+				[
+					11.25,
+					63.75
+				],
+				[
+					11.25,
+					63.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.25,
+				63.75
+			]
+		},
+		{
+			"id": "_fxxoo_l9bkaXGRXWCY9-",
+			"type": "freedraw",
+			"x": -1467.5943924414032,
+			"y": 11237.84326869117,
+			"width": 32.5,
+			"height": 67.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 994062744,
+			"version": 41,
+			"versionNonce": 1129640936,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					-1.25
 				],
 				[
 					0,
-					9
+					-1.25
 				],
 				[
-					1,
-					14
+					1.25,
+					-1.25
 				],
 				[
-					2,
-					26
+					5,
+					-1.25
 				],
 				[
-					4,
-					41
+					12.5,
+					1.25
+				],
+				[
+					21.25,
+					5
+				],
+				[
+					26.25,
+					6.25
+				],
+				[
+					30,
+					8.75
+				],
+				[
+					31.25,
+					8.75
+				],
+				[
+					31.25,
+					11.25
+				],
+				[
+					31.25,
+					17.5
+				],
+				[
+					31.25,
+					26.25
+				],
+				[
+					31.25,
+					36.25
+				],
+				[
+					30,
+					45
+				],
+				[
+					28.75,
+					51.25
+				],
+				[
+					27.5,
+					53.75
+				],
+				[
+					27.5,
+					56.25
+				],
+				[
+					23.75,
+					58.75
+				],
+				[
+					22.5,
+					62.5
+				],
+				[
+					20,
+					65
+				],
+				[
+					20,
+					66.25
+				],
+				[
+					18.75,
+					66.25
+				],
+				[
+					18.75,
+					65
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					17.5,
+					63.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.5,
+				63.75
+			]
+		},
+		{
+			"id": "5IMnnUO-KraIm1haczR6Z",
+			"type": "freedraw",
+			"x": -1457.5943924414032,
+			"y": 11280.34326869117,
+			"width": 18.75,
+			"height": 6.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 116292328,
+			"version": 24,
+			"versionNonce": 2140315288,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					6.25,
+					-1.25
+				],
+				[
+					11.25,
+					-3.75
+				],
+				[
+					13.75,
+					-3.75
+				],
+				[
+					18.75,
+					-5
+				],
+				[
+					18.75,
+					-6.25
+				],
+				[
+					18.75,
+					-6.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				18.75,
+				-6.25
+			]
+		},
+		{
+			"id": "qzMFA_kQik0Z_zPWN4mBF",
+			"type": "freedraw",
+			"x": -1397.5943924414032,
+			"y": 11274.09326869117,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1744609768,
+			"version": 17,
+			"versionNonce": 1868445416,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "Web9qP6-EyBSOONN2FTbR",
+			"type": "freedraw",
+			"x": -1360.0943924414032,
+			"y": 11250.34326869117,
+			"width": 2.5,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 978255256,
+			"version": 20,
+			"versionNonce": 1710427032,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				2.5,
+				0
+			]
+		},
+		{
+			"id": "podqAxAJTpvPpb9fpRv1-",
+			"type": "freedraw",
+			"x": -1355.0943924414032,
+			"y": 11247.84326869117,
+			"width": 5,
+			"height": 48.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 665568408,
+			"version": 27,
+			"versionNonce": 1866930664,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					1.25,
+					3.75
+				],
+				[
+					0,
+					12.5
+				],
+				[
+					-1.25,
+					25
+				],
+				[
+					-2.5,
+					36.25
+				],
+				[
+					-3.75,
+					43.75
+				],
+				[
+					-3.75,
+					46.25
+				],
+				[
+					-3.75,
+					47.5
+				],
+				[
+					-3.75,
+					48.75
+				],
+				[
+					-3.75,
+					48.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-3.75,
+				48.75
+			]
+		},
+		{
+			"id": "FKilCWHTiy4qCCp-0xm_z",
+			"type": "freedraw",
+			"x": -1321.3443924414032,
+			"y": 11249.09326869117,
+			"width": 36.25,
+			"height": 56.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 185770728,
+			"version": 36,
+			"versionNonce": 1606277272,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-7.5,
+					7.5
+				],
+				[
+					-10,
+					12.5
+				],
+				[
+					-10,
+					13.75
+				],
+				[
+					-12.5,
+					21.25
+				],
+				[
+					-16.25,
+					33.75
+				],
+				[
+					-18.75,
+					46.25
+				],
+				[
+					-18.75,
+					52.5
+				],
+				[
+					-18.75,
+					53.75
+				],
+				[
+					-15,
+					55
+				],
+				[
+					-7.5,
+					56.25
+				],
+				[
+					-1.25,
+					53.75
 				],
 				[
 					5,
 					50
 				],
 				[
-					6,
-					56
+					12.5,
+					40
 				],
 				[
-					7,
-					62
+					15,
+					31.25
 				],
 				[
-					7,
-					66
+					17.5,
+					23.75
 				],
 				[
-					7,
-					68
+					17.5,
+					18.75
 				],
 				[
-					7,
-					67
+					16.25,
+					16.25
 				],
 				[
-					7,
-					63
+					13.75,
+					16.25
 				],
 				[
-					7,
-					59
+					12.5,
+					15
 				],
 				[
-					7,
-					57
-				],
+					12.5,
+					15
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				12.5,
+				15
+			]
+		},
+		{
+			"id": "--5zsFi7ostS3eh2AE2oS",
+			"type": "freedraw",
+			"x": -1315.0943924414032,
+			"y": 11255.34326869117,
+			"width": 13.75,
+			"height": 22.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 906707944,
+			"version": 29,
+			"versionNonce": 1713085672,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
 				[
-					7,
-					54
-				],
-				[
-					8,
-					49
-				],
-				[
-					8,
-					42
-				],
-				[
-					8,
-					36
-				],
-				[
-					8,
-					30
-				],
-				[
-					8,
-					29
-				],
-				[
-					8,
-					23
-				],
-				[
-					8,
-					17
-				],
-				[
-					8,
-					11
-				],
-				[
-					8,
-					4
-				],
-				[
-					8,
+					0,
 					0
 				],
 				[
-					8,
-					-3
+					1.25,
+					1.25
 				],
 				[
-					8,
-					-4
+					2.5,
+					3.75
 				],
 				[
-					8,
-					-5
+					3.75,
+					6.25
+				],
+				[
+					5,
+					10
+				],
+				[
+					7.5,
+					12.5
+				],
+				[
+					8.75,
+					13.75
 				],
 				[
 					10,
+					15
+				],
+				[
+					10,
+					16.25
+				],
+				[
+					11.25,
+					17.5
+				],
+				[
+					12.5,
+					20
+				],
+				[
+					12.5,
+					21.25
+				],
+				[
+					13.75,
+					22.5
+				],
+				[
+					13.75,
+					22.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.75,
+				22.5
+			]
+		},
+		{
+			"id": "nSjkmKhpQ304YCNacKChD",
+			"type": "freedraw",
+			"x": -1298.8443924414032,
+			"y": 11224.09326869117,
+			"width": 28.75,
+			"height": 17.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 906504600,
+			"version": 40,
+			"versionNonce": 1353123224,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					12.5,
+					0
+				],
+				[
+					18.75,
+					1.25
+				],
+				[
+					23.75,
+					2.5
+				],
+				[
+					26.25,
+					3.75
+				],
+				[
+					26.25,
+					5
+				],
+				[
+					23.75,
+					6.25
+				],
+				[
+					22.5,
+					7.5
+				],
+				[
+					21.25,
+					8.75
+				],
+				[
+					21.25,
+					10
+				],
+				[
+					22.5,
+					10
+				],
+				[
+					23.75,
+					11.25
+				],
+				[
+					26.25,
+					12.5
+				],
+				[
+					27.5,
+					13.75
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					27.5,
+					15
+				],
+				[
+					23.75,
+					16.25
+				],
+				[
+					20,
+					17.5
+				],
+				[
+					17.5,
+					17.5
+				],
+				[
+					13.75,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				11.25,
+				16.25
+			]
+		},
+		{
+			"id": "BvoDG-sotoLbZSwENlEwp",
+			"type": "freedraw",
+			"x": -1168.8443924414032,
+			"y": 11290.34326869117,
+			"width": 2.5,
+			"height": 23.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1132270232,
+			"version": 25,
+			"versionNonce": 895991784,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					5
+				],
+				[
+					0,
+					8.75
+				],
+				[
+					-1.25,
+					11.25
+				],
+				[
+					-1.25,
+					15
+				],
+				[
+					-1.25,
+					18.75
+				],
+				[
+					-1.25,
+					21.25
+				],
+				[
+					-2.5,
+					22.5
+				],
+				[
+					-2.5,
+					23.75
+				],
+				[
+					-2.5,
+					23.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-2.5,
+				23.75
+			]
+		},
+		{
+			"id": "5ubfLiiKqOeLC-n1XHWcV",
+			"type": "freedraw",
+			"x": -1061.3443924414032,
+			"y": 11231.59326869117,
+			"width": 67.5,
+			"height": 108.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1266561512,
+			"version": 58,
+			"versionNonce": 98734744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10,
+					0
+				],
+				[
+					-11.25,
+					1.25
+				],
+				[
+					-17.5,
+					6.25
+				],
+				[
+					-23.75,
+					15
+				],
+				[
+					-25,
+					25
+				],
+				[
+					-23.75,
+					33.75
+				],
+				[
+					-15,
+					38.75
+				],
+				[
+					-3.75,
+					40
+				],
+				[
+					8.75,
+					37.5
+				],
+				[
+					20,
+					32.5
+				],
+				[
+					26.25,
+					26.25
+				],
+				[
+					30,
+					20
+				],
+				[
+					31.25,
+					13.75
+				],
+				[
+					31.25,
+					6.25
+				],
+				[
+					31.25,
+					7.5
+				],
+				[
+					31.25,
+					11.25
+				],
+				[
+					31.25,
+					17.5
+				],
+				[
+					31.25,
+					28.75
+				],
+				[
+					33.75,
+					41.25
+				],
+				[
+					36.25,
+					53.75
+				],
+				[
+					37.5,
+					63.75
+				],
+				[
+					40,
+					76.25
+				],
+				[
+					41.25,
+					87.5
+				],
+				[
+					42.5,
+					96.25
+				],
+				[
+					42.5,
+					102.5
+				],
+				[
+					40,
+					107.5
+				],
+				[
+					38.75,
+					108.75
+				],
+				[
+					36.25,
+					108.75
+				],
+				[
+					35,
+					108.75
+				],
+				[
+					31.25,
+					108.75
+				],
+				[
+					26.25,
+					106.25
+				],
+				[
+					20,
+					101.25
+				],
+				[
+					15,
+					96.25
+				],
+				[
+					11.25,
+					90
+				],
+				[
+					8.75,
+					85
+				],
+				[
+					7.5,
+					81.25
+				],
+				[
+					7.5,
+					78.75
+				],
+				[
+					8.75,
+					75
+				],
+				[
+					12.5,
+					70
+				],
+				[
+					17.5,
+					66.25
+				],
+				[
+					22.5,
+					62.5
+				],
+				[
+					22.5,
+					62.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.5,
+				62.5
+			]
+		},
+		{
+			"id": "oMMjdnAxf5q6_WYMatX0t",
+			"type": "freedraw",
+			"x": -992.5943924414032,
+			"y": 11226.59326869117,
+			"width": 15,
+			"height": 3.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1778439144,
+			"version": 25,
+			"versionNonce": 758612712,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					5,
+					0
+				],
+				[
+					7.5,
+					1.25
+				],
+				[
+					10,
+					2.5
+				],
+				[
+					11.25,
+					2.5
+				],
+				[
+					12.5,
+					2.5
+				],
+				[
+					13.75,
+					2.5
+				],
+				[
+					15,
+					3.75
+				],
+				[
+					15,
+					3.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15,
+				3.75
+			]
+		},
+		{
+			"id": "HRD8wmmUC7cR-973AqUem",
+			"type": "freedraw",
+			"x": -985.0943924414032,
+			"y": 11240.34326869117,
+			"width": 16.25,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1666359192,
+			"version": 27,
+			"versionNonce": 103055256,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					6.25,
+					0
+				],
+				[
+					8.75,
+					0
+				],
+				[
+					11.25,
+					0
+				],
+				[
+					12.5,
+					0
+				],
+				[
+					13.75,
+					0
+				],
+				[
+					15,
+					0
+				],
+				[
+					16.25,
+					0
+				],
+				[
+					16.25,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.25,
+				0
+			]
+		},
+		{
+			"id": "fPEzyOXmpgbAbkkxldOt7",
+			"type": "freedraw",
+			"x": -935.0943924414032,
+			"y": 11199.09326869117,
+			"width": 5,
+			"height": 51.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 186071016,
+			"version": 28,
+			"versionNonce": 1008133608,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					11.25
+				],
+				[
+					0,
+					17.5
+				],
+				[
+					1.25,
+					21.25
+				],
+				[
+					1.25,
+					26.25
+				],
+				[
+					1.25,
+					31.25
+				],
+				[
+					2.5,
+					37.5
+				],
+				[
+					2.5,
+					42.5
+				],
+				[
+					3.75,
+					46.25
+				],
+				[
+					3.75,
+					50
+				],
+				[
+					3.75,
+					51.25
+				],
+				[
+					5,
+					51.25
+				],
+				[
+					5,
+					51.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				5,
+				51.25
+			]
+		},
+		{
+			"id": "YAfrVGNJ5ml2cpwGdJcHq",
+			"type": "freedraw",
+			"x": -893.8443924414032,
+			"y": 11192.84326869117,
+			"width": 46.25,
+			"height": 72.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1757981928,
+			"version": 41,
+			"versionNonce": 1637928088,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.5,
+					3.75
+				],
+				[
+					-5,
+					10
+				],
+				[
+					-6.25,
+					16.25
+				],
+				[
+					-7.5,
+					28.75
+				],
+				[
+					-7.5,
+					43.75
+				],
+				[
+					-6.25,
+					56.25
+				],
+				[
+					-3.75,
+					67.5
+				],
+				[
+					1.25,
+					72.5
+				],
+				[
+					5,
+					72.5
+				],
+				[
+					6.25,
+					72.5
+				],
+				[
+					12.5,
+					68.75
+				],
+				[
+					20,
+					62.5
+				],
+				[
+					28.75,
+					53.75
+				],
+				[
+					35,
+					43.75
+				],
+				[
+					37.5,
+					36.25
+				],
+				[
+					38.75,
+					32.5
+				],
+				[
+					38.75,
+					26.25
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					20,
+					11.25
+				],
+				[
+					10,
+					7.5
+				],
+				[
+					5,
+					6.25
+				],
+				[
+					0,
+					6.25
+				],
+				[
+					-1.25,
+					6.25
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-1.25,
+				6.25
+			]
+		},
+		{
+			"id": "QtRV-93SJxV8SvwjBN4sn",
+			"type": "freedraw",
+			"x": -1883.8443924414032,
+			"y": 11677.84326869117,
+			"width": 42.5,
+			"height": 86.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1060920984,
+			"version": 63,
+			"versionNonce": 521267432,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.5,
 					-5
 				],
 				[
-					17,
-					-6
+					-5,
+					-8.75
 				],
 				[
-					25,
-					-7
+					-7.5,
+					-13.75
 				],
 				[
-					32,
-					-7
+					-12.5,
+					-18.75
 				],
 				[
-					36,
-					-7
+					-21.25,
+					-23.75
 				],
 				[
-					39,
-					-7
+					-27.5,
+					-27.5
 				],
 				[
-					39,
-					-7
+					-31.25,
+					-27.5
+				],
+				[
+					-36.25,
+					-26.25
+				],
+				[
+					-40,
+					-21.25
+				],
+				[
+					-42.5,
+					-15
+				],
+				[
+					-42.5,
+					-10
+				],
+				[
+					-42.5,
+					-5
+				],
+				[
+					-40,
+					-1.25
+				],
+				[
+					-36.25,
+					0
+				],
+				[
+					-32.5,
+					1.25
+				],
+				[
+					-30,
+					1.25
+				],
+				[
+					-26.25,
+					1.25
+				],
+				[
+					-23.75,
+					-2.5
+				],
+				[
+					-21.25,
+					-7.5
+				],
+				[
+					-21.25,
+					-16.25
+				],
+				[
+					-22.5,
+					-22.5
+				],
+				[
+					-23.75,
+					-26.25
+				],
+				[
+					-23.75,
+					-25
+				],
+				[
+					-23.75,
+					-20
+				],
+				[
+					-23.75,
+					-10
+				],
+				[
+					-22.5,
+					2.5
+				],
+				[
+					-17.5,
+					15
+				],
+				[
+					-15,
+					25
+				],
+				[
+					-13.75,
+					35
+				],
+				[
+					-12.5,
+					43.75
+				],
+				[
+					-12.5,
+					50
+				],
+				[
+					-12.5,
+					55
+				],
+				[
+					-13.75,
+					57.5
+				],
+				[
+					-15,
+					58.75
+				],
+				[
+					-17.5,
+					58.75
+				],
+				[
+					-20,
+					58.75
+				],
+				[
+					-25,
+					56.25
+				],
+				[
+					-30,
+					53.75
+				],
+				[
+					-33.75,
+					50
+				],
+				[
+					-35,
+					45
+				],
+				[
+					-36.25,
+					40
+				],
+				[
+					-36.25,
+					32.5
+				],
+				[
+					-33.75,
+					27.5
+				],
+				[
+					-28.75,
+					21.25
+				],
+				[
+					-23.75,
+					16.25
+				],
+				[
+					-21.25,
+					13.75
+				],
+				[
+					-21.25,
+					13.75
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				39,
-				-7
+				-21.25,
+				13.75
 			]
 		},
 		{
-			"id": "_nBDpNRutFWBIYrKp0n0x",
+			"id": "0tseYh6AKsaI80QZf9fAK",
 			"type": "freedraw",
-			"x": -1362.1777257747367,
-			"y": 11211.98215758006,
-			"width": 33,
-			"height": 4,
+			"x": -1871.3443924414032,
+			"y": 11640.34326869117,
+			"width": 15,
+			"height": 2.5,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -51752,12 +45220,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1917756904,
-			"version": 13,
-			"versionNonce": 1935412712,
-			"isDeleted": true,
+			"seed": 19807976,
+			"version": 23,
+			"versionNonce": 34306456,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51766,60 +45234,48 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					1,
+					1.25,
 					0
 				],
 				[
-					3,
+					5,
 					0
 				],
 				[
-					7,
-					-2
+					7.5,
+					0
 				],
 				[
-					13,
-					-3
+					11.25,
+					0
 				],
 				[
-					14,
-					-3
+					13.75,
+					-1.25
 				],
 				[
-					21,
-					-4
+					15,
+					-2.5
 				],
 				[
-					29,
-					-4
-				],
-				[
-					32,
-					-4
-				],
-				[
-					33,
-					-4
-				],
-				[
-					33,
-					-4
+					15,
+					-2.5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				33,
-				-4
+				15,
+				-2.5
 			]
 		},
 		{
-			"id": "A9HUXXsi29kYpxWN81hxr",
+			"id": "qZLLfM7_U85r3sbLdsMFu",
 			"type": "freedraw",
-			"x": -1270.1777257747367,
-			"y": 11191.98215758006,
-			"width": 25,
-			"height": 1,
+			"x": -1875.0943924414032,
+			"y": 11659.09326869117,
+			"width": 31.25,
+			"height": 1.25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -51830,12 +45286,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 77797352,
-			"version": 10,
-			"versionNonce": 178398360,
-			"isDeleted": true,
+			"seed": 893187992,
+			"version": 25,
+			"versionNonce": 297044968,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51844,48 +45300,238 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					3,
+					5,
+					-1.25
+				],
+				[
+					7.5,
+					-1.25
+				],
+				[
+					12.5,
+					-1.25
+				],
+				[
+					17.5,
 					0
 				],
 				[
-					6,
+					23.75,
 					0
 				],
 				[
-					11,
-					-1
+					28.75,
+					0
 				],
 				[
-					16,
-					-1
+					30,
+					0
 				],
 				[
-					22,
-					-1
+					31.25,
+					0
+				],
+				[
+					31.25,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				31.25,
+				0
+			]
+		},
+		{
+			"id": "2-H2W_HgjaoAPwfAh9lCe",
+			"type": "freedraw",
+			"x": -1756.3443924414032,
+			"y": 11595.34326869117,
+			"width": 28.75,
+			"height": 56.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1936211176,
+			"version": 52,
+			"versionNonce": 2056816280,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					-3.75
+				],
+				[
+					-2.5,
+					-8.75
+				],
+				[
+					-2.5,
+					-15
+				],
+				[
+					-3.75,
+					-38.75
+				],
+				[
+					-3.75,
+					-47.5
+				],
+				[
+					-3.75,
+					-53.75
+				],
+				[
+					-3.75,
+					-56.25
+				],
+				[
+					-3.75,
+					-55
+				],
+				[
+					-3.75,
+					-51.25
+				],
+				[
+					-2.5,
+					-41.25
+				],
+				[
+					0,
+					-30
+				],
+				[
+					1.25,
+					-18.75
+				],
+				[
+					3.75,
+					-12.5
+				],
+				[
+					3.75,
+					-11.25
+				],
+				[
+					5,
+					-12.5
+				],
+				[
+					5,
+					-13.75
+				],
+				[
+					6.25,
+					-20
+				],
+				[
+					7.5,
+					-28.75
+				],
+				[
+					8.75,
+					-40
+				],
+				[
+					10,
+					-48.75
+				],
+				[
+					11.25,
+					-53.75
+				],
+				[
+					12.5,
+					-55
+				],
+				[
+					12.5,
+					-53.75
+				],
+				[
+					12.5,
+					-51.25
+				],
+				[
+					13.75,
+					-45
+				],
+				[
+					17.5,
+					-35
+				],
+				[
+					20,
+					-22.5
+				],
+				[
+					21.25,
+					-16.25
+				],
+				[
+					23.75,
+					-10
+				],
+				[
+					23.75,
+					-8.75
+				],
+				[
+					23.75,
+					-7.5
 				],
 				[
 					25,
-					-1
+					-6.25
 				],
 				[
 					25,
-					-1
+					-5
+				],
+				[
+					25,
+					-3.75
+				],
+				[
+					25,
+					-2.5
+				],
+				[
+					25,
+					-2.5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
 				25,
-				-1
+				-2.5
 			]
 		},
 		{
-			"id": "hPlDaf1RrsyZdRfKGhCab",
+			"id": "iqOtq7BrkHXC-cCIR7QyZ",
 			"type": "freedraw",
-			"x": -1260.1777257747367,
-			"y": 11208.98215758006,
-			"width": 21,
-			"height": 2,
+			"x": -1787.5943924414032,
+			"y": 11615.34326869117,
+			"width": 95,
+			"height": 1.25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -51896,12 +45542,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1225436824,
-			"version": 12,
-			"versionNonce": 57807080,
-			"isDeleted": true,
+			"seed": 1785378280,
+			"version": 27,
+			"versionNonce": 2114637544,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51910,230 +45556,64 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					3,
+					12.5,
 					0
-				],
-				[
-					5,
-					0
-				],
-				[
-					7,
-					-1
-				],
-				[
-					10,
-					-1
-				],
-				[
-					13,
-					-1
-				],
-				[
-					16,
-					-2
-				],
-				[
-					18,
-					-2
-				],
-				[
-					21,
-					-2
-				],
-				[
-					21,
-					-2
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21,
-				-2
-			]
-		},
-		{
-			"id": "p_x_49Oi_jWKk8gnbrkxK",
-			"type": "freedraw",
-			"x": -1095.1777257747367,
-			"y": 11102.98215758006,
-			"width": 32,
-			"height": 42,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 22140392,
-			"version": 37,
-			"versionNonce": 824299928,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					4
-				],
-				[
-					2,
-					11
-				],
-				[
-					2,
-					19
-				],
-				[
-					3,
-					25
-				],
-				[
-					4,
-					29
-				],
-				[
-					5,
-					25
-				],
-				[
-					6,
-					19
-				],
-				[
-					6,
-					14
-				],
-				[
-					6,
-					7
-				],
-				[
-					7,
-					0
-				],
-				[
-					8,
-					-4
-				],
-				[
-					9,
-					-5
-				],
-				[
-					11,
-					-5
-				],
-				[
-					12,
-					-5
-				],
-				[
-					13,
-					-4
-				],
-				[
-					13,
-					-1
-				],
-				[
-					14,
-					2
-				],
-				[
-					14,
-					1
-				],
-				[
-					15,
-					-2
-				],
-				[
-					17,
-					-7
 				],
 				[
 					20,
-					-10
+					0
 				],
 				[
-					23,
-					-12
+					27.5,
+					0
 				],
 				[
-					25,
-					-12
+					38.75,
+					0
 				],
 				[
-					26,
-					-13
+					55,
+					0
 				],
 				[
-					26,
-					-12
+					71.25,
+					0
 				],
 				[
-					26,
-					-11
+					81.25,
+					-1.25
 				],
 				[
-					28,
-					-4
+					88.75,
+					-1.25
 				],
 				[
-					29,
-					4
+					93.75,
+					-1.25
 				],
 				[
-					30,
-					11
+					95,
+					-1.25
 				],
 				[
-					31,
-					11
-				],
-				[
-					32,
-					15
-				],
-				[
-					32,
-					16
-				],
-				[
-					32,
-					17
-				],
-				[
-					32,
-					17
+					95,
+					-1.25
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				32,
-				17
+				95,
+				-1.25
 			]
 		},
 		{
-			"id": "eiVdBDhAigkx8Tk50t3WS",
+			"id": "WTlnx8FEMV3jfq3dGh8OG",
 			"type": "freedraw",
-			"x": -1102.1777257747367,
-			"y": 11136.98215758006,
-			"width": 74,
-			"height": 9,
+			"x": -1755.0943924414032,
+			"y": 11654.09326869117,
+			"width": 41.25,
+			"height": 75,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -52144,82 +45624,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1485482984,
-			"version": 11,
-			"versionNonce": 1204794344,
-			"isDeleted": true,
+			"seed": 899787416,
+			"version": 61,
+			"versionNonce": 1476129688,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					1
-				],
-				[
-					6,
-					1
-				],
-				[
-					17,
-					-1
-				],
-				[
-					37,
-					-6
-				],
-				[
-					51,
-					-8
-				],
-				[
-					65,
-					-8
-				],
-				[
-					74,
-					-8
-				],
-				[
-					74,
-					-8
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				74,
-				-8
-			]
-		},
-		{
-			"id": "T1U20NBPCEl_GpAprVd5p",
-			"type": "freedraw",
-			"x": -1090.1777257747367,
-			"y": 11178.98215758006,
-			"width": 16,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 836385512,
-			"version": 39,
-			"versionNonce": 623107736,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52229,229 +45639,1245 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 				],
 				[
 					0,
-					1
-				],
-				[
-					1,
-					4
-				],
-				[
-					2,
-					8
-				],
-				[
-					2,
-					11
-				],
-				[
-					2,
-					14
-				],
-				[
-					2,
-					16
-				],
-				[
-					2,
-					15
-				],
-				[
-					2,
-					13
-				],
-				[
-					2,
-					8
-				],
-				[
-					1,
-					1
+					21.25
 				],
 				[
 					0,
-					-5
+					22.5
 				],
 				[
-					0,
-					-9
+					-1.25,
+					40
 				],
 				[
-					0,
-					-13
+					-2.5,
+					51.25
 				],
 				[
-					2,
-					-15
+					-2.5,
+					60
 				],
 				[
-					6,
-					-17
+					-3.75,
+					68.75
 				],
 				[
-					8,
-					-17
+					-3.75,
+					73.75
 				],
 				[
-					9,
-					-16
+					-3.75,
+					75
 				],
 				[
-					12,
-					-13
+					-3.75,
+					67.5
 				],
 				[
-					12,
-					-12
+					-5,
+					60
 				],
 				[
-					13,
-					-8
+					-5,
+					48.75
 				],
 				[
-					13,
-					-5
+					-7.5,
+					33.75
 				],
 				[
-					13,
-					-1
+					-8.75,
+					20
 				],
 				[
-					11,
-					3
+					-11.25,
+					8.75
 				],
 				[
-					10,
-					4
+					-12.5,
+					3.75
 				],
 				[
-					7,
-					6
+					-12.5,
+					1.25
 				],
 				[
-					6,
-					6
+					-10,
+					1.25
 				],
 				[
-					4,
-					7
+					-7.5,
+					1.25
 				],
 				[
-					4,
-					8
+					-3.75,
+					1.25
 				],
 				[
-					4,
-					9
+					1.25,
+					2.5
 				],
 				[
-					6,
-					12
-				],
-				[
-					9,
-					14
-				],
-				[
-					11,
-					15
-				],
-				[
-					14,
-					16
-				],
-				[
-					15,
-					17
-				],
-				[
-					16,
-					17
-				],
-				[
-					16,
-					17
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16,
-				17
-			]
-		},
-		{
-			"id": "fVxenun9oO3_ix_h3FK6a",
-			"type": "freedraw",
-			"x": -1066.1777257747367,
-			"y": 11182.98215758006,
-			"width": 10,
-			"height": 5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1354331112,
-			"version": 10,
-			"versionNonce": 377550568,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					2,
-					-2
+					2.5,
+					5
 				],
 				[
 					5,
-					-3
+					6.25
 				],
 				[
-					8,
-					-4
+					6.25,
+					10
 				],
 				[
-					9,
-					-4
+					6.25,
+					12.5
+				],
+				[
+					6.25,
+					16.25
+				],
+				[
+					6.25,
+					20
+				],
+				[
+					6.25,
+					23.75
+				],
+				[
+					5,
+					26.25
+				],
+				[
+					3.75,
+					27.5
+				],
+				[
+					2.5,
+					27.5
+				],
+				[
+					1.25,
+					30
+				],
+				[
+					1.25,
+					31.25
+				],
+				[
+					1.25,
+					32.5
+				],
+				[
+					1.25,
+					35
+				],
+				[
+					1.25,
+					37.5
+				],
+				[
+					2.5,
+					40
+				],
+				[
+					5,
+					45
 				],
 				[
 					10,
-					-5
+					50
+				],
+				[
+					15,
+					53.75
+				],
+				[
+					21.25,
+					57.5
+				],
+				[
+					26.25,
+					58.75
+				],
+				[
+					28.75,
+					58.75
+				],
+				[
+					28.75,
+					57.5
+				],
+				[
+					28.75,
+					56.25
+				],
+				[
+					28.75,
+					56.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				28.75,
+				56.25
+			]
+		},
+		{
+			"id": "NMJH09_SGZHwpA4A77qaL",
+			"type": "freedraw",
+			"x": -1737.5943924414032,
+			"y": 11642.84326869117,
+			"width": 17.5,
+			"height": 27.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 552464360,
+			"version": 39,
+			"versionNonce": 748728808,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					0,
+					-2.5
+				],
+				[
+					0,
+					-3.75
+				],
+				[
+					2.5,
+					-3.75
+				],
+				[
+					5,
+					-3.75
+				],
+				[
+					7.5,
+					-3.75
 				],
 				[
 					10,
+					-2.5
+				],
+				[
+					12.5,
+					-1.25
+				],
+				[
+					13.75,
+					-1.25
+				],
+				[
+					13.75,
+					0
+				],
+				[
+					13.75,
+					2.5
+				],
+				[
+					12.5,
+					10
+				],
+				[
+					10,
+					17.5
+				],
+				[
+					8.75,
+					21.25
+				],
+				[
+					7.5,
+					22.5
+				],
+				[
+					7.5,
+					23.75
+				],
+				[
+					8.75,
+					23.75
+				],
+				[
+					11.25,
+					23.75
+				],
+				[
+					12.5,
+					22.5
+				],
+				[
+					15,
+					21.25
+				],
+				[
+					16.25,
+					20
+				],
+				[
+					17.5,
+					20
+				],
+				[
+					17.5,
+					20
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.5,
+				20
+			]
+		},
+		{
+			"id": "gnxUdvu7XGEOHOoeamGAy",
+			"type": "freedraw",
+			"x": -1607.5943924414032,
+			"y": 11585.34326869117,
+			"width": 25,
+			"height": 52.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 531840664,
+			"version": 33,
+			"versionNonce": 1885978776,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					0
+				],
+				[
+					-1.25,
+					2.5
+				],
+				[
+					-2.5,
+					7.5
+				],
+				[
+					-6.25,
+					13.75
+				],
+				[
+					-10,
+					21.25
+				],
+				[
+					-15,
+					27.5
+				],
+				[
+					-18.75,
+					37.5
+				],
+				[
+					-21.25,
+					45
+				],
+				[
+					-22.5,
+					47.5
+				],
+				[
+					-22.5,
+					48.75
+				],
+				[
+					-20,
+					48.75
+				],
+				[
+					-13.75,
+					50
+				],
+				[
+					-8.75,
+					51.25
+				],
+				[
+					-3.75,
+					51.25
+				],
+				[
+					0,
+					52.5
+				],
+				[
+					2.5,
+					52.5
+				],
+				[
+					2.5,
+					52.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				2.5,
+				52.5
+			]
+		},
+		{
+			"id": "mdkGiw0Oi-LgkW5fLsw0u",
+			"type": "freedraw",
+			"x": -1616.3443924414032,
+			"y": 11611.59326869117,
+			"width": 15,
+			"height": 1.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 718148072,
+			"version": 23,
+			"versionNonce": 1954690280,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					10,
+					0
+				],
+				[
+					12.5,
+					1.25
+				],
+				[
+					13.75,
+					1.25
+				],
+				[
+					15,
+					1.25
+				],
+				[
+					15,
+					1.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				15,
+				1.25
+			]
+		},
+		{
+			"id": "K6sV7QlMHComeegmunh9q",
+			"type": "freedraw",
+			"x": -1608.8443924414032,
+			"y": 11624.09326869117,
+			"width": 25,
+			"height": 1.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 899765400,
+			"version": 25,
+			"versionNonce": 865463704,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					6.25,
+					1.25
+				],
+				[
+					8.75,
+					1.25
+				],
+				[
+					12.5,
+					1.25
+				],
+				[
+					17.5,
+					1.25
+				],
+				[
+					20,
+					1.25
+				],
+				[
+					22.5,
+					1.25
+				],
+				[
+					25,
+					1.25
+				],
+				[
+					25,
+					1.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25,
+				1.25
+			]
+		},
+		{
+			"id": "xV9kNYjDtSTM0xhPoFGWe",
+			"type": "freedraw",
+			"x": -1578.8443924414032,
+			"y": 11584.09326869117,
+			"width": 32.5,
+			"height": 60,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1223446504,
+			"version": 35,
+			"versionNonce": 1799051240,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.75,
+					3.75
+				],
+				[
+					11.25,
+					10
+				],
+				[
+					18.75,
+					13.75
+				],
+				[
+					23.75,
+					18.75
+				],
+				[
+					28.75,
+					22.5
+				],
+				[
+					30,
+					23.75
+				],
+				[
+					32.5,
+					26.25
+				],
+				[
+					32.5,
+					27.5
+				],
+				[
+					32.5,
+					28.75
+				],
+				[
+					32.5,
+					31.25
+				],
+				[
+					28.75,
+					36.25
+				],
+				[
+					26.25,
+					41.25
+				],
+				[
+					22.5,
+					47.5
+				],
+				[
+					21.25,
+					51.25
+				],
+				[
+					20,
+					55
+				],
+				[
+					20,
+					57.5
+				],
+				[
+					20,
+					58.75
+				],
+				[
+					21.25,
+					60
+				],
+				[
+					21.25,
+					60
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				21.25,
+				60
+			]
+		},
+		{
+			"id": "4kLgj-1sXQfB4-Gm2K6pT",
+			"type": "freedraw",
+			"x": -1425.0943924414032,
+			"y": 11646.59326869117,
+			"width": 72.5,
+			"height": 88.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 746336744,
+			"version": 44,
+			"versionNonce": 2058648216,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.5,
+					-3.75
+				],
+				[
+					-2.5,
 					-5
+				],
+				[
+					-2.5,
+					-13.75
+				],
+				[
+					-3.75,
+					-30
+				],
+				[
+					-5,
+					-42.5
+				],
+				[
+					-6.25,
+					-52.5
+				],
+				[
+					-8.75,
+					-62.5
+				],
+				[
+					-8.75,
+					-65
+				],
+				[
+					-8.75,
+					-66.25
+				],
+				[
+					-8.75,
+					-65
+				],
+				[
+					-5,
+					-60
+				],
+				[
+					0,
+					-48.75
+				],
+				[
+					7.5,
+					-33.75
+				],
+				[
+					15,
+					-20
+				],
+				[
+					22.5,
+					-12.5
+				],
+				[
+					26.25,
+					-10
+				],
+				[
+					27.5,
+					-10
+				],
+				[
+					31.25,
+					-12.5
+				],
+				[
+					35,
+					-21.25
+				],
+				[
+					37.5,
+					-30
+				],
+				[
+					40,
+					-40
+				],
+				[
+					41.25,
+					-50
+				],
+				[
+					43.75,
+					-56.25
+				],
+				[
+					43.75,
+					-55
+				],
+				[
+					45,
+					-51.25
+				],
+				[
+					50,
+					-36.25
+				],
+				[
+					52.5,
+					-23.75
+				],
+				[
+					56.25,
+					-8.75
+				],
+				[
+					60,
+					6.25
+				],
+				[
+					62.5,
+					16.25
+				],
+				[
+					63.75,
+					21.25
+				],
+				[
+					63.75,
+					22.5
+				],
+				[
+					63.75,
+					18.75
+				],
+				[
+					63.75,
+					16.25
+				],
+				[
+					63.75,
+					15
+				],
+				[
+					63.75,
+					15
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				63.75,
+				15
+			]
+		},
+		{
+			"id": "vismoRac-s6HU9Zj5hxvZ",
+			"type": "freedraw",
+			"x": -1340.0943924414032,
+			"y": 11629.09326869117,
+			"width": 25,
+			"height": 2.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1415367400,
+			"version": 18,
+			"versionNonce": 349706984,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					11.25,
+					-1.25
+				],
+				[
+					15,
+					-1.25
+				],
+				[
+					17.5,
+					-1.25
+				],
+				[
+					22.5,
+					-1.25
+				],
+				[
+					23.75,
+					-1.25
+				],
+				[
+					25,
+					-2.5
+				],
+				[
+					25,
+					-2.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				25,
+				-2.5
+			]
+		},
+		{
+			"id": "oAycSL0fLOqfz8ZXSgYia",
+			"type": "freedraw",
+			"x": -1321.3443924414032,
+			"y": 11644.09326869117,
+			"width": 16.25,
+			"height": 1.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 554794216,
+			"version": 16,
+			"versionNonce": 1484351384,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					6.25,
+					0
+				],
+				[
+					8.75,
+					0
+				],
+				[
+					12.5,
+					-1.25
+				],
+				[
+					15,
+					-1.25
+				],
+				[
+					16.25,
+					-1.25
+				],
+				[
+					16.25,
+					-1.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.25,
+				-1.25
+			]
+		},
+		{
+			"id": "xsrXU49VhclOpw67FiTtc",
+			"type": "freedraw",
+			"x": -1240.0943924414032,
+			"y": 11612.84326869117,
+			"width": 41.25,
+			"height": 87.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1459514344,
+			"version": 55,
+			"versionNonce": 333741544,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.5,
+					-1.25
+				],
+				[
+					-6.25,
+					-1.25
+				],
+				[
+					-8.75,
+					-2.5
+				],
+				[
+					-12.5,
+					-2.5
+				],
+				[
+					-17.5,
+					-1.25
+				],
+				[
+					-21.25,
+					0
+				],
+				[
+					-25,
+					5
+				],
+				[
+					-27.5,
+					10
+				],
+				[
+					-30,
+					17.5
+				],
+				[
+					-30,
+					25
+				],
+				[
+					-28.75,
+					32.5
+				],
+				[
+					-23.75,
+					35
+				],
+				[
+					-18.75,
+					36.25
+				],
+				[
+					-13.75,
+					36.25
+				],
+				[
+					-10,
+					32.5
+				],
+				[
+					-7.5,
+					27.5
+				],
+				[
+					-6.25,
+					21.25
+				],
+				[
+					-5,
+					15
+				],
+				[
+					-5,
+					10
+				],
+				[
+					-5,
+					8.75
+				],
+				[
+					-5,
+					7.5
+				],
+				[
+					-5,
+					8.75
+				],
+				[
+					-5,
+					11.25
+				],
+				[
+					-3.75,
+					18.75
+				],
+				[
+					-1.25,
+					32.5
+				],
+				[
+					1.25,
+					43.75
+				],
+				[
+					5,
+					52.5
+				],
+				[
+					7.5,
+					60
+				],
+				[
+					10,
+					67.5
+				],
+				[
+					10,
+					73.75
+				],
+				[
+					11.25,
+					77.5
+				],
+				[
+					11.25,
+					80
+				],
+				[
+					11.25,
+					82.5
+				],
+				[
+					10,
+					85
+				],
+				[
+					7.5,
+					85
+				],
+				[
+					3.75,
+					85
+				],
+				[
+					1.25,
+					85
+				],
+				[
+					-1.25,
+					82.5
+				],
+				[
+					-3.75,
+					80
+				],
+				[
+					-3.75,
+					78.75
+				],
+				[
+					-3.75,
+					73.75
+				],
+				[
+					-3.75,
+					68.75
+				],
+				[
+					-1.25,
+					58.75
+				],
+				[
+					1.25,
+					53.75
+				],
+				[
+					7.5,
+					41.25
+				],
+				[
+					10,
+					33.75
+				],
+				[
+					10,
+					33.75
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
 				10,
-				-5
+				33.75
 			]
 		},
 		{
-			"id": "NdCbyOJmA3dW_I_octBl8",
+			"id": "7rxyBwRPBDfaqko9Rx09A",
 			"type": "freedraw",
-			"x": -1063.1777257747367,
-			"y": 11168.98215758006,
-			"width": 6,
-			"height": 18,
+			"x": -1208.8443924414032,
+			"y": 11577.84326869117,
+			"width": 33.75,
+			"height": 72.5,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -52462,12 +46888,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1631982232,
-			"version": 10,
-			"versionNonce": 1197231000,
-			"isDeleted": true,
+			"seed": 396254872,
+			"version": 48,
+			"versionNonce": 1763226776,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52476,47 +46902,179 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					2,
-					6
+					0,
+					10
 				],
 				[
-					4,
-					11
+					0,
+					11.25
+				],
+				[
+					0,
+					20
+				],
+				[
+					2.5,
+					35
+				],
+				[
+					3.75,
+					46.25
 				],
 				[
 					5,
-					14
+					52.5
+				],
+				[
+					6.25,
+					60
+				],
+				[
+					7.5,
+					63.75
+				],
+				[
+					7.5,
+					62.5
+				],
+				[
+					7.5,
+					58.75
+				],
+				[
+					7.5,
+					50
 				],
 				[
 					5,
-					16
+					36.25
 				],
 				[
-					6,
-					17
+					2.5,
+					23.75
 				],
 				[
-					6,
-					18
+					0,
+					13.75
 				],
 				[
-					6,
-					18
+					-1.25,
+					6.25
+				],
+				[
+					-2.5,
+					0
+				],
+				[
+					-2.5,
+					-6.25
+				],
+				[
+					-2.5,
+					-8.75
+				],
+				[
+					0,
+					-8.75
+				],
+				[
+					2.5,
+					-8.75
+				],
+				[
+					5,
+					-6.25
+				],
+				[
+					7.5,
+					-3.75
+				],
+				[
+					10,
+					-2.5
+				],
+				[
+					12.5,
+					1.25
+				],
+				[
+					12.5,
+					5
+				],
+				[
+					13.75,
+					8.75
+				],
+				[
+					15,
+					12.5
+				],
+				[
+					15,
+					17.5
+				],
+				[
+					15,
+					21.25
+				],
+				[
+					13.75,
+					23.75
+				],
+				[
+					12.5,
+					25
+				],
+				[
+					12.5,
+					26.25
+				],
+				[
+					12.5,
+					28.75
+				],
+				[
+					15,
+					35
+				],
+				[
+					18.75,
+					43.75
+				],
+				[
+					23.75,
+					51.25
+				],
+				[
+					27.5,
+					57.5
+				],
+				[
+					30,
+					61.25
+				],
+				[
+					31.25,
+					62.5
+				],
+				[
+					31.25,
+					62.5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				6,
-				18
+				31.25,
+				62.5
 			]
 		},
 		{
-			"id": "RmOMwMbhrQjD0r4bpb5Mx",
+			"id": "TkMNpNUabKCVO824msaTV",
 			"type": "freedraw",
-			"x": -1040.1777257747367,
-			"y": 11172.98215758006,
-			"width": 26.000000000000114,
+			"x": -1187.5943924414032,
+			"y": 11560.34326869117,
+			"width": 46.25,
 			"height": 35,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -52528,12 +47086,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1851739880,
-			"version": 28,
-			"versionNonce": 605149672,
-			"isDeleted": true,
+			"seed": 1922699160,
+			"version": 30,
+			"versionNonce": 1500283112,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52542,1069 +47100,185 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					3,
-					-6
+					0,
+					-2.5
 				],
 				[
-					5,
-					-10
+					1.25,
+					-3.75
 				],
 				[
-					7,
-					-12
+					2.5,
+					-3.75
 				],
 				[
-					11,
-					-11
+					6.25,
+					-5
 				],
 				[
-					12,
-					-11
+					10,
+					-5
 				],
 				[
-					13,
-					-10
-				],
-				[
-					16,
-					-6
-				],
-				[
-					17.000000000000114,
-					6
-				],
-				[
-					17.000000000000114,
-					7
-				],
-				[
-					17.000000000000114,
-					16
-				],
-				[
-					17.000000000000114,
-					18
-				],
-				[
-					16,
-					19
+					11.25,
+					-5
 				],
 				[
 					15,
-					22
+					-3.75
 				],
 				[
-					13,
-					23
+					18.75,
+					-1.25
 				],
 				[
-					12,
-					23
+					22.5,
+					3.75
 				],
 				[
-					12,
-					22
+					22.5,
+					6.25
 				],
 				[
-					14,
-					19
+					22.5,
+					12.5
 				],
 				[
-					16,
-					17
-				],
-				[
-					20.000000000000114,
-					16
-				],
-				[
-					22.000000000000114,
-					16
-				],
-				[
-					24.000000000000114,
-					16
-				],
-				[
-					25.000000000000114,
-					17
-				],
-				[
-					25.000000000000114,
-					16
-				],
-				[
-					26.000000000000114,
-					16
-				],
-				[
-					26.000000000000114,
-					16
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.000000000000114,
-				16
-			]
-		},
-		{
-			"id": "kfF-iXvq-2zRj5kdxDMX7",
-			"type": "freedraw",
-			"x": -1010.1777257747366,
-			"y": 11151.98215758006,
-			"width": 24,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1303125144,
-			"version": 21,
-			"versionNonce": 1107237016,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					7
-				],
-				[
-					2,
-					15
-				],
-				[
-					4,
-					27
-				],
-				[
-					4,
-					28
-				],
-				[
-					4,
-					29
-				],
-				[
-					4,
-					33
-				],
-				[
-					5,
-					32
-				],
-				[
-					5,
-					28
-				],
-				[
-					5,
-					25
-				],
-				[
-					6,
-					21
-				],
-				[
-					7,
+					23.75,
 					20
-				],
-				[
-					8,
-					20
-				],
-				[
-					9,
-					20
-				],
-				[
-					11,
-					24
-				],
-				[
-					17,
-					32
-				],
-				[
-					21,
-					36
-				],
-				[
-					24,
-					38
-				],
-				[
-					24,
-					38
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				24,
-				38
-			]
-		},
-		{
-			"id": "YgEXEmolSBcnl1gdAvcCX",
-			"type": "freedraw",
-			"x": -1113.1777257747367,
-			"y": 11152.98215758006,
-			"width": 23,
-			"height": 57,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2019409560,
-			"version": 17,
-			"versionNonce": 864967912,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2,
-					8
-				],
-				[
-					-2,
-					9
-				],
-				[
-					-4,
-					19
-				],
-				[
-					-4,
-					31
-				],
-				[
-					-3,
-					39
-				],
-				[
-					-1,
-					45
-				],
-				[
-					2,
-					49
-				],
-				[
-					5,
-					53
-				],
-				[
-					8,
-					55
-				],
-				[
-					12,
-					57
-				],
-				[
-					13,
-					57
-				],
-				[
-					16,
-					57
-				],
-				[
-					19,
-					57
-				],
-				[
-					19,
-					57
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				57
-			]
-		},
-		{
-			"id": "1gVJ9UHOw70vEE6kx4_N9",
-			"type": "freedraw",
-			"x": -993.1777257747366,
-			"y": 11144.98215758006,
-			"width": 36.000000000000114,
-			"height": 59,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 507750040,
-			"version": 19,
-			"versionNonce": 1488995736,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2,
-					2
-				],
-				[
-					8,
-					8
-				],
-				[
-					15,
-					14
-				],
-				[
-					23,
-					22
-				],
-				[
-					29.000000000000114,
-					32
-				],
-				[
-					33.000000000000114,
-					40
-				],
-				[
-					35.000000000000114,
-					46
-				],
-				[
-					36.000000000000114,
-					51
-				],
-				[
-					36.000000000000114,
-					55
-				],
-				[
-					36.000000000000114,
-					56
-				],
-				[
-					36.000000000000114,
-					58
-				],
-				[
-					36.000000000000114,
-					59
-				],
-				[
-					35.000000000000114,
-					59
-				],
-				[
-					34.000000000000114,
-					59
-				],
-				[
-					34.000000000000114,
-					58
-				],
-				[
-					34.000000000000114,
-					58
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				34.000000000000114,
-				58
-			]
-		},
-		{
-			"id": "PVWYO8EZHa5yR8TZQgCw5",
-			"type": "freedraw",
-			"x": -964.1777257747365,
-			"y": 11141.98215758006,
-			"width": 23,
-			"height": 11,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 885259160,
-			"version": 23,
-			"versionNonce": 1182957544,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					-1
-				],
-				[
-					5,
-					-1
-				],
-				[
-					7,
-					-2
-				],
-				[
-					9,
-					-2
-				],
-				[
-					10,
-					-1
-				],
-				[
-					10,
-					0
-				],
-				[
-					10,
-					3
-				],
-				[
-					11,
-					5
-				],
-				[
-					12,
-					7
-				],
-				[
-					12,
-					8
-				],
-				[
-					12,
-					9
-				],
-				[
-					13,
-					9
-				],
-				[
-					14,
-					9
-				],
-				[
-					15,
-					9
-				],
-				[
-					17,
-					9
-				],
-				[
-					20,
-					9
-				],
-				[
-					22,
-					8
-				],
-				[
-					23,
-					7
-				],
-				[
-					23,
-					7
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23,
-				7
-			]
-		},
-		{
-			"id": "TWRA9Ysfwqx_nmrdi0IWk",
-			"type": "freedraw",
-			"x": -914.1777257747365,
-			"y": 11103.98215758006,
-			"width": 19,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1811638936,
-			"version": 12,
-			"versionNonce": 953406104,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					3,
-					0
-				],
-				[
-					7,
-					0
-				],
-				[
-					10,
-					0
-				],
-				[
-					13,
-					0
-				],
-				[
-					16,
-					0
-				],
-				[
-					18,
-					0
-				],
-				[
-					19,
-					0
-				],
-				[
-					19,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				19,
-				0
-			]
-		},
-		{
-			"id": "L3H5LYMF2oqqbvDKk2mSv",
-			"type": "freedraw",
-			"x": -916.1777257747365,
-			"y": 11118.98215758006,
-			"width": 18,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 95967720,
-			"version": 11,
-			"versionNonce": 1291469544,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					0
-				],
-				[
-					5,
-					0
-				],
-				[
-					9,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					15,
-					0
-				],
-				[
-					17,
-					0
-				],
-				[
-					18,
-					0
-				],
-				[
-					18,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18,
-				0
-			]
-		},
-		{
-			"id": "JDS4UzhdVYWsJ9us2iQhq",
-			"type": "freedraw",
-			"x": -794.1777257747365,
-			"y": 11050.98215758006,
-			"width": 38,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1186670824,
-			"version": 38,
-			"versionNonce": 1223540632,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					0,
-					4
-				],
-				[
-					1,
-					8
-				],
-				[
-					2,
-					11
-				],
-				[
-					3,
-					14
-				],
-				[
-					4,
-					16
-				],
-				[
-					4,
-					18
-				],
-				[
-					4,
-					19
-				],
-				[
-					4,
-					20
-				],
-				[
-					4,
-					19
-				],
-				[
-					5,
-					16
-				],
-				[
-					6,
-					12
-				],
-				[
-					10,
-					7
-				],
-				[
-					10,
-					6
-				],
-				[
-					12,
-					4
-				],
-				[
-					13,
-					4
-				],
-				[
-					14,
-					4
-				],
-				[
-					15,
-					5
-				],
-				[
-					16,
-					13
-				],
-				[
-					18,
-					18
-				],
-				[
-					18,
-					17
-				],
-				[
-					20,
-					14
-				],
-				[
-					22,
-					10
 				],
 				[
 					25,
-					6
+					26.25
 				],
 				[
-					28,
-					3
+					26.25,
+					28.75
 				],
 				[
-					31,
-					2
-				],
-				[
-					31,
-					1
-				],
-				[
-					32,
-					1
-				],
-				[
-					32,
-					2
-				],
-				[
-					33,
-					6
-				],
-				[
-					35,
-					11
-				],
-				[
-					37,
-					15
-				],
-				[
-					37,
-					16
-				],
-				[
-					38,
-					19
-				],
-				[
-					38,
-					19
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				38,
-				19
-			]
-		},
-		{
-			"id": "oiXc03R0aOeTUpcao7OEI",
-			"type": "freedraw",
-			"x": -821.1777257747365,
-			"y": 11090.98215758006,
-			"width": 89,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1160807320,
-			"version": 14,
-			"versionNonce": 1434559976,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					1,
-					-2
-				],
-				[
-					5,
-					-4
-				],
-				[
-					14,
-					-6
-				],
-				[
-					30,
-					-8
-				],
-				[
-					52,
-					-9
-				],
-				[
-					73,
-					-10
-				],
-				[
-					83,
-					-11
-				],
-				[
-					88,
-					-12
-				],
-				[
-					89,
-					-12
-				],
-				[
-					89,
-					-12
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				89,
-				-12
-			]
-		},
-		{
-			"id": "tgYWR2DyUopJyEmjqb6rG",
-			"type": "freedraw",
-			"x": -804.1777257747365,
-			"y": 11122.98215758006,
-			"width": 12,
-			"height": 33,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 721720296,
-			"version": 24,
-			"versionNonce": 2034371736,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1,
-					1
-				],
-				[
-					2,
-					5
-				],
-				[
-					4,
-					11
-				],
-				[
-					5,
-					19
-				],
-				[
-					6,
-					26
-				],
-				[
-					7,
+					26.25,
 					30
 				],
 				[
-					7,
-					32
+					30,
+					30
 				],
 				[
-					7,
-					33
+					33.75,
+					30
 				],
 				[
-					4,
-					28
+					38.75,
+					28.75
 				],
 				[
-					2,
-					25
+					42.5,
+					28.75
 				],
 				[
-					0,
-					21
+					45,
+					27.5
 				],
 				[
-					0,
-					17
+					46.25,
+					27.5
 				],
 				[
-					0,
-					12
-				],
-				[
-					1,
-					9
-				],
-				[
-					3,
-					7
-				],
-				[
-					5,
-					5
-				],
-				[
-					7,
-					3
-				],
-				[
-					9,
-					1
-				],
-				[
-					11,
-					1
-				],
-				[
-					12,
-					1
-				],
-				[
-					12,
-					1
+					46.25,
+					27.5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				12,
-				1
+				46.25,
+				27.5
 			]
 		},
 		{
-			"id": "h_4Fi_rZnLp5hVkTyQN9J",
+			"id": "2P5A_c6tsOfEuux4VxiJa",
 			"type": "freedraw",
-			"x": -786.1777257747365,
-			"y": 11134.98215758006,
-			"width": 17,
+			"x": -1101.3443924414032,
+			"y": 11609.09326869117,
+			"width": 27.5,
+			"height": 3.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1329228696,
+			"version": 18,
+			"versionNonce": 575037848,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					-1.25
+				],
+				[
+					5,
+					-1.25
+				],
+				[
+					8.75,
+					-2.5
+				],
+				[
+					16.25,
+					-2.5
+				],
+				[
+					21.25,
+					-3.75
+				],
+				[
+					25,
+					-3.75
+				],
+				[
+					26.25,
+					-3.75
+				],
+				[
+					27.5,
+					-3.75
+				],
+				[
+					27.5,
+					-3.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				27.5,
+				-3.75
+			]
+		},
+		{
+			"id": "rdlmeVSmuiMZEr-nnzK8q",
+			"type": "freedraw",
+			"x": -1082.5943924414032,
+			"y": 11627.84326869117,
+			"width": 23.75,
 			"height": 5,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -53616,12 +47290,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 963399064,
-			"version": 11,
-			"versionNonce": 1025812712,
-			"isDeleted": true,
+			"seed": 1716181400,
+			"version": 16,
+			"versionNonce": 1425810408,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53630,52 +47304,52 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					5,
-					-2
+					1.25,
+					0
 				],
 				[
-					5,
-					-3
+					3.75,
+					0
 				],
 				[
-					8,
-					-4
+					6.25,
+					0
 				],
 				[
-					12,
-					-4
+					11.25,
+					0
 				],
 				[
-					15,
+					16.25,
+					-2.5
+				],
+				[
+					21.25,
+					-3.75
+				],
+				[
+					23.75,
 					-5
 				],
 				[
-					16,
-					-5
-				],
-				[
-					17,
-					-5
-				],
-				[
-					17,
+					23.75,
 					-5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				17,
+				23.75,
 				-5
 			]
 		},
 		{
-			"id": "rA0UT36yM1yvXaIMe3ERR",
+			"id": "hk_oPS_QBtsJL-tnAJxpP",
 			"type": "freedraw",
-			"x": -781.1777257747365,
-			"y": 11120.98215758006,
-			"width": 3,
-			"height": 22,
+			"x": -1012.5943924414032,
+			"y": 11561.59326869117,
+			"width": 17.5,
+			"height": 77.5,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -53686,12 +47360,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1460719256,
-			"version": 10,
-			"versionNonce": 327465368,
-			"isDeleted": true,
+			"seed": 1800919704,
+			"version": 22,
+			"versionNonce": 590769816,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53700,206 +47374,1793 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					0,
-					3
-				],
-				[
-					0,
-					7
-				],
-				[
-					1,
-					12
-				],
-				[
-					2,
-					17
-				],
-				[
-					2,
-					20
-				],
-				[
-					3,
-					22
-				],
-				[
-					3,
-					22
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3,
-				22
-			]
-		},
-		{
-			"id": "LjxWsGeR2zbadfSmqrO95",
-			"type": "freedraw",
-			"x": -751.1777257747365,
-			"y": 11119.98215758006,
-			"width": 22,
-			"height": 33,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1259098856,
-			"version": 33,
-			"versionNonce": 1601129448,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675363200274,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2
-				],
-				[
-					0,
-					-5
-				],
-				[
-					0,
-					-7
-				],
-				[
-					0,
-					-9
-				],
-				[
-					1,
-					-12
-				],
-				[
-					3,
-					-15
+					2.5,
+					8.75
 				],
 				[
 					5,
-					-16
+					20
 				],
 				[
-					8,
-					-16
+					5,
+					21.25
 				],
 				[
-					10,
-					-15
+					6.25,
+					32.5
 				],
 				[
-					12,
-					-14
+					8.75,
+					42.5
 				],
 				[
-					13,
-					-10
+					11.25,
+					55
 				],
 				[
-					13,
-					-4
+					12.5,
+					65
 				],
 				[
-					13,
-					4
-				],
-				[
-					13,
-					10
-				],
-				[
-					11,
-					13
-				],
-				[
-					7,
-					16
-				],
-				[
-					4,
-					17
-				],
-				[
-					3,
-					17
-				],
-				[
-					4,
-					15
-				],
-				[
-					7,
-					14
-				],
-				[
-					9,
-					13
-				],
-				[
-					12,
-					13
+					13.75,
+					66.25
 				],
 				[
 					15,
-					14
+					73.75
 				],
 				[
-					17,
-					15
+					15,
+					76.25
 				],
 				[
-					19,
-					16
+					15,
+					77.5
+				],
+				[
+					16.25,
+					76.25
+				],
+				[
+					17.5,
+					73.75
+				],
+				[
+					17.5,
+					73.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.5,
+				73.75
+			]
+		},
+		{
+			"id": "ePf85eLfYo4nSYEQbemrL",
+			"type": "freedraw",
+			"x": -965.0943924414032,
+			"y": 11567.84326869117,
+			"width": 31.25,
+			"height": 55,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 543277720,
+			"version": 39,
+			"versionNonce": 614426344,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					1.25
+				],
+				[
+					-2.5,
+					6.25
+				],
+				[
+					-3.75,
+					11.25
+				],
+				[
+					-6.25,
+					22.5
+				],
+				[
+					-6.25,
+					26.25
+				],
+				[
+					-6.25,
+					36.25
+				],
+				[
+					-5,
+					45
+				],
+				[
+					-2.5,
+					51.25
+				],
+				[
+					-1.25,
+					53.75
+				],
+				[
+					3.75,
+					55
+				],
+				[
+					6.25,
+					55
+				],
+				[
+					10,
+					55
+				],
+				[
+					13.75,
+					50
+				],
+				[
+					17.5,
+					45
 				],
 				[
 					20,
-					16
+					38.75
 				],
 				[
-					21,
-					17
+					22.5,
+					30
 				],
 				[
-					22,
-					17
+					23.75,
+					25
 				],
 				[
-					22,
+					25,
+					21.25
+				],
+				[
+					25,
+					16.25
+				],
+				[
+					22.5,
 					15
 				],
 				[
-					22,
+					20,
+					13.75
+				],
+				[
+					17.5,
+					12.5
+				],
+				[
+					15,
+					11.25
+				],
+				[
+					11.25,
+					10
+				],
+				[
+					7.5,
+					8.75
+				],
+				[
+					3.75,
+					8.75
+				],
+				[
+					1.25,
+					7.5
+				],
+				[
+					0,
+					7.5
+				],
+				[
+					-1.25,
+					7.5
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-1.25,
+				7.5
+			]
+		},
+		{
+			"id": "12LfjkvqI-nhJS5Iw-Kab",
+			"type": "freedraw",
+			"x": -906.3443924414032,
+			"y": 11579.09326869117,
+			"width": 22.5,
+			"height": 23.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 453804776,
+			"version": 19,
+			"versionNonce": 77388696,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.25
+				],
+				[
+					2.5,
+					2.5
+				],
+				[
+					5,
+					6.25
+				],
+				[
+					7.5,
+					7.5
+				],
+				[
+					10,
+					11.25
+				],
+				[
+					12.5,
+					15
+				],
+				[
+					16.25,
+					18.75
+				],
+				[
+					20,
+					21.25
+				],
+				[
+					21.25,
+					22.5
+				],
+				[
+					22.5,
+					23.75
+				],
+				[
+					22.5,
+					23.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				22.5,
+				23.75
+			]
+		},
+		{
+			"id": "FoiJ3yaR_e9JszxbAsuBX",
+			"type": "freedraw",
+			"x": -897.5943924414032,
+			"y": 11610.34326869117,
+			"width": 12.5,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 22080920,
+			"version": 18,
+			"versionNonce": 1155680744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					0,
+					-2.5
+				],
+				[
+					2.5,
+					-8.75
+				],
+				[
+					3.75,
+					-17.5
+				],
+				[
+					6.25,
+					-25
+				],
+				[
+					8.75,
+					-31.25
+				],
+				[
+					11.25,
+					-36.25
+				],
+				[
+					12.5,
+					-38.75
+				],
+				[
+					12.5,
+					-40
+				],
+				[
+					12.5,
+					-40
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				12.5,
+				-40
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 95,
+			"versionNonce": 682469528,
+			"isDeleted": false,
+			"id": "LIrWBIsp_U68cP7cVgGxs",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -795.7193924414032,
+			"y": 11537.21826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 50,
+			"height": 75,
+			"seed": 1075131032,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.25,
+					0
+				],
+				[
+					-12.5,
+					6.25
+				],
+				[
+					-17.5,
+					18.75
+				],
+				[
+					-25,
+					36.25
+				],
+				[
+					-28.75,
+					51.25
+				],
+				[
+					-30,
+					63.75
+				],
+				[
+					-30,
+					71.25
+				],
+				[
+					-30,
+					73.75
+				],
+				[
+					-28.75,
+					75
+				],
+				[
+					-27.5,
+					75
+				],
+				[
+					-26.25,
+					75
+				],
+				[
+					-22.5,
+					72.5
+				],
+				[
+					-18.75,
+					65
+				],
+				[
+					-17.5,
+					58.75
+				],
+				[
+					-16.25,
+					53.75
+				],
+				[
+					-16.25,
+					50
+				],
+				[
+					-20,
+					48.75
+				],
+				[
+					-30,
+					46.25
+				],
+				[
+					-36.25,
+					48.75
+				],
+				[
+					-42.5,
+					55
+				],
+				[
+					-48.75,
+					60
+				],
+				[
+					-50,
+					62.5
+				],
+				[
+					-47.5,
+					63.75
+				],
+				[
+					-47.5,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 74,
+			"versionNonce": 1087425768,
+			"isDeleted": false,
+			"id": "mCG-UITBKRjfcKaY_tMqk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -788.2193924414032,
+			"y": 11612.21826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.25,
+			"height": 0,
+			"seed": 1560208104,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 106,
+			"versionNonce": 186439064,
+			"isDeleted": false,
+			"id": "f1_6lJicJmvAdGWun9Zhn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -768.2193924414032,
+			"y": 11549.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 35,
+			"height": 71.25,
+			"seed": 553852824,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					2.5,
+					-2.5
+				],
+				[
+					7.5,
+					-5
+				],
+				[
+					16.25,
+					-6.25
+				],
+				[
+					28.75,
+					-5
+				],
+				[
+					33.75,
+					-3.75
+				],
+				[
+					35,
+					-2.5
+				],
+				[
+					35,
+					1.25
+				],
+				[
+					32.5,
+					7.5
+				],
+				[
+					30,
+					11.25
+				],
+				[
+					27.5,
+					12.5
+				],
+				[
+					25,
+					15
+				],
+				[
+					22.5,
+					17.5
+				],
+				[
+					22.5,
+					20
+				],
+				[
+					21.25,
+					20
+				],
+				[
+					21.25,
+					21.25
+				],
+				[
+					23.75,
+					22.5
+				],
+				[
+					25,
+					22.5
+				],
+				[
+					25,
+					23.75
+				],
+				[
+					26.25,
+					27.5
+				],
+				[
+					27.5,
+					30
+				],
+				[
+					28.75,
+					33.75
+				],
+				[
+					28.75,
+					36.25
+				],
+				[
+					28.75,
+					38.75
+				],
+				[
+					28.75,
+					41.25
+				],
+				[
+					28.75,
+					46.25
+				],
+				[
+					27.5,
+					51.25
+				],
+				[
+					25,
+					56.25
+				],
+				[
+					22.5,
+					61.25
+				],
+				[
+					21.25,
+					62.5
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					13.75,
+					65
+				],
+				[
+					12.5,
+					65
+				],
+				[
+					11.25,
+					63.75
+				],
+				[
+					11.25,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 96,
+			"versionNonce": 1643573224,
+			"isDeleted": false,
+			"id": "ecpl9hBMXAJarccktjSek",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -726.9693924414032,
+			"y": 11553.46826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.5,
+			"height": 67.5,
+			"seed": 1005733352,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					-1.25
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					1.25,
+					-1.25
+				],
+				[
+					5,
+					-1.25
+				],
+				[
+					12.5,
+					1.25
+				],
+				[
+					21.25,
+					5
+				],
+				[
+					26.25,
+					6.25
+				],
+				[
+					30,
+					8.75
+				],
+				[
+					31.25,
+					8.75
+				],
+				[
+					31.25,
+					11.25
+				],
+				[
+					31.25,
+					17.5
+				],
+				[
+					31.25,
+					26.25
+				],
+				[
+					31.25,
+					36.25
+				],
+				[
+					30,
+					45
+				],
+				[
+					28.75,
+					51.25
+				],
+				[
+					27.5,
+					53.75
+				],
+				[
+					27.5,
+					56.25
+				],
+				[
+					23.75,
+					58.75
+				],
+				[
+					22.5,
+					62.5
+				],
+				[
+					20,
+					65
+				],
+				[
+					20,
+					66.25
+				],
+				[
+					18.75,
+					66.25
+				],
+				[
+					18.75,
+					65
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					17.5,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 79,
+			"versionNonce": 287203992,
+			"isDeleted": false,
+			"id": "5RyFL0kB_I8Ov6pRJF24U",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -716.9693924414032,
+			"y": 11595.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.75,
+			"height": 6.25,
+			"seed": 1739287704,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					6.25,
+					-1.25
+				],
+				[
+					11.25,
+					-3.75
+				],
+				[
+					13.75,
+					-3.75
+				],
+				[
+					18.75,
+					-5
+				],
+				[
+					18.75,
+					-6.25
+				],
+				[
+					18.75,
+					-6.25
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 72,
+			"versionNonce": 1616949992,
+			"isDeleted": false,
+			"id": "I-r1G-uB0-RX0jGEoYXPc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -656.9693924414032,
+			"y": 11589.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 1283541224,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 75,
+			"versionNonce": 1499877272,
+			"isDeleted": false,
+			"id": "L86SiqCdG_W8HoWnhgTAp",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -619.4693924414032,
+			"y": 11565.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.5,
+			"height": 0,
+			"seed": 767695256,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 82,
+			"versionNonce": 312088040,
+			"isDeleted": false,
+			"id": "tWHanjjxxAgvwp0PgBYlQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -614.4693924414032,
+			"y": 11563.46826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 5,
+			"height": 48.75,
+			"seed": 439872488,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					1.25,
+					3.75
+				],
+				[
+					0,
+					12.5
+				],
+				[
+					-1.25,
+					25
+				],
+				[
+					-2.5,
+					36.25
+				],
+				[
+					-3.75,
+					43.75
+				],
+				[
+					-3.75,
+					46.25
+				],
+				[
+					-3.75,
+					47.5
+				],
+				[
+					-3.75,
+					48.75
+				],
+				[
+					-3.75,
+					48.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 91,
+			"versionNonce": 203988120,
+			"isDeleted": false,
+			"id": "IaLgh75yy5JnuEg11tQp2",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -580.7193924414032,
+			"y": 11564.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.25,
+			"height": 56.25,
+			"seed": 914040472,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-7.5,
+					7.5
+				],
+				[
+					-10,
+					12.5
+				],
+				[
+					-10,
+					13.75
+				],
+				[
+					-12.5,
+					21.25
+				],
+				[
+					-16.25,
+					33.75
+				],
+				[
+					-18.75,
+					46.25
+				],
+				[
+					-18.75,
+					52.5
+				],
+				[
+					-18.75,
+					53.75
+				],
+				[
+					-15,
+					55
+				],
+				[
+					-7.5,
+					56.25
+				],
+				[
+					-1.25,
+					53.75
+				],
+				[
+					5,
+					50
+				],
+				[
+					12.5,
+					40
+				],
+				[
+					15,
+					31.25
+				],
+				[
+					17.5,
+					23.75
+				],
+				[
+					17.5,
+					18.75
+				],
+				[
+					16.25,
+					16.25
+				],
+				[
+					13.75,
+					16.25
+				],
+				[
+					12.5,
+					15
+				],
+				[
+					12.5,
+					15
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 84,
+			"versionNonce": 498014440,
+			"isDeleted": false,
+			"id": "GumEBFLeaogCPcgAGrVqZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -574.4693924414032,
+			"y": 11570.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13.75,
+			"height": 22.5,
+			"seed": 1596075752,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					2.5,
+					3.75
+				],
+				[
+					3.75,
+					6.25
+				],
+				[
+					5,
+					10
+				],
+				[
+					7.5,
+					12.5
+				],
+				[
+					8.75,
+					13.75
+				],
+				[
+					10,
+					15
+				],
+				[
+					10,
+					16.25
+				],
+				[
+					11.25,
+					17.5
+				],
+				[
+					12.5,
+					20
+				],
+				[
+					12.5,
+					21.25
+				],
+				[
+					13.75,
+					22.5
+				],
+				[
+					13.75,
+					22.5
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 95,
+			"versionNonce": 723077528,
+			"isDeleted": false,
+			"id": "4In4PKzeu_1Lt2JpemR3t",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -558.2193924414032,
+			"y": 11539.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.75,
+			"height": 17.5,
+			"seed": 1049269144,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					12.5,
+					0
+				],
+				[
+					18.75,
+					1.25
+				],
+				[
+					23.75,
+					2.5
+				],
+				[
+					26.25,
+					3.75
+				],
+				[
+					26.25,
+					5
+				],
+				[
+					23.75,
+					6.25
+				],
+				[
+					22.5,
+					7.5
+				],
+				[
+					21.25,
+					8.75
+				],
+				[
+					21.25,
+					10
+				],
+				[
+					22.5,
+					10
+				],
+				[
+					23.75,
+					11.25
+				],
+				[
+					26.25,
+					12.5
+				],
+				[
+					27.5,
+					13.75
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					27.5,
+					15
+				],
+				[
+					23.75,
+					16.25
+				],
+				[
+					20,
+					17.5
+				],
+				[
+					17.5,
+					17.5
+				],
+				[
+					13.75,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"id": "vhZGJWWGTVgUTQEsdO4GC",
+			"type": "freedraw",
+			"x": -836.3443924414032,
+			"y": 11530.34326869117,
+			"width": 17.5,
+			"height": 116.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 638911384,
+			"version": 23,
+			"versionNonce": 623623144,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.25,
+					12.5
+				],
+				[
+					-6.25,
+					15
+				],
+				[
+					-10,
+					26.25
+				],
+				[
+					-11.25,
+					38.75
+				],
+				[
+					-13.75,
+					53.75
+				],
+				[
+					-16.25,
+					70
+				],
+				[
+					-16.25,
+					82.5
+				],
+				[
+					-17.5,
+					92.5
+				],
+				[
+					-17.5,
+					98.75
+				],
+				[
+					-15,
+					108.75
+				],
+				[
+					-13.75,
+					115
+				],
+				[
+					-12.5,
+					116.25
+				],
+				[
+					-11.25,
+					116.25
+				],
+				[
+					-10,
+					115
+				],
+				[
+					-10,
+					115
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-10,
+				115
+			]
+		},
+		{
+			"id": "bBiqSGKEwuWHtpdhk4ERL",
+			"type": "freedraw",
+			"x": -535.0943924414032,
+			"y": 11526.59326869117,
+			"width": 48.75,
+			"height": 105,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 431110632,
+			"version": 27,
+			"versionNonce": 1634490008,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5,
+					2.5
+				],
+				[
+					3.75,
+					3.75
+				],
+				[
+					8.75,
+					8.75
+				],
+				[
+					15,
+					16.25
+				],
+				[
+					21.25,
+					25
+				],
+				[
+					30,
+					38.75
+				],
+				[
+					38.75,
+					51.25
+				],
+				[
+					42.5,
+					61.25
+				],
+				[
+					45,
+					70
+				],
+				[
+					47.5,
+					76.25
+				],
+				[
+					48.75,
+					83.75
+				],
+				[
+					48.75,
+					92.5
+				],
+				[
+					48.75,
+					97.5
+				],
+				[
+					47.5,
+					101.25
+				],
+				[
+					46.25,
+					102.5
+				],
+				[
+					46.25,
+					103.75
+				],
+				[
+					45,
+					105
+				],
+				[
+					45,
+					102.5
+				],
+				[
+					45,
+					102.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				45,
+				102.5
+			]
+		},
+		{
+			"id": "M9vMfEipLbeXzJIjKp6JN",
+			"type": "freedraw",
+			"x": -506.3443924414032,
+			"y": 11507.84326869117,
+			"width": 42.5,
+			"height": 22.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 586373784,
+			"version": 33,
+			"versionNonce": 2065432296,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					-3.75
+				],
+				[
+					3.75,
+					-5
+				],
+				[
+					5,
+					-5
+				],
+				[
+					7.5,
+					-5
+				],
+				[
+					12.5,
+					-6.25
+				],
+				[
+					15,
+					-5
+				],
+				[
+					17.5,
+					-3.75
+				],
+				[
+					18.75,
+					-2.5
+				],
+				[
+					21.25,
+					1.25
+				],
+				[
+					22.5,
+					5
+				],
+				[
+					23.75,
+					7.5
+				],
+				[
+					23.75,
+					10
+				],
+				[
+					23.75,
+					11.25
+				],
+				[
+					23.75,
+					12.5
+				],
+				[
+					25,
+					13.75
+				],
+				[
+					26.25,
+					13.75
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					31.25,
+					16.25
+				],
+				[
+					32.5,
+					16.25
+				],
+				[
+					35,
+					16.25
+				],
+				[
+					37.5,
+					16.25
+				],
+				[
+					38.75,
+					15
+				],
+				[
+					40,
+					15
+				],
+				[
+					42.5,
+					15
+				],
+				[
+					42.5,
 					15
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				22,
+				42.5,
 				15
 			]
 		},
 		{
-			"id": "Qd1Z5MHXcVa9cTXwof9Na",
+			"id": "bGSdcmt0PDPpEk8l1-BMu",
 			"type": "freedraw",
-			"x": -726.1777257747365,
-			"y": 11096.98215758006,
-			"width": 23,
-			"height": 44,
+			"x": -418.8443924414032,
+			"y": 11571.59326869117,
+			"width": 22.5,
+			"height": 3.75,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -53910,12 +49171,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1385530088,
-			"version": 24,
-			"versionNonce": 183092888,
-			"isDeleted": true,
+			"seed": 2065105384,
+			"version": 18,
+			"versionNonce": 1406518168,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53924,104 +49185,60 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					0,
-					4
+					1.25,
+					0
 				],
 				[
-					1,
-					9
+					3.75,
+					-1.25
 				],
 				[
-					2,
-					17
+					6.25,
+					-2.5
 				],
 				[
-					3,
-					25
+					11.25,
+					-3.75
 				],
 				[
-					4,
-					31
+					16.25,
+					-3.75
 				],
 				[
-					4,
-					35
+					18.75,
+					-3.75
 				],
 				[
-					5,
-					37
+					21.25,
+					-2.5
 				],
 				[
-					5,
-					36
+					22.5,
+					-2.5
 				],
 				[
-					6,
-					32
+					22.5,
+					-1.25
 				],
 				[
-					7,
-					28
-				],
-				[
-					8,
-					25
-				],
-				[
-					11,
-					23
-				],
-				[
-					13,
-					22
-				],
-				[
-					14,
-					22
-				],
-				[
-					15,
-					23
-				],
-				[
-					16,
-					27
-				],
-				[
-					18,
-					35
-				],
-				[
-					21,
-					41
-				],
-				[
-					22,
-					44
-				],
-				[
-					23,
-					44
-				],
-				[
-					23,
-					44
+					22.5,
+					-1.25
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				23,
-				44
+				22.5,
+				-1.25
 			]
 		},
 		{
-			"id": "a26GiQSEczZe8YLRODE97",
+			"id": "nljJ7rMctH9_SZ0_NFkk3",
 			"type": "freedraw",
-			"x": -660.1777257747365,
-			"y": 11065.98215758006,
-			"width": 17,
-			"height": 23,
+			"x": -400.0943924414032,
+			"y": 11591.59326869117,
+			"width": 31.25,
+			"height": 11.25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -54032,12 +49249,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2146987672,
-			"version": 14,
-			"versionNonce": 1181585128,
-			"isDeleted": true,
+			"seed": 175535080,
+			"version": 16,
+			"versionNonce": 1342956008,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54046,64 +49263,52 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					0,
-					1
+					2.5,
+					-1.25
 				],
 				[
-					2,
-					7
-				],
-				[
-					2,
-					8
-				],
-				[
-					4,
-					12
-				],
-				[
-					7,
-					16
-				],
-				[
-					10,
-					19
-				],
-				[
-					12,
-					21
+					8.75,
+					-3.75
 				],
 				[
 					15,
-					22
+					-6.25
 				],
 				[
-					16,
-					23
+					21.25,
+					-8.75
 				],
 				[
-					17,
-					23
+					26.25,
+					-10
 				],
 				[
-					17,
-					23
+					30,
+					-11.25
+				],
+				[
+					31.25,
+					-11.25
+				],
+				[
+					31.25,
+					-11.25
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				17,
-				23
+				31.25,
+				-11.25
 			]
 		},
 		{
-			"id": "5ikKbZDCY_dBrc9ycVOvW",
+			"id": "kNiuSpaoDfVb-qvp3hloN",
 			"type": "freedraw",
-			"x": -663.1777257747365,
-			"y": 11096.98215758006,
-			"width": 19,
-			"height": 31,
+			"x": -261.3443924414032,
+			"y": 11521.59326869117,
+			"width": 77.5,
+			"height": 82.5,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -54114,12 +49319,304 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 126687464,
-			"version": 11,
-			"versionNonce": 1277506456,
-			"isDeleted": true,
+			"seed": 1332282088,
+			"version": 95,
+			"versionNonce": 1888063640,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363514900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					0
+				],
+				[
+					-2.5,
+					0
+				],
+				[
+					-5,
+					0
+				],
+				[
+					-8.75,
+					0
+				],
+				[
+					-15,
+					0
+				],
+				[
+					-22.5,
+					-1.25
+				],
+				[
+					-33.75,
+					0
+				],
+				[
+					-47.5,
+					0
+				],
+				[
+					-58.75,
+					-1.25
+				],
+				[
+					-67.5,
+					-3.75
+				],
+				[
+					-70,
+					-5
+				],
+				[
+					-70,
+					-3.75
+				],
+				[
+					-65,
+					0
+				],
+				[
+					-61.25,
+					5
+				],
+				[
+					-52.5,
+					16.25
+				],
+				[
+					-43.75,
+					27.5
+				],
+				[
+					-37.5,
+					37.5
+				],
+				[
+					-35,
+					42.5
+				],
+				[
+					-33.75,
+					42.5
+				],
+				[
+					-31.25,
+					42.5
+				],
+				[
+					-25,
+					40
+				],
+				[
+					-16.25,
+					40
+				],
+				[
+					-8.75,
+					41.25
+				],
+				[
+					-5,
+					43.75
+				],
+				[
+					-1.25,
+					46.25
+				],
+				[
+					1.25,
+					52.5
+				],
+				[
+					5,
+					60
+				],
+				[
+					6.25,
+					63.75
+				],
+				[
+					7.5,
+					66.25
+				],
+				[
+					7.5,
+					68.75
+				],
+				[
+					7.5,
+					71.25
+				],
+				[
+					7.5,
+					75
+				],
+				[
+					7.5,
+					76.25
+				],
+				[
+					5,
+					77.5
+				],
+				[
+					3.75,
+					77.5
+				],
+				[
+					1.25,
+					76.25
+				],
+				[
+					-1.25,
+					76.25
+				],
+				[
+					-2.5,
+					76.25
+				],
+				[
+					-6.25,
+					75
+				],
+				[
+					-13.75,
+					73.75
+				],
+				[
+					-26.25,
+					72.5
+				],
+				[
+					-35,
+					71.25
+				],
+				[
+					-41.25,
+					70
+				],
+				[
+					-41.25,
+					70
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-41.25,
+				70
+			]
+		},
+		{
+			"id": "4MsSpA3WMxfzIYITeNy1w",
+			"type": "freedraw",
+			"x": -226.34439244140322,
+			"y": 11544.09326869117,
+			"width": 17.5,
+			"height": 16.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 740963048,
+			"version": 12,
+			"versionNonce": 923275416,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363575613,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					2.5,
+					2.5
+				],
+				[
+					5,
+					5
+				],
+				[
+					7.5,
+					7.5
+				],
+				[
+					11.25,
+					10
+				],
+				[
+					13.75,
+					12.5
+				],
+				[
+					16.25,
+					13.75
+				],
+				[
+					17.5,
+					15
+				],
+				[
+					17.5,
+					16.25
+				],
+				[
+					17.5,
+					16.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				17.5,
+				16.25
+			]
+		},
+		{
+			"id": "weDnn9FUwL3uWP2a14zL4",
+			"type": "freedraw",
+			"x": -226.34439244140322,
+			"y": 11570.34326869117,
+			"width": 21.25,
+			"height": 30,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 699458792,
+			"version": 13,
+			"versionNonce": 856299240,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675363576181,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54129,51 +49626,63 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 				],
 				[
 					0,
-					-3
+					-1.25
 				],
 				[
-					2,
-					-9
+					1.25,
+					-3.75
 				],
 				[
-					7,
-					-18
+					5,
+					-8.75
 				],
 				[
-					12,
-					-24
+					8.75,
+					-13.75
 				],
 				[
-					15,
-					-27
+					13.75,
+					-20
 				],
 				[
-					17,
+					16.25,
+					-23.75
+				],
+				[
+					18.75,
+					-26.25
+				],
+				[
+					20,
+					-27.5
+				],
+				[
+					21.25,
+					-28.75
+				],
+				[
+					21.25,
 					-30
 				],
 				[
-					19,
-					-31
-				],
-				[
-					19,
-					-31
+					21.25,
+					-30
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				19,
-				-31
+				21.25,
+				-30
 			]
 		},
 		{
-			"id": "POL5NHbgqJDg_VxK30Oap",
+			"id": "E__UAalp5Tj45iGip1OdA",
 			"type": "freedraw",
-			"x": -575.1777257747365,
-			"y": 11018.98215758006,
-			"width": 1,
-			"height": 43,
+			"x": -201.34439244140322,
+			"y": 11566.59326869117,
+			"width": 41.25,
+			"height": 42.5,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -54184,12 +49693,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 817399784,
-			"version": 13,
-			"versionNonce": 1521185256,
+			"seed": 63119000,
+			"version": 25,
+			"versionNonce": 1350361752,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363570604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54199,58 +49708,376 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 				],
 				[
 					0,
-					3
+					-17.5
 				],
 				[
 					0,
-					8
+					-28.75
 				],
 				[
-					0,
-					14
+					1.25,
+					-36.25
 				],
 				[
-					0,
-					26
+					2.5,
+					-37.5
 				],
 				[
-					0,
-					33
+					8.75,
+					-41.25
 				],
 				[
-					0,
-					38
+					12.5,
+					-41.25
 				],
 				[
-					0,
-					41
+					15,
+					-36.25
 				],
 				[
-					1,
-					42
+					21.25,
+					-26.25
 				],
 				[
-					1,
-					43
+					22.5,
+					-25
 				],
 				[
-					1,
-					43
+					26.25,
+					-15
+				],
+				[
+					30,
+					-6.25
+				],
+				[
+					33.75,
+					0
+				],
+				[
+					35,
+					1.25
+				],
+				[
+					36.25,
+					0
+				],
+				[
+					38.75,
+					-2.5
+				],
+				[
+					40,
+					-5
+				],
+				[
+					41.25,
+					-10
+				],
+				[
+					41.25,
+					-10
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				1,
-				43
+				41.25,
+				-10
 			]
 		},
 		{
-			"id": "wy2YcwoV9rvv_5j8NXOfT",
+			"id": "gEfY674MsIX-fcdtgWrur",
 			"type": "freedraw",
-			"x": -598.1777257747365,
-			"y": 11077.98215758006,
-			"width": 51,
+			"x": -181.34439244140322,
+			"y": 11574.09326869117,
+			"width": 16.25,
+			"height": 61.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 167395480,
+			"version": 16,
+			"versionNonce": 2026414232,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363565622,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					0,
+					-2.5
+				],
+				[
+					2.5,
+					-20
+				],
+				[
+					6.25,
+					-35
+				],
+				[
+					10,
+					-47.5
+				],
+				[
+					11.25,
+					-48.75
+				],
+				[
+					15,
+					-58.75
+				],
+				[
+					16.25,
+					-61.25
+				],
+				[
+					16.25,
+					-61.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				16.25,
+				-61.25
+			]
+		},
+		{
+			"id": "gKkdnaTKe4qlUhphAwPzW",
+			"type": "freedraw",
+			"x": -1060.0943924414032,
+			"y": 11855.34326869117,
+			"width": 57.5,
+			"height": 46.25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 939762664,
+			"version": 30,
+			"versionNonce": 1971206376,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-3.75
+				],
+				[
+					0,
+					-11.25
+				],
+				[
+					2.5,
+					-20
+				],
+				[
+					2.5,
+					-21.25
+				],
+				[
+					5,
+					-26.25
+				],
+				[
+					6.25,
+					-28.75
+				],
+				[
+					10,
+					-28.75
+				],
+				[
+					12.5,
+					-28.75
+				],
+				[
+					16.25,
+					-20
+				],
+				[
+					18.75,
+					-17.5
+				],
+				[
+					23.75,
+					-5
+				],
+				[
+					28.75,
+					2.5
+				],
+				[
+					32.5,
+					8.75
+				],
+				[
+					35,
+					12.5
+				],
+				[
+					36.25,
+					13.75
+				],
+				[
+					38.75,
+					15
+				],
+				[
+					41.25,
+					16.25
+				],
+				[
+					42.5,
+					16.25
+				],
+				[
+					46.25,
+					17.5
+				],
+				[
+					51.25,
+					15
+				],
+				[
+					56.25,
+					8.75
+				],
+				[
+					57.5,
+					6.25
+				],
+				[
+					57.5,
+					6.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				57.5,
+				6.25
+			]
+		},
+		{
+			"id": "rjftoiv-e1WSK0C2FAVI3",
+			"type": "freedraw",
+			"x": -1046.3443924414032,
+			"y": 11885.34326869117,
+			"width": 26.25,
+			"height": 78.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1650712984,
+			"version": 17,
+			"versionNonce": 1397500312,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					1.25,
+					-6.25
+				],
+				[
+					3.75,
+					-15
+				],
+				[
+					7.5,
+					-28.75
+				],
+				[
+					10,
+					-37.5
+				],
+				[
+					12.5,
+					-46.25
+				],
+				[
+					15,
+					-57.5
+				],
+				[
+					16.25,
+					-58.75
+				],
+				[
+					22.5,
+					-73.75
+				],
+				[
+					26.25,
+					-78.75
+				],
+				[
+					26.25,
+					-78.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				26.25,
+				-78.75
+			]
+		},
+		{
+			"id": "B_nh03vswgGSFtNCsytwP",
+			"type": "freedraw",
+			"x": -962.5943924414032,
+			"y": 11827.84326869117,
+			"width": 31.25,
 			"height": 5,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -54262,12 +50089,12 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1991997928,
-			"version": 19,
-			"versionNonce": 225116312,
+			"seed": 255104488,
+			"version": 14,
+			"versionNonce": 1981209576,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1675363200274,
+			"updated": 1675363567685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54276,75 +50103,2391 @@ fb356fbcd4a2809d33d648189a34d8f35761ea4a: [[rv_exos/physics/theme 6/assets/Gravi
 					0
 				],
 				[
-					1,
+					2.5,
 					0
 				],
 				[
-					3,
-					0
+					6.25,
+					-1.25
 				],
 				[
-					7,
-					-1
-				],
-				[
-					23,
-					-3
-				],
-				[
-					24,
-					-3
+					13.75,
+					-3.75
 				],
 				[
 					25,
-					-3
+					-5
 				],
 				[
 					30,
-					-3
-				],
-				[
-					32,
-					-4
-				],
-				[
-					35,
-					-4
-				],
-				[
-					37,
-					-4
-				],
-				[
-					41,
-					-4
-				],
-				[
-					44,
 					-5
 				],
 				[
-					48,
+					31.25,
 					-5
 				],
 				[
-					50,
+					30,
+					-3.75
+				],
+				[
+					30,
+					-3.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				30,
+				-3.75
+			]
+		},
+		{
+			"id": "171vKo2OHSVSl0aasFTNG",
+			"type": "freedraw",
+			"x": -955.0943924414032,
+			"y": 11855.34326869117,
+			"width": 32.5,
+			"height": 5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 789701864,
+			"version": 15,
+			"versionNonce": 1078146712,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					10,
+					-1.25
+				],
+				[
+					11.25,
+					-2.5
+				],
+				[
+					20,
+					-3.75
+				],
+				[
+					26.25,
+					-3.75
+				],
+				[
+					31.25,
+					-3.75
+				],
+				[
+					32.5,
 					-5
 				],
 				[
-					51,
-					-5
-				],
-				[
-					51,
+					32.5,
 					-5
 				]
 			],
 			"pressures": [],
 			"simulatePressure": true,
 			"lastCommittedPoint": [
-				51,
+				32.5,
 				-5
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 63,
+			"versionNonce": 1101209320,
+			"isDeleted": true,
+			"id": "8B2b6W26eiz9VLjBylTgh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -888.2193924414032,
+			"y": 11701.59326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.5,
+			"height": 77.5,
+			"seed": 792355560,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5,
+					8.75
+				],
+				[
+					5,
+					20
+				],
+				[
+					5,
+					21.25
+				],
+				[
+					6.25,
+					32.5
+				],
+				[
+					8.75,
+					42.5
+				],
+				[
+					11.25,
+					55
+				],
+				[
+					12.5,
+					65
+				],
+				[
+					13.75,
+					66.25
+				],
+				[
+					15,
+					73.75
+				],
+				[
+					15,
+					76.25
+				],
+				[
+					15,
+					77.5
+				],
+				[
+					16.25,
+					76.25
+				],
+				[
+					17.5,
+					73.75
+				],
+				[
+					17.5,
+					73.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 80,
+			"versionNonce": 1959830424,
+			"isDeleted": true,
+			"id": "8giRz535H3040WSM2yh3-",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -840.7193924414032,
+			"y": 11707.84326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 31.25,
+			"height": 55,
+			"seed": 1111465880,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					1.25
+				],
+				[
+					-2.5,
+					6.25
+				],
+				[
+					-3.75,
+					11.25
+				],
+				[
+					-6.25,
+					22.5
+				],
+				[
+					-6.25,
+					26.25
+				],
+				[
+					-6.25,
+					36.25
+				],
+				[
+					-5,
+					45
+				],
+				[
+					-2.5,
+					51.25
+				],
+				[
+					-1.25,
+					53.75
+				],
+				[
+					3.75,
+					55
+				],
+				[
+					6.25,
+					55
+				],
+				[
+					10,
+					55
+				],
+				[
+					13.75,
+					50
+				],
+				[
+					17.5,
+					45
+				],
+				[
+					20,
+					38.75
+				],
+				[
+					22.5,
+					30
+				],
+				[
+					23.75,
+					25
+				],
+				[
+					25,
+					21.25
+				],
+				[
+					25,
+					16.25
+				],
+				[
+					22.5,
+					15
+				],
+				[
+					20,
+					13.75
+				],
+				[
+					17.5,
+					12.5
+				],
+				[
+					15,
+					11.25
+				],
+				[
+					11.25,
+					10
+				],
+				[
+					7.5,
+					8.75
+				],
+				[
+					3.75,
+					8.75
+				],
+				[
+					1.25,
+					7.5
+				],
+				[
+					0,
+					7.5
+				],
+				[
+					-1.25,
+					7.5
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 60,
+			"versionNonce": 2024735208,
+			"isDeleted": true,
+			"id": "IlgaRMUzVlOTNYm5qQ4Qq",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -781.9693924414032,
+			"y": 11719.09326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.5,
+			"height": 23.75,
+			"seed": 985515496,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.25
+				],
+				[
+					2.5,
+					2.5
+				],
+				[
+					5,
+					6.25
+				],
+				[
+					7.5,
+					7.5
+				],
+				[
+					10,
+					11.25
+				],
+				[
+					12.5,
+					15
+				],
+				[
+					16.25,
+					18.75
+				],
+				[
+					20,
+					21.25
+				],
+				[
+					21.25,
+					22.5
+				],
+				[
+					22.5,
+					23.75
+				],
+				[
+					22.5,
+					23.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 59,
+			"versionNonce": 1864921240,
+			"isDeleted": true,
+			"id": "RDMhJRT0GZfhmHgKT7zMa",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -773.2193924414032,
+			"y": 11750.34326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 12.5,
+			"height": 40,
+			"seed": 760736920,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					0,
+					-2.5
+				],
+				[
+					2.5,
+					-8.75
+				],
+				[
+					3.75,
+					-17.5
+				],
+				[
+					6.25,
+					-25
+				],
+				[
+					8.75,
+					-31.25
+				],
+				[
+					11.25,
+					-36.25
+				],
+				[
+					12.5,
+					-38.75
+				],
+				[
+					12.5,
+					-40
+				],
+				[
+					12.5,
+					-40
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 136,
+			"versionNonce": 1646369512,
+			"isDeleted": true,
+			"id": "3dBwrzhX_-9zotNl3mzfk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -671.3443924414032,
+			"y": 11677.21826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 50,
+			"height": 75,
+			"seed": 1708968168,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363569130,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.25,
+					0
+				],
+				[
+					-12.5,
+					6.25
+				],
+				[
+					-17.5,
+					18.75
+				],
+				[
+					-25,
+					36.25
+				],
+				[
+					-28.75,
+					51.25
+				],
+				[
+					-30,
+					63.75
+				],
+				[
+					-30,
+					71.25
+				],
+				[
+					-30,
+					73.75
+				],
+				[
+					-28.75,
+					75
+				],
+				[
+					-27.5,
+					75
+				],
+				[
+					-26.25,
+					75
+				],
+				[
+					-22.5,
+					72.5
+				],
+				[
+					-18.75,
+					65
+				],
+				[
+					-17.5,
+					58.75
+				],
+				[
+					-16.25,
+					53.75
+				],
+				[
+					-16.25,
+					50
+				],
+				[
+					-20,
+					48.75
+				],
+				[
+					-30,
+					46.25
+				],
+				[
+					-36.25,
+					48.75
+				],
+				[
+					-42.5,
+					55
+				],
+				[
+					-48.75,
+					60
+				],
+				[
+					-50,
+					62.5
+				],
+				[
+					-47.5,
+					63.75
+				],
+				[
+					-47.5,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 115,
+			"versionNonce": 1246135528,
+			"isDeleted": true,
+			"id": "wTXHbD1bBKFSqvsibrHlq",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -663.8443924414032,
+			"y": 11752.21826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.25,
+			"height": 0,
+			"seed": 165583256,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 147,
+			"versionNonce": 1191091608,
+			"isDeleted": true,
+			"id": "J6PQw519oknB75dcHGGxx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -643.8443924414032,
+			"y": 11689.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 35,
+			"height": 71.25,
+			"seed": 2082696168,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					2.5,
+					-2.5
+				],
+				[
+					7.5,
+					-5
+				],
+				[
+					16.25,
+					-6.25
+				],
+				[
+					28.75,
+					-5
+				],
+				[
+					33.75,
+					-3.75
+				],
+				[
+					35,
+					-2.5
+				],
+				[
+					35,
+					1.25
+				],
+				[
+					32.5,
+					7.5
+				],
+				[
+					30,
+					11.25
+				],
+				[
+					27.5,
+					12.5
+				],
+				[
+					25,
+					15
+				],
+				[
+					22.5,
+					17.5
+				],
+				[
+					22.5,
+					20
+				],
+				[
+					21.25,
+					20
+				],
+				[
+					21.25,
+					21.25
+				],
+				[
+					23.75,
+					22.5
+				],
+				[
+					25,
+					22.5
+				],
+				[
+					25,
+					23.75
+				],
+				[
+					26.25,
+					27.5
+				],
+				[
+					27.5,
+					30
+				],
+				[
+					28.75,
+					33.75
+				],
+				[
+					28.75,
+					36.25
+				],
+				[
+					28.75,
+					38.75
+				],
+				[
+					28.75,
+					41.25
+				],
+				[
+					28.75,
+					46.25
+				],
+				[
+					27.5,
+					51.25
+				],
+				[
+					25,
+					56.25
+				],
+				[
+					22.5,
+					61.25
+				],
+				[
+					21.25,
+					62.5
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					13.75,
+					65
+				],
+				[
+					12.5,
+					65
+				],
+				[
+					11.25,
+					63.75
+				],
+				[
+					11.25,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 137,
+			"versionNonce": 603301864,
+			"isDeleted": true,
+			"id": "sU5jJ38dh2bg2P-GMiBC0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -602.5943924414032,
+			"y": 11693.46826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.5,
+			"height": 67.5,
+			"seed": 1527228056,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					-1.25
+				],
+				[
+					0,
+					-1.25
+				],
+				[
+					1.25,
+					-1.25
+				],
+				[
+					5,
+					-1.25
+				],
+				[
+					12.5,
+					1.25
+				],
+				[
+					21.25,
+					5
+				],
+				[
+					26.25,
+					6.25
+				],
+				[
+					30,
+					8.75
+				],
+				[
+					31.25,
+					8.75
+				],
+				[
+					31.25,
+					11.25
+				],
+				[
+					31.25,
+					17.5
+				],
+				[
+					31.25,
+					26.25
+				],
+				[
+					31.25,
+					36.25
+				],
+				[
+					30,
+					45
+				],
+				[
+					28.75,
+					51.25
+				],
+				[
+					27.5,
+					53.75
+				],
+				[
+					27.5,
+					56.25
+				],
+				[
+					23.75,
+					58.75
+				],
+				[
+					22.5,
+					62.5
+				],
+				[
+					20,
+					65
+				],
+				[
+					20,
+					66.25
+				],
+				[
+					18.75,
+					66.25
+				],
+				[
+					18.75,
+					65
+				],
+				[
+					17.5,
+					63.75
+				],
+				[
+					17.5,
+					63.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 120,
+			"versionNonce": 2106010264,
+			"isDeleted": true,
+			"id": "K2-BASWg5a5cqkUGPBCak",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -592.5943924414032,
+			"y": 11735.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.75,
+			"height": 6.25,
+			"seed": 2006822632,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					6.25,
+					-1.25
+				],
+				[
+					11.25,
+					-3.75
+				],
+				[
+					13.75,
+					-3.75
+				],
+				[
+					18.75,
+					-5
+				],
+				[
+					18.75,
+					-6.25
+				],
+				[
+					18.75,
+					-6.25
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 113,
+			"versionNonce": 1640524520,
+			"isDeleted": true,
+			"id": "_DZY8DvGjSI4Y1k6WO7kw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -532.5943924414032,
+			"y": 11729.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 495391640,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 116,
+			"versionNonce": 1299584920,
+			"isDeleted": true,
+			"id": "Z0OcypNpJqW1BC6-QFKlM",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -495.0943924414032,
+			"y": 11705.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.5,
+			"height": 0,
+			"seed": 819433960,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 123,
+			"versionNonce": 2118831592,
+			"isDeleted": true,
+			"id": "z4BJkUGXYq6vSqQSG2UUj",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -490.0943924414032,
+			"y": 11703.46826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 5,
+			"height": 48.75,
+			"seed": 395370648,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					1.25,
+					3.75
+				],
+				[
+					0,
+					12.5
+				],
+				[
+					-1.25,
+					25
+				],
+				[
+					-2.5,
+					36.25
+				],
+				[
+					-3.75,
+					43.75
+				],
+				[
+					-3.75,
+					46.25
+				],
+				[
+					-3.75,
+					47.5
+				],
+				[
+					-3.75,
+					48.75
+				],
+				[
+					-3.75,
+					48.75
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 132,
+			"versionNonce": 2063557784,
+			"isDeleted": true,
+			"id": "2ofAfQPZGDUQMxd9jpI-E",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -456.3443924414032,
+			"y": 11704.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.25,
+			"height": 56.25,
+			"seed": 249369832,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-7.5,
+					7.5
+				],
+				[
+					-10,
+					12.5
+				],
+				[
+					-10,
+					13.75
+				],
+				[
+					-12.5,
+					21.25
+				],
+				[
+					-16.25,
+					33.75
+				],
+				[
+					-18.75,
+					46.25
+				],
+				[
+					-18.75,
+					52.5
+				],
+				[
+					-18.75,
+					53.75
+				],
+				[
+					-15,
+					55
+				],
+				[
+					-7.5,
+					56.25
+				],
+				[
+					-1.25,
+					53.75
+				],
+				[
+					5,
+					50
+				],
+				[
+					12.5,
+					40
+				],
+				[
+					15,
+					31.25
+				],
+				[
+					17.5,
+					23.75
+				],
+				[
+					17.5,
+					18.75
+				],
+				[
+					16.25,
+					16.25
+				],
+				[
+					13.75,
+					16.25
+				],
+				[
+					12.5,
+					15
+				],
+				[
+					12.5,
+					15
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 125,
+			"versionNonce": 1116262632,
+			"isDeleted": true,
+			"id": "hxe98hMx_lUP2ReTyAySw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -450.0943924414032,
+			"y": 11710.96826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13.75,
+			"height": 22.5,
+			"seed": 685313432,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					1.25
+				],
+				[
+					2.5,
+					3.75
+				],
+				[
+					3.75,
+					6.25
+				],
+				[
+					5,
+					10
+				],
+				[
+					7.5,
+					12.5
+				],
+				[
+					8.75,
+					13.75
+				],
+				[
+					10,
+					15
+				],
+				[
+					10,
+					16.25
+				],
+				[
+					11.25,
+					17.5
+				],
+				[
+					12.5,
+					20
+				],
+				[
+					12.5,
+					21.25
+				],
+				[
+					13.75,
+					22.5
+				],
+				[
+					13.75,
+					22.5
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 136,
+			"versionNonce": 601297304,
+			"isDeleted": true,
+			"id": "mg4cGznUVAPj_LovzHfY6",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -433.8443924414032,
+			"y": 11679.71826869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.75,
+			"height": 17.5,
+			"seed": 926562280,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					3.75,
+					0
+				],
+				[
+					7.5,
+					0
+				],
+				[
+					12.5,
+					0
+				],
+				[
+					18.75,
+					1.25
+				],
+				[
+					23.75,
+					2.5
+				],
+				[
+					26.25,
+					3.75
+				],
+				[
+					26.25,
+					5
+				],
+				[
+					23.75,
+					6.25
+				],
+				[
+					22.5,
+					7.5
+				],
+				[
+					21.25,
+					8.75
+				],
+				[
+					21.25,
+					10
+				],
+				[
+					22.5,
+					10
+				],
+				[
+					23.75,
+					11.25
+				],
+				[
+					26.25,
+					12.5
+				],
+				[
+					27.5,
+					13.75
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					27.5,
+					15
+				],
+				[
+					23.75,
+					16.25
+				],
+				[
+					20,
+					17.5
+				],
+				[
+					17.5,
+					17.5
+				],
+				[
+					13.75,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				],
+				[
+					11.25,
+					16.25
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 64,
+			"versionNonce": 2122835864,
+			"isDeleted": true,
+			"id": "0bKPw5mQXBEkp-Tb9waIw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -711.9693924414032,
+			"y": 11670.34326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.5,
+			"height": 116.25,
+			"seed": 445880984,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363569130,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.25,
+					12.5
+				],
+				[
+					-6.25,
+					15
+				],
+				[
+					-10,
+					26.25
+				],
+				[
+					-11.25,
+					38.75
+				],
+				[
+					-13.75,
+					53.75
+				],
+				[
+					-16.25,
+					70
+				],
+				[
+					-16.25,
+					82.5
+				],
+				[
+					-17.5,
+					92.5
+				],
+				[
+					-17.5,
+					98.75
+				],
+				[
+					-15,
+					108.75
+				],
+				[
+					-13.75,
+					115
+				],
+				[
+					-12.5,
+					116.25
+				],
+				[
+					-11.25,
+					116.25
+				],
+				[
+					-10,
+					115
+				],
+				[
+					-10,
+					115
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 68,
+			"versionNonce": 2080243176,
+			"isDeleted": true,
+			"id": "P7kDm-hlMaSsdNpcYTtes",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -410.7193924414032,
+			"y": 11666.59326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 48.75,
+			"height": 105,
+			"seed": 1039858408,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363569130,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5,
+					2.5
+				],
+				[
+					3.75,
+					3.75
+				],
+				[
+					8.75,
+					8.75
+				],
+				[
+					15,
+					16.25
+				],
+				[
+					21.25,
+					25
+				],
+				[
+					30,
+					38.75
+				],
+				[
+					38.75,
+					51.25
+				],
+				[
+					42.5,
+					61.25
+				],
+				[
+					45,
+					70
+				],
+				[
+					47.5,
+					76.25
+				],
+				[
+					48.75,
+					83.75
+				],
+				[
+					48.75,
+					92.5
+				],
+				[
+					48.75,
+					97.5
+				],
+				[
+					47.5,
+					101.25
+				],
+				[
+					46.25,
+					102.5
+				],
+				[
+					46.25,
+					103.75
+				],
+				[
+					45,
+					105
+				],
+				[
+					45,
+					102.5
+				],
+				[
+					45,
+					102.5
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 74,
+			"versionNonce": 1951094168,
+			"isDeleted": true,
+			"id": "zxxyu7mpZNSCaKEIEWKil",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -381.9693924414032,
+			"y": 11647.84326869117,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 42.5,
+			"height": 22.5,
+			"seed": 1869907864,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1675363569873,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					-3.75
+				],
+				[
+					3.75,
+					-5
+				],
+				[
+					5,
+					-5
+				],
+				[
+					7.5,
+					-5
+				],
+				[
+					12.5,
+					-6.25
+				],
+				[
+					15,
+					-5
+				],
+				[
+					17.5,
+					-3.75
+				],
+				[
+					18.75,
+					-2.5
+				],
+				[
+					21.25,
+					1.25
+				],
+				[
+					22.5,
+					5
+				],
+				[
+					23.75,
+					7.5
+				],
+				[
+					23.75,
+					10
+				],
+				[
+					23.75,
+					11.25
+				],
+				[
+					23.75,
+					12.5
+				],
+				[
+					25,
+					13.75
+				],
+				[
+					26.25,
+					13.75
+				],
+				[
+					28.75,
+					15
+				],
+				[
+					31.25,
+					16.25
+				],
+				[
+					32.5,
+					16.25
+				],
+				[
+					35,
+					16.25
+				],
+				[
+					37.5,
+					16.25
+				],
+				[
+					38.75,
+					15
+				],
+				[
+					40,
+					15
+				],
+				[
+					42.5,
+					15
+				],
+				[
+					42.5,
+					15
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"id": "2jPtLDyZ2ft6kS4_zyu1A",
+			"type": "freedraw",
+			"x": -875.0943924414032,
+			"y": 11804.09326869117,
+			"width": 560,
+			"height": 27.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 377952664,
+			"version": 37,
+			"versionNonce": 1980658664,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5,
+					-1.25
+				],
+				[
+					10,
+					-2.5
+				],
+				[
+					31.25,
+					-5
+				],
+				[
+					32.5,
+					-5
+				],
+				[
+					66.25,
+					-7.5
+				],
+				[
+					102.5,
+					-8.75
+				],
+				[
+					150,
+					-6.25
+				],
+				[
+					200,
+					-1.25
+				],
+				[
+					252.5,
+					2.5
+				],
+				[
+					297.5,
+					6.25
+				],
+				[
+					337.5,
+					10
+				],
+				[
+					370,
+					12.5
+				],
+				[
+					376.25,
+					13.75
+				],
+				[
+					403.75,
+					17.5
+				],
+				[
+					420,
+					18.75
+				],
+				[
+					435,
+					18.75
+				],
+				[
+					447.5,
+					17.5
+				],
+				[
+					455,
+					17.5
+				],
+				[
+					461.25,
+					17.5
+				],
+				[
+					470,
+					17.5
+				],
+				[
+					481.25,
+					17.5
+				],
+				[
+					492.5,
+					17.5
+				],
+				[
+					502.5,
+					18.75
+				],
+				[
+					512.5,
+					18.75
+				],
+				[
+					521.25,
+					17.5
+				],
+				[
+					526.25,
+					17.5
+				],
+				[
+					530,
+					17.5
+				],
+				[
+					532.5,
+					17.5
+				],
+				[
+					538.75,
+					17.5
+				],
+				[
+					547.5,
+					16.25
+				],
+				[
+					553.75,
+					16.25
+				],
+				[
+					557.5,
+					16.25
+				],
+				[
+					560,
+					16.25
+				],
+				[
+					560,
+					16.25
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				560,
+				16.25
+			]
+		},
+		{
+			"id": "_RMm9ssVh-uqBu7Ro2SsE",
+			"type": "freedraw",
+			"x": -572.5943924414032,
+			"y": 11857.84326869117,
+			"width": 47.5,
+			"height": 57.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 178873240,
+			"version": 36,
+			"versionNonce": 254877336,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.25,
+					0
+				],
+				[
+					-1.25,
+					-1.25
+				],
+				[
+					-2.5,
+					-2.5
+				],
+				[
+					-3.75,
+					-3.75
+				],
+				[
+					-7.5,
+					-3.75
+				],
+				[
+					-11.25,
+					-3.75
+				],
+				[
+					-13.75,
+					-2.5
+				],
+				[
+					-13.75,
+					0
+				],
+				[
+					-13.75,
+					5
+				],
+				[
+					-13.75,
+					12.5
+				],
+				[
+					-11.25,
+					18.75
+				],
+				[
+					-7.5,
+					22.5
+				],
+				[
+					-1.25,
+					26.25
+				],
+				[
+					5,
+					28.75
+				],
+				[
+					7.5,
+					28.75
+				],
+				[
+					13.75,
+					30
+				],
+				[
+					18.75,
+					30
+				],
+				[
+					21.25,
+					30
+				],
+				[
+					21.25,
+					31.25
+				],
+				[
+					21.25,
+					36.25
+				],
+				[
+					20,
+					40
+				],
+				[
+					18.75,
+					46.25
+				],
+				[
+					15,
+					50
+				],
+				[
+					11.25,
+					52.5
+				],
+				[
+					6.25,
+					53.75
+				],
+				[
+					-1.25,
+					53.75
+				],
+				[
+					-2.5,
+					53.75
+				],
+				[
+					-12.5,
+					50
+				],
+				[
+					-21.25,
+					45
+				],
+				[
+					-25,
+					41.25
+				],
+				[
+					-26.25,
+					41.25
+				],
+				[
+					-26.25,
+					40
+				],
+				[
+					-26.25,
+					40
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-26.25,
+				40
+			]
+		},
+		{
+			"id": "2JLfTHkrbLpMjtZZssnpk",
+			"type": "freedraw",
+			"x": -262.5943924414032,
+			"y": 11811.59326869117,
+			"width": 13.75,
+			"height": 3.75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2086073576,
+			"version": 12,
+			"versionNonce": 250066664,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.25,
+					0
+				],
+				[
+					2.5,
+					-1.25
+				],
+				[
+					5,
+					-2.5
+				],
+				[
+					8.75,
+					-3.75
+				],
+				[
+					10,
+					-3.75
+				],
+				[
+					11.25,
+					-3.75
+				],
+				[
+					12.5,
+					-3.75
+				],
+				[
+					13.75,
+					-3.75
+				],
+				[
+					13.75,
+					-3.75
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.75,
+				-3.75
+			]
+		},
+		{
+			"id": "JpHyapSUFl4asTiCv9wfr",
+			"type": "freedraw",
+			"x": -266.3443924414032,
+			"y": 11846.59326869117,
+			"width": 23.75,
+			"height": 12.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 293973656,
+			"version": 10,
+			"versionNonce": 2109836184,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675363567686,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.25,
+					-3.75
+				],
+				[
+					7.5,
+					-3.75
+				],
+				[
+					11.25,
+					-5
+				],
+				[
+					17.5,
+					-8.75
+				],
+				[
+					21.25,
+					-11.25
+				],
+				[
+					23.75,
+					-12.5
+				],
+				[
+					23.75,
+					-12.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				23.75,
+				-12.5
 			]
 		}
 	],
