@@ -25,3 +25,5 @@ Effets des réponses possibles du gouvernement sur la courbe CMP:
 
 
 ## Externalité positive de la production
+
+

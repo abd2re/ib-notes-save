@@ -5,6 +5,22 @@
       "path": "Externalité de la production.md"
     },
     {
+      "basename": "Importance de l'itération pendant le processus de conception",
+      "path": "Importance de l'itération pendant le processus de conception.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
       "basename": "Externalités",
       "path": "Externalités.md"
     },
@@ -29,16 +45,8 @@
       "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "Représentation de données",
       "path": "Représentation de données.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Subventions",
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2023-01-25 12.21.21.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md"
-    },
-    {
-      "basename": "physics-canvas",
-      "path": "Excalidraw/physics-canvas.md"
-    },
-    {
-      "basename": "Drawing 2023-01-22 18.37.14.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md"
     }
   ],
   "omittedPaths": [],

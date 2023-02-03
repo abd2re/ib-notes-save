@@ -23,26 +23,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d78017addc2e847",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalité de la production.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,17 +280,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d78017addc2e847",
+  "active": "4af35605218ca091",
   "lastOpenFiles": [
-    "Externalités.md",
+    "Importance de l'itération pendant le processus de conception.md",
+    "_computer science.md",
+    "Système informatique.md",
+    "__dashboard.md",
     "Externalité de la production.md",
+    "Externalités.md",
     "_economy.md",
     "Externalité de la consommation.md",
     "Législation.md",
-    "Permis d'émission négociables.md",
-    "Imposer une taxe carbone aux entreprises polluantes.md",
-    "__dashboard.md",
-    "Impôts indirects.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md"
+    "Permis d'émission négociables.md"
   ]
 }
