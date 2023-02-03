@@ -9,16 +9,20 @@
       "path": "Externalités.md"
     },
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
       "basename": "Champ de gravitation",
       "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Surplus social ou communautaire",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-12-24 18.07.04.excalidraw",
-      "path": "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md"
     }
   ],
   "omittedPaths": [],

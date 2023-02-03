@@ -16,4 +16,4 @@ Il y a deux types d'externalité:
 - CMP:: Coût marginal privée
 - BMP:: Bénéfice marginal privée
 - CMS:: Coût marginal social
-- BMS:: Bénéfice marginal social
+- BMS:: Bénéficeé marginal social

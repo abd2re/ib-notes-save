@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a832143c5fa20264",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-              }
-            }
-          },
-          {
-            "id": "3b6b2c3977418530",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Champ de gravitation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "546fd104756fc02f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalités.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba316e9c23710bd2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -72,8 +24,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,14 +241,14 @@
   "active": "ba316e9c23710bd2",
   "lastOpenFiles": [
     "Externalités.md",
+    "_economy.md",
     "Externalité négative.md",
+    "_EE.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Champ de gravitation.md",
-    "_economy.md",
     "Surplus social ou communautaire.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
     "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
-    "__dashboard.md"
+    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md"
   ]
 }
