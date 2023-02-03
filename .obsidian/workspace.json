@@ -49,9 +49,12 @@
               "stack": []
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
+                "file": "Energie discrete et Radioactivité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -180,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -265,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,15 +319,15 @@
   },
   "active": "22cbd1e31917fb6a",
   "lastOpenFiles": [
+    "_physics.md",
+    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
     "Externalité de la consommation.md",
     "Externalité de la production.md",
-    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
     "Externalités.md",
     "_economy.md",
     "Role du gouvernement en micro-économie.md",
     "Equilibre du marché.md",
     "Prestation gouvernementale directe.md",
-    "Subventionner les entreprises.md",
-    "Imposer une taxe carbone aux entreprises polluantes.md"
+    "Subventionner les entreprises.md"
   ]
 }

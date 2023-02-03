@@ -13,15 +13,15 @@ Interprétation:
 ![[image-20230201135833164.png|450]]
 Pour expliquer le fait que la majeure partie des particules $\alpha$ ne sont pas divisées. Rutherford imite l'hypothese que l'atome est constitue d'un petit volume + appelé noyau, entre les noyaux il y a majoritairement du vide; structure lacunaire de l'atome. 
 Les rares impacts sont des particules $\alpha$ qui ont heurté un noyau ou se sont trop rapprochés du noyau.
-<!--SR:!2023-02-03,1,230-->
+<!--SR:!2023-02-04,1,210-->
 
 D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant Z protons autour duquel tourne Z électrons. Entre les électrons et le noyau il y a le vide.
-<!--SR:!2023-02-03,1,230-->
+<!--SR:!2023-02-04,1,210-->
 
 Inconvenient du modèle de Ruthford:
 ?
 Toute particule électrisée animée de mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électromagnétique et l'electron devrait tomber sur le noyau. 
-<!--SR:!2023-02-03,1,230-->
+<!--SR:!2023-02-04,1,210-->
 
 - Composition du noyau:: Le noyau est constitue de particule appelé nucleon qui sont des protons et des neutrons le nombre total de nucleons d'un noyau est note A, est appelé nombre de masse Le nombre de proton d'un noyau est note Z on l'appelle numéro atomique ou nombre de charges.![[image-20230201143053776.png|475]]
 <!--SR:!2023-02-05,3,250-->

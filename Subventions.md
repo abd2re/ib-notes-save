@@ -16,7 +16,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 -   pour soutenir la croissance d'une industrie particulière.
 -   encourager les exportations et protéger l'industrie nationale de la concurrence étrangère.
 -   corriger les externalités positives, en améliorant l'allocation des ressources.
-<!--SR:!2023-02-03,6,230-->
+<!--SR:!2023-02-16,13,230-->
 
 ## L'effet des subventions sur le marché
 (graphe)
@@ -43,5 +43,5 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Recettes du gouvernement=>::Diminue
 <!--SR:!2023-02-06,8,250-->
 - Bien-être social=>::Diminue
-<!--SR:!2023-02-03,5,230-->
+<!--SR:!2023-02-15,12,230-->
 
