@@ -5,6 +5,10 @@
       "path": "Externalité négative.md"
     },
     {
+      "basename": "Imposer une taxe carbone aux entreprises polluantes",
+      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
+    },
+    {
       "basename": "Externalités",
       "path": "Externalités.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-18 23.07.14.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-18 23.07.14.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-22 17.57.26.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-22 17.57.26.excalidraw.md"
     }
   ],
   "omittedPaths": [],

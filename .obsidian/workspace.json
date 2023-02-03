@@ -34,15 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité négative.md",
-                "mode": "preview",
+                "file": "Imposer une taxe carbone aux entreprises polluantes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +235,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,17 +254,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4af35605218ca091",
+  "active": "ba316e9c23710bd2",
   "lastOpenFiles": [
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "Externalité négative.md",
     "Externalités.md",
     "_economy.md",
     "Subventions.md",
     "Impôts indirects.md",
-    "Externalité négative.md",
     "_EE.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Champ de gravitation.md",
-    "Surplus social ou communautaire.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png"
+    "Surplus social ou communautaire.md"
   ]
 }
