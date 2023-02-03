@@ -17,8 +17,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la production.md",
-                "mode": "source",
+                "file": "Subventionner les entreprises.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Subventionner les entreprises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Subventionner les entreprises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "Subventionner les entreprises.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Subventionner les entreprises.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,15 +282,15 @@
   },
   "active": "4af35605218ca091",
   "lastOpenFiles": [
+    "Externalité de la production.md",
+    "Subventionner les entreprises.md",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "Permis d'émission négociables.md",
     "Importance de l'itération pendant le processus de conception.md",
     "_computer science.md",
     "Système informatique.md",
     "__dashboard.md",
-    "Externalité de la production.md",
     "Externalités.md",
-    "_economy.md",
-    "Externalité de la consommation.md",
-    "Législation.md",
-    "Permis d'émission négociables.md"
+    "_economy.md"
   ]
 }

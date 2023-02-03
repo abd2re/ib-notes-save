@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Subventionner les entreprises",
+      "path": "Subventionner les entreprises.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Imposer une taxe carbone aux entreprises polluantes",
+      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     },
     {
       "basename": "Importance de l'itération pendant le processus de conception",
@@ -39,10 +47,6 @@
     {
       "basename": "Permis d'émission négociables",
       "path": "Permis d'émission négociables.md"
-    },
-    {
-      "basename": "Imposer une taxe carbone aux entreprises polluantes",
-      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     },
     {
       "basename": "Représentation de données",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-25 11.49.58.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-25 12.21.21.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-25 12.21.21.excalidraw.md"
     }
   ],
   "omittedPaths": [],

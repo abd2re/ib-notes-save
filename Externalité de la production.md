@@ -9,7 +9,7 @@ Created: 2023-02-03
 Définition et graphe:
 ?
 Lorsque le processus de production d'un bien ou d'un service génère un effet négatif sur un tiers ou sur la société dans son ensemble, on dit qu'il y a une externalité négative de la production.
-![[image-20230203083115173.png|475]]
+![[image-20230203083115173.png]]
 
 - Lorsqu'une externalité négative de la production se produit,:: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
 
@@ -21,8 +21,7 @@ Réponses possibles du gouvernement(3):
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
-<iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 1 / 1; "></iframe>
-
+<iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ## Externalité positive de la production
 Définition et graphe:
@@ -34,6 +33,9 @@ lorsque le processus de production d'un bien ou d'un service génère un effet 
 
 Réponses possibles du gouvernement(2):
 ?
-- Subventionner les entreprises
+- [[Subventionner les entreprises]]
 - Prestation gouvernementale directe
-<iframe src="https://www.geogebra.org/material/iframe/id/kdvkd48v/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+
+Effets des réponses possibles du gouvernement sur la courbe CMP:
+?
+<iframe src="https://www.geogebra.org/material/iframe/id/kdvkd48v/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
