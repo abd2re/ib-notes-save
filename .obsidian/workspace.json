@@ -23,8 +23,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4af35605218ca091",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalité négative.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,17 +256,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba316e9c23710bd2",
+  "active": "4af35605218ca091",
   "lastOpenFiles": [
     "Externalités.md",
     "_economy.md",
+    "Subventions.md",
+    "Impôts indirects.md",
     "Externalité négative.md",
     "_EE.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Champ de gravitation.md",
     "Surplus social ou communautaire.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
-    "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md"
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png"
   ]
 }

@@ -13,6 +13,14 @@
       "path": "_economy.md"
     },
     {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
       "basename": "_EE",
       "path": "_EE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2023-01-22 17.57.26.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-22 17.57.26.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-18 08.08.53.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-18 08.08.53.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-16 16.27.03.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-16 16.27.03.excalidraw.md"
     }
   ],
   "omittedPaths": [],
