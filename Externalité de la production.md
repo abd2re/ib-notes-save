@@ -3,7 +3,7 @@ tags: [economy]
 ---
 Created: 2023-02-03
 
-# Externalité négative
+# Externalité de la production
 
 ## Externalité négative de la production
 Définition et graphe:

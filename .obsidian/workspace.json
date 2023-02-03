@@ -17,83 +17,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Législation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "405c25608cabf8bc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permis d'émission négociables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c1ea7ddddc97316",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalités.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d4ac9145bc65a02",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Externalités.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a8b2f2ce8b9dbb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imposer une taxe carbone aux entreprises polluantes.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -350,17 +281,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c1ea7ddddc97316",
+  "active": "4af35605218ca091",
   "lastOpenFiles": [
+    "Externalité de la production.md",
+    "Externalités.md",
     "_economy.md",
-    "__dashboard.md",
+    "Externalité de la consommation.md",
+    "Législation.md",
     "Permis d'émission négociables.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Législation.md",
-    "Externalités.md",
-    "Externalité négative.md",
+    "__dashboard.md",
     "Impôts indirects.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Représentation de données.md"
+    "Conséquences possibles de l'imposition d'un prix plancher.md"
   ]
 }

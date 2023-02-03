@@ -9,8 +9,16 @@
       "path": "_economy.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Législation",
+      "path": "Législation.md"
     },
     {
       "basename": "Permis d'émission négociables",
@@ -21,12 +29,8 @@
       "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     },
     {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
-      "basename": "Externalité négative",
-      "path": "Externalité négative.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "Représentation de données",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-22 18.37.14.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-22 18.37.14.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-22 18.13.49.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-22 18.13.49.excalidraw.md"
     }
   ],
   "omittedPaths": [],
