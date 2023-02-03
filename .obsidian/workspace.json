@@ -42,19 +42,16 @@
             }
           },
           {
-            "id": "8959bf3dd38f47bc",
+            "id": "22cbd1e31917fb6a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Externalités.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
               }
             }
           }
@@ -150,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalités.md",
+                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalités.md",
+                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalités.md"
+                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
               }
             }
           },
@@ -267,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalités.md",
+                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -300,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,17 +314,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8959bf3dd38f47bc",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
     "Externalité de la production.md",
+    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
+    "Externalités.md",
     "Externalité de la consommation.md",
     "_economy.md",
     "Role du gouvernement en micro-économie.md",
     "Equilibre du marché.md",
-    "Externalités.md",
     "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
-    "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Permis d'émission négociables.md"
+    "Imposer une taxe carbone aux entreprises polluantes.md"
   ]
 }
