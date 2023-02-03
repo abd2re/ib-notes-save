@@ -17,7 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventionner les entreprises.md",
+                "file": "Externalité de la production.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventionner les entreprises.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventionner les entreprises.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventionner les entreprises.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subventionner les entreprises.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,6 +282,7 @@
   },
   "active": "4af35605218ca091",
   "lastOpenFiles": [
+    "Prestation gouvernementale directe.md",
     "Externalité de la production.md",
     "Subventionner les entreprises.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
@@ -290,7 +291,6 @@
     "_computer science.md",
     "Système informatique.md",
     "__dashboard.md",
-    "Externalités.md",
-    "_economy.md"
+    "Externalités.md"
   ]
 }

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Subventionner les entreprises",
-      "path": "Subventionner les entreprises.md"
-    },
-    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Prestation gouvernementale directe",
+      "path": "Prestation gouvernementale directe.md"
+    },
+    {
+      "basename": "Subventionner les entreprises",
+      "path": "Subventionner les entreprises.md"
     },
     {
       "basename": "Imposer une taxe carbone aux entreprises polluantes",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-25 16.19.25.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-25 16.19.25.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-25 11.49.58.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-25 11.49.58.excalidraw.md"
     }
   ],
   "omittedPaths": [],
