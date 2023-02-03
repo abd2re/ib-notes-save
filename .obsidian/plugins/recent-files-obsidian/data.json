@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Externalité négative",
+      "path": "Externalité négative.md"
+    },
+    {
+      "basename": "Externalités",
+      "path": "Externalités.md"
     },
     {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Surplus social ou communautaire",
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2022-12-24 18.07.04.excalidraw",
       "path": "Excalidraw/Drawing 2022-12-24 18.07.04.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-25 11.35.07.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-25 11.35.07.excalidraw.md"
-    },
-    {
-      "basename": "Comparative Essay",
-      "path": "Comparative Essay.md"
     }
   ],
   "omittedPaths": [],

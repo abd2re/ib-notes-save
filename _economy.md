@@ -53,5 +53,6 @@ retour [[__dashboard]]
 5. [[Subventions]]
 
 ## Chapitre 8: Défaillance du marché – externalités et ressources communes
+1. [[Externalités|Définition]]
 
 
