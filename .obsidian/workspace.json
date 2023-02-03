@@ -17,14 +17,49 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Externalité de la consommation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c41da6291d5280e2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Externalité de la production.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8959bf3dd38f47bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalités.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "Externalités.md"
               }
             }
           },
@@ -232,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -280,17 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4af35605218ca091",
+  "active": "8959bf3dd38f47bc",
   "lastOpenFiles": [
-    "Prestation gouvernementale directe.md",
     "Externalité de la production.md",
+    "Externalité de la consommation.md",
+    "_economy.md",
+    "Role du gouvernement en micro-économie.md",
+    "Equilibre du marché.md",
+    "Externalités.md",
+    "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Permis d'émission négociables.md",
-    "Importance de l'itération pendant le processus de conception.md",
-    "_computer science.md",
-    "Système informatique.md",
-    "__dashboard.md",
-    "Externalités.md"
+    "Permis d'émission négociables.md"
   ]
 }

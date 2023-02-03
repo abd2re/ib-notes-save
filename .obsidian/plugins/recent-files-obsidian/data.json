@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Externalités",
+      "path": "Externalités.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Prestation gouvernementale directe",
@@ -31,18 +43,6 @@
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "Externalités",
-      "path": "Externalités.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
     },
     {
       "basename": "Législation",
