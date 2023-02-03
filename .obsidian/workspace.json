@@ -39,7 +39,24 @@
             }
           },
           {
-            "id": "a0ca38cf24868d42",
+            "id": "546fd104756fc02f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalités.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba316e9c23710bd2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -56,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,17 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0ca38cf24868d42",
+  "active": "ba316e9c23710bd2",
   "lastOpenFiles": [
     "Externalités.md",
+    "Externalité négative.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+    "Champ de gravitation.md",
     "_economy.md",
     "Surplus social ou communautaire.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
     "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
-    "Champ de gravitation.md",
-    "__dashboard.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202184116_962.png"
+    "__dashboard.md"
   ]
 }
