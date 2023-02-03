@@ -37,8 +37,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0ca38cf24868d42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_economy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -252,17 +270,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a832143c5fa20264",
+  "active": "a0ca38cf24868d42",
   "lastOpenFiles": [
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
+    "Surplus social ou communautaire.md",
+    "_economy.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202210414_462.png",
     "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md",
     "Champ de gravitation.md",
     "__dashboard.md",
     "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202184116_962.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png",
-    "_physics.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182110_961.png"
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png"
   ]
 }

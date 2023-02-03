@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Loi de gravitation de Newton",
@@ -195,10 +199,6 @@
     {
       "basename": "Comparative Essay",
       "path": "Comparative Essay.md"
-    },
-    {
-      "basename": "History",
-      "path": "History.md"
     }
   ],
   "omittedPaths": [],
