@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Externalité négative",
-      "path": "Externalité négative.md"
-    },
-    {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
-      "basename": "Imposer une taxe carbone aux entreprises polluantes",
-      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
-    },
-    {
       "basename": "Externalités",
       "path": "Externalités.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "Permis d'émission négociables",
+      "path": "Permis d'émission négociables.md"
+    },
+    {
+      "basename": "Imposer une taxe carbone aux entreprises polluantes",
+      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
+    },
+    {
+      "basename": "Législation",
+      "path": "Législation.md"
+    },
+    {
+      "basename": "Externalité négative",
+      "path": "Externalité négative.md"
+    },
+    {
+      "basename": "Représentation de données",
+      "path": "Représentation de données.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "Subventions",
@@ -53,10 +69,6 @@
       "path": "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -69,20 +81,12 @@
       "path": "Energie discrete et Radioactivité.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Loi de gravitation de Newton",
       "path": "Loi de gravitation de Newton.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Représentation de données",
-      "path": "Représentation de données.md"
     },
     {
       "basename": "Drawing 2023-01-30 18.54.53.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-22 18.13.49.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-22 18.13.49.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-22 18.06.55.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-22 18.06.55.excalidraw.md"
     }
   ],
   "omittedPaths": [],
