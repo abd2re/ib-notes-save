@@ -11,7 +11,7 @@ L'effet de l'acte d'un agent économique sur un tiers ou sur la société sans q
 Il y a deux types d'externalité:
 ?
 - [[Externalité de la production]]
-- [[e]]
+- [[Externalité de la consommation]]
 
 ---
 - CMP:: Coût marginal privée

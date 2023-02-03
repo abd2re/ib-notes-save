@@ -17,14 +17,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité de la production.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d78017addc2e847",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalité de la production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalités.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -233,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalités.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,10 +299,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4af35605218ca091",
+  "active": "1d78017addc2e847",
   "lastOpenFiles": [
-    "Externalité de la production.md",
     "Externalités.md",
+    "Externalité de la production.md",
     "_economy.md",
     "Externalité de la consommation.md",
     "Législation.md",
