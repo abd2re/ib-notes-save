@@ -4,62 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f72bdc15b772c0",
+        "id": "afb4608896ad8b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "4af35605218ca091",
+            "id": "1117b145b30adc1c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Externalité de la consommation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c41da6291d5280e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalité de la production.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22cbd1e31917fb6a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energie discrete et Radioactivité.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -183,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -268,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -301,8 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,16 +277,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c41da6291d5280e2",
+  "active": "1117b145b30adc1c",
   "lastOpenFiles": [
+    "Energie discrete et Radioactivité.md",
+    "Externalité de la production.md",
     "Prestation gouvernementale directe.md",
     "Subventionner les entreprises.md",
-    "Externalité de la production.md",
     "Permis d'émission négociables.md",
     "Législation.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
     "Externalité de la consommation.md",
-    "Energie discrete et Radioactivité.md",
     "_physics.md",
     "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
   ]
