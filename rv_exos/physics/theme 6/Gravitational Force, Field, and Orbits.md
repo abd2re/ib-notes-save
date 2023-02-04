@@ -33,6 +33,7 @@ e8d973b4f9a8b6667948a17cfd8ccef9b68066d8: [[rv_exos/physics/theme 6/assets/Gravi
 563c9f5bf5a02157a61dedd98ef040a2be15a299: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204190216_253.png]]
 527f0fb2d984ca2099f4ce7318f715d036ab6862: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204190706_199.png]]
 e2981fb45461abe660798cb53234b5205a7d74c1: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204191026_177.png]]
+4e0f48d0629cf9d4f9b1a0525369b461c97cae65: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204195252_197.png]]
 
 %%
 # Drawing
@@ -161580,6 +161581,38 @@ e2981fb45461abe660798cb53234b5205a7d74c1: [[rv_exos/physics/theme 6/assets/Gravi
 			"lastCommittedPoint": [
 				-39.24624518943574,
 				19.62312259471946
+			]
+		},
+		{
+			"id": "tvOHXMeoSK6mdZQoUE2WH",
+			"type": "image",
+			"x": -3004.777766437353,
+			"y": 53156.55053963228,
+			"width": 6255.274001609996,
+			"height": 851.4122946635828,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 407199575,
+			"version": 72,
+			"versionNonce": 1022452217,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675540377351,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "4e0f48d0629cf9d4f9b1a0525369b461c97cae65",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
