@@ -27,10 +27,10 @@ Effets des réponses possibles du gouvernement sur la courbe CMP:
 ## Externalité positive de la production
 Définition et graphe:
 ?
-lorsque le processus de production d'un bien ou d'un service génère un effet positif sur un tiers ou sur la société dans son ensemble, on parle d'une externalité positive de la production.
+lorsque le processus de production d'un bien ou d'un service génère un effet positif sur un **tiers** ou sur la **société** dans son ensemble, on parle d'une externalité positive de la production.
 ![[image-20230203093001379.png]]
 
-- Lorsque une externalité positive de la production se produit, **le coût marginal social de production (MSC) est inférieur au coût marginal de production privé (MPC)** , car ce sont les apiculteurs qui paient les coûts de production du miel, plutôt que la société dans son ensemble.
+- Lorsque une externalité positive de la production se produit,:: **le coût marginal social de production (MSC) est inférieur au coût marginal de production privé (MPC)**.
 
 Réponses possibles du gouvernement(2):
 ?
