@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "Externalité de la production.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete et Radioactivité.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -317,17 +317,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22cbd1e31917fb6a",
+  "active": "c41da6291d5280e2",
   "lastOpenFiles": [
+    "Permis d'émission négociables.md",
+    "Externalité de la production.md",
+    "Législation.md",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "Externalité de la consommation.md",
+    "Energie discrete et Radioactivité.md",
     "_physics.md",
     "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
-    "Externalité de la consommation.md",
-    "Externalité de la production.md",
     "Externalités.md",
-    "_economy.md",
-    "Role du gouvernement en micro-économie.md",
-    "Equilibre du marché.md",
-    "Prestation gouvernementale directe.md",
-    "Subventionner les entreprises.md"
+    "_economy.md"
   ]
 }
