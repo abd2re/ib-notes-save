@@ -279,8 +279,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1117b145b30adc1c",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
+    "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Energie discrete et Radioactivité.md",
     "Externalité de la production.md",
     "Prestation gouvernementale directe.md",
@@ -288,8 +290,6 @@
     "Permis d'émission négociables.md",
     "Législation.md",
     "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Externalité de la consommation.md",
-    "_physics.md",
-    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
+    "Externalité de la consommation.md"
   ]
 }

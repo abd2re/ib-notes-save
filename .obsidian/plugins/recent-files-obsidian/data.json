@@ -5,6 +5,10 @@
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Loi de gravitation de Newton",
       "path": "Loi de gravitation de Newton.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Drawing 2023-01-30 18.54.53.excalidraw",
