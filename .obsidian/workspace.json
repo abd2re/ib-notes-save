@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -280,14 +281,14 @@
   },
   "active": "1117b145b30adc1c",
   "lastOpenFiles": [
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204200033_174.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204200033_174.png",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204191026_177.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204190216_253.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204122337_218.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204121628_214.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204120811_295.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204120511_927.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204191026_177.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204190216_253.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204122337_218.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204121628_214.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204120811_295.png",
+    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204120511_927.png",
     "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Energie discrete et Radioactivité.md"
   ]
