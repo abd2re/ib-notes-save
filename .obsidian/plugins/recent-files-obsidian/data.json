@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Integration testing",
+      "path": "Integration testing.md"
+    },
+    {
+      "basename": "Documentation Marketing",
+      "path": "Documentation Marketing.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Software-as-a-Service (SaaS)",
+      "path": "Software-as-a-Service (SaaS).md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "User acceptance testing",
+      "path": "User acceptance testing.md"
+    },
+    {
       "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
       "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
     },
@@ -13,24 +53,12 @@
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
-      "basename": "User acceptance testing",
-      "path": "User acceptance testing.md"
-    },
-    {
       "basename": "Test d'applications",
       "path": "Test d'applications.md"
     },
     {
       "basename": "Système anciens (Legacy system)",
       "path": "Système anciens (Legacy system).md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "Software-as-a-Service (SaaS)",
-      "path": "Software-as-a-Service (SaaS).md"
     },
     {
       "basename": "Sauvegarde de systèmes",
@@ -65,10 +93,6 @@
       "path": "Les méthodes de documentation.md"
     },
     {
-      "basename": "Integration testing",
-      "path": "Integration testing.md"
-    },
-    {
       "basename": "Fusions d'entreprises",
       "path": "Fusions d'entreprises.md"
     },
@@ -93,16 +117,8 @@
       "path": "Documentation technique.md"
     },
     {
-      "basename": "Documentation Marketing",
-      "path": "Documentation Marketing.md"
-    },
-    {
       "basename": "Documentation en ligne",
       "path": "Documentation en ligne.md"
-    },
-    {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
     },
     {
       "basename": "Documentation Architecture-Conception",
@@ -137,10 +153,6 @@
       "path": "Changements dans un environment.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Environment du système",
       "path": "Environment du système.md"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "Installation d'un système",
       "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -173,20 +181,12 @@
       "path": "Externalité de la consommation.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
     },
     {
       "basename": "Externalités",
       "path": "Externalités.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Prestation gouvernementale directe",
@@ -202,5 +202,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

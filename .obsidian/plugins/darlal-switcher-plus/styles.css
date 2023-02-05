@@ -5,7 +5,8 @@
 
 /* suggestion file path icon */
 .qsp-path-indicator {
-  margin-right:4px;
+  margin-right: 4px;
+  vertical-align: middle;
 }
 
 /* symbol suggestion, symbol type icon */
@@ -18,6 +19,7 @@
 
 .qsp-symbol-indicator.callout {
   background-color:inherit;
+  padding: inherit;
 }
 
 /* warning/error text */
@@ -34,6 +36,21 @@
 /* symbol suggestion should align to the left */
 .suggestion-item.qsp-suggestion-symbol {
   justify-content: left;
+}
+
+/* highlight recently used file suggestions */
+.suggestion-item.qsp-recent-file .qsp-title {
+  text-decoration: underline dotted var(--text-muted);
+}
+
+/* highlight currently open editor suggestions */
+.suggestion-item.qsp-open-editor .qsp-title {
+  text-decoration: underline var(--text-accent);
+}
+
+/* highlight the open editor flair icon */
+.suggestion-item.qsp-open-editor .qsp-editor-indicator {
+  color: var(--text-accent);
 }
 
 /* symbol suggestion display the icon first (on the left side) */
@@ -85,6 +102,9 @@
 /* starred suggestion item */
 .qsp-suggestion-starred {}
 
+/* indicates that an item represents a starred file */
+.qsp-starred-file {}
+
 /* symbol suggestion item */
 .qsp-suggestion-symbol {}
 
@@ -93,6 +113,9 @@
 
 /* file suggestion when not in standard mode */
 .qsp-suggestion-file {}
+
+/* alias suggestion when not in standard mode */
+.qsp-suggestion-alias {}
 
 /* suggestion primary content container */
 .qsp-content {}
@@ -111,6 +134,21 @@
 
 /* headings suggestion, heading level (H1, H2, etc..) icon */
 .qsp-headings-indicator {}
+
+/* flair icon for suggestions that represent a recent file */
+.qsp-recent-indicator {}
+
+/* flair icon for suggestion that represent a file currently opened in an editor */
+.qsp-editor-indicator {}
+
+/* flair icon for suggestions that represent a related file */
+.qsp-related-indicator {}
+
+/* flair icon for suggestions that represent a starred file */
+.qsp-starred-indicator {}
+
+/* flair icon for suggestions that represent an alias */
+.qsp-alias-indicator {}
 
 /* headings level */
 .qsp-headings-l1 {}

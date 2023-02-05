@@ -28,13 +28,18 @@
     "multilineReversedCardSeparator": "??",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#physics",
+      "#computer_science",
+      "#economy",
+      "#english",
+      "#math",
+      "#TOK"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
-    "maxNDaysNotesReviewQueue": 365,
+    "maxNDaysNotesReviewQueue": 7,
     "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
@@ -43,7 +48,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-02-04",
+  "buryDate": "2023-02-05",
   "buryList": [],
   "historyDeck": null
 }
