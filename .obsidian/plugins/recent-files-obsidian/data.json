@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
+      "basename": "CPU",
+      "path": "CPU.md"
+    },
+    {
+      "basename": "Cycle Fetch-Execute",
+      "path": "Cycle Fetch-Execute.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Mémoire Secondaire",
+      "path": "Mémoire Secondaire.md"
+    },
+    {
+      "basename": "Logiciels de traitement graphique",
+      "path": "Logiciels de traitement graphique.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
     },
     {
       "basename": "Integration testing",
@@ -183,22 +199,6 @@
     {
       "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
-    },
-    {
-      "basename": "Externalités",
-      "path": "Externalités.md"
-    },
-    {
-      "basename": "Prestation gouvernementale directe",
-      "path": "Prestation gouvernementale directe.md"
-    },
-    {
-      "basename": "Subventionner les entreprises",
-      "path": "Subventionner les entreprises.md"
-    },
-    {
-      "basename": "Imposer une taxe carbone aux entreprises polluantes",
-      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     }
   ],
   "omittedPaths": [],

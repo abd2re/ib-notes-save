@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afb4608896ad8b8f",
+        "id": "ca048b416d93d98b",
         "type": "tabs",
         "children": [
           {
-            "id": "1117b145b30adc1c",
+            "id": "a9f3927114dec311",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,29 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cycle Fetch-Execute",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cycle Fetch-Execute.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.78959174517721}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.2926221335992}"
                 },
                 {
-                  "title": "Integration testing",
+                  "title": "Logiciels de traitement graphique",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Integration testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logiciels de traitement graphique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":226},\"to\":{\"line\":7,\"ch\":199}},\"scroll\":0.144}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système informatique.md",
+                "file": "CPU.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système informatique.md",
+                "file": "CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système informatique.md",
+                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,13 +199,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système informatique.md"
+                "file": "CPU.md"
               }
             }
           },
           {
             "id": "a23ad53c345381b7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -218,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Système informatique.md",
+                "file": "CPU.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,7 +256,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8062942279818202,
+                  "scale": 0.5963447703529916,
                   "close": true
                 }
               }
@@ -251,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,17 +285,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "a9f3927114dec311",
   "lastOpenFiles": [
+    "Cycle Fetch-Execute.md",
     "_computer science.md",
+    "Mémoire Secondaire.md",
+    "Logiciels de traitement graphique.md",
+    "assets/Logiciels de traitement graphique/image-20230119190029294.png",
+    "Système informatique.md",
     "Integration testing.md",
     "Documentation Marketing.md",
     "_physics.md",
-    "_economy.md",
-    "Software-as-a-Service (SaaS).md",
-    "Documentation de l'Utilisateur final.md",
-    "Solutions au changement.md",
-    "User acceptance testing.md",
-    "Méthodes  d'obtention des  exigences des parties prenantes.md"
+    "_economy.md"
   ]
 }
