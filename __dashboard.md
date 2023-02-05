@@ -1,4 +1,7 @@
 ---
+banner: "![[image-20220913200229039.jpeg]]"
+---
+---
 tags: [MOC, math]
 alias: [home,main]
 banner: "![[image-20220913200229039.jpeg]]"
