@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Comparaison de différentes méthodes de formation des utilisateurs
 Created: 2022-09-27

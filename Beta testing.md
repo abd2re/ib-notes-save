@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Beta testing
 Created: 2022-09-21

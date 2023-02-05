@@ -1,8 +1,160 @@
 {
   "recentFiles": [
     {
+      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
+      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    },
+    {
+      "basename": "User acceptance testing",
+      "path": "User acceptance testing.md"
+    },
+    {
+      "basename": "Test d'applications",
+      "path": "Test d'applications.md"
+    },
+    {
+      "basename": "Système anciens (Legacy system)",
+      "path": "Système anciens (Legacy system).md"
+    },
+    {
+      "basename": "Solutions au changement",
+      "path": "Solutions au changement.md"
+    },
+    {
+      "basename": "Software-as-a-Service (SaaS)",
+      "path": "Software-as-a-Service (SaaS).md"
+    },
+    {
+      "basename": "Sauvegarde de systèmes",
+      "path": "Sauvegarde de systèmes.md"
+    },
+    {
+      "basename": "Ressource humaine",
+      "path": "Ressource humaine.md"
+    },
+    {
+      "basename": "Processus d'installation alternatifs",
+      "path": "Processus d'installation alternatifs.md"
+    },
+    {
+      "basename": "Network-as-a-Service (NaaS)",
+      "path": "Network-as-a-Service (NaaS).md"
+    },
+    {
+      "basename": "Manuels imprimés",
+      "path": "Manuels imprimés.md"
+    },
+    {
+      "basename": "Les problèmes liés au changement",
+      "path": "Les problèmes liés au changement.md"
+    },
+    {
+      "basename": "Les pertes de données",
+      "path": "Les pertes de données.md"
+    },
+    {
+      "basename": "Les méthodes de documentation",
+      "path": "Les méthodes de documentation.md"
+    },
+    {
+      "basename": "Integration testing",
+      "path": "Integration testing.md"
+    },
+    {
+      "basename": "Fusions d'entreprises",
+      "path": "Fusions d'entreprises.md"
+    },
+    {
+      "basename": "Fichiers d'aide",
+      "path": "Fichiers d'aide.md"
+    },
+    {
+      "basename": "Exigences-Prérequis",
+      "path": "Exigences-Prérequis.md"
+    },
+    {
+      "basename": "Dry-run testing",
+      "path": "Dry-run testing.md"
+    },
+    {
+      "basename": "Données",
+      "path": "Données.md"
+    },
+    {
+      "basename": "Documentation technique",
+      "path": "Documentation technique.md"
+    },
+    {
+      "basename": "Documentation Marketing",
+      "path": "Documentation Marketing.md"
+    },
+    {
+      "basename": "Documentation en ligne",
+      "path": "Documentation en ligne.md"
+    },
+    {
+      "basename": "Documentation de l'Utilisateur final",
+      "path": "Documentation de l'Utilisateur final.md"
+    },
+    {
+      "basename": "Documentation Architecture-Conception",
+      "path": "Documentation Architecture-Conception.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Debugging.md"
+    },
+    {
+      "basename": "Conséquences d'une perte de données",
+      "path": "Conséquences d'une perte de données.md"
+    },
+    {
+      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
+      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
+    },
+    {
+      "basename": "Causes possibles d'une perte de données",
+      "path": "Causes possibles d'une perte de données.md"
+    },
+    {
+      "basename": "Beta testing",
+      "path": "Beta testing.md"
+    },
+    {
+      "basename": "AB testing",
+      "path": "AB testing.md"
+    },
+    {
+      "basename": "Changements dans un environment",
+      "path": "Changements dans un environment.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Environment du système",
+      "path": "Environment du système.md"
+    },
+    {
+      "basename": "Conception d'un système",
+      "path": "Conception d'un système.md"
+    },
+    {
+      "basename": "Installation d'un système",
+      "path": "Installation d'un système.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -47,158 +199,6 @@
     {
       "basename": "Imposer une taxe carbone aux entreprises polluantes",
       "path": "Imposer une taxe carbone aux entreprises polluantes.md"
-    },
-    {
-      "basename": "Importance de l'itération pendant le processus de conception",
-      "path": "Importance de l'itération pendant le processus de conception.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
-      "basename": "Permis d'émission négociables",
-      "path": "Permis d'émission négociables.md"
-    },
-    {
-      "basename": "Représentation de données",
-      "path": "Représentation de données.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "_EE",
-      "path": "_EE.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "Surplus social ou communautaire",
-      "path": "Surplus social ou communautaire.md"
-    },
-    {
-      "basename": "Drawing 2023-02-01 09.48.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-01 09.48.00.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-02-01 13.43.06.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-01 13.43.06.excalidraw.md"
-    },
-    {
-      "basename": "Sequences & Series",
-      "path": "rv_exos/math/theme 1/Sequences & Series.md"
-    },
-    {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
-    },
-    {
-      "basename": "Drawing 2023-01-30 18.54.53.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-30 18.54.53.excalidraw.md"
-    },
-    {
-      "basename": "Loi des gaz parfait",
-      "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Drawing 2023-01-27 20.51.04.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-27 20.51.04.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-29 20.31.53.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-29 20.31.53.excalidraw.md"
-    },
-    {
-      "basename": "Pasted Image 20230127202759_875",
-      "path": "assets/Pasted Image 20230127202759_875.png"
-    },
-    {
-      "basename": "Drawing 2023-01-27 22.18.13.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-27 22.18.13.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-27 22.18.19.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-27 22.18.19.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-28 11.09.58.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-28 11.09.58.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-28 21.16.09.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-28 21.16.09.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-10-18 16.30.09.excalidraw",
-      "path": "Excalidraw/Drawing 2022-10-18 16.30.09.excalidraw.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Pasted Image 20230128135153_127",
-      "path": "assets/Circuits & Kirchoff's Laws 1/Pasted Image 20230128135153_127.png"
-    },
-    {
-      "basename": "Loi de Coulomb",
-      "path": "Loi de Coulomb.md"
-    },
-    {
-      "basename": "Pasted Image 20230127205144_692",
-      "path": "Excalidraw/assets/Drawing 2023-01-27 20.51.04.excalidraw/Pasted Image 20230127205144_692.png"
-    },
-    {
-      "basename": "Pasted Image 20230127201021_292",
-      "path": "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127201021_292.png"
-    },
-    {
-      "basename": "Pasted Image 20230127200930_392",
-      "path": "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127200930_392.png"
-    },
-    {
-      "basename": "Pasted Image 20230127194829_334",
-      "path": "assets/Circuits & Kirchoff's Laws/Pasted Image 20230127194829_334.png"
-    },
-    {
-      "basename": "Drawing 2023-01-27 19.47.14.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-27 19.47.14.excalidraw.md"
-    },
-    {
-      "basename": "math",
-      "path": "Excalidraw/math.md"
-    },
-    {
-      "basename": "Drawing 2023-01-26 11.40.46.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-26 11.40.46.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-01-26 13.09.38.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-26 13.09.38.excalidraw.md"
     }
   ],
   "omittedPaths": [],

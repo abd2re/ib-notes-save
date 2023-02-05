@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Conception d'un système
 Created: 2022-09-27

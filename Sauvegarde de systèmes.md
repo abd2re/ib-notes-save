@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Sauvegarde de systèmes
 Created: 2022-09-28

@@ -17,7 +17,6 @@
   "obsidian-style-settings",
   "hotkeysplus-obsidian",
   "obsidian-hover-editor",
-  "obsidian-spaced-repetition",
   "calendar",
   "obsidian-latex-environments",
   "quick-latex",
@@ -32,5 +31,6 @@
   "digitalgarden",
   "obsidian-to-anki-plugin",
   "mousewheel-image-zoom",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-spaced-repetition"
 ]

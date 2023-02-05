@@ -11,7 +11,7 @@ Personal knowledge is the knowledge we personally have. Almost all of our person
 experiential=::based on experience
 <!--SR:!2023-03-05,62,230-->
 innate=::you are born with
-<!--SR:!2023-02-04,6,263-->
+<!--SR:!2023-02-20,16,263-->
 <!--SR:!2023-04-26,92,230-->
 a priori=::purely bu reason
 <!--SR:!2023-02-07,9,263-->
@@ -20,7 +20,7 @@ a priori=::purely bu reason
 theorem=:: A principal or statement that can be demonstrated or proved using logic, but is not self evident. 
 <!--SR:!2023-03-14,66,230-->
 truth=::In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2023-02-04,6,263-->
+<!--SR:!2023-02-19,15,263-->
 <!--SR:!2023-04-30,96,230-->
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
 <!--SR:!2023-03-27,74,230-->

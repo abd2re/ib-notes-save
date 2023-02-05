@@ -1,6 +1,5 @@
 ---
 tags: [computer_science]
-TARGET DECK: computer_science
 ---
 # Causes possibles d'une perte de données
 Created: 2022-09-28

@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Software-as-a-Service (SaaS)
 Created: 2022-09-20

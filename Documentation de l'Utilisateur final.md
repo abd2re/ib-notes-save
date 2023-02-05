@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Documentation de l'Utilisateur final
 Created: 2022-09-27

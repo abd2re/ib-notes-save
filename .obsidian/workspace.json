@@ -15,9 +15,12 @@
               "stack": []
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"TARGET DECK: computer_science\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +201,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md"
               }
             }
           },
           {
-            "id": "f7d399142cb83554",
+            "id": "a23ad53c345381b7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -214,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "faced5cec6514527",
@@ -230,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Méthodes  d'obtention des  exigences des parties prenantes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,10 +273,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -281,15 +285,15 @@
   },
   "active": "1117b145b30adc1c",
   "lastOpenFiles": [
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204202609_403.png",
+    "template/computer science template.md",
+    "Méthodes  d'obtention des  exigences des parties prenantes.md",
     "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204202559_180.png",
-    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204201547_198.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204200033_174.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204191026_177.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204190216_253.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204122337_218.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204121628_214.png",
-    "assets/Gravitational Force, Field, and Orbits 1/Pasted Image 20230204120811_295.png"
+    "rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230205134922_582.png",
+    "User acceptance testing.md",
+    "Test d'applications.md",
+    "Système anciens (Legacy system).md",
+    "Solutions au changement.md",
+    "Software-as-a-Service (SaaS).md",
+    "Sauvegarde de systèmes.md"
   ]
 }

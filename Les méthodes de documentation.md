@@ -1,6 +1,5 @@
 ---
 tags: [computer_science] 
-TARGET DECK: computer_science
 ---
 # Les méthodes de documentation
 Created: 2022-09-27
@@ -20,4 +19,4 @@ La documentation utilisateur aide les utilisateurs de systèmes informatiques, q
 - [[Documentation Technique]]
 - [[Documentation de l'Utilisateur final]]
 - [[Documentation Marketing]]
-<!--SR:!2023-01-29,75,250-->
+<!--SR:!2023-08-19,195,250-->
