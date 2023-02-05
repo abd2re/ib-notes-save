@@ -33,7 +33,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 ## Association de résistors
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
-<!--SR:!2023-02-04,33,242-->
+<!--SR:!2023-04-27,81,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
 <!--SR:!2023-04-09,70,241-->
 
@@ -80,7 +80,7 @@ Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fi
 
 ### Rhéostat
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png|275]]
-<!--SR:!2023-02-05,7,263-->
+<!--SR:!2023-02-25,20,263-->
 
 
 **Montage potentiométrique** branchement, formule de base et formules pour les 3 cas:

@@ -1,5 +1,5 @@
 ---
-tags: [MOC, IA]
+tags: [M, IA]
 ---
 ## Progress
 - [x] Find application idea

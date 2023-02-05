@@ -39,9 +39,9 @@ e8d973b4f9a8b6667948a17cfd8ccef9b68066d8: [[Pasted Image 20230204185740_177.png]
 e2981fb45461abe660798cb53234b5205a7d74c1: [[Pasted Image 20230204191026_177.png]]
 917a3110f297858aa111cd4bb5721edf2279138e: [[Pasted Image 20230204200033_174.png]]
 ac1e2944a25285a95e3af3a1c9e736a4aee1cc45: [[Pasted Image 20230204201257_786.png]]
-2475403c222cb0b680782aacee4bc1deca406a6c: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204201547_198.png]]
-2729f72cac3fc425a17a94b9a3f887ba29be2ee4: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204202559_180.png]]
-c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravitational Force, Field, and Orbits/Pasted Image 20230204202609_403.png]]
+2475403c222cb0b680782aacee4bc1deca406a6c: [[Pasted Image 20230204201547_198.png]]
+2729f72cac3fc425a17a94b9a3f887ba29be2ee4: [[Pasted Image 20230204202559_180.png]]
+c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[Pasted Image 20230204202609_403.png]]
 
 %%
 # Drawing
@@ -71,7 +71,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 416,
 			"seed": 806916167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367836,
 			"link": null,
@@ -103,7 +105,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 737.8614995361587,
 			"seed": 1444276967,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -135,7 +139,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 414,
 			"seed": 1478745161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -167,7 +173,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 536.6218877698061,
 			"seed": 389917257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -199,7 +207,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1766593671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -238,7 +248,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80.43327810080018,
 			"seed": 224413545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -465,7 +477,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.22692685140419,
 			"seed": 699901769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -624,7 +638,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.278365856425353,
 			"seed": 456662983,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -699,7 +715,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 55.61875613353186,
 			"seed": 263544455,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -906,7 +924,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.247502453412835,
 			"seed": 824450217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -977,7 +997,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 62209543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1040,7 +1062,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.4226926851401913,
 			"seed": 794168681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1107,7 +1131,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.360965879115156,
 			"seed": 208899017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1234,7 +1260,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.51558050883432,
 			"seed": 2143346375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1301,7 +1329,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.87654638794947,
 			"seed": 2010759783,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1496,7 +1526,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.371253680119025,
 			"seed": 1866986503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1679,7 +1711,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.278365856425808,
 			"seed": 1328217737,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1750,7 +1784,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.60846833252799,
 			"seed": 1709069863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -1925,7 +1961,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.391829282127674,
 			"seed": 1686926217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2000,7 +2038,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.7113463425698683,
 			"seed": 1534884041,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2067,7 +2107,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 374004521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2126,7 +2168,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 1047153031,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2193,7 +2237,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65.88683418895334,
 			"seed": 25720103,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2292,7 +2338,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 852181319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2363,7 +2411,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.62904393453664,
 			"seed": 2121715977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2462,7 +2512,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 68.45385370280883,
 			"seed": 1343924393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2649,7 +2701,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 282.3721465240865,
 			"seed": 1814993449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2748,7 +2802,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.330102476102184,
 			"seed": 1477071113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -2963,7 +3019,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.81452196726832,
 			"seed": 702435303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3090,7 +3148,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.278365856425353,
 			"seed": 1852809353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3157,7 +3217,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 2106403561,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3216,7 +3278,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.75279516124283,
 			"seed": 1057321639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3383,7 +3447,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10.268078055421029,
 			"seed": 421850153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3450,7 +3516,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.113463425701866,
 			"seed": 482221255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3581,7 +3649,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.37125368011948,
 			"seed": 1691101543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3700,7 +3770,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.39182928212813,
 			"seed": 48614441,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367837,
 			"link": null,
@@ -3807,7 +3879,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.824809768272644,
 			"seed": 1554668777,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -3926,7 +4000,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.051736619677285,
 			"seed": 1540458631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4113,7 +4189,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.824809768272644,
 			"seed": 1800609543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4236,7 +4314,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.134039027710514,
 			"seed": 1235397767,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4299,7 +4379,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.505292707829994,
 			"seed": 607389417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4466,7 +4548,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.680482939557805,
 			"seed": 1195142471,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4541,7 +4625,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.422692685140646,
 			"seed": 1988201479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4612,7 +4698,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 105826889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4667,7 +4755,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.34039027710651,
 			"seed": 1864818121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4846,7 +4936,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.391829282127674,
 			"seed": 1415672937,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -4953,7 +5045,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.422692685140646,
 			"seed": 1320989993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5012,7 +5106,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.34039027710651,
 			"seed": 894982313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5187,7 +5283,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.948560994978834,
 			"seed": 187549351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5250,7 +5348,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40.21663905040032,
 			"seed": 1868312265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5373,7 +5473,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45.35067807811083,
 			"seed": 45115721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5452,7 +5554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1169205895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5515,7 +5619,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 2047600873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5582,7 +5688,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.196063448392124,
 			"seed": 1351628617,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5753,7 +5861,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 35.08260002268935,
 			"seed": 1850620391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -5868,7 +5978,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.63933173554051,
 			"seed": 32100615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6039,7 +6151,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.134039027710514,
 			"seed": 436339433,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6194,7 +6308,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.56701951385503,
 			"seed": 438323977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6289,7 +6405,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.81452196726832,
 			"seed": 1414057735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6412,7 +6530,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.51558050883432,
 			"seed": 1625717257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6503,7 +6623,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 1874141449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6566,7 +6688,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712847068,
 			"seed": 745559175,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6629,7 +6753,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.64961953654483,
 			"seed": 692641513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6724,7 +6850,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.659907337549157,
 			"seed": 1312278823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6847,7 +6975,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.51558050883432,
 			"seed": 1014834855,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6918,7 +7048,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 386928041,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -6989,7 +7121,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 735673607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7048,7 +7182,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.360965879115156,
 			"seed": 993739143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7199,7 +7335,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.73221955923418,
 			"seed": 840820105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7342,7 +7480,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.824809768272644,
 			"seed": 605813033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7409,7 +7549,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.185775647387345,
 			"seed": 89005961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7564,7 +7706,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20.536156110842967,
 			"seed": 635006345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7667,7 +7811,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.56701951385503,
 			"seed": 1008036775,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7734,7 +7880,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712847068,
 			"seed": 2035958599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7805,7 +7953,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.371253680119025,
 			"seed": 1002319625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367838,
 			"link": null,
@@ -7996,7 +8146,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.247502453412835,
 			"seed": 736934023,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8127,7 +8279,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1481747751,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8210,7 +8364,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.958848795983158,
 			"seed": 2030706185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8273,7 +8429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.10317562469845,
 			"seed": 1374955399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8348,7 +8506,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1899533895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8423,7 +8583,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 44.495004906826125,
 			"seed": 965408007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8558,7 +8720,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 54.763082962247154,
 			"seed": 563574857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8649,7 +8813,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.34039027710651,
 			"seed": 1989057993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8756,7 +8922,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.11346342570232,
 			"seed": 998745737,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8859,7 +9027,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 1623810727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8922,7 +9092,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 648434377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -8993,7 +9165,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.391829282127674,
 			"seed": 587173351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9144,7 +9318,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.22692685140464,
 			"seed": 677937961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9283,7 +9459,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.422692685140646,
 			"seed": 1341822825,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9390,7 +9568,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.659907337549157,
 			"seed": 1842747433,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9497,7 +9677,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.7836585642558,
 			"seed": 1307289833,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9564,7 +9746,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40.21663905040032,
 			"seed": 9959241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9683,7 +9867,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.81452196726832,
 			"seed": 929679399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9794,7 +9980,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.804234166263996,
 			"seed": 1205041801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -9985,7 +10173,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.82480976827219,
 			"seed": 6333703,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10064,7 +10254,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.278365856425353,
 			"seed": 629559337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10135,7 +10327,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.247502453412835,
 			"seed": 425144967,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10282,7 +10476,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.546443911846836,
 			"seed": 358975847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10421,7 +10617,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.711346342570323,
 			"seed": 1338980647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10488,7 +10686,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.56701951385503,
 			"seed": 1807982791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10559,7 +10759,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 35.93827319397451,
 			"seed": 1445910921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10710,7 +10912,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.103175624697997,
 			"seed": 1444550247,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10813,7 +11017,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.845385370281292,
 			"seed": 657888617,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -10920,7 +11126,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.24750245341329,
 			"seed": 1842124329,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11011,7 +11219,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 50.4847171058218,
 			"seed": 2107972905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11090,7 +11300,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.36096587911561,
 			"seed": 1967099047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11225,7 +11437,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.25779025441716,
 			"seed": 660721321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11340,7 +11554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8556731712851615,
 			"seed": 1414752841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11403,7 +11619,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.422692685140646,
 			"seed": 905633607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11474,7 +11692,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.90740979096199,
 			"seed": 1192153865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11549,7 +11769,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.278365856425353,
 			"seed": 2073114697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11624,7 +11846,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 26.525868309838643,
 			"seed": 14069129,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11719,7 +11943,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 68.45385370280883,
 			"seed": 1627542663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11790,7 +12016,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 411.46307320117864,
 			"seed": 1106835625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11822,7 +12050,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 154.8927933940754,
 			"seed": 114347943,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -11973,7 +12203,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.9654172238952,
 			"seed": 448988521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367839,
 			"link": null,
@@ -12088,7 +12320,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.740489736571362,
 			"seed": 607934729,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12151,7 +12385,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1825443913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12194,7 +12430,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 8482567,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12233,7 +12471,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.15230365750404,
 			"seed": 1892885449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12452,7 +12692,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.456771529869,
 			"seed": 2126043337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12527,7 +12769,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.17996987838796,
 			"seed": 1680746887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12702,7 +12946,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.1730533231671,
 			"seed": 1784779143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -12837,7 +13083,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 69.95158411345346,
 			"seed": 121648073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13028,7 +13276,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 784795847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13067,7 +13317,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1336327689,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13106,7 +13358,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.470604640311194,
 			"seed": 546490919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13213,7 +13467,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 69.95158411345346,
 			"seed": 1519752551,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13284,7 +13540,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 122.41527219854333,
 			"seed": 1431872233,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13487,7 +13745,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.470604640311194,
 			"seed": 404467241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13534,7 +13794,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 687.6986935826412,
 			"seed": 1965697799,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13645,7 +13907,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.5406607113232,
 			"seed": 1515048361,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13788,7 +14052,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 659336487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13831,7 +14097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.99539002602387,
 			"seed": 27447143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -13882,7 +14150,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.92624041638419,
 			"seed": 894549479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14013,7 +14283,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.99078005204774,
 			"seed": 1572861575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14080,7 +14352,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.27494032963796,
 			"seed": 347210279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14179,7 +14453,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.60981032096288,
 			"seed": 1993692199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14294,7 +14570,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1079581319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14349,7 +14627,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.99539002602387,
 			"seed": 405381641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14412,7 +14692,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.27494032963796,
 			"seed": 272688007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14491,7 +14773,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.2104006939735,
 			"seed": 1196562857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14654,7 +14938,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 1673808521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14721,7 +15007,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.660520034698948,
 			"seed": 1991742697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14784,7 +15072,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 129.88014067662425,
 			"seed": 468287143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -14943,7 +15233,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 89.91702046843284,
 			"seed": 1646014793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15058,7 +15350,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.92624041638464,
 			"seed": 1030009065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15141,7 +15435,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.9953900260243245,
 			"seed": 877232393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15196,7 +15492,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.660520034698948,
 			"seed": 860862823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15263,7 +15561,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.632860190843076,
 			"seed": 122733897,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15370,7 +15670,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 64.94007033831258,
 			"seed": 136736265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15453,7 +15755,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.95390026024006,
 			"seed": 1324958249,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15560,7 +15864,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.655910060722817,
 			"seed": 553800425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15627,7 +15933,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 59.944680312288256,
 			"seed": 2118410569,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15746,7 +16054,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.58676045108314,
 			"seed": 708754983,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -15913,7 +16223,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.28877025156544,
 			"seed": 589943847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16028,7 +16340,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 199.81560104096116,
 			"seed": 2034856265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16115,7 +16429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.60981032096288,
 			"seed": 472428071,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16202,7 +16518,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.660520034698948,
 			"seed": 80183431,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16257,7 +16575,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6651300086746232,
 			"seed": 237427721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16328,7 +16648,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.60520034698675,
 			"seed": 1186271751,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16439,7 +16761,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 91.582150477107,
 			"seed": 2046924457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16606,7 +16930,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 211595655,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367840,
 			"link": null,
@@ -16661,7 +16987,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6651300086746232,
 			"seed": 1380031241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -16704,7 +17032,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.57754050313088,
 			"seed": 1136359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -16879,7 +17209,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.28416027758976,
 			"seed": 1873186505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -16982,7 +17314,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 778736839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17057,7 +17391,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6651300086746232,
 			"seed": 1774982023,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17116,7 +17452,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.665130008675078,
 			"seed": 1810632681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17191,7 +17529,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 114.89397059855264,
 			"seed": 1968393513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17418,7 +17758,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.2979901995177,
 			"seed": 731297033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17545,7 +17887,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.953900260240516,
 			"seed": 441141769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17612,7 +17956,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.57754050313088,
 			"seed": 1802429545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17803,7 +18149,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 89.91702046843238,
 			"seed": 1899100455,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -17970,7 +18318,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 91.582150477107,
 			"seed": 332848553,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18161,7 +18511,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.96312020819187,
 			"seed": 772821991,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18232,7 +18584,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 94.91241049445671,
 			"seed": 1142758505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18403,7 +18757,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6651300086746232,
 			"seed": 468182057,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18466,7 +18822,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.665130008675078,
 			"seed": 116417383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18525,7 +18883,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.89858057252832,
 			"seed": 1122279305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18720,7 +19080,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 78.26111040770957,
 			"seed": 1253922793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -18859,7 +19221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 128.21501066795008,
 			"seed": 1731730473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19074,7 +19438,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.9953900260243245,
 			"seed": 2108752583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19141,7 +19507,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 120809063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19200,7 +19568,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.321040069396986,
 			"seed": 1286489641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19267,7 +19637,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 93.24728048578163,
 			"seed": 667962505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19418,7 +19790,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.98156010409639,
 			"seed": 1120334695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19509,7 +19883,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.60059037301107,
 			"seed": 916446311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19612,7 +19988,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.609810320963334,
 			"seed": 614133609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19687,7 +20065,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 118.22423061590143,
 			"seed": 3443881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19850,7 +20230,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 433741193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19909,7 +20291,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.325650043373571,
 			"seed": 397332745,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -19980,7 +20364,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.92163044240897,
 			"seed": 1271516583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20167,7 +20553,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 99.90780052048103,
 			"seed": 393901895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20362,7 +20750,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 59.944680312288256,
 			"seed": 916315367,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20493,7 +20883,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1823061383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20556,7 +20948,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.99078005204774,
 			"seed": 1392676329,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20619,7 +21013,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 124.88475065059993,
 			"seed": 836965799,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20778,7 +21174,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.28877025156544,
 			"seed": 1025083977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -20953,7 +21351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.302600173493374,
 			"seed": 1659021063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21064,7 +21464,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 28.30721014746905,
 			"seed": 1348866473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21171,7 +21573,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.28416027758976,
 			"seed": 949600873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21238,7 +21642,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.27494032963841,
 			"seed": 1808146633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21437,7 +21843,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.651300086746232,
 			"seed": 571486695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21540,7 +21948,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.665130008675078,
 			"seed": 592306665,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21603,7 +22013,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.665130008675078,
 			"seed": 1448149415,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21670,7 +22082,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.5959803990354,
 			"seed": 1562297673,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21757,7 +22171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 1129686439,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21804,7 +22220,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.24267051180595,
 			"seed": 1842877191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -21979,7 +22397,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.619030268914685,
 			"seed": 551906473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -22078,7 +22498,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.60059037301107,
 			"seed": 1386550921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -22157,7 +22579,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3302600173492465,
 			"seed": 2068078919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -22232,7 +22656,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.9953900260243245,
 			"seed": 151158791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -22295,7 +22721,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.6605200346994025,
 			"seed": 1822981191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367841,
 			"link": null,
@@ -22358,7 +22786,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 2138829609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -22429,7 +22859,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 108.2334505638546,
 			"seed": 675882889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -22640,7 +23072,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120.92152204597778,
 			"seed": 1433532999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -22791,7 +23225,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.16526295817448,
 			"seed": 1242169257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -22850,7 +23286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.97327919859572,
 			"seed": 1282171689,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -22973,7 +23411,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.29381361462401,
 			"seed": 480617033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23044,7 +23484,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 68.85808894284855,
 			"seed": 1674421863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23179,7 +23621,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.0250363512132,
 			"seed": 623912007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23258,7 +23702,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.1786233588764,
 			"seed": 607835369,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23321,7 +23767,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 41.98663959929763,
 			"seed": 1557806759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23404,7 +23852,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120.92152204597733,
 			"seed": 144281735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23479,7 +23929,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45.34557076724104,
 			"seed": 114098057,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23574,7 +24026,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.33221036653958,
 			"seed": 312746631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23649,7 +24103,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 586.1596785732837,
 			"seed": 443568455,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23681,7 +24137,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 178.30758686280205,
 			"seed": 1939126535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23856,7 +24314,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.40193579066545,
 			"seed": 856925865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -23939,7 +24399,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.8399002008482,
 			"seed": 3829449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24010,7 +24472,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1501868519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24049,7 +24513,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 511285993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24088,7 +24554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.35104604526168,
 			"seed": 161753865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24279,7 +24747,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.7306901471011,
 			"seed": 1516928135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24450,7 +24920,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.32132379349332,
 			"seed": 286415047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24513,7 +24985,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.08804256011354,
 			"seed": 1532649129,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24596,7 +25070,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.89078994625197,
 			"seed": 1676191431,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24659,7 +25135,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100.65750871287219,
 			"seed": 905900201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24838,7 +25316,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.89078994625197,
 			"seed": 877802313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -24913,7 +25393,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112.16122399434244,
 			"seed": 559900809,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25152,7 +25634,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 41.700967895332724,
 			"seed": 1475372487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25219,7 +25703,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 768.3780191590795,
 			"seed": 2121591143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25322,7 +25808,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 114.2036597100905,
 			"seed": 2011117127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25497,7 +25985,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.71786233588773,
 			"seed": 1445358953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25560,7 +26050,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.71786233588773,
 			"seed": 1411296807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25627,7 +26119,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.03671230172404,
 			"seed": 650769863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25814,7 +26308,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 422079559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25857,7 +26353,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.9599187978929,
 			"seed": 1959889257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -25964,7 +26462,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.1167849948888033,
 			"seed": 470190633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -26031,7 +26531,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.233569989776697,
 			"seed": 58593417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367842,
 			"link": null,
@@ -26098,7 +26600,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.0945745144054,
 			"seed": 1804966633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26269,7 +26773,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.4449294990709,
 			"seed": 1483063977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26436,7 +26942,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.503549846655005,
 			"seed": 1485227399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26571,7 +27079,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.97250798479945,
 			"seed": 1701101513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26742,7 +27252,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.586358869234573,
 			"seed": 1639149449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26805,7 +27317,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692354824,
 			"seed": 866872839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26872,7 +27386,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.73158459250408,
 			"seed": 587385255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -26983,7 +27499,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.24973780791242,
 			"seed": 776155401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27194,7 +27712,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.17712494627813,
 			"seed": 2132505385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27329,7 +27849,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 7628935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27368,7 +27890,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1876341321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27407,7 +27931,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.10451208464383,
 			"seed": 462897639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27478,7 +28004,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.759076607704628,
 			"seed": 2024590953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27529,7 +28057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.931794346173774,
 			"seed": 1687689993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27620,7 +28150,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 93.59517328485163,
 			"seed": 1593164297,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27819,7 +28351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.1727177384700553,
 			"seed": 1791298727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27910,7 +28444,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.486253992399725,
 			"seed": 402699687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -27977,7 +28513,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.31794346173956,
 			"seed": 1190612295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -28052,7 +28590,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80.90430233097322,
 			"seed": 1687448583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -28135,7 +28675,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.73158459250317,
 			"seed": 426674663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -28298,7 +28840,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.76789102332168,
 			"seed": 266618631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -28433,7 +28977,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.62707250786025,
 			"seed": 2089125449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367843,
 			"link": null,
@@ -28520,7 +29066,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65.04071363862658,
 			"seed": 1097225383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -28619,7 +29167,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015562,
 			"seed": 1245294791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -28686,7 +29236,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.45876197720008,
 			"seed": 1116689511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -28841,7 +29393,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.345435476939201,
 			"seed": 916858471,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -28920,7 +29474,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.34984268474727,
 			"seed": 1235754185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -28995,7 +29551,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.45876197719917,
 			"seed": 1184379401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29170,7 +29728,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.931794346173774,
 			"seed": 569559879,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29245,7 +29805,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 1482254855,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29300,7 +29862,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.5269676310254,
 			"seed": 465230473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29423,7 +29987,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 90.42245554638157,
 			"seed": 321090825,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29566,7 +30132,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 176.08583448506033,
 			"seed": 843027399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29645,7 +30213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.00881441561614,
 			"seed": 726383977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29828,7 +30398,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.586358869234573,
 			"seed": 550398215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29891,7 +30463,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.486253992400634,
 			"seed": 1674482281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -29982,7 +30556,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.62707250786025,
 			"seed": 1354160489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30053,7 +30629,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 274.4400843776157,
 			"seed": 979117383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30152,7 +30730,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.28163703092105,
 			"seed": 2070793575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30287,7 +30867,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120.563274061843,
 			"seed": 802923305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30470,7 +31052,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.759076607704628,
 			"seed": 100722503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30521,7 +31105,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.345435476939201,
 			"seed": 280705191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30584,7 +31170,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.07702006944328,
 			"seed": 2001722569,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30699,7 +31287,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.24973780791242,
 			"seed": 1084918889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -30882,7 +31472,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.1089192924519,
 			"seed": 543612743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31005,7 +31597,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.277229823112975,
 			"seed": 1407192263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31068,7 +31662,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.8360966771479,
 			"seed": 508291753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31235,7 +31831,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.795383038522232,
 			"seed": 2013011335,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31326,7 +31924,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692354824,
 			"seed": 40953479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31377,7 +31977,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.1727177384700553,
 			"seed": 1337753575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31440,7 +32042,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.39055632337386,
 			"seed": 1588414857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31579,7 +32183,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 122.14963293107758,
 			"seed": 1478669769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31790,7 +32396,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.1089192924519,
 			"seed": 2056409065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31893,7 +32501,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80.90430233097413,
 			"seed": 1959349063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -31948,7 +32558,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.35424989255625,
 			"seed": 2026677577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32127,7 +32739,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 1486056425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32190,7 +32804,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.759076607703719,
 			"seed": 1036392359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32257,7 +32873,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.73158459250408,
 			"seed": 2065657671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32384,7 +33002,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 68.21343137709482,
 			"seed": 2000271145,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32515,7 +33135,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.46316918500816,
 			"seed": 2070430857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32610,7 +33232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.07702006944328,
 			"seed": 59813255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32761,7 +33385,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.345435476939201,
 			"seed": 1884797321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32828,7 +33454,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 28.55445964622595,
 			"seed": 1850057705,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32899,7 +33527,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.590766077043554,
 			"seed": 653447879,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -32946,7 +33576,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210.98572960822548,
 			"seed": 233073385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -33021,7 +33653,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.55886685403402,
 			"seed": 1175152681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -33140,7 +33774,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.863588692347548,
 			"seed": 1956694343,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -33227,7 +33863,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210.98572960822457,
 			"seed": 1053350601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367844,
 			"link": null,
@@ -33318,7 +33956,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.24973780791242,
 			"seed": 815448521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33469,7 +34109,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.931794346173774,
 			"seed": 992791079,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33536,7 +34178,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.65897173086887,
 			"seed": 1434882503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33607,7 +34251,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.17712494627813,
 			"seed": 936122505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33674,7 +34320,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 166.56768126965108,
 			"seed": 937618823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33765,7 +34413,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.44994756158212,
 			"seed": 1384625799,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33864,7 +34514,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.759076607704628,
 			"seed": 1101526695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33923,7 +34575,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692354824,
 			"seed": 2041572135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -33978,7 +34632,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65.04071363862568,
 			"seed": 1078306665,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34109,7 +34765,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.38614911556488,
 			"seed": 1362742473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34216,7 +34874,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.24973780791333,
 			"seed": 1423185289,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34407,7 +35067,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.277229823112975,
 			"seed": 667859463,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34510,7 +35172,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.89989512316515,
 			"seed": 278089673,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34573,7 +35237,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65.04071363862568,
 			"seed": 734581191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34620,7 +35286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.586358869234573,
 			"seed": 919182313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34675,7 +35343,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 1553502343,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34718,7 +35388,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015653,
 			"seed": 320166599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34833,7 +35505,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.586358869234573,
 			"seed": 910066983,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34888,7 +35562,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.795383038521322,
 			"seed": 544959849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -34971,7 +35647,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015562,
 			"seed": 1143557513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35030,7 +35708,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.00881441561705,
 			"seed": 1795539209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35185,7 +35865,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 608.1048592636707,
 			"seed": 392040201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35217,7 +35899,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.32235066954672,
 			"seed": 2067132553,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35336,7 +36020,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.28163703092105,
 			"seed": 1321548519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35423,7 +36109,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.104512084644739,
 			"seed": 668139305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35494,7 +36182,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692336634,
 			"seed": 2105037703,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35537,7 +36227,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692336634,
 			"seed": 1811056169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35580,7 +36272,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.08142727725135,
 			"seed": 613433127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35763,7 +36457,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015653,
 			"seed": 1582539113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -35954,7 +36650,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 41.24533060010435,
 			"seed": 182193191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36025,7 +36723,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 142.77229823112975,
 			"seed": 1680650281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36208,7 +36908,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120.5632740618421,
 			"seed": 1888488007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36307,7 +37009,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.31794346173956,
 			"seed": 1149768295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36494,7 +37198,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.44994756158121,
 			"seed": 1873148135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36545,7 +37251,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1764372039,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36584,7 +37292,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.14522572327041,
 			"seed": 1332764809,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36763,7 +37473,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 46.00440720780898,
 			"seed": 134442793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -36834,7 +37546,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 122.14963293107758,
 			"seed": 1470948231,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37001,7 +37715,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 144.35865710036524,
 			"seed": 289183049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37200,7 +37916,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.76789102332077,
 			"seed": 2100696423,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37347,7 +38065,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 978683975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37418,7 +38138,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.518153215409257,
 			"seed": 1638849033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37485,7 +38207,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.345435476938292,
 			"seed": 1385722985,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37544,7 +38268,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.831689469339835,
 			"seed": 2126149609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37655,7 +38381,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692354824,
 			"seed": 711893607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37722,7 +38450,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.4906612002087,
 			"seed": 1868120583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -37921,7 +38651,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.10451208464292,
 			"seed": 175440457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -38012,7 +38744,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.65897173086887,
 			"seed": 2013751625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -38179,7 +38913,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.345435476938292,
 			"seed": 24915175,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -38250,7 +38986,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.76789102332259,
 			"seed": 913634153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367845,
 			"link": null,
@@ -38433,7 +39171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.89989512316606,
 			"seed": 381670151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -38532,7 +39272,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 131.66778614648683,
 			"seed": 921961255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -38675,7 +39417,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.10451208464292,
 			"seed": 125543177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -38746,7 +39490,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.97250798479945,
 			"seed": 1838811559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -38941,7 +39687,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.759076607704628,
 			"seed": 1487745863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39008,7 +39756,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.5863588692354824,
 			"seed": 1543587559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39071,7 +39821,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.65897173086887,
 			"seed": 434107017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39230,7 +39982,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.931794346173774,
 			"seed": 158574727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39301,7 +40055,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.55886685403311,
 			"seed": 776110601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39464,7 +40220,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.486253992399725,
 			"seed": 1658054377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39567,7 +40325,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.14522572327041,
 			"seed": 1366590535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39710,7 +40470,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.65897173086887,
 			"seed": 573717481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39869,7 +40631,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.036306430818513,
 			"seed": 1282401575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -39948,7 +40712,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 95.18153215408711,
 			"seed": 1190377993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40131,7 +40897,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015653,
 			"seed": 1262207591,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40286,7 +41054,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.936201553982755,
 			"seed": 565613671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40365,7 +41135,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.4906612002087,
 			"seed": 39849673,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40452,7 +41224,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.35424989255625,
 			"seed": 165999113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40627,7 +41401,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.727177384695096,
 			"seed": 830606151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40742,7 +41518,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.863588692347548,
 			"seed": 2131396007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40817,7 +41595,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.140818515461433,
 			"seed": 1734096489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -40964,7 +41744,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 207641993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41031,7 +41813,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 1013434345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41098,7 +41882,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.65897173086887,
 			"seed": 2095813671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41189,7 +41975,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.55886685403493,
 			"seed": 1032305959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41248,7 +42036,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.1089192924519,
 			"seed": 2059891687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41423,7 +42213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 46.00440720780716,
 			"seed": 1031445319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41518,7 +42310,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80.90430233097322,
 			"seed": 1418389417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41581,7 +42375,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.83609667714882,
 			"seed": 1786612263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41780,7 +42576,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.55886685403493,
 			"seed": 327493479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -41951,7 +42749,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.34984268474727,
 			"seed": 758516647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42050,7 +42850,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.172717738469146,
 			"seed": 1366525895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42133,7 +42935,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.931794346173774,
 			"seed": 1096179111,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42220,7 +43024,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.17712494627631,
 			"seed": 634998889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42307,7 +43113,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 61.86799590015653,
 			"seed": 1109481607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42390,7 +43198,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 589.0659252958394,
 			"seed": 1603962471,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42422,7 +43232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 497.3333333333326,
 			"seed": 330256024,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42454,7 +43266,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 517134312,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42597,7 +43411,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.25,
 			"seed": 1229590680,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42732,7 +43548,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 1771727848,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42807,7 +43625,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 2111987176,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42850,7 +43670,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 184454808,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -42889,7 +43711,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.25,
 			"seed": 1986691992,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43112,7 +43936,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1867508200,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43187,7 +44013,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1222728680,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43258,7 +44086,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 1612945304,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43389,7 +44219,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1151713432,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43432,7 +44264,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.25,
 			"seed": 559684328,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43607,7 +44441,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.5,
 			"seed": 994062744,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43742,7 +44578,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.25,
 			"seed": 116292328,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43809,7 +44647,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1744609768,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43848,7 +44688,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 978255256,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367846,
 			"link": null,
@@ -43895,7 +44737,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.75,
 			"seed": 665568408,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -43974,7 +44818,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.25,
 			"seed": 185770728,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44089,7 +44935,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.5,
 			"seed": 906707944,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44176,7 +45024,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 906504600,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44307,7 +45157,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.75,
 			"seed": 1132270232,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44378,7 +45230,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 108.75,
 			"seed": 1266561512,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44581,7 +45435,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 1778439144,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44652,7 +45508,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1666359192,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44731,7 +45589,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.25,
 			"seed": 186071016,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44814,7 +45674,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 1757981928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -44945,7 +45807,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.25,
 			"seed": 1060920984,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45168,7 +46032,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 19807976,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45231,7 +46097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 893187992,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45302,7 +46170,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.25,
 			"seed": 1936211176,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45481,7 +46351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1785378280,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45560,7 +46432,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 899787416,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45775,7 +46649,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.5,
 			"seed": 552464360,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -45902,7 +46778,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.5,
 			"seed": 531840664,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46005,7 +46883,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 718148072,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46068,7 +46948,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 899765400,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46139,7 +47021,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1223446504,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46250,7 +47134,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.75,
 			"seed": 746336744,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46429,7 +47315,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1415367400,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46504,7 +47392,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 554794216,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46571,7 +47461,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.5,
 			"seed": 1459514344,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46794,7 +47686,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 396254872,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -46989,7 +47883,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 35,
 			"seed": 1922699160,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47112,7 +48008,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 1329228696,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47187,7 +48085,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1716181400,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47254,7 +48154,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.5,
 			"seed": 1800919704,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47345,7 +48247,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 55,
 			"seed": 543277720,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47500,7 +48404,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.75,
 			"seed": 453804776,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47579,7 +48485,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 22080920,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47654,7 +48562,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 1075131032,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47785,7 +48695,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1560208104,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -47828,7 +48740,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.25,
 			"seed": 553852824,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48003,7 +48917,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.5,
 			"seed": 1005733352,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48138,7 +49054,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.25,
 			"seed": 1739287704,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48205,7 +49123,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1283541224,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48244,7 +49164,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 767695256,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48291,7 +49213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.75,
 			"seed": 439872488,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48370,7 +49294,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.25,
 			"seed": 914040472,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48485,7 +49411,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.5,
 			"seed": 1596075752,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48572,7 +49500,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 1049269144,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48703,7 +49633,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.25,
 			"seed": 638911384,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48798,7 +49730,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 105,
 			"seed": 431110632,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -48909,7 +49843,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.5,
 			"seed": 586373784,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49044,7 +49980,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 2065105384,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49119,7 +50057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.25,
 			"seed": 175535080,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49186,7 +50126,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.5,
 			"seed": 1332282088,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49397,7 +50339,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.5,
 			"seed": 328832488,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49504,7 +50448,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 1239602152,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49691,7 +50637,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1523896296,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49746,7 +50694,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.25,
 			"seed": 1207789976,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49817,7 +50767,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 78.75,
 			"seed": 1645423336,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -49956,7 +50908,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100,
 			"seed": 10908904,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367847,
 			"link": null,
@@ -50055,7 +51009,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.75,
 			"seed": 1330851816,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50250,7 +51206,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1392602856,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50321,7 +51279,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.5,
 			"seed": 641733784,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50412,7 +51372,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 602930328,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50567,7 +51529,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 840420504,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50638,7 +51602,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 370431976,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50709,7 +51675,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.25,
 			"seed": 1836309400,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -50992,7 +51960,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1843887000,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51127,7 +52097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.5,
 			"seed": 655167720,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51262,7 +52234,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.75,
 			"seed": 232438424,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51365,7 +52339,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25,
 			"seed": 411031016,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51488,7 +52464,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.25,
 			"seed": 962804200,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51679,7 +52657,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 665746584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51790,7 +52770,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.75,
 			"seed": 1411430120,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -51941,7 +52923,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1837887128,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52140,7 +53124,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.5,
 			"seed": 1802594280,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52359,7 +53345,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 959197160,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52434,7 +53422,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.25,
 			"seed": 240198120,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52521,7 +53511,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.5,
 			"seed": 1299016600,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52668,7 +53660,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 2042416792,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52743,7 +53737,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 577174680,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52814,7 +53810,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.25,
 			"seed": 1110321128,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -52913,7 +53911,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 782861032,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53064,7 +54064,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.5,
 			"seed": 965501592,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53255,7 +54257,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.75,
 			"seed": 138358504,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53330,7 +54334,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 41.25,
 			"seed": 148431080,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53409,7 +54415,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.75,
 			"seed": 28831640,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53644,7 +54652,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.25,
 			"seed": 782999960,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53783,7 +54793,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.75,
 			"seed": 119568280,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -53962,7 +54974,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.75,
 			"seed": 1985695384,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54105,7 +55119,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 24826088,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54172,7 +55188,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 655572968,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54247,7 +55265,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 1202467304,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54442,7 +55462,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.25,
 			"seed": 1622487272,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54569,7 +55591,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 128.75,
 			"seed": 739505304,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54796,7 +55820,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.75,
 			"seed": 1918523800,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -54987,7 +56013,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 391751656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55074,7 +56102,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.5,
 			"seed": 1529972120,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55213,7 +56243,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 315055000,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55284,7 +56316,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 95,
 			"seed": 922523880,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55367,7 +56401,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.25,
 			"seed": 1874144744,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55474,7 +56510,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 887122920,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55533,7 +56571,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 695678952,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55608,7 +56648,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.25,
 			"seed": 1555442152,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55799,7 +56841,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 78.75,
 			"seed": 1989840024,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -55954,7 +56998,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 362962072,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56117,7 +57163,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.75,
 			"seed": 793303448,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56316,7 +57364,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 71.25,
 			"seed": 1642108824,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56391,7 +57441,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 28.75,
 			"seed": 157287832,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56482,7 +57534,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.5,
 			"seed": 1666117016,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56553,7 +57607,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.25,
 			"seed": 311846632,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56696,7 +57752,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 303.33333333333394,
 			"seed": 892733336,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367848,
 			"link": null,
@@ -56795,7 +57853,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200,
 			"seed": 720765848,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -56946,7 +58006,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 130608872,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57037,7 +58099,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 340,
 			"seed": 1983743720,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57120,7 +58184,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 94587624,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57191,7 +58257,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6,
 			"seed": 1602975896,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57254,7 +58322,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92,
 			"seed": 1128155368,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57405,7 +58475,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 26,
 			"seed": 1759919256,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57468,7 +58540,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100,
 			"seed": 692307176,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57571,7 +58645,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58,
 			"seed": 85971608,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57650,7 +58726,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74,
 			"seed": 447280360,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57733,7 +58811,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1579223528,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57796,7 +58876,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32,
 			"seed": 714464408,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57867,7 +58949,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62,
 			"seed": 258557928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -57942,7 +59026,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48,
 			"seed": 1239169512,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58061,7 +59147,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30,
 			"seed": 1003068904,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58164,7 +59252,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 196033176,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58203,7 +59293,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 280,
 			"seed": 1462616296,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58250,7 +59342,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174,
 			"seed": 2100824552,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58397,7 +59491,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1712215784,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58456,7 +59552,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6,
 			"seed": 987210472,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58515,7 +59613,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 132,
 			"seed": 320370664,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58634,7 +59734,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112,
 			"seed": 1005201816,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58725,7 +59827,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38,
 			"seed": 242553240,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58776,7 +59880,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 142,
 			"seed": 1092245656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58895,7 +60001,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70,
 			"seed": 381681128,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -58978,7 +60086,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 214,
 			"seed": 1591287784,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59061,7 +60171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8,
 			"seed": 1296012520,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59112,7 +60224,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14,
 			"seed": 555605480,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59167,7 +60281,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 166,
 			"seed": 1106082712,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59314,7 +60430,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 152,
 			"seed": 853466776,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59457,7 +60575,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88,
 			"seed": 125059304,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59552,7 +60672,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30,
 			"seed": 1244498328,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59599,7 +60721,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98,
 			"seed": 1248567784,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59710,7 +60834,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1290171032,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59765,7 +60891,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4,
 			"seed": 269659112,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59820,7 +60948,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 134,
 			"seed": 532008344,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -59951,7 +61081,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38,
 			"seed": 62928536,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60010,7 +61142,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 254802072,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60153,7 +61287,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 190,
 			"seed": 2140339096,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60224,7 +61360,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72,
 			"seed": 1396635880,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60291,7 +61429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 102,
 			"seed": 289302504,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60362,7 +61502,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.86206896551786,
 			"seed": 461806488,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60493,7 +61635,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 980716008,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60536,7 +61680,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 124.31896551724198,
 			"seed": 1012885656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60711,7 +61857,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.775862068966,
 			"seed": 1243286760,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60846,7 +61994,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10.905172413793153,
 			"seed": 1117164952,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60913,7 +62063,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.00017448275862069044,
 			"seed": 1207513064,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60952,7 +62104,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 861938328,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -60999,7 +62153,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85.06034482758659,
 			"seed": 1276834536,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61078,7 +62234,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.14655172413838,
 			"seed": 1299189656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61193,7 +62351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.258620689655345,
 			"seed": 218912232,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61280,7 +62440,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.53448275862081,
 			"seed": 1492802712,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61411,7 +62573,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 202.83620689655265,
 			"seed": 265902312,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61506,7 +62670,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 183.20689655172498,
 			"seed": 2008222104,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61617,7 +62783,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.258620689655345,
 			"seed": 1477311464,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61752,7 +62920,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74,
 			"seed": 1880854424,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367849,
 			"link": null,
@@ -61875,7 +63045,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 132,
 			"seed": 1182526360,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -61966,7 +63138,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22,
 			"seed": 2040845208,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62009,7 +63183,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 78,
 			"seed": 1753664920,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62104,7 +63280,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 94,
 			"seed": 568594408,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62167,7 +63345,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8,
 			"seed": 686896792,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62226,7 +63406,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38,
 			"seed": 523578008,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62297,7 +63479,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58,
 			"seed": 445815272,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62356,7 +63540,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96,
 			"seed": 631399912,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62407,7 +63593,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 94,
 			"seed": 2034650856,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62478,7 +63666,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8,
 			"seed": 998585496,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62533,7 +63723,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 690866664,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62580,7 +63772,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52,
 			"seed": 1210770072,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62627,7 +63821,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1657444584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62698,7 +63894,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 647636888,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62765,7 +63963,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 359.68104310804665,
 			"seed": 1247176856,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62888,7 +64088,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.52900561489696,
 			"seed": 1968784536,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -62951,7 +64153,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 114.31723075527043,
 			"seed": 518601960,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63010,7 +64214,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 259.3049380546381,
 			"seed": 873433320,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63069,7 +64275,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 178.4464089838366,
 			"seed": 1303368936,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63180,7 +64388,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.39982738633262,
 			"seed": 1835708312,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63263,7 +64473,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.43497935154483,
 			"seed": 667986584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63338,7 +64550,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 181.23463412421006,
 			"seed": 1055250584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63394,10 +64608,12 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 1920,
-			"height": 1124.5714285714284,
+			"height": 1124.5714285714287,
 			"seed": 1748203928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63429,7 +64645,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 276.25,
 			"seed": 2107565288,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63636,7 +64854,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 142.5,
 			"seed": 441514904,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63831,7 +65051,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 253.75,
 			"seed": 1374719128,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -63942,7 +65164,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.25,
 			"seed": 1004250856,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -64101,7 +65325,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 1070492568,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367850,
 			"link": null,
@@ -64184,7 +65410,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 2130699928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64355,7 +65583,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 272.5,
 			"seed": 265875608,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64466,7 +65696,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1475694488,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64533,7 +65765,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1975029912,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64596,7 +65830,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.75,
 			"seed": 1577162472,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64755,7 +65991,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 589265816,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -64946,7 +66184,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65,
 			"seed": 197436904,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65105,7 +66345,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 582409368,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65212,7 +66454,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 26.25,
 			"seed": 49839768,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65311,7 +66555,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 35,
 			"seed": 63296408,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65430,7 +66676,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.5,
 			"seed": 1299763944,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65513,7 +66761,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 271.25,
 			"seed": 1897310184,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367851,
 			"link": null,
@@ -65724,7 +66974,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1396395240,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -65787,7 +67039,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1071040920,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -65858,7 +67112,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125,
 			"seed": 790350568,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66033,7 +67289,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 81.25,
 			"seed": 1029669272,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66212,7 +67470,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 102.5,
 			"seed": 434804888,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66391,7 +67651,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 1615531928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66474,7 +67736,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.5,
 			"seed": 215812760,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66665,7 +67929,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 167.5,
 			"seed": 906513560,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66706,7 +67972,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 41.25,
 			"seed": 36319464,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -66869,7 +68137,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.5,
 			"seed": 1651180520,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67016,7 +68286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.5,
 			"seed": 1810141416,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67135,7 +68407,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1339064472,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67238,7 +68512,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.25,
 			"seed": 24391656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67353,7 +68629,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 108.75,
 			"seed": 1948184808,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67588,7 +68866,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 945004264,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67659,7 +68939,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1457972376,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67726,7 +69008,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.75,
 			"seed": 601921000,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67817,7 +69101,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.75,
 			"seed": 1392389608,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -67984,7 +69270,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110,
 			"seed": 1892909464,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -68139,7 +69427,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 108.75,
 			"seed": 80826776,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -68238,7 +69528,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.5,
 			"seed": 2045091992,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -68401,7 +69693,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.25,
 			"seed": 41655704,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367852,
 			"link": null,
@@ -68556,7 +69850,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 885091736,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -68675,7 +69971,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 801872104,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -68766,7 +70064,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.75,
 			"seed": 1366700264,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -68897,7 +70197,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 153.75,
 			"seed": 48642024,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69000,7 +70302,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.75,
 			"seed": 1775595416,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69111,7 +70415,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 1404974056,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69190,7 +70496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.25,
 			"seed": 811306136,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69257,7 +70565,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.75,
 			"seed": 899198360,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69328,7 +70638,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.75,
 			"seed": 190883560,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69423,7 +70735,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.75,
 			"seed": 1980269464,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69574,7 +70888,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85,
 			"seed": 1859022568,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69729,7 +71045,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 547331816,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -69824,7 +71142,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70,
 			"seed": 390925208,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70007,7 +71327,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.5,
 			"seed": 996586216,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70186,7 +71508,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 822668264,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70289,7 +71613,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.75,
 			"seed": 1986689944,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70408,7 +71734,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.5,
 			"seed": 1504291560,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70495,7 +71823,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.25,
 			"seed": 11260568,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70574,7 +71904,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1994192104,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70657,7 +71989,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1020594664,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70716,7 +72050,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.75,
 			"seed": 455923176,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70871,7 +72207,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.25,
 			"seed": 265291240,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -70990,7 +72328,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 81.25,
 			"seed": 1540471704,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -71117,7 +72457,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.75,
 			"seed": 445697512,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -71220,7 +72562,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1389623704,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -71363,7 +72707,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 28.75,
 			"seed": 1400477160,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -71462,7 +72808,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 157.5,
 			"seed": 134201240,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367853,
 			"link": null,
@@ -71503,7 +72851,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.25,
 			"seed": 1273266408,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71544,7 +72894,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 177.5,
 			"seed": 1682255592,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71585,7 +72937,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1913393384,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71624,7 +72978,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.971953170521374,
 			"seed": 1507743128,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71715,7 +73071,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.694296899964684,
 			"seed": 343752088,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71814,7 +73172,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.805234429333723,
 			"seed": 709603992,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -71901,7 +73261,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.38859379992755,
 			"seed": 942684136,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72076,7 +73438,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.69398445282786,
 			"seed": 638690456,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72247,7 +73611,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25.7775000469901,
 			"seed": 886517400,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72366,7 +73732,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.305390652900314,
 			"seed": 887998440,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72509,7 +73877,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6110937529356306,
 			"seed": 423239832,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72596,7 +73966,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.33312503524212,
 			"seed": 6023656,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72743,7 +74115,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.11093752936904,
 			"seed": 1282291432,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72858,7 +74232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.8055468764687248,
 			"seed": 306927592,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -72905,7 +74281,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.166406294054468,
 			"seed": 444367080,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73036,7 +74414,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.61078130580063,
 			"seed": 950700008,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73107,7 +74487,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20.138671911712663,
 			"seed": 1683764968,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73182,7 +74564,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.38859379992573,
 			"seed": 1032841448,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73253,7 +74637,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.638828135279255,
 			"seed": 232159896,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73316,7 +74702,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.6110937529374496,
 			"seed": 1570596584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73387,7 +74775,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 50.74945321751329,
 			"seed": 2093653144,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73566,7 +74956,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.83296881167553,
 			"seed": 1374786456,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73693,7 +75085,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40.27734382342351,
 			"seed": 1421768168,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73836,7 +75230,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.444375011747979,
 			"seed": 1580454552,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -73907,7 +75303,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.805234429333723,
 			"seed": 1464562152,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -74050,7 +75448,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.305390652902133,
 			"seed": 1016960664,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367854,
 			"link": null,
@@ -74141,7 +75541,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.61078130580063,
 			"seed": 1126923928,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -74420,7 +75822,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.38859379992755,
 			"seed": 1389130728,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -74507,7 +75911,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.05515631754861,
 			"seed": 2103179672,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -74590,7 +75996,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.94390634104275,
 			"seed": 1543058584,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -74753,7 +76161,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.083203147025415,
 			"seed": 1448391064,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -74868,7 +76278,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.63820324100743,
 			"seed": 609490152,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75007,7 +76419,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.749765664648294,
 			"seed": 1814421224,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75110,7 +76524,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.86070319401733,
 			"seed": 90019992,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75173,7 +76589,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.4166406294061744,
 			"seed": 1412311272,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75240,7 +76658,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.2221875058730802,
 			"seed": 649041896,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75307,7 +76727,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.69398445282786,
 			"seed": 624968600,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75418,7 +76840,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.85816057509146,
 			"seed": 734240744,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75633,7 +77057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 556.0375037964003,
 			"seed": 1777994175,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75665,7 +77091,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.22081449527104,
 			"seed": 1331434769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -75952,7 +77380,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 264.74917799829564,
 			"seed": 79922303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76183,7 +77613,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.4378808455549,
 			"seed": 1971543505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76278,7 +77710,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.72620664366332,
 			"seed": 1885861055,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76377,7 +77811,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.330520362382231,
 			"seed": 1240537119,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76468,7 +77904,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1112525087,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76507,7 +77945,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1828612657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76598,7 +78038,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 108.38724736842778,
 			"seed": 373057841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -76797,7 +78239,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.27144797239816,
 			"seed": 861635839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -77148,7 +78592,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.92404978430568,
 			"seed": 2091993457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -77459,7 +78905,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.553680241588154,
 			"seed": 52389503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -77562,7 +79010,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.776840120794077,
 			"seed": 91954641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -77681,7 +79131,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 129.7093288179567,
 			"seed": 1001576735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -77916,7 +79368,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 124.37880845557447,
 			"seed": 1538633823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -78279,7 +79733,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 154.58509050907014,
 			"seed": 1241539199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -78614,7 +80070,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.26300905954486,
 			"seed": 730668081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -79073,7 +80531,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.92404978430932,
 			"seed": 1818492273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -79544,7 +81004,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 147.47773002589747,
 			"seed": 1115118847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -79923,7 +81385,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.41256410699498,
 			"seed": 1308883583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -80062,7 +81526,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.0651659189025,
 			"seed": 1805213759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -80165,7 +81631,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 184.7913725625658,
 			"seed": 810424337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -80552,7 +82020,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.13033183780135,
 			"seed": 1826859121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367855,
 			"link": null,
@@ -80947,7 +82417,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.330520362382231,
 			"seed": 904747697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -81042,7 +82514,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.330520362382231,
 			"seed": 1235588575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -81161,7 +82635,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 135.03984918033893,
 			"seed": 1192425521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -81448,7 +82924,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.4378808455549,
 			"seed": 1982096223,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -81559,7 +83037,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 167.02297135462868,
 			"seed": 1913525457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -81898,7 +83378,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 44.421003019848285,
 			"seed": 2088556017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82073,7 +83555,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.722742131754785,
 			"seed": 821019615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82192,7 +83676,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.43446056197354,
 			"seed": 2008934961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82283,7 +83769,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 195.40546587199788,
 			"seed": 1232857393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82574,7 +84062,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1961629457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82657,7 +84147,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.4124131589160243,
 			"seed": 141616177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82744,7 +84236,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 151.59681198666294,
 			"seed": 1919403071,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -82927,7 +84421,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 176.8629473177716,
 			"seed": 395297489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83134,7 +84630,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.887097743248887,
 			"seed": 59020671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83221,7 +84719,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.74195486495228,
 			"seed": 220270353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83308,7 +84808,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.99196988529366,
 			"seed": 444791647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83399,7 +84901,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 167.14520295965121,
 			"seed": 73034847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83570,7 +85074,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.25001502033774,
 			"seed": 513770143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83701,7 +85207,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.9435488716226246,
 			"seed": 663523391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83764,7 +85272,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.887097743245249,
 			"seed": 864630449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -83839,7 +85349,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.8790676285389,
 			"seed": 392609265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84022,7 +85534,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.774195486494136,
 			"seed": 78219263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84105,7 +85619,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.30646614871512,
 			"seed": 1485917407,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84196,7 +85712,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 128.27422552717326,
 			"seed": 2044673503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84263,7 +85781,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 219.62102249349482,
 			"seed": 1990308479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84482,7 +86002,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 588.8953081020263,
 			"seed": 1547806079,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84729,7 +86251,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 394.84682700700074,
 			"seed": 1931914385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84761,7 +86285,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 307.3650894582315,
 			"seed": 1582404113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -84916,7 +86442,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40.83871817976615,
 			"seed": 1952632849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85019,7 +86547,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 1090182815,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85074,7 +86604,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 113796209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85133,7 +86665,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.02209233941903,
 			"seed": 1145613521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85228,7 +86762,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.86081051918518,
 			"seed": 11670975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85371,7 +86907,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.42446745946654,
 			"seed": 1040773105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85486,7 +87024,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.597624879952491,
 			"seed": 1087039633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85545,7 +87085,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.2631856392327,
 			"seed": 1226676241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85744,7 +87286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.33278037964192,
 			"seed": 1360363551,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85875,7 +87419,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 177118655,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -85950,7 +87496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150.45843539913767,
 			"seed": 1782776447,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86113,7 +87661,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180.5501224789623,
 			"seed": 1191427231,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86296,7 +87846,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 681059441,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86363,7 +87915,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 459161041,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86430,7 +87984,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.87268611943,
 			"seed": 742947633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86585,7 +88141,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.02209233941903,
 			"seed": 315849009,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86732,7 +88290,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.33278037964192,
 			"seed": 950389073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367856,
 			"link": null,
@@ -86847,7 +88407,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 1099849201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -86906,7 +88468,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.597624879948853,
 			"seed": 2102091121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -86981,7 +88545,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.045843539912312,
 			"seed": 780981425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87052,7 +88618,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.06793587933498,
 			"seed": 948379519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87219,7 +88787,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.33278037964192,
 			"seed": 2079257553,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87330,7 +88900,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.89643731992328,
 			"seed": 222255871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87401,7 +88973,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.39049951980269,
 			"seed": 1512354257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87512,7 +89086,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25.792874639853835,
 			"seed": 153746687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87587,7 +89163,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.76912343935692,
 			"seed": 354283967,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87718,7 +89296,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.195249759901344,
 			"seed": 914123615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87789,7 +89369,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 113.91852965934595,
 			"seed": 952882033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87904,7 +89486,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.1494062199890323,
 			"seed": 949156881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -87963,7 +89547,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.195249759901344,
 			"seed": 411036561,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88022,7 +89608,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 176.25131003898423,
 			"seed": 1488526097,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88193,7 +89781,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45.13753061974057,
 			"seed": 1391462609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88268,7 +89858,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 36.53990573978808,
 			"seed": 1498511377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88335,7 +89927,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85.97624879950672,
 			"seed": 263146865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88410,7 +90004,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10.747031099937885,
 			"seed": 20759729,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88501,7 +90097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.87268611943,
 			"seed": 446186417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88624,7 +90222,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.448218659963459,
 			"seed": 1799971377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88683,7 +90283,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.597624879948853,
 			"seed": 1145192881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88742,7 +90344,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 163.3548727190573,
 			"seed": 1611620657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88897,7 +90501,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.63159281961634,
 			"seed": 1762549553,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -88996,7 +90602,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399744265,
 			"seed": 1811836945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89067,7 +90675,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.344655979890376,
 			"seed": 74761759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89158,7 +90768,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 131.11377941924366,
 			"seed": 465925919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89309,7 +90921,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.183374159652885,
 			"seed": 19956337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89412,7 +91026,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 34.39049951979905,
 			"seed": 1499000383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89499,7 +91115,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85.97624879950672,
 			"seed": 1416481361,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89638,15 +91256,17 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1376.4300416337505,
+			"x": -1376.4300416337503,
 			"y": 20748.29947376581,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 2828.1102297105663,
+			"width": 2828.110229710566,
 			"height": 536.1625643826281,
 			"seed": 761101937,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89678,7 +91298,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 317.5952399337766,
 			"seed": 1691114705,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89853,7 +91475,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.475779998858343,
 			"seed": 1352864511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89912,7 +91536,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.475779998854705,
 			"seed": 720247679,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367857,
 			"link": null,
@@ -89987,7 +91613,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 186.17651996118002,
 			"seed": 1574514751,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90146,7 +91774,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10.951559997716686,
 			"seed": 223556913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90217,7 +91847,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30.116789993720886,
 			"seed": 2031376127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90304,7 +91936,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.92302998458763,
 			"seed": 1612346769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90463,7 +92097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 876.1247998173203,
 			"seed": 1255086705,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90554,7 +92190,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 383.3045999200767,
 			"seed": 1344854385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90693,7 +92331,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.39880998344597,
 			"seed": 2066534321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90856,7 +92496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 8.213669998287514,
 			"seed": 861663121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90931,7 +92573,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5.475779998858343,
 			"seed": 1825656529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -90998,7 +92642,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 208.0796399566134,
 			"seed": 450868785,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91137,7 +92783,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 251.48052773855306,
 			"seed": 229433919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91324,7 +92972,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1982426303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91383,7 +93033,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.896437319926918,
 			"seed": 815371583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91462,7 +93114,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 135.41259185922172,
 			"seed": 1973127537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91561,7 +93215,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 242.88290285860057,
 			"seed": 540414545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91636,7 +93292,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 204.1935908988271,
 			"seed": 1273127313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91827,7 +93485,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 279.4228085983923,
 			"seed": 707764817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -91954,7 +93614,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 64.48218659963095,
 			"seed": 2116002207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92065,7 +93727,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.2988124399780645,
 			"seed": 578705823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92124,7 +93788,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.448218659963459,
 			"seed": 1445007903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92183,7 +93849,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 221.38884065872844,
 			"seed": 811829919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92282,7 +93950,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 277.2734023784069,
 			"seed": 1644464241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92465,7 +94135,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.1494062199853943,
 			"seed": 238785919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92524,7 +94196,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.448218659963459,
 			"seed": 1223777791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92583,7 +94257,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 202.04418467883806,
 			"seed": 1077864063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92734,7 +94410,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 197.74537223886364,
 			"seed": 242306321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -92913,7 +94591,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.14774735891478,
 			"seed": 343973823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367858,
 			"link": null,
@@ -93072,7 +94752,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.73515549968943,
 			"seed": 719027633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93219,7 +94901,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 214.94062199876498,
 			"seed": 1954242001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93366,7 +95050,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.02209233941903,
 			"seed": 1916830193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93469,7 +95155,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.896437319926918,
 			"seed": 261035711,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93532,7 +95220,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 195.5959660188746,
 			"seed": 609982513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93619,7 +95309,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.86081051918154,
 			"seed": 709349439,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93726,7 +95418,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.713784191982995,
 			"seed": 1638817151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93861,7 +95555,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.07067628797449,
 			"seed": 283412049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -93976,7 +95672,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 22.58222468922395,
 			"seed": 203242225,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94039,7 +95737,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 257.43736145715593,
 			"seed": 539035903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94222,7 +95922,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.23022912982924,
 			"seed": 208531985,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94361,7 +96063,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1519145041,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94424,7 +96128,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.516444937846245,
 			"seed": 749879743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94495,7 +96201,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.62001110150959,
 			"seed": 2003914513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94586,7 +96294,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.24002220301554,
 			"seed": 1708420625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94669,7 +96379,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.516444937846245,
 			"seed": 1500584753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94744,7 +96456,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.2582224689249415,
 			"seed": 1681474161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94819,7 +96533,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180.65779751379523,
 			"seed": 353040817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -94974,7 +96690,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.38978197168399,
 			"seed": 663287729,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -95109,7 +96827,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.84044715814889,
 			"seed": 1737940351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367859,
 			"link": null,
@@ -95192,7 +96912,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210.0146896097831,
 			"seed": 291361375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95371,7 +97093,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 79.037786412282,
 			"seed": 1050475711,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95474,7 +97198,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 216.78935701655064,
 			"seed": 407966975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95597,7 +97323,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.62001110150959,
 			"seed": 377908863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95716,7 +97444,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.840447158145253,
 			"seed": 826348945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95779,7 +97509,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.549334813535097,
 			"seed": 1478103167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95842,7 +97574,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.291112344610156,
 			"seed": 1274215025,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95909,7 +97643,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 212.2729120787044,
 			"seed": 1563644881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -95992,7 +97728,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205.49824467193685,
 			"seed": 1499461873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96123,7 +97861,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.516444937846245,
 			"seed": 1123885393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96186,7 +97926,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.516444937846245,
 			"seed": 593199295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96245,7 +97987,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 151.3009054178001,
 			"seed": 975284543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96380,7 +98124,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.7795639433607,
 			"seed": 1503030929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96483,7 +98229,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067639105,
 			"seed": 888649759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96542,7 +98290,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067675485,
 			"seed": 330772639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367860,
 			"link": null,
@@ -96641,7 +98391,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110.65290097719844,
 			"seed": 1163253183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -96728,7 +98480,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.00979307318994,
 			"seed": 2041359057,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -96811,7 +98565,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180.6577975137916,
 			"seed": 856764401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -96998,7 +98754,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.5213414744394,
 			"seed": 307211633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97105,7 +98863,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.00979307318994,
 			"seed": 1306051633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97200,7 +98960,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067675485,
 			"seed": 334038111,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97271,7 +99033,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.516444937842607,
 			"seed": 59173489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97334,7 +99098,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 115.16934591504469,
 			"seed": 2028136863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97413,7 +99179,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 207.7564671408618,
 			"seed": 860517137,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97572,7 +99340,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.680894316290505,
 			"seed": 1065510015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97711,7 +99481,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.2582224689213035,
 			"seed": 1152797247,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367861,
 			"link": null,
@@ -97770,7 +99542,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.032889875688852,
 			"seed": 822850239,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -97829,7 +99603,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.8782335704309,
 			"seed": 1026087743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -97904,7 +99680,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 191.9489098584054,
 			"seed": 1248927743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -97971,7 +99749,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 246.14624911254214,
 			"seed": 1495416991,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98178,7 +99958,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 146.7844604799575,
 			"seed": 472287761,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98285,7 +100067,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.10356616366334,
 			"seed": 550518399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98372,7 +100156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.291112344613794,
 			"seed": 1781159441,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98435,7 +100221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.2582224689249415,
 			"seed": 1665357823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98502,7 +100290,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85.81245381904955,
 			"seed": 261191839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98585,7 +100375,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 178.3995750448703,
 			"seed": 1770795391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98728,7 +100520,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70.00489653659679,
 			"seed": 762183729,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98843,7 +100637,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.032889875688852,
 			"seed": 654483665,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98906,7 +100702,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067675485,
 			"seed": 1575975231,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -98965,7 +100763,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067675485,
 			"seed": 2025152959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99028,7 +100828,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110.65290097719844,
 			"seed": 1983446321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99103,7 +100905,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.69068738948044,
 			"seed": 1445962865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99170,7 +100974,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.81735035564634,
 			"seed": 1514520017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99277,7 +101083,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200.98179973409424,
 			"seed": 2009586833,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99424,7 +101232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 81.2960088812033,
 			"seed": 1577081009,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99507,7 +101317,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.69068738948044,
 			"seed": 1691171281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99630,7 +101442,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 128.71868072857615,
 			"seed": 2095196241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99757,7 +101571,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.291112344610156,
 			"seed": 1567423167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99852,7 +101668,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 153.55912788672504,
 			"seed": 1691341745,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -99983,7 +101801,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.07067628797449,
 			"seed": 2014151697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100090,7 +101910,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.87333703383774,
 			"seed": 255382225,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100153,7 +101975,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.7746674067675485,
 			"seed": 327575359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100216,7 +102040,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.549334813535097,
 			"seed": 321376177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100275,7 +102101,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.8173503556427,
 			"seed": 1623060273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100394,7 +102222,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1715064241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100433,7 +102263,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 225.8222468922395,
 			"seed": 886984191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100492,7 +102324,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 619.817232311125,
 			"seed": 372495999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100524,7 +102358,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 198,
 			"seed": 1823658481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100603,7 +102439,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82,
 			"seed": 2012233311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367863,
 			"link": null,
@@ -100666,7 +102504,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112,
 			"seed": 1168509585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -100737,7 +102577,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2,
 			"seed": 604611487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -100800,7 +102642,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2,
 			"seed": 1410546001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -100867,7 +102711,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 184,
 			"seed": 451954353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -100962,7 +102808,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 218,
 			"seed": 763587039,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101113,7 +102961,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 228,
 			"seed": 682600337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101248,7 +103098,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4,
 			"seed": 1118253905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101307,7 +103159,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4,
 			"seed": 740197073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101378,7 +103232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 176,
 			"seed": 752943647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101513,7 +103369,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 1663516593,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101624,7 +103482,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 162.5,
 			"seed": 1442513585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101723,7 +103583,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 1014965137,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101790,7 +103652,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 392284401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101861,7 +103725,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1912387391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101924,7 +103790,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 19300273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -101983,7 +103851,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 187.5,
 			"seed": 1105502001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102066,7 +103936,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.5,
 			"seed": 939118673,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102157,7 +104029,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 182.5,
 			"seed": 1624747857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102240,7 +104114,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210,
 			"seed": 1042695281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102403,7 +104279,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205,
 			"seed": 1696025681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102550,7 +104428,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 192.5,
 			"seed": 1758150769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102669,7 +104549,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1752418065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102728,7 +104610,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1210267281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102787,7 +104671,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 95,
 			"seed": 1137251889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102886,7 +104772,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 162.5,
 			"seed": 1371752209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -102949,7 +104837,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 235,
 			"seed": 1134228177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103112,7 +105002,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210,
 			"seed": 384266385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103283,7 +105175,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 222.5,
 			"seed": 1330380369,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103402,7 +105296,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200,
 			"seed": 1344139423,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103505,7 +105401,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1986521521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103560,7 +105458,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 1060650559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103619,7 +105519,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200,
 			"seed": 1895016127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103750,7 +105652,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1601962079,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103829,7 +105733,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125,
 			"seed": 927610961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -103948,7 +105854,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1875121823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104023,7 +105931,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1811960671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104078,7 +105988,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1175315377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104145,7 +106057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1662285073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104212,7 +106126,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 262.5,
 			"seed": 1324624497,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104351,7 +106267,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 115,
 			"seed": 119955633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104442,7 +106360,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220,
 			"seed": 673570737,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104509,7 +106429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 232.5,
 			"seed": 179237137,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104632,7 +106554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1720909713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104715,7 +106639,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 182.5,
 			"seed": 1594514609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104858,7 +106784,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 122.5,
 			"seed": 1770586271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -104989,7 +106917,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 55,
 			"seed": 1705594431,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -105088,7 +107018,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 2100797279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367864,
 			"link": null,
@@ -105151,7 +107083,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1362213265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105210,7 +107144,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 1528031505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105301,7 +107237,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.5,
 			"seed": 1773996049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105380,7 +107318,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 2015203903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105459,7 +107399,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 182.5,
 			"seed": 1879546993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105614,7 +107556,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 245,
 			"seed": 59251313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105789,7 +107733,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 162998111,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105856,7 +107802,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15,
 			"seed": 47688703,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -105923,7 +107871,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 145,
 			"seed": 1139887263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106014,7 +107964,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 297.5,
 			"seed": 1232305567,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106077,7 +108029,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 235,
 			"seed": 683212625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106180,7 +108134,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 387.5,
 			"seed": 1776216927,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106303,7 +108259,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 661,
 			"seed": 1240577247,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106335,7 +108293,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 286.66666666666424,
 			"seed": 1948541695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106490,7 +108450,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 431486975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106549,7 +108511,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.66666666666788,
 			"seed": 870875263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106608,7 +108572,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 391170303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106687,7 +108653,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 166.66666666666788,
 			"seed": 1714897329,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106830,7 +108798,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200,
 			"seed": 2097261471,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -106973,7 +108943,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220,
 			"seed": 97742865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107104,7 +109076,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.33333333333212,
 			"seed": 1526800063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107215,7 +109189,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.33333333333212,
 			"seed": 1925085041,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107274,7 +109250,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666667879,
 			"seed": 115521265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107329,7 +109307,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 714366207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107400,7 +109380,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1472597969,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107467,7 +109449,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.33333333333212,
 			"seed": 1401752881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107562,7 +109546,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 1187171167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107693,7 +109679,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666424,
 			"seed": 425566463,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -107844,7 +109832,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 216.66666666666788,
 			"seed": 1854836511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108003,7 +109993,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 293.3333333333321,
 			"seed": 1541239889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108162,7 +110154,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 280,
 			"seed": 1030592319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108317,7 +110311,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.66666666666424,
 			"seed": 389527871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108396,7 +110392,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 146.66666666666788,
 			"seed": 1042064753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108455,7 +110453,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 216.66666666666788,
 			"seed": 1925658303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108594,7 +110594,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 300,
 			"seed": 525479039,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108761,7 +110763,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 88135377,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108828,7 +110832,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 946566193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -108891,7 +110897,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 173.33333333333212,
 			"seed": 1426701279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109030,7 +111038,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 46.66666666666788,
 			"seed": 1537161631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109101,7 +111111,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.33333333333212,
 			"seed": 1511682353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109184,7 +111196,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 170,
 			"seed": 1347412561,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109247,7 +111261,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180,
 			"seed": 1970393023,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109402,7 +111418,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.66666666666788,
 			"seed": 1669001663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109501,7 +111519,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.66666666666424,
 			"seed": 620581599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109592,7 +111612,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 895828959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109655,7 +111677,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 260,
 			"seed": 2117131537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109818,7 +111842,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 630755569,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109889,7 +111915,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 576941887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -109948,7 +111976,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 123.33333333333212,
 			"seed": 545150911,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -110099,7 +112129,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666424,
 			"seed": 1811965905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -110242,7 +112274,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.66666666666424,
 			"seed": 641806207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367865,
 			"link": null,
@@ -110309,7 +112343,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666424,
 			"seed": 863543327,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110480,7 +112516,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 204752479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110583,7 +112621,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.66666666666788,
 			"seed": 175228913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110658,7 +112698,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 2139184945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110721,7 +112763,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.66666666666788,
 			"seed": 1762754783,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110788,7 +112832,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.33333333333212,
 			"seed": 789190015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110855,7 +112901,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.33333333333576,
 			"seed": 1676789279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -110938,7 +112986,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 170,
 			"seed": 961720063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111005,7 +113055,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 163.33333333333212,
 			"seed": 1579839391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111120,7 +113172,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 2048217343,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111183,7 +113237,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 123.33333333333212,
 			"seed": 1227506161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111306,7 +113362,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1163395185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111381,7 +113439,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.33333333333212,
 			"seed": 1803761585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111448,7 +113508,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100,
 			"seed": 1354058001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111503,7 +113565,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 382011615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111566,7 +113630,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.33333333333212,
 			"seed": 536766481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111625,7 +113691,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 250,
 			"seed": 685070225,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111772,7 +113840,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.33333333333576,
 			"seed": 525022129,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111839,7 +113909,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 93.33333333333212,
 			"seed": 1006617873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -111906,7 +113978,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.33333333333212,
 			"seed": 449673841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112053,7 +114127,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.33333333333212,
 			"seed": 570192529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112120,7 +114196,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.33333333333212,
 			"seed": 967686129,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112271,7 +114349,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 801580415,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112374,7 +114454,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.66666666666788,
 			"seed": 536063697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112485,7 +114567,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1427738623,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112568,7 +114652,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 282744031,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112631,7 +114717,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1163516945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112682,7 +114770,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 954542513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112757,7 +114847,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 90,
 			"seed": 1106276593,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112820,7 +114912,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 1153321759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112875,7 +114969,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 665563121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -112934,7 +115030,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.33333333333576,
 			"seed": 690990961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113065,7 +115163,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666667879,
 			"seed": 1642699199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113124,7 +115224,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 677069375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113179,7 +115281,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 173.33333333333576,
 			"seed": 2047518417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113338,7 +115442,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 270,
 			"seed": 1859625649,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113493,7 +115599,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 829.3333333333374,
 			"seed": 2120458417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113525,7 +115633,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 193.33333333333212,
 			"seed": 772750385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113656,7 +115766,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.33333333333576,
 			"seed": 1209736337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113719,7 +115831,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 113.33333333333212,
 			"seed": 306936191,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113778,7 +115892,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 525659359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113837,7 +115953,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1785988447,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113896,7 +116014,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 184737247,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -113995,7 +116115,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 170,
 			"seed": 217094911,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -114142,7 +116264,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.33333333333576,
 			"seed": 663138527,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -114305,7 +116429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200,
 			"seed": 893509375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367866,
 			"link": null,
@@ -114428,7 +116554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 668481663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114495,7 +116623,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 1217005855,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114554,7 +116684,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 1998127519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114609,7 +116741,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 692130161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114676,7 +116810,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150,
 			"seed": 332597969,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114763,7 +116899,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 190,
 			"seed": 2025687153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -114910,7 +117048,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.33333333333576,
 			"seed": 1006256273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115061,7 +117201,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 206.66666666666788,
 			"seed": 1430053599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115196,7 +117338,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.33333333333212,
 			"seed": 721453809,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115367,7 +117511,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666424,
 			"seed": 920336561,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115498,7 +117644,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.66666666666788,
 			"seed": 688179473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115609,7 +117757,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.66666666666788,
 			"seed": 393808319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115672,7 +117822,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 270,
 			"seed": 481809713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115839,7 +117991,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 673.3333333333285,
 			"seed": 325671185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -115914,7 +118068,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 253.33333333333212,
 			"seed": 1294047313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116057,7 +118213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 29501183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116124,7 +118282,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666664241,
 			"seed": 435087263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116179,7 +118339,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.66666666666788,
 			"seed": 954125169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116302,7 +118464,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.33333333333212,
 			"seed": 540690929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116353,7 +118517,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 153.33333333333212,
 			"seed": 1050796945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116476,7 +118642,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.33333333333212,
 			"seed": 327037457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116547,7 +118715,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.99999999999636,
 			"seed": 1613718559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116642,7 +118812,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100,
 			"seed": 1412206673,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116705,7 +118877,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.33333333333576,
 			"seed": 206963135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116860,7 +119034,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 314254271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116923,7 +119099,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333284827,
 			"seed": 273242929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -116990,7 +119168,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.33333333333576,
 			"seed": 867515537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117089,7 +119269,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 710099313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117228,7 +119410,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16.66666666666788,
 			"seed": 193017777,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117323,7 +119507,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 166.66666666666788,
 			"seed": 2074544351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117466,7 +119652,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666788,
 			"seed": 1339733713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117609,7 +119797,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.66666666666788,
 			"seed": 708415615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117712,7 +119902,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666667879,
 			"seed": 658232273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117787,7 +119979,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333321207,
 			"seed": 1124664081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117842,7 +120036,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 977514207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -117961,7 +120157,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666667879,
 			"seed": 1092394527,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118028,7 +120226,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.33333333333212,
 			"seed": 1379592895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118151,7 +120351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 193.33333333333212,
 			"seed": 5612607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118314,7 +120516,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 804.9999999999991,
 			"seed": 988849759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118346,7 +120550,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 216.66666666666424,
 			"seed": 170297375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118473,7 +120679,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.66666666666424,
 			"seed": 968915921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118596,7 +120804,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 206.66666666666424,
 			"seed": 222456401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118739,7 +120949,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.66666666666424,
 			"seed": 1632564479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118846,7 +121058,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.33333333333576,
 			"seed": 1064473151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118901,7 +121115,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 1047418577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367867,
 			"link": null,
@@ -118964,7 +121180,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 18686783,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119023,7 +121241,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.66666666666424,
 			"seed": 180227007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119114,7 +121334,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666664241,
 			"seed": 372710591,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119169,7 +121391,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666671517,
 			"seed": 876127313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119228,7 +121452,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 206.66666666667152,
 			"seed": 1507113183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119323,7 +121549,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.5,
 			"seed": 1871226769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119410,7 +121638,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 157.5,
 			"seed": 1079483103,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119493,7 +121723,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 658201535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119636,7 +121868,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 182.5,
 			"seed": 1602849265,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119787,7 +122021,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 177.5,
 			"seed": 1218392959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -119922,7 +122158,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 167.5,
 			"seed": 406048849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120033,7 +122271,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 157.5,
 			"seed": 2118919807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120176,7 +122416,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 128490289,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120315,7 +122557,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155,
 			"seed": 235045233,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120442,7 +122686,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.5,
 			"seed": 940045215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120537,7 +122783,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65,
 			"seed": 1282816209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120664,7 +122912,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 192.5,
 			"seed": 1066988095,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120827,7 +123077,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 1153315935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120930,7 +123182,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 681933297,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -120989,7 +123243,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205,
 			"seed": 1106540913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121160,7 +123416,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 2120650545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121223,7 +123481,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 552554719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121282,7 +123542,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 135,
 			"seed": 1773955423,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121397,7 +123659,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 76473023,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121460,7 +123724,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 135,
 			"seed": 747063505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121551,7 +123817,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.5,
 			"seed": 1308927953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121598,7 +123866,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30,
 			"seed": 330634751,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121705,7 +123975,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 752055103,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121772,7 +124044,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70,
 			"seed": 1533578207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121827,7 +124101,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 185,
 			"seed": 463708977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121878,7 +124154,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 172.5,
 			"seed": 1864549585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -121993,7 +124271,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 1351584113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122052,7 +124332,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1385875697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122103,7 +124385,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 105,
 			"seed": 306102929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122162,7 +124446,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.5,
 			"seed": 1557426705,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122253,7 +124539,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 90,
 			"seed": 1681082271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122380,7 +124668,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 174109777,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122455,7 +124745,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 1378583441,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122590,7 +124882,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 55,
 			"seed": 210373535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122661,7 +124955,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 296550193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122724,7 +125020,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.5,
 			"seed": 113238239,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367868,
 			"link": null,
@@ -122799,7 +125097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 105,
 			"seed": 997524063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -122886,7 +125186,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 928965681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -122937,7 +125239,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 708421073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123000,7 +125304,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 362398783,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123071,7 +125377,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.5,
 			"seed": 917904785,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123158,7 +125466,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15,
 			"seed": 1130050847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123233,7 +125543,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 743346655,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123292,7 +125604,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 100,
 			"seed": 1056123487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123371,7 +125685,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 1435378399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123518,7 +125834,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.5,
 			"seed": 1002173631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123653,7 +125971,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 726158097,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123728,7 +126048,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1638074961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123791,7 +126113,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1675175871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123842,7 +126166,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 102.5,
 			"seed": 1109846353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -123937,7 +126263,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 1159749951,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124012,7 +126340,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 152.5,
 			"seed": 1351362047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124119,7 +126449,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 2065072959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124242,7 +126574,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 824212671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124305,7 +126639,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 30,
 			"seed": 648974897,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124360,7 +126696,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 1372809215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124435,7 +126773,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 947592383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124486,7 +126826,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1143652639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124549,7 +126891,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.5,
 			"seed": 208368593,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124612,7 +126956,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70,
 			"seed": 68867647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124695,7 +127041,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 95,
 			"seed": 2117689937,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124810,7 +127158,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 464754417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124877,7 +127227,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 42082385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124948,7 +127300,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 75,
 			"seed": 1966268895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -124995,7 +127349,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 1645215569,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125102,7 +127458,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 182.5,
 			"seed": 553008657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125265,7 +127623,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 50,
 			"seed": 1072157169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125372,7 +127732,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15,
 			"seed": 1768245425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125423,7 +127785,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 65,
 			"seed": 1039424081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125534,7 +127898,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 40,
 			"seed": 1726856319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125613,7 +127979,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.5,
 			"seed": 1770513969,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125764,7 +128132,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.5,
 			"seed": 948056895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125891,7 +128261,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 37.5,
 			"seed": 716260017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -125978,7 +128350,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15,
 			"seed": 1795964351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126041,7 +128415,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1253826865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126100,7 +128476,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.5,
 			"seed": 50151601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126163,7 +128541,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.5,
 			"seed": 2136849745,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126270,7 +128650,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25,
 			"seed": 1338932241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126341,7 +128723,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 35,
 			"seed": 1875573279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126420,7 +128804,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 52.5,
 			"seed": 1528433297,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367869,
 			"link": null,
@@ -126483,7 +128869,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 1165060991,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126598,7 +128986,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80,
 			"seed": 493713631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126665,7 +129055,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 1391136127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126728,7 +129120,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 599444849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126791,7 +129185,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.5,
 			"seed": 1472476831,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126862,7 +129258,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 107.5,
 			"seed": 1776018481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -126957,7 +129355,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 810017887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127020,7 +129420,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.5,
 			"seed": 1792459921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127099,7 +129501,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112.5,
 			"seed": 43859391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127174,7 +129578,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205,
 			"seed": 1859756671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127317,7 +129723,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.5,
 			"seed": 2067390257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127384,7 +129792,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.5,
 			"seed": 601047185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127443,7 +129853,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 17.5,
 			"seed": 423227409,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127510,7 +129922,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 2001519985,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127641,7 +130055,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.5,
 			"seed": 850763217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127764,7 +130180,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 701795409,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127815,7 +130233,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 239256049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -127878,7 +130298,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 195,
 			"seed": 824052255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128001,7 +130423,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.5,
 			"seed": 1603318687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128056,7 +130480,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80,
 			"seed": 1522810737,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128159,7 +130585,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25,
 			"seed": 85906993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128222,7 +130650,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110,
 			"seed": 1852209631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128345,7 +130775,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 62.5,
 			"seed": 887587679,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128436,7 +130868,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 196539487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128507,7 +130941,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 203815537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128582,7 +131018,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 32.5,
 			"seed": 1108193713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128633,7 +131071,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.5,
 			"seed": 405365585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128732,15 +131172,17 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2212.3750026942116,
+			"x": -2212.375002694212,
 			"y": 36428.6273543707,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 4368.666666666646,
-			"height": 606.7592592592565,
+			"width": 4368.666666666647,
+			"height": 606.7592592592564,
 			"seed": 23241233,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128772,7 +131214,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333284827,
 			"seed": 1500375423,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128815,7 +131259,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 187.5,
 			"seed": 223044479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -128914,7 +131360,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.5,
 			"seed": 3394719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129005,7 +131453,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 238516913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129068,7 +131518,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 405445983,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129111,7 +131563,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1313237201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129170,7 +131624,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.5,
 			"seed": 28768337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129241,7 +131697,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 162.5,
 			"seed": 1047431647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129360,7 +131818,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 195,
 			"seed": 1321911345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129435,7 +131895,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 780151665,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129498,7 +131960,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.5,
 			"seed": 1413134495,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129565,7 +132029,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 985167167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129628,7 +132094,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.5,
 			"seed": 736928177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129679,7 +132147,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112.5,
 			"seed": 1898861393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367870,
 			"link": null,
@@ -129766,7 +132236,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 55,
 			"seed": 69227295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -129821,7 +132293,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 85,
 			"seed": 1036068849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -129880,7 +132354,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 147.5,
 			"seed": 751380337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130047,7 +132523,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.5,
 			"seed": 1129037105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130134,7 +132612,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 112.5,
 			"seed": 1511447359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130205,7 +132685,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.5,
 			"seed": 1674554324,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130264,7 +132746,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 592726508,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130391,7 +132875,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.5,
 			"seed": 300121300,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130470,7 +132956,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 145,
 			"seed": 1849600364,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130549,7 +133037,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 187.5,
 			"seed": 91302380,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130628,7 +133118,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 628263892,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130675,7 +133167,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.5,
 			"seed": 908648556,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130730,7 +133224,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150,
 			"seed": 1804155159,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130809,7 +133305,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 26.66666666666424,
 			"seed": 1126977817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130860,7 +133358,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.66666666667152,
 			"seed": 1972657081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130923,7 +133423,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.66666666667152,
 			"seed": 663532759,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -130982,7 +133484,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 1676415319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131029,7 +133533,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 297419097,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131080,7 +133586,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 248329209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131135,7 +133643,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210,
 			"seed": 456042359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131226,7 +133736,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333284827,
 			"seed": 872841335,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131277,7 +133789,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666671517,
 			"seed": 1912020951,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131324,7 +133838,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 196.66666666666424,
 			"seed": 917830361,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131403,7 +133919,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 176.66666666666424,
 			"seed": 835544567,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131458,7 +133976,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156,
 			"seed": 279965593,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131541,7 +134061,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 1159669177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131592,7 +134114,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2,
 			"seed": 165934169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131639,7 +134163,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180,
 			"seed": 528950361,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131730,7 +134256,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 175,
 			"seed": 776633177,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131861,7 +134389,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80,
 			"seed": 643513017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -131944,7 +134474,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 164.77913899032137,
 			"seed": 316073241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132003,7 +134535,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.29009371535358,
 			"seed": 1638076569,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132114,7 +134648,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.9863479560663109,
 			"seed": 1765124633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132165,7 +134701,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.9863479560663109,
 			"seed": 1670403257,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132212,7 +134750,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.0853130563264,
 			"seed": 934708631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132315,7 +134855,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.4266141547123,
 			"seed": 963192633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132402,7 +134944,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.18087736386951,
 			"seed": 1333259447,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132505,7 +135049,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.9863479560663109,
 			"seed": 1506936345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132548,7 +135094,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1.9863479560663109,
 			"seed": 324539353,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132599,7 +135147,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.13992123206845,
 			"seed": 1098869143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132706,7 +135256,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.13992123206845,
 			"seed": 1861068823,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132833,7 +135385,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 73.49487437438802,
 			"seed": 107047769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -132912,7 +135466,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200.77510672925564,
 			"seed": 2081856887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133015,7 +135571,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.914820085396059,
 			"seed": 418584921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133062,7 +135620,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.436115064047044,
 			"seed": 1832518391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133105,7 +135665,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 118.97784102474543,
 			"seed": 2079387959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133204,7 +135766,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.9250355764234,
 			"seed": 2118298455,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133291,7 +135855,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.393525106745074,
 			"seed": 702812089,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133350,7 +135916,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.7648912382283,
 			"seed": 133557049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133445,7 +136013,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.09539540563128,
 			"seed": 1166097975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133528,7 +136098,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 76.83985566181218,
 			"seed": 1821815319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367871,
 			"link": null,
@@ -133599,7 +136171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 123.93525106744346,
 			"seed": 1350760249,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -133658,7 +136232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.4139560887852,
 			"seed": 661885047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -133769,7 +136345,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.914820085396059,
 			"seed": 1176503097,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -133828,7 +136406,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.957410042698029,
 			"seed": 853286585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -133875,7 +136455,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.54172596069111,
 			"seed": 1852234647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -133974,7 +136556,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.7648912382283,
 			"seed": 1929374135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134081,7 +136665,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 64.4463305550671,
 			"seed": 1743487223,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134156,7 +136742,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.744460256188177,
 			"seed": 278535095,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134203,7 +136791,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 57.01021549102006,
 			"seed": 753542393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134262,7 +136852,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 114.0204309820474,
 			"seed": 1973903481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134309,7 +136901,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 128.8926611101415,
 			"seed": 1495,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134412,7 +137006,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 47.095395405624004,
 			"seed": 168071929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134487,7 +137083,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.436115064047044,
 			"seed": 546456633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134530,7 +137128,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.436115064047044,
 			"seed": 1735870969,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134577,7 +137177,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200.77510672925564,
 			"seed": 1207161943,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134684,7 +137286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220.60474690004048,
 			"seed": 129541015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134803,7 +137407,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 896.7207366169171,
 			"seed": 1332047609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134835,7 +137441,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 225.122676045954,
 			"seed": 802717079,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -134994,7 +137602,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.38591989080305,
 			"seed": 1970977113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135097,7 +137707,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.725139377398591,
 			"seed": 722906839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135152,7 +137764,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 196.9823415402061,
 			"seed": 298236089,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135279,7 +137893,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.18122652106103,
 			"seed": 1878171863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135410,7 +138026,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 1614091127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135473,7 +138091,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.3450278754826286,
 			"seed": 384515833,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135536,7 +138156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 89.11105926818709,
 			"seed": 1461339543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135631,7 +138253,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.035083626433334,
 			"seed": 1596535129,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135686,7 +138310,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.070167252873944,
 			"seed": 1681716247,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135749,7 +138375,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 117.25139377393498,
 			"seed": 1364166745,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135832,7 +138460,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.59642164941033,
 			"seed": 849745529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -135967,7 +138597,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 225.122676045954,
 			"seed": 1422369847,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136118,7 +138750,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 131.32156102680165,
 			"seed": 1473605593,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136193,7 +138827,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 152.4268119061162,
 			"seed": 537917721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136264,7 +138900,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.9472579137655,
 			"seed": 716703383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136415,7 +139053,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.035083626433334,
 			"seed": 626366329,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136482,7 +139122,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.7016725287176,
 			"seed": 1227541465,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136557,7 +139199,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 185.2572021628148,
 			"seed": 11556121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136636,7 +139280,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150.08178403064085,
 			"seed": 428965815,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136767,7 +139413,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 44.555529634097184,
 			"seed": 569116887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136850,7 +139498,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.380111501915962,
 			"seed": 1101902007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -136917,7 +139567,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 154.77183978159155,
 			"seed": 668294743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137068,7 +139720,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.62569688696385,
 			"seed": 566600633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137199,7 +139853,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 797.3094776627477,
 			"seed": 1844889369,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137282,7 +139938,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.94725791377277,
 			"seed": 644574521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137449,7 +140107,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 1540464119,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137516,7 +140176,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 329057175,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137587,7 +140249,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 157.1168676570669,
 			"seed": 1117810105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137730,7 +140394,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.2806690114885,
 			"seed": 644903447,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137845,7 +140511,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.3450278754826286,
 			"seed": 738250359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137904,7 +140572,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.8654738831392,
 			"seed": 1094081271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -137991,7 +140661,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 107.87128227201902,
 			"seed": 1241781785,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -138078,7 +140750,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.7016725287176,
 			"seed": 61480919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367872,
 			"link": null,
@@ -138161,7 +140835,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 39.8654738831392,
 			"seed": 561751991,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138256,7 +140932,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.3450278754826286,
 			"seed": 2080082489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138327,7 +141005,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 1298860919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138398,7 +141078,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.0116167777669,
 			"seed": 667647961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138537,7 +141219,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.2806690114885,
 			"seed": 440180761,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138668,7 +141352,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.725139377391315,
 			"seed": 857057145,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138755,7 +141441,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 124.28647740036831,
 			"seed": 1439975543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -138850,7 +141538,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 114.90636589845963,
 			"seed": 1201345913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139005,7 +141695,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.380111501908686,
 			"seed": 1820623737,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139080,7 +141772,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 84.42100351723639,
 			"seed": 1401148601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139167,7 +141861,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.49117077011033,
 			"seed": 644982583,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139262,7 +141958,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.24558538504789,
 			"seed": 1332134585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139365,7 +142063,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 68.00580838887981,
 			"seed": 121897625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139452,7 +142152,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.97072476244648,
 			"seed": 1531390807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139519,7 +142221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60.97072476244648,
 			"seed": 286143735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139578,7 +142282,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.38591989079578,
 			"seed": 52199799,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139673,7 +142379,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 166.49697915898287,
 			"seed": 1514663033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139812,7 +142520,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.62569688696385,
 			"seed": 1320187065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139899,7 +142609,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.450278754789906,
 			"seed": 2107519927,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -139978,7 +142690,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110.21631014750164,
 			"seed": 140691577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140117,7 +142831,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70.35083626435517,
 			"seed": 828002489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140248,7 +142964,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 518149145,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140307,7 +143025,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.3450278754826286,
 			"seed": 16711577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140366,7 +143086,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.18122652106103,
 			"seed": 2141842201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140433,7 +143155,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 164.15195128350751,
 			"seed": 104258425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140508,7 +143232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 201.6723972911641,
 			"seed": 160705721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140591,7 +143317,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.6958641398378,
 			"seed": 1170302681,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140662,7 +143390,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 25.79530663026526,
 			"seed": 185887959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140737,7 +143467,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 136.01161677775963,
 			"seed": 2111348631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140824,7 +143556,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.70167252872488,
 			"seed": 165001081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -140979,7 +143713,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2.3450278754753526,
 			"seed": 339420537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141042,7 +143778,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 96.1461428946277,
 			"seed": 257246999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141109,7 +143847,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.66658890228427,
 			"seed": 1175648439,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141180,7 +143920,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 138.35664465324226,
 			"seed": 1609027225,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141267,7 +144009,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 42.210501758614555,
 			"seed": 2024841047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141354,7 +144098,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.690055750957981,
 			"seed": 1324157401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141421,7 +144167,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 584.4665248719543,
 			"seed": 1635139705,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141453,7 +144201,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 254.26260278759582,
 			"seed": 151532407,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141604,7 +144354,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.02895529160014,
 			"seed": 488148121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141675,7 +144427,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 107.21916985019197,
 			"seed": 168139543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141734,7 +144488,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 229.75536396469397,
 			"seed": 1285543831,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141885,7 +144641,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.59959896736837,
 			"seed": 951924345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -141996,7 +144754,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.317024264310021,
 			"seed": 492931287,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142059,7 +144819,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.44383397004276,
 			"seed": 680918937,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142122,7 +144884,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.063404852859094,
 			"seed": 627683063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142177,7 +144941,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 162.36045720172115,
 			"seed": 1210652441,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142272,7 +145038,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.38042911717639,
 			"seed": 852401143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142339,7 +145107,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.126809705725464,
 			"seed": 918241687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142422,7 +145192,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 196.05791058320756,
 			"seed": 590889335,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142549,7 +145321,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205.24812514179212,
 			"seed": 306554873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142692,7 +145466,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.9311008774821,
 			"seed": 198896599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -142839,7 +145615,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220.5651494061094,
 			"seed": 107056311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143006,7 +145784,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 242.00898337615217,
 			"seed": 1565588793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143161,7 +145941,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.23364749599568,
 			"seed": 1072134679,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143292,7 +146074,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 196.05791058320756,
 			"seed": 782558391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143467,7 +146251,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 192.9945057303412,
 			"seed": 596843001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143594,7 +146380,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 431608727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367873,
 			"link": null,
@@ -143653,7 +146441,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.063404852859094,
 			"seed": 775147543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -143708,7 +146498,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.98002808454476,
 			"seed": 1092043641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -143787,7 +146579,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 153.1702426431293,
 			"seed": 1038413655,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -143886,7 +146680,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 232.81876881756034,
 			"seed": 148751735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144061,7 +146857,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.0634048528663698,
 			"seed": 850220345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144116,7 +146914,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 12.253619411450927,
 			"seed": 1988899383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144187,7 +146987,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 98.02895529160014,
 			"seed": 383114521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144290,7 +147092,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 183.80429117175663,
 			"seed": 62086935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144361,7 +147165,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 980.2895529160378,
 			"seed": 1523431993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144444,7 +147250,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 183.80429117175663,
 			"seed": 1950761881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144523,7 +147331,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.4727892616429,
 			"seed": 1625200951,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144642,7 +147452,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 2090753719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144705,7 +147517,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.126809705725464,
 			"seed": 1230301113,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144760,7 +147574,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 91.90214558588195,
 			"seed": 752547767,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -144891,7 +147707,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.23364749599568,
 			"seed": 768228951,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145022,7 +147840,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.443833970035485,
 			"seed": 1844756727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145121,7 +147941,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.71193102729012,
 			"seed": 395494167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145208,7 +148030,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 171.5506717603057,
 			"seed": 450206713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145283,7 +148107,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 192.99450573034846,
 			"seed": 491294009,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145462,7 +148288,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45.951072792944615,
 			"seed": 1750940121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145565,7 +148393,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 119.4727892616429,
 			"seed": 424939511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145668,7 +148498,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 300146393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145723,7 +148555,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.126809705725464,
 			"seed": 19394199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145786,7 +148620,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 88.83874073301558,
 			"seed": 1147450841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -145877,7 +148713,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150.10683779027022,
 			"seed": 1465814233,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146008,7 +148846,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 156.2336474959884,
 			"seed": 1557847097,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146103,7 +148943,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.126809705725464,
 			"seed": 1355569367,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146170,7 +149012,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 21.44383397004276,
 			"seed": 2049372791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146237,7 +149081,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110.28257470305107,
 			"seed": 999131159,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146372,7 +149218,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.507238822901854,
 			"seed": 1921431609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146443,7 +149291,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 165.42386205458024,
 			"seed": 914521463,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146594,7 +149444,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 49.01447764580371,
 			"seed": 411476633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146669,7 +149521,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 110.28257470305107,
 			"seed": 1785469913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146736,7 +149590,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 64.33150191011373,
 			"seed": 1975686201,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146827,7 +149683,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 91.90214558588195,
 			"seed": 1613761337,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146926,7 +149784,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.85321837881202,
 			"seed": 1522258713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -146997,7 +149857,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 18.38042911717639,
 			"seed": 1607666839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147060,7 +149922,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.126809705725464,
 			"seed": 1511094233,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147119,7 +149983,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 147.04343293740385,
 			"seed": 1688093529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147242,7 +150108,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.69745338149369,
 			"seed": 1153050073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147329,7 +150197,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 159.29705234885478,
 			"seed": 1017994007,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147480,7 +150350,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 64.331501910121,
 			"seed": 802634489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147571,7 +150443,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.063404852859094,
 			"seed": 304214521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147634,7 +150508,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.190214558584557,
 			"seed": 179683991,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147697,7 +150573,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 165.42386205458024,
 			"seed": 1010311641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -147888,7 +150766,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 726.026950128442,
 			"seed": 374284983,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148087,7 +150967,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1231.8394377191325,
 			"seed": 503886489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148119,7 +151001,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 253.33333333332848,
 			"seed": 816767863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148250,7 +151134,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 1884492311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148353,7 +151239,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.333333333335759,
 			"seed": 1460318905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148420,7 +151308,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 1174855449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148491,7 +151381,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220,
 			"seed": 465453207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148574,7 +151466,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 286.6666666666715,
 			"seed": 945823863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148701,7 +151595,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.33333333332848,
 			"seed": 1050523897,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148832,7 +151728,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666671517,
 			"seed": 558388313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148899,7 +151797,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 292256953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -148958,7 +151858,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 193.33333333333576,
 			"seed": 1038014521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -149053,7 +151955,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.66666666666424,
 			"seed": 1980898519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367874,
 			"link": null,
@@ -149216,7 +152120,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 113.33333333332848,
 			"seed": 1777867767,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149315,7 +152221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 143.33333333333576,
 			"seed": 76004887,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149426,7 +152334,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.66666666666424,
 			"seed": 1005127577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149537,7 +152447,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 280,
 			"seed": 694763959,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149696,7 +152608,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.33333333333576,
 			"seed": 714606393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149827,7 +152741,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.33333333332848,
 			"seed": 1599044249,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -149926,7 +152842,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.33333333333576,
 			"seed": 1001715321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150045,7 +152963,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1140,
 			"seed": 1320454073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150140,7 +153060,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 270,
 			"seed": 1281402199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150283,7 +153205,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150,
 			"seed": 905629657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150358,7 +153282,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 984439065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150429,7 +153355,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 633120407,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150484,7 +153412,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 216.66666666667152,
 			"seed": 884286231,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150555,7 +153485,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333284827,
 			"seed": 393000505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150622,7 +153554,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.33333333333576,
 			"seed": 657896089,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150717,7 +153651,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.66666666666424,
 			"seed": 311818359,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150804,7 +153740,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1655824537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -150883,7 +153821,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 290,
 			"seed": 2061831223,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151022,7 +153962,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.33333333333576,
 			"seed": 1592954871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151149,7 +154091,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666671517,
 			"seed": 464732537,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151212,7 +154156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 1560996631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151275,7 +154221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 210,
 			"seed": 1157366105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151342,7 +154290,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 26.66666666666424,
 			"seed": 775096761,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151413,7 +154363,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 93.33333333333576,
 			"seed": 1696199671,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151512,7 +154464,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 50,
 			"seed": 928421399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151631,7 +154585,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.33333333333576,
 			"seed": 1167742073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151730,7 +154686,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1266.6666666666642,
 			"seed": 1483060313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151809,7 +154767,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 256.66666666666424,
 			"seed": 1385571447,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -151940,7 +154900,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 113.33333333333576,
 			"seed": 589345559,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152031,7 +154993,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.66666666667152,
 			"seed": 108719127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152094,7 +155058,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 276.66666666666424,
 			"seed": 84480089,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152233,7 +155199,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 1855672473,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152336,7 +155304,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333357587,
 			"seed": 521130903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152399,7 +155369,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 6.666666666664241,
 			"seed": 701243609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152466,7 +155438,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 230,
 			"seed": 528447801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152529,7 +155503,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.33333333333576,
 			"seed": 347795287,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152596,7 +155572,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 363297015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152675,7 +155653,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 491349817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152770,7 +155750,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.33333333333576,
 			"seed": 1659567575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152865,7 +155847,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 80,
 			"seed": 2133476889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152928,7 +155912,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140,
 			"seed": 998658167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -152995,7 +155981,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130,
 			"seed": 529671703,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153086,7 +156074,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 60,
 			"seed": 873029399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153209,7 +156199,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 66.66666666666424,
 			"seed": 1647006871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153312,7 +156304,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.3333333333284827,
 			"seed": 1631561785,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153371,7 +156365,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 13.333333333335759,
 			"seed": 1384203193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153434,7 +156430,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.33333333333576,
 			"seed": 381045975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153505,7 +156503,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 56.66666666666424,
 			"seed": 1101045881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153596,7 +156596,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.33333333333576,
 			"seed": 1611519865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153719,7 +156721,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.66666666666424,
 			"seed": 1381009913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153798,7 +156802,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 83.33333333332848,
 			"seed": 1699885271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153881,7 +156887,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 103.33333333333576,
 			"seed": 621861047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -153956,7 +156964,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 93.33333333333576,
 			"seed": 222995319,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154051,7 +157061,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 659.973147597338,
 			"seed": 1067903609,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154083,7 +157095,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 274.72371632605063,
 			"seed": 575970743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154186,7 +157200,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.62312259471946,
 			"seed": 2033321241,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154249,7 +157265,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.698498075777024,
 			"seed": 138248567,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154308,7 +157326,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.924624518942437,
 			"seed": 1006734839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367875,
 			"link": null,
@@ -154363,7 +157383,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 200.1558504661225,
 			"seed": 1861809335,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154466,7 +157488,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 251.17596921238874,
 			"seed": 295599641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154533,7 +157557,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 274.72371632605063,
 			"seed": 1307545209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154652,7 +157678,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.773873556834587,
 			"seed": 1720745463,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154719,7 +157747,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.84924903789215,
 			"seed": 722461591,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154782,7 +157812,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 27.472371632604336,
 			"seed": 94179545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154841,7 +157873,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 211.9297240229498,
 			"seed": 1339725015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -154912,7 +157946,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15.698498075777024,
 			"seed": 471980153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155007,7 +158043,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 208.00509950401465,
 			"seed": 1551794327,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155150,7 +158188,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.86936778415111,
 			"seed": 447019161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155241,7 +158281,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 180.53272787140304,
 			"seed": 1260392345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155312,7 +158354,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.5477471136619,
 			"seed": 1039116311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155403,7 +158447,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 172.68347883351817,
 			"seed": 1531240727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155558,7 +158604,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.90960527668358,
 			"seed": 72635159,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155737,7 +158785,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.020118746266235,
 			"seed": 904079479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155836,7 +158886,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.924624518942437,
 			"seed": 364427927,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155895,7 +158947,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.924624518942437,
 			"seed": 1275541271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -155962,7 +159016,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.90960527668358,
 			"seed": 630122679,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156041,7 +159097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.849249037884874,
 			"seed": 368288633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156108,7 +159166,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 215.85434854189953,
 			"seed": 1501648857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156251,7 +159311,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.396996151546773,
 			"seed": 228422135,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156310,7 +159372,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.84924903789215,
 			"seed": 1671773815,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156373,7 +159437,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.396996151546773,
 			"seed": 531323607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156444,7 +159510,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 2597.580524757831,
 			"seed": 781565047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156476,7 +159544,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 395019287,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156517,7 +159587,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 172.68347883351817,
 			"seed": 376373753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156680,7 +159752,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 3.924624518942437,
 			"seed": 1276184793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156721,7 +159795,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.773873556827311,
 			"seed": 1863412215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156762,7 +159838,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.58798460619437,
 			"seed": 2000581879,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -156925,7 +160003,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125.58798460619437,
 			"seed": 319013081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157076,7 +160156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.5477471136619,
 			"seed": 1677304343,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157175,7 +160257,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70.6432413409857,
 			"seed": 825712695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157242,7 +160326,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.773873556827311,
 			"seed": 1843486167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157297,7 +160383,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.020118746266235,
 			"seed": 581835193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157356,7 +160444,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 243.32672017450386,
 			"seed": 241890617,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157507,7 +160597,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.849249037884874,
 			"seed": 1787221943,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157574,7 +160666,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 133.43723364407924,
 			"seed": 1091970391,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157721,7 +160815,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.62312259471946,
 			"seed": 1512240695,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -157792,7 +160888,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 137.36185816302168,
 			"seed": 1540348185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -158003,7 +161101,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.84924903789215,
 			"seed": 1074441529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -158058,7 +161158,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.623122594712186,
 			"seed": 400644663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367876,
 			"link": null,
@@ -158117,7 +161219,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 219.77897306084196,
 			"seed": 1569916599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158296,7 +161400,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 196.23122594718006,
 			"seed": 1065598999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158383,7 +161489,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 149.13573171985627,
 			"seed": 176836345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158466,7 +161574,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.849249037884874,
 			"seed": 1772130585,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158529,7 +161639,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.2864826819714,
 			"seed": 823375223,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158612,7 +161724,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 7.849249037884874,
 			"seed": 1261687127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158687,7 +161801,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70.6432413409857,
 			"seed": 893559831,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158754,7 +161870,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 23.5477471136619,
 			"seed": 1527133623,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158813,7 +161931,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.869367784158385,
 			"seed": 531505719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158876,7 +161996,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 329.6684595912593,
 			"seed": 1085725753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -158979,7 +162101,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.39699615155405,
 			"seed": 1627203063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159042,7 +162166,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 145544313,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159105,7 +162231,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 211.9297240229498,
 			"seed": 577865751,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159260,7 +162388,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 302.19608795865497,
 			"seed": 164821527,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159327,7 +162457,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.88948653041734,
 			"seed": 1828970551,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159410,7 +162542,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 54.94474326520867,
 			"seed": 29594647,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159481,7 +162615,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 51.020118746266235,
 			"seed": 375813433,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159536,7 +162672,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 11.773873556834587,
 			"seed": 1218515511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159591,7 +162729,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 86.34173941675544,
 			"seed": 2081570649,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159650,7 +162790,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 31.39699615155405,
 			"seed": 843008729,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159729,7 +162871,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 74.56786585992813,
 			"seed": 822875639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159816,7 +162960,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.623122594712186,
 			"seed": 1268853529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159883,7 +163029,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 102.04023749253247,
 			"seed": 799415161,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -159950,7 +163098,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.29158218597877,
 			"seed": 1017696217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160037,7 +163187,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 105.96486201148218,
 			"seed": 1320413719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160120,7 +163272,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 113.81411104936706,
 			"seed": 26966519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160239,7 +163393,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 109.88948653041734,
 			"seed": 811905689,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160330,7 +163486,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 219.77897306084196,
 			"seed": 973457817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160461,7 +163619,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 141.2864826819714,
 			"seed": 444817657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160636,7 +163796,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 791,
 			"seed": 510011993,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160668,7 +163830,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 803219481,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160707,7 +163871,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 310,
 			"seed": 1527993975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160858,7 +164024,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 20,
 			"seed": 207141273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160929,7 +164097,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 10,
 			"seed": 760536599,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -160988,7 +164158,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 15,
 			"seed": 1756732055,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161055,7 +164227,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 325,
 			"seed": 722401143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161250,7 +164424,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 115,
 			"seed": 2018107159,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161405,7 +164581,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 2023575831,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161460,7 +164638,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 1296609913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161519,7 +164699,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 305,
 			"seed": 965946873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161586,7 +164768,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 205,
 			"seed": 597316185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161701,7 +164885,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 125,
 			"seed": 519805945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367877,
 			"link": null,
@@ -161760,7 +164946,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160,
 			"seed": 1673877369,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -161823,7 +165011,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 235,
 			"seed": 1457009943,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -161934,7 +165124,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150,
 			"seed": 959201433,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162021,7 +165213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 2011125657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162076,7 +165270,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 5,
 			"seed": 933118745,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162131,7 +165327,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 120,
 			"seed": 31458903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162238,7 +165436,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 165,
 			"seed": 1835947415,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162329,7 +165529,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155,
 			"seed": 1283525209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162420,7 +165622,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 465,
 			"seed": 2019533015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162655,7 +165859,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 220,
 			"seed": 456511193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162786,7 +165992,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 823.0515479875613,
 			"seed": 978150393,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162818,7 +166026,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 422.0417969590926,
 			"seed": 1233768953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -162969,7 +166179,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.42532329905953,
 			"seed": 953388791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163024,7 +166236,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1609709209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163083,7 +166297,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 2076811801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163138,7 +166354,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008605314,
 			"seed": 376158039,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163201,7 +166419,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 310.46752879748965,
 			"seed": 635648281,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163352,7 +166572,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 227.9995914606552,
 			"seed": 1432434711,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163519,7 +166741,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.0633082476488,
 			"seed": 959816633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163662,7 +166886,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 325.02069420986663,
 			"seed": 1173136311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163813,7 +167039,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 135.82954384890036,
 			"seed": 1536047193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163924,7 +167152,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 1413967095,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -163991,7 +167221,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 1569813143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164054,7 +167286,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 232.85064659811906,
 			"seed": 1007120857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164153,7 +167387,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256033687,
 			"seed": 1568196025,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164260,7 +167496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.9569774228803,
 			"seed": 561881721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164415,7 +167653,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 208.5953709108071,
 			"seed": 1764561017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164562,7 +167802,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 320.16963907241006,
 			"seed": 436541849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164745,7 +167987,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 145.53165412382077,
 			"seed": 1360083415,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164844,7 +168088,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.31899247429101,
 			"seed": 580534263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -164899,7 +168145,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 383.2333558594037,
 			"seed": 2139321753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165022,7 +168270,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1164.253232990588,
 			"seed": 1785591833,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165101,7 +168351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 257.10592228542373,
 			"seed": 847629495,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165220,7 +168472,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.70211027492769,
 			"seed": 619459545,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165287,7 +168541,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.55316541238426,
 			"seed": 624143417,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165346,7 +168602,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.70170173557563,
 			"seed": 1246971833,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165493,7 +168751,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.10633082476852,
 			"seed": 464173273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165564,7 +168824,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256034415,
 			"seed": 148929239,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165707,7 +168969,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.87215788667527,
 			"seed": 986624601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165810,7 +169074,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.6805989863642,
 			"seed": 391701975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165905,7 +169171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.19115036097355,
 			"seed": 2128010777,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -165980,7 +169248,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 339.5738596222509,
 			"seed": 1765390169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166099,7 +169369,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 988104471,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166162,7 +169434,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 464741721,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166213,7 +169487,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.6379849485893,
 			"seed": 1948833785,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166316,7 +169592,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 208.59537091081438,
 			"seed": 1111457335,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166443,7 +169721,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.255275687304675,
 			"seed": 1932048185,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166534,7 +169814,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.87215788667527,
 			"seed": 1258499641,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166621,7 +169903,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 247.40381201049604,
 			"seed": 622196151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367878,
 			"link": null,
@@ -166688,7 +169972,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.14853632319864,
 			"seed": 678593367,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -166863,7 +170149,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.46793733683444,
 			"seed": 344071513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -166954,7 +170242,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 771519577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167017,7 +170307,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137456569,
 			"seed": 1592542775,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167076,7 +170368,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 334.72280448478705,
 			"seed": 1103622839,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167243,7 +170537,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 812889881,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167318,7 +170614,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 232.85064659811906,
 			"seed": 262131801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167457,15 +170755,17 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2188.2416509491786,
+			"x": -2188.241650949178,
 			"y": 58795.767227863005,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 5334.12007986578,
+			"width": 5334.120079865779,
 			"height": 3986.0951683779604,
 			"seed": 1357288825,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167497,7 +170797,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302413911,
 			"seed": 1598319769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167620,7 +170922,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 344.42491475971474,
 			"seed": 1146384153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167691,7 +170995,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 378.3823007219398,
 			"seed": 346796183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167850,7 +171156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.55316541238426,
 			"seed": 399390297,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167917,7 +171225,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 235151033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -167980,7 +171290,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.19115036097355,
 			"seed": 1469893401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168099,7 +171411,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 247.40381201050332,
 			"seed": 1560016727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168250,7 +171564,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.702110274920415,
 			"seed": 897972921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168369,7 +171685,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256034415,
 			"seed": 1290292663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168540,7 +171858,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302413911,
 			"seed": 470367735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168619,7 +171939,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.55316541238426,
 			"seed": 17707577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168674,7 +171996,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.702110274920415,
 			"seed": 1420068151,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168733,7 +172057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 300.76541852256923,
 			"seed": 1709748663,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168868,7 +172194,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.91477192445018,
 			"seed": 1181605017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -168923,7 +172251,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 1114330327,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169034,7 +172364,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.51055137460207,
 			"seed": 570010841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169097,7 +172429,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.2337643987412,
 			"seed": 274273719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169160,7 +172494,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 271.6590876978007,
 			"seed": 1788911801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169239,7 +172575,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.9569774228803,
 			"seed": 332068375,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169298,7 +172636,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 189.19115036096628,
 			"seed": 929018519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169405,7 +172745,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.255275687304675,
 			"seed": 1192210903,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169456,7 +172798,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.17004761175485,
 			"seed": 1603882295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169523,7 +172867,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.74431577335054,
 			"seed": 1617898199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169582,7 +172928,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.2759698971786,
 			"seed": 350455639,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169701,7 +173049,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 310.4675287974824,
 			"seed": 1517768505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169828,7 +173178,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.87215788667527,
 			"seed": 1765700183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169891,7 +173243,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 295.9143633851054,
 			"seed": 998977049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -169966,7 +173320,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.106330824761244,
 			"seed": 1181878105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170033,7 +173389,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 656756665,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170088,7 +173446,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.42532329905225,
 			"seed": 1790709687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170159,7 +173519,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 334.7228044847943,
 			"seed": 1480066969,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170250,7 +173612,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.2759698971786,
 			"seed": 158604953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170317,7 +173681,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1169.1042881280446,
 			"seed": 494405401,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170358,7 +173724,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.404220549848105,
 			"seed": 343602263,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170399,7 +173767,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 242.55275687303947,
 			"seed": 114226807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170526,7 +173896,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 134434137,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170565,7 +173937,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.17004761175485,
 			"seed": 1665163735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170624,7 +173998,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 227.9995914606552,
 			"seed": 1440824919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170719,7 +174095,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.06371678699361,
 			"seed": 1677118873,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170778,7 +174156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.12743357397994,
 			"seed": 1498069273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170877,7 +174257,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.0211027492187,
 			"seed": 2140005625,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -170944,7 +174326,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256034415,
 			"seed": 587376985,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171043,7 +174427,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 257.10592228542373,
 			"seed": 1735060791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171138,7 +174524,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.95738596222509,
 			"seed": 1859312825,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171201,7 +174589,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1764967383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171276,7 +174666,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.06330824764154,
 			"seed": 850015895,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171419,7 +174811,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302413911,
 			"seed": 2045125273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171482,7 +174876,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.2759698971786,
 			"seed": 808631287,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171581,7 +174977,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.46793733683444,
 			"seed": 567172631,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367879,
 			"link": null,
@@ -171656,7 +175054,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.2337643987412,
 			"seed": 826056919,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -171747,7 +175147,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.6379849485893,
 			"seed": 1938291543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -171830,7 +175232,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 975926071,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -171921,7 +175325,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.2759698971786,
 			"seed": 1957399607,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172032,7 +175438,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 169.78692981112545,
 			"seed": 721900409,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172123,7 +175531,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 373.531245584476,
 			"seed": 1095862905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172206,7 +175616,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 286.212253110185,
 			"seed": 1334164633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172389,7 +175801,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 169.78692981112545,
 			"seed": 621110999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172532,7 +175946,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.55316541238426,
 			"seed": 716932697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172591,7 +176007,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.55316541238426,
 			"seed": 713888217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172642,7 +176060,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 164.9358746736616,
 			"seed": 1528550521,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172765,7 +176185,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.12743357397994,
 			"seed": 250283769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172872,7 +176294,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 247.40381201049604,
 			"seed": 449532857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -172943,7 +176367,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.10633082476852,
 			"seed": 703433207,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173018,7 +176444,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1707173047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173081,7 +176509,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256034415,
 			"seed": 1481654713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173164,7 +176594,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.659496237145504,
 			"seed": 2044140505,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173235,7 +176667,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 72.76582706190675,
 			"seed": 1110419415,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173286,7 +176720,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.08481953620503,
 			"seed": 16057143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173365,7 +176801,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 475681017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173420,7 +176858,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.44642604827095,
 			"seed": 941013623,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173651,7 +177091,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.14853632319864,
 			"seed": 1576901209,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173774,7 +177216,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.6805989863642,
 			"seed": 699333849,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173857,7 +177301,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 310.46752879748965,
 			"seed": 1531812601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173920,7 +177366,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.808441099688935,
 			"seed": 399092119,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -173987,7 +177435,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.106330824761244,
 			"seed": 486132535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174046,7 +177496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 358.9780801720917,
 			"seed": 778762167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174149,7 +177601,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 63.06371678699361,
 			"seed": 1021807385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174208,7 +177662,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 320.16963907241006,
 			"seed": 590395033,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174287,7 +177743,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 465.70129319623084,
 			"seed": 1052186167,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174418,7 +177876,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302413911,
 			"seed": 1290587351,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174501,7 +177961,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1039332535,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174572,7 +178034,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 1241191065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174631,7 +178095,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.0633082476488,
 			"seed": 1552186905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174718,7 +178184,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 121.27637843652337,
 			"seed": 76494807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174817,7 +178285,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 349.2759698971713,
 			"seed": 1896513015,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174884,7 +178354,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.6805989863642,
 			"seed": 1766450071,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -174951,7 +178423,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 184.3400952235097,
 			"seed": 353748279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175022,7 +178496,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 383.2333558593964,
 			"seed": 1490082329,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175089,7 +178565,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256034415,
 			"seed": 2116577913,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175184,7 +178662,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1368066649,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175239,7 +178719,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.08481953620503,
 			"seed": 779651863,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175306,7 +178788,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 329.8717493473305,
 			"seed": 850115767,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175373,7 +178857,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 422.04179695908533,
 			"seed": 2089544279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175476,7 +178962,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 378.3823007219398,
 			"seed": 80430713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175559,7 +179047,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 1284176025,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175622,7 +179112,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 213.44642604827095,
 			"seed": 1884898807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175693,7 +179185,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 378.3823007219398,
 			"seed": 1329053017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175812,7 +179306,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.808441099688935,
 			"seed": 41869591,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175871,7 +179367,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 344.42491475971474,
 			"seed": 323362199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175934,7 +179432,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 1858.2446829470703,
 			"seed": 1327265497,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175966,7 +179466,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 862.4456089695741,
 			"seed": 1080182935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -175998,7 +179500,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 975.0620826296072,
 			"seed": 829750713,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176039,7 +179543,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 999.3173583169264,
 			"seed": 1172904183,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176080,7 +179586,7 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 16,
 			"seed": 55761,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176112,7 +179618,7 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 81.82655548962012,
 			"seed": 1653063737,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176138,7 +179644,7 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 70.3796336145007,
 			"seed": 43537,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176170,7 +179676,7 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 45,
 			"seed": 1090521145,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1675605367880,
 			"link": null,
@@ -176205,7 +179711,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 485.1055137460644,
 			"seed": 167140503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176246,7 +179754,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 455.9991829213104,
 			"seed": 461589271,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176287,7 +179797,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 941.1046966673894,
 			"seed": 477929657,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176328,7 +179840,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 271.6590876978007,
 			"seed": 146422553,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176431,7 +179945,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.06330824764154,
 			"seed": 118071575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176502,7 +180018,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 339.5738596222509,
 			"seed": 376035385,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176633,7 +180151,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1105046425,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176692,7 +180212,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.553165412376984,
 			"seed": 1976735513,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176755,7 +180277,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 218.29748118572752,
 			"seed": 552603511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176850,7 +180374,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 1221213817,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -176977,7 +180503,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.21266164952249,
 			"seed": 1934358295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177056,7 +180584,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.14853632319137,
 			"seed": 2121986841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177175,7 +180705,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.17004761175485,
 			"seed": 794513239,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177274,7 +180806,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 606610807,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177337,7 +180871,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.553165412376984,
 			"seed": 636701945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177400,7 +180936,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 194.04220549842285,
 			"seed": 57218967,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177519,7 +181057,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 935181049,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177562,7 +181102,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.63798494859657,
 			"seed": 1892496215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177653,7 +181195,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.31899247429101,
 			"seed": 997403735,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177716,7 +181260,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.9784887114365,
 			"seed": 2138313753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177775,7 +181321,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 194.04220549842285,
 			"seed": 716226457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177826,7 +181374,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 145.5316541238135,
 			"seed": 894523961,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -177913,7 +181463,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.0211027492187,
 			"seed": 806932793,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178016,7 +181568,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.57426816159568,
 			"seed": 956473591,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178119,7 +181673,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.80844109968166,
 			"seed": 475790809,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178182,7 +181738,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 121.27637843652337,
 			"seed": 2141770935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178233,7 +181791,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.14853632320592,
 			"seed": 2054085655,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178332,7 +181892,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.12743357398722,
 			"seed": 1071340087,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178471,7 +182033,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 223.14853632319137,
 			"seed": 2066243063,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178566,7 +182130,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0.0001,
 			"seed": 1431476217,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178605,7 +182171,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 169.78692981111817,
 			"seed": 1834722615,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178692,7 +182260,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 48.51055137460935,
 			"seed": 664668121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178755,7 +182325,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 164.93587467366888,
 			"seed": 996764343,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178818,7 +182390,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 873896889,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178885,7 +182459,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 293677081,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -178956,7 +182532,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 92.17004761175485,
 			"seed": 774144345,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179007,7 +182585,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 87.31899247429101,
 			"seed": 1885303801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179058,7 +182638,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 276.51014283526456,
 			"seed": 1090423577,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179129,7 +182711,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 363.82913530955557,
 			"seed": 2117784727,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179208,7 +182792,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.46793733684171,
 			"seed": 320410905,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179299,7 +182885,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.553165412376984,
 			"seed": 810527769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179366,7 +182954,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1914961017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179433,7 +183023,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.06330824764154,
 			"seed": 1868173529,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179560,7 +183152,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.57426816159568,
 			"seed": 101485239,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179619,7 +183213,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 252.25486714795989,
 			"seed": 241301303,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179702,7 +183298,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 43.659496237145504,
 			"seed": 1966181143,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179753,7 +183351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302414639,
 			"seed": 1738714743,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179808,7 +183408,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 169.78692981111817,
 			"seed": 2067242777,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179863,7 +183465,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 198.8932606358867,
 			"seed": 1610934871,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -179918,7 +183522,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.2337643987412,
 			"seed": 630146361,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180009,7 +183615,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1669053497,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180072,7 +183680,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 101.87215788668254,
 			"seed": 590994519,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180143,7 +183753,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 164.93587467366888,
 			"seed": 829847801,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180210,7 +183822,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 121.27637843652337,
 			"seed": 755940697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180317,7 +183931,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.957385962232365,
 			"seed": 1093702169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180376,7 +183992,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.9784887114365,
 			"seed": 1157678199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180467,7 +184085,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 29.106330824753968,
 			"seed": 69967223,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180522,7 +184142,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.361606512073195,
 			"seed": 490520601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180589,7 +184211,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 106.72321302414639,
 			"seed": 1147441273,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367881,
 			"link": null,
@@ -180676,7 +184300,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.0211027492187,
 			"seed": 1510362999,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -180743,7 +184369,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 1852466935,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -180830,7 +184458,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 252.25486714795989,
 			"seed": 1387874841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -180889,7 +184519,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.957385962232365,
 			"seed": 1319826841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -180952,7 +184584,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.702110274913139,
 			"seed": 1220679927,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181011,7 +184645,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 232.85064659811906,
 			"seed": 532571511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181130,7 +184766,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.46793733682716,
 			"seed": 1253642009,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181185,7 +184823,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.6805989863642,
 			"seed": 431782487,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181268,7 +184908,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.9569774228876,
 			"seed": 523555383,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181339,7 +184981,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.0211027492187,
 			"seed": 1202404633,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181398,7 +185042,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 121.27637843650882,
 			"seed": 1032546457,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181453,7 +185099,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 184.3400952235097,
 			"seed": 576260311,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181508,7 +185156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.08481953620503,
 			"seed": 994885305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181595,7 +185245,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.57426816161023,
 			"seed": 822588857,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181646,7 +185298,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.97848871145106,
 			"seed": 836142169,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181705,7 +185359,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 208.59537091081438,
 			"seed": 981665399,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181836,7 +185492,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.70211027492769,
 			"seed": 1568560407,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -181883,7 +185541,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 203.74431577335054,
 			"seed": 1072412791,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182010,7 +185670,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 77.61688219936332,
 			"seed": 1453039865,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182089,7 +185751,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.06330824764154,
 			"seed": 1714506199,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182180,7 +185844,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 38.80844109968166,
 			"seed": 309904087,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182231,7 +185897,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 194.04220549842285,
 			"seed": 675243193,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182314,7 +185982,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.9784887114365,
 			"seed": 1740349145,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182369,7 +186039,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 160.08481953620503,
 			"seed": 689188503,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182424,7 +186096,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 227.9995914606552,
 			"seed": 642022649,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182479,7 +186153,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 194.0422054984374,
 			"seed": 1817038455,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182562,7 +186238,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.9784887114365,
 			"seed": 241805977,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182613,7 +186291,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 126756153,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182672,7 +186352,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.70211027492769,
 			"seed": 1663647929,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182727,7 +186409,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.70211027492769,
 			"seed": 1744572087,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182794,7 +186478,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 339.5738596222509,
 			"seed": 2070477911,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182873,7 +186559,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 53.36160651205864,
 			"seed": 473551321,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -182932,7 +186620,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 325.02069420985936,
 			"seed": 717856089,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183079,7 +186769,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 407.4886315467011,
 			"seed": 1972109945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183138,7 +186830,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 291.0633082476561,
 			"seed": 1034845689,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183217,7 +186911,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 24.255275687304675,
 			"seed": 806649047,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183272,7 +186968,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 19.40422054984083,
 			"seed": 1140198073,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183331,7 +187029,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.956977422873,
 			"seed": 666003001,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183402,7 +187102,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 179.48904008604586,
 			"seed": 9531255,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183489,7 +187191,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 320.16963907241006,
 			"seed": 115308953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183560,7 +187264,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137449293,
 			"seed": 1079123479,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183627,7 +187333,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 1797877687,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183694,7 +187402,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 237.7017017355829,
 			"seed": 286899543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183769,7 +187479,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 407.4886315467011,
 			"seed": 147296279,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -183904,7 +187616,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 358.9780801721063,
 			"seed": 1833840697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184027,7 +187741,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.21266164952249,
 			"seed": 1797898937,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184094,7 +187810,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 373.5312455844687,
 			"seed": 347860761,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184261,7 +187979,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.63798494858202,
 			"seed": 357557783,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184388,7 +188108,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 4.851055137463845,
 			"seed": 522653017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184439,7 +188161,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.553165412376984,
 			"seed": 693993465,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184494,7 +188218,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 242.5527568730322,
 			"seed": 1555929975,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184625,7 +188351,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.21266164952249,
 			"seed": 1303292121,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184684,7 +188412,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.23376439875574,
 			"seed": 1536881753,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184739,7 +188469,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 198.89326063590124,
 			"seed": 1409810711,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -184950,7 +188682,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 266.80803256033687,
 			"seed": 331555575,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185069,7 +188803,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 329.8717493473232,
 			"seed": 343308697,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185144,7 +188880,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 116.42532329905953,
 			"seed": 1817096921,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185207,7 +188945,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 155.2337643987412,
 			"seed": 994209719,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185270,7 +189010,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 276.51014283526456,
 			"seed": 1396631225,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185365,7 +189107,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 111.57426816159568,
 			"seed": 378451543,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185412,7 +189156,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.956977422873,
 			"seed": 443657305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185495,7 +189241,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 33.95738596221781,
 			"seed": 576240249,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367882,
 			"link": null,
@@ -185546,7 +189294,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 9.702110274913139,
 			"seed": 1585758489,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185589,7 +189339,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 58.21266164952249,
 			"seed": 1893207769,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185632,7 +189384,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 354.12702503464243,
 			"seed": 696446105,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185719,7 +189473,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 82.46793733682716,
 			"seed": 63742295,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185766,7 +189522,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 325.0206942098739,
 			"seed": 1821290841,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185849,7 +189607,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 150.38270926127734,
 			"seed": 222125945,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185912,7 +189672,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 397.78652127178793,
 			"seed": 1892199703,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -185971,7 +189733,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 130.9784887114365,
 			"seed": 407497111,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186018,7 +189782,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 126.12743357398722,
 			"seed": 302325017,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186069,7 +189835,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 271.6590876978007,
 			"seed": 957392825,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186116,7 +189884,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 261.9569774228876,
 			"seed": 1847960215,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186191,7 +189961,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 14.553165412391536,
 			"seed": 561415511,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186238,7 +190010,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 97.02110274920415,
 			"seed": 754847065,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186297,7 +190071,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 174.63798494858202,
 			"seed": 1070864601,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186344,7 +190120,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 247.4038120105106,
 			"seed": 353803127,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186423,7 +190201,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 257.10592228542373,
 			"seed": 1302432953,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186474,7 +190254,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 67.91477192445018,
 			"seed": 554416985,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186517,7 +190299,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 140.6805989863642,
 			"seed": 1091926297,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186560,7 +190344,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 271.6590876978007,
 			"seed": 10143449,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186671,7 +190457,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 0,
 			"seed": 25634423,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186718,7 +190506,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"height": 247.40381201049604,
 			"seed": 1679349305,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1675605367883,
 			"link": null,
@@ -186750,28 +190540,30 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			"pressures": []
 		},
 		{
-			"id": "vN5pEE7EtEu_GeOJ2Kjvm",
 			"type": "image",
-			"x": -3295.4002723080093,
-			"y": 72395.8426483849,
-			"width": 8816.980574882247,
-			"height": 761.0302051414692,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffffff",
+			"version": 95,
+			"versionNonce": 1287429409,
+			"isDeleted": true,
+			"id": "vN5pEE7EtEu_GeOJ2Kjvm",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -3295.4002723080093,
+			"y": 72395.8426483849,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffffff",
+			"width": 8816.980574882247,
+			"height": 761.0302051414692,
 			"seed": 1221721646,
-			"version": 94,
-			"versionNonce": 1386102450,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -186782,28 +190574,30 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 			]
 		},
 		{
-			"id": "ifICS580-lurAAGtK3HSX",
 			"type": "freedraw",
-			"x": -4249.213191874587,
-			"y": 74211.56796767749,
-			"width": 370,
-			"height": 910,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 29,
+			"versionNonce": 1623196015,
+			"isDeleted": true,
+			"id": "ifICS580-lurAAGtK3HSX",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -4249.213191874587,
+			"y": 74211.56796767749,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 370,
+			"height": 910,
 			"seed": 1651344562,
-			"version": 28,
-			"versionNonce": 1550826862,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -186892,36 +190686,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					310
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-120,
-				310
-			]
+			"pressures": []
 		},
 		{
-			"id": "phy4SsyC-7_N041u0uU9F",
 			"type": "freedraw",
-			"x": -3946.471374799446,
-			"y": 74975.12911455879,
-			"width": 201.31894328938824,
-			"height": 228.16146906130598,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 23,
+			"versionNonce": 206459137,
+			"isDeleted": true,
+			"id": "phy4SsyC-7_N041u0uU9F",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -3946.471374799446,
+			"y": 74975.12911455879,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 201.31894328938824,
+			"height": 228.16146906130598,
 			"seed": 1524527282,
-			"version": 22,
-			"versionNonce": 1051844526,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -186990,36 +190783,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					181.187048960448
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.553157214897965,
-				181.187048960448
-			]
+			"pressures": []
 		},
 		{
-			"id": "rLJMY9g7FJPcfU_lh8ewG",
 			"type": "freedraw",
-			"x": -4100.815897987977,
-			"y": 75102.6311119754,
-			"width": 154.34452318853118,
-			"height": 13.421262885953183,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 12,
+			"versionNonce": 1664875407,
+			"isDeleted": true,
+			"id": "rLJMY9g7FJPcfU_lh8ewG",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -4100.815897987977,
+			"y": 75102.6311119754,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 154.34452318853118,
+			"height": 13.421262885953183,
 			"seed": 1344563758,
-			"version": 11,
-			"versionNonce": 1358281198,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187048,36 +190840,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-13.421262885953183
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				154.34452318853118,
-				-13.421262885953183
-			]
+			"pressures": []
 		},
 		{
-			"id": "csA_hBdwIHWWrbE_DBZlR",
 			"type": "freedraw",
-			"x": -3725.02053718112,
-			"y": 74599.33375375193,
-			"width": 261.71462627620394,
-			"height": 13.421262885953183,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 12,
+			"versionNonce": 2067695841,
+			"isDeleted": true,
+			"id": "csA_hBdwIHWWrbE_DBZlR",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -3725.02053718112,
+			"y": 74599.33375375193,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 261.71462627620394,
+			"height": 13.421262885953183,
 			"seed": 65215730,
-			"version": 11,
-			"versionNonce": 768451570,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187106,36 +190897,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-13.421262885953183
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				261.71462627620394,
-				-13.421262885953183
-			]
+			"pressures": []
 		},
 		{
-			"id": "FLQ1I55MNUd533y7s_f9W",
 			"type": "freedraw",
-			"x": -3651.203591308344,
-			"y": 74699.99322539663,
-			"width": 194.60831184640801,
-			"height": 33.553157214904786,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 11,
+			"versionNonce": 1148432815,
+			"isDeleted": true,
+			"id": "FLQ1I55MNUd533y7s_f9W",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -3651.203591308344,
+			"y": 74699.99322539663,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 194.60831184640801,
+			"height": 33.553157214904786,
 			"seed": 2050866542,
-			"version": 10,
-			"versionNonce": 1410880946,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187164,36 +190954,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-33.553157214904786
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				194.60831184640801,
-				-33.553157214904786
-			]
+			"pressures": []
 		},
 		{
-			"id": "eczUMiU_DEHgeRQnMRu0P",
 			"type": "freedraw",
-			"x": -3550.5441196636507,
-			"y": 74471.83175633532,
-			"width": 288.5571520481226,
-			"height": 322.1103092630219,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 17,
+			"versionNonce": 857523393,
+			"isDeleted": true,
+			"id": "eczUMiU_DEHgeRQnMRu0P",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -3550.5441196636507,
+			"y": 74471.83175633532,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 288.5571520481226,
+			"height": 322.1103092630219,
 			"seed": 1667913138,
-			"version": 16,
-			"versionNonce": 1485215342,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187246,36 +191035,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					322.1103092630219
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				147.63389174555095,
-				322.1103092630219
-			]
+			"pressures": []
 		},
 		{
-			"id": "lQsmFQuqOdbpA8AaCuWkI",
 			"type": "freedraw",
-			"x": -5335.572083496221,
-			"y": 74726.83575116855,
-			"width": 295.2677834911019,
-			"height": 194.6083118464012,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 26,
+			"versionNonce": 764388303,
+			"isDeleted": true,
+			"id": "lQsmFQuqOdbpA8AaCuWkI",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -5335.572083496221,
+			"y": 74726.83575116855,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 295.2677834911019,
+			"height": 194.6083118464012,
 			"seed": 932735982,
-			"version": 25,
-			"versionNonce": 1235668850,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367883,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187364,36 +191152,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					181.187048960448
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				33.55315721489842,
-				181.187048960448
-			]
+			"pressures": []
 		},
 		{
-			"id": "JETAy8wrC1AlWEBWgDU-e",
 			"type": "freedraw",
-			"x": -5315.440189167282,
-			"y": 74545.6487022081,
-			"width": 328.82094070600033,
-			"height": 543.561146881344,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 15,
+			"versionNonce": 1871217825,
+			"isDeleted": true,
+			"id": "JETAy8wrC1AlWEBWgDU-e",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -5315.440189167282,
+			"y": 74545.6487022081,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 328.82094070600033,
+			"height": 543.561146881344,
 			"seed": 972389550,
-			"version": 14,
-			"versionNonce": 612735150,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187438,36 +191225,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					536.8505154383602
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				268.4252577191837,
-				536.8505154383602
-			]
+			"pressures": []
 		},
 		{
-			"id": "Nb1ffEmynJBpOMGvy4osJ",
 			"type": "freedraw",
-			"x": -2792.242766606957,
-			"y": 74418.14670479148,
-			"width": 261.71462627620394,
-			"height": 590.535566982202,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 24,
+			"versionNonce": 245912047,
+			"isDeleted": true,
+			"id": "Nb1ffEmynJBpOMGvy4osJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -2792.242766606957,
+			"y": 74418.14670479148,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 261.71462627620394,
+			"height": 590.535566982202,
 			"seed": 1426845170,
-			"version": 23,
-			"versionNonce": 46141746,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187548,36 +191334,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-214.74020617533824
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				167.76578607448982,
-				-214.74020617533824
-			]
+			"pressures": []
 		},
 		{
-			"id": "gvoUPTD21NA0P4KQ15GTM",
 			"type": "freedraw",
-			"x": -2805.664029492916,
-			"y": 74491.96365066426,
-			"width": 114.08073453065299,
-			"height": 13.421262885953183,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 13,
+			"versionNonce": 1278298241,
+			"isDeleted": true,
+			"id": "gvoUPTD21NA0P4KQ15GTM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -2805.664029492916,
+			"y": 74491.96365066426,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 114.08073453065299,
+			"height": 13.421262885953183,
 			"seed": 1022658418,
-			"version": 12,
-			"versionNonce": 367678190,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187614,36 +191399,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-13.421262885953183
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				114.08073453065299,
-				-13.421262885953183
-			]
+			"pressures": []
 		},
 		{
-			"id": "B7oBoXMb60PmWD2rxYsCz",
 			"type": "freedraw",
-			"x": -2496.974983115855,
-			"y": 74559.06996509405,
-			"width": 275.13588916216304,
-			"height": 194.60831184641575,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 27,
+			"versionNonce": 1086733327,
+			"isDeleted": true,
+			"id": "B7oBoXMb60PmWD2rxYsCz",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -2496.974983115855,
+			"y": 74559.06996509405,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 275.13588916216304,
+			"height": 194.60831184641575,
 			"seed": 1050319278,
-			"version": 26,
-			"versionNonce": 1389042418,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187736,36 +191520,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					187.89768040343188
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				275.13588916216304,
-				187.89768040343188
-			]
+			"pressures": []
 		},
 		{
-			"id": "NAOEja2MYlMdjNg46vShV",
 			"type": "freedraw",
-			"x": -2705.0045578482227,
-			"y": 74599.33375375193,
-			"width": 80.52757731575548,
-			"height": 20.13189432893705,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 11,
+			"versionNonce": 1121357921,
+			"isDeleted": true,
+			"id": "NAOEja2MYlMdjNg46vShV",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -2705.0045578482227,
+			"y": 74599.33375375193,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 80.52757731575548,
+			"height": 20.13189432893705,
 			"seed": 1346265970,
-			"version": 10,
-			"versionNonce": 1732101422,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187794,36 +191577,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-20.13189432893705
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				80.52757731575548,
-				-20.13189432893705
-			]
+			"pressures": []
 		},
 		{
-			"id": "8HnJX_FiK3ayuL4_Q1xaM",
 			"type": "freedraw",
-			"x": -2711.715189291202,
-			"y": 74632.88691096683,
-			"width": 100.6594716446939,
-			"height": 26.84252577192092,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 13,
+			"versionNonce": 1742856751,
+			"isDeleted": true,
+			"id": "8HnJX_FiK3ayuL4_Q1xaM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -2711.715189291202,
+			"y": 74632.88691096683,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 100.6594716446939,
+			"height": 26.84252577192092,
 			"seed": 106175342,
-			"version": 12,
-			"versionNonce": 139390130,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -187860,36 +191642,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-26.84252577192092
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				100.6594716446939,
-				-26.84252577192092
-			]
+			"pressures": []
 		},
 		{
-			"id": "MYHPfPXCq6NOpLnvQqQM3",
 			"type": "freedraw",
-			"x": -1926.5713104625902,
-			"y": 74559.06996509405,
-			"width": 268.4252577191837,
-			"height": 510.0079896664538,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 34,
+			"versionNonce": 1766317121,
+			"isDeleted": true,
+			"id": "MYHPfPXCq6NOpLnvQqQM3",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -1926.5713104625902,
+			"y": 74559.06996509405,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 268.4252577191837,
+			"height": 510.0079896664538,
 			"seed": 1005474162,
-			"version": 33,
-			"versionNonce": 434696046,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188010,36 +191791,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					194.60831184641575
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-73.81694587277525,
-				194.60831184641575
-			]
+			"pressures": []
 		},
 		{
-			"id": "wVHGBTX_vi1RUf34nCH4T",
 			"type": "freedraw",
-			"x": -1765.5161558310801,
-			"y": 74498.67428210724,
-			"width": 100.65947164469344,
-			"height": 26.842525771906367,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 13,
+			"versionNonce": 350471247,
+			"isDeleted": true,
+			"id": "wVHGBTX_vi1RUf34nCH4T",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -1765.5161558310801,
+			"y": 74498.67428210724,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 100.65947164469344,
+			"height": 26.842525771906367,
 			"seed": 1537831858,
-			"version": 12,
-			"versionNonce": 150111858,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188076,36 +191856,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					-20.13189432893705
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				100.65947164469344,
-				-20.13189432893705
-			]
+			"pressures": []
 		},
 		{
-			"id": "aqiR0VEP_qeXay945O_DL",
 			"type": "freedraw",
-			"x": -1758.8055243881008,
-			"y": 74538.93807076511,
-			"width": 107.37010308767367,
-			"height": 6.710631442983868,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 12,
+			"versionNonce": 1868868641,
+			"isDeleted": true,
+			"id": "aqiR0VEP_qeXay945O_DL",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -1758.8055243881008,
+			"y": 74538.93807076511,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 107.37010308767367,
+			"height": 6.710631442983868,
 			"seed": 1661972846,
-			"version": 11,
-			"versionNonce": 439669166,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188138,36 +191917,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					6.710631442983868
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				107.37010308767367,
-				6.710631442983868
-			]
+			"pressures": []
 		},
 		{
-			"id": "DI7V5Bf_yEO1JEW4YQAcp",
 			"type": "freedraw",
-			"x": -1262.2187976076111,
-			"y": 74189.98523573017,
-			"width": 20.13189432893887,
-			"height": 409.348518021754,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 13,
+			"versionNonce": 665084527,
+			"isDeleted": true,
+			"id": "DI7V5Bf_yEO1JEW4YQAcp",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -1262.2187976076111,
+			"y": 74189.98523573017,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 20.13189432893887,
+			"height": 409.348518021754,
 			"seed": 629967470,
-			"version": 12,
-			"versionNonce": 1836902450,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188204,36 +191982,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					409.348518021754
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.13189432893887,
-				409.348518021754
-			]
+			"pressures": []
 		},
 		{
-			"id": "OEqkLXbJybUULq0Z5G6sj",
 			"type": "freedraw",
-			"x": -980.3722770024688,
-			"y": 74216.82776150209,
-			"width": 295.2677834911019,
-			"height": 409.348518021754,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 28,
+			"versionNonce": 1562148865,
+			"isDeleted": true,
+			"id": "OEqkLXbJybUULq0Z5G6sj",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -980.3722770024688,
+			"y": 74216.82776150209,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 295.2677834911019,
+			"height": 409.348518021754,
 			"seed": 1550832242,
-			"version": 27,
-			"versionNonce": 1665821678,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188330,36 +192107,35 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					40.2637886578741
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-154.34452318852982,
-				40.2637886578741
-			]
+			"pressures": []
 		},
 		{
-			"id": "XqfjdCqvFWWLVWlv7gp8Z",
 			"type": "freedraw",
-			"x": -691.8151249543462,
-			"y": 74465.12112489234,
-			"width": 268.4252577191837,
-			"height": 228.16146906130598,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
+			"version": 26,
+			"versionNonce": 1894530191,
+			"isDeleted": true,
+			"id": "XqfjdCqvFWWLVWlv7gp8Z",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
+			"angle": 0,
+			"x": -691.8151249543462,
+			"y": 74465.12112489234,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ffffff",
+			"width": 268.4252577191837,
+			"height": 228.16146906130598,
 			"seed": 1523316594,
-			"version": 25,
-			"versionNonce": 500503026,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1675605367884,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675629761597,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -188448,316 +192224,9 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 					134.21262885959004
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				268.4252577191837,
-				134.21262885959004
-			]
-		},
-		{
-			"id": "OSFPn-TqY3tFNSLDpIxEb",
-			"type": "freedraw",
-			"x": -3966.603269128385,
-			"y": 74995.26100888773,
-			"width": 241.58273194726507,
-			"height": 275.13588916216395,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 712775666,
-			"version": 33,
-			"versionNonce": 830969970,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675605367883,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					6.710631442979775,
-					67.10631442979502
-				],
-				[
-					13.421262885959095,
-					127.50199741660617
-				],
-				[
-					13.421262885959095,
-					134.21262885959004
-				],
-				[
-					13.421262885959095,
-					154.3445231885271
-				],
-				[
-					13.421262885959095,
-					147.63389174555778
-				],
-				[
-					13.421262885959095,
-					140.9232603025739
-				],
-				[
-					46.97442010085706,
-					0
-				],
-				[
-					46.97442010085706,
-					-6.710631442983868
-				],
-				[
-					53.685051543836835,
-					-26.84252577192092
-				],
-				[
-					93.94884020171412,
-					-93.94884020171594
-				],
-				[
-					100.6594716446939,
-					-93.94884020171594
-				],
-				[
-					127.50199741661208,
-					-33.553157214904786
-				],
-				[
-					140.92326030257118,
-					13.421262885953183
-				],
-				[
-					140.92326030257118,
-					20.13189432893705
-				],
-				[
-					154.34452318853027,
-					6.710631442983868
-				],
-				[
-					154.34452318853027,
-					0
-				],
-				[
-					161.05515463151005,
-					-6.710631442983868
-				],
-				[
-					201.3189432893878,
-					-100.6594716446998
-				],
-				[
-					221.4508376183262,
-					-120.79136597363686
-				],
-				[
-					221.4508376183262,
-					-114.08073453065299
-				],
-				[
-					228.16146906130598,
-					-107.37010308766912
-				],
-				[
-					234.87210050428575,
-					-33.553157214904786
-				],
-				[
-					241.58273194726507,
-					73.81694587277889
-				],
-				[
-					241.58273194726507,
-					80.5275773157482
-				],
-				[
-					241.58273194726507,
-					93.94884020171594
-				],
-				[
-					241.58273194726507,
-					93.94884020171594
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				241.58273194726507,
-				93.94884020171594
-			]
-		},
-		{
-			"id": "0s9j1CHkxRjB9fyicdMSK",
-			"type": "freedraw",
-			"x": -4087.3946351020177,
-			"y": 75102.6311119754,
-			"width": 201.3189432893878,
-			"height": 20.13189432893705,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 892263790,
-			"version": 10,
-			"versionNonce": 631224882,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675605367883,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					147.63389174555095,
-					-13.421262885953183
-				],
-				[
-					154.34452318853073,
-					-13.421262885953183
-				],
-				[
-					201.3189432893878,
-					-20.13189432893705
-				],
-				[
-					201.3189432893878,
-					-20.13189432893705
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				201.3189432893878,
-				-20.13189432893705
-			]
-		},
-		{
-			"id": "-gNe4-FJfWtyviaZjxp-q",
-			"type": "freedraw",
-			"x": -3550.5441196636507,
-			"y": 74471.83175633532,
-			"width": 281.8465206051428,
-			"height": 281.8465206051478,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1511541230,
-			"version": 12,
-			"versionNonce": 440683566,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675605367883,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					147.63389174555095,
-					67.10631442979502
-				],
-				[
-					261.71462627620394,
-					154.3445231885271
-				],
-				[
-					281.8465206051428,
-					181.187048960448
-				],
-				[
-					261.71462627620394,
-					241.58273194725916
-				],
-				[
-					208.02957473236756,
-					275.13588916216395
-				],
-				[
-					194.60831184640801,
-					281.8465206051478
-				],
-				[
-					194.60831184640801,
-					281.8465206051478
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				194.60831184640801,
-				281.8465206051478
-			]
-		},
-		{
-			"id": "SmsJL8Uu0N19JosmX1gTu",
-			"type": "freedraw",
-			"x": -1376.299532138264,
-			"y": 73659.8453517348,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#ffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 127910578,
-			"version": 4,
-			"versionNonce": 1313531374,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1675605360035,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -188773,12 +192242,18 @@ c70b4a67d2458f6c4e67479b0c67b76797b9e93b: [[rv_exos/physics/theme 6/assets/Gravi
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
-		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"currentItemLinearStrokeSharpness": "round",
+		"scrollX": 8265.169537515303,
+		"scrollY": -68645.01996022099,
+		"zoom": {
+			"value": 0.1
+		},
+		"currentItemRoundness": "round",
 		"gridSize": null,
-		"colorPalette": {}
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
 	},
 	"files": {}
 }

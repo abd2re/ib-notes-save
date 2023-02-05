@@ -1,5 +1,5 @@
 ---
-tags: [MOC] 
+tags: [M] 
 ---
 0. [[Présentation d'un document iconographique]]
 1. [[Time and space]]

@@ -12,4 +12,4 @@ Ils sont:
 - Elle peut créer une inefficacité des entreprises.
 - Elle élimine l'efficacité allocative et génère une perte de bien-être.
 - Il y a des conséquences pour les acteurs du marché.
-<!--SR:!2023-01-20,1,190-->
+<!--SR:!2023-02-20,15,190-->

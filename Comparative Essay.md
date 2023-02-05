@@ -17,7 +17,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-02-16,14,250-->
 
 *Voyage and Return*=> :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
-<!--SR:!2023-02-05,10,250-->
+<!--SR:!2023-03-02,25,250-->
 
 *Comedy*=> :: The protagonist experiences a series of lighthearted or confusing events, before the story resolves into a happy ending. 
 <!--SR:!2023-02-24,21,250-->
@@ -26,11 +26,11 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-02-22,20,250-->
 
 *Rebirth*=> :: The protagonist undergoes a transformation, and often ends up a better person as a result
-<!--SR:!2023-02-04,9,250-->
+<!--SR:!2023-02-27,22,250-->
 
 ## Comparative essay Tips and Tricks
 When writing a comparative essay in the style of paper 2 you should to answer the following question:: In what ways and for what reasons is… ?
-<!--SR:!2023-02-05,5,230-->
+<!--SR:!2023-02-17,12,230-->
 
 - You will need to start organizing your ideas using a mind map
 - Write a good thesis statement which make a claim about the author's purpose in writing

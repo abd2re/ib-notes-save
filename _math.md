@@ -1,8 +1,6 @@
+
 ---
-banner: "![[SinAndCosFunctionPlot-1.webp]]"
----
----
-tags: [MOC] 
+tags: [M] 
 banner: "![[SinAndCosFunctionPlot-1.webp]]"
 ---
 # Theme 2: Fonctions

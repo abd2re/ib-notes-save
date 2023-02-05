@@ -11,7 +11,7 @@ Created: 2022-11-22
 <!--SR:!2023-02-20,55,250-->
 
 - L'éléctrisation est:: un transfert d'électrons d'un corps a l'autre
-<!--SR:!2023-02-04,4,244-->
+<!--SR:!2023-02-15,10,244-->
 
 <!--SR:!2023-04-21,84,230-->
 
@@ -39,6 +39,7 @@ $$q=ne$$
 - Un isolant:: ne laisse pas passer le courant électrique
 <!--SR:!2023-03-21,66,230-->
 Le courant électrique est:: un déplacement de charges.
+<!--SR:!2023-02-07,2,247-->
 
 <!--SR:!2023-05-07,94,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.

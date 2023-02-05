@@ -43,7 +43,7 @@ La quantité d'équilibre=>::Diminue
 Le prix net pour les producteurs=>::Diminue
 <!--SR:!2023-03-01,24,244-->
 Le revenu total des producteurs=>::Diminue
-<!--SR:!2023-02-04,10,244-->
+<!--SR:!2023-03-03,26,244-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
 <!--SR:!2023-02-21,19,224-->
 Recettes du gouvernement=>::Augmente

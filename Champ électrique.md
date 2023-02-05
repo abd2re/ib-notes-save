@@ -28,7 +28,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 ?
 ![[Champ électrique-1.png]]![[image-20221129092354879.png]]![[image-20221129092504068.png]]
 ![[image-20221201164013884.png]]
-<!--SR:!2023-01-29,34,230-->
+<!--SR:!2023-05-03,87,230-->
 
 
 - Champ crée pas plusieurs charges c'est: la somme vectorielle de chacun des champs
@@ -36,7 +36,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 ## Lignes de champ
 ?
 Ce sont des courbes tangentes au vecteur champ électrique en chacun de ses points.
-<!--SR:!2023-01-25,32,230-->
+<!--SR:!2023-05-04,88,230-->
 
 <!--SR:!2022-12-01,1,214-->
 

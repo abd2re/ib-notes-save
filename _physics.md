@@ -1,5 +1,5 @@
 ---
-tags: [MOC] 
+tags: [M] 
 banner: "![[main_image_star-forming_region_carina_nircam_final-1280.jpg]]"
 banner_y: 0.5
 banner_x: 0.5
@@ -7,7 +7,7 @@ banner_x: 0.5
 
 retour [[__dashboard]]
 
-# Theme 3: Physique thermique
+# Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
 1. [[Température]] et échelle de température
 2. [[Chaleur]] et [[Energie interne]]

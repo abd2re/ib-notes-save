@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" -tag:#IA",
+  "search": "-path:template -path:assets line:\"tags\"   tag:#MOC OR tag:#economy ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 0.8046875,
   "linkDistance": 234,
-  "scale": 0.20611809055725996,
-  "close": false
+  "scale": 0.12472850906015613,
+  "close": true
 }

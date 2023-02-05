@@ -1,20 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 7",
-      "path": "Untitled 7.md"
+      "basename": "Gravitational Force, Field, and Orbits",
+      "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Chapitre 1 - Les systèmes dans les organisations",
+      "path": "Chapitre 1 - Les systèmes dans les organisations.md"
+    },
+    {
+      "basename": "Chapitre 1 - Le CPU et ses éléments",
+      "path": "Chapitre 1 - Le CPU et ses éléments.md"
+    },
+    {
+      "basename": "Chapitre 2 - System design basics",
+      "path": "Chapitre 2 - System design basics.md"
+    },
+    {
+      "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
+      "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
+    },
+    {
+      "basename": "Produits connexes",
+      "path": "Produits connexes.md"
+    },
+    {
+      "basename": "Elasticité prix croisée",
+      "path": "Elasticité prix croisée.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "Déterminants de l'élasticité-prix de l'offre",
+      "path": "Déterminants de l'élasticité-prix de l'offre.md"
+    },
+    {
+      "basename": "Elasticités de l'offre",
+      "path": "Elasticités de l'offre.md"
+    },
+    {
+      "basename": "Mobilité (flexibilité) et coût des facteurs de production",
+      "path": "Mobilité (flexibilité) et coût des facteurs de production.md"
     },
     {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
     {
-      "basename": "Cycle Fetch-Execute",
-      "path": "Cycle Fetch-Execute.md"
+      "basename": "_CAS",
+      "path": "_CAS.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_EE",
+      "path": "_EE.md"
+    },
+    {
+      "basename": "Chapitre 3 - L'Equilibre du marché",
+      "path": "Chapitre 3 - L'Equilibre du marché.md"
+    },
+    {
+      "basename": "Chapitre 1 - La Demande",
+      "path": "Chapitre 1 - La Demande.md"
+    },
+    {
+      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
+      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Chapitre 6 - Elasticités de l'offre",
+      "path": "Chapitre 6 - Elasticités de l'offre.md"
+    },
+    {
+      "basename": "Chapitre 5 - Elasticités de la demande",
+      "path": "Chapitre 5 - Elasticités de la demande.md"
+    },
+    {
+      "basename": "Chapitre 2 - L'approvisionnement (L'offre)",
+      "path": "Chapitre 2 - L'approvisionnement (L'offre).md"
+    },
+    {
+      "basename": "MOC",
+      "path": "template/MOC.md"
+    },
+    {
+      "basename": "english template",
+      "path": "template/english template.md"
+    },
+    {
+      "basename": "Demande",
+      "path": "Demande.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
+    },
+    {
+      "basename": "Système informatique",
+      "path": "Système informatique.md"
+    },
+    {
+      "basename": "Offre",
+      "path": "Offre.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "Cycle Fetch-Execute",
+      "path": "Cycle Fetch-Execute.md"
     },
     {
       "basename": "Untitled 6",
@@ -33,24 +177,12 @@
       "path": "Logiciels de traitement graphique.md"
     },
     {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
       "basename": "Integration testing",
       "path": "Integration testing.md"
     },
     {
       "basename": "Documentation Marketing",
       "path": "Documentation Marketing.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Software-as-a-Service (SaaS)",
@@ -67,138 +199,6 @@
     {
       "basename": "User acceptance testing",
       "path": "User acceptance testing.md"
-    },
-    {
-      "basename": "Méthodes  d'obtention des  exigences des parties prenantes",
-      "path": "Méthodes  d'obtention des  exigences des parties prenantes.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
-    },
-    {
-      "basename": "Gravitational Force, Field, and Orbits",
-      "path": "rv_exos/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-    },
-    {
-      "basename": "Test d'applications",
-      "path": "Test d'applications.md"
-    },
-    {
-      "basename": "Système anciens (Legacy system)",
-      "path": "Système anciens (Legacy system).md"
-    },
-    {
-      "basename": "Sauvegarde de systèmes",
-      "path": "Sauvegarde de systèmes.md"
-    },
-    {
-      "basename": "Ressource humaine",
-      "path": "Ressource humaine.md"
-    },
-    {
-      "basename": "Processus d'installation alternatifs",
-      "path": "Processus d'installation alternatifs.md"
-    },
-    {
-      "basename": "Network-as-a-Service (NaaS)",
-      "path": "Network-as-a-Service (NaaS).md"
-    },
-    {
-      "basename": "Manuels imprimés",
-      "path": "Manuels imprimés.md"
-    },
-    {
-      "basename": "Les problèmes liés au changement",
-      "path": "Les problèmes liés au changement.md"
-    },
-    {
-      "basename": "Les pertes de données",
-      "path": "Les pertes de données.md"
-    },
-    {
-      "basename": "Les méthodes de documentation",
-      "path": "Les méthodes de documentation.md"
-    },
-    {
-      "basename": "Fusions d'entreprises",
-      "path": "Fusions d'entreprises.md"
-    },
-    {
-      "basename": "Fichiers d'aide",
-      "path": "Fichiers d'aide.md"
-    },
-    {
-      "basename": "Exigences-Prérequis",
-      "path": "Exigences-Prérequis.md"
-    },
-    {
-      "basename": "Dry-run testing",
-      "path": "Dry-run testing.md"
-    },
-    {
-      "basename": "Données",
-      "path": "Données.md"
-    },
-    {
-      "basename": "Documentation technique",
-      "path": "Documentation technique.md"
-    },
-    {
-      "basename": "Documentation en ligne",
-      "path": "Documentation en ligne.md"
-    },
-    {
-      "basename": "Documentation Architecture-Conception",
-      "path": "Documentation Architecture-Conception.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Debugging.md"
-    },
-    {
-      "basename": "Conséquences d'une perte de données",
-      "path": "Conséquences d'une perte de données.md"
-    },
-    {
-      "basename": "Comparaison de différentes méthodes de formation des utilisateurs",
-      "path": "Comparaison de différentes méthodes de formation des utilisateurs.md"
-    },
-    {
-      "basename": "Causes possibles d'une perte de données",
-      "path": "Causes possibles d'une perte de données.md"
-    },
-    {
-      "basename": "Beta testing",
-      "path": "Beta testing.md"
-    },
-    {
-      "basename": "AB testing",
-      "path": "AB testing.md"
-    },
-    {
-      "basename": "Changements dans un environment",
-      "path": "Changements dans un environment.md"
-    },
-    {
-      "basename": "Environment du système",
-      "path": "Environment du système.md"
-    },
-    {
-      "basename": "Conception d'un système",
-      "path": "Conception d'un système.md"
-    },
-    {
-      "basename": "Installation d'un système",
-      "path": "Installation d'un système.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "rv_exos/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
     }
   ],
   "omittedPaths": [],

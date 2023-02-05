@@ -14,13 +14,13 @@ $$I=\frac{q}{t}$$
 - $I$ = intensité du courant électrique en ampère
 - $q$ = charge en coulomb
 - $t$ = en secondes
-<!--SR:!2023-01-31,33,230-->
+<!--SR:!2023-04-28,82,230-->
 
 ## Nature du courant électrique
 ?
 Dans les métaux le courant électrique est dut a un déplacement d'électrons libres qui se déplacent du pole moins vers le pole plus. Le sens conventionnel a l'exterieur du générateur est de plus vers le moins.
 Dans les liquides qui conduisent l'eletricité, le courant électrique est dut a un déplacement des ions positifs (cations) et des ions négatifs (anions).
-<!--SR:!2023-01-28,32,248-->
+<!--SR:!2023-05-05,89,248-->
 
 ## Vitesse de dérive des porteurs de charges
 Formule:
@@ -31,7 +31,7 @@ $$I=nqAv$$
 - $I$ = intensité du courant en $A$
 - $q$ = charge des porteurs de charges en $c$
 - $n$ = nombre de porteurs de charge par unité de volume en $m^{-3}$
-<!--SR:!2023-01-20,23,208-->
+<!--SR:!2023-04-08,62,208-->
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité**:: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité

@@ -1,5 +1,5 @@
 ---
-tags: [MOC] 
+tags: [M] 
 banner: "![[marcus-mentors.jpg]]"
 banner_icon: 📖
 ---
