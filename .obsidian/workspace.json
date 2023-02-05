@@ -54,6 +54,28 @@
             }
           },
           {
+            "id": "bcd99dee17e0a9c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02a63567cd1f3c0d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -87,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Untitled 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Untitled 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__dashboard.md"
+                "file": "Untitled 7.md"
               }
             }
           },
@@ -273,7 +296,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__dashboard.md",
+                "file": "Untitled 7.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -325,10 +348,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9f3927114dec311",
+  "active": "bcd99dee17e0a9c6",
   "lastOpenFiles": [
-    "Cycle Fetch-Execute.md",
     "__dashboard.md",
+    "Cycle Fetch-Execute.md",
     "_computer science.md",
     "Untitled 6.md",
     "CPU.md",

@@ -6,7 +6,7 @@ Created: 2022-11-18
 # Diagrammes de flux de données
 ?
 Un diagramme de flux de données (DFD) est une représentation graphique du "flux" de données à travers un système d'information, qui modélise les aspects du processus.
-<!--SR:!2023-01-19,38,230-->
+<!--SR:!2023-05-27,111,230-->
 
 ## Elements d'un Un diagramme de flux de données
 ?

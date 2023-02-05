@@ -14,6 +14,7 @@ Created: 2022-09-13
 3. [[Personal knowledge]]
 4. [[Objectivity and Subjectivity]]
 ***
+<!--SR:!2023-02-08,3,250!2023-02-08,3,250!2023-02-08,3,250-->
 
 ![[TOK questions]]
 

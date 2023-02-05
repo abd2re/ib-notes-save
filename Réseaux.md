@@ -6,4 +6,4 @@ Created: 2022-10-05
 
 ?
 Un ensemble de systèmes informatiques qui sont interconnectés et partagent des ressources, ainsi que ainsi que des données par le biais d'une technologie sans fil ou câblée.
-<!--SR:!2023-01-24,67,250-->
+<!--SR:!2023-08-07,183,250-->

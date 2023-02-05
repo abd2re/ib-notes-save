@@ -12,7 +12,8 @@ Created: 2022-11-22
 
 - L'éléctrisation est:: un transfert d'électrons d'un corps a l'autre
 <!--SR:!2023-02-04,4,244-->
-<!--SR:!2023-04-21,84,230-->
+
+<!--SR:!2023-04-21,84,230-->
 
 Un corps chargé négativement gagne des electrons
 Formule de la charge électrique pour ce cas:
@@ -38,12 +39,15 @@ $$q=ne$$
 - Un isolant:: ne laisse pas passer le courant électrique
 <!--SR:!2023-03-21,66,230-->
 Le courant électrique est:: un déplacement de charges.
-<!--SR:!2023-05-07,94,230-->
+
+<!--SR:!2023-05-07,94,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.
 <!--SR:!2023-02-09,11,280-->
-<!--SR:!2023-04-19,84,230-->
+
+<!--SR:!2023-04-19,84,230-->
 
 ## Loi de la conservation de la charge électrique
 La charge électrique d'un système isolé est:: constante. 
 <!--SR:!2023-02-10,12,280-->
-<!--SR:!2023-04-18,83,230-->
+
+<!--SR:!2023-04-18,83,230-->

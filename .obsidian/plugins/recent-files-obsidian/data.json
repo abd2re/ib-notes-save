@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
-    },
-    {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
     }
   ],
   "omittedPaths": [],

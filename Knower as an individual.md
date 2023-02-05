@@ -14,7 +14,8 @@ Identity:: how a person, group, or nation sees themselves in relation to other p
 
 Contingent:: only true under certain conditions, and dependent on other things.
 <!--SR:!2023-02-15,12,244-->
-<!--SR:!2023-02-11,18,170-->
+
+<!--SR:!2023-02-11,18,170-->
 
 Culture:: the shared ideas, beliefs, customs and practices of a community or society.
 <!--SR:!2023-02-24,55,230-->

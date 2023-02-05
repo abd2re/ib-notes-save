@@ -38,7 +38,8 @@ $$I=nqAv$$
 <!--SR:!2023-02-21,47,248-->
 - **Loi des nœuds ou de Kirchhoff pour l'intensité**:: Dans un nœud la somme des courants entrants est égale a la somme des courants sortants.
 <!--SR:!2023-02-13,13,270-->
-<!--SR:!2023-04-02,67,228-->
+
+<!--SR:!2023-04-02,67,228-->
 
 - Un nœud est:: le point de rencontre de plus de deux fils de connexion
 <!--SR:!2023-02-09,41,248-->
