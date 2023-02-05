@@ -116,6 +116,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82aee9b8e12c1b65",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -259,10 +267,11 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1117b145b30adc1c",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
     "_computer science.md",
     "Integration testing.md",
