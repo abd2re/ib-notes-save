@@ -41,7 +41,7 @@ Le prix pour les consommateurs=>::Augmente
 La quantité d'équilibre=>::Diminue
 <!--SR:!2023-02-17,15,204-->
 Le prix net pour les producteurs=>::Diminue
-<!--SR:!2023-02-05,11,244-->
+<!--SR:!2023-03-01,24,244-->
 Le revenu total des producteurs=>::Diminue
 <!--SR:!2023-02-04,10,244-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
