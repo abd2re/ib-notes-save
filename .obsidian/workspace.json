@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -424,7 +424,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -477,8 +477,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f0d00e56b06859b",
+  "active": "16e1f06afb894c45",
   "lastOpenFiles": [
+    "_english.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Externalité de la production.md",
     "Chapitre 6 - Elasticités de l'offre.md",
@@ -487,7 +488,6 @@
     "Velocite.md",
     "_economy.md",
     "_computer science.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
-    "Installation d'un système.md"
+    "Chapitre 1 - Les systèmes dans les organisations.md"
   ]
 }
