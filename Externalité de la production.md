@@ -33,7 +33,7 @@ Définition et graphe:
 ?
 lorsque le processus de production d'un bien ou d'un service génère un effet positif sur un **tiers** ou sur la **société** dans son ensemble, on parle d'une externalité positive de la production.
 ![[image-20230203093001379.png]]
-<!--SR:!2023-02-06,1,230-->
+<!--SR:!2023-02-07,1,210-->
 
 - Lorsque une externalité positive de la production se produit,:: **le coût marginal social de production (MSC) est inférieur au coût marginal de production privé (MPC)**.
 <!--SR:!2023-02-08,3,250-->
@@ -42,7 +42,7 @@ Réponses possibles du gouvernement(2):
 ?
 - [[Subventionner les entreprises]]
 - [[Prestation gouvernementale directe]]
-<!--SR:!2023-02-06,1,230-->
+<!--SR:!2023-02-08,2,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?

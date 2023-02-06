@@ -33,5 +33,6 @@
   "mousewheel-image-zoom",
   "convert-url-to-iframe",
   "obsidian-spaced-repetition",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-pandoc"
 ]

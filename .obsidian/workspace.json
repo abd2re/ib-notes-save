@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +380,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -424,7 +423,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -477,10 +476,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "16e1f06afb894c45",
+  "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "_english.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+    "_english.md",
     "Externalité de la production.md",
     "Chapitre 6 - Elasticités de l'offre.md",
     "Externalités.md",

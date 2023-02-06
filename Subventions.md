@@ -22,7 +22,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 (graphe)
 ?
 ![[image-20230124133701027.png]]
-<!--SR:!2023-02-06,9,250-->
+<!--SR:!2023-03-01,23,250-->
 
 ## Effet sur la société dans son ensemble
 ?
@@ -31,7 +31,7 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 
 ## Synthèse des effets d'une subvention
 - Le prix pour les consommateurs=>::Diminue
-<!--SR:!2023-02-06,8,250-->
+<!--SR:!2023-02-26,20,250-->
 - La quantité d'équilibre=>::Augmente
 <!--SR:!2023-02-23,18,250-->
 - Le prix final pour les producteurs=>::Augmente
