@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "CPU",
-      "path": "CPU.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
     },
     {
       "basename": "Cycle Fetch-Execute",
@@ -11,6 +11,14 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Untitled 6.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "CPU.md"
     },
     {
       "basename": "Mémoire Secondaire",
@@ -191,14 +199,6 @@
     {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
-    },
-    {
-      "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
     }
   ],
   "omittedPaths": [],

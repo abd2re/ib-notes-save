@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CPU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CPU.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Cycle Fetch-Execute",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cycle Fetch-Execute.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +46,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "__dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a63567cd1f3c0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.2926221335992}"
+                },
+                {
+                  "title": "Untitled 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cycle Fetch-Execute.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
+                "file": "__dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
+                "file": "__dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU.md"
+                "file": "__dashboard.md"
               }
             }
           },
@@ -233,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CPU.md",
+                "file": "__dashboard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,14 +328,14 @@
   "active": "a9f3927114dec311",
   "lastOpenFiles": [
     "Cycle Fetch-Execute.md",
+    "__dashboard.md",
     "_computer science.md",
+    "Untitled 6.md",
+    "CPU.md",
     "Mémoire Secondaire.md",
     "Logiciels de traitement graphique.md",
     "assets/Logiciels de traitement graphique/image-20230119190029294.png",
     "Système informatique.md",
-    "Integration testing.md",
-    "Documentation Marketing.md",
-    "_physics.md",
-    "_economy.md"
+    "Integration testing.md"
   ]
 }

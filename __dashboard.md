@@ -1,5 +1,5 @@
 ---
-tags: [MOC]
+tags: [MOC, math]
 alias: [home,main]
 banner: "![[image-20220913200229039.jpeg]]"
 banner_x: 0.5
