@@ -113,9 +113,31 @@
                 "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
+          },
+          {
+            "id": "8f0d00e56b06859b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_english.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "_english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "_english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "_english.md"
               }
             }
           },
@@ -402,7 +424,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "_english.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -455,12 +477,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "16e1f06afb894c45",
+  "active": "8f0d00e56b06859b",
   "lastOpenFiles": [
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Externalité de la production.md",
     "Chapitre 6 - Elasticités de l'offre.md",
     "Externalités.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "_physics.md",
     "Velocite.md",
     "_economy.md",

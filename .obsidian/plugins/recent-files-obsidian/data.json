@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "_EE",
