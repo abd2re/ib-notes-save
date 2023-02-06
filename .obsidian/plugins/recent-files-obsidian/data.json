@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Externalités",
+      "path": "Externalités.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Documentation de l'Utilisateur final",
       "path": "Documentation de l'Utilisateur final.md"
-    },
-    {
-      "basename": "Solutions au changement",
-      "path": "Solutions au changement.md"
-    },
-    {
-      "basename": "User acceptance testing",
-      "path": "User acceptance testing.md"
     }
   ],
   "omittedPaths": [],

@@ -18,7 +18,7 @@
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "showFileNameInFileLink": false,
-    "randomizeCardOrder": false,
+    "randomizeCardOrder": true,
     "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
@@ -50,7 +50,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-02-05",
+  "buryDate": "2023-02-06",
   "buryList": [],
   "historyDeck": "economy"
 }

@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Externalités",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gravitational Force, Field, and Orbits",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -62,10 +74,30 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Externalité de la production.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "16e1f06afb894c45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -201,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -243,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -353,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -408,6 +441,8 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
+    "Externalités.md",
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "_physics.md",
     "Velocite.md",
     "_economy.md",
@@ -415,8 +450,6 @@
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "Installation d'un système.md",
     "Chapitre 2 - System design basics.md",
-    "Chapitre 1 - Le CPU et ses éléments.md",
-    "Représentation de données.md",
-    "Energie discrete et Radioactivité.md"
+    "Chapitre 1 - Le CPU et ses éléments.md"
   ]
 }
