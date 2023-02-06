@@ -11,8 +11,20 @@
             "id": "fcdd79211ce8a8fe",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Chapitre 6 - Elasticités de l'offre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 6 - Elasticités de l'offre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -96,11 +108,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -386,7 +402,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -439,8 +455,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcdd79211ce8a8fe",
+  "active": "16e1f06afb894c45",
   "lastOpenFiles": [
+    "Externalité de la production.md",
+    "Chapitre 6 - Elasticités de l'offre.md",
     "Externalités.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "_physics.md",
@@ -448,8 +466,6 @@
     "_economy.md",
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
-    "Installation d'un système.md",
-    "Chapitre 2 - System design basics.md",
-    "Chapitre 1 - Le CPU et ses éléments.md"
+    "Installation d'un système.md"
   ]
 }
