@@ -11,8 +11,14 @@
             "id": "fcdd79211ce8a8fe",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prestation gouvernementale directe",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prestation gouvernementale directe.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -220,7 +226,7 @@
             }
           },
           {
-            "id": "5ac906ef2155b011",
+            "id": "1b40f2de6383dc73",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -234,37 +240,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interdire ou réglementer le bien.md",
+                "file": "Publicité négative.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c66fbaa5ee6f88d0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalités.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -439,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Publicité négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Publicité négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la consommation.md"
+                "file": "Publicité négative.md"
               }
             }
           },
@@ -566,7 +550,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Publicité négative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -619,17 +603,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1623ade4d4310f3",
+  "active": "1b40f2de6383dc73",
   "lastOpenFiles": [
-    "assets/Externalité de la consommation/image-20230207162635418.png",
     "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207162635418.png",
+    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
     "Interdire ou réglementer le bien.md",
     "Externalités.md",
-    "template/economy template.md",
     "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203083115173.png",
-    "assets/Externalité de la production/image-20230203093001379.png",
+    "Prestation gouvernementale directe.md",
+    "Subventionner les entreprises.md",
     "Permis d'émission négociables.md",
-    "Impôts indirects.md"
+    "Législation.md"
   ]
 }

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Publicité négative",
+      "path": "Publicité négative.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Imposer une taxe indirecte sur le bien (pigouvienne)",
+      "path": "Imposer une taxe indirecte sur le bien (pigouvienne).md"
     },
     {
       "basename": "Interdire ou réglementer le bien",
@@ -13,16 +21,32 @@
       "path": "Externalités.md"
     },
     {
-      "basename": "economy template",
-      "path": "template/economy template.md"
-    },
-    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
     {
+      "basename": "Prestation gouvernementale directe",
+      "path": "Prestation gouvernementale directe.md"
+    },
+    {
+      "basename": "Subventionner les entreprises",
+      "path": "Subventionner les entreprises.md"
+    },
+    {
+      "basename": "Législation",
+      "path": "Législation.md"
+    },
+    {
+      "basename": "Imposer une taxe carbone aux entreprises polluantes",
+      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
+    },
+    {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
     },
     {
       "basename": "_economy",
@@ -37,20 +61,8 @@
       "path": "_physics.md"
     },
     {
-      "basename": "Subventionner les entreprises",
-      "path": "Subventionner les entreprises.md"
-    },
-    {
       "basename": "Permis d'émission négociables",
       "path": "Permis d'émission négociables.md"
-    },
-    {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
-      "basename": "Imposer une taxe carbone aux entreprises polluantes",
-      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     },
     {
       "basename": "Chapitre 1 - La Demande",
@@ -187,18 +199,6 @@
     {
       "basename": "Chapitre 5 - Elasticités de la demande",
       "path": "Chapitre 5 - Elasticités de la demande.md"
-    },
-    {
-      "basename": "Chapitre 2 - L'approvisionnement (L'offre)",
-      "path": "Chapitre 2 - L'approvisionnement (L'offre).md"
-    },
-    {
-      "basename": "MOC",
-      "path": "template/MOC.md"
-    },
-    {
-      "basename": "english template",
-      "path": "template/english template.md"
     }
   ],
   "omittedPaths": [],

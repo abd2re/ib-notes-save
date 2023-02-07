@@ -9,7 +9,7 @@ Created: 2023-02-03
 - Une intervention extrême pourrait également consister à interdire complétement les entreprises polluantes.
 <!--SR:!2023-02-08,3,250-->
 
-**Problèmes avec cette solution :**
+**Problèmes avec cette solution (3) :**
 ?
 - L'interdiction ou la restriction peut conduire au chômage dans l'industrie correspondante, car des emplois seraient perdus si des entreprises étaient fermées ou si le marché était réduit.
 - L'interdiction d'une entreprise créerait la non-consommation du bien qui était produit, qui pourrait être un bien nécessaire ou souhaitable pour les consommateurs.

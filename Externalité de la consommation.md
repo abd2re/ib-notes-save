@@ -16,8 +16,8 @@ Les externalités négatives de consommation se produisent lorsque la consommati
 Réponses possibles du gouvernement (3):
 ?
 -   [[Interdire ou réglementer le bien]]
--   Imposer une taxe indirecte sur le bien
--   Publicité négative
+-   [[Imposer une taxe indirecte sur le bien (pigouvienne)]]
+-   [[Publicité négative]]
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
