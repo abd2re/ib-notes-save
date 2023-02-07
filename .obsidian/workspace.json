@@ -145,14 +145,14 @@
               "type": "markdown",
               "state": {
                 "file": "Energie discrete et Radioactivité.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -327,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -454,7 +454,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -507,17 +507,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6b88392fc529b85",
+  "active": "77bbacb59e4ba073",
   "lastOpenFiles": [
-    "Energie discrete et Radioactivité.md",
-    "_physics.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+    "Energie discrete et Radioactivité.md",
+    "Untitled 8.md",
+    "assets/Energie discrete et Radioactivité/image-20230207084226517.png",
+    "exercises/physics/theme 5/Cells & Internal Resistance.md",
+    "_physics.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
     "TP_physique1.md",
-    "Externalité de la production.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "_english.md"
+    "Externalité de la production.md"
   ]
 }

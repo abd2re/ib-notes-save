@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Cells & Internal Resistance",
-      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+    },
+    {
+      "basename": "Untitled 8",
+      "path": "Untitled 8.md"
+    },
+    {
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -195,10 +199,6 @@
     {
       "basename": "Mémoire Secondaire",
       "path": "Mémoire Secondaire.md"
-    },
-    {
-      "basename": "Logiciels de traitement graphique",
-      "path": "Logiciels de traitement graphique.md"
     }
   ],
   "omittedPaths": [],
