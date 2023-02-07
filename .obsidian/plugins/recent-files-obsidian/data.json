@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "TED TALK",
       "path": "TED TALK.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",

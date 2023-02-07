@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.618665421769915}"
+                },
+                {
+                  "title": "TED TALK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TED TALK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":34},\"to\":{\"line\":11,\"ch\":3}},\"scroll\":11.273169026662007}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -116,13 +128,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TED TALK.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -300,7 +307,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TED TALK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +332,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TED TALK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,9 +371,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TED TALK.md"
-              }
+              "state": {}
             }
           },
           {
@@ -427,7 +430,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TED TALK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -482,15 +484,15 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "assets/TED TALK/image-20230207114931206.png",
+    "_economy.md",
+    "Externalité de la production.md",
     "TED TALK.md",
+    "assets/TED TALK/image-20230207114931206.png",
     "assets/TED TALK/image-20230207113036760.png",
     "_english.md",
     "pdf/correction lampe spectre lumiere.pdf",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
-    "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png"
+    "Tension ou différence de potentiel électrique.md"
   ]
 }
