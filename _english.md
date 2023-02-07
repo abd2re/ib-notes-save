@@ -35,5 +35,5 @@ tags: [M]
 
 ## TED TALK
 **Economic inequality and unemployment**
-- Case study: US 2008 Financial Crisis
+- Case study: post-2008 Financial Crisis America
 - Solution: Reforms
