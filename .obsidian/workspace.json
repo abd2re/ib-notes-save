@@ -213,8 +213,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -389,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +414,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -456,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirects.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -516,7 +515,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -569,15 +568,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1623ade4d4310f3",
+  "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
+    "Impôts indirects.md",
     "_economy.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Subventions.md",
     "Elasticité prix croisée.md",
     "Revenu total des entreprises.md",
     "Formule de l'élasticité prix demande.md",
-    "Impôts indirects.md",
     "Contrôles des prix plafonds.md",
     "Role du gouvernement en micro-économie.md",
     "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
