@@ -38,4 +38,5 @@ tags: [M]
 - Case study: post-2008 America
 
 1. What happened in 2008 ?
-2. How did that affect the American population ()
+2. How did that affect the American population ?
+3. Who are
