@@ -27,5 +27,5 @@ Il y a deux types d'externalité:
 
 ---
 
-- Lorsque l'externalité est produite du côté de la **demande** du marché, alors : **CMS ≠ MPB** .
-- Lorsque l'externalité est produite du côté de l'**offre** du marché, alors : **BMS ≠ BMP** .
+- Lorsque l'externalité est produite du côté de la **demande** du marché, alors : **BMS ≠ BMP** .
+- Lorsque l'externalité est produite du côté de l'**offre** du marché, alors : **CMS ≠ CMP** .

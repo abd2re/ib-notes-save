@@ -5,8 +5,16 @@
       "path": "Externalité de la consommation.md"
     },
     {
+      "basename": "Interdire ou réglementer le bien",
+      "path": "Interdire ou réglementer le bien.md"
+    },
+    {
       "basename": "Externalités",
       "path": "Externalités.md"
+    },
+    {
+      "basename": "economy template",
+      "path": "template/economy template.md"
     },
     {
       "basename": "Externalité de la production",
@@ -191,14 +199,6 @@
     {
       "basename": "english template",
       "path": "template/english template.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
     }
   ],
   "omittedPaths": [],
