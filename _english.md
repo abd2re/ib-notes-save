@@ -39,4 +39,6 @@ tags: [M]
 
 1. What happened in 2008 ?
 2. How did that affect the American population ?
-3. Who are
+3. How did it start the biggest wealth transfer
+4. Have things changed ?
+5. How can we avoid something like this in the future (solutions) ?
