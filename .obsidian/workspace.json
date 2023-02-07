@@ -109,6 +109,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cells & Internal Resistance",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Circuits & Kirchoff's Laws",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
@@ -117,9 +123,9 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+                "file": "pdf/correction lampe spectre lumiere.pdf"
               }
             }
           },
@@ -134,6 +140,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.982655426844808}"
+                },
+                {
+                  "title": "correction lampe spectre lumiere",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"pdf/correction lampe spectre lumiere.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Energie discrete et Radioactivité",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":35.955921069995775}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -144,7 +168,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Externalité de la production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "pdf/correction lampe spectre lumiere.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "pdf/correction lampe spectre lumiere.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete et Radioactivité.md"
+                "file": "pdf/correction lampe spectre lumiere.pdf"
               }
             }
           },
@@ -454,7 +478,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "pdf/correction lampe spectre lumiere.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -507,17 +531,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77bbacb59e4ba073",
+  "active": "a6b88392fc529b85",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
-    "Energie discrete et Radioactivité.md",
-    "Untitled 8.md",
-    "assets/Energie discrete et Radioactivité/image-20230207084226517.png",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "_physics.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
-    "TP_physique1.md",
-    "Externalité de la production.md"
+    "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203093001379.png",
+    "Loi de la demande.md",
+    "_economy.md",
+    "pdf/correction lampe spectre lumiere.pdf",
+    "Energie discrete et Radioactivité.md",
+    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+    "Untitled 8.md",
+    "assets/Energie discrete et Radioactivité/image-20230207084226517.png"
   ]
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "correction lampe spectre lumiere",
+      "path": "pdf/correction lampe spectre lumiere.pdf"
+    },
+    {
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    },
+    {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
@@ -13,20 +29,12 @@
       "path": "Untitled 8.md"
     },
     {
-      "basename": "Cells & Internal Resistance",
-      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
     },
     {
       "basename": "Gravitational Force, Field, and Orbits",
@@ -43,10 +51,6 @@
     {
       "basename": "Externalités",
       "path": "Externalités.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_computer science",
@@ -195,10 +199,6 @@
     {
       "basename": "CPU",
       "path": "CPU.md"
-    },
-    {
-      "basename": "Mémoire Secondaire",
-      "path": "Mémoire Secondaire.md"
     }
   ],
   "omittedPaths": [],
