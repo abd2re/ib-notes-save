@@ -122,8 +122,37 @@
                 "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
               }
             }
+          },
+          {
+            "id": "77bbacb59e4ba073",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.706912209296316}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energie discrete et Radioactivité.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
               }
             }
           },
@@ -425,7 +454,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -478,17 +507,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcdd79211ce8a8fe",
+  "active": "a6b88392fc529b85",
   "lastOpenFiles": [
     "Energie discrete et Radioactivité.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "_physics.md",
+    "exercises/physics/theme 5/Cells & Internal Resistance.md",
+    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
     "TP_physique1.md",
     "Externalité de la production.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "_english.md",
-    "assets/Gravitational Force, Field, and Orbits/Pasted Image 20230202182809_228.png"
+    "_english.md"
   ]
 }
