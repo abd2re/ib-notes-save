@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Logiciels de traitement graphique",
       "path": "Logiciels de traitement graphique.md"
-    },
-    {
-      "basename": "Integration testing",
-      "path": "Integration testing.md"
     }
   ],
   "omittedPaths": [],

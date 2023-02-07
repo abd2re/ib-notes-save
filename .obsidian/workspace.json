@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Energie discrete et Radioactivité",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.21261297335124}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -86,12 +92,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
               }
             }
           },
@@ -295,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete et Radioactivité.md"
+                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
               }
             }
           },
@@ -422,7 +425,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -477,9 +480,9 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
+    "Energie discrete et Radioactivité.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "Energie discrete et Radioactivité.md",
     "_physics.md",
     "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
     "TP_physique1.md",
