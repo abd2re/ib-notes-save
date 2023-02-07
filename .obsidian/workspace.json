@@ -160,6 +160,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1623ade4d4310f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -518,8 +535,8 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "Externalité de la consommation.md",
     "_economy.md",
+    "Externalité de la consommation.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Externalités.md",
     "Externalité de la production.md",
