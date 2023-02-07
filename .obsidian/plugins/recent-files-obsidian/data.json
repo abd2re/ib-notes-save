@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Externalités",
+      "path": "Externalités.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "Imposer une taxe carbone aux entreprises polluantes",
       "path": "Imposer une taxe carbone aux entreprises polluantes.md"
-    },
-    {
-      "basename": "Externalités",
-      "path": "Externalités.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Chapitre 1 - La Demande",
@@ -195,10 +199,6 @@
     {
       "basename": "computer science template",
       "path": "template/computer science template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     }
   ],
   "omittedPaths": [],

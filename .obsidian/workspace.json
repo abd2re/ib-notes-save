@@ -11,29 +11,17 @@
             "id": "fcdd79211ce8a8fe",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Externalité de la production",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":33.759098786828424}"
-                },
-                {
-                  "title": "Externalités",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":20.648733413751508}"
                 },
                 {
                   "title": "Graph view",
@@ -166,7 +154,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prestation gouvernementale directe.md",
+                "file": "_economy.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -348,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prestation gouvernementale directe.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +362,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prestation gouvernementale directe.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -415,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prestation gouvernementale directe.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -475,7 +463,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prestation gouvernementale directe.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -530,15 +518,15 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
+    "Externalité de la consommation.md",
+    "_economy.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Externalités.md",
     "Externalité de la production.md",
-    "Subventionner les entreprises.md",
     "Prestation gouvernementale directe.md",
+    "Subventionner les entreprises.md",
     "Permis d'émission négociables.md",
     "Législation.md",
-    "assets/Externalité de la production/image-20230203083115173.png",
-    "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Externalités.md",
-    "Externalité de la consommation.md",
-    "_economy.md"
+    "assets/Externalité de la production/image-20230203083115173.png"
   ]
 }
