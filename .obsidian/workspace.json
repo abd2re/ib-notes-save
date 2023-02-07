@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":15.221092368382852}"
+                },
+                {
                   "title": "Circuits & Kirchoff's Laws",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
@@ -112,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
+                "file": "TED TALK.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -294,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "TED TALK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "TED TALK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "TED TALK.md"
               }
             }
           },
@@ -421,7 +427,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "TED TALK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -476,8 +482,8 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "pdf/correction lampe spectre lumiere.pdf",
     "_english.md",
+    "pdf/correction lampe spectre lumiere.pdf",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "Tension ou différence de potentiel électrique.md",

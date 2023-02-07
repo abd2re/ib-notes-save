@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TED TALK",
+      "path": "TED TALK.md"
+    },
+    {
       "basename": "_english",
       "path": "_english.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cycle Fetch-Execute",
       "path": "Cycle Fetch-Execute.md"
-    },
-    {
-      "basename": "Untitled 6",
-      "path": "Untitled 6.md"
     }
   ],
   "omittedPaths": [],
