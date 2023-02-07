@@ -24,3 +24,8 @@ Il y a deux types d'externalité:
 <!--SR:!2023-02-08,3,250-->
 - BMS:: Bénéfice marginal social
 <!--SR:!2023-02-08,3,250-->
+
+---
+
+- Lorsque l'externalité est produite du côté de la **demande** du marché, alors : **CMS ≠ MPB** .
+- Lorsque l'externalité est produite du côté de l'**offre** du marché, alors : **BMS ≠ BMP** .

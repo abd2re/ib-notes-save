@@ -190,6 +190,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Impôts indirects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":1},\"to\":{\"line\":20,\"ch\":1}},\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -206,14 +212,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Externalité de la consommation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c66fbaa5ee6f88d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalités.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,7 +417,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalité de la consommation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalité de la consommation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -455,7 +484,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "Externalité de la consommation.md"
               }
             }
           },
@@ -515,7 +544,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalité de la consommation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -568,17 +597,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcdd79211ce8a8fe",
+  "active": "f1623ade4d4310f3",
   "lastOpenFiles": [
+    "Externalités.md",
+    "Externalité de la consommation.md",
+    "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "assets/Externalité de la production/image-20230203093001379.png",
+    "Permis d'émission négociables.md",
     "Impôts indirects.md",
     "_economy.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Subventions.md",
-    "Elasticité prix croisée.md",
-    "Revenu total des entreprises.md",
-    "Formule de l'élasticité prix demande.md",
-    "Contrôles des prix plafonds.md",
-    "Role du gouvernement en micro-économie.md",
-    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
+    "Subventions.md"
   ]
 }
