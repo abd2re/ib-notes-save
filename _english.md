@@ -35,5 +35,7 @@ tags: [M]
 
 ## TED TALK
 **Economic inequality and unemployment**
-- Case study: post-2008 Financial Crisis America
-- Solution: Reforms
+- Case study: post-2008 America
+
+1. What happened in 2008 ?
+2. How did that affect the American population ()

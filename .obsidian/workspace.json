@@ -118,37 +118,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6b88392fc529b85",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cells & Internal Resistance",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Circuits & Kirchoff's Laws",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
-              }
-            }
           }
         ]
       }
@@ -507,15 +476,15 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "pdf/correction lampe spectre lumiere.pdf",
+    "_english.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "Tension ou différence de potentiel électrique.md",
     "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
     "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png",
     "_physics.md",
     "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203093001379.png",
-    "Loi de la demande.md"
+    "assets/Externalité de la production/image-20230203093001379.png"
   ]
 }
