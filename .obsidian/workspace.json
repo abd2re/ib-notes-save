@@ -219,7 +219,7 @@
               "type": "markdown",
               "state": {
                 "file": "Externalité de la consommation.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -423,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publicité négative.md",
+                "file": "Externalité de la consommation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publicité négative.md",
+                "file": "Externalité de la consommation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -490,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publicité négative.md"
+                "file": "Externalité de la consommation.md"
               }
             }
           },
@@ -550,7 +550,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publicité négative.md",
+                "file": "Externalité de la consommation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -603,17 +603,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b40f2de6383dc73",
+  "active": "f1623ade4d4310f3",
   "lastOpenFiles": [
-    "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207162635418.png",
-    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
-    "Interdire ou réglementer le bien.md",
-    "Externalités.md",
+    "Externalité de la consommation.md",
     "Externalité de la production.md",
-    "Prestation gouvernementale directe.md",
-    "Subventionner les entreprises.md",
-    "Permis d'émission négociables.md",
-    "Législation.md"
+    "assets/Externalité de la production/image-20230203093001379.png",
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "Interdire ou réglementer le bien.md",
+    "Publicité négative.md",
+    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+    "Externalités.md",
+    "Prestation gouvernementale directe.md"
   ]
 }
