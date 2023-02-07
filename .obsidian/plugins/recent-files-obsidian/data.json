@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
+      "basename": "main_image_star-forming_region_carina_nircam_final-1280",
+      "path": "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
+    },
+    {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
     },
     {
       "basename": "Externalités",
       "path": "Externalités.md"
     },
     {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
     },
     {
       "basename": "Subventionner les entreprises",
@@ -195,10 +199,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
     }
   ],
   "omittedPaths": [],

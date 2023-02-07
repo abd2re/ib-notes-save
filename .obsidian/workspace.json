@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Externalités",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.28952380952381}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -154,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Externalité de la production.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -170,15 +188,33 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":43},\"to\":{\"line\":18,\"ch\":43}},\"scroll\":19.434399864567464}"
+                },
+                {
+                  "title": "main_image_star-forming_region_carina_nircam_final-1280",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Subventions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Subventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +415,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Subventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -420,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Subventions.md"
               }
             }
           },
@@ -480,7 +516,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Subventions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -533,17 +569,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcdd79211ce8a8fe",
+  "active": "f1623ade4d4310f3",
   "lastOpenFiles": [
     "_economy.md",
-    "Chapitre 6 - Elasticités de l'offre.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Elasticité prix croisée.md",
+    "Revenu total des entreprises.md",
+    "Formule de l'élasticité prix demande.md",
+    "Impôts indirects.md",
+    "Contrôles des prix plafonds.md",
     "Role du gouvernement en micro-économie.md",
-    "Chapitre 5 - Elasticités de la demande.md",
-    "Chapitre 1 - La Demande.md",
-    "Externalité de la consommation.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Externalités.md",
-    "Externalité de la production.md"
+    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg",
+    "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203093001379.png"
   ]
 }
