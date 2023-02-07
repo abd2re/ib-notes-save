@@ -47,7 +47,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 <!--SR:!2023-02-24,38,222-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
-<!--SR:!2023-02-06,34,242-->
+<!--SR:!2023-04-29,82,242-->
 
 ## Utilisation des appareils de mesure
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
@@ -70,11 +70,11 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2023-02-06,29,240-->
+<!--SR:!2023-04-17,70,240-->
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2023-02-06,8,263-->
+<!--SR:!2023-02-27,21,263-->
 
 <!--SR:!2023-02-03,9,198-->
 

@@ -8,7 +8,7 @@ Created: 2022-10-17
  2. Diacope :: is the repetition of a phrase after an intervening word or phrase. Such as "free at last, free at last; thank God almighty, free at last"
 <!--SR:!2023-02-07,69,250-->
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 
-<!--SR:!2023-02-06,69,250-->
+<!--SR:!2023-08-03,178,250-->
  4. Chiasmus :: is the inversion of parts of sentences in sequence. Such as "fair is fool and fool is fair" 
 <!--SR:!2023-02-08,3,251-->
 

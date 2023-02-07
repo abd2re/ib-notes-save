@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie discrete et Radioactivité",
+      "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Externalités",
       "path": "Externalités.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_economy",
@@ -187,18 +199,6 @@
     {
       "basename": "Integration testing",
       "path": "Integration testing.md"
-    },
-    {
-      "basename": "Documentation Marketing",
-      "path": "Documentation Marketing.md"
-    },
-    {
-      "basename": "Software-as-a-Service (SaaS)",
-      "path": "Software-as-a-Service (SaaS).md"
-    },
-    {
-      "basename": "Documentation de l'Utilisateur final",
-      "path": "Documentation de l'Utilisateur final.md"
     }
   ],
   "omittedPaths": [],
