@@ -193,8 +193,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -369,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +394,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -436,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
               }
             }
           },
@@ -496,7 +495,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -549,10 +548,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6b88392fc529b85",
+  "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "pdf/correction lampe spectre lumiere.pdf",
+    "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "Tension ou différence de potentiel électrique.md",
     "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
     "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png",
