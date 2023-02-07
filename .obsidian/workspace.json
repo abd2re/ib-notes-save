@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Externalité de la production",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":8.838461538461539}"
+                },
+                {
+                  "title": "Externalités",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -154,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalités.md",
+                "file": "Législation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -336,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalités.md",
+                "file": "Législation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalités.md",
+                "file": "Législation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalités.md"
+                "file": "Législation.md"
               }
             }
           },
@@ -463,7 +475,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalités.md",
+                "file": "Législation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -519,14 +531,14 @@
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
     "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
     "Externalités.md",
     "Externalité de la consommation.md",
     "_economy.md",
     "Chapitre 1 - La Demande.md",
     "Chapitre 5 - Elasticités de la demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "TED TALK.md",
-    "assets/TED TALK/image-20230207114931206.png",
-    "assets/TED TALK/image-20230207113036760.png"
+    "TED TALK.md"
   ]
 }
