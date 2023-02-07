@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "Demande",
       "path": "Demande.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
     },
     {
       "basename": "Subventions",

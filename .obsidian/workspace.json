@@ -193,7 +193,7 @@
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":43},\"to\":{\"line\":18,\"ch\":43}},\"scroll\":19.434399864567464}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":43},\"to\":{\"line\":18,\"ch\":43}},\"scroll\":20.303900281463612}"
                 },
                 {
                   "title": "main_image_star-forming_region_carina_nircam_final-1280",
@@ -206,7 +206,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
+                "file": "Impôts indirects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -389,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -456,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "Impôts indirects.md"
               }
             }
           },
@@ -516,7 +516,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subventions.md",
+                "file": "Impôts indirects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -572,14 +572,14 @@
   "active": "f1623ade4d4310f3",
   "lastOpenFiles": [
     "_economy.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Subventions.md",
     "Elasticité prix croisée.md",
     "Revenu total des entreprises.md",
     "Formule de l'élasticité prix demande.md",
     "Impôts indirects.md",
     "Contrôles des prix plafonds.md",
     "Role du gouvernement en micro-économie.md",
-    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg",
-    "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203093001379.png"
+    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
   ]
 }
