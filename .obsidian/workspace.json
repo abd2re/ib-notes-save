@@ -21,7 +21,7 @@
                   "title": "Externalité de la production",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":8.838461538461539}"
+                  "eState": "{\"scroll\":33.759098786828424}"
                 },
                 {
                   "title": "Externalités",
@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Législation.md",
+                "file": "Prestation gouvernementale directe.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Législation.md",
+                "file": "Prestation gouvernementale directe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Législation.md",
+                "file": "Prestation gouvernementale directe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -415,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Législation.md"
+                "file": "Prestation gouvernementale directe.md"
               }
             }
           },
@@ -475,7 +475,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Législation.md",
+                "file": "Prestation gouvernementale directe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -531,14 +531,14 @@
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
     "Externalité de la production.md",
+    "Subventionner les entreprises.md",
+    "Prestation gouvernementale directe.md",
+    "Permis d'émission négociables.md",
+    "Législation.md",
     "assets/Externalité de la production/image-20230203083115173.png",
     "Imposer une taxe carbone aux entreprises polluantes.md",
     "Externalités.md",
     "Externalité de la consommation.md",
-    "_economy.md",
-    "Chapitre 1 - La Demande.md",
-    "Chapitre 5 - Elasticités de la demande.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "TED TALK.md"
+    "_economy.md"
   ]
 }

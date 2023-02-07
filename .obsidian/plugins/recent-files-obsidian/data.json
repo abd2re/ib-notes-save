@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Subventionner les entreprises",
+      "path": "Subventionner les entreprises.md"
+    },
+    {
+      "basename": "Permis d'émission négociables",
+      "path": "Permis d'émission négociables.md"
+    },
+    {
+      "basename": "Législation",
+      "path": "Législation.md"
     },
     {
       "basename": "Imposer une taxe carbone aux entreprises polluantes",
@@ -191,14 +199,6 @@
     {
       "basename": "economy template",
       "path": "template/economy template.md"
-    },
-    {
-      "basename": "Système informatique",
-      "path": "Système informatique.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
     }
   ],
   "omittedPaths": [],
