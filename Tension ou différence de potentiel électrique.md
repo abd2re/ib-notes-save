@@ -22,3 +22,7 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 <!--SR:!2023-02-26,41,216-->
 - La tension aux bornes de dipoles en série est égale a la somme des tensions au niveau de chaque dipole
 <!--SR:!2022-12-17,8,250-->
+
+---
+- Un électronvolt est:: l'énergie cinétique acquise par un électron accéléré pas un potentiel de $1V$
+- eV =:: $1.6\cdot 10^{-19}$ 

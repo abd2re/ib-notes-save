@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
     },
     {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
     },
     {
       "basename": "correction lampe spectre lumiere",
       "path": "pdf/correction lampe spectre lumiere.pdf"
     },
     {
-      "basename": "Cells & Internal Resistance",
-      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+      "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
     },
     {
       "basename": "_economy",
@@ -27,10 +35,6 @@
     {
       "basename": "Untitled 8",
       "path": "Untitled 8.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 6",
       "path": "Untitled 6.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "CPU.md"
     }
   ],
   "omittedPaths": [],

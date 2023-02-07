@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Drawing 2023-02-07 08.27.26.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Energie discrete et Radioactivité",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -94,7 +100,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
               }
             }
           },
@@ -140,6 +146,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.55231305061596}"
+                },
+                {
+                  "title": "Externalité de la production",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":48.07256684531466}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -168,8 +186,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la production.md",
-                "mode": "source",
+                "file": "Tension ou différence de potentiel électrique.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -350,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +394,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
               }
             }
           },
@@ -477,7 +495,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -532,15 +550,15 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "Externalité de la production.md",
+    "Tension ou différence de potentiel électrique.md",
     "pdf/correction lampe spectre lumiere.pdf",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
+    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
+    "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png",
+    "_physics.md",
+    "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203093001379.png",
     "Loi de la demande.md",
-    "_economy.md",
-    "Energie discrete et Radioactivité.md",
-    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
-    "Untitled 8.md",
-    "assets/Energie discrete et Radioactivité/image-20230207084226517.png"
+    "_economy.md"
   ]
 }
