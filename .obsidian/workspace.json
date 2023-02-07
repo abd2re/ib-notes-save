@@ -20,6 +20,30 @@
                 {
                   "title": "_economy",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.648733413751508}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":14.84611719866603}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.618665421769915}"
                 },
@@ -128,8 +152,13 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Externalités.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -307,6 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Externalités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +362,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Externalités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -371,7 +402,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Externalités.md"
+              }
             }
           },
           {
@@ -430,6 +463,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Externalités.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -484,15 +518,15 @@
   },
   "active": "fcdd79211ce8a8fe",
   "lastOpenFiles": [
-    "_economy.md",
     "Externalité de la production.md",
+    "Externalités.md",
+    "Externalité de la consommation.md",
+    "_economy.md",
+    "Chapitre 1 - La Demande.md",
+    "Chapitre 5 - Elasticités de la demande.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "TED TALK.md",
     "assets/TED TALK/image-20230207114931206.png",
-    "assets/TED TALK/image-20230207113036760.png",
-    "_english.md",
-    "pdf/correction lampe spectre lumiere.pdf",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "Tension ou différence de potentiel électrique.md"
+    "assets/TED TALK/image-20230207113036760.png"
   ]
 }

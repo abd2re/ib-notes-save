@@ -35,11 +35,11 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - La quantité d'équilibre=>::Augmente
 <!--SR:!2023-02-23,18,250-->
 - Le prix final pour les producteurs=>::Augmente
-<!--SR:!2023-02-07,9,250-->
+<!--SR:!2023-03-02,23,250-->
 - Le revenu total des producteurs=>::Augmente
 <!--SR:!2023-02-08,10,250-->
 - Les dépenses totales des consommateurs=>::Dépend du (PED)
-<!--SR:!2023-02-07,2,170-->
+<!--SR:!2023-02-08,1,150-->
 - Recettes du gouvernement=>::Diminue
 <!--SR:!2023-02-25,19,250-->
 - Bien-être social=>::Diminue
