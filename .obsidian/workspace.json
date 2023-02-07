@@ -14,14 +14,20 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Prestation gouvernementale directe",
+                  "title": "Prestation gouvernementale directe (Bénéfice)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prestation gouvernementale directe.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prestation gouvernementale directe (Bénéfice).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":156},\"to\":{\"line\":13,\"ch\":156}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Externalité de la production",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":26.383292383292382}"
                 },
                 {
                   "title": "Externalités",
@@ -178,7 +184,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalité de la consommation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -186,47 +192,7 @@
             }
           },
           {
-            "id": "f1623ade4d4310f3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Impôts indirects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":1},\"to\":{\"line\":20,\"ch\":1}},\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":43},\"to\":{\"line\":18,\"ch\":43}},\"scroll\":20.303900281463612}"
-                },
-                {
-                  "title": "main_image_star-forming_region_carina_nircam_final-1280",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalité de la consommation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b40f2de6383dc73",
+            "id": "6f6885e0c3494fe9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -240,7 +206,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publicité négative.md",
+                "file": "Législation pour rendre la consommation obligatoire.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -423,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Législation pour rendre la consommation obligatoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +415,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Législation pour rendre la consommation obligatoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -490,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la consommation.md"
+                "file": "Législation pour rendre la consommation obligatoire.md"
               }
             }
           },
@@ -550,7 +516,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Législation pour rendre la consommation obligatoire.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -603,17 +569,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1623ade4d4310f3",
+  "active": "6f6885e0c3494fe9",
   "lastOpenFiles": [
-    "assets/Externalité de la consommation/image-20230207162635418.png",
     "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165514044.png",
+    "Publicité positive.md",
+    "Prestation gouvernementale directe (Bénéfice).md",
+    "Subventionner les entreprises (Bénéfice).md",
+    "assets/Externalité de la consommation/image-20230207165457620.png",
+    "Prestation gouvernementale directe (Cout).md",
     "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203093001379.png",
-    "assets/Externalité de la production/image-20230203083115173.png",
-    "Interdire ou réglementer le bien.md",
-    "Publicité négative.md",
-    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
-    "Externalités.md",
-    "Prestation gouvernementale directe.md"
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "assets/Externalité de la production/image-20230203083115173.png"
   ]
 }

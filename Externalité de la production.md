@@ -40,8 +40,8 @@ lorsque le processus de production d'un bien ou d'un *service* génère un effet
 
 Réponses possibles du gouvernement(2):
 ?
-- [[Subventionner les entreprises]]
-- [[Prestation gouvernementale directe]]
+- [[Subventionner les entreprises (Cout)]]
+- [[Prestation gouvernementale directe (Cout)]]
 <!--SR:!2023-02-08,2,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:

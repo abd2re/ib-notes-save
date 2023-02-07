@@ -21,8 +21,7 @@ Réponses possibles du gouvernement (3):
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
-![[image-20230207162635418.png|450]]
-
+![[image-20230207165457620.png|500]]
 
 ## Externalité positive de la consommation
 Définition et graphe:
@@ -30,4 +29,17 @@ Définition et graphe:
 Lorsque la consommation d'un bien ou d'un service génère un effet **positif** sur un **tiers** ou sur la **société** dans son ensemble, on dit qu'il y a une externalité positive de la consommation. C'est le cas des biens méritoires et de tout autre bien ou service qui a un effet secondaire positif sur les tiers lors de sa consommation.
 
 - Lorsque une  externalité positive de la consommation se produit, **le bénéfice social marginal de la consommation (MSB) est supérieur au bénéfice privé marginal (MPB)** , car la demande du bien ou du service ne prend pas en considération les effets externes positifs qu'il a sur la société dans son ensemble, mais seulement les bénéfices pour le particulier qui le consomme.
+
+Réponses possibles du gouvernement (4):
+?
+-   [[Subventionner les entreprises (Bénéfice)]]
+-   [[Prestation gouvernementale directe (Bénéfice)]]
+-   [[Publicité positive]]
+-   [[Législation pour rendre la consommation obligatoire]]
+
+Effets des réponses possibles du gouvernement sur la courbe BMP:
+?
+![[image-20230207165514044.png]]
+
+
 
