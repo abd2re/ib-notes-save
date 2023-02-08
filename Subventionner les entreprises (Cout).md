@@ -12,4 +12,4 @@ Le gouvernement pourrait accorder des subventions aux entreprises qui assurent l
 ?
 - Il est très difficile pour le gouvernement d'estimer le niveau de subvention que mérite chaque entreprise.
 - Chaque subvention utilise des fonds publics et a donc un coût d'opportunité ; le gouvernement devrait réduire d'autres dépenses qui pourraient être importantes, comme les soins de santé.
-<!--SR:!2023-02-08,3,250-->
+<!--SR:!2023-02-19,11,270-->
