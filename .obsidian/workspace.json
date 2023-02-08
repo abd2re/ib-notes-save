@@ -29,8 +29,31 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c78219f8c1c57f58",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_TOK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +294,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_TOK.md"
+              }
             }
           },
           {
@@ -328,6 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -380,7 +408,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d45a0da945d4fd9",
+  "active": "c78219f8c1c57f58",
   "lastOpenFiles": [
     "_economy.md",
     "Déterminants hors-prix de l'offre.md",
