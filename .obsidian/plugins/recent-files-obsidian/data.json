@@ -5,6 +5,10 @@
       "path": "Externalité de la consommation.md"
     },
     {
+      "basename": "Publicité négative",
+      "path": "Publicité négative.md"
+    },
+    {
       "basename": "Législation pour rendre la consommation obligatoire",
       "path": "Législation pour rendre la consommation obligatoire.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "image-20230207165514044",
       "path": "assets/Externalité de la consommation/image-20230207165514044.png"
-    },
-    {
-      "basename": "Publicité négative",
-      "path": "Publicité négative.md"
     },
     {
       "basename": "Imposer une taxe indirecte sur le bien (pigouvienne)",
