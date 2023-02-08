@@ -1,3 +1,10 @@
+---
+tags: [TOK] 
+---
+Created: 2023-02-08
+
+# Human Sciences
+
 1) List as many features as you can that distinguish human beings from other animals
 2) Compare your list with a partner, Can you agree on these features ? Why? Why not?
 3) As a class, discuss: what are the difficulties with defining the "unique" features of various animals and humans ? How far can we know that particular human characteristics  are distinctive or unique ?
