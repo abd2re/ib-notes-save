@@ -31,7 +31,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2023-02-11,34,246-->
 
 - $U=e$ si:: $I=0$
-<!--SR:!2023-02-08,32,246-->
+<!--SR:!2023-04-25,76,246-->
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
 <!--SR:!2023-02-20,38,246-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)

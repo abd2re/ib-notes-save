@@ -31,6 +31,9 @@ Effets des réponses possibles du gouvernement sur la courbe BMP:
 Définition et graphe:
 ?
 Lorsque la consommation d'un bien ou d'un service génère un effet **positif** sur un **tiers** ou sur la **société** dans son ensemble, on dit qu'il y a une externalité positive de la consommation. C'est le cas des biens méritoires et de tout autre bien ou service qui a un effet secondaire positif sur les tiers lors de sa consommation.
+![[image-20230208084954664.png]]
+<!--SR:!2023-02-10,2,245-->
+
 
 - Lorsque une  externalité positive de la consommation se produit, **le bénéfice social marginal de la consommation (MSB) est supérieur au bénéfice privé marginal (MPB)** , car la demande du bien ou du service ne prend pas en considération les effets externes positifs qu'il a sur la société dans son ensemble, mais seulement les bénéfices pour le particulier qui le consomme.
 

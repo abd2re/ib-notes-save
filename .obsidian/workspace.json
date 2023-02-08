@@ -192,6 +192,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "b3d160d1e110702f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db1a5563fd5dd88",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Externalité de la consommation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -546,17 +574,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcdd79211ce8a8fe",
+  "active": "9db1a5563fd5dd88",
   "lastOpenFiles": [
-    "assets/Externalité de la consommation/image-20230207161324381.png",
+    "assets/Externalité de la consommation/image-20230208084954664.png",
     "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165457620.png",
+    "assets/Externalité de la consommation/image-20230207161324381.png",
     "Publicité négative.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
-    "assets/Externalité de la consommation/image-20230207165457620.png",
     "Législation pour rendre la consommation obligatoire.md",
     "Publicité positive.md",
     "Prestation gouvernementale directe (Bénéfice).md",
-    "Subventionner les entreprises (Bénéfice).md",
-    "Prestation gouvernementale directe (Cout).md"
+    "Subventionner les entreprises (Bénéfice).md"
   ]
 }
