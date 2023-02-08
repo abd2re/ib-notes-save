@@ -16,6 +16,10 @@ Our observations are linked to our senses. Our brain interprets and makes sense 
 **The observer effect**
 In human and natural sciences there are number of factors that affect us when we are making observations 
 
-*o* 
+
+1) Think of examples of when your observations have been accurate and when they have let you down. When can we trust our observations ?
+2) To what extent can we ever know how people behave and think when they are not being watched or observed ?
+
+
 
 
