@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db1a5563fd5dd88",
+            "id": "2d45a0da945d4fd9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,51 +18,16 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_TOK",
+                  "title": "_economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_french B",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "EE template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/EE template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "math template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/math template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Drawing 2023-02-08 08.59.29.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Externalité de la consommation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":29.256606664113367}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":21.28952380952381}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_economy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -240,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,9 +269,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_economy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -367,7 +328,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -420,17 +380,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9db1a5563fd5dd88",
+  "active": "2d45a0da945d4fd9",
   "lastOpenFiles": [
-    "_TOK.md",
+    "_economy.md",
+    "Déterminants hors-prix de l'offre.md",
+    "Chapitre 1 - La Demande.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Chapitre 6 - Elasticités de l'offre.md",
+    "Déterminants prix de l'offre.md",
     "_french B.md",
-    "template/EE template.md",
-    "template/math template.md",
-    "Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md",
-    "Externalité de la consommation.md",
-    "assets/Externalité de la consommation/image-20230208084954664.png",
-    "assets/Externalité de la consommation/image-20230207165457620.png",
-    "assets/Externalité de la consommation/image-20230207161324381.png",
-    "Publicité négative.md"
+    "_TOK.md"
   ]
 }
