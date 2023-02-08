@@ -21,7 +21,7 @@ D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant
 Inconvenient du modèle de Ruthford:
 ?
 Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau 
-<!--SR:!2023-02-07,1,170-->
+<!--SR:!2023-02-08,1,150-->
 
 - Composition du noyau:: Le noyau est constitué de particules appelées "nucléons" qui sont des protons et des neutrons. Le nombre total de nucléons d'un noyau est noté $A$ et appelé "nombre de masse". Le nombre total de protons d'un noyau est noté $Z$, on l'appelle numéro atomique ou nombre de charges.![[image-20230201143053776.png|475]]
 <!--SR:!2023-02-14,9,250-->
@@ -31,6 +31,7 @@ Toute particule électrisée animé d'un mouvement circulaire devrait perdre de 
 ### Interaction forte 
 ?
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porter de l'orde des taille des noyau $10^{-15}m$.
+<!--SR:!2023-02-08,1,214-->
 
 ## Niveau d'énergie atomique et transformation d'énergie au sain des atomes
 ![[image-20230207084226517.png]]
@@ -42,6 +43,8 @@ $$f=\frac{c}{\lambda}$$
 $$E=\frac{hc}{\lambda}$$
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
+<!--SR:!2023-02-08,1,214-->
 - Une lumière monochromatique est constitué:: **d'une seul $\lambda$**
+<!--SR:!2023-02-08,1,214-->
 
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.

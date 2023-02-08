@@ -6,7 +6,7 @@ Created: 2022-12-06
 # Tension ou différence de potentiel électrique
 ?
 La tension électrique s'exprime en volt et on l'a mesure a l'aide d'un voltmètre branché en dérivation avec le dipole dont on veut connaître la tension. La tension exprime la difference d'état électrique entre deux points d'un circuit. 
-<!--SR:!2023-02-07,29,190-->
+<!--SR:!2023-04-07,59,190-->
 
 Le potentiel électrique en un point est:: égale a l'énergie potentiel électrique par unité de charge. ([[Champ électrique]])
 <!--SR:!2023-02-12,10,246-->
@@ -25,4 +25,6 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 
 ---
 - Un électronvolt est:: l'énergie cinétique acquise par un électron accéléré pas un potentiel de $1V$
+<!--SR:!2023-02-08,1,221-->
 - eV =:: $1.6\cdot 10^{-19}$ 
+<!--SR:!2023-02-08,1,221-->
