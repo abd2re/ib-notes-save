@@ -5,6 +5,10 @@
       "path": "Human Sciences.md"
     },
     {
+      "basename": "Untitled 9",
+      "path": "Untitled 9.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Computer Science IA",
       "path": "Computer Science IA.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de l'offre",
-      "path": "Déterminants de l'élasticité-prix de l'offre.md"
     }
   ],
   "omittedPaths": [],
