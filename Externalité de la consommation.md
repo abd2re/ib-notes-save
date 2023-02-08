@@ -20,6 +20,7 @@ Réponses possibles du gouvernement (3):
 -   [[Interdire ou réglementer le bien]]
 -   [[Imposer une taxe indirecte sur le bien (pigouvienne)]]
 -   [[Publicité négative]]
+<!--SR:!2023-02-09,1,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
@@ -39,10 +40,12 @@ Réponses possibles du gouvernement (4):
 -   [[Prestation gouvernementale directe (Bénéfice)]]
 -   [[Publicité positive]]
 -   [[Législation pour rendre la consommation obligatoire]]
+<!--SR:!2023-02-09,1,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
 ![[image-20230207165514044.png]]
+<!--SR:!2023-02-11,3,250-->
 
 
 
