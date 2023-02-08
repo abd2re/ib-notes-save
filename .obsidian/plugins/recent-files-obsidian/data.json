@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "EE template",
+      "path": "template/EE template.md"
+    },
+    {
+      "basename": "math template",
+      "path": "template/math template.md"
+    },
+    {
+      "basename": "Drawing 2023-02-08 08.59.29.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
@@ -67,10 +91,6 @@
     {
       "basename": "economy template",
       "path": "template/economy template.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "main_image_star-forming_region_carina_nircam_final-1280",
@@ -179,26 +199,6 @@
     {
       "basename": "Elasticités de l'offre",
       "path": "Elasticités de l'offre.md"
-    },
-    {
-      "basename": "Mobilité (flexibilité) et coût des facteurs de production",
-      "path": "Mobilité (flexibilité) et coût des facteurs de production.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     }
   ],
   "omittedPaths": [],
