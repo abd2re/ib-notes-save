@@ -9,6 +9,10 @@
       "path": "_TOK.md"
     },
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "correction lampe spectre lumiere",
       "path": "pdf/correction lampe spectre lumiere.pdf"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Cells & Internal Resistance",

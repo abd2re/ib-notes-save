@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Human Sciences",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Human Sciences.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":221},\"to\":{\"line\":10,\"ch\":221}},\"scroll\":0}"
+                },
+                {
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -26,16 +32,42 @@
               ]
             },
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+              }
+            }
+          },
+          {
+            "id": "464435ddc9d16a00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.506127450980392}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Human Sciences.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,9 +422,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7084de83db9b89f5",
+  "active": "464435ddc9d16a00",
   "lastOpenFiles": [
     "_TOK.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Human Sciences.md",
     "_economy.md",
     "Déterminants hors-prix de l'offre.md",
@@ -400,7 +433,6 @@
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 7 - Role du gouvernement en micro-économie.md",
-    "Chapitre 6 - Elasticités de l'offre.md",
-    "Déterminants prix de l'offre.md"
+    "Chapitre 6 - Elasticités de l'offre.md"
   ]
 }
