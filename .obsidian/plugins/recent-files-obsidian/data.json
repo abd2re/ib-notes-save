@@ -5,6 +5,10 @@
       "path": "_TOK.md"
     },
     {
+      "basename": "Human Sciences",
+      "path": "Human Sciences.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Déterminants de l'élasticité-prix de l'offre",
       "path": "Déterminants de l'élasticité-prix de l'offre.md"
-    },
-    {
-      "basename": "Elasticités de l'offre",
-      "path": "Elasticités de l'offre.md"
     }
   ],
   "omittedPaths": [],

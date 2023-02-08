@@ -17,7 +17,7 @@ How do we know ?
 - [[History]]
 - Mathematics
 - [[Natural Sciences]]
-- Human Sciences
+- [[Human Sciences]]
 - Arts
 ## Part 4: Assessments
 ### [[TOK Exhibition]]
