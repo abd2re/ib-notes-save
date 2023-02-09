@@ -99,7 +99,7 @@
               "type": "markdown",
               "state": {
                 "file": "TED TALK.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -464,15 +464,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "assets/TED TALK/image-20230207114931206.png",
+    "assets/TED TALK/image-20230207113222278.png",
     "TED TALK.md",
+    "assets/TED TALK/image-20230207114931206.png",
     "_english.md",
     "Impôts indirects.md",
     "assets/Impôts indirects/image-20230118083024563.png",
     "assets/Impôts indirects/image-20230117160216475.png",
     "Conséquences possibles de l'imposition d'un prix plafond.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
   ]
 }
