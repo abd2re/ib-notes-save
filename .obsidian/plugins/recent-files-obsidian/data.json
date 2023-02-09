@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_Radioactiviteword",
+      "path": "pdf/_Radioactiviteword.pdf"
+    },
+    {
+      "basename": "correction lampe spectre lumiere",
+      "path": "pdf/correction lampe spectre lumiere.pdf"
+    },
+    {
       "basename": "Influencer le niveau de production",
       "path": "Influencer le niveau de production.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
-    },
-    {
-      "basename": "correction lampe spectre lumiere",
-      "path": "pdf/correction lampe spectre lumiere.pdf"
     },
     {
       "basename": "_physics",
@@ -195,10 +199,6 @@
     {
       "basename": "Produits connexes",
       "path": "Produits connexes.md"
-    },
-    {
-      "basename": "Elasticité prix croisée",
-      "path": "Elasticité prix croisée.md"
     }
   ],
   "omittedPaths": [],
