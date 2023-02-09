@@ -76,6 +76,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.203809523809525}"
+                },
+                {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -110,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Impôts indirects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -294,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la consommation.md"
+                "file": "Impôts indirects.md"
               }
             }
           },
@@ -421,7 +433,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Impôts indirects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -476,15 +488,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "TED TALK.md",
-    "assets/TED TALK/image-20230207113222278.png",
-    "assets/TED TALK/image-20230207114931206.png",
-    "_english.md",
+    "_economy.md",
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
     "Impôts indirects.md",
-    "assets/Impôts indirects/image-20230118083024563.png",
-    "assets/Impôts indirects/image-20230117160216475.png",
-    "Conséquences possibles de l'imposition d'un prix plafond.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    "Contrôles des prix plafonds.md",
+    "assets/Contrôles des prix planchers/image-20230117132748916.png",
+    "Contrôles des prix planchers.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "Conséquences possibles de l'imposition d'un prix plafond.md",
+    "Subventions.md"
   ]
 }

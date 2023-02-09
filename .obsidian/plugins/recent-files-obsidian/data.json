@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
+      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Role du gouvernement en micro-économie",
+      "path": "Role du gouvernement en micro-économie.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
     },
     {
       "basename": "Conséquences possibles de l'imposition d'un prix plafond",
@@ -59,10 +71,6 @@
     {
       "basename": "Revenu total des entreprises",
       "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
@@ -191,14 +199,6 @@
     {
       "basename": "Chapitre 6 - Elasticités de l'offre",
       "path": "Chapitre 6 - Elasticités de l'offre.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Chapitre 1 - Les systèmes dans les organisations",
-      "path": "Chapitre 1 - Les systèmes dans les organisations.md"
     }
   ],
   "omittedPaths": [],
