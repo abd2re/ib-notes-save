@@ -69,17 +69,17 @@
             "id": "7c7be44bd932e58c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Impôts indirects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.847222222222222}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":20.203809523809525}"
                 },
                 {
                   "title": "Externalité de la consommation",
@@ -122,8 +122,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impôts indirects.md",
-                "mode": "source",
+                "file": "_economy.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirects.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -433,7 +433,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -488,15 +488,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
     "Impôts indirects.md",
+    "assets/Impôts indirects/image-20230117160216475.png",
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Subventions.md",
+    "assets/Subventions/image-20230124133701027.png",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "Contrôles des prix plafonds.md",
-    "assets/Contrôles des prix planchers/image-20230117132748916.png",
-    "Contrôles des prix planchers.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Conséquences possibles de l'imposition d'un prix plafond.md",
-    "Subventions.md"
+    "assets/Contrôles des prix planchers/image-20230117132748916.png"
   ]
 }
