@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34a7df39a9013568",
+        "id": "8f43298c642252e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f885ec3a441f3679",
+            "id": "b18be8628df8de98",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,36 +20,11 @@
               ]
             },
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/_Radioactiviteword.pdf"
-              }
-            }
-          },
-          {
-            "id": "a33247d75cf79bf3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,9 +263,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -351,7 +322,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -404,9 +374,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a33247d75cf79bf3",
+  "active": "b18be8628df8de98",
   "lastOpenFiles": [
     "pdf/_Radioactiviteword.pdf",
+    "Untitled 10.md",
     "pdf/correction lampe spectre lumiere.pdf",
     "Influencer le niveau de production.md",
     "Revenu total des entreprises.md",
@@ -414,7 +385,6 @@
     "Energie discrete et Radioactivité.md",
     "assets/Energie discrete et Radioactivité/image-20230207084226517.png",
     "_physics.md",
-    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+    "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
   ]
 }
