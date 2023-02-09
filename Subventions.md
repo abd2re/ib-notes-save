@@ -6,7 +6,7 @@ Created: 2023-01-24
 # Subventions
 ?
 Les subventions sont des paiements unitaires qui sont utilisés pour réduire les coûts de production et augmenter la production du marché.
-<!--SR:!2023-02-09,4,230-->
+<!--SR:!2023-02-19,10,230-->
 
 Les objectifs des subventions pour le gouvernement sont généralement :
 ?

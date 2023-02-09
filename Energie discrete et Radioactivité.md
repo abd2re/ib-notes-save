@@ -46,9 +46,9 @@ $$f=\frac{c}{\lambda}$$
 $$E=\frac{hc}{\lambda}$$
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
-<!--SR:!2023-02-09,1,194-->
+<!--SR:!2023-02-11,2,194-->
 - Une lumière monochromatique est constitué:: **d'une seul $\lambda$**
-<!--SR:!2023-02-09,1,194-->
+<!--SR:!2023-02-11,2,194-->
 
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.
 
