@@ -69,17 +69,17 @@
             "id": "7c7be44bd932e58c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Impôts indirects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.847222222222222}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":21.28952380952381}"
                 },
                 {
                   "title": "Externalité de la consommation",
@@ -120,12 +120,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "_economy.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md"
               }
             }
           }
@@ -263,8 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -306,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +369,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md"
               }
             }
           },
@@ -433,7 +429,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -488,8 +484,8 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Impôts indirects.md",
     "assets/Impôts indirects/image-20230117160216475.png",
     "Chapitre 7 - Role du gouvernement en micro-économie.md",
