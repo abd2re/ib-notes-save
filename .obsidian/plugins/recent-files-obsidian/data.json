@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TED TALK",
+      "path": "TED TALK.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
       "basename": "Conséquences possibles de l'imposition d'un prix plafond",
       "path": "Conséquences possibles de l'imposition d'un prix plafond.md"
     },
@@ -15,18 +27,6 @@
     {
       "basename": "Cells & Internal Resistance",
       "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "TED TALK",
-      "path": "TED TALK.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",

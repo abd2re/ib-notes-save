@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Conséquences possibles de l'imposition d'un prix plafond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plafond.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Conséquences possibles de l'imposition d'un prix plancher",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plancher.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
+                "file": "Impôts indirects.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -70,6 +76,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":18.11764705882353}"
+                },
+                {
+                  "title": "Impôts indirects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -80,14 +98,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "TED TALK.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
+                "file": "TED TALK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
+                "file": "TED TALK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conséquences possibles de l'imposition d'un prix plafond.md"
+                "file": "TED TALK.md"
               }
             }
           },
@@ -390,7 +409,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
+                "file": "TED TALK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -443,17 +462,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b18be8628df8de98",
+  "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
+    "assets/TED TALK/image-20230207114931206.png",
+    "TED TALK.md",
+    "_english.md",
+    "Impôts indirects.md",
+    "assets/Impôts indirects/image-20230118083024563.png",
+    "assets/Impôts indirects/image-20230117160216475.png",
+    "Conséquences possibles de l'imposition d'un prix plafond.md",
     "Conséquences possibles de l'imposition d'un prix plancher.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "Impôts indirects.md",
-    "TED TALK.md",
-    "assets/Impôts indirects/image-20230117160216475.png",
-    "assets/Impôts indirects/image-20230118083024563.png",
-    "_english.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "_physics.md"
+    "exercises/physics/theme 5/Cells & Internal Resistance.md"
   ]
 }
