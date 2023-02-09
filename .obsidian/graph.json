@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\" ",
+  "search": "-path:template -path:assets line:\"tags\"  tag:#economy OR tag:#MOC",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,7 +18,7 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 10724259
+        "rgb": 16711680
       }
     },
     {
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 0.8046875,
   "linkDistance": 234,
-  "scale": 0.33827184291077983,
+  "scale": 0.42675934479875755,
   "close": false
 }
