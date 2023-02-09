@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "correction lampe spectre lumiere",
+      "path": "pdf/correction lampe spectre lumiere.pdf"
+    },
+    {
+      "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-02-08 08.59.29.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Human Sciences",
       "path": "Human Sciences.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "_economy",
@@ -31,10 +51,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "Drawing 2023-02-08 08.59.29.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md"
     },
     {
       "basename": "Externalité de la consommation",
@@ -109,10 +125,6 @@
       "path": "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Permis d'émission négociables",
       "path": "Permis d'émission négociables.md"
     },
@@ -133,20 +145,12 @@
       "path": "_english.md"
     },
     {
-      "basename": "correction lampe spectre lumiere",
-      "path": "pdf/correction lampe spectre lumiere.pdf"
-    },
-    {
       "basename": "Cells & Internal Resistance",
       "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
     },
     {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "Drawing 2023-02-07 08.27.26.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
@@ -195,10 +199,6 @@
     {
       "basename": "Revenu total des entreprises",
       "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
     }
   ],
   "omittedPaths": [],
