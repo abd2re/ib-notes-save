@@ -53,5 +53,7 @@ $$E=\frac{hc}{\lambda}$$
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.
 
 ### Interprétation des spectres atomiques
-?
-Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. On doit
+Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. 
+- Les variations d'énergie des atomes sont quantifiés (sont des valeurs discrètes)
+- Les atomes ne peuvent exister que dans certains états d'énergie bien définis caractérisé par un niveau d'énergie
+- 
