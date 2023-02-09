@@ -43,7 +43,7 @@ Le courant électrique est:: un déplacement de charges.
 
 <!--SR:!2023-05-07,94,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.
-<!--SR:!2023-02-09,11,280-->
+<!--SR:!2023-03-12,31,280-->
 
 <!--SR:!2023-04-19,84,230-->
 

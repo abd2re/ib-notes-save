@@ -18,7 +18,7 @@ $$g=\frac{F_{g}}{m}=\frac{GM}{r^{2}}$$
 - $G$ = constante gravitationnelle
 - $M$ = masse qui exerce le champ
 - $r$ = distance
-<!--SR:!2023-02-09,15,250-->
+<!--SR:!2023-03-23,42,250-->
 
 Une masse $M$ distant de $r$ d'un point exerce un champ de gravitation $\vec{g}$ radiale et centipède dont l'intensité est $\frac{GM}{r^{2}}$. 
 

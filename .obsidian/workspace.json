@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cells & Internal Resistance",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Circuits & Kirchoff's Laws",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
@@ -34,35 +40,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-              }
-            }
-          },
-          {
-            "id": "b870765c0f350f2e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.988357843137255}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TED TALK.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -88,14 +66,13 @@
               "type": "markdown",
               "state": {
                 "file": "Impôts indirects.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -270,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirects.md"
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
               }
             }
           },
@@ -397,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -450,17 +428,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7c7be44bd932e58c",
+  "active": "b18be8628df8de98",
   "lastOpenFiles": [
-    "TED TALK.md",
-    "_english.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
+    "Impôts indirects.md",
+    "TED TALK.md",
+    "assets/Impôts indirects/image-20230117160216475.png",
+    "assets/Impôts indirects/image-20230118083024563.png",
+    "_english.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "_physics.md",
     "pdf/_Radioactiviteword.pdf",
-    "Untitled 10.md",
-    "pdf/correction lampe spectre lumiere.pdf",
-    "Influencer le niveau de production.md",
-    "Revenu total des entreprises.md"
+    "Untitled 10.md"
   ]
 }
