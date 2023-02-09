@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":30.941789215686274}"
+                },
+                {
+                  "title": "Drawing 2023-02-03 10.25.02.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Drawing 2023-02-07 08.27.26.excalidraw",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md\"}}",
@@ -50,57 +62,16 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "464435ddc9d16a00",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Energie discrete et Radioactivité",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":32.54117647058823}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.393939393939394}"
-                },
-                {
-                  "title": "Human Sciences",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Human Sciences.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.506127450980392}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
+                "file": "Energie discrete et Radioactivité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -402,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -455,17 +426,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "464435ddc9d16a00",
+  "active": "7084de83db9b89f5",
   "lastOpenFiles": [
+    "assets/Energie discrete et Radioactivité/image-20230207084226517.png",
+    "Energie discrete et Radioactivité.md",
+    "pdf/correction lampe spectre lumiere.pdf",
+    "_physics.md",
     "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
     "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
     "Excalidraw/Drawing 2023-02-08 08.59.29.excalidraw.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "pdf/correction lampe spectre lumiere.pdf",
-    "Energie discrete et Radioactivité.md",
-    "_physics.md",
     "Human Sciences.md",
-    "Untitled 9.md",
-    "_TOK.md"
+    "Untitled 9.md"
   ]
 }

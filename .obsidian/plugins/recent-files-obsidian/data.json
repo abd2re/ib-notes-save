@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie discrete et Radioactivité",
+      "path": "Energie discrete et Radioactivité.md"
+    },
+    {
       "basename": "correction lampe spectre lumiere",
       "path": "pdf/correction lampe spectre lumiere.pdf"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
@@ -19,10 +27,6 @@
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Human Sciences",
@@ -151,10 +155,6 @@
     {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
     },
     {
       "basename": "Untitled 8",

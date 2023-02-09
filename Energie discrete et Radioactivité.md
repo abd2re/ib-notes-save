@@ -34,6 +34,9 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 <!--SR:!2023-02-10,2,214-->
 
 ## Niveau d'énergie atomique et transformation d'énergie au sain des atomes
+
+voir [[correction lampe spectre lumiere.pdf]] (savoir spectre continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption)
+
 ![[image-20230207084226517.png]]
 
 $$E=hf$$
@@ -48,3 +51,7 @@ $$E=\frac{hc}{\lambda}$$
 <!--SR:!2023-02-09,1,194-->
 
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.
+
+### Interprétation des spectres atomiques
+?
+Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. On doit
