@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Conséquences possibles de l'imposition d'un prix plafond",
+      "path": "Conséquences possibles de l'imposition d'un prix plafond.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
+      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+    },
+    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Chapitre 1 - Les systèmes dans les organisations",
       "path": "Chapitre 1 - Les systèmes dans les organisations.md"
-    },
-    {
-      "basename": "Chapitre 1 - Le CPU et ses éléments",
-      "path": "Chapitre 1 - Le CPU et ses éléments.md"
-    },
-    {
-      "basename": "Chapitre 2 - System design basics",
-      "path": "Chapitre 2 - System design basics.md"
     }
   ],
   "omittedPaths": [],

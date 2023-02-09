@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Conséquences possibles de l'imposition d'un prix plancher",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plancher.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gravitational Force, Field, and Orbits",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Cells & Internal Resistance",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
@@ -38,9 +50,12 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -248,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+                "file": "Conséquences possibles de l'imposition d'un prix plafond.md"
               }
             }
           },
@@ -375,7 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+                "file": "Conséquences possibles de l'imposition d'un prix plafond.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,6 +445,8 @@
   },
   "active": "b18be8628df8de98",
   "lastOpenFiles": [
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "Impôts indirects.md",
     "TED TALK.md",
@@ -437,8 +454,6 @@
     "assets/Impôts indirects/image-20230118083024563.png",
     "_english.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "_physics.md",
-    "pdf/_Radioactiviteword.pdf",
-    "Untitled 10.md"
+    "_physics.md"
   ]
 }
