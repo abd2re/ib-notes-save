@@ -75,12 +75,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Impôts indirects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -259,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,6 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +336,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Impôts indirects.md"
+              }
             }
           },
           {
@@ -382,6 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Impôts indirects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
