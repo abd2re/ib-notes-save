@@ -61,3 +61,4 @@ Les spectres d'emission et d'absorption de raies est une preuve expérimentale d
 **Spectre de l'atome d'hydrogene**
 ![[image-20230209083914213.png|325]]
 
+## Désintégration radioactive

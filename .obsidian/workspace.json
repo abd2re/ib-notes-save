@@ -70,28 +70,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c8e6b299a1f33ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -393,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pdf/correction lampe spectre lumiere.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -446,11 +426,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c8e6b299a1f33ed",
+  "active": "7084de83db9b89f5",
   "lastOpenFiles": [
+    "pdf/correction lampe spectre lumiere.pdf",
     "Energie discrete et Radioactivité.md",
     "assets/Energie discrete et Radioactivité/image-20230207084226517.png",
-    "pdf/correction lampe spectre lumiere.pdf",
     "_physics.md",
     "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md",
     "Excalidraw/Drawing 2023-02-07 08.27.26.excalidraw.md",
