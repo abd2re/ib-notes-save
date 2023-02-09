@@ -62,4 +62,4 @@ Les spectres d'emission et d'absorption de raies est une preuve expérimentale d
 ![[image-20230209083914213.png|325]]
 
 ## Désintégration radioactive
-La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs, il a été découvert accidentellement par le Francais 
+La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs, il a été découvert accidentellement par le français Becquerel
