@@ -76,6 +76,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "TED TALK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TED TALK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -98,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Externalité de la consommation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -282,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Externalité de la consommation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Externalité de la consommation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TED TALK.md"
+                "file": "Externalité de la consommation.md"
               }
             }
           },
@@ -409,7 +421,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Externalité de la consommation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -464,8 +476,8 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "assets/TED TALK/image-20230207113222278.png",
     "TED TALK.md",
+    "assets/TED TALK/image-20230207113222278.png",
     "assets/TED TALK/image-20230207114931206.png",
     "_english.md",
     "Impôts indirects.md",
