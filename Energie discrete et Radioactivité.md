@@ -59,3 +59,5 @@ Les spectres d'emission et d'absorption de raies est une preuve expérimentale d
 - L'atome ne peut absorber ou émettre que des radiations lumineuses de fréquences données. En effet la lumière absorbé ou émise  est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie  qu'entre deux niveaux.
 
 **Spectre de l'atome d'hydrogene**
+![[image-20230209083914213.png|325]]
+
