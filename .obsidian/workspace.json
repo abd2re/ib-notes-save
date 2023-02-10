@@ -196,8 +196,8 @@
                 {
                   "title": "_economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.37731462598907}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":21.357567443987197}"
                 }
               ]
             },
@@ -205,7 +205,7 @@
               "type": "markdown",
               "state": {
                 "file": "Externalité de la consommation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -569,15 +569,15 @@
   },
   "active": "7f0f43d717a78e7b",
   "lastOpenFiles": [
-    "_economy.md",
-    "Externalité de la production.md",
-    "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
-    "Subventionner les entreprises (Bénéfice).md",
-    "Prestation gouvernementale directe (Bénéfice).md",
-    "assets/Externalité de la consommation/image-20230207165457620.png",
+    "Externalité de la consommation.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "_economy.md",
     "Chapitre 7 - Role du gouvernement en micro-économie.md",
-    "Contrôles des prix planchers.md"
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Elasticité prix croisée.md",
+    "Externalités.md",
+    "Externalité de la production.md",
+    "Subventionner les entreprises (Bénéfice).md"
   ]
 }

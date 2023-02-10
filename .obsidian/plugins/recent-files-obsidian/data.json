@@ -9,6 +9,14 @@
       "path": "_economy.md"
     },
     {
+      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
+      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+    },
+    {
+      "basename": "Externalités",
+      "path": "Externalités.md"
+    },
+    {
       "basename": "Subventionner les entreprises (Bénéfice)",
       "path": "Subventionner les entreprises (Bénéfice).md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
     },
     {
       "basename": "Solutions aux conséquences du contrôle des prix plafonds",
@@ -47,10 +51,6 @@
     {
       "basename": "Conséquences possibles de l'imposition d'un prix plafond",
       "path": "Conséquences possibles de l'imposition d'un prix plafond.md"
-    },
-    {
-      "basename": "Externalités",
-      "path": "Externalités.md"
     },
     {
       "basename": "Role du gouvernement en micro-économie",
