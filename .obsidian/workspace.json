@@ -69,10 +69,22 @@
             "id": "7c7be44bd932e58c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "Conséquences possibles de l'imposition d'un prix plafond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plafond.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drawing 2023-02-09 19.32.28.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md\"}}",
                   "eState": "{}"
                 },
                 {
@@ -120,9 +132,12 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md"
+                "file": "_economy.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -302,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -369,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -429,7 +444,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -484,15 +499,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "_economy.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Impôts indirects.md",
-    "assets/Impôts indirects/image-20230117160216475.png",
+    "Conséquences possibles de l'imposition d'un prix plafond.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
     "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "_economy.md",
     "Subventions.md",
     "assets/Subventions/image-20230124133701027.png",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Contrôles des prix plafonds.md",
-    "assets/Contrôles des prix planchers/image-20230117132748916.png"
+    "Impôts indirects.md",
+    "assets/Impôts indirects/image-20230118083024563.png",
+    "assets/Impôts indirects/image-20230117160216475.png"
   ]
 }
