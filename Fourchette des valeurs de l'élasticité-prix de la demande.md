@@ -28,4 +28,4 @@ Lorsque la valeur de l'élasticité-prix de la demande est nulle (PED = 0), on d
 ## Demande parfaitement élastique
 ?
 Lorsque la valeur de l'élasticité-prix de la demande est infinie (PED **=** ∞), on dit que la demande est parfaitement élastique. La demande des consommateurs est totalement sensible aux changements de prix.
-<!--SR:!2023-02-10,52,250-->
+<!--SR:!2023-06-19,129,250-->

@@ -24,5 +24,5 @@ Deux situations courantes où **contrôles des prix maximaux** sont utilisés po
 Figure de contrôles des prix maximaux:
 ?
 ![[Pourquoi les gouvernements interviennent-ils.png]]
-<!--SR:!2023-02-10,23,250-->
+<!--SR:!2023-04-12,61,250-->
 
