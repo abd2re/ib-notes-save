@@ -69,17 +69,17 @@
             "id": "7c7be44bd932e58c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Conséquences possibles de l'imposition d'un prix plafond",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plafond.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":19.929523809523808}"
                 },
                 {
                   "title": "Drawing 2023-02-09 19.32.28.excalidraw",
@@ -134,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Externalité de la consommation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Externalité de la consommation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Externalité de la consommation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -384,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Externalité de la consommation.md"
               }
             }
           },
@@ -444,7 +444,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Externalité de la consommation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -499,15 +499,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "Conséquences possibles de l'imposition d'un prix plafond.md",
-    "Solutions aux conséquences du contrôle des prix plafonds.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "assets/Externalité de la consommation/image-20230208084954664.png",
+    "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165457620.png",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
-    "Subventions.md",
-    "assets/Subventions/image-20230124133701027.png",
-    "Impôts indirects.md",
-    "assets/Impôts indirects/image-20230118083024563.png",
-    "assets/Impôts indirects/image-20230117160216475.png"
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Surplus social ou communautaire.md",
+    "Role du gouvernement en micro-économie.md",
+    "Corriger les défaillances du marché.md",
+    "Soutenir les ménages à faibles revenus.md"
   ]
 }
