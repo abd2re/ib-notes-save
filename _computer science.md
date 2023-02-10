@@ -11,6 +11,7 @@ retour [[__dashboard]]
 [[questions infos 1]]
 [[exercices info 2]]
 [[exercices info 3]]
+[[questions infos 2]]
 ### 0 [[Computer Science IA]]
 
 # Theme 1: Notion fondamental sur les systèmes

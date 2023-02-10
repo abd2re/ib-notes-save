@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "questions infos 2",
+      "path": "questions infos 2.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "questions infos 1",
+      "path": "questions infos 1.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Imposer une taxe indirecte sur le bien (pigouvienne)",
       "path": "Imposer une taxe indirecte sur le bien (pigouvienne).md"
-    },
-    {
-      "basename": "Interdire ou réglementer le bien",
-      "path": "Interdire ou réglementer le bien.md"
-    },
-    {
-      "basename": "Législation",
-      "path": "Législation.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     }
   ],
   "omittedPaths": [],
