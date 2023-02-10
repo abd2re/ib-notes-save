@@ -88,6 +88,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":29.896551724137932}"
+                },
+                {
                   "title": "Externalités",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -152,7 +158,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "Externalité de la production.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -517,14 +523,14 @@
   "active": "b18be8628df8de98",
   "lastOpenFiles": [
     "assets/Externalité de la consommation/image-20230207165457620.png",
-    "assets/Externalité de la consommation/image-20230207161324381.png",
     "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165514044.png",
     "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "assets/Externalité de la consommation/image-20230207161324381.png",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
     "Impôts indirects.md",
-    "assets/Impôts indirects/image-20230118083024563.png",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
-    "Subventions.md"
+    "assets/Impôts indirects/image-20230118083024563.png"
   ]
 }
