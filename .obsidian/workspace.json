@@ -11,11 +11,23 @@
             "id": "b18be8628df8de98",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":47.00666666666667}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":23.46808510638298}"
                 },
                 {
                   "title": "_economy",
@@ -70,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_economy.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -340,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -407,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la consommation.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -467,7 +479,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -522,15 +534,15 @@
   },
   "active": "b18be8628df8de98",
   "lastOpenFiles": [
-    "assets/Externalité de la consommation/image-20230207165457620.png",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
-    "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203083115173.png",
-    "assets/Externalité de la consommation/image-20230207161324381.png",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
-    "Impôts indirects.md",
-    "assets/Impôts indirects/image-20230118083024563.png"
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Conséquences possibles de l'imposition d'un prix plancher.md",
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "Solutions aux conséquences du contrôle des prix plafonds.md",
+    "Contrôles des prix planchers.md",
+    "assets/Externalité de la consommation/image-20230207165457620.png",
+    "Externalité de la production.md"
   ]
 }

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
+      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+    },
+    {
+      "basename": "Solutions aux conséquences du contrôle des prix plafonds",
+      "path": "Solutions aux conséquences du contrôle des prix plafonds.md"
+    },
+    {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
+      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
+      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
     },
     {
       "basename": "Externalité de la production",
@@ -11,10 +31,6 @@
     {
       "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
       "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Impôts indirects",
@@ -31,10 +47,6 @@
     {
       "basename": "Externalités",
       "path": "Externalités.md"
-    },
-    {
-      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
-      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
     },
     {
       "basename": "Role du gouvernement en micro-économie",
@@ -59,10 +71,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
     },
     {
       "basename": "Gravitational Force, Field, and Orbits",
@@ -191,14 +199,6 @@
     {
       "basename": "economy template",
       "path": "template/economy template.md"
-    },
-    {
-      "basename": "main_image_star-forming_region_carina_nircam_final-1280",
-      "path": "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
-    },
-    {
-      "basename": "Permis d'émission négociables",
-      "path": "Permis d'émission négociables.md"
     }
   ],
   "omittedPaths": [],
