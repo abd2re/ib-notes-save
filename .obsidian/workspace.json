@@ -182,49 +182,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f0f43d717a78e7b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Externalité de la consommation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.357567443987197}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "questions infos 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -399,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions infos 2.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions infos 2.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +426,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions infos 2.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -526,7 +486,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "questions infos 2.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -579,17 +539,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f0f43d717a78e7b",
+  "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "Externalité de la production.md",
+    "questions infos 2.md",
     "_computer science.md",
     "questions infos 1.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Elasticité prix croisée.md",
-    "Externalités.md"
+    "Chapitre 7 - Role du gouvernement en micro-économie.md"
   ]
 }
