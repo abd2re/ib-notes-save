@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
     {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
-      "basename": "Solutions aux conséquences du contrôle des prix plafonds",
-      "path": "Solutions aux conséquences du contrôle des prix plafonds.md"
+      "basename": "Subventionner les entreprises (Bénéfice)",
+      "path": "Subventionner les entreprises (Bénéfice).md"
     },
     {
       "basename": "Contrôles des prix planchers",
@@ -23,6 +19,18 @@
     {
       "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
       "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
+      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
+      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
+    },
+    {
+      "basename": "Solutions aux conséquences du contrôle des prix plafonds",
+      "path": "Solutions aux conséquences du contrôle des prix plafonds.md"
     },
     {
       "basename": "Externalité de la production",
@@ -35,10 +43,6 @@
     {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
     },
     {
       "basename": "Conséquences possibles de l'imposition d'un prix plafond",
@@ -163,10 +167,6 @@
     {
       "basename": "Prestation gouvernementale directe (Bénéfice)",
       "path": "Prestation gouvernementale directe (Bénéfice).md"
-    },
-    {
-      "basename": "Subventionner les entreprises (Bénéfice)",
-      "path": "Subventionner les entreprises (Bénéfice).md"
     },
     {
       "basename": "Prestation gouvernementale directe (Cout)",
