@@ -49,6 +49,6 @@ Les isolants ne conduisent pas l'électricité car:: les charges électriques y 
 
 ## Loi de la conservation de la charge électrique
 La charge électrique d'un système isolé est:: constante. 
-<!--SR:!2023-02-10,12,280-->
+<!--SR:!2023-03-17,35,280-->
 
 <!--SR:!2023-04-18,83,230-->
