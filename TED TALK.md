@@ -3,3 +3,4 @@ I graduated high school in 2007. I enrolled in a public university (an inexpensi
 
 
 
+- The mortgage crisis eroded the wealth of middle- and working- class families, who tend to invest most of their savings in housing
