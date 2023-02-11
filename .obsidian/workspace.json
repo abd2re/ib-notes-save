@@ -106,6 +106,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":19.094444444444445}"
+                },
+                {
+                  "title": "Loi de gravitation de Newton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de gravitation de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":8.26634382566586}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -188,8 +200,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de gravitation de Newton.md",
-                "mode": "preview",
+                "file": "TED TALK.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de gravitation de Newton.md",
+                "file": "TED TALK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -397,7 +409,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de gravitation de Newton.md",
+                "file": "TED TALK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de gravitation de Newton.md"
+                "file": "TED TALK.md"
               }
             }
           },
@@ -498,7 +510,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loi de gravitation de Newton.md",
+                "file": "TED TALK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -553,6 +565,8 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
+    "_english.md",
+    "Loi de gravitation de Newton.md",
     "_physics.md",
     "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203083115173.png",
@@ -560,8 +574,6 @@
     "questions infos 2.md",
     "_computer science.md",
     "questions infos 1.md",
-    "Externalité de la consommation.md",
-    "assets/Externalité de la consommation/image-20230207165514044.png",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
+    "Externalité de la consommation.md"
   ]
 }
