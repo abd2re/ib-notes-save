@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Photon Energy and the Planck Constant exercises",
-      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
-    },
-    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
+    },
+    {
+      "basename": "Photon Energy and the Planck Constant exercises",
+      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
     },
     {
       "basename": "Champ électrique",
@@ -195,10 +199,6 @@
     {
       "basename": "Imposer une taxe carbone aux entreprises polluantes",
       "path": "Imposer une taxe carbone aux entreprises polluantes.md"
-    },
-    {
-      "basename": "Subventionner les entreprises (Cout)",
-      "path": "Subventionner les entreprises (Cout).md"
     }
   ],
   "omittedPaths": [],
