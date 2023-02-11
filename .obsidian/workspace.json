@@ -109,7 +109,7 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.931034482758621}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.9739507959479}"
                 },
                 {
                   "title": "TED TALK",
@@ -212,7 +212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -395,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -421,7 +421,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ électrique.md"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -522,7 +522,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -578,6 +578,7 @@
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
     "_physics.md",
+    "Champ électrique.md",
     "TED TALK.md",
     "_english.md",
     "Loi de gravitation de Newton.md",
@@ -585,7 +586,6 @@
     "assets/Externalité de la production/image-20230203083115173.png",
     "assets/Externalité de la production/image-20230203093001379.png",
     "questions infos 2.md",
-    "_computer science.md",
-    "questions infos 1.md"
+    "_computer science.md"
   ]
 }
