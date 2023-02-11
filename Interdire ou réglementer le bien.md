@@ -6,7 +6,7 @@ Created: 2023-02-07
 # Interdire ou réglementer le bien
 ?
 Le gouvernement pourrait directement arrêter la consommation de biens en les rendant illégaux. Cela ferait complétement disparaître l'externalité, puisque le bien n'existerait plus sur le marché, à moins qu'un marché noir n'apparaisse (selon la nature du bien). Alternativement, le gouvernement pourrait réglementer la consommation du produit en introduisant une législation.
-<!--SR:!2023-02-11,3,250-->
+<!--SR:!2023-02-19,8,250-->
 
 **Problèmes avec cette solution (4) :**
 ?
