@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_Radioactiviteword",

@@ -106,6 +106,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":26.262295081967213}"
+                },
+                {
+                  "title": "Externalité de la production",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Externalité de la consommation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -176,7 +188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Loi de gravitation de Newton.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -359,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Loi de gravitation de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +397,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Loi de gravitation de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +438,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "Loi de gravitation de Newton.md"
               }
             }
           },
@@ -486,7 +498,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Loi de gravitation de Newton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -541,15 +553,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
-    "assets/Externalité de la production/image-20230203083115173.png",
+    "_physics.md",
     "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203083115173.png",
     "assets/Externalité de la production/image-20230203093001379.png",
     "questions infos 2.md",
     "_computer science.md",
     "questions infos 1.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "_economy.md"
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
   ]
 }
