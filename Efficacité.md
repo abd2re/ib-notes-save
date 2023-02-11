@@ -12,5 +12,5 @@ Les types d'efficacités sont
 ?
 - [[Efficacité productive]]
 - [[Efficacité allocative]]
-<!--SR:!2023-02-11,58,250-->
+<!--SR:!2023-07-06,145,250-->
 

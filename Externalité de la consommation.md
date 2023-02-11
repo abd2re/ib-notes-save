@@ -10,7 +10,7 @@ Définition et graphe:
 ?
 Les externalités négatives de consommation se produisent lorsque la consommation d'un bien par un *individu* génère un effet **négatif** sur des **tiers** qui n'ont pas été pris en compte dans la décision de consommer ce bien.
 ![[image-20230207161324381.png]]
-<!--SR:!2023-02-11,2,230-->
+<!--SR:!2023-02-17,6,230-->
 
 - Lorsque une externalité négative de la consommation se produit,:: le **bénéfice social marginal (MSB) est inférieur au bénéfice marginal privé (MPB)** , car le bénéfice de l'utilisation privée est diminué par l'impact négatif subi par le tiers.
 <!--SR:!2023-02-21,10,250-->
@@ -20,12 +20,12 @@ Réponses possibles du gouvernement (3):
 -   [[Interdire ou réglementer le bien]]
 -   [[Imposer une taxe indirecte sur le bien (pigouvienne)]]
 -   [[Publicité négative]]
-<!--SR:!2023-02-11,2,230-->
+<!--SR:!2023-02-16,5,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
 ![[image-20230207165457620.png|500]]
-<!--SR:!2023-02-11,3,250-->
+<!--SR:!2023-02-20,9,250-->
 
 ## Externalité positive de la consommation
 Définition et graphe:
@@ -48,7 +48,7 @@ Réponses possibles du gouvernement (4):
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
 ![[image-20230207165514044.png]]
-<!--SR:!2023-02-11,3,250-->
+<!--SR:!2023-02-19,8,250-->
 
 
 
