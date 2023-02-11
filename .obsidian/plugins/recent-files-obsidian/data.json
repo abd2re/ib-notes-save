@@ -5,20 +5,20 @@
       "path": "TED TALK.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Photon Energy and the Planck Constant exercises",
-      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
-    },
-    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Photon Energy and the Planck Constant exercises",
+      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
     },
     {
       "basename": "_physics",
