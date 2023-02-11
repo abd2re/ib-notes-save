@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "TED TALK",
       "path": "TED TALK.md"
     },
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Externalité de la production",
@@ -195,10 +199,6 @@
     {
       "basename": "image-20230207165514044",
       "path": "assets/Externalité de la consommation/image-20230207165514044.png"
-    },
-    {
-      "basename": "Imposer une taxe indirecte sur le bien (pigouvienne)",
-      "path": "Imposer une taxe indirecte sur le bien (pigouvienne).md"
     }
   ],
   "omittedPaths": [],

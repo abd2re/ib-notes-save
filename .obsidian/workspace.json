@@ -106,6 +106,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.931034482758621}"
+                },
+                {
+                  "title": "TED TALK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TED TALK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":259},\"to\":{\"line\":1,\"ch\":264}}}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -200,7 +212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -383,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +421,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TED TALK.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -510,7 +522,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TED TALK.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -565,15 +577,15 @@
   },
   "active": "7c7be44bd932e58c",
   "lastOpenFiles": [
+    "_physics.md",
+    "TED TALK.md",
     "_english.md",
     "Loi de gravitation de Newton.md",
-    "_physics.md",
     "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203083115173.png",
     "assets/Externalité de la production/image-20230203093001379.png",
     "questions infos 2.md",
     "_computer science.md",
-    "questions infos 1.md",
-    "Externalité de la consommation.md"
+    "questions infos 1.md"
   ]
 }
