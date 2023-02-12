@@ -5,6 +5,10 @@
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "TED TALK",
       "path": "TED TALK.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
     },
     {
       "basename": "_english",

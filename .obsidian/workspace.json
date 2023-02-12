@@ -4,99 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f43298c642252e2",
+        "id": "47941e9cd67041e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b18be8628df8de98",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Subventionner les entreprises (Bénéfice)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Subventionner les entreprises (Bénéfice).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.35390946502058}"
-                },
-                {
-                  "title": "Externalité de la consommation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":23.46808510638298}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.28952380952381}"
-                },
-                {
-                  "title": "Impôts indirects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":30.40549828178694}"
-                },
-                {
-                  "title": "Conséquences possibles de l'imposition d'un prix plafond",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plafond.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Conséquences possibles de l'imposition d'un prix plancher",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conséquences possibles de l'imposition d'un prix plancher.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Gravitational Force, Field, and Orbits",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cells & Internal Resistance",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Circuits & Kirchoff's Laws",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.266850490196077}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Externalité de la consommation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cce465331610945",
+            "id": "41e79958c898141e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -104,24 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Energie discrete et Radioactivité",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.9739507959479}"
-                },
-                {
-                  "title": "Tension ou différence de potentiel électrique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tension ou différence de potentiel électrique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":30},\"to\":{\"line\":28,\"ch\":30}},\"scroll\":20.314458863858963}"
                 }
               ]
             },
@@ -132,8 +26,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -488,17 +382,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cce465331610945",
+  "active": "41e79958c898141e",
   "lastOpenFiles": [
+    "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207161324381.png",
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Energie discrete et Radioactivité.md",
     "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md",
     "TED TALK.md",
-    "Externalité de la consommation.md",
     "_english.md",
     "Excalidraw/Photon Energy and the Planck Constant exercises.md",
     "_physics.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Champ électrique.md",
-    "Loi de gravitation de Newton.md"
+    "Tension ou différence de potentiel électrique.md"
   ]
 }
