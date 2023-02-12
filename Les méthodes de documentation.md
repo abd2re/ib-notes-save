@@ -10,7 +10,7 @@ La documentation utilisateur aide les utilisateurs de systèmes informatiques, q
 - S'adapter rapidement a un nouveau [[Système informatique|système]]
 - Une partie importante du génie logiciel
 - Plusieurs types de documentation
-<!--SR:!2023-02-12,77,230-->
+<!--SR:!2023-08-08,177,230-->
 
 5 types de documentation comprennent:
 ?
