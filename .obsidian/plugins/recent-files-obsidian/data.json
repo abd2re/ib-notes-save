@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Energie discrete et Radioactivité",
+      "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "Drawing 2023-02-12 15.34.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md"
+    },
+    {
       "basename": "TED TALK",
       "path": "TED TALK.md"
     },
     {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
-    },
-    {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
     },
     {
       "basename": "_english",
@@ -195,10 +199,6 @@
     {
       "basename": "Prestation gouvernementale directe (Cout)",
       "path": "Prestation gouvernementale directe (Cout).md"
-    },
-    {
-      "basename": "Imposer une taxe carbone aux entreprises polluantes",
-      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
     }
   ],
   "omittedPaths": [],
