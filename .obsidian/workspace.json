@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.9739507959479}"
+                },
+                {
+                  "title": "Photon Energy and the Planck Constant exercises",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Photon Energy and the Planck Constant exercises.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Energie discrete et Radioactivité",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -38,9 +50,12 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
+                "file": "Energie discrete et Radioactivité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -173,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Photon Energy and the Planck Constant exercises.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Photon Energy and the Planck Constant exercises.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -347,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Photon Energy and the Planck Constant exercises.md",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -400,8 +414,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3755b8e2fc39b97a",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
+    "_physics.md",
+    "Excalidraw/Photon Energy and the Planck Constant exercises.md",
     "Energie discrete et Radioactivité.md",
     "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203093001379.png",
@@ -409,8 +425,6 @@
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207161324381.png",
-    "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md",
-    "TED TALK.md",
-    "_english.md"
+    "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md"
   ]
 }
