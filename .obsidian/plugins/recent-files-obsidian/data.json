@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Atomic Spectra & Radioactivity",
+      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prestation gouvernementale directe (Bénéfice)",
       "path": "Prestation gouvernementale directe (Bénéfice).md"
-    },
-    {
-      "basename": "Prestation gouvernementale directe (Cout)",
-      "path": "Prestation gouvernementale directe (Cout).md"
     }
   ],
   "omittedPaths": [],
