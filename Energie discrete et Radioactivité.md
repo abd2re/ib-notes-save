@@ -26,7 +26,7 @@ Toute particule électrisée animé d'un mouvement circulaire devrait perdre de 
 - Composition du noyau:: Le noyau est constitué de particules appelées "nucléons" qui sont des protons et des neutrons. Le nombre total de nucléons d'un noyau est noté $A$ et appelé "nombre de masse". Le nombre total de protons d'un noyau est noté $Z$, on l'appelle numéro atomique ou nombre de charges.![[image-20230201143053776.png|475]]
 <!--SR:!2023-02-14,9,250-->
 - Des isotopes:: sont des atomes ou noyau ayant le même nombre de protons mais un nombre différent de neutrons (ou de nucléons). Ils ont les mêmes propriété chimiques mais des propriétés physiques différentes (ex: masse, la radioactivité).
-<!--SR:!2023-02-12,4,210-->
+<!--SR:!2023-02-22,10,210-->
 
 ### Interaction forte 
 ?
@@ -48,7 +48,7 @@ $$E=\frac{hc}{\lambda}$$
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
 <!--SR:!2023-02-15,4,194-->
 - Une lumière monochromatique est constitué:: **d'une seul $\lambda$**
-<!--SR:!2023-02-12,1,174-->
+<!--SR:!2023-02-14,2,174-->
 
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.
 

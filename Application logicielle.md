@@ -7,7 +7,7 @@ Created: 2023-01-19
 
 ## Hierarchies des logiciels
 Représentation::![[image-20230119184616503.png]]
-<!--SR:!2023-02-12,10,230-->
+<!--SR:!2023-02-18,6,210-->
 
 ## Les logiciels d'applications courants:
 Les différents types sont 7:
