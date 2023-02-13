@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_french B.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -157,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -200,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_french B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_french B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +270,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_french B.md"
+              }
             }
           },
           {
@@ -323,6 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_french B.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
