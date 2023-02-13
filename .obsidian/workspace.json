@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_french B",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_french B.md",
+                "file": "Externalité de la production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_french B.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_french B.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_french B.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -331,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_french B.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -386,15 +392,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
+    "assets/Externalité de la production/image-20230203093001379.png",
+    "Externalité de la production.md",
+    "_french B.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207161324381.png",
     "Energie discrete et Radioactivité.md",
     "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md",
     "TED TALK.md",
-    "_english.md",
-    "Excalidraw/Photon Energy and the Planck Constant exercises.md",
-    "_physics.md",
-    "Tension ou différence de potentiel électrique.md"
+    "_english.md"
   ]
 }

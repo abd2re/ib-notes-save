@@ -6,4 +6,4 @@ Created: 2022-10-11
 
 ?
 Un ordinateur ou un programme qui fournit des données ou des ressources à d'autres machines sur un réseau.
-<!--SR:!2023-02-13,78,250-->
+<!--SR:!2023-08-27,195,250-->
