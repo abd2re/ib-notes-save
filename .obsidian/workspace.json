@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41e79958c898141e",
+            "id": "3755b8e2fc39b97a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,8 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -202,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,9 +264,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-              }
+              "state": {}
             }
           },
           {
@@ -329,7 +323,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -382,11 +375,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "41e79958c898141e",
+  "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207161324381.png",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Energie discrete et Radioactivité.md",
     "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md",
     "TED TALK.md",
