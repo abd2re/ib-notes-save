@@ -11,17 +11,17 @@
             "id": "3755b8e2fc39b97a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Le modèle atomique de Rutherford",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Le modèle atomique de Rutherford.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":34},\"to\":{\"line\":5,\"ch\":34}},\"scroll\":21.098958333333332}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":32.7479674796748}"
                 },
                 {
                   "title": "_economy",
@@ -118,8 +118,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4bd735ba396393f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca0635e170b20d9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Energie discrete et Radioactivité.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -300,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +354,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +395,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie discrete et Radioactivité.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -427,7 +455,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie discrete et Radioactivité.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -482,15 +510,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "assets/Energie discrete et Radioactivité/image-20230209083914213.png",
     "Energie discrete et Radioactivité.md",
-    "assets/Energie discrete et Radioactivité/image-20230201135833164.png",
-    "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
     "_physics.md",
+    "Le modèle atomique de Rutherford.md",
+    "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
+    "assets/Energie discrete et Radioactivité/image-20230209083914213.png",
+    "assets/Energie discrete et Radioactivité/image-20230201135833164.png",
     "_economy.md",
     "Chapitre 3 - L'Equilibre du marché.md",
     "Analyzing speeches.md",
-    "pdf/_Radioactiviteword.pdf",
-    "_computer science.md"
+    "pdf/_Radioactiviteword.pdf"
   ]
 }

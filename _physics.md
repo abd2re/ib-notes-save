@@ -37,7 +37,7 @@ retour [[__dashboard]]
 
 # Theme 7: Physique nucléaire
 ## 1. Energie discrete et Radioactivité
-1. [[Energie discrete et Radioactivité]]
+1. [[Le modèle atomique de Rutherford]]
 2. 
 
 
@@ -47,3 +47,5 @@ retour [[__dashboard]]
 
 ---
 [[TP_physique1]]
+
+[[Energie discrete et Radioactivité]]

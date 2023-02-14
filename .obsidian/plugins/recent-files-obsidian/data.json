@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Le modèle atomique de Rutherford",
+      "path": "Le modèle atomique de Rutherford.md"
     },
     {
       "basename": "_economy",
@@ -195,10 +199,6 @@
     {
       "basename": "Publicité positive",
       "path": "Publicité positive.md"
-    },
-    {
-      "basename": "Prestation gouvernementale directe (Bénéfice)",
-      "path": "Prestation gouvernementale directe (Bénéfice).md"
     }
   ],
   "omittedPaths": [],
