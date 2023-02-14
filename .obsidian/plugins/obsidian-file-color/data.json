@@ -11,5 +11,10 @@
       "value": "#00ffe1"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "exercises",
+      "color": "E5LFEAM2fg7Cgetipe93m"
+    }
+  ]
 }
