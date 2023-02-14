@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Désintégration radioactive",
       "path": "Désintégration radioactive.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",

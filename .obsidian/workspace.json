@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.644261545496114}"
+                },
+                {
+                  "title": "Désintégration radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Désintégration radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":25.574468085106382}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -124,7 +136,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Externalité de la consommation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Externalité de la consommation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Externalité de la consommation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Désintégration radioactive.md"
+                "file": "Externalité de la consommation.md"
               }
             }
           },
@@ -433,7 +445,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Externalité de la consommation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -486,17 +498,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "assets/Désintégration radioactive/image-20230214115313454.png",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "_economy.md",
     "Désintégration radioactive.md",
+    "assets/Désintégration radioactive/image-20230214115313454.png",
     "Acceleration.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "_physics.md",
     "Loi de décroissance radioactive.md",
     "Energie discrete et Radioactivité.md",
-    "_math.md",
-    "_economy.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    "_math.md"
   ]
 }
