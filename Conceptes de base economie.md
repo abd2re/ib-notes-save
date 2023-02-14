@@ -1,8 +1,7 @@
 ---
 tags: [economy] 
-TARGET DECK: economy
 ---
-# Conceptes de base economie
+# Concepts de base économie
 Created: 2022-09-06
 
 - Choix
@@ -18,4 +17,6 @@ Created: 2022-09-06
 >[!Info]
 >Les besoins des individus sont :: illimités
 <!--SR:!2023-05-15,174,310-->
+
+Technique DDEEE en test=:: Définir, Diagramme, Explications, Exemple, Évaluation
 

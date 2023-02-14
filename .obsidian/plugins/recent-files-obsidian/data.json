@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
     },
     {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
@@ -23,10 +39,6 @@
     {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
@@ -47,10 +59,6 @@
     {
       "basename": "_Radioactiviteword",
       "path": "pdf/_Radioactiviteword.pdf"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -191,14 +199,6 @@
     {
       "basename": "Human Sciences",
       "path": "Human Sciences.md"
-    },
-    {
-      "basename": "Untitled 9",
-      "path": "Untitled 9.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
     }
   ],
   "omittedPaths": [],

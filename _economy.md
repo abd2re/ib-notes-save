@@ -8,7 +8,7 @@ banner_y: 1
 retour [[__dashboard]]
 
 ### Mot clés en économie
-[[Conceptes de base economie|Economics basic concepts]]
+[[Conceptes de base economie]]
 
 # Theme 1: Micro-économie
 *Problème 1*: Comment les producteurs et les consommateurs font-ils des choix pour tenter d'atteindre leurs objectifs économiques ?

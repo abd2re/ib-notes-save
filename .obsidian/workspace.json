@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__dashboard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.6494845360824743}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "__dashboard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.037800687285223}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Externalité de la consommation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la consommation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -136,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -318,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la consommation.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -445,7 +475,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la consommation.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -500,15 +530,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "_economy.md",
-    "Désintégration radioactive.md",
-    "assets/Désintégration radioactive/image-20230214115313454.png",
-    "Acceleration.md",
-    "assets/Désintégration radioactive/image-20230214112623193.png",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
+    "_computer science.md",
+    "Chapitre 2 - System design basics.md",
+    "Chapitre 1 - Le CPU et ses éléments.md",
+    "__dashboard.md",
+    "_english.md",
+    "_math.md",
     "_physics.md",
-    "Loi de décroissance radioactive.md",
-    "Energie discrete et Radioactivité.md",
-    "_math.md"
+    "_economy.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md"
   ]
 }
