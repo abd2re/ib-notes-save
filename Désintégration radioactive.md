@@ -14,10 +14,11 @@ Les 4 types de radioactivité sont:
 - Beta- ($\beta^-$)
 - Gamma ($\gamma$)
 
-La radioactivité alpha ($\alpha$)
-?
-Concerne les noyaux instables présentant un excès de nucléons. Il s'agit de noyaux « lourds », qui se désintègrent en un noyau plus léger et plus proche de la stabilité. 
-![[image-20230214112218334.png]]
 
-La
+Equations des 4 types de radioactivités:
+?
+![[image-20230214112623193.png]]
+
+
+
 
