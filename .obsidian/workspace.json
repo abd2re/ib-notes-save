@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.150462962962962}"
+                },
+                {
+                  "title": "_Radioactiviteword",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"pdf/_Radioactiviteword.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Energie discrete et Radioactivité",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -86,9 +98,12 @@
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/_Radioactiviteword.pdf"
+                "file": "Energie discrete et Radioactivité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -267,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/_Radioactiviteword.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/_Radioactiviteword.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/_Radioactiviteword.pdf"
+                "file": "Energie discrete et Radioactivité.md"
               }
             }
           },
@@ -394,7 +409,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pdf/_Radioactiviteword.pdf",
+                "file": "Energie discrete et Radioactivité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -449,15 +464,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "Energie discrete et Radioactivité.md",
     "_physics.md",
+    "pdf/_Radioactiviteword.pdf",
+    "Energie discrete et Radioactivité.md",
     "_computer science.md",
     "Modèle de traitement des ordinateurs.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
     "Excalidraw/Photon Energy and the Planck Constant exercises.md",
     "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203093001379.png",
-    "_french B.md"
+    "assets/Externalité de la production/image-20230203093001379.png"
   ]
 }
