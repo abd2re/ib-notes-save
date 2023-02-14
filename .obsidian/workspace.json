@@ -119,7 +119,7 @@
               "type": "markdown",
               "state": {
                 "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -517,8 +517,8 @@
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
     "Energie discrete et Radioactivité.md",
-    "pdf/correction lampe spectre lumiere.pdf",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "pdf/correction lampe spectre lumiere.pdf",
     "_physics.md",
     "Composition du noyau.md",
     "assets/Energie discrete et Radioactivité/image-20230201143053776.png",

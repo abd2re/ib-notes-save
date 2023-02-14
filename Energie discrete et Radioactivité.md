@@ -33,7 +33,7 @@ Toute particule électrisée animé d'un mouvement circulaire devrait perdre de 
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porter de l'orde des taille des noyau $10^{-15}m$.
 <!--SR:!2023-02-14,4,214-->
 
-## Niveau d'énergie atomique et transformation d'énergie au sain des atomes
+s
 ?
 voir [[correction lampe spectre lumiere.pdf]] (savoir spectre continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption)
 
@@ -54,7 +54,7 @@ Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive
 
 ### Interprétation des spectres atomiques
 ?
-Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. 
+- Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. 
 - Les variations d'énergie des atomes sont quantifiés (sont des valeurs discrètes)
 - Les atomes ne peuvent exister que dans certains états d'énergie bien définis caractérisé par un niveau d'énergie
 - L'atome ne peut absorber ou émettre que des radiations lumineuses de fréquences données. En effet la lumière absorbé ou émise  est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie  qu'entre deux niveaux.
