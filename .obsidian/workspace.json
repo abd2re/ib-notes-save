@@ -11,17 +11,17 @@
             "id": "3755b8e2fc39b97a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Le modèle atomique de Rutherford",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Le modèle atomique de Rutherford.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":34},\"to\":{\"line\":5,\"ch\":34}},\"scroll\":21.098958333333332}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":35.958333333333336}"
                 },
                 {
                   "title": "_economy",
@@ -118,8 +118,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
-                "mode": "source",
+                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -135,8 +135,14 @@
             "id": "0ca0635e170b20d9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "correction lampe spectre lumiere",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"pdf/correction lampe spectre lumiere.pdf\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -328,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -395,7 +401,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
               }
             }
           },
@@ -455,7 +461,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -511,14 +517,14 @@
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
     "Energie discrete et Radioactivité.md",
+    "pdf/correction lampe spectre lumiere.pdf",
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "_physics.md",
+    "Composition du noyau.md",
+    "assets/Energie discrete et Radioactivité/image-20230201143053776.png",
     "Le modèle atomique de Rutherford.md",
     "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
     "assets/Energie discrete et Radioactivité/image-20230209083914213.png",
-    "assets/Energie discrete et Radioactivité/image-20230201135833164.png",
-    "_economy.md",
-    "Chapitre 3 - L'Equilibre du marché.md",
-    "Analyzing speeches.md",
-    "pdf/_Radioactiviteword.pdf"
+    "assets/Energie discrete et Radioactivité/image-20230201135833164.png"
   ]
 }

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "correction lampe spectre lumiere",
+      "path": "pdf/correction lampe spectre lumiere.pdf"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Composition du noyau",
+      "path": "Composition du noyau.md"
     },
     {
       "basename": "Le modèle atomique de Rutherford",
@@ -145,10 +157,6 @@
       "path": "Untitled 10.md"
     },
     {
-      "basename": "correction lampe spectre lumiere",
-      "path": "pdf/correction lampe spectre lumiere.pdf"
-    },
-    {
       "basename": "Influencer le niveau de production",
       "path": "Influencer le niveau de production.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Publicité négative",
       "path": "Publicité négative.md"
-    },
-    {
-      "basename": "Législation pour rendre la consommation obligatoire",
-      "path": "Législation pour rendre la consommation obligatoire.md"
-    },
-    {
-      "basename": "Publicité positive",
-      "path": "Publicité positive.md"
     }
   ],
   "omittedPaths": [],

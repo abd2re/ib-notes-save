@@ -38,7 +38,8 @@ retour [[__dashboard]]
 # Theme 7: Physique nucléaire
 ## 1. Energie discrete et Radioactivité
 1. [[Le modèle atomique de Rutherford]]
-2. 
+2. [[Composition du noyau]]
+3. [[Niveau d'énergie atomique et transformation d'énergie au sain des atomes]]
 
 
 
