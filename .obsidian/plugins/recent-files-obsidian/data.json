@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_Radioactiviteword",
+      "path": "pdf/_Radioactiviteword.pdf"
+    },
+    {
+      "basename": "Energie discrete et Radioactivité",
+      "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Atomic Spectra & Radioactivity",
       "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
-    },
-    {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Photon Energy and the Planck Constant exercises",
@@ -131,10 +135,6 @@
     {
       "basename": "Cells & Internal Resistance",
       "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
-      "basename": "_Radioactiviteword",
-      "path": "pdf/_Radioactiviteword.pdf"
     },
     {
       "basename": "Untitled 10",

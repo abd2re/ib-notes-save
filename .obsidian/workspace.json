@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Energie discrete et Radioactivité",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":20},\"to\":{\"line\":56,\"ch\":20}},\"scroll\":56.529513888888886}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.9739507959479}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.857605361808474}"
+                },
+                {
                   "title": "Circuits & Kirchoff's Laws",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
@@ -68,12 +86,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_computer science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "pdf/_Radioactiviteword.pdf"
               }
             }
           }
@@ -252,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "pdf/_Radioactiviteword.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "pdf/_Radioactiviteword.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "pdf/_Radioactiviteword.pdf"
               }
             }
           },
@@ -379,7 +394,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "pdf/_Radioactiviteword.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -434,15 +449,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
     "Energie discrete et Radioactivité.md",
     "_physics.md",
+    "_computer science.md",
+    "Modèle de traitement des ordinateurs.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
     "Excalidraw/Photon Energy and the Planck Constant exercises.md",
     "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203093001379.png",
-    "_french B.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "Externalité de la consommation.md"
+    "_french B.md"
   ]
 }
