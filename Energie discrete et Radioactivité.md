@@ -34,10 +34,10 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 <!--SR:!2023-02-14,4,214-->
 
 ## Niveau d'énergie atomique et transformation d'énergie au sain des atomes
-
+?
 voir [[correction lampe spectre lumiere.pdf]] (savoir spectre continu, discontinu ou de raies, spectre de l'atome d'hydrogene, spectre d'emission et d'absorption)
 
-![[image-20230207084226517.png]]
+![[image-20230207084226517.png|475]]
 
 $$E=hf$$
 $$f=\frac{1}{T}$$
@@ -53,6 +53,7 @@ $$E=\frac{hc}{\lambda}$$
 Dans un spectre continu, les longueurs d'ondes sont très proches et on n'arrive pas à les différencier.
 
 ### Interprétation des spectres atomiques
+?
 Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. 
 - Les variations d'énergie des atomes sont quantifiés (sont des valeurs discrètes)
 - Les atomes ne peuvent exister que dans certains états d'énergie bien définis caractérisé par un niveau d'énergie
@@ -62,5 +63,12 @@ Les spectres d'emission et d'absorption de raies est une preuve expérimentale d
 ![[image-20230209083914213.png|325]]
 
 ## Désintégration radioactive
-La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs, il a été découvert accidentellement par le français Becquerel
+?
+La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium. Il existe 4 type de radioactivité  :
+- Alpha +($\alpha^+$)
+- Beta + ($\beta^+$)
+- Beta - ($\beta^-$)
+- Gamma ($\gamma$)
+
+
 
