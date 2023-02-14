@@ -5,20 +5,20 @@
       "path": "Désintégration radioactive.md"
     },
     {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Energie discrete et Radioactivité",
+      "path": "Energie discrete et Radioactivité.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "correction lampe spectre lumiere",

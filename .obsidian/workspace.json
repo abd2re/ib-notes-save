@@ -11,14 +11,8 @@
             "id": "3755b8e2fc39b97a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -522,15 +516,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "Energie discrete et Radioactivité.md",
-    "Désintégration radioactive.md",
-    "_economy.md",
-    "_physics.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "_physics.md",
+    "Désintégration radioactive.md",
+    "Energie discrete et Radioactivité.md",
+    "assets/Désintégration radioactive/image-20230214112623193.png",
+    "_economy.md",
     "pdf/correction lampe spectre lumiere.pdf",
     "Composition du noyau.md",
     "assets/Energie discrete et Radioactivité/image-20230201143053776.png",
-    "Le modèle atomique de Rutherford.md",
-    "assets/Energie discrete et Radioactivité/image-20230201135413248.png"
+    "Le modèle atomique de Rutherford.md"
   ]
 }
