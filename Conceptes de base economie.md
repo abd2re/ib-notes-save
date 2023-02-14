@@ -18,5 +18,5 @@ Created: 2022-09-06
 >Les besoins des individus sont :: illimités
 <!--SR:!2023-05-15,174,310-->
 
-Technique DDEEE en test=:: Définir, Diagramme, Explications, Exemple, Évaluation
+Technique DDEEE en test=:: Définir, Diagramme, Explications, Exemple, Évaluation(conclusion)
 

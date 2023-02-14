@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Conceptes de base economie.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -204,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Conceptes de base economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Conceptes de base economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Conceptes de base economie.md"
               }
             }
           },
@@ -331,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Conceptes de base economie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -386,8 +392,8 @@
   },
   "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Externalité de la consommation.md",
     "Externalité de la production.md",
     "Chapitre 3 - L'Equilibre du marché.md",
