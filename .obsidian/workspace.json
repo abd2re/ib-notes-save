@@ -11,8 +11,14 @@
             "id": "3755b8e2fc39b97a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -21,7 +27,7 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":35.958333333333336}"
+                  "eState": "{\"scroll\":34.291666666666664}"
                 },
                 {
                   "title": "_economy",
@@ -118,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Désintégration radioactive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -334,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Désintégration radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Désintégration radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -401,7 +407,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+                "file": "Désintégration radioactive.md"
               }
             }
           },
@@ -461,7 +467,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Désintégration radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -517,14 +523,14 @@
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
     "Energie discrete et Radioactivité.md",
+    "Désintégration radioactive.md",
+    "_economy.md",
+    "_physics.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "pdf/correction lampe spectre lumiere.pdf",
-    "_physics.md",
     "Composition du noyau.md",
     "assets/Energie discrete et Radioactivité/image-20230201143053776.png",
     "Le modèle atomique de Rutherford.md",
-    "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
-    "assets/Energie discrete et Radioactivité/image-20230209083914213.png",
-    "assets/Energie discrete et Radioactivité/image-20230201135833164.png"
+    "assets/Energie discrete et Radioactivité/image-20230201135413248.png"
   ]
 }

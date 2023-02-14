@@ -40,6 +40,7 @@ retour [[__dashboard]]
 1. [[Le modèle atomique de Rutherford]]
 2. [[Composition du noyau]]
 3. [[Niveau d'énergie atomique et transformation d'énergie au sain des atomes]]
+4. [[Désintégration radioactive]]
 
 
 
