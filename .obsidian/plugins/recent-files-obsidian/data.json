@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
     },
     {
       "basename": "Energie discrete et Radioactivité",
       "path": "Energie discrete et Radioactivité.md"
     },
     {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
     },
     {
       "basename": "correction lampe spectre lumiere",
@@ -191,14 +199,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "EE template",
-      "path": "template/EE template.md"
-    },
-    {
-      "basename": "math template",
-      "path": "template/math template.md"
     }
   ],
   "omittedPaths": [],

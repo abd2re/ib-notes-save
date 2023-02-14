@@ -41,6 +41,7 @@ retour [[__dashboard]]
 2. [[Composition du noyau]]
 3. [[Niveau d'énergie atomique et transformation d'énergie au sain des atomes]]
 4. [[Désintégration radioactive]]
+5. [[ Loi de décroissance radioactive]]
 
 
 
@@ -49,5 +50,3 @@ retour [[__dashboard]]
 
 ---
 [[TP_physique1]]
-
-[[Energie discrete et Radioactivité]]
