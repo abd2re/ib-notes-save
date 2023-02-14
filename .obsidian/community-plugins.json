@@ -34,5 +34,6 @@
   "convert-url-to-iframe",
   "obsidian-spaced-repetition",
   "omnisearch",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-file-color"
 ]
