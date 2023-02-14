@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Circuits & Kirchoff's Laws",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Atomic Spectra & Radioactivity",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 7/Atomic Spectra & Radioactivity.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Energie discrete et Radioactivité",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -56,9 +68,12 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -237,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -364,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -419,6 +434,8 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
     "Energie discrete et Radioactivité.md",
     "_physics.md",
     "Excalidraw/Photon Energy and the Planck Constant exercises.md",
@@ -426,8 +443,6 @@
     "assets/Externalité de la production/image-20230203093001379.png",
     "_french B.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "Externalité de la consommation.md",
-    "assets/Externalité de la consommation/image-20230207161324381.png",
-    "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md"
+    "Externalité de la consommation.md"
   ]
 }
