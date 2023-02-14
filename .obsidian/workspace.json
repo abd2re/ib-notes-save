@@ -20,6 +20,24 @@
                 {
                   "title": "_physics",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":32.7479674796748}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":15.782807498856881}"
+                },
+                {
+                  "title": "Energie discrete et Radioactivité",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie discrete et Radioactivité.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.150462962962962}"
                 },
@@ -101,7 +119,7 @@
               "type": "markdown",
               "state": {
                 "file": "Energie discrete et Radioactivité.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -464,15 +482,15 @@
   },
   "active": "3755b8e2fc39b97a",
   "lastOpenFiles": [
-    "_physics.md",
-    "pdf/_Radioactiviteword.pdf",
+    "assets/Energie discrete et Radioactivité/image-20230209083914213.png",
     "Energie discrete et Radioactivité.md",
-    "_computer science.md",
-    "Modèle de traitement des ordinateurs.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
-    "Excalidraw/Photon Energy and the Planck Constant exercises.md",
-    "Externalité de la production.md",
-    "assets/Externalité de la production/image-20230203093001379.png"
+    "assets/Energie discrete et Radioactivité/image-20230201135833164.png",
+    "assets/Energie discrete et Radioactivité/image-20230201135413248.png",
+    "_physics.md",
+    "_economy.md",
+    "Chapitre 3 - L'Equilibre du marché.md",
+    "Analyzing speeches.md",
+    "pdf/_Radioactiviteword.pdf",
+    "_computer science.md"
   ]
 }

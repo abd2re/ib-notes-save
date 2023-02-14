@@ -14,7 +14,7 @@ Created: 2022-10-17
 
 <!--SR:!2023-07-20,167,250-->
  5. Anadiplosis :: is the repetition of the last word of sentence as the first word of the next sentence. Such as "They call for you the general who became a slave; the slave who became a gladiator; the gladiator that defied an imperial" 
-<!--SR:!2023-02-14,73,250-->
+<!--SR:!2023-08-16,183,250-->
  6. Amplification :: is the repetition of a word or phrase with the addition of more details in order to emphasis something. Such as "America has given the negro people a bad check, a check which has come back marked insufficient funds" (Martin Luther King) 
 <!--SR:!2023-07-25,170,250-->
  7. Metaphor :: is a comparaison of two things by speaking of one in terms of the other. Such as "The mother of all battles " 

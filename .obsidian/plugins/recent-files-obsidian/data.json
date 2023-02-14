@@ -9,6 +9,10 @@
       "path": "_physics.md"
     },
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "_Radioactiviteword",
       "path": "pdf/_Radioactiviteword.pdf"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "questions infos 1",
       "path": "questions infos 1.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Conséquences possibles de l'imposition d'un prix plancher",

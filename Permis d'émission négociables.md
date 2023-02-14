@@ -6,7 +6,7 @@ Created: 2023-02-03
 # Permis d'émission négociables
 ?
 Le gouvernement fixe le niveau de « pollution admise » par an et divise la « permission de polluer » en un certain nombre de permis d' **émission négociables**. Ceux-ci sont attribués à des entreprises individuelles, qui disposent désormais d'un quota d'émissions qu'elles sont autorisées à produire. Les entreprises qui polluent moins peuvent vendre leur quota restant à d'autres entreprises qui doivent polluer davantage. C'est pourquoi ils sont dits «échangeables». (protocole de Kyoto)
-<!--SR:!2023-02-14,6,250-->
+<!--SR:!2023-02-28,14,250-->
 
 **Avantages de cette solution (4) :**
 ?
