@@ -1,5 +1,5 @@
 ---
-tags: [M] 
+tags: [M, french_B] 
 ---
 
 

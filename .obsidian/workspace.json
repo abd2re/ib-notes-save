@@ -35,34 +35,6 @@
               "type": "markdown",
               "state": {
                 "file": "_french B.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2efc6d6afc8fad30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3c6611b8c96cb3f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition du noyau.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -244,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition du noyau.md",
+                "file": "_french B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition du noyau.md",
+                "file": "_french B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition du noyau.md"
+                "file": "_french B.md"
               }
             }
           },
@@ -371,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composition du noyau.md",
+                "file": "_french B.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -424,8 +396,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d3c6611b8c96cb3f",
+  "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
+    "Composition du noyau.md",
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "_french B.md",
     "Le modèle atomique de Rutherford.md",
     "Conceptes de base economie.md",
@@ -433,8 +407,6 @@
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Externalité de la consommation.md",
     "Externalité de la production.md",
-    "Chapitre 3 - L'Equilibre du marché.md",
-    "Ceteris Paribus.md",
-    "_computer science.md"
+    "Chapitre 3 - L'Equilibre du marché.md"
   ]
 }
