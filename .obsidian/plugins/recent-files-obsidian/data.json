@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge",
+      "path": "Knowledge.md"
+    },
+    {
       "basename": "Natural Sciences",
       "path": "Natural Sciences.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Role du gouvernement en micro-économie",
       "path": "Role du gouvernement en micro-économie.md"
-    },
-    {
-      "basename": "Corriger les défaillances du marché",
-      "path": "Corriger les défaillances du marché.md"
     }
   ],
   "omittedPaths": [],

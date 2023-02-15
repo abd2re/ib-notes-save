@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Natural Sciences",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Natural Sciences.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -94,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "Knowledge.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -276,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Sciences.md"
+                "file": "Knowledge.md"
               }
             }
           },
@@ -403,7 +409,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Natural Sciences.md",
+                "file": "Knowledge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -458,10 +464,10 @@
   },
   "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
+    "Natural Sciences.md",
     "_TOK.md",
     "TOK test 1 correction.md",
     "TOK work 4.md",
-    "Natural Sciences.md",
     "Human Sciences.md",
     "TOK idk.md",
     "_CAS.md",
