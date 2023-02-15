@@ -6,5 +6,6 @@ Yessirskii
 
 Scientific knowledge is based on observations and experimentation, along with the formulation of **hypotheses**. This has lead to remarkable progress in our understanding of our world because it involves analyzing evidence and drawing conclusion. Sometimes these conclusions helped to form the basis of new theories that may even go against mainstream beliefs and doctrines of the time. 
 
-3. Provide a real-life example of a lav you have actually done for each of the following criteria: 
+1. Provide a real-life example of a lav you have actually done for each of the following criteria: 
   a/ 
+
