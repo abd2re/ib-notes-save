@@ -34,9 +34,12 @@ How do we know ?
 [[TOK test 1 correction]]
 [[Write a page about yourself]]
 [[TOK History work]]
+[[TOK idk]]
 
 Research following words:
 - value
 - authority
 - polymath
 - knowledge claim 
+
+

@@ -1,0 +1,1 @@
+Change blindness is **a phenomenon of visual perception that occurs when a stimulus undergoes a change without this being noticed by its observer**.
