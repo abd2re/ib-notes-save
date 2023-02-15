@@ -11,11 +11,29 @@
             "id": "f4b0b6d9a5df8fd9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Natural Sciences",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Natural Sciences.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":387}},\"scroll\":6.481481481481482}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":25.82523148148148}"
+                },
+                {
+                  "title": "Human Sciences",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Human Sciences.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":2},\"to\":{\"line\":23,\"ch\":2}},\"scroll\":11.481481481481481}"
                 },
                 {
                   "title": "_TOK",
@@ -82,49 +100,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Sciences.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4efe02fcd73af9b3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "title": "7 objectifs d'apprentissage CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK idk.md",
+                "file": "TOK work 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK idk.md",
+                "file": "TOK work 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK idk.md",
+                "file": "TOK work 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK idk.md"
+                "file": "TOK work 4.md"
               }
             }
           },
@@ -426,7 +409,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK idk.md",
+                "file": "TOK work 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -479,17 +462,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4efe02fcd73af9b3",
+  "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
-    "_CAS.md",
+    "Natural Sciences.md",
+    "TOK work 4.md",
+    "_TOK.md",
     "Human Sciences.md",
+    "TOK idk.md",
+    "_CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "Expériences et projets CAS.md",
     "Composantes CAS.md",
-    "TOK idk.md",
-    "Natural Sciences.md",
-    "_TOK.md",
-    "_computer science.md",
-    "_french B.md"
+    "_computer science.md"
   ]
 }
