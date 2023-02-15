@@ -12,7 +12,6 @@ retour [[__dashboard]]
 [[exercices info 2]]
 [[exercices info 3]]
 [[questions infos 2]]
-### 0 [[Computer Science IA]]
 
 # Theme 1: Notion fondamental sur les systèmes
 ![[Chapitre 1 - Les systèmes dans les organisations]]
@@ -20,3 +19,6 @@ retour [[__dashboard]]
 ---
 # Theme 2: Architecture des ordinateurs
  ![[Chapitre 1 - Le CPU et ses éléments]]
+
+# Theme 3: Réseaux
+![[Chapitre 1 - Types de réseaux]]

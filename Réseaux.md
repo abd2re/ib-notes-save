@@ -1,9 +1,14 @@
 ---
 tags: [computer_science] 
 ---
-# Réseaux
 Created: 2022-10-05
 
+# Réseaux
 ?
-Un ensemble de systèmes informatiques qui sont interconnectés et partagent des ressources, ainsi que ainsi que des données par le biais d'une technologie sans fil ou câblée.
-<!--SR:!2023-08-07,183,250-->
+- Un réseau informatique est un ensembles de systèmes informatiques et de d'autres dispositifs matériels informatiques qui sont reliés entre eux par des canaux de communication pour faciliter la communication et le partage des ressources entre un certain nombre d'utilisateurs.
+- Ces systèmes informatiques sont connectés à l'aide d'un câble ou d'un support sans fil.
+
+**Types de réseaux**:
+?
+- Local Area Network (LAN)
+- 
