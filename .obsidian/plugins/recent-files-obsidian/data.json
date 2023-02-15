@@ -5,16 +5,32 @@
       "path": "TOK idk.md"
     },
     {
+      "basename": "Human Sciences",
+      "path": "Human Sciences.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "_french B",
       "path": "_french B.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Composition du noyau",
@@ -41,20 +57,8 @@
       "path": "Ceteris Paribus.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Externalité de la consommation",
@@ -195,10 +199,6 @@
     {
       "basename": "Revenu total des entreprises",
       "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Drawing 2023-02-03 10.25.02.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-03 10.25.02.excalidraw.md"
     }
   ],
   "omittedPaths": [],

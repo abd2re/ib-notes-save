@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.573770491803279}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_french B",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -46,8 +82,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TOK.md",
-                "mode": "source",
+                "file": "Human Sciences.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -433,15 +469,15 @@
   },
   "active": "c86091765e9918d5",
   "lastOpenFiles": [
+    "Human Sciences.md",
+    "Natural Sciences.md",
     "_TOK.md",
-    "_economy.md",
+    "_computer science.md",
     "_french B.md",
-    "Composition du noyau.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Le modèle atomique de Rutherford.md",
-    "Conceptes de base economie.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Externalité de la consommation.md",
-    "Externalité de la production.md"
+    "_math.md",
+    "_physics.md",
+    "TOK idk.md",
+    "_economy.md",
+    "Composition du noyau.md"
   ]
 }
