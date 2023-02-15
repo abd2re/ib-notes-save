@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Conceptes de base economie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conceptes de base economie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -28,8 +34,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "_french B.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2efc6d6afc8fad30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c6611b8c96cb3f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composition du noyau.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -210,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Composition du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Composition du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptes de base economie.md"
+                "file": "Composition du noyau.md"
               }
             }
           },
@@ -337,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceptes de base economie.md",
+                "file": "Composition du noyau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -390,17 +424,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4b0b6d9a5df8fd9",
+  "active": "d3c6611b8c96cb3f",
   "lastOpenFiles": [
+    "_french B.md",
+    "Le modèle atomique de Rutherford.md",
+    "Conceptes de base economie.md",
     "_economy.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Externalité de la consommation.md",
     "Externalité de la production.md",
     "Chapitre 3 - L'Equilibre du marché.md",
     "Ceteris Paribus.md",
-    "_computer science.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
-    "Chapitre 2 - System design basics.md",
-    "Chapitre 1 - Le CPU et ses éléments.md"
+    "_computer science.md"
   ]
 }
