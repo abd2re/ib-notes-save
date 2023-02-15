@@ -5,8 +5,24 @@
       "path": "TOK idk.md"
     },
     {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "Human Sciences",
       "path": "Human Sciences.md"
+    },
+    {
+      "basename": "7 objectifs d'apprentissage CAS",
+      "path": "7 objectifs d'apprentissage CAS.md"
+    },
+    {
+      "basename": "Expériences et projets CAS",
+      "path": "Expériences et projets CAS.md"
+    },
+    {
+      "basename": "Composantes CAS",
+      "path": "Composantes CAS.md"
     },
     {
       "basename": "_TOK",
@@ -183,22 +199,6 @@
     {
       "basename": "Drawing 2023-02-09 19.32.28.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-09 19.32.28.excalidraw.md"
-    },
-    {
-      "basename": "Cells & Internal Resistance",
-      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
-      "basename": "Untitled 10",
-      "path": "Untitled 10.md"
-    },
-    {
-      "basename": "Influencer le niveau de production",
-      "path": "Influencer le niveau de production.md"
-    },
-    {
-      "basename": "Revenu total des entreprises",
-      "path": "Revenu total des entreprises.md"
     }
   ],
   "omittedPaths": [],
