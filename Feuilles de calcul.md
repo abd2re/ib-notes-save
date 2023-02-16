@@ -7,5 +7,5 @@ Created: 2023-01-19
 ?
 Un programme dans lequel les données sont disposées dans les lignes
 et les colonnes d'une grille et peuvent être manipulées et utilisées dans des calculs. ![[image-20230119185914436.png]]
-<!--SR:!2023-02-16,8,250-->
+<!--SR:!2023-03-11,23,250-->
 
