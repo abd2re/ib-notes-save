@@ -130,8 +130,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d38c8a669199565",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.44675925925926}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Champ de gravitation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Champ de gravitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Champ de gravitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux.md"
+                "file": "Champ de gravitation.md"
               }
             }
           },
@@ -433,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Champ de gravitation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -486,17 +515,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4b0b6d9a5df8fd9",
+  "active": "6d38c8a669199565",
   "lastOpenFiles": [
-    "Natural Sciences.md",
+    "_physics.md",
+    "Loi de gravitation de Newton.md",
     "Réseaux.md",
+    "Natural Sciences.md",
     "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
     "Stockage persistant.md",
     "Knowledge.md",
     "_TOK.md",
-    "TOK test 1 correction.md",
-    "TOK work 4.md",
-    "Human Sciences.md"
+    "TOK test 1 correction.md"
   ]
 }
