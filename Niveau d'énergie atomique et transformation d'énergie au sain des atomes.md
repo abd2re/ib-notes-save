@@ -31,7 +31,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 - Les variations d'énergie des atomes sont quantifiés (sont des valeurs discrètes)
 - Les atomes ne peuvent exister que dans certains états d'énergie bien définis caractérisé par un niveau d'énergie
 - L'atome ne peut absorber ou émettre que des radiations lumineuses de fréquences données. En effet la lumière absorbé ou émise  est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie  qu'entre deux niveaux.
-<!--SR:!2023-02-16,1,215-->
+<!--SR:!2023-02-18,2,215-->
 
 **Representation de niveaux d'énergie d'un spectre (hydrogene):**
 ?

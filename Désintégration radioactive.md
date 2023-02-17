@@ -6,7 +6,7 @@ Created: 2023-02-14
 # Désintégration radioactive
 ?
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium.
-<!--SR:!2023-02-16,1,227-->
+<!--SR:!2023-02-17,1,207-->
 
 Les 4 types de radioactivité sont:
 ?
@@ -29,13 +29,13 @@ Pouvoir de penetration des 3 radioactivités:
 <!--SR:!2023-02-18,3,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
-<!--SR:!2023-02-16,1,230-->
+<!--SR:!2023-02-17,1,210-->
 
 #### Stabilité des noyaux
 ?
 Les noyaux ont plus de neutrons que de protons car les neutrons du fait de l'intéraction forte participe à la stabilité du noyau contrairement aux protons qui se repoussent. Aux valeurs importantes de Z, la majeure partie des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'intéraction forte est une force de courte portée (environ $10^{−15}m$) ses noyaux seront instable. La majeure partie des noyaux rouges sont radioactif α. La courbe en bleu représente le domaine de stabilité. Les éléments β− sont au dessus car ils ont trop de neutrons, ces derniers vont se transformer en électron ou proton jusqu'à ce que le noyau soit instable.  
 Les noyaux β+ sont au dessus du niveau dee stabilité car ils ont trop de neutrons.
-<!--SR:!2023-02-16,1,230-->
+<!--SR:!2023-02-17,1,210-->
 
 **Diagramme Z;N**
 ?
