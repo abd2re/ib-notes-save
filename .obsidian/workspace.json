@@ -132,7 +132,7 @@
             }
           },
           {
-            "id": "6d38c8a669199565",
+            "id": "3ec88a6703d5535d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -140,38 +140,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Loi de gravitation de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de gravitation de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.021791767554479}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":31.88095238095238}"
-                },
-                {
-                  "title": "Champ de gravitation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Champ de gravitation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.08584019927189}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.70477568740955}"
                 }
               ]
             },
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -351,7 +325,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +350,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,9 +389,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-              }
+              "state": {}
             }
           },
           {
@@ -478,7 +448,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -531,17 +500,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d38c8a669199565",
+  "active": "3ec88a6703d5535d",
   "lastOpenFiles": [
+    "Réseaux.md",
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
     "Loi de gravitation de Newton.md",
     "_physics.md",
     "Champ de gravitation.md",
-    "Réseaux.md",
     "Natural Sciences.md",
     "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
     "Stockage persistant.md",
-    "Knowledge.md",
-    "_TOK.md"
+    "Knowledge.md"
   ]
 }
