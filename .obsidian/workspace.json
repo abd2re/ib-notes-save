@@ -130,26 +130,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ec88a6703d5535d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,6 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,6 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Réseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -389,7 +373,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Réseaux.md"
+              }
             }
           },
           {
@@ -448,6 +434,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Réseaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -500,7 +487,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3ec88a6703d5535d",
+  "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
     "Réseaux.md",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
