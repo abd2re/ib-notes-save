@@ -144,6 +144,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "2f261f2cb049a7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b87bfa0a5354affe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Désintégration radioactive.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Désintégration radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +373,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Désintégration radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ électrique.md"
+                "file": "Désintégration radioactive.md"
               }
             }
           },
@@ -446,7 +474,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "Désintégration radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -499,8 +527,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4b0b6d9a5df8fd9",
+  "active": "b87bfa0a5354affe",
   "lastOpenFiles": [
+    "Champ électrique.md",
+    "assets/Champ électrique/Champ électrique-1.png",
     "Champ de gravitation.md",
     "_physics.md",
     "Réseaux.md",
@@ -508,8 +538,6 @@
     "Loi de gravitation de Newton.md",
     "Natural Sciences.md",
     "Chapitre 1 - Types de réseaux.md",
-    "_computer science.md",
-    "Stockage persistant.md",
-    "Knowledge.md"
+    "_computer science.md"
   ]
 }

@@ -20,7 +20,7 @@ $$F=k\frac{q_{1}q_{2}}{r^{2}}$$
 - $q_{1}$ = charge 1 en Coulomb (C)
 - $q_{2}$ = charge 2 en Coulomb (C)
 - $r$ = distance entre les charges en mètre (m)
-<!--SR:!2023-02-17,53,250-->
+<!--SR:!2023-06-30,133,250-->
 
 Formule de la constante de Coulomb:
 ?

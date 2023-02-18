@@ -41,7 +41,7 @@ En supposant que l'équilibre du marché libre, sans intervention du gouvernemen
 Le prix pour les consommateurs=>::Augmente
 <!--SR:!2023-02-23,20,224-->
 La quantité d'équilibre=>::Diminue
-<!--SR:!2023-02-17,15,204-->
+<!--SR:!2023-03-23,34,204-->
 Le prix net pour les producteurs=>::Diminue
 <!--SR:!2023-03-01,24,244-->
 Le revenu total des producteurs=>::Diminue

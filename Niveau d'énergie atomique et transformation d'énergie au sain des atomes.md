@@ -7,7 +7,7 @@ Created: 2023-02-14
 Representation du spectre électromagnétique:
 ?
 ![[image-20230214104916583.png]]
-<!--SR:!2023-02-17,2,235-->
+<!--SR:!2023-02-23,6,235-->
 
 Formule d'énergie d'un photon et unités:
 ?
@@ -17,7 +17,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 - $\lambda$ = longueur d'onde en $m$
 - $h$ = La constante de Planck ($6.62\times 10^{−34}Js$)
 - $c$ = Célérité ($3\times 10^{8} ms^{-2}$) 
-<!--SR:!2023-02-17,2,234-->
+<!--SR:!2023-02-22,5,234-->
 
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
@@ -36,7 +36,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 **Representation de niveaux d'énergie d'un spectre (hydrogene):**
 ?
 ![[image-20230214110458766.png|500]]
-<!--SR:!2023-02-17,2,234-->
+<!--SR:!2023-02-23,6,234-->
 
 
 

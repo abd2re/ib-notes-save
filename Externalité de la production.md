@@ -20,7 +20,7 @@ Réponses possibles du gouvernement(3):
 - [[Imposer une taxe carbone aux entreprises polluantes]]
 - [[Législation]]
 - [[Permis d'émission négociables]]
-<!--SR:!2023-02-17,9,250-->
+<!--SR:!2023-03-14,25,250-->
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
