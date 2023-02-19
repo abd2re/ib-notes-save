@@ -6,7 +6,7 @@ Created: 2022-10-11
 
 ?
 La capacité calorifique est la quantité de [[Chaleur]] nécessaire pour élever de $1\degree C$ un objet. 
-<!--SR:!2023-02-18,75,230-->
+<!--SR:!2023-08-10,173,230-->
 
 Formule de $Q$=
 ?

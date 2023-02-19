@@ -8,7 +8,7 @@ Created: 2023-02-14
 ## Radioactivité
 ?
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium.
-<!--SR:!2023-02-18,1,187-->
+<!--SR:!2023-02-19,1,167-->
 
 Les 4 types de radioactivité sont:
 ?
@@ -16,22 +16,22 @@ Les 4 types de radioactivité sont:
 - Beta+ ($\beta^+$)
 - Beta- ($\beta^-$)
 - Gamma ($\gamma$)
-<!--SR:!2023-02-18,3,250-->
+<!--SR:!2023-02-25,7,250-->
 
 
 Equations des 4 types de radioactivités:
 ?
 ![[image-20230214112623193.png|500]]
 NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neutrino($^0_0v$)
-<!--SR:!2023-02-18,3,250-->
+<!--SR:!2023-02-28,10,250-->
 
 Pouvoir de penetration des 3 radioactivités:
 ?
 ![[image-20230214114403367.png]]
-<!--SR:!2023-02-18,3,250-->
+<!--SR:!2023-02-26,8,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
-<!--SR:!2023-02-18,1,190-->
+<!--SR:!2023-02-19,1,170-->
 
 #### Stabilité des noyaux
 ?
@@ -43,7 +43,7 @@ Les noyaux β+ sont au dessus du niveau dee stabilité car ils ont trop de neu
 ?
 Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de leur numéro atomique _Z_ en abscisse et de leur nombre de neutrons _N_ en ordonnée (ou l’inverse). Un code couleur permet de différencier les noyaux stables des noyaux instables.
 ![[image-20230214115313454.png]]
-<!--SR:!2023-02-18,3,250-->
+<!--SR:!2023-02-27,9,250-->
 
 
 

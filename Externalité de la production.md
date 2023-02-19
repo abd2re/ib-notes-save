@@ -25,7 +25,7 @@ Réponses possibles du gouvernement(3):
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
 <iframe src="https://www.geogebra.org/material/iframe/id/tpaxufep/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-<!--SR:!2023-02-18,10,250-->
+<!--SR:!2023-03-16,26,250-->
 
 ---
 ## Externalité positive de la production

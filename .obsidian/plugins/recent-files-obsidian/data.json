@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Chapitre 1 - Le CPU et ses éléments",
+      "path": "Chapitre 1 - Le CPU et ses éléments.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
       "basename": "Champ électrique",
       "path": "Champ électrique.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Champ de gravitation",
       "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Réseaux",
@@ -35,10 +47,6 @@
     {
       "basename": "Chapitre 1 - Types de réseaux",
       "path": "Chapitre 1 - Types de réseaux.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Knowledge",
@@ -191,14 +199,6 @@
     {
       "basename": "Contrôles des prix planchers",
       "path": "Contrôles des prix planchers.md"
-    },
-    {
-      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
-      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
     }
   ],
   "omittedPaths": [],

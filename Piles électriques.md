@@ -13,7 +13,7 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 
 <!--SR:!2023-02-27,33,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
-<!--SR:!2023-02-18,37,246-->
+<!--SR:!2023-05-20,91,246-->
 
 Formule de la tension aux bornes d'une pile est:
 ?

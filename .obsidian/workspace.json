@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":25.696969696969695}"
+                },
+                {
+                  "title": "Champ électrique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Champ électrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":29.288091068301227}"
+                },
+                {
                   "title": "Champ de gravitation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Champ de gravitation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -136,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -276,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -319,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Champ électrique.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -446,7 +457,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Champ électrique.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -501,15 +512,15 @@
   },
   "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
-    "Désintégration radioactive.md",
-    "Champ électrique.md",
-    "assets/Champ électrique/Champ électrique-1.png",
-    "Champ de gravitation.md",
+    "Systèmes d'exploitation.md",
+    "Chapitre 1 - Le CPU et ses éléments.md",
+    "_computer science.md",
+    "Chapitre 2 - System design basics.md",
+    "Représentation de données.md",
+    "Chapitre 1 - Types de réseaux.md",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
     "_physics.md",
-    "Réseaux.md",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "Loi de gravitation de Newton.md",
-    "Natural Sciences.md",
-    "Chapitre 1 - Types de réseaux.md"
+    "Piles électriques.md",
+    "assets/Piles électriques/image-20230110093433182.png"
   ]
 }
