@@ -30,7 +30,7 @@ Formule de la charge électrique pour ce cas:
 $$q=ne$$
 - $q$ = charge en coulomb (C)
 - $e$ =:: $1.6\cdot 10^{-19}C$ (coulomb) 
-<!--SR:!2023-02-19,37,190-->
+<!--SR:!2023-04-29,69,190-->
 - $n$ = nombre d'$e^{-}$(electrons) perdus
 
 ## Conducteur et isolant électrique

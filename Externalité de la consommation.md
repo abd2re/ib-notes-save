@@ -48,7 +48,7 @@ Réponses possibles du gouvernement (4):
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
 ![[image-20230207165514044.png]]
-<!--SR:!2023-02-19,8,250-->
+<!--SR:!2023-03-11,20,250-->
 
 
 

@@ -17,7 +17,7 @@ Les objectifs de impôts indirects sont généralement de (4):
 <!--SR:!2023-03-04,14,237-->
 
 Les impôts indirects sont aussi appelés :: taxes d'accise.
-<!--SR:!2023-02-19,17,210-->
+<!--SR:!2023-03-27,36,210-->
 
 Il y a deux types d'impots indirects à considérer:
 ?

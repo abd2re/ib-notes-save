@@ -19,7 +19,7 @@ D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant
 Inconvenient du modèle de Ruthford:
 ?
 Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau 
-<!--SR:!2023-02-19,6,150-->
+<!--SR:!2023-03-01,10,150-->
 
 - Composition du noyau:: Le noyau est constitué de particules appelées "nucléons" qui sont des protons et des neutrons. Le nombre total de nucléons d'un noyau est noté $A$ et appelé "nombre de masse". Le nombre total de protons d'un noyau est noté $Z$, on l'appelle numéro atomique ou nombre de charges.![[image-20230201143053776.png|475]]
 <!--SR:!2023-03-12,25,250-->
