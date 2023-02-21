@@ -8,7 +8,7 @@ Created: 2022-11-22
 - 2 corps de charges opposées s::'attirent
 <!--SR:!2023-02-25,58,250-->
 - 2 corps de charge de meme signe s::e repoussent
-<!--SR:!2023-02-20,55,250-->
+<!--SR:!2023-07-05,135,250-->
 
 - L'éléctrisation est:: un transfert d'électrons d'un corps a l'autre
 <!--SR:!2023-03-13,26,244-->

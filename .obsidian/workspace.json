@@ -21,6 +21,18 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":32.31707317073171}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"scroll\":25.696969696969695}"
                 },
                 {
@@ -148,7 +160,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Loi de décroissance radioactive.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -330,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +368,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -457,7 +469,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -512,15 +524,15 @@
   },
   "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
+    "_physics.md",
+    "Désintégration radioactive.md",
+    "Loi de décroissance radioactive.md",
+    "_computer science.md",
+    "Untitled 7.md",
     "Systèmes d'exploitation.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
-    "_computer science.md",
     "Chapitre 2 - System design basics.md",
     "Représentation de données.md",
-    "Chapitre 1 - Types de réseaux.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
-    "_physics.md",
-    "Piles électriques.md",
-    "assets/Piles électriques/image-20230110093433182.png"
+    "Chapitre 1 - Types de réseaux.md"
   ]
 }

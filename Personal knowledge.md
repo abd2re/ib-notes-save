@@ -11,7 +11,7 @@ Personal knowledge is the knowledge we personally have. Almost all of our person
 experiential=::based on experience
 <!--SR:!2023-03-05,62,230-->
 innate=::you are born with
-<!--SR:!2023-02-20,16,263-->
+<!--SR:!2023-04-04,43,263-->
 
 <!--SR:!2023-04-26,92,230-->
 a priori=::purely bu reason

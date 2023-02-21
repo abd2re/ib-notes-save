@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Chapitre 1 - Le CPU et ses éléments",
-      "path": "Chapitre 1 - Le CPU et ses éléments.md"
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "Chapitre 1 - Le CPU et ses éléments",
+      "path": "Chapitre 1 - Le CPU et ses éléments.md"
     },
     {
       "basename": "Piles électriques",
@@ -19,10 +31,6 @@
     {
       "basename": "Champ électrique",
       "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
     },
     {
       "basename": "Champ de gravitation",
@@ -133,10 +141,6 @@
       "path": "Energie discrete et Radioactivité.md"
     },
     {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
-    },
-    {
       "basename": "correction lampe spectre lumiere",
       "path": "pdf/correction lampe spectre lumiere.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Subventionner les entreprises (Bénéfice)",
       "path": "Subventionner les entreprises (Bénéfice).md"
-    },
-    {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
     }
   ],
   "omittedPaths": [],
