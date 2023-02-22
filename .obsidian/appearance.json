@@ -1,6 +1,6 @@
 {
   "cssTheme": "Catppuccin",
-  "baseFontSize": 18,
-  "theme": "moonstone",
+  "baseFontSize": 16,
+  "theme": "obsidian",
   "accentColor": "#ffffff"
 }

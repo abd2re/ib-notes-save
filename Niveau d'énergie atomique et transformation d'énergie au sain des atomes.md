@@ -33,7 +33,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 - L'atome ne peut absorber ou émettre que des radiations lumineuses de fréquences données. En effet la lumière absorbé ou émise  est proportionnelle a la variation d'énergie entre deux niveaux et l'atome ne peut absorber ou émettre de l'énergie  qu'entre deux niveaux.
 <!--SR:!2023-02-22,4,215-->
 
-**Representation de niveaux d'énergie d'un spectre (hydrogene):**
+**Representation de niveaux d'énergie d'un spectre (hydrogène):**
 ?
 ![[image-20230214110458766.png|500]]
 <!--SR:!2023-02-23,6,234-->

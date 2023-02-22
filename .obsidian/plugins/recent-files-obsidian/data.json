@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "Atomic Spectra & Radioactivity",
+      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
+    },
+    {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 16.45.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md"
+    },
+    {
+      "basename": "Composants d'un système informatique",
+      "path": "Composants d'un système informatique.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
     },
     {
+      "basename": "TP_physique1",
+      "path": "TP_physique1.md"
+    },
+    {
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
       "basename": "Désintégration radioactive",
       "path": "Désintégration radioactive.md"
+    },
+    {
+      "basename": "backup",
+      "path": "backup.md"
     },
     {
       "basename": "Computer Science IA",
@@ -29,20 +69,8 @@
       "path": "Impôts indirects.md"
     },
     {
-      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
-    },
-    {
       "basename": "Drawing 2023-02-22 12.09.27.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md"
-    },
-    {
-      "basename": "Atomic Spectra & Radioactivity",
-      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Untitled 7",
@@ -171,34 +199,6 @@
     {
       "basename": "_Radioactiviteword",
       "path": "pdf/_Radioactiviteword.pdf"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Photon Energy and the Planck Constant exercises",
-      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
-    },
-    {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
-    },
-    {
-      "basename": "Drawing 2023-02-12 15.34.50.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-12 15.34.50.excalidraw.md"
-    },
-    {
-      "basename": "TED TALK",
-      "path": "TED TALK.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Tension ou différence de potentiel électrique",
-      "path": "Tension ou différence de potentiel électrique.md"
     }
   ],
   "omittedPaths": [],
