@@ -8,7 +8,7 @@ Created: 2023-02-14
 ## Radioactivité
 ?
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium.
-<!--SR:!2023-02-21,1,147-->
+<!--SR:!2023-02-22,1,147-->
 
 Les 4 types de radioactivité sont:
 ?
@@ -23,6 +23,7 @@ Equations des 4 types de radioactivités:
 ?
 ![[image-20230214112623193.png|500]]
 NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neutrino($^0_0v$)
+![[image-20230222131031797.png]]
 <!--SR:!2023-02-28,10,250-->
 
 Pouvoir de penetration des 3 radioactivités:

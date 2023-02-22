@@ -13,6 +13,34 @@
       "path": "Désintégration radioactive.md"
     },
     {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "Interventions gouvernementales",
+      "path": "Interventions gouvernementales.md"
+    },
+    {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 12.09.27.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md"
+    },
+    {
+      "basename": "Atomic Spectra & Radioactivity",
+      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -109,10 +137,6 @@
       "path": "Composition du noyau.md"
     },
     {
-      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
-    },
-    {
       "basename": "Le modèle atomique de Rutherford",
       "path": "Le modèle atomique de Rutherford.md"
     },
@@ -153,10 +177,6 @@
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
-      "basename": "Atomic Spectra & Radioactivity",
-      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
-    },
-    {
       "basename": "Photon Energy and the Planck Constant exercises",
       "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "questions infos 2",
-      "path": "questions infos 2.md"
-    },
-    {
-      "basename": "questions infos 1",
-      "path": "questions infos 1.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
-    },
-    {
-      "basename": "Externalités",
-      "path": "Externalités.md"
-    },
-    {
-      "basename": "Subventionner les entreprises (Bénéfice)",
-      "path": "Subventionner les entreprises (Bénéfice).md"
     }
   ],
   "omittedPaths": [],

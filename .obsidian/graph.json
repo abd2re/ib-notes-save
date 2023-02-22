@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-path:template -path:assets line:\"tags\"  tag:#economy OR tag:#MOC",
+  "search": "-path:template -path:assets line:\"tags\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#tbd",
@@ -108,14 +108,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.1,
+  "textFadeMultiplier": 0.4,
   "nodeSizeMultiplier": 1.02219101123595,
   "lineSizeMultiplier": 1.00887096774194,
   "collapse-forces": false,
-  "centerStrength": 0.502604166666667,
-  "repelStrength": 20,
-  "linkStrength": 0.8046875,
-  "linkDistance": 234,
-  "scale": 0.3261517182100582,
+  "centerStrength": 0.776041666666667,
+  "repelStrength": 15.4166666666667,
+  "linkStrength": 0.505208333333333,
+  "linkDistance": 255,
+  "scale": 0.1671697236215563,
   "close": false
 }

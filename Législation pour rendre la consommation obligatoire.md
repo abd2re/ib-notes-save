@@ -6,7 +6,7 @@ Created: 2023-02-07
 # Législation pour rendre la consommation obligatoire
 ?
 Le gouvernement pourrait adopter des lois pour rendre la consommation de ces biens obligatoire. C'est le cas de l'éducation jusqu'à un certain âge dans de nombreux pays, et de certaines vaccinations dans certains pays.
-<!--SR:!2023-02-21,10,250-->
+<!--SR:!2023-03-20,27,250-->
 
 **Problèmes avec cette solution (3):**
 ?

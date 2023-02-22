@@ -13,7 +13,7 @@ Il y a deux types d'externalité:
 ?
 - [[Externalité de la production]]
 - [[Externalité de la consommation]]
-<!--SR:!2023-02-21,13,270-->
+<!--SR:!2023-04-01,39,270-->
 
 ---
 - CMP:: Coût marginal privée
@@ -21,7 +21,7 @@ Il y a deux types d'externalité:
 - BMP:: Bénéfice marginal privée
 <!--SR:!2023-03-15,26,250-->
 - CMS:: Coût marginal social
-<!--SR:!2023-02-21,13,270-->
+<!--SR:!2023-03-26,33,270-->
 - BMS:: Bénéfice marginal social
 <!--SR:!2023-04-07,46,290-->
 

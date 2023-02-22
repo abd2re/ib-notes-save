@@ -20,6 +20,42 @@
                 {
                   "title": "_physics",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.958333333333336}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Désintégration radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Désintégration radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.464012517385257}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.958333333333336}"
+                },
+                {
+                  "title": "Atomic Spectra & Radioactivity",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 7/Atomic Spectra & Radioactivity.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Loi de décroissance radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"scroll\":32.31707317073171}"
                 },
@@ -524,15 +560,15 @@
   },
   "active": "f4b0b6d9a5df8fd9",
   "lastOpenFiles": [
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
+    "Loi de décroissance radioactive.md",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "_physics.md",
     "Désintégration radioactive.md",
-    "Loi de décroissance radioactive.md",
-    "_computer science.md",
-    "Untitled 7.md",
-    "Systèmes d'exploitation.md",
-    "Chapitre 1 - Le CPU et ses éléments.md",
-    "Chapitre 2 - System design basics.md",
-    "Représentation de données.md",
-    "Chapitre 1 - Types de réseaux.md"
+    "assets/Désintégration radioactive/image-20230214115313454.png",
+    "assets/Désintégration radioactive/image-20230222131031797.png",
+    "assets/Désintégration radioactive/image-20230214112623193.png",
+    "Flask.md",
+    "Computer Science IA.md"
   ]
 }

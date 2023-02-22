@@ -22,7 +22,7 @@ $$q=-ne$$
 - $q$ = charge en coulomb (C)
 - $e$ = $1.6\cdot 10^{-19}C$ (coulomb) 
 - $n$ = nombre d'$e^{-}$(electrons) gagnés
-<!--SR:!2023-02-21,55,250-->
+<!--SR:!2023-07-04,133,250-->
 
 Un corps chargé positivement perd des electrons
 Formule de la charge électrique pour ce cas:
