@@ -39,7 +39,7 @@ En supposant que l'équilibre du marché libre, sans intervention du gouvernemen
 
 ## Synthèse des effets d'un impôt indirect 
 Le prix pour les consommateurs=>::Augmente
-<!--SR:!2023-02-23,20,224-->
+<!--SR:!2023-04-09,45,224-->
 La quantité d'équilibre=>::Diminue
 <!--SR:!2023-03-23,34,204-->
 Le prix net pour les producteurs=>::Diminue

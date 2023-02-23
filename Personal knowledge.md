@@ -28,7 +28,7 @@ truth=::In accord with fact or reality, or faithfulness to a standard
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
 <!--SR:!2023-03-27,74,230-->
 polymath=::a person of wide knowledge or learning.
-<!--SR:!2023-02-23,55,240-->
+<!--SR:!2023-07-03,130,240-->
 values=::principles or standards of behavior; one's judgement of what is important in life.
 <!--SR:!2023-06-02,114,240-->
 knowledge claim::A knowledge claim is a statement that the knower believes to be true yet is up to debate as to assess the veracity of the statement.

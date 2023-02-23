@@ -41,7 +41,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 ?
 Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de chaleur: c'est l'effet joule. 
 Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de ventilation. L'effet joule est utilisé avantageusement dans les plaques chauffantes, les fusibles, les chauffe-eau.
-<!--SR:!2023-02-23,40,222-->
+<!--SR:!2023-05-24,90,222-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
 <!--SR:!2023-02-24,38,222-->

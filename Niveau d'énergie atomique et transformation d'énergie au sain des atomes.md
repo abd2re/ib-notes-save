@@ -21,7 +21,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
-<!--SR:!2023-02-23,8,194-->
+<!--SR:!2023-03-12,17,194-->
 - Une lumière monochromatique est constitué:: **d'une seul longueur d'onde**
 <!--SR:!2023-02-28,9,174-->
 
@@ -42,5 +42,5 @@ $$E=hf=\frac{hc}{\lambda}$$
 Types de spectres de lumières et représentations:
 ?
 ![[image-20230222120641551.png]]
-<!--SR:!2023-02-23,1,214-->
+<!--SR:!2023-02-25,2,214-->
 
