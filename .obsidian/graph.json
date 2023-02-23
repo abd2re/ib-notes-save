@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#tbd",
@@ -18,14 +18,7 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#people",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
+        "rgb": 11358802
       }
     },
     {
@@ -112,10 +105,10 @@
   "nodeSizeMultiplier": 1.02219101123595,
   "lineSizeMultiplier": 1.00887096774194,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.6171875,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.18187308416276976,
-  "close": false
+  "scale": 0.08634425324897393,
+  "close": true
 }
