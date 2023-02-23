@@ -24,7 +24,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
 <!--SR:!2023-04-26,78,230-->
 
-- Loi d'Ohm:: A température constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
+- Loi d'Ohm:: A [[température]] constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
 <!--SR:!2023-03-09,29,263-->
 
 <!--SR:!2023-02-11,17,170-->
@@ -39,7 +39,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?
-Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de chaleur: c'est l'effet joule. 
+Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de [[chaleur]]: c'est l'effet joule. 
 Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de ventilation. L'effet joule est utilisé avantageusement dans les plaques chauffantes, les fusibles, les chauffe-eau.
 <!--SR:!2023-05-24,90,222-->
 

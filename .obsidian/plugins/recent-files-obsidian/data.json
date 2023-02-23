@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
+    },
+    {
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Mole.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
+    },
+    {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Chaleur",
+      "path": "Chaleur.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
@@ -17,16 +53,8 @@
       "path": "Excalidraw/euclid draft.md"
     },
     {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
-    },
-    {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
     },
     {
       "basename": "Pasted Image 20230222185508_535",
@@ -109,10 +137,6 @@
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
-    },
-    {
       "basename": "Natural Sciences",
       "path": "Natural Sciences.md"
     },
@@ -171,34 +195,6 @@
     {
       "basename": "Composition du noyau",
       "path": "Composition du noyau.md"
-    },
-    {
-      "basename": "Le modèle atomique de Rutherford",
-      "path": "Le modèle atomique de Rutherford.md"
-    },
-    {
-      "basename": "Conceptes de base economie",
-      "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
-      "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
-    },
-    {
-      "basename": "Ceteris Paribus",
-      "path": "Ceteris Paribus.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
-    },
-    {
-      "basename": "Energie discrete et Radioactivité",
-      "path": "Energie discrete et Radioactivité.md"
     }
   ],
   "omittedPaths": [],

@@ -7,7 +7,7 @@ Created: 2023-02-14
 Representation du spectre électromagnétique:
 ?
 ![[image-20230214104916583.png]]
-<!--SR:!2023-02-23,6,235-->
+<!--SR:!2023-03-07,12,235-->
 
 Formule d'énergie d'un photon et unités:
 ?
@@ -36,7 +36,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 **Representation de niveaux d'énergie d'un spectre (hydrogène):**
 ?
 ![[image-20230214110458766.png|500]]
-<!--SR:!2023-02-23,6,234-->
+<!--SR:!2023-03-08,13,234-->
 
 
 Types de spectres de lumières et représentations:
