@@ -19,7 +19,7 @@ The natural sciences explores and tries to understand the natural world around u
 ?
 Scientific knowledge is based on observations and experimentation, along with the formulation of **hypotheses**. This has lead to remarkable progress in our understanding of our world because it involves analyzing evidence and drawing conclusion. Sometimes these conclusions helped to form the basis of new theories that may even go against mainstream beliefs and doctrines of the time. 
 - Sometimes scientists, however, will devise new theories before they have clear evidence for them and then design experiments to test the theories.
-<!--SR:!2023-02-22,20,230-->
+<!--SR:!2023-04-10,47,230-->
 
 ### Key words
 - **Empirical**:: based on and verified by observation and experience

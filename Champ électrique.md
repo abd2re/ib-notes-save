@@ -22,7 +22,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 
 <!--SR:!2023-02-12,14,130-->
 - Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
-<!--SR:!2023-02-22,51,230-->
+<!--SR:!2023-06-19,117,230-->
 
 ## Champ électrique créer par une charge ponctuelle
 ?

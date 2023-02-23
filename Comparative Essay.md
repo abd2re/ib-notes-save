@@ -8,7 +8,7 @@ Created: 2023-01-24
 Here are seven basic types of **PLOT** as outline by Christopher Booker. If you already read a literary work in your language or literary class you can describe how it fits or breaks on of the plot shown below.
 
 *Overcoming the Monster*=> :: The protagonist must defeat an antagonist (usually an individual, force, or entity) that threatens them and the wider world. 
-<!--SR:!2023-02-22,19,250-->
+<!--SR:!2023-04-12,49,250-->
 
 *Rags to Riches*=> :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
 <!--SR:!2023-03-30,40,250-->
@@ -23,7 +23,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-02-24,21,250-->
 
 *Tragedy*=> :: The protagonist has a central trait or flaw or makes a mistake, which results in catastrophe. 
-<!--SR:!2023-02-22,20,250-->
+<!--SR:!2023-04-13,50,250-->
 
 *Rebirth*=> :: The protagonist undergoes a transformation, and often ends up a better person as a result
 <!--SR:!2023-02-27,22,250-->
