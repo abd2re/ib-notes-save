@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
-    },
-    {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
@@ -101,10 +117,6 @@
       "path": "Composants d'un système informatique.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "TP_physique1",
       "path": "TP_physique1.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7 objectifs d'apprentissage CAS",
       "path": "7 objectifs d'apprentissage CAS.md"
-    },
-    {
-      "basename": "Expériences et projets CAS",
-      "path": "Expériences et projets CAS.md"
-    },
-    {
-      "basename": "Composantes CAS",
-      "path": "Composantes CAS.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     }
   ],
   "omittedPaths": [],

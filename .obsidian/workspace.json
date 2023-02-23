@@ -8,67 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "124081795e07ecf2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Atomic Spectra & Radioactivity",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 7/Atomic Spectra & Radioactivity.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cells & Internal Resistance",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Cells & Internal Resistance.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Circuits & Kirchoff's Laws",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 5/Circuits & Kirchoff's Laws.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Drawing 2023-02-22 16.45.41.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Atomic Spectra & Radioactivity",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 7/Atomic Spectra & Radioactivity.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":3.3333333333333335}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.958333333333336}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-              }
-            }
-          },
-          {
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -76,6 +15,36 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":26.574074074074073}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":17.482435597189696}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Drawing 2023-02-22 13.51.24.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md\"}}",
                   "eState": "{}"
                 },
                 {
@@ -93,9 +62,12 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
+                "file": "Loi de décroissance radioactive.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -333,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -400,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -459,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -492,7 +464,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -511,11 +484,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dece4891fc147e59",
+  "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "Loi de décroissance radioactive.md",
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "_physics.md",
+    "_computer science.md",
+    "Chapitre 2 - System design basics.md",
+    "_math.md",
+    "_english.md",
+    "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
+    "_economy.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Désintégration radioactive.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Composition du noyau.md",
@@ -534,16 +515,7 @@
     "Mole.md",
     "Champ électrique.md",
     "Masse.md",
-    "Chaleur latente.md",
-    "Chaleur massique.md",
     "assets/Chaleur/image-20221011104855058.png",
-    "Capacité calorifique.md",
-    "Energie interne.md",
-    "Changements d'états.md",
-    "Chaleur.md",
-    "Température.md",
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
-    "Excalidraw/assets/Drawing 2023-02-22 13.51.24.excalidraw/Pasted Image 20230222185508_535.png",
-    "assets/Loi de décroissance radioactive/image-20230222134710425.png"
+    "Excalidraw/assets/Drawing 2023-02-22 13.51.24.excalidraw/Pasted Image 20230222185508_535.png"
   ]
 }
