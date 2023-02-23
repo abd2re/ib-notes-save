@@ -134,8 +134,10 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md"
+              }
             }
           }
         ],
@@ -314,6 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,6 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +382,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md"
+              }
             }
           },
           {
@@ -437,6 +443,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -491,6 +498,7 @@
   },
   "active": "b1e5e2b2ddb7ccaf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-23 11.11.27.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-02-22 13.51.24.excalidraw/Pasted Image 20230222185508_535.png",
     "Loi de décroissance radioactive.md",
