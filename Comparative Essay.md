@@ -20,7 +20,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-03-02,25,250-->
 
 *Comedy*=> :: The protagonist experiences a series of lighthearted or confusing events, before the story resolves into a happy ending. 
-<!--SR:!2023-02-24,21,250-->
+<!--SR:!2023-04-19,54,250-->
 
 *Tragedy*=> :: The protagonist has a central trait or flaw or makes a mistake, which results in catastrophe. 
 <!--SR:!2023-04-13,50,250-->

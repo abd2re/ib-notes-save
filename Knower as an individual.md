@@ -18,7 +18,7 @@ Contingent:: only true under certain conditions, and dependent on other things.
 <!--SR:!2023-02-11,18,170-->
 
 Culture:: the shared ideas, beliefs, customs and practices of a community or society.
-<!--SR:!2023-02-24,55,230-->
+<!--SR:!2023-07-02,128,230-->
 
 Perception: an awareness of something in and through the mind
 

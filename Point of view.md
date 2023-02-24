@@ -6,7 +6,7 @@ Created: 2022-12-05
 # Point of view
 
 **Point of view**:: refers to the perspective used by the writer in a story, article or essay. It allows the reader who is telling the story or making the argument. Point of view can be broken down into three types each types has it's own perspective about the events within the writing. 
-<!--SR:!2023-02-24,19,250-->
+<!--SR:!2023-04-14,49,250-->
 
 <!--SR:!2023-04-02,67,230-->
 

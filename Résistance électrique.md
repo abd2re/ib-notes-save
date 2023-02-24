@@ -44,7 +44,7 @@ Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de v
 <!--SR:!2023-05-24,90,222-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
-<!--SR:!2023-02-24,38,222-->
+<!--SR:!2023-05-19,84,222-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
 <!--SR:!2023-04-29,82,242-->
