@@ -5,8 +5,24 @@
       "path": "Résistance électrique.md"
     },
     {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Composition du noyau",
+      "path": "Composition du noyau.md"
+    },
+    {
+      "basename": "Le modèle atomique de Rutherford",
+      "path": "Le modèle atomique de Rutherford.md"
     },
     {
       "basename": "Loi de décroissance radioactive",
@@ -35,18 +51,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
-    },
-    {
-      "basename": "Composition du noyau",
-      "path": "Composition du noyau.md"
-    },
-    {
-      "basename": "Le modèle atomique de Rutherford",
-      "path": "Le modèle atomique de Rutherford.md"
     },
     {
       "basename": "Champ de gravitation",
@@ -91,10 +95,6 @@
     {
       "basename": "Chaleur",
       "path": "Chaleur.md"
-    },
-    {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
     },
     {
       "basename": "euclid draft",
