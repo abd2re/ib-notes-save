@@ -377,23 +377,6 @@
             }
           },
           {
-            "id": "a23ad53c345381b7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0706b047299bf647",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -409,8 +392,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9572127677bb06ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "faced5cec6514527",
@@ -477,14 +478,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbe8158d414b36b4",
+  "active": "9572127677bb06ee",
   "lastOpenFiles": [
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "Loi de décroissance radioactive.md",
