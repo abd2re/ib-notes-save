@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "_computer science",
@@ -27,10 +35,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
@@ -195,10 +199,6 @@
     {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "7 objectifs d'apprentissage CAS",
-      "path": "7 objectifs d'apprentissage CAS.md"
     }
   ],
   "omittedPaths": [],

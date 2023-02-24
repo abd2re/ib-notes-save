@@ -64,15 +64,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "Résistance électrique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ab047d2a0fefa8ff",
+        "type": "tabs",
+        "children": [
           {
-            "id": "70592f56dca47f42",
+            "id": "4319d26987a703d9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -80,54 +86,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":32.972972972972975}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Désintégration radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Désintégration radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":16}},\"scroll\":17.03174603174603}"
-                },
-                {
-                  "title": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":2},\"to\":{\"line\":30,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "euclid draft",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/euclid draft.md\"}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+              }
             }
           }
         ]
@@ -305,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "Résistance électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "Résistance électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de décroissance radioactive.md"
+                "file": "Résistance électrique.md"
               }
             }
           },
@@ -432,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "Résistance électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -485,28 +451,31 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9572127677bb06ee",
+  "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
-    "Loi de décroissance radioactive.md",
-    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
+    "assets/Résistance électrique/Résistance électrique-1.png",
+    "Résistance électrique.md",
+    "assets/Résistance électrique/image-20230116164137567.png",
+    "assets/Résistance électrique/image-20221220093220947.png",
     "_physics.md",
+    "Piles électriques.md",
+    "Loi de décroissance radioactive.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "_computer science.md",
     "Chapitre 2 - System design basics.md",
     "_math.md",
     "_english.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
     "_economy.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Désintégration radioactive.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Composition du noyau.md",
     "Le modèle atomique de Rutherford.md",
     "Champ de gravitation.md",
     "Loi de gravitation de Newton.md",
-    "Piles électriques.md",
     "Force.md",
-    "Résistance électrique.md",
     "Tension ou différence de potentiel électrique.md",
     "Excalidraw/loi de kirchoff pour la tension.md",
     "assets/Tension ou différence de potentiel électrique/Tension ou différence de potentiel électrique.png",
