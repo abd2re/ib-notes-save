@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Internet",
-      "path": "Internet.md"
+      "basename": "Intranet",
+      "path": "Intranet.md"
     },
     {
       "basename": "Réseaux",
       "path": "Réseaux.md"
     },
     {
-      "basename": "Wireless Local Area Network (WLAN)",
-      "path": "Wireless Local Area Network (WLAN).md"
+      "basename": "Internet",
+      "path": "Internet.md"
+    },
+    {
+      "basename": "Wide Area Network (WAN)",
+      "path": "Wide Area Network (WAN).md"
     },
     {
       "basename": "Local Area Network (LAN)",
       "path": "Local Area Network (LAN).md"
+    },
+    {
+      "basename": "Wireless Local Area Network (WLAN)",
+      "path": "Wireless Local Area Network (WLAN).md"
     },
     {
       "basename": "Storage Area Network (SAN)",
@@ -27,10 +35,6 @@
     {
       "basename": "Virtual Local Area Network (VLAN)",
       "path": "Virtual Local Area Network (VLAN).md"
-    },
-    {
-      "basename": "Wide Area Network (WAN)",
-      "path": "Wide Area Network (WAN).md"
     },
     {
       "basename": "computer science template",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 7",
       "path": "Untitled 7.md"
-    },
-    {
-      "basename": "Chapitre 1 - Le CPU et ses éléments",
-      "path": "Chapitre 1 - Le CPU et ses éléments.md"
     }
   ],
   "omittedPaths": [],
