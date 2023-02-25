@@ -72,31 +72,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ab047d2a0fefa8ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4319d26987a703d9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -453,8 +428,9 @@
   },
   "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "assets/Résistance électrique/Résistance électrique-1.png",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Résistance électrique.md",
+    "assets/Résistance électrique/Résistance électrique-1.png",
     "assets/Résistance électrique/Résistance électrique.png",
     "Désintégration radioactive.md",
     "_physics.md",
@@ -466,7 +442,6 @@
     "assets/Résistance électrique/image-20230116164137567.png",
     "assets/Résistance électrique/image-20221220093220947.png",
     "Piles électriques.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "_computer science.md",

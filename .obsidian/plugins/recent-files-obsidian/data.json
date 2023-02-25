@@ -5,6 +5,10 @@
       "path": "Résistance électrique.md"
     },
     {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
       "basename": "Désintégration radioactive",
       "path": "Désintégration radioactive.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     },
     {
       "basename": "_computer science",
