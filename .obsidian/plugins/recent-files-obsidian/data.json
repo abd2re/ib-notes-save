@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Virtual Local Area Network (VLAN)",
-      "path": "Virtual Local Area Network (VLAN).md"
+      "basename": "Internet",
+      "path": "Internet.md"
     },
     {
       "basename": "Réseaux",
       "path": "Réseaux.md"
     },
     {
-      "basename": "Wide Area Network (WAN)",
-      "path": "Wide Area Network (WAN).md"
+      "basename": "Wireless Local Area Network (WLAN)",
+      "path": "Wireless Local Area Network (WLAN).md"
     },
     {
       "basename": "Local Area Network (LAN)",
       "path": "Local Area Network (LAN).md"
+    },
+    {
+      "basename": "Storage Area Network (SAN)",
+      "path": "Storage Area Network (SAN).md"
+    },
+    {
+      "basename": "Untitled 11",
+      "path": "Untitled 11.md"
+    },
+    {
+      "basename": "Virtual Local Area Network (VLAN)",
+      "path": "Virtual Local Area Network (VLAN).md"
+    },
+    {
+      "basename": "Wide Area Network (WAN)",
+      "path": "Wide Area Network (WAN).md"
     },
     {
       "basename": "computer science template",
@@ -183,22 +199,6 @@
     {
       "basename": "Chapitre 1 - Le CPU et ses éléments",
       "path": "Chapitre 1 - Le CPU et ses éléments.md"
-    },
-    {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Gravitational Force, Field, and Orbits",
-      "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
-    },
-    {
-      "basename": "Natural Sciences",
-      "path": "Natural Sciences.md"
-    },
-    {
-      "basename": "Knowledge",
-      "path": "Knowledge.md"
     }
   ],
   "omittedPaths": [],

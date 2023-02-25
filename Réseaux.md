@@ -13,9 +13,9 @@ Created: 2022-10-05
 - [[Local Area Network (LAN)]]
 - [[Wide Area Network (WAN)]]
 - [[Virtual Local Area Network (VLAN)]]
-- Storage Area Network (SAN)
-- Wireless Local Area Network (WLAN)
-- Internet
+- [[Storage Area Network (SAN)]]
+- [[Wireless Local Area Network (WLAN)]]
+- [[Internet]]
 - Intranet
 - Extranet
 - Virtual Private Network (VPN)
