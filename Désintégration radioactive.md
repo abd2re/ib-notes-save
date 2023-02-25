@@ -16,7 +16,7 @@ Les 4 types de radioactivité sont:
 - Beta+ ($\beta^+$)
 - Beta- ($\beta^-$)
 - Gamma ($\gamma$)
-<!--SR:!2023-02-25,7,250-->
+<!--SR:!2023-03-17,20,250-->
 
 
 Equations des 4 types de radioactivités:
