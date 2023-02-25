@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Réseaux",
+      "path": "Réseaux.md"
+    },
+    {
+      "basename": "Chapitre 1 - Types de réseaux",
+      "path": "Chapitre 1 - Types de réseaux.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "_math",
@@ -161,20 +173,12 @@
       "path": "Champ électrique.md"
     },
     {
-      "basename": "Réseaux",
-      "path": "Réseaux.md"
-    },
-    {
       "basename": "Gravitational Force, Field, and Orbits",
       "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
     },
     {
       "basename": "Natural Sciences",
       "path": "Natural Sciences.md"
-    },
-    {
-      "basename": "Chapitre 1 - Types de réseaux",
-      "path": "Chapitre 1 - Types de réseaux.md"
     },
     {
       "basename": "Knowledge",
@@ -195,10 +199,6 @@
     {
       "basename": "TOK idk",
       "path": "TOK idk.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     }
   ],
   "omittedPaths": [],

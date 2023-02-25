@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 1 - Types de réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":17.761124121779858}"
+                },
+                {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":30.883928571428573}"
+                },
+                {
                   "title": "Résistance électrique",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Résistance électrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -70,8 +94,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
-                "mode": "preview",
+                "file": "Réseaux.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -252,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Réseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Réseaux.md"
               }
             }
           },
@@ -379,7 +403,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Réseaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -434,8 +458,11 @@
   },
   "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "Loi de décroissance radioactive.md",
+    "Chapitre 1 - Types de réseaux.md",
+    "_computer science.md",
+    "_CAS.md",
     "_physics.md",
+    "Loi de décroissance radioactive.md",
     "Le modèle atomique de Rutherford.md",
     "Composition du noyau.md",
     "Résistance électrique.md",
@@ -450,7 +477,6 @@
     "Piles électriques.md",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "_computer science.md",
     "Chapitre 2 - System design basics.md",
     "_math.md",
     "_english.md",
@@ -467,7 +493,6 @@
     "Loi des gaz parfait.md",
     "Mole.md",
     "Champ électrique.md",
-    "Masse.md",
     "assets/Chaleur/image-20221011104855058.png"
   ]
 }
