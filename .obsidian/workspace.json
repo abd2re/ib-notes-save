@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Résistance électrique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Résistance électrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -64,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -246,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Résistance électrique.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -373,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Résistance électrique.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -428,17 +434,17 @@
   },
   "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
+    "Loi de décroissance radioactive.md",
+    "_physics.md",
+    "Le modèle atomique de Rutherford.md",
+    "Composition du noyau.md",
     "Résistance électrique.md",
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "assets/Résistance électrique/Résistance électrique-1.png",
     "assets/Résistance électrique/Résistance électrique.png",
     "Désintégration radioactive.md",
-    "_physics.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
-    "Composition du noyau.md",
-    "Le modèle atomique de Rutherford.md",
-    "Loi de décroissance radioactive.md",
     "assets/Résistance électrique/image-20230116164137567.png",
     "assets/Résistance électrique/image-20221220093220947.png",
     "Piles électriques.md",

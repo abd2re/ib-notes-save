@@ -8,7 +8,7 @@ Created: 2023-02-14
 ## Radioactivité
 ?
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium.
-<!--SR:!2023-02-25,1,147-->
+<!--SR:!2023-02-26,1,147-->
 
 Les 4 types de radioactivité sont:
 ?
@@ -32,7 +32,7 @@ Pouvoir de penetration des 3 radioactivités:
 <!--SR:!2023-02-26,8,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
-<!--SR:!2023-02-25,3,150-->
+<!--SR:!2023-03-02,5,150-->
 
 #### Stabilité des noyaux
 ?

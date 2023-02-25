@@ -23,7 +23,7 @@ $$\large{T_{1/2}=\frac{t}{\log_2\frac{N_{0}}{N}}}$$
 - $N_0$ = Masse de départ d'une substance radioactive
 - $t$ =  temps passé
 - $T_{1/2}$ = période radioactive de la substance (constant)
-<!--SR:!2023-02-25,3,250-->
+<!--SR:!2023-03-06,9,250-->
 
 Graphe de période radioactive:
 ?

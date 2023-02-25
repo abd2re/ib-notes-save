@@ -6,7 +6,7 @@ Created: 2022-11-22
 # Rappel d'électrostatique
 
 - 2 corps de charges opposées s::'attirent
-<!--SR:!2023-02-25,58,250-->
+<!--SR:!2023-07-20,145,250-->
 - 2 corps de charge de meme signe s::e repoussent
 <!--SR:!2023-07-05,135,250-->
 
