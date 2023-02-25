@@ -9,4 +9,7 @@ Created: 2023-02-25
 - Son principal objectif est de faciliter la communication entre les individus ou les groupes de travail et d'améliorer le partage des données. Les ressources et services de l'intranet ne sont pas accessibles au monde extérieur à l'entreprise.
 - Dans tous les cas où un intranet est connecté à l'internet, un pare-feu est utilisé pour le protéger.
 
-Différence etre I
+Différence entre Intranet et Extranet:
+?
+![[image-20230225140242368.png]]
+

@@ -11,17 +11,17 @@
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Peer-to-Peer (P2P)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Peer-to-Peer (P2P).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":5.485294117647059}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Chapitre 1 - Types de réseaux",
@@ -100,37 +100,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intranet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c483fc53b548cff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intranet.md",
-                "mode": "source",
+                "file": "Réseaux.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intranet.md",
+                "file": "Réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +294,7 @@
             }
           },
           {
-            "id": "eecccb2174ad76f1",
+            "id": "0360aeccc04578f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -329,10 +306,11 @@
               ]
             },
             "state": {
-              "type": "tag",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Réseaux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -351,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intranet.md"
+                "file": "Réseaux.md"
               }
             }
           },
@@ -390,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "faced5cec6514527",
@@ -411,7 +389,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intranet.md",
+                "file": "Réseaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -424,9 +402,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.6,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -434,7 +412,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4259154289291477,
+                  "scale": 0.23840041147668747,
                   "close": true
                 }
               }
@@ -463,10 +441,22 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5c483fc53b548cff",
+  "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
+    "Peer-to-Peer (P2P).md",
+    "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "Réseaux.md",
+    "Personal Area Network (PAN).md",
+    "assets/Peer-to-Peer (P2P)",
+    "assets/Personal Area Network (PAN)/image-20230225140906155.png",
+    "assets/Personal Area Network (PAN)",
+    "Virtual Private Network (VPN).md",
+    "assets/Virtual Private Network (VPN)/image-20230225140535814.png",
+    "assets/Virtual Private Network (VPN)/image-20230225140457593.png",
+    "assets/Virtual Private Network (VPN)",
     "Intranet.md",
+    "assets/Intranet/image-20230225140242368.png",
+    "assets/Intranet",
     "Internet.md",
     "Wide Area Network (WAN).md",
     "Virtual Local Area Network (VLAN).md",
@@ -482,7 +472,6 @@
     "Untitled 11.md",
     "assets/Virtual Local Area Network (VLAN)/image-20230225134258745.png",
     "assets/Virtual Local Area Network (VLAN)",
-    "assets/Wide Area Network (WAN)/image-20230225134004366.png",
     "assets/Wide Area Network (WAN)",
     "template/computer science template.md",
     "Chapitre 1 - Types de réseaux.md",
@@ -494,16 +483,8 @@
     "Composition du noyau.md",
     "Résistance électrique.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "assets/Résistance électrique/Résistance électrique-1.png",
-    "assets/Résistance électrique/Résistance électrique.png",
     "Désintégration radioactive.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
-    "assets/Résistance électrique/image-20230116164137567.png",
-    "Piles électriques.md",
-    "Chapitre 2 - System design basics.md",
-    "_math.md",
-    "_english.md",
-    "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
+    "Piles électriques.md"
   ]
 }

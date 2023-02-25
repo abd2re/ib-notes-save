@@ -17,6 +17,6 @@ Created: 2022-10-05
 - [[Wireless Local Area Network (WLAN)]]
 - [[Internet]]
 - [[Intranet]]
-- Virtual Private Network (VPN)
-- Personal Area Network (PAN)
-- Peer-to-Peer (P2P)
+- [[Virtual Private Network (VPN)]]
+- [[Personal Area Network (PAN)]]
+- [[Peer-to-Peer (P2P)]]

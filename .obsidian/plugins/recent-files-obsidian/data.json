@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Intranet",
-      "path": "Intranet.md"
-    },
-    {
       "basename": "Réseaux",
       "path": "Réseaux.md"
+    },
+    {
+      "basename": "Peer-to-Peer (P2P)",
+      "path": "Peer-to-Peer (P2P).md"
+    },
+    {
+      "basename": "Personal Area Network (PAN)",
+      "path": "Personal Area Network (PAN).md"
+    },
+    {
+      "basename": "Virtual Private Network (VPN)",
+      "path": "Virtual Private Network (VPN).md"
+    },
+    {
+      "basename": "Intranet",
+      "path": "Intranet.md"
     },
     {
       "basename": "Internet",
@@ -187,18 +199,6 @@
     {
       "basename": "Subventions",
       "path": "Subventions.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 12.09.27.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md"
-    },
-    {
-      "basename": "Untitled 7",
-      "path": "Untitled 7.md"
     }
   ],
   "omittedPaths": [],
