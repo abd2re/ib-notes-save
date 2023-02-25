@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Virtual Local Area Network (VLAN)",
+      "path": "Virtual Local Area Network (VLAN).md"
+    },
+    {
       "basename": "Réseaux",
       "path": "Réseaux.md"
+    },
+    {
+      "basename": "Wide Area Network (WAN)",
+      "path": "Wide Area Network (WAN).md"
+    },
+    {
+      "basename": "Local Area Network (LAN)",
+      "path": "Local Area Network (LAN).md"
+    },
+    {
+      "basename": "computer science template",
+      "path": "template/computer science template.md"
     },
     {
       "basename": "Chapitre 1 - Types de réseaux",
@@ -183,22 +199,6 @@
     {
       "basename": "Knowledge",
       "path": "Knowledge.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
-      "basename": "TOK work 4",
-      "path": "TOK work 4.md"
-    },
-    {
-      "basename": "Human Sciences",
-      "path": "Human Sciences.md"
-    },
-    {
-      "basename": "TOK idk",
-      "path": "TOK idk.md"
     }
   ],
   "omittedPaths": [],

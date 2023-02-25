@@ -11,8 +11,14 @@
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Wide Area Network (WAN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wide Area Network (WAN).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -95,13 +101,36 @@
               "type": "markdown",
               "state": {
                 "file": "Réseaux.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d81df70ce9ce644d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Local Area Network (VLAN).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Virtual Local Area Network (VLAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Virtual Local Area Network (VLAN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux.md"
+                "file": "Virtual Local Area Network (VLAN).md"
               }
             }
           },
@@ -403,7 +432,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réseaux.md",
+                "file": "Virtual Local Area Network (VLAN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -456,8 +485,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fbe8158d414b36b4",
+  "active": "d81df70ce9ce644d",
   "lastOpenFiles": [
+    "Réseaux.md",
+    "Virtual Local Area Network (VLAN).md",
+    "Wide Area Network (WAN).md",
+    "assets/Wide Area Network (WAN)/image-20230225134004366.png",
+    "assets/Wide Area Network (WAN)",
+    "Local Area Network (LAN).md",
+    "template/computer science template.md",
     "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
     "_CAS.md",
@@ -486,13 +522,7 @@
     "Loi de gravitation de Newton.md",
     "Force.md",
     "Tension ou différence de potentiel électrique.md",
-    "Excalidraw/loi de kirchoff pour la tension.md",
     "assets/Tension ou différence de potentiel électrique/Tension ou différence de potentiel électrique.png",
-    "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png",
-    "Rappel d'électrostatique.md",
-    "Loi des gaz parfait.md",
-    "Mole.md",
-    "Champ électrique.md",
-    "assets/Chaleur/image-20221011104855058.png"
+    "assets/Tension ou différence de potentiel électrique/image-20230109153357237.png"
   ]
 }

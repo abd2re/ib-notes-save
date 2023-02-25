@@ -60,5 +60,29 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-hotkeys-for-templates:computer science template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:economy template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:physics template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad3"
+    }
   ]
 }
