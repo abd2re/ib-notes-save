@@ -11,22 +11,16 @@
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Peer-to-Peer (P2P)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Peer-to-Peer (P2P).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Réseaux",
+                  "title": "Chapitre 1 - Types de réseaux",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.47863247863247865}"
-                },
-                {
-                  "state": "{}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -100,8 +94,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
-                "mode": "source",
+                "file": "Réseaux.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -282,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Réseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md"
+                "file": "Réseaux.md"
               }
             }
           },
@@ -400,7 +394,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Réseaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -423,7 +417,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.23840041147668747,
+                  "scale": 0.29358515373440147,
                   "close": true
                 }
               }
@@ -454,9 +448,11 @@
   },
   "active": "fbe8158d414b36b4",
   "lastOpenFiles": [
-    "Réseaux.md",
-    "Peer-to-Peer (P2P).md",
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
+    "Peer-to-Peer (P2P).md",
+    "Réseaux.md",
+    "Virtual Local Area Network (VLAN).md",
+    "Chapitre 1 - Types de réseaux.md",
     "Personal Area Network (PAN).md",
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)/image-20230225140906155.png",
@@ -470,7 +466,6 @@
     "assets/Intranet",
     "Internet.md",
     "Wide Area Network (WAN).md",
-    "Virtual Local Area Network (VLAN).md",
     "Local Area Network (LAN).md",
     "Wireless Local Area Network (WLAN).md",
     "assets/Wireless Local Area Network (WLAN)/image-20230225135137431.png",
@@ -485,7 +480,6 @@
     "assets/Virtual Local Area Network (VLAN)",
     "assets/Wide Area Network (WAN)",
     "template/computer science template.md",
-    "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
     "_CAS.md",
     "_physics.md",
