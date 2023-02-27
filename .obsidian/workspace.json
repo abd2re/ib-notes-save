@@ -254,9 +254,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90beb38fd6ffc9e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current competitions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -431,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +479,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -478,7 +500,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamentaux des réseaux.md"
+                "file": "Current competitions.md"
               }
             }
           },
@@ -519,6 +541,15 @@
           {
             "id": "bee498b47b31b823",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -549,7 +580,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -601,10 +632,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "38b0ec10db9ed702",
+  "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
-    "Modèle OSI.md",
     "Fondamentaux des réseaux.md",
+    "Current competitions.md",
+    "Modèle OSI.md",
     "Mise en réseau.md",
     "Normes dans la construction des réseaux.md",
     "Réseaux.md",
@@ -647,7 +679,6 @@
     "Untitled 11.md",
     "assets/Virtual Local Area Network (VLAN)",
     "assets/Wide Area Network (WAN)",
-    "template/computer science template.md",
-    "_CAS.md"
+    "template/computer science template.md"
   ]
 }

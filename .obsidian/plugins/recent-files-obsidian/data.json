@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Current competitions",
+      "path": "Current competitions.md"
+    },
+    {
       "basename": "Fondamentaux des réseaux",
       "path": "Fondamentaux des réseaux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cells & Internal Resistance",
       "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 16.45.41.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md"
     }
   ],
   "omittedPaths": [],
