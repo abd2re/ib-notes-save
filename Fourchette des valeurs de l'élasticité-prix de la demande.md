@@ -23,7 +23,7 @@ Lorsque l'élasticité-prix de la demande est égale à 1 (PED = 1), on dit que 
 ## Demande parfaitement inélastique
 ?
 Lorsque la valeur de l'élasticité-prix de la demande est nulle (PED = 0), on dit que la demande est parfaitement inélastique. La demande des consommateurs est totalement insensible aux changements de prix.
-<!--SR:!2023-02-27,64,250-->
+<!--SR:!2023-08-09,163,250-->
 
 ## Demande parfaitement élastique
 ?

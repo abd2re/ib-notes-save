@@ -26,7 +26,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-04-13,50,250-->
 
 *Rebirth*=> :: The protagonist undergoes a transformation, and often ends up a better person as a result
-<!--SR:!2023-02-27,22,250-->
+<!--SR:!2023-04-22,54,250-->
 
 ## Comparative essay Tips and Tricks
 When writing a comparative essay in the style of paper 2 you should to answer the following question:: In what ways and for what reasons is… ?
