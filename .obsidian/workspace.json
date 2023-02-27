@@ -128,13 +128,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Drawing 2023-02-27 16.58.53.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+                "file": "exercises/math/theme 1/Sequences & Series.md"
               }
             }
           }
@@ -314,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+                "file": "exercises/math/theme 1/Sequences & Series.md"
               }
             }
           },
@@ -432,7 +438,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,7 +471,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -486,8 +493,11 @@
   },
   "active": "2d102a363669f1b0",
   "lastOpenFiles": [
-    "_computer science.md",
+    "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
+    "exercises/math/theme 1/assets/Sequences & Series",
+    "exercises/math/theme 1/assets",
     "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+    "_computer science.md",
     "Energie interne.md",
     "_economy.md",
     "Réseaux.md",
@@ -528,7 +538,6 @@
     "Loi de décroissance radioactive.md",
     "Le modèle atomique de Rutherford.md",
     "Composition du noyau.md",
-    "Résistance électrique.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    "Résistance électrique.md"
   ]
 }
