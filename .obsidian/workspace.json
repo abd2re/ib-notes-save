@@ -11,16 +11,16 @@
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Modèle OSI",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modèle OSI.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":5},\"to\":{\"line\":7,\"ch\":5}}}"
                 },
                 {
-                  "title": "Fondamentaux des réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fondamentaux des réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
@@ -124,8 +124,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modèle OSI.md",
-                "mode": "source",
+                "file": "Fondamentaux des réseaux.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -255,7 +255,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -430,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Fondamentaux des réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Fondamentaux des réseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -477,7 +478,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modèle OSI.md"
+                "file": "Fondamentaux des réseaux.md"
               }
             }
           },
@@ -548,7 +549,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Fondamentaux des réseaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -600,10 +601,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fbe8158d414b36b4",
+  "active": "38b0ec10db9ed702",
   "lastOpenFiles": [
-    "Fondamentaux des réseaux.md",
     "Modèle OSI.md",
+    "Fondamentaux des réseaux.md",
     "Mise en réseau.md",
     "Normes dans la construction des réseaux.md",
     "Réseaux.md",
