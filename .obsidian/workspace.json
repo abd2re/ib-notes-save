@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Chapitre 1 - Types de réseaux",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -94,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseaux.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -276,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -394,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réseaux.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -446,10 +458,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fbe8158d414b36b4",
+  "active": "9f7844165af5e0ad",
   "lastOpenFiles": [
-    "Authenticité.md",
+    "_economy.md",
     "Réseaux.md",
+    "Authenticité.md",
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "Peer-to-Peer (P2P).md",
     "Virtual Local Area Network (VLAN).md",
@@ -490,7 +503,6 @@
     "Résistance électrique.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "Désintégration radioactive.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Piles électriques.md"
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
   ]
 }

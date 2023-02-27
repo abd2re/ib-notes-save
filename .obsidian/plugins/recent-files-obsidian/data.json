@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Réseaux",
       "path": "Réseaux.md"
     },
@@ -57,10 +65,6 @@
       "path": "template/computer science template.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Champ de gravitation",
