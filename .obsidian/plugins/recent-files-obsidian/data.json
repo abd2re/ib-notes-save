@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-02-27 16.58.53.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
     },
     {
       "basename": "_economy",
@@ -149,10 +157,6 @@
       "path": "Chaleur massique.md"
     },
     {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
       "basename": "Chaleur",
       "path": "Chaleur.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Interventions gouvernementales",
       "path": "Interventions gouvernementales.md"
-    },
-    {
-      "basename": "Subventions",
-      "path": "Subventions.md"
     }
   ],
   "omittedPaths": [],

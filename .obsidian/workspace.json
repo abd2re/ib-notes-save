@@ -11,8 +11,14 @@
             "id": "fbe8158d414b36b4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Energie interne",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie interne.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -112,8 +118,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d102a363669f1b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
               }
             }
           },
@@ -406,7 +432,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -458,8 +484,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "2d102a363669f1b0",
   "lastOpenFiles": [
+    "_computer science.md",
+    "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+    "Energie interne.md",
     "_economy.md",
     "Réseaux.md",
     "Authenticité.md",
@@ -494,15 +523,12 @@
     "assets/Virtual Local Area Network (VLAN)",
     "assets/Wide Area Network (WAN)",
     "template/computer science template.md",
-    "_computer science.md",
     "_CAS.md",
     "_physics.md",
     "Loi de décroissance radioactive.md",
     "Le modèle atomique de Rutherford.md",
     "Composition du noyau.md",
     "Résistance électrique.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "Désintégration radioactive.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
   ]
 }
