@@ -24,7 +24,7 @@ Il y a deux types d'impots indirects à considérer:
 - Taxe spécifique
 - Taxe en pourcentage ou taxe ad valorem
 ![[image-20230117160216475.png]]
-<!--SR:!2023-02-26,23,230-->
+<!--SR:!2023-03-10,12,210-->
 
 ## Les effets de la fiscalité indirecte sur le surplus du consommateur et du producteur
 Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-être social total après l'imposition d'une taxe indirecte sur un bien (courbes)?
