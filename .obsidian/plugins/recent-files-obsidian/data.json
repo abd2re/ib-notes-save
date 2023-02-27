@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Sequences & Series",
-      "path": "exercises/math/theme 1/Sequences & Series.md"
+      "basename": "Modèle OSI",
+      "path": "Modèle OSI.md"
     },
     {
-      "basename": "Drawing 2023-02-27 16.58.53.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+      "basename": "Fondamentaux des réseaux",
+      "path": "Fondamentaux des réseaux.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
+      "basename": "Mise en réseau",
+      "path": "Mise en réseau.md"
     },
     {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Normes dans la construction des réseaux",
+      "path": "Normes dans la construction des réseaux.md"
     },
     {
       "basename": "Réseaux",
@@ -27,6 +23,26 @@
     {
       "basename": "Chapitre 1 - Types de réseaux",
       "path": "Chapitre 1 - Types de réseaux.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Sequences & Series",
+      "path": "exercises/math/theme 1/Sequences & Series.md"
+    },
+    {
+      "basename": "Drawing 2023-02-27 16.58.53.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Peer-to-Peer (P2P)",
@@ -183,22 +199,6 @@
     {
       "basename": "Drawing 2023-02-22 16.45.41.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md"
-    },
-    {
-      "basename": "Composants d'un système informatique",
-      "path": "Composants d'un système informatique.md"
-    },
-    {
-      "basename": "TP_physique1",
-      "path": "TP_physique1.md"
-    },
-    {
-      "basename": "backup",
-      "path": "backup.md"
-    },
-    {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
     }
   ],
   "omittedPaths": [],
