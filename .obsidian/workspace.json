@@ -270,8 +270,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current competitions.md",
-                "mode": "source",
+                "file": "__Current competitions.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -453,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current competitions.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +479,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current competitions.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -500,7 +500,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current competitions.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -580,7 +580,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Current competitions.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -635,7 +635,7 @@
   "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
     "Fondamentaux des réseaux.md",
-    "Current competitions.md",
+    "__Current competitions.md",
     "Modèle OSI.md",
     "Mise en réseau.md",
     "Normes dans la construction des réseaux.md",

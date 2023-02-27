@@ -5,7 +5,7 @@ picoCTF (CMU): [picoCTF - CMU Cybersecurity Competition](https://picoctf.org)
 - [ ] Done
 
 
-Algorea (Not certain)
+Algorea (Not certain to finish cuz dumb af)
 - [x] Registered
 - [x] In progress
 - [ ] Done
@@ -24,3 +24,7 @@ Bebras (Nov 2023)
 
 Helpful ressources:
 [Fetching Title#wieh](https://blog.prepscholar.com/computer-science-competitions-for-high-schoolers)
+
+Euclid Math competition:
+- [x] Registered
+- [ ] Done
