@@ -5,6 +5,14 @@
       "path": "12 TOK Concepts.md"
     },
     {
+      "basename": "Attentes futures (demande)",
+      "path": "Attentes futures (demande).md"
+    },
+    {
+      "basename": "Anonymat",
+      "path": "Anonymat.md"
+    },
+    {
       "basename": "Accès aux disques et gestion des données",
       "path": "Accès aux disques et gestion des données.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Chaleur",
       "path": "Chaleur.md"
-    },
-    {
-      "basename": "euclid draft",
-      "path": "Excalidraw/euclid draft.md"
-    },
-    {
-      "basename": "Pasted Image 20230222185508_535",
-      "path": "Excalidraw/assets/Drawing 2023-02-22 13.51.24.excalidraw/Pasted Image 20230222185508_535.png"
     }
   ],
   "omittedPaths": [],

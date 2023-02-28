@@ -266,6 +266,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Attentes futures (demande)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attentes futures (demande).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anonymat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Anonymat.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "12 TOK Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"12 TOK Concepts.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Accès aux disques et gestion des données",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Accès aux disques et gestion des données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -646,6 +664,10 @@
   },
   "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
+    "Attentes futures (demande).md",
+    "Anonymat.md",
+    "12 TOK Concepts.md",
+    "assets/12 TOK Concepts/12 TOK Concepts.png",
     "Accès aux disques et gestion des données.md",
     "__Current competitions.md",
     "Fondamentaux des réseaux.md",
@@ -681,15 +703,11 @@
     "Internet.md",
     "Wide Area Network (WAN).md",
     "Local Area Network (LAN).md",
-    "Wireless Local Area Network (WLAN).md",
     "assets/Wireless Local Area Network (WLAN)/image-20230225135137431.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134716067.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134712133.png",
     "assets/Wireless Local Area Network (WLAN)",
-    "Storage Area Network (SAN).md",
-    "assets/Storage Area Network (SAN)/image-20230225134427087.png",
     "assets/Storage Area Network (SAN)",
-    "Untitled 11.md",
     "assets/Virtual Local Area Network (VLAN)",
     "assets/Wide Area Network (WAN)"
   ]
