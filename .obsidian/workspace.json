@@ -306,9 +306,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c2d844a814bf2b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -483,7 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -509,7 +528,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -530,7 +549,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 TOK Concepts.md"
+                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
               }
             }
           },
@@ -610,7 +629,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 TOK Concepts.md",
+                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -643,7 +662,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -662,11 +682,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "90beb38fd6ffc9e8",
+  "active": "54c2d844a814bf2b",
   "lastOpenFiles": [
+    "12 TOK Concepts.md",
+    "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "Attentes futures (demande).md",
     "Anonymat.md",
-    "12 TOK Concepts.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "Accès aux disques et gestion des données.md",
     "__Current competitions.md",
@@ -702,7 +723,6 @@
     "assets/Intranet",
     "Internet.md",
     "Wide Area Network (WAN).md",
-    "Local Area Network (LAN).md",
     "assets/Wireless Local Area Network (WLAN)/image-20230225135137431.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134716067.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134712133.png",
