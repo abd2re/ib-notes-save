@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "Etude graphique des fonctions quadratiques",
+      "path": "Etude graphique des fonctions quadratiques.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
       "basename": "Drawing 2023-02-28 20.15.14.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
     },
@@ -153,10 +173,6 @@
       "path": "Loi de décroissance radioactive.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "_english",
       "path": "_english.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "loi de kirchoff pour la tension",
       "path": "Excalidraw/loi de kirchoff pour la tension.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "Loi des gaz parfait",
-      "path": "Loi des gaz parfait.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Mole.md"
-    },
-    {
-      "basename": "Chaleur massique",
-      "path": "Chaleur massique.md"
     }
   ],
   "omittedPaths": [],

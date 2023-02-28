@@ -325,9 +325,37 @@
                 "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "0c9c9189b01e9592",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7418300653594772}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fonctions quadratiques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -502,7 +530,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "Fonctions quadratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -528,7 +556,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "Fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -549,7 +577,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
+                "file": "Fonctions quadratiques.md"
               }
             }
           },
@@ -629,7 +657,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "Fonctions quadratiques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -682,10 +710,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "54c2d844a814bf2b",
+  "active": "0c9c9189b01e9592",
   "lastOpenFiles": [
-    "12 TOK Concepts.md",
+    "_math.md",
+    "Position relative parabole et droite.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "Formules de Viète.md",
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+    "12 TOK Concepts.md",
     "Attentes futures (demande).md",
     "Anonymat.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
@@ -714,15 +746,11 @@
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)/image-20230225140906155.png",
     "assets/Personal Area Network (PAN)",
-    "Virtual Private Network (VPN).md",
     "assets/Virtual Private Network (VPN)/image-20230225140535814.png",
     "assets/Virtual Private Network (VPN)/image-20230225140457593.png",
     "assets/Virtual Private Network (VPN)",
-    "Intranet.md",
     "assets/Intranet/image-20230225140242368.png",
     "assets/Intranet",
-    "Internet.md",
-    "Wide Area Network (WAN).md",
     "assets/Wireless Local Area Network (WLAN)/image-20230225135137431.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134716067.png",
     "assets/Wireless Local Area Network (WLAN)/image-20230225134712133.png",
