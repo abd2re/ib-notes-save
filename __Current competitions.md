@@ -15,15 +15,10 @@ Hackathon
 - [ ] In progress
 - [ ] Done
 
-
 Bebras (Nov 2023)
 - [ ] Registered
 - [ ] In progress
 - [ ] Done
-
-
-Helpful ressources:
-[Fetching Title#wieh](https://blog.prepscholar.com/computer-science-competitions-for-high-schoolers)
 
 Euclid Math competition:
 - [x] Registered
@@ -33,4 +28,8 @@ CodeChef competitions (different starters):
 - [x] Registered
 - [ ] In progress
 - [ ] Done
+
+
+Helpful ressources:
+[Fetching Title#wieh](https://blog.prepscholar.com/computer-science-competitions-for-high-schoolers)
 
