@@ -266,6 +266,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Accès aux disques et gestion des données",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Accès aux disques et gestion des données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -276,8 +282,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accès aux disques et gestion des données.md",
-                "mode": "source",
+                "file": "12 TOK Concepts.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -459,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accès aux disques et gestion des données.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -485,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accès aux disques et gestion des données.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -506,7 +512,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accès aux disques et gestion des données.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -586,7 +592,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Accès aux disques et gestion des données.md",
+                "file": "12 TOK Concepts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -640,6 +646,7 @@
   },
   "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
+    "Accès aux disques et gestion des données.md",
     "__Current competitions.md",
     "Fondamentaux des réseaux.md",
     "Modèle OSI.md",
@@ -684,7 +691,6 @@
     "assets/Storage Area Network (SAN)",
     "Untitled 11.md",
     "assets/Virtual Local Area Network (VLAN)",
-    "assets/Wide Area Network (WAN)",
-    "template/computer science template.md"
+    "assets/Wide Area Network (WAN)"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 TOK Concepts",
+      "path": "12 TOK Concepts.md"
+    },
+    {
       "basename": "Accès aux disques et gestion des données",
       "path": "Accès aux disques et gestion des données.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20230222185508_535",
       "path": "Excalidraw/assets/Drawing 2023-02-22 13.51.24.excalidraw/Pasted Image 20230222185508_535.png"
-    },
-    {
-      "basename": "Atomic Spectra & Radioactivity",
-      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
     }
   ],
   "omittedPaths": [],
