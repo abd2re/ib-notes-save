@@ -264,13 +264,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Accès aux disques et gestion des données.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -453,7 +459,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Accès aux disques et gestion des données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +485,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Accès aux disques et gestion des données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -500,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "Accès aux disques et gestion des données.md"
               }
             }
           },
@@ -580,7 +586,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Accès aux disques et gestion des données.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -634,8 +640,8 @@
   },
   "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
-    "Fondamentaux des réseaux.md",
     "__Current competitions.md",
+    "Fondamentaux des réseaux.md",
     "Modèle OSI.md",
     "Mise en réseau.md",
     "Normes dans la construction des réseaux.md",
