@@ -6,7 +6,7 @@ Created: 2023-01-17
 # Impôts indirects
 ?
 Les impôts indirects désignent les impôts sur les dépenses. Ils ne sont pas prélevés **directement** sur les revenus ou le patrimoine des personnes. Ils sont payés **indirectement** par les consommateurs lorsqu'ils achètent un bien, car les impôts indirects sont inclus dans le prix du bien.
-<!--SR:!2023-03-01,24,230-->
+<!--SR:!2023-04-25,55,230-->
 
 Les objectifs de impôts indirects sont généralement de (4):
 ?
@@ -43,7 +43,7 @@ Le prix pour les consommateurs=>::Augmente
 La quantité d'équilibre=>::Diminue
 <!--SR:!2023-03-23,34,204-->
 Le prix net pour les producteurs=>::Diminue
-<!--SR:!2023-03-01,24,244-->
+<!--SR:!2023-05-02,62,244-->
 Le revenu total des producteurs=>::Diminue
 <!--SR:!2023-03-03,26,244-->
 Les dépenses totales des consommateurs=>::Dépend du DEP

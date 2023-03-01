@@ -22,7 +22,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 (graphe)
 ?
 ![[image-20230124133701027.png]]
-<!--SR:!2023-03-01,23,250-->
+<!--SR:!2023-04-28,58,250-->
 
 ## Effet sur la société dans son ensemble
 ?
@@ -39,7 +39,7 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Le revenu total des producteurs=>::Augmente
 <!--SR:!2023-03-05,25,250-->
 - Les dépenses totales des consommateurs=>::Dépend du (PED)
-<!--SR:!2023-03-01,4,150-->
+<!--SR:!2023-03-07,6,150-->
 - Recettes du gouvernement=>::Diminue
 <!--SR:!2023-04-15,49,250-->
 - Bien-être social=>::Diminue

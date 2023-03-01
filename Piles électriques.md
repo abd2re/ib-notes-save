@@ -51,7 +51,7 @@ formule emf::$$e=(r+R)I$$
 ?
 Un récepteur (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet joule.
 Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne. 
-<!--SR:!2023-03-01,31,240-->
+<!--SR:!2023-05-14,74,240-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2023-03-13,39,240-->
