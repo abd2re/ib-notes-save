@@ -16,7 +16,7 @@ We might beginning by saying it's the study of the past. However the answer is m
 - People know what happened in the past by looking at things from the past including sources (like books, newspapers, and letters) and artifacts (like pottery, tools, and human or animal remains.)
 
 **Pluralistic history**:: Accepting that there are various different perspectives that may be justified, and multiple possible accounts of the past.
-<!--SR:!2023-03-02,52,250-->
+<!--SR:!2023-07-10,130,250-->
 
 1) We have very close interpretation of the stories
 2) Our memory, what we were doing during this period.

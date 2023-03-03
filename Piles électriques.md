@@ -88,7 +88,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2023-03-02,30,240-->
+<!--SR:!2023-05-15,74,240-->
 
 
 
