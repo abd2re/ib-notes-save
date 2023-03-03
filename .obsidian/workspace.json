@@ -337,6 +337,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Fonctions quadratiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -347,7 +353,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Champ électrique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -530,7 +536,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -556,7 +562,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -577,7 +583,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "Champ électrique.md"
               }
             }
           },
@@ -657,7 +663,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Champ électrique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -712,6 +718,7 @@
   },
   "active": "0c9c9189b01e9592",
   "lastOpenFiles": [
+    "Fonctions quadratiques.md",
     "_math.md",
     "Position relative parabole et droite.md",
     "Etude graphique des fonctions quadratiques.md",
@@ -742,7 +749,6 @@
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "Peer-to-Peer (P2P).md",
     "Virtual Local Area Network (VLAN).md",
-    "Personal Area Network (PAN).md",
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)/image-20230225140906155.png",
     "assets/Personal Area Network (PAN)",

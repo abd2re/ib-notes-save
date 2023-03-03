@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tension ou différence de potentiel électrique",
       "path": "Tension ou différence de potentiel électrique.md"
-    },
-    {
-      "basename": "loi de kirchoff pour la tension",
-      "path": "Excalidraw/loi de kirchoff pour la tension.md"
     }
   ],
   "omittedPaths": [],
