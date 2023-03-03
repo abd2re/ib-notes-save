@@ -306,28 +306,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "54c2d844a814bf2b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -502,7 +483,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -528,7 +509,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -549,7 +530,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -629,7 +610,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -682,15 +663,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "54c2d844a814bf2b",
+  "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "Champ électrique.md",
     "Fonctions quadratiques.md",
     "_math.md",
     "Position relative parabole et droite.md",
     "Etude graphique des fonctions quadratiques.md",
     "Formules de Viète.md",
-    "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "12 TOK Concepts.md",
     "Attentes futures (demande).md",
     "Anonymat.md",
