@@ -306,28 +306,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eda0151dd2231121",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -502,7 +483,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -528,7 +509,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -549,7 +530,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md"
+                "file": "12 TOK Concepts.md"
               }
             }
           },
@@ -629,7 +610,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
+                "file": "12 TOK Concepts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -682,10 +663,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "eda0151dd2231121",
+  "active": "90beb38fd6ffc9e8",
   "lastOpenFiles": [
-    "12 TOK Concepts.md",
+    "Inertie.md",
     "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
+    "12 TOK Concepts.md",
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "Champ électrique.md",
     "Fonctions quadratiques.md",
@@ -713,7 +695,6 @@
     "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
     "Energie interne.md",
     "_economy.md",
-    "Authenticité.md",
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)/image-20230225140906155.png",

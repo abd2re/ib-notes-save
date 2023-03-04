@@ -29,7 +29,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 <!--SR:!2023-02-11,17,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
-<!--SR:!2023-03-03,50,250-->
+<!--SR:!2023-07-06,125,250-->
 
 ## Association de résistors
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
