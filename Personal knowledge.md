@@ -9,7 +9,7 @@ Personal knowledge is the knowledge we personally have. Almost all of our person
 <!--SR:!2023-04-09,83,230-->
 
 experiential=::based on experience
-<!--SR:!2023-03-05,62,230-->
+<!--SR:!2023-07-26,143,230-->
 innate=::you are born with
 <!--SR:!2023-04-04,43,263-->
 

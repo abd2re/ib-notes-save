@@ -9,7 +9,7 @@ Pourquoi avons-nous besoin de stockage ?::![[image-20230119174037543.png]]
 <!--SR:!2023-05-11,68,250-->
 
 Types de stockage, et leur relation avec le CPU représentation:: ![[image-20230119174142327.png]]
-<!--SR:!2023-03-05,26,250-->
+<!--SR:!2023-05-13,69,250-->
 
 
 
