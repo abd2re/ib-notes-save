@@ -6,7 +6,7 @@ Created: 2023-02-14
 # Loi de décroissance radioactive
 
 - La décroissance radioactive est un phénomène qui est:: aléatoire.
-<!--SR:!2023-03-04,7,250-->
+<!--SR:!2023-03-23,19,250-->
 - 
 
 

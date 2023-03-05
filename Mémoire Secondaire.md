@@ -10,4 +10,4 @@ Les 3 types de mémoire secondaire avec les exemples:
 - **les dispositifs de stockage à semi-conducteurs**, tels que les clés USB
 - **les dispositifs de stockage optiques**, tels que les CD, DVD et disques Blu-ray
 - **les dispositifs de stockage magnétiques**, tels que les disques durs
-<!--SR:!2023-03-04,28,230-->
+<!--SR:!2023-05-10,67,230-->
