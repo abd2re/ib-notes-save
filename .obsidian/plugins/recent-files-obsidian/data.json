@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Organisation sociale exo",
+      "path": "Organisation sociale exo.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Fondamentaux des réseaux",
+      "path": "Fondamentaux des réseaux.md"
+    },
+    {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Fondamentaux des réseaux",
-      "path": "Fondamentaux des réseaux.md"
     },
     {
       "basename": "Comparative Essay",
@@ -191,10 +199,6 @@
     {
       "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
       "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
     }
   ],
   "omittedPaths": [],

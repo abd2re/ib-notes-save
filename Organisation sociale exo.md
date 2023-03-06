@@ -1,0 +1,11 @@
+-   Quel est le thème principal de cette vidéo?  
+	- les inégalités sociales par rapport aux études supérieures
+-   Est-ce qu'on retrouve ce problème dans d'autres pays? Donnez des détails  
+	- On retrouve cela au Sénégal …
+-   Cette vidéo parle d'une sous représentation d'étudiants venant de milieux populaires. Expliquez en détails ce phénomène et donnez des exemples.  
+	- 
+-   Qu'est-ce qui peut expliquer cette sous représentation?
+-   Quel est l'objectif du "tutorat"?  
+-   Que fait l'état à ce sujet?
+-   Quelles sont les limites du projet gouvernemental?
+-   Quelle est la solution proposée?

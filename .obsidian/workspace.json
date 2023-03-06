@@ -4,135 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eae8c569132b617",
+        "id": "648fc748ac9fbcb4",
         "type": "tabs",
         "children": [
           {
-            "id": "fbe8158d414b36b4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Modèle OSI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modèle OSI.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":5},\"to\":{\"line\":7,\"ch\":5}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Types de réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.825218161123054}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Types de réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.761124121779858}"
-                },
-                {
-                  "title": "_CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":30.883928571428573}"
-                },
-                {
-                  "title": "Résistance électrique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Résistance électrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":26.574074074074073}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.482435597189696}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Drawing 2023-02-22 13.51.24.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.958333333333336}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondamentaux des réseaux.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0154942cb2a97ce",
+            "id": "51a702b08287f6d8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -142,145 +18,24 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "_french B",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":32.972972972972975}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.23402163225172}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.49122807017543857}"
-                },
-                {
-                  "title": "Fondamentaux des réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fondamentaux des réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Types de réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.825218161123054}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Types de réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.761124121779858}"
-                },
-                {
-                  "title": "_CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":30.883928571428573}"
-                },
-                {
-                  "title": "Résistance électrique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Résistance électrique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":26.574074074074073}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.482435597189696}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Drawing 2023-02-22 13.51.24.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.958333333333336}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":2.021276595744681}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-                "mode": "preview",
+                "file": "Organisation sociale exo.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -455,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Organisation sociale exo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -481,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Organisation sociale exo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -502,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+                "file": "Organisation sociale exo.md"
               }
             }
           },
@@ -582,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Organisation sociale exo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -635,10 +390,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e0154942cb2a97ce",
+  "active": "51a702b08287f6d8",
   "lastOpenFiles": [
-    "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
+    "_french B.md",
+    "Organisation sociale exo.md",
+    "Fondamentaux des réseaux.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "_physics.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
@@ -649,7 +407,6 @@
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "_economy.md",
     "_english.md",
-    "Fondamentaux des réseaux.md",
     "TED TALK.md",
     "Comparative Essay.md",
     "12 TOK Concepts.md",
@@ -666,7 +423,6 @@
     "Anonymat.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "Accès aux disques et gestion des données.md",
-    "__Current competitions.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
@@ -677,7 +433,6 @@
     "assets/Virtual Private Network (VPN)/image-20230225140535814.png",
     "assets/Virtual Private Network (VPN)/image-20230225140457593.png",
     "assets/Virtual Private Network (VPN)",
-    "assets/Intranet/image-20230225140242368.png",
     "assets/Intranet",
     "assets/Wireless Local Area Network (WLAN)",
     "assets/Storage Area Network (SAN)",
