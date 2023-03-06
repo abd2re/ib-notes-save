@@ -135,16 +135,16 @@
             "id": "38b0ec10db9ed702",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Modèle OSI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modèle OSI.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Fondamentaux des réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fondamentaux des réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "_english.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -431,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "_english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "_english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -478,7 +478,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamentaux des réseaux.md"
+                "file": "_english.md"
               }
             }
           },
@@ -558,7 +558,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
+                "file": "_english.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -613,6 +613,7 @@
   },
   "active": "38b0ec10db9ed702",
   "lastOpenFiles": [
+    "Fondamentaux des réseaux.md",
     "12 TOK Concepts.md",
     "Inertie.md",
     "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
@@ -628,7 +629,6 @@
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "Accès aux disques et gestion des données.md",
     "__Current competitions.md",
-    "Fondamentaux des réseaux.md",
     "Modèle OSI.md",
     "Mise en réseau.md",
     "Normes dans la construction des réseaux.md",
