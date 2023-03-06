@@ -10,5 +10,5 @@
 -   Que fait l'état à ce sujet?
 	- Emmanuel Macron
 -   Quelles sont les limites du projet gouvernemental?
-	- Ca exclu les les eleves de Bac pro et bac technologie
+	- Ca exclu les les élevés de Bac pro et bac technologie
 -   Quelle est la solution proposée?
