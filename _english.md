@@ -31,6 +31,3 @@ tags: [M]
 **TEAPCALIM**
 
 [[Comparative Essay]]
-
-
-## [[TED TALK]]

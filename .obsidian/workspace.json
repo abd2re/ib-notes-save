@@ -132,11 +132,17 @@
             }
           },
           {
-            "id": "38b0ec10db9ed702",
+            "id": "e0154942cb2a97ce",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -611,9 +617,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "38b0ec10db9ed702",
+  "active": "e0154942cb2a97ce",
   "lastOpenFiles": [
     "Fondamentaux des réseaux.md",
+    "TED TALK.md",
+    "_english.md",
+    "Comparative Essay.md",
     "12 TOK Concepts.md",
     "Inertie.md",
     "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
@@ -640,9 +649,6 @@
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
-    "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
-    "Energie interne.md",
-    "_economy.md",
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)/image-20230225140906155.png",

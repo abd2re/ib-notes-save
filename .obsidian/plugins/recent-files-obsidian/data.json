@@ -9,6 +9,10 @@
       "path": "Fondamentaux des réseaux.md"
     },
     {
+      "basename": "Comparative Essay",
+      "path": "Comparative Essay.md"
+    },
+    {
       "basename": "12 TOK Concepts",
       "path": "12 TOK Concepts.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "Champ de gravitation",
       "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
     }
   ],
   "omittedPaths": [],
