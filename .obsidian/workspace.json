@@ -135,17 +135,23 @@
             "id": "e0154942cb2a97ce",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "New tab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":21.23402163225172}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.49122807017543857}"
                 },
                 {
                   "title": "Fondamentaux des réseaux",
@@ -254,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -437,7 +443,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -484,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -564,7 +570,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -619,9 +625,12 @@
   },
   "active": "e0154942cb2a97ce",
   "lastOpenFiles": [
+    "Chapitre 1 - Les systèmes dans les organisations.md",
+    "_computer science.md",
+    "_economy.md",
+    "_english.md",
     "Fondamentaux des réseaux.md",
     "TED TALK.md",
-    "_english.md",
     "Comparative Essay.md",
     "12 TOK Concepts.md",
     "Inertie.md",
@@ -643,9 +652,6 @@
     "Normes dans la construction des réseaux.md",
     "Réseaux.md",
     "Chapitre 1 - Types de réseaux.md",
-    "_computer science.md",
-    "Représentations appropriées pour illustrer les exigences du système.md",
-    "exercises/math/theme 1/Sequences & Series.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
