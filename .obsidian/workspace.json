@@ -11,16 +11,16 @@
             "id": "c6eb54795ceee506",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Imposer une taxe indirecte sur le bien (pigouvienne)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Imposer une taxe indirecte sur le bien (pigouvienne).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":28},\"to\":{\"line\":15,\"ch\":28}}}"
                 },
                 {
-                  "title": "Ressources du pool commun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+                "file": "Ressources du pool commun.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -337,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -390,7 +390,11 @@
     }
   },
   "active": "c6eb54795ceee506",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
+    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
     "Ressources du pool commun.md",
     "Conceptes de base economie.md",
     "_economy.md",
@@ -422,7 +426,6 @@
     "Désintégration radioactive.md",
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
-    "TED TALK.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
