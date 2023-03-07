@@ -92,5 +92,13 @@
       ],
       "key": "Numpad4"
     }
+  ],
+  "obsidian-hotkeys-for-templates:TOK template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
   ]
 }
