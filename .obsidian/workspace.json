@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Ressources du pool commun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -204,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources du pool commun.md"
+                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md"
               }
             }
           },
@@ -331,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Imposer une taxe indirecte sur le bien (pigouvienne).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -385,12 +391,12 @@
   },
   "active": "c6eb54795ceee506",
   "lastOpenFiles": [
+    "Ressources du pool commun.md",
     "Conceptes de base economie.md",
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Ressources du pool commun.md",
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "__Current competitions.md",
     "Key theories of language acquisition.md",
