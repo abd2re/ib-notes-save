@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0250997663a3cd4",
+            "id": "c6eb54795ceee506",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,47 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 8 - Défaillance du marché – externalités et ressources communes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":37},\"to\":{\"line\":7,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":20.42379547689282}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Key theories of language acquisition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Key theories of language acquisition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressources du pool commun.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -234,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,9 +243,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ressources du pool commun.md"
-              }
+              "state": {}
             }
           },
           {
@@ -361,7 +322,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -414,11 +374,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f0250997663a3cd4",
+  "active": "c6eb54795ceee506",
   "lastOpenFiles": [
+    "Conceptes de base economie.md",
+    "_economy.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
+    "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Ressources du pool commun.md",
-    "_economy.md",
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "__Current competitions.md",
     "Key theories of language acquisition.md",
@@ -445,9 +408,6 @@
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "TED TALK.md",
-    "Comparative Essay.md",
-    "12 TOK Concepts.md",
-    "Inertie.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",

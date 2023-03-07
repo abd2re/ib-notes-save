@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ressources du pool commun",
-      "path": "Ressources du pool commun.md"
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
     },
     {
       "basename": "__Current competitions",
@@ -195,10 +199,6 @@
     {
       "basename": "Virtual Local Area Network (VLAN)",
       "path": "Virtual Local Area Network (VLAN).md"
-    },
-    {
-      "basename": "computer science template",
-      "path": "template/computer science template.md"
     }
   ],
   "omittedPaths": [],
