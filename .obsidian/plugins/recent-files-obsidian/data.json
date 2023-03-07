@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Subventions",
-      "path": "Subventions.md"
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
     },
     {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
     },
     {
-      "basename": "Ressources du pool commun",
-      "path": "Ressources du pool commun.md"
+      "basename": "Imposer une taxe carbone aux entreprises polluantes",
+      "path": "Imposer une taxe carbone aux entreprises polluantes.md"
+    },
+    {
+      "basename": "Subventions",
+      "path": "Subventions.md"
     },
     {
       "basename": "Imposer une taxe indirecte sur le bien (pigouvienne)",
@@ -195,10 +199,6 @@
     {
       "basename": "Local Area Network (LAN)",
       "path": "Local Area Network (LAN).md"
-    },
-    {
-      "basename": "Wireless Local Area Network (WLAN)",
-      "path": "Wireless Local Area Network (WLAN).md"
     }
   ],
   "omittedPaths": [],

@@ -11,11 +11,25 @@
             "id": "c6eb54795ceee506",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 4,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Impôts indirects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":23.24341334182372}"
+                },
+                {
+                  "title": "Imposer une taxe carbone aux entreprises polluantes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Imposer une taxe carbone aux entreprises polluantes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Subventions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Subventions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Impôts indirects",
@@ -24,9 +38,7 @@
                   "eState": "{\"scroll\":30.031498500279017}"
                 },
                 {
-                  "title": "Ressources du pool commun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -343,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -366,7 +378,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5413719302279673,
+                  "scale": 0.3696755071921691,
                   "close": true
                 }
               }
@@ -400,10 +412,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "assets/Subventions/image-20230124133701027.png",
-    "Subventions.md",
     "Impôts indirects.md",
     "assets/Impôts indirects/image-20230118083024563.png",
+    "Imposer une taxe carbone aux entreprises polluantes.md",
+    "Subventions.md",
+    "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
     "Ressources du pool commun.md",
     "Imposer une taxe indirecte sur le bien (pigouvienne).md",
@@ -430,7 +443,6 @@
     "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
     "Organisation sociale exo.md",
     "_french B.md",
-    "Fondamentaux des réseaux.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",

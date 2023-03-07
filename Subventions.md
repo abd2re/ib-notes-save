@@ -26,7 +26,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 
 ## Effet sur la société dans son ensemble
 ?
-Cependant, en supposant que l'équilibre du marché libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'externalités, alors la société dans son ensemble est **moins bien lotie** avec la subvention parce qu'il y a une surallocation de ressources à la production du bien subventionné. De plus, le prix plus élevé reçu par les producteurs permet à des producteurs relativement inefficaces de continuer à produire car ils sont protégés par la subvention. En ce sens, la société est également moins bien lotie.
+Cependant, en supposant que l'équilibre du marché libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'[[externalités]], alors la société dans son ensemble est **moins bien lotie** avec la subvention parce qu'il y a une surallocation de ressources à la production du bien subventionné. De plus, le prix plus élevé reçu par les producteurs permet à des producteurs relativement inefficaces de continuer à produire car ils sont protégés par la subvention. En ce sens, la société est également moins bien lotie.
 <!--SR:!2023-03-08,28,250-->
 
 ## Synthèse des effets d'une subvention
