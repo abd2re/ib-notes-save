@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
+      "basename": "Tension ou différence de potentiel électrique",
+      "path": "Tension ou différence de potentiel électrique.md"
     },
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
     },
     {
       "basename": "_physics",
@@ -195,10 +199,6 @@
     {
       "basename": "Composition du noyau",
       "path": "Composition du noyau.md"
-    },
-    {
-      "basename": "Le modèle atomique de Rutherford",
-      "path": "Le modèle atomique de Rutherford.md"
     }
   ],
   "omittedPaths": [],
