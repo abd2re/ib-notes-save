@@ -84,5 +84,13 @@
       ],
       "key": "Numpad3"
     }
+  ],
+  "obsidian-hotkeys-for-templates:english template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad4"
+    }
   ]
 }
