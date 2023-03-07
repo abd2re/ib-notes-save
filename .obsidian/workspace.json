@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":32.93693693693694}"
+                },
+                {
+                  "title": "Organisation sociale exo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organisation sociale exo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_french B",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -28,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisation sociale exo.md",
-                "mode": "source",
+                "file": "Loi de décroissance radioactive.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisation sociale exo.md"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -337,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -392,17 +404,18 @@
   },
   "active": "51a702b08287f6d8",
   "lastOpenFiles": [
-    "_french B.md",
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
+    "Loi de décroissance radioactive.md",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
+    "_physics.md",
     "Organisation sociale exo.md",
+    "_french B.md",
     "Fondamentaux des réseaux.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
-    "_physics.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "Désintégration radioactive.md",
-    "Loi de décroissance radioactive.md",
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "_economy.md",
@@ -422,7 +435,6 @@
     "Attentes futures (demande).md",
     "Anonymat.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
-    "Accès aux disques et gestion des données.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
