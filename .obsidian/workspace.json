@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Key theories of language acquisition",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Key theories of language acquisition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -343,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -398,6 +404,9 @@
   },
   "active": "f0250997663a3cd4",
   "lastOpenFiles": [
+    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
+    "_economy.md",
+    "__Current competitions.md",
     "Key theories of language acquisition.md",
     "Interactionist theory.md",
     "Innatism or Nativism theory.md",
@@ -421,15 +430,12 @@
     "Désintégration radioactive.md",
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
-    "_economy.md",
     "TED TALK.md",
     "Comparative Essay.md",
     "12 TOK Concepts.md",
     "Inertie.md",
     "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
-    "Champ électrique.md",
-    "Fonctions quadratiques.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
