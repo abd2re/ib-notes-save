@@ -10,10 +10,6 @@ Algorea (Not certain to finish cuz dumb af)
 - [x] In progress
 - [ ] Done
 
-Hackathon
-- [ ] Registered
-- [ ] In progress
-- [ ] Done
 
 Bebras (Nov 2023)
 - [ ] Registered

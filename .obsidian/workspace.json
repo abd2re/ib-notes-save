@@ -11,17 +11,17 @@
             "id": "f0250997663a3cd4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Behaviorist theory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Behaviorist theory.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":20},\"to\":{\"line\":5,\"ch\":20}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Key theories of language acquisition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Key theories of language acquisition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "_english",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "__Current competitions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key theories of language acquisition.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -343,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -398,10 +398,10 @@
   },
   "active": "f0250997663a3cd4",
   "lastOpenFiles": [
+    "Key theories of language acquisition.md",
     "Interactionist theory.md",
     "Innatism or Nativism theory.md",
     "Behaviorist theory.md",
-    "Key theories of language acquisition.md",
     "_english.md",
     "Tension ou différence de potentiel électrique.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
