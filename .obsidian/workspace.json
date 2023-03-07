@@ -11,16 +11,16 @@
             "id": "c6eb54795ceee506",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Imposer une taxe indirecte sur le bien (pigouvienne)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Imposer une taxe indirecte sur le bien (pigouvienne).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":28},\"to\":{\"line\":15,\"ch\":28}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Ressources du pool commun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Impôts indirects.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources du pool commun.md"
+                "file": "Impôts indirects.md"
               }
             }
           },
@@ -337,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Impôts indirects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,13 +389,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c6eb54795ceee506",
+  "active": "43caf70ec88c48f5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
+    "assets/Impôts indirects/image-20230118083024563.png",
+    "Impôts indirects.md",
+    "assets/Impôts indirects/image-20230117160216475.png",
     "Ressources du pool commun.md",
+    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
     "Conceptes de base economie.md",
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
@@ -424,15 +427,12 @@
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "Désintégration radioactive.md",
-    "_computer science.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
     "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "assets/Peer-to-Peer (P2P)",
-    "assets/Personal Area Network (PAN)/image-20230225140906155.png",
     "assets/Personal Area Network (PAN)",
     "assets/Virtual Private Network (VPN)",
     "assets/Intranet",

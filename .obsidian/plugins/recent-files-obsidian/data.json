@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
       "basename": "Ressources du pool commun",
       "path": "Ressources du pool commun.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Storage Area Network (SAN)",
       "path": "Storage Area Network (SAN).md"
-    },
-    {
-      "basename": "Untitled 11",
-      "path": "Untitled 11.md"
     }
   ],
   "omittedPaths": [],
