@@ -20,6 +20,10 @@ Euclid Math competition:
 - [x] Registered
 - [ ] Done
 
+Hypatia Math competition:
+- [x] Registered
+- [ ] Done
+
 CodeChef competitions (different starters):
 - [x] Registered
 - [ ] In progress
