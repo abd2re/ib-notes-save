@@ -11,5 +11,6 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 
 - Les ressources du pool commun sont à la fois:: **rivale et non-exclusif**.
 - Un bien est considéré comme rival si:: une fois consommé, il ne peut plus être consommé par une autre personne.
-- Les ressources du pool commun ne sont pas exclusives car il n'est pas possible d'exclure qui que ce soit de son utilisation . Les ressources d'accès commun ne sont pas exclusives car **elles n'ont pas de prix** et n'importe qui peut les utiliser sans paiement.
+- Les ressources du pool commun ne sont pas exclusives car:: il n'est pas possible d'exclure qui que ce soit de son utilisation et **elles n'ont pas de prix** et n'importe qui peut les utiliser sans paiement.
+
 
