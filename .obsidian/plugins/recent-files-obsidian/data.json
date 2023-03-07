@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Atomic Spectra & Radioactivity",
+      "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+    },
+    {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Le modèle atomique de Rutherford",
       "path": "Le modèle atomique de Rutherford.md"
-    },
-    {
-      "basename": "Drawing 2023-02-22 13.51.24.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md"
     }
   ],
   "omittedPaths": [],
