@@ -5,7 +5,7 @@ Created: 2023-01-24
 
 # Subventions
 ?
-Les subventions sont des paiements unitaires qui sont utilisés pour réduire les coûts de production et augmenter la production du marché.
+Les subventions sont des paiements unitaires qui sont utilisés pour réduire les [[coûts de production]] et augmenter la production du [[marché]].
 <!--SR:!2023-03-14,23,230-->
 
 Les objectifs des subventions pour le gouvernement sont généralement :
@@ -15,10 +15,10 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 -   encourager la consommation d'un bien ou d'un service considéré comme bénéfique pour les consommateurs.
 -   pour soutenir la croissance d'une industrie particulière.
 -   encourager les exportations et protéger l'industrie nationale de la concurrence étrangère.
--   corriger les externalités positives, en améliorant l'allocation des ressources.
+-   corriger les [[externalités]] positives, en améliorant l'allocation des ressources.
 <!--SR:!2023-03-22,34,230-->
 
-## L'effet des subventions sur le marché
+## L'effet des subventions sur le [[marché]]
 (graphe)
 ?
 ![[image-20230124133701027.png]]

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Impôts indirects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":30.031498500279017}"
+                },
+                {
                   "title": "Ressources du pool commun",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Subventions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -210,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Subventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Subventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirects.md"
+                "file": "Subventions.md"
               }
             }
           },
@@ -337,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "Subventions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,13 +395,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "43caf70ec88c48f5",
+  "active": "c6eb54795ceee506",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "assets/Impôts indirects/image-20230118083024563.png",
+    "assets/Subventions/image-20230124133701027.png",
+    "Subventions.md",
     "Impôts indirects.md",
+    "assets/Impôts indirects/image-20230118083024563.png",
     "assets/Impôts indirects/image-20230117160216475.png",
     "Ressources du pool commun.md",
     "Imposer une taxe indirecte sur le bien (pigouvienne).md",
@@ -426,12 +434,9 @@
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
-    "Désintégration radioactive.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
-    "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
-    "assets/Peer-to-Peer (P2P)/image-20230225140952344.png",
     "assets/Peer-to-Peer (P2P)",
     "assets/Personal Area Network (PAN)",
     "assets/Virtual Private Network (VPN)",

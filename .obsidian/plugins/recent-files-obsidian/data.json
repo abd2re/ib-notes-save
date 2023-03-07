@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wireless Local Area Network (WLAN)",
       "path": "Wireless Local Area Network (WLAN).md"
-    },
-    {
-      "basename": "Storage Area Network (SAN)",
-      "path": "Storage Area Network (SAN).md"
     }
   ],
   "omittedPaths": [],
