@@ -32,4 +32,6 @@ Graphe de période radioactive:
 <!--SR:!2023-03-25,20,250-->
 
 
+## Détection de la radioactivité
 
+On peut détecter un rayonnement radioactuf avec:
