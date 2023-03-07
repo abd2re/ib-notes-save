@@ -4,60 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "648fc748ac9fbcb4",
+        "id": "520033ebf916eb80",
         "type": "tabs",
         "children": [
           {
-            "id": "51a702b08287f6d8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":36.93359375}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":14.09090909090909}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":32.93693693693694}"
-                },
-                {
-                  "title": "Organisation sociale exo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organisation sociale exo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_french B",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":2.021276595744681}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
-              }
-            }
-          },
-          {
-            "id": "c82d9fe7c40c996b",
+            "id": "f0250997663a3cd4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,37 +18,24 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+                  "title": "_english",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":29.994535519125684}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":34.90234375}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
-                "mode": "preview",
+                "file": "Key theories of language acquisition.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Key theories of language acquisition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Key theories of language acquisition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -319,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md"
+                "file": "Key theories of language acquisition.md"
               }
             }
           },
@@ -399,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tension ou différence de potentiel électrique.md",
+                "file": "Key theories of language acquisition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -452,8 +390,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c82d9fe7c40c996b",
+  "active": "f0250997663a3cd4",
   "lastOpenFiles": [
+    "_english.md",
+    "Key theories of language acquisition.md",
+    "Tension ou différence de potentiel électrique.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Loi de décroissance radioactive.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
@@ -472,7 +413,6 @@
     "_computer science.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "_economy.md",
-    "_english.md",
     "TED TALK.md",
     "Comparative Essay.md",
     "12 TOK Concepts.md",
@@ -484,7 +424,6 @@
     "_math.md",
     "Position relative parabole et droite.md",
     "Etude graphique des fonctions quadratiques.md",
-    "Formules de Viète.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
