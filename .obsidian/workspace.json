@@ -55,8 +55,37 @@
                 "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
               }
             }
+          },
+          {
+            "id": "c82d9fe7c40c996b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":34.90234375}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loi de décroissance radioactive.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -358,7 +387,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,14 +440,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "51a702b08287f6d8",
+  "active": "c82d9fe7c40c996b",
   "lastOpenFiles": [
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+    "_physics.md",
     "Loi de décroissance radioactive.md",
+    "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
-    "_physics.md",
     "Organisation sociale exo.md",
     "_french B.md",
     "Fondamentaux des réseaux.md",
