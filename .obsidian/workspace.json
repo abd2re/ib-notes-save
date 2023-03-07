@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behaviorist theory.md",
+                "file": "Innatism or Nativism theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Behaviorist theory.md",
+                "file": "Innatism or Nativism theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Behaviorist theory.md"
+                "file": "Innatism or Nativism theory.md"
               }
             }
           },
@@ -410,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Behaviorist theory.md",
+                "file": "Innatism or Nativism theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -463,10 +463,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1ca74e9839eec8ba",
+  "active": "c0044760c42d0922",
   "lastOpenFiles": [
-    "Interactionalist theory.md",
     "Behaviorist theory.md",
+    "Interactionalist theory.md",
     "Key theories of language acquisition.md",
     "Innatism or Nativism theory.md",
     "_english.md",
