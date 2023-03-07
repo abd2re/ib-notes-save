@@ -34,4 +34,6 @@ Graphe de période radioactive:
 
 ## Détection de la radioactivité
 
-On peut détecter un rayonnement radioactuf avec:
+On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller** ou un champ électrique ou magnétique.  ![[image-20230307091645899.png]]
+
+
