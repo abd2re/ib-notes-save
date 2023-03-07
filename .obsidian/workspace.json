@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 8 - Défaillance du marché – externalités et ressources communes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":37},\"to\":{\"line\":7,\"ch\":37}},\"scroll\":0}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.42379547689282}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Ressources du pool commun.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -349,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -404,8 +416,10 @@
   },
   "active": "f0250997663a3cd4",
   "lastOpenFiles": [
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Ressources du pool commun.md",
     "_economy.md",
+    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "__Current competitions.md",
     "Key theories of language acquisition.md",
     "Interactionist theory.md",
@@ -434,8 +448,6 @@
     "Comparative Essay.md",
     "12 TOK Concepts.md",
     "Inertie.md",
-    "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",

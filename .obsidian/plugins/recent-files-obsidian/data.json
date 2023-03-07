@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "computer science template",
       "path": "template/computer science template.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     }
   ],
   "omittedPaths": [],
