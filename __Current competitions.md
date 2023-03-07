@@ -22,7 +22,7 @@ Euclid Math competition:
 
 Hypatia Math competition:
 - [x] Registered
-- [ ] Done
+- [ ] Done0
 
 CodeChef competitions (different starters):
 - [x] Registered
