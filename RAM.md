@@ -12,7 +12,7 @@ Created: 2023-01-11
 <!--SR:!2023-05-09,66,230-->
 
 RAM c'est une abbreviation pour:: Random Access Memory
-<!--SR:!2023-03-06,26,250-->
+<!--SR:!2023-05-10,65,250-->
 
 <!--SR:!2023-02-16,22,250-->
 
