@@ -5,8 +5,12 @@
       "path": "Key theories of language acquisition.md"
     },
     {
-      "basename": "The behaviorist theory",
-      "path": "The behaviorist theory.md"
+      "basename": "Behaviorist theory",
+      "path": "Behaviorist theory.md"
+    },
+    {
+      "basename": "Innatism or Nativism theory",
+      "path": "Innatism or Nativism theory.md"
     },
     {
       "basename": "_english",
@@ -195,10 +199,6 @@
     {
       "basename": "Résistance électrique",
       "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Circuits & Kirchoff's Laws",
-      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
     }
   ],
   "omittedPaths": [],
