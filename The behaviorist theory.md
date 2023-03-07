@@ -5,7 +5,4 @@ Created: 2023-03-07
 
 # The behaviorist theory
 
-**The behaviorist theory**:: is learnt through the environment. It infancies the role of external factors such as rewards and punishments in shaping an individuals behavior's. 
-Behaviorist believe that behavior can be studied objectively without considering mental process such as faults or feelings.
-Example : A child learns to say please and thank you after receiving positive reinforcement from their parents.
-A students works harder for a test after receiving a good grade after doing a test.
+The behaviourist theory is learn thew the environment it infancies the role external factor such as reward ans punishment in shaping individuals behaviors. behaviourist believe that behavior can be studied without considering mental process such as fault and feeling Exempla: A child learn to say please and thank you after receiving positive reinforcement for they parents. A student studied harder after receiving a good grade for the previous test.
