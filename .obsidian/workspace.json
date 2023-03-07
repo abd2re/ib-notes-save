@@ -335,7 +335,7 @@
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -354,7 +354,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4490730286640389,
+                  "scale": 0.5413719302279673,
                   "close": true
                 }
               }
@@ -364,8 +364,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,7 +383,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c6eb54795ceee506",
+  "active": "0360aeccc04578f6",
   "lastOpenFiles": [
     "Conceptes de base economie.md",
     "_economy.md",
