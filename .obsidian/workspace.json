@@ -35,6 +35,50 @@
               "type": "markdown",
               "state": {
                 "file": "Key theories of language acquisition.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca74e9839eec8ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behaviorist theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bcd14ef8a62a6e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interactionalist theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Behaviorist theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Behaviorist theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key theories of language acquisition.md"
+                "file": "Behaviorist theory.md"
               }
             }
           },
@@ -365,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Behaviorist theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,11 +463,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f0250997663a3cd4",
+  "active": "1ca74e9839eec8ba",
   "lastOpenFiles": [
+    "Interactionalist theory.md",
     "Behaviorist theory.md",
-    "Innatism or Nativism theory.md",
     "Key theories of language acquisition.md",
+    "Innatism or Nativism theory.md",
     "_english.md",
     "Tension ou différence de potentiel électrique.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
@@ -451,7 +497,6 @@
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
     "Champ électrique.md",
     "Fonctions quadratiques.md",
-    "_math.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",

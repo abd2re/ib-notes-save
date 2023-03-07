@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Key theories of language acquisition",
-      "path": "Key theories of language acquisition.md"
-    },
-    {
       "basename": "Behaviorist theory",
       "path": "Behaviorist theory.md"
+    },
+    {
+      "basename": "Interactionalist theory",
+      "path": "Interactionalist theory.md"
+    },
+    {
+      "basename": "Key theories of language acquisition",
+      "path": "Key theories of language acquisition.md"
     },
     {
       "basename": "Innatism or Nativism theory",
@@ -195,10 +199,6 @@
     {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
     }
   ],
   "omittedPaths": [],
