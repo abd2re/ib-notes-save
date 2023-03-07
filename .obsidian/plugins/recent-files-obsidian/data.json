@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The behaviorist theory",
+      "path": "The behaviorist theory.md"
+    },
+    {
       "basename": "Key theories of language acquisition",
       "path": "Key theories of language acquisition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Circuits & Kirchoff's Laws",
       "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
-    },
-    {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
     }
   ],
   "omittedPaths": [],

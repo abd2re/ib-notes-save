@@ -29,13 +29,36 @@
               "type": "markdown",
               "state": {
                 "file": "Key theories of language acquisition.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6e44a7e004f7de1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The behaviorist theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "The behaviorist theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "The behaviorist theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key theories of language acquisition.md"
+                "file": "The behaviorist theory.md"
               }
             }
           },
@@ -337,7 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "The behaviorist theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -390,10 +413,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f0250997663a3cd4",
+  "active": "f6e44a7e004f7de1",
   "lastOpenFiles": [
-    "_english.md",
     "Key theories of language acquisition.md",
+    "The behaviorist theory.md",
+    "_english.md",
     "Tension ou différence de potentiel électrique.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Loi de décroissance radioactive.md",
@@ -423,7 +447,6 @@
     "Fonctions quadratiques.md",
     "_math.md",
     "Position relative parabole et droite.md",
-    "Etude graphique des fonctions quadratiques.md",
     "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230227171657_407.png",
     "exercises/math/theme 1/assets/Sequences & Series",
