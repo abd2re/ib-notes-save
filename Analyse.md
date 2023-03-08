@@ -6,4 +6,4 @@ Created: 2022-11-18
 # Analyse
 ?
 Les exigences du nouveau système sont définies. En particulier, les déficiences du système existant doivent être traitées avec des propositions spécifiques d'amélioration.
-<!--SR:!2023-03-08,62,230-->
+<!--SR:!2023-07-29,143,230-->
