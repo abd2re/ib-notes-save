@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -199,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -326,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -379,7 +384,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9f7844165af5e0ad",
+  "active": "e5e0c01dd3df6a72",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
