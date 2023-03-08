@@ -11,46 +11,29 @@
             "id": "c6eb54795ceee506",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 4,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Impôts indirects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":23.24341334182372}"
-                },
-                {
-                  "title": "Imposer une taxe carbone aux entreprises polluantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Imposer une taxe carbone aux entreprises polluantes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Subventions",
+                  "title": "Interactionist theory",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Subventions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interactionist theory.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Impôts indirects",
+                  "title": "Ressources du pool commun",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Impôts indirects.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":30.031498500279017}"
-                },
-                {
-                  "state": "{}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressources du pool commun.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -186,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -228,7 +212,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,9 +256,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ressources du pool commun.md"
-              }
+              "state": {}
             }
           },
           {
@@ -355,7 +335,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -388,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -412,13 +392,18 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-07 08.58.56.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw/Pasted Image 20230307085911_441.png",
+    "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
+    "Vitesse.md",
+    "Interactionist theory.md",
+    "Ressources du pool commun.md",
     "Impôts indirects.md",
     "assets/Impôts indirects/image-20230118083024563.png",
     "Imposer une taxe carbone aux entreprises polluantes.md",
     "Subventions.md",
     "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
-    "Ressources du pool commun.md",
     "Imposer une taxe indirecte sur le bien (pigouvienne).md",
     "Conceptes de base economie.md",
     "_economy.md",
@@ -428,7 +413,6 @@
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "__Current competitions.md",
     "Key theories of language acquisition.md",
-    "Interactionist theory.md",
     "Innatism or Nativism theory.md",
     "Behaviorist theory.md",
     "_english.md",
@@ -441,12 +425,9 @@
     "_physics.md",
     "TP_physique1.md",
     "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md",
-    "Organisation sociale exo.md",
-    "_french B.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
-    "assets/12 TOK Concepts/12 TOK Concepts.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
     "assets/Peer-to-Peer (P2P)",
@@ -455,7 +436,6 @@
     "assets/Intranet",
     "assets/Wireless Local Area Network (WLAN)",
     "assets/Storage Area Network (SAN)",
-    "assets/Virtual Local Area Network (VLAN)",
-    "assets/Wide Area Network (WAN)"
+    "assets/Virtual Local Area Network (VLAN)"
   ]
 }

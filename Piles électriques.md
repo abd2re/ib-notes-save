@@ -6,7 +6,7 @@ Created: 2022-12-20
 # Piles électriques
 ?
 Une pile convertit l'énergie chimique en énergie électrique avec dissipation/perte d'énergie sous forme de [[chaleur]].
-<!--SR:!2023-03-07,37,190-->
+<!--SR:!2023-05-16,70,190-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2023-03-23,40,286-->

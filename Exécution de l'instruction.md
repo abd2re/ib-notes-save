@@ -7,4 +7,4 @@ Created: 2023-01-13
 ?
 - L'UAL exécute l'instruction en utilisant les données nécessaires qui ont été chargées et calcule un résultat.
 - En fonction du résultat, des données supplémentaires peuvent être nécessaires. Ces données sont extraites de la mémoire primaire pour d'autres calculs.
-<!--SR:!2023-03-07,30,230-->
+<!--SR:!2023-05-18,72,230-->

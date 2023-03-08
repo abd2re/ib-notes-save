@@ -15,7 +15,7 @@ _first point of view_:: I
 _second point of view_:: you, your 
 <!--SR:!2023-03-09,58,250-->
 _third point of view_:: she, he, it 
-<!--SR:!2023-03-07,57,250-->
+<!--SR:!2023-07-28,143,250-->
 
 1. In the first person point of view the writer uses the word I when writing. You as the writer gets to read the story from the perspective of one person (The Narrator). When the narrator shares his or her thoughts of what is happening, he or she has a limited point of view because the story is only coming from that person's perspective. First point of view is usually used in autobiographical or personal writings such as journals.
 2. In the second person point of view the writer uses the pronouns 'you' or 'your' which generally refers to reader. It is most often used for instruction manuals and lessons, where the writer directly refers to the reader. An author may also choose to write in a second person's point of view to purposely draw the reader into the story. Also it is not seen as often as first or third person, second person point of view can be a very effective type of writing when the writer has a a specific purpose in mind. 

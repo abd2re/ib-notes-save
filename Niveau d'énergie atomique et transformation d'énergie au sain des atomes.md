@@ -7,7 +7,7 @@ Created: 2023-02-14
 Representation du spectre électromagnétique:
 ?
 ![[image-20230214104916583.png]]
-<!--SR:!2023-03-07,12,235-->
+<!--SR:!2023-04-02,26,235-->
 
 Formule d'énergie d'un photon et unités:
 ?
