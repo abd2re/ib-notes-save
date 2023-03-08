@@ -32,8 +32,10 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "exercises/math/theme 1/Sequences & Series.md"
+              }
             }
           }
         ]
@@ -212,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,7 +260,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "exercises/math/theme 1/Sequences & Series.md"
+              }
             }
           },
           {
@@ -335,6 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "exercises/math/theme 1/Sequences & Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -392,6 +399,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230308093002_632.png",
     "Excalidraw/Drawing 2023-03-07 08.58.56.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw/Pasted Image 20230307085911_441.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
