@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "520033ebf916eb80",
+        "id": "8777ae18c24e306d",
         "type": "tabs",
         "children": [
           {
-            "id": "e296cee1f333db3b",
+            "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,23 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_french B",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.087786869547976}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation sociale exo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -168,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -211,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisation sociale exo.md"
+                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md"
               }
             }
           },
@@ -338,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organisation sociale exo.md",
+                "file": "Excalidraw/Drawing 2023-02-22 12.09.27.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -391,15 +379,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e296cee1f333db3b",
+  "active": "9f7844165af5e0ad",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-07 08.58.56.excalidraw.md",
+    "Organisation sociale exo.md",
     "_french B.md",
     "exercises/math/theme 1/Sequences & Series.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230308093002_632.png",
-    "Excalidraw/Drawing 2023-03-07 08.58.56.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw/Pasted Image 20230307085911_441.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
     "Vitesse.md",
@@ -422,15 +416,9 @@
     "Key theories of language acquisition.md",
     "Innatism or Nativism theory.md",
     "Behaviorist theory.md",
-    "_english.md",
-    "Tension ou différence de potentiel électrique.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Loi de décroissance radioactive.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "_physics.md",
-    "TP_physique1.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "exercises/math/theme 1/assets/Sequences & Series",
