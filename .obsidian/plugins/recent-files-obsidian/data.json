@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Importance de l'itération pendant le processus de conception",
+      "path": "Importance de l'itération pendant le processus de conception.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Virtual Private Network (VPN)",
       "path": "Virtual Private Network (VPN).md"
-    },
-    {
-      "basename": "Intranet",
-      "path": "Intranet.md"
     }
   ],
   "omittedPaths": [],

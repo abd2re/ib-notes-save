@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Importance de l'itération pendant le processus de conception.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Importance de l'itération pendant le processus de conception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Importance de l'itération pendant le processus de conception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Importance de l'itération pendant le processus de conception.md"
               }
             }
           },
@@ -331,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Importance de l'itération pendant le processus de conception.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,6 +395,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "_computer science.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md",
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
@@ -420,7 +427,6 @@
     "__Current competitions.md",
     "Key theories of language acquisition.md",
     "Innatism or Nativism theory.md",
-    "Behaviorist theory.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
