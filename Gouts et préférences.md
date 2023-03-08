@@ -7,4 +7,4 @@ Created: 2022-09-20
 
 ?
 Lorsque les produits deviennent plus ou moins populaire en raison de la mode de l'actualité ou les campagnes de promotions, la demande est affecté et la courbe de demande peut se déplacer vers la droite ou la gauche.
-<!--SR:!2023-03-08,89,210-->
+<!--SR:!2023-09-11,187,210-->
