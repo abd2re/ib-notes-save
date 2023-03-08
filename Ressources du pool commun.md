@@ -11,7 +11,7 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 <!--SR:!2023-03-09,1,210-->
 
 - Les ressources du pool commun sont à la fois:: **rivale et non-exclusif**.
-<!--SR:!2023-03-08,1,230-->
+<!--SR:!2023-03-10,2,230-->
 - Un bien est considéré comme rival si:: une fois consommé, il ne peut plus être consommé par une autre personne.
 <!--SR:!2023-03-10,3,250-->
 - Les ressources du pool commun ne sont pas exclusives car:: il n'est pas possible d'exclure qui que ce soit de son utilisation et **elles n'ont pas de prix** et n'importe qui peut les utiliser sans paiement.
