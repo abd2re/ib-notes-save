@@ -15,11 +15,11 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 - Un bien est considéré comme rival si:: une fois consommé, il ne peut plus être consommé par une autre personne.
 <!--SR:!2023-03-10,3,250-->
 - Les ressources du pool commun ne sont pas exclusives car:: il n'est pas possible d'exclure qui que ce soit de son utilisation et **elles n'ont pas de prix** et n'importe qui peut les utiliser sans paiement.
-<!--SR:!2023-03-08,1,230-->
+<!--SR:!2023-03-10,2,230-->
 - **Les ressources d'accès commun** sont à la différence des biens privés en ce qu'elles:: **ne sont pas exclusives**.
 <!--SR:!2023-03-10,2,230-->
 - **Les ressources d'accès commun** sont  à la différence des biens publics en ce qu'elles:: sont **rivales** .
 <!--SR:!2023-03-09,1,210-->
 - Les ressources d'accès commun sont un cas de **défaillance du marché** parce que:: les avantages individuels de la consommation ou de l'utilisation de la ressource sont bien supérieurs au coût privé de cette consommation, ce qui incite l'individu à continuer à la consommer. Il y a donc une surconsommation par rapport à ce qui est optimal pour la société.
-<!--SR:!2023-03-08,1,230-->
+<!--SR:!2023-03-09,1,210-->
 
