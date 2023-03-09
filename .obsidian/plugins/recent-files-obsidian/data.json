@@ -5,6 +5,10 @@
       "path": "_physics.md"
     },
     {
+      "basename": "Conservation masse-énergie",
+      "path": "Conservation masse-énergie.md"
+    },
+    {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Peer-to-Peer (P2P)",
       "path": "Peer-to-Peer (P2P).md"
-    },
-    {
-      "basename": "Personal Area Network (PAN)",
-      "path": "Personal Area Network (PAN).md"
     }
   ],
   "omittedPaths": [],
