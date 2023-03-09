@@ -11,17 +11,17 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Loi de décroissance radioactive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.06751012231519}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":35.71516288072023}"
                 },
                 {
                   "title": "Importance de l'itération pendant le processus de conception",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Désintégration radioactive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Désintégration radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Désintégration radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Désintégration radioactive.md"
               }
             }
           },
@@ -349,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Désintégration radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,8 +407,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Loi de décroissance radioactive.md",
+    "assets/Désintégration radioactive/image-20230214112623193.png",
+    "Désintégration radioactive.md",
     "_physics.md",
+    "Loi de décroissance radioactive.md",
     "Importance de l'itération pendant le processus de conception.md",
     "_computer science.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
@@ -437,8 +439,6 @@
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",

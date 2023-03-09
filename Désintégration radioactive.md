@@ -46,6 +46,4 @@ Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de
 ![[image-20230214115313454.png]]
 <!--SR:!2023-03-22,23,250-->
 
-
-
-
+- Rayonnement de fond=:: c'est la radioactivité propre a un endroit qui s'ajoute a la radioactivité d'une source.
