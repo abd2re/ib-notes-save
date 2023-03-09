@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "CAS template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/CAS template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Conservation masse-énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation masse-énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -222,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation masse-énergie.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -349,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,8 +425,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "_physics.md",
+    "_CAS.md",
+    "template/CAS template.md",
     "Conservation masse-énergie.md",
+    "_physics.md",
     "Loi de décroissance radioactive.md",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
@@ -440,8 +460,6 @@
     "Imposer une taxe indirecte sur le bien (pigouvienne).md",
     "Conceptes de base economie.md",
     "_economy.md",
-    "Chapitre 2 - L'approvisionnement (L'offre).md",
-    "Chapitre 1 - La Demande.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "exercises/math/theme 1/assets/Sequences & Series",

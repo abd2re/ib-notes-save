@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7 objectifs d'apprentissage CAS",
+      "path": "7 objectifs d'apprentissage CAS.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "CAS template",
+      "path": "template/CAS template.md"
+    },
+    {
       "basename": "Conservation masse-énergie",
       "path": "Conservation masse-énergie.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Réseaux",
       "path": "Réseaux.md"
-    },
-    {
-      "basename": "Chapitre 1 - Types de réseaux",
-      "path": "Chapitre 1 - Types de réseaux.md"
-    },
-    {
-      "basename": "Energie interne",
-      "path": "Energie interne.md"
-    },
-    {
-      "basename": "Peer-to-Peer (P2P)",
-      "path": "Peer-to-Peer (P2P).md"
     }
   ],
   "omittedPaths": [],
