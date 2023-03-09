@@ -11,17 +11,17 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Expériences et projets CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Expériences et projets CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "CAS template",
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_CAS.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -367,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,8 +425,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Expériences et projets CAS.md",
     "_CAS.md",
+    "Expériences et projets CAS.md",
     "Composantes CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "template/CAS template.md",
