@@ -24,7 +24,6 @@ $$\large{T_{1/2}=\frac{t}{\log_2\frac{N_{0}}{N}}}=\frac{\ln 2}{\lambda}$$
 - $t$ =  temps passé
 - $T_{1/2}$ = période radioactive de la substance (constant)
 - $\lambda$ =:: Constant de désintégration d'un noyau probabilité de désintégration par unite de temps 
-Le nombre de noyaux désintégrés 
 <!--SR:!2023-03-29,23,250-->
 
 Graphe de période radioactive:

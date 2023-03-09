@@ -11,17 +11,17 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Loi de décroissance radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":13.569231731135671}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":35.71516288072023}"
                 },
                 {
                   "title": "Importance de l'itération pendant le processus de conception",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "_physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de décroissance radioactive.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -349,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loi de décroissance radioactive.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,9 +407,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Loi de décroissance radioactive.md",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "Loi de décroissance radioactive.md",
     "_physics.md",
     "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
