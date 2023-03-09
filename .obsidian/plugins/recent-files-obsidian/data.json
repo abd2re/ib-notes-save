@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Importance de l'itération pendant le processus de conception",
       "path": "Importance de l'itération pendant le processus de conception.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Loi de décroissance radioactive",
       "path": "Loi de décroissance radioactive.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Atomic Spectra & Radioactivity",
