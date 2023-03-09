@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Loi de décroissance radioactive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Désintégration radioactive.md"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -349,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,9 +407,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "assets/Désintégration radioactive/image-20230214112623193.png",
-    "Désintégration radioactive.md",
     "_physics.md",
+    "Désintégration radioactive.md",
+    "assets/Désintégration radioactive/image-20230214112623193.png",
     "Loi de décroissance radioactive.md",
     "Importance de l'itération pendant le processus de conception.md",
     "_computer science.md",
@@ -443,7 +443,6 @@
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
-    "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214104916583.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
     "assets/Peer-to-Peer (P2P)",
