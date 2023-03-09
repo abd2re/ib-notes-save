@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "Loi de décroissance radioactive.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -407,10 +407,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
+    "Loi de décroissance radioactive.md",
     "_physics.md",
     "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
-    "Loi de décroissance radioactive.md",
     "Importance de l'itération pendant le processus de conception.md",
     "_computer science.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
@@ -441,7 +442,6 @@
     "Chapitre 1 - La Demande.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
-    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
