@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
     },
     {
       "basename": "Importance de l'itération pendant le processus de conception",
@@ -109,10 +117,6 @@
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
     },
     {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
-    },
-    {
       "basename": "Atomic Spectra & Radioactivity",
       "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Personal Area Network (PAN)",
       "path": "Personal Area Network (PAN).md"
-    },
-    {
-      "basename": "Virtual Private Network (VPN)",
-      "path": "Virtual Private Network (VPN).md"
     }
   ],
   "omittedPaths": [],

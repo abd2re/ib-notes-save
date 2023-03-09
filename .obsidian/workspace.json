@@ -11,8 +11,14 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Loi de décroissance radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.06751012231519}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -401,6 +407,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Loi de décroissance radioactive.md",
+    "_physics.md",
     "Importance de l'itération pendant le processus de conception.md",
     "_computer science.md",
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
@@ -431,8 +439,6 @@
     "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Fourchette des valeurs de l'élasticité-prix de la demande.md",
-    "__Current competitions.md",
-    "Key theories of language acquisition.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
