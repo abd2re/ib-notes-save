@@ -11,17 +11,17 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Expériences et projets CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Expériences et projets CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "CAS template",
@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
-                "mode": "preview",
+                "file": "_CAS.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "_CAS.md"
               }
             }
           },
@@ -367,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,7 +425,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Expériences et projets CAS.md",
     "_CAS.md",
+    "Composantes CAS.md",
+    "7 objectifs d'apprentissage CAS.md",
     "template/CAS template.md",
     "Conservation masse-énergie.md",
     "_physics.md",
@@ -457,9 +460,6 @@
     "Subventions.md",
     "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
-    "Imposer une taxe indirecte sur le bien (pigouvienne).md",
-    "Conceptes de base economie.md",
-    "_economy.md",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "exercises/math/theme 1/assets/Sequences & Series",
