@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
+    },
+    {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modèle OSI",
       "path": "Modèle OSI.md"
-    },
-    {
-      "basename": "Mise en réseau",
-      "path": "Mise en réseau.md"
     }
   ],
   "omittedPaths": [],

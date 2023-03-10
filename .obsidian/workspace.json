@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -70,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Externalité de la production.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -252,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Externalité de la production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Externalité de la production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "Externalité de la production.md"
               }
             }
           },
@@ -379,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "Externalité de la production.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -437,6 +443,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "Externalité de la production.md",
+    "__Current competitions.md",
     "_economy.md",
     "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
@@ -466,10 +475,7 @@
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
     "Vitesse.md",
     "Interactionist theory.md",
-    "Ressources du pool commun.md",
-    "Impôts indirects.md",
     "assets/Impôts indirects/image-20230118083024563.png",
-    "Imposer une taxe carbone aux entreprises polluantes.md",
     "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
