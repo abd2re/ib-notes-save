@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "7 objectifs d'apprentissage CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_CAS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -58,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "__Current competitions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -367,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,10 +437,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "_economy.md",
+    "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
     "Expériences et projets CAS.md",
     "Composantes CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
     "template/CAS template.md",
     "Conservation masse-énergie.md",
     "_physics.md",
@@ -457,7 +470,6 @@
     "Impôts indirects.md",
     "assets/Impôts indirects/image-20230118083024563.png",
     "Imposer une taxe carbone aux entreprises polluantes.md",
-    "Subventions.md",
     "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
