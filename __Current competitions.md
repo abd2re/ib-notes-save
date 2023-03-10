@@ -10,6 +10,10 @@ Algorea (Not certain to finish cuz dumb af)
 - [x] In progress
 - [ ] Done
 
+Wharton investing competition (May 2023)
+- [ ] Registered
+- [ ] In progress
+- [ ] Done
 
 Bebras (Nov 2023)
 - [ ] Registered
