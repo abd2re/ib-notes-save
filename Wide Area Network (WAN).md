@@ -8,7 +8,7 @@ Created: 2023-02-25
 - Le WAN est un réseau informatique qui relie des systèmes informatiques situés dans une vaste zone géographique. L'exemple le plus évident d'un WAN est l'[[Internet]].
 - Un WAN couvre une vaste zone, telle qu'une ville, un pays ou même un réseau de pays, ce qui permet aux particuliers, aux entreprises et aux gouvernements de mener leurs activités quotidiennes indépendamment de leur emplacement.
 ![[image-20230225134004366.png]]
-<!--SR:!2023-03-10,3,250-->
+<!--SR:!2023-03-20,10,250-->
 
 
 - Un WAN se compose généralement de:: [[réseaux]] locaux ([[Local Area Network (LAN)|LAN]]) connectés entre eux sur une vaste zone géographique.
