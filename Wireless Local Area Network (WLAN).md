@@ -16,5 +16,5 @@ Created: 2023-02-25
 Représentation de la différence entre [[Local Area Network (LAN)]] et [[Wireless Local Area Network (WLAN)]]:
 ?
 ![[image-20230225135137431.png|450]]
-<!--SR:!2023-03-10,3,250-->
+<!--SR:!2023-03-20,10,250-->
 
