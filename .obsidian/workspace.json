@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Externalité de la production",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalité de la production.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -76,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -258,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -305,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Externalité de la production.md"
+                "file": "Externalités.md"
               }
             }
           },
@@ -385,7 +391,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Externalité de la production.md",
+                "file": "Externalités.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -438,13 +444,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0360aeccc04578f6",
+  "active": "e5e0c01dd3df6a72",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "assets/Externalité de la production/image-20230203083115173.png",
     "Externalité de la production.md",
+    "assets/Externalité de la production/image-20230203083115173.png",
     "__Current competitions.md",
     "_economy.md",
     "7 objectifs d'apprentissage CAS.md",

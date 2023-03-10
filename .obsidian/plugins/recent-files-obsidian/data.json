@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Externalités",
+      "path": "Externalités.md"
+    },
+    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Accès aux disques et gestion des données",
       "path": "Accès aux disques et gestion des données.md"
-    },
-    {
-      "basename": "Modèle OSI",
-      "path": "Modèle OSI.md"
     }
   ],
   "omittedPaths": [],
