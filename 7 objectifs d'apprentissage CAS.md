@@ -26,5 +26,5 @@ Pour réussir il faut atteindre les 7 objectifs suivants
     Démontrer son engagement dans les questions d’importances mondiale
 
 - **Objectif 7**
-    *Reconnaître et réfléchir a l’ethic des choix et des actions*
+    *Reconnaître et réfléchir a l’ethic des choix et des actions* 
 
