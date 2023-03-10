@@ -17,4 +17,4 @@ Les différents types d'ordinateurs dans un réseau sont
 - [[Serveur DNS]]
 - [[Routeur]]
 - [[Pare-feu]]
-<!--SR:!2023-03-10,75,188-->
+<!--SR:!2023-07-30,142,188-->
