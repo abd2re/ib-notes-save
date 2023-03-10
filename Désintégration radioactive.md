@@ -8,7 +8,7 @@ Created: 2023-02-14
 ## Radioactivité
 ?
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium.
-<!--SR:!2023-03-10,5,167-->
+<!--SR:!2023-03-18,8,167-->
 
 Les 4 types de radioactivité sont:
 ?
@@ -47,4 +47,4 @@ Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de
 <!--SR:!2023-03-22,23,250-->
 
 - Rayonnement de fond=:: c'est la radioactivité propre a un endroit qui s'ajoute a la radioactivité d'une source. 
-<!--SR:!2023-03-10,1,215-->
+<!--SR:!2023-03-11,1,195-->
