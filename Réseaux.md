@@ -7,7 +7,7 @@ Created: 2022-10-05
 ?
 - Un réseau informatique est un ensembles de systèmes informatiques et de d'autres dispositifs matériels informatiques qui sont reliés entre eux par des canaux de communication pour faciliter la communication et le partage des ressources entre un certain nombre d'utilisateurs.
 - Ces systèmes informatiques sont connectés à l'aide d'un câble ou d'un support sans fil.
-<!--SR:!2023-03-09,1,210-->
+<!--SR:!2023-03-10,1,190-->
 
 **Types de réseaux avec acronyme (10)**:
 ?
@@ -21,4 +21,4 @@ Created: 2022-10-05
 - [[Virtual Private Network (VPN)]]
 - [[Personal Area Network (PAN)]]
 - [[Peer-to-Peer (P2P)]]
-<!--SR:!2023-03-09,2,248-->
+<!--SR:!2023-03-13,4,248-->

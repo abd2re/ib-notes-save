@@ -25,7 +25,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 <!--SR:!2023-04-26,78,230-->
 
 - Loi d'Ohm:: A [[température]] constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
-<!--SR:!2023-03-09,29,263-->
+<!--SR:!2023-05-28,80,263-->
 
 <!--SR:!2023-02-11,17,170-->
 - Un conducteur ohmique:: est un conducteur qui obéit a la loi d'Ohm ($R$ est constant)![[Résistance électrique-1.png]]
@@ -53,7 +53,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
 
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
-<!--SR:!2023-03-09,29,263-->
+<!--SR:!2023-05-27,79,263-->
 
 <!--SR:!2023-03-31,65,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie

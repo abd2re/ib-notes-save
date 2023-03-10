@@ -14,7 +14,7 @@ Le gouvernement fixe le niveau de « pollution admise » par an et divise la �
 -   Il contribue à atteindre l'objectif environnemental de réduction des émissions à moindre coût.
 - Le prix des permis est déterminé par le marché libre, ce qui permet une plus grande flexibilité aux entreprises, car en période de récession, le prix baissera en raison de la baisse de la production et en période de boom économique, le prix augmentera. Cette flexibilité permettra aux entreprises de bénéficier de la réduction des émissions.
 - Il offre à la coopération internationale un moyen de relever le défi mondial des émissions.
-<!--SR:!2023-03-09,21,250-->
+<!--SR:!2023-05-01,53,250-->
 
 **Problèmes avec cette solution (3):**
 ?
