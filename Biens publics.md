@@ -13,3 +13,4 @@ Un bien privé a deux caractéristiques:
 ?
 - Rivale
 - Exclusif
+
