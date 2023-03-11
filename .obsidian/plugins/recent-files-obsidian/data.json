@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Biens publics",
+      "path": "Biens publics.md"
+    },
+    {
+      "basename": "Chapitre 9 - Défaillance du marché –  biens publics",
+      "path": "Chapitre 9 - Défaillance du marché –  biens publics.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Etude graphique des fonctions quadratiques",
       "path": "Etude graphique des fonctions quadratiques.md"
-    },
-    {
-      "basename": "Formules de Viète",
-      "path": "Formules de Viète.md"
-    },
-    {
-      "basename": "Attentes futures (demande)",
-      "path": "Attentes futures (demande).md"
     }
   ],
   "omittedPaths": [],

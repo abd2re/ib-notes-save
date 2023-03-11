@@ -11,17 +11,23 @@
             "id": "e5e0c01dd3df6a72",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Ressources du pool commun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.556934583884857}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 9 - Défaillance du marché –  biens publics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 9 - Défaillance du marché –  biens publics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":19.527038717158227}"
                 },
                 {
                   "title": "_computer science",
@@ -100,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Biens publics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -282,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Biens publics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Biens publics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -329,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Biens publics.md"
               }
             }
           },
@@ -409,7 +415,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Biens publics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -467,8 +473,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Importance de la coopération internationale.md",
+    "Chapitre 9 - Défaillance du marché –  biens publics.md",
+    "Biens publics.md",
     "_economy.md",
+    "Importance de la coopération internationale.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Ressources du pool commun.md",
     "Chapitre 1 - La Demande.md",
@@ -495,8 +503,6 @@
     "Excalidraw/Drawing 2023-02-22 13.51.24.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 16.45.41.excalidraw.md",
     "Excalidraw/Drawing 2023-02-28 20.15.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-27 16.58.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230308093002_632.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw/Pasted Image 20230307085911_441.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
