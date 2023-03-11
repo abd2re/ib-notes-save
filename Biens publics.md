@@ -16,4 +16,6 @@ Un bien privé a deux caractéristiques:
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
-- Ressources du pool commun=> ::
+- Ressources du pool commun=> ::Rival et Non-exclusif
+- Articles de club=> ::Non-rival et Exclusif
+- Biens publics=> Non-rival et Non-ex
