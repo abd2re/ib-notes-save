@@ -20,4 +20,5 @@ Un bien privé a deux caractéristiques:
 - Articles de club=> ::Non-rival et Exclusif
 - Biens publics=> Non-rival et Non-exclusif
 
+## Le problème du passager clandestin
 
