@@ -21,4 +21,12 @@ Un bien privé a deux caractéristiques:
 - Biens publics=> Non-rival et Non-exclusif
 
 ## Le problème du passager clandestin
+?
+Le problème de cavalier libre existe parce que personne n'est disposé à payer pour un bien ou un service alors qu'il pense que quelqu'un d'autre le paiera. C'est pourquoi le bien ne sera pas fourni par le marché libre.
 
+## Biens quasi publics
+Il existe deux types de biens quasi publics:
+?
+- [[Ressources du pool commun]]
+
+,
