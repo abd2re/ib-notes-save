@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Modèle OSI",
+      "path": "Modèle OSI.md"
+    },
+    {
+      "basename": "Fondamentaux des réseaux",
+      "path": "Fondamentaux des réseaux.md"
+    },
+    {
+      "basename": "Chapitre 1 - Types de réseaux",
+      "path": "Chapitre 1 - Types de réseaux.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "Biens publics",
       "path": "Biens publics.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Ressources du pool commun",
       "path": "Ressources du pool commun.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Externalités",
@@ -169,10 +181,6 @@
       "path": "exercises/physics/theme 7/Atomic Spectra & Radioactivity.md"
     },
     {
-      "basename": "Fondamentaux des réseaux",
-      "path": "Fondamentaux des réseaux.md"
-    },
-    {
       "basename": "Comparative Essay",
       "path": "Comparative Essay.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "Position relative parabole et droite",
-      "path": "Position relative parabole et droite.md"
-    },
-    {
-      "basename": "Etude graphique des fonctions quadratiques",
-      "path": "Etude graphique des fonctions quadratiques.md"
     }
   ],
   "omittedPaths": [],
