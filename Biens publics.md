@@ -14,3 +14,6 @@ Un bien privé a deux caractéristiques:
 - Rivale
 - Exclusif
 
+## Caractéristique de différents types de biens
+- Pomme=>::bien privée
+- 
