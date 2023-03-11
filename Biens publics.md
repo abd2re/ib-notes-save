@@ -18,4 +18,6 @@ Un bien privé a deux caractéristiques:
 - Bien privée => ::Rival et Exclusif
 - Ressources du pool commun=> ::Rival et Non-exclusif
 - Articles de club=> ::Non-rival et Exclusif
-- Biens publics=> Non-rival et Non-ex
+- Biens publics=> Non-rival et Non-exclusif
+
+
