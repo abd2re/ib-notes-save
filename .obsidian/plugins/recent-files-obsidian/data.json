@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ressources du pool commun",
-      "path": "Ressources du pool commun.md"
+      "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
+      "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
     },
     {
       "basename": "_economy",
       "path": "_economy.md"
+    },
+    {
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
     },
     {
       "basename": "_computer science",
@@ -195,10 +199,6 @@
     {
       "basename": "Anonymat",
       "path": "Anonymat.md"
-    },
-    {
-      "basename": "Accès aux disques et gestion des données",
-      "path": "Accès aux disques et gestion des données.md"
     }
   ],
   "omittedPaths": [],
