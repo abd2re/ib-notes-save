@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "7 objectifs d'apprentissage CAS",
@@ -99,10 +103,6 @@
     {
       "basename": "Interactionist theory",
       "path": "Interactionist theory.md"
-    },
-    {
-      "basename": "Ressources du pool commun",
-      "path": "Ressources du pool commun.md"
     },
     {
       "basename": "Impôts indirects",

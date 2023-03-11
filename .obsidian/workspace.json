@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":17.742868843886207}"
+                },
+                {
                   "title": "Externalités",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Externalités.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -88,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Ressources du pool commun.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -270,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -317,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -397,7 +403,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -455,13 +461,16 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Les systèmes dans les organisations.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "_economy.md",
+    "Chapitre 1 - La Demande.md",
     "_computer science.md",
+    "Chapitre 1 - Types de réseaux.md",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
     "Externalités.md",
     "Externalité de la production.md",
     "assets/Externalité de la production/image-20230203083115173.png",
     "__Current competitions.md",
-    "_economy.md",
     "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
     "Expériences et projets CAS.md",
@@ -482,12 +491,9 @@
     "Excalidraw/Drawing 2023-03-03 17.51.01.excalidraw.md",
     "Excalidraw/Drawing 2023-03-07 08.58.56.excalidraw.md",
     "Organisation sociale exo.md",
-    "_french B.md",
-    "exercises/math/theme 1/Sequences & Series.md",
     "exercises/math/theme 1/assets/Sequences & Series/Pasted Image 20230308093002_632.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw/Pasted Image 20230307085911_441.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
-    "Vitesse.md",
     "assets/Impôts indirects/image-20230118083024563.png",
     "assets/Subventions/image-20230124133701027.png",
     "assets/Impôts indirects/image-20230117160216475.png",
