@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.760320135217896}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",

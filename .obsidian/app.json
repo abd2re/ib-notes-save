@@ -9,4 +9,5 @@
   "livePreview": true,
   "attachmentFolderPath": "./assets/Ressources du pool commun",
   "fileSortOrder": "alphabetical",
-  "showInli
+  "showInlineTitle": false
+}
