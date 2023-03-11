@@ -26,5 +26,7 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 
 Réponses du gouvernement aux menaces à  la durabilité:
 ?
-
-
+-   Taxes sur le carbone et systèmes de plafonnement et d'échange
+-   Subventions pour promotion d'é
+-   Législation
+-   Auto-gouvernance collective
