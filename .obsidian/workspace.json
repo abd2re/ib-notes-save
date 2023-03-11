@@ -101,58 +101,13 @@
               "type": "markdown",
               "state": {
                 "file": "_economy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f249e8d3ae985833",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importance de la coopération internationale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80f7756a4063ffb7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -374,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importance de la coopération internationale.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -454,7 +409,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -507,14 +462,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f249e8d3ae985833",
+  "active": "e5e0c01dd3df6a72",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Importance de la coopération internationale.md",
     "_economy.md",
+    "Importance de la coopération internationale.md",
     "Ressources du pool commun.md",
     "Chapitre 1 - La Demande.md",
     "_computer science.md",
