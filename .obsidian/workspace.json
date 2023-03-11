@@ -101,7 +101,7 @@
               "type": "markdown",
               "state": {
                 "file": "_economy.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -467,9 +467,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "_economy.md",
     "Importance de la coopération internationale.md",
+    "_economy.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Ressources du pool commun.md",
     "Chapitre 1 - La Demande.md",
     "_computer science.md",
