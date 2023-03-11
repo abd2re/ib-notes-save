@@ -15,5 +15,5 @@ Un bien privé a deux caractéristiques:
 - Exclusif
 
 ## Caractéristique de différents types de biens
-- Pomme=>::bien privée
-- 
+- Bien privée => ::Rival et Exclusif
+- Ressources du pool commun=> ::
