@@ -25,6 +25,10 @@ $$E=hf=\frac{hc}{\lambda}$$
 - Une lumière monochromatique est constitué:: **d'une seul longueur d'onde**
 <!--SR:!2023-03-16,16,174-->
 
+### Signification des spectres atomiques
+?
+Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émises ou absorbées par un atome spécifique.
+
 ### Interprétation des spectres atomiques
 ?
 - Les spectres d'emission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. 
@@ -42,5 +46,5 @@ $$E=hf=\frac{hc}{\lambda}$$
 Types de spectres de lumières et représentations:
 ?
 ![[image-20230222120641551.png]]
-<!--SR:!2023-03-11,10,214-->
+<!--SR:!2023-03-31,20,214-->
 

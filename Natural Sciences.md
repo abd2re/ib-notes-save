@@ -27,7 +27,7 @@ Scientific knowledge is based on observations and experimentation, along with th
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
 <!--SR:!2023-04-08,46,230-->
 - **Scientific methods**:: a method of procedure for the way scientifique investigation's are conducted 
-<!--SR:!2023-03-11,25,210-->
+<!--SR:!2023-05-03,53,210-->
 
 We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including : 
 ?

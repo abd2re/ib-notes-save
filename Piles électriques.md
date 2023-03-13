@@ -56,7 +56,7 @@ Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) e
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2023-03-13,39,240-->
 - Une pile branchée en opposition se comporte comme:: un récepteur
-<!--SR:!2023-03-11,39,240-->
+<!--SR:!2023-06-15,96,240-->
 
 
 Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement):
