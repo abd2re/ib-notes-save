@@ -20,7 +20,7 @@ Il existe deux principaux types de RAM :
 ?
 - la RAM dynamique (DRAM) 
 - la RAM statique (SRAM)
-<!--SR:!2023-03-12,35,250-->
+<!--SR:!2023-06-08,88,250-->
 
 Différence entre DRAM et SRAM:: La SRAM est plus rapide mais plus chère que la DRAM, et c'est pourquoi la DRAM est préférée pour la RAM principale d'un système informatique.
 <!--SR:!2023-05-18,71,250-->

@@ -9,6 +9,7 @@ Created: 2023-03-12
 ?
 - [[Cryptage]]
 - [[Tunnelisation]]
+<!--SR:!2023-03-13,1,230-->
 
 ## Exigences matérielles et logicielles pour un VPN
 Pour mettre en place une technologie VPN, il faut disposer de ces éléments (7):
@@ -21,7 +22,9 @@ une communication privée sur Internet*)
 - Concentrateurs VPN
 - Un seul dispositif pour gérer un grand nombre de tunnels VPN entrants.
 - Serveurs VPN
+<!--SR:!2023-03-13,1,230-->
 
 
 ## VPN sécurisé
 Le trafic sur le VPN doit être:: **crypté**, **authentifié**, puis envoyé le long de **tunnels virtuels**.
+<!--SR:!2023-03-13,1,230-->

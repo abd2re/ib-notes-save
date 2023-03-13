@@ -18,7 +18,7 @@ Représentation du modèle de traitement des ordinateurs avec mémoire primaire:
 Le schema de la memoire primaire/secondaire:
 ?
 ![[image-20230111155546283.png]]
-<!--SR:!2023-03-12,35,230-->
+<!--SR:!2023-06-02,82,230-->
 
 
 Donne trois différences entre RAM et ROM:

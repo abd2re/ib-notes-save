@@ -21,13 +21,14 @@ $$E=hf=\frac{hc}{\lambda}$$
 
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
-<!--SR:!2023-03-12,17,194-->
+<!--SR:!2023-04-14,33,194-->
 - Une lumière monochromatique est constitué:: **d'une seul longueur d'onde**
 <!--SR:!2023-03-16,16,174-->
 
 ### Signification des spectres atomiques
 ?
 Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émises ou absorbées par un atome spécifique.
+<!--SR:!2023-03-13,1,213-->
 
 ### Interprétation des spectres atomiques
 ?

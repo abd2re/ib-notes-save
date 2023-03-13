@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 1 - Types de réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -154,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Yellow wallpaper work.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -319,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Yellow wallpaper work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Yellow wallpaper work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -366,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md"
+                "file": "Yellow wallpaper work.md"
               }
             }
           },
@@ -446,7 +458,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Types de réseaux.md",
+                "file": "Yellow wallpaper work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -503,6 +515,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
+    "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
     "ROM.md",
     "Fondamentaux des réseaux.md",
@@ -532,9 +546,7 @@
     "Yellow wallpaper work.md",
     "Point of view.md",
     "Excalidraw/Drawing 2023-03-12 19.21.54.excalidraw.md",
-    "_english.md",
     "Composition du noyau.md",
-    "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",

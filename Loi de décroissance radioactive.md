@@ -22,6 +22,7 @@ $$\large{T_{1/2}=\frac{t}{\log_2\frac{N_{0}}{N}}}=\frac{\ln 2}{\lambda}$$
 - $N_0$ = Masse de départ d'une substance radioactive
 - $t$ =  temps passé
 - $\lambda$ =:: Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps 
+<!--SR:!2023-03-14,2,243-->
 - $T_{1/2}$ = période radioactive de la substance (constant)
 <!--SR:!2023-03-29,23,250-->
 
@@ -35,6 +36,6 @@ Graphe de période radioactive:
 ## Détection de la radioactivité
 
 On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller** ou un [[champ électrique]] ou magnétique.  ![[image-20230307091645899.png]]
-<!--SR:!2023-03-12,1,188-->
+<!--SR:!2023-03-14,2,188-->
 
 
