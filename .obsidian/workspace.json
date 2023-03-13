@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab96322845cdfd9c",
+        "id": "22d1314886aacd4e",
         "type": "tabs",
         "children": [
           {
-            "id": "26850b8c0df8802e",
+            "id": "ff2d2851c35d75c5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,29 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Subventions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Subventions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}}}"
-                },
-                {
-                  "title": "Ressources du pool commun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.155555555555555}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressources du pool commun.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -199,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +207,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,9 +226,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ressources du pool commun.md"
-              }
+              "state": {}
             }
           },
           {
@@ -326,7 +305,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -368,23 +346,23 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "26850b8c0df8802e",
+  "active": "ff2d2851c35d75c5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Subventions.md",
     "Ressources du pool commun.md",
+    "Subventions.md",
     "Yellow wallpaper work.md",
     "_english.md",
     "Chapitre 1 - Types de réseaux.md",
