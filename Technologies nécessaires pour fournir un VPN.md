@@ -9,7 +9,7 @@ Created: 2023-03-12
 ?
 - [[Cryptage]]
 - [[Tunnelisation]]
-<!--SR:!2023-03-13,1,230-->
+<!--SR:!2023-03-14,1,210-->
 
 ## Exigences matérielles et logicielles pour un VPN
 Pour mettre en place une technologie VPN, il faut disposer de ces éléments (7):
