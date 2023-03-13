@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Subventions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Subventions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}}}"
+                },
+                {
                   "title": "Ressources du pool commun",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources du pool commun.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -193,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -320,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subventions.md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,6 +383,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Subventions.md",
     "Ressources du pool commun.md",
     "Yellow wallpaper work.md",
     "_english.md",
@@ -408,7 +415,6 @@
     "_physics.md",
     "Conservation masse-énergie.md",
     "Point of view.md",
-    "Excalidraw/Drawing 2023-03-12 19.21.54.excalidraw.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
