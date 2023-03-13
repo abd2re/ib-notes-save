@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
       "basename": "Ressources du pool commun",
       "path": "Ressources du pool commun.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Composantes CAS",
       "path": "Composantes CAS.md"
-    },
-    {
-      "basename": "CAS template",
-      "path": "template/CAS template.md"
     }
   ],
   "omittedPaths": [],
