@@ -13,7 +13,7 @@ Les objectifs des prix plafonds sont généralement de:
 - augmenter la consommation du bien ou du service. 
 - réduire le prix de certains biens ou services pour les consommateurs à faible revenu. 
 - empêcher l'exploitation par des monopoles
-<!--SR:!2023-03-13,36,210-->
+<!--SR:!2023-05-28,76,210-->
 
 Deux situations courantes où **contrôles des prix maximaux** sont utilisés pour assurer la disponibilité de: 
 ?
