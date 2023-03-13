@@ -13,7 +13,7 @@ Science is both a body of knowledge and process of discovery. It explores the na
 What are the natural sciences
 ?
 The natural sciences explores and tries to understand the natural world around us. In essence, this is the physical world and the forces acting upon it. Under the umbrella of the natural sciences come the life sciences, which are the branches of Biology and the physical sciences, which include discipline such as Chemistry, Physics, and the earth sciences. Think about the general steps involved when you do an experiment in science. To what extent might goes steps changed depending on the experiment you are conducting.
-<!--SR:!2023-03-13,30,230-->
+<!--SR:!2023-05-24,72,230-->
 
 ## Scientific method
 ?

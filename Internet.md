@@ -12,4 +12,4 @@ Created: 2023-02-25
 Différence entre Internet et le web:
 ?
 - l'internet fait référence au système de communication mondial, y compris le matériel et l'infrastructure, tandis que le web est l'un des services communiqués sur internet.
-<!--SR:!2023-03-13,3,210-->
+<!--SR:!2023-03-15,2,190-->

@@ -22,7 +22,7 @@ une communication privée sur Internet*)
 - Concentrateurs VPN
 - Un seul dispositif pour gérer un grand nombre de tunnels VPN entrants.
 - Serveurs VPN
-<!--SR:!2023-03-13,1,230-->
+<!--SR:!2023-03-14,1,210-->
 
 
 ## VPN sécurisé
