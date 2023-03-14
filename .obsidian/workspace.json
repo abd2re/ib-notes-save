@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - L'approvisionnement (L'offre).md"
+                "file": "_economy.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -378,11 +378,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c545432554fbc470",
+  "active": "8632dbaa2b680812",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
     "_economy.md",
     "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
@@ -414,7 +415,6 @@
     "Couche Réseau.md",
     "Couche Transport.md",
     "Couche Session.md",
-    "Couche Présentation.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
