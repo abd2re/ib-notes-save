@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Chapitre 2 - L'approvisionnement (L'offre).md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Chapitre 2 - L'approvisionnement (L'offre).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -378,13 +378,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8632dbaa2b680812",
+  "active": "c545432554fbc470",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
+    "Chapitre 1 - La Demande.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Biens publics.md",
     "Importance de la coopération internationale.md",
     "Ressources du pool commun.md",
@@ -414,7 +415,6 @@
     "Couche Transport.md",
     "Couche Session.md",
     "Couche Présentation.md",
-    "Couche Application.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
