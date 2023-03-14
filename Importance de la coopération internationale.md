@@ -10,4 +10,7 @@ Dans de nombreux cas d'externalités positives et négatives, les solutions exig
 
 
 Défis rencontrés dans la coopération internationale:
-- 
+?
+- Absence de responsabilité partagée
+- Inégalité des ressources
+- Désaccords politiques
