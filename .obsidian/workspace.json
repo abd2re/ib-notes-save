@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Ressources du pool commun.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Ressources du pool commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Ressources du pool commun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importance de la coopération internationale.md"
+                "file": "Ressources du pool commun.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Ressources du pool commun.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -384,6 +384,9 @@
   },
   "lastOpenFiles": [
     "_economy.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Chapitre 9 - Défaillance du marché –  biens publics.md",
+    "Importance de la coopération internationale.md",
     "Ressources du pool commun.md",
     "Biens publics.md",
     "Subventions.md",
@@ -412,9 +415,6 @@
     "Couche Session.md",
     "Couche Présentation.md",
     "Couche Application.md",
-    "Objectif des prototypes pour présenter un système au client.md",
-    "__dashboard.md",
-    "_physics.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
