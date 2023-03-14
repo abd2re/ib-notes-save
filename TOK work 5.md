@@ -10,4 +10,6 @@ In conclusion, the pursuit of scientific knowledge should be value-free because 
 
 Sources:
 - [https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1085&context=fac-philosophy#:\~:text=To the extent that "science,be increasingly manifest in fact.](https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1085&context=fac-philosophy#:~:text=To%20the%20extent%20that%20"science,be%20increasingly%20manifest%20in%20fact.)
-- 
+- [https://philpapers.org/archive/RAATSA.pdf](https://philpapers.org/archive/RAATSA.pdf)
+- [https://www.matthewjbrown.net/professional/papers/objectivity-paper.pdf](https://www.matthewjbrown.net/professional/papers/objectivity-paper.pdf)
+- [Fetching Title#lm8o](https://tok2022.com/natural-sciences/)
