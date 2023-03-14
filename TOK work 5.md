@@ -8,8 +8,8 @@ In the context of natural sciences, it is important to strive for objectivity an
 
 In conclusion, the pursuit of scientific knowledge should be value-free because it allows us to better understand the world around us and make decisions based on evidence and facts, rather than personal biases or preferences. This helps to ensure that scientific findings are as accurate and reliable as possible, and can be used to inform policies and decisions that have real-world impacts. 
 
-Sources:
+Sources used:
 - [https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1085&context=fac-philosophy#:\~:text=To the extent that "science,be increasingly manifest in fact.](https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1085&context=fac-philosophy#:~:text=To%20the%20extent%20that%20"science,be%20increasingly%20manifest%20in%20fact.)
 - [https://philpapers.org/archive/RAATSA.pdf](https://philpapers.org/archive/RAATSA.pdf)
 - [https://www.matthewjbrown.net/professional/papers/objectivity-paper.pdf](https://www.matthewjbrown.net/professional/papers/objectivity-paper.pdf)
-- [Fetching Title#lm8o](https://tok2022.com/natural-sciences/)
+- [Natural Sciences - TOK](https://tok2022.com/natural-sciences/)
