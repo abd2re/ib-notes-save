@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Biens publics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Biens publics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Biens publics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importance de la coopération internationale.md"
+                "file": "Biens publics.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Importance de la coopération internationale.md",
+                "file": "Biens publics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -384,8 +384,8 @@
   },
   "lastOpenFiles": [
     "_economy.md",
-    "Ressources du pool commun.md",
     "Importance de la coopération internationale.md",
+    "Ressources du pool commun.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 9 - Défaillance du marché –  biens publics.md",
     "Biens publics.md",
