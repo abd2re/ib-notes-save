@@ -6,4 +6,4 @@ Created: 2023-03-12
 # Couche Liaison des Données
 ?
 - Assure le transfert des données de noeud à noeud (directement connectés), et gère également la correction des erreurs de la couche physique. *Exemple de protocole : Ethernet*
-<!--SR:!2023-03-14,1,210-->
+<!--SR:!2023-03-16,2,210-->
