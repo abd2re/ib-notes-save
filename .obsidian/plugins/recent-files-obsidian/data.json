@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Expériences et projets CAS",
       "path": "Expériences et projets CAS.md"
-    },
-    {
-      "basename": "Composantes CAS",
-      "path": "Composantes CAS.md"
     }
   ],
   "omittedPaths": [],
