@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biens publics.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -182,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biens publics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biens publics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +233,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biens publics.md"
+              }
             }
           },
           {
@@ -305,6 +314,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Biens publics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
