@@ -21,7 +21,7 @@
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.215469613259668}"
+                  "eState": "{\"scroll\":22.13950276243094}"
                 },
                 {
                   "title": "Biens publics",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Importance de la coopération internationale.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Importance de la coopération internationale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Importance de la coopération internationale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources du pool commun.md"
+                "file": "Importance de la coopération internationale.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ressources du pool commun.md",
+                "file": "Importance de la coopération internationale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -384,10 +384,10 @@
   },
   "lastOpenFiles": [
     "_economy.md",
+    "Ressources du pool commun.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 9 - Défaillance du marché –  biens publics.md",
     "Importance de la coopération internationale.md",
-    "Ressources du pool commun.md",
     "Biens publics.md",
     "Subventions.md",
     "Yellow wallpaper work.md",
