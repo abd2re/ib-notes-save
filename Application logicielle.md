@@ -19,7 +19,7 @@ Les différents types sont 7:
 - [[Navigateurs web]]
 - [[Conception assistée par ordinateur (CAO)]]
 - [[Logiciels de traitement graphique]]
-<!--SR:!2023-03-14,29,248-->
+<!--SR:!2023-05-26,73,248-->
 
 ## Caractéristiques communes des applications
 Les caractéristiques communes à la plupart des programmes sont  4:
