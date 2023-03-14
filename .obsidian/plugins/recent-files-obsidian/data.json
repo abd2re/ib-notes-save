@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Biens publics",
       "path": "Biens publics.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_math",

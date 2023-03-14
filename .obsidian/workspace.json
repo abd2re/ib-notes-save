@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Biens publics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Biens publics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -187,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biens publics.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -314,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
