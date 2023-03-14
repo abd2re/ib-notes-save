@@ -11,17 +11,17 @@
             "id": "8632dbaa2b680812",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Biens publics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Biens publics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":22.13950276243094}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Biens publics",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biens publics.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biens publics.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -383,12 +383,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "_economy.md",
+    "Biens publics.md",
     "Importance de la coopération internationale.md",
     "Ressources du pool commun.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 9 - Défaillance du marché –  biens publics.md",
-    "Biens publics.md",
     "Subventions.md",
     "Yellow wallpaper work.md",
     "_english.md",
