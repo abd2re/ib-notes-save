@@ -15,13 +15,13 @@ Un bien privé a deux caractéristiques:
 ?
 - Rivale
 - Exclusif
-<!--SR:!2023-03-14,3,250-->
+<!--SR:!2023-03-23,9,250-->
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
 <!--SR:!2023-03-14,3,250-->
 - Ressources du pool commun=> ::Rival et Non-exclusif
-<!--SR:!2023-03-14,3,250-->
+<!--SR:!2023-03-22,8,250-->
 - Articles de club=> ::Non-rival et Exclusif
 <!--SR:!2023-03-14,3,250-->
 - Biens publics=> Non-rival et Non-exclusif
