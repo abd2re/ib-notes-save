@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22d1314886aacd4e",
+        "id": "59dd7d2ae81d1942",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2d2851c35d75c5",
+            "id": "8632dbaa2b680812",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -356,11 +356,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff2d2851c35d75c5",
+  "active": "8632dbaa2b680812",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Biens publics.md",
     "Ressources du pool commun.md",
     "Subventions.md",
     "Yellow wallpaper work.md",
@@ -392,7 +393,6 @@
     "__dashboard.md",
     "_physics.md",
     "Conservation masse-énergie.md",
-    "Point of view.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
