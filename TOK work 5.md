@@ -1,2 +1,3 @@
 # To what extent should the pursuit of scientific knowledge be value free ?
 
+The extent at which the pursuit of scientific knowledge be value free deals with the question that to what extent to which scientific research should be pursued without being influenced by personal values and biases. It is asking whether scientists should strive to be completely objective and value-free in their research, or whether it is inevitable that personal values and biases will play a role in shaping the scientific process. 
