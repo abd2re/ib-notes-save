@@ -1,0 +1,13 @@
+{
+  "spellcheckLanguages": [
+    "en-US",
+    "fr-FR"
+  ],
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": true,
+  "attachmentFolderPath": "./assets/Importance de la coopération internationale",
+  "fileSortOrder": "alphabetical",
+  "showInlineTitle": false
+}

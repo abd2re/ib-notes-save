@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":21.215469613259668}"
+                },
+                {
                   "title": "Biens publics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Biens publics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Importance de la coopération internationale.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -193,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Importance de la coopération internationale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Importance de la coopération internationale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Importance de la coopération internationale.md"
               }
             }
           },
@@ -320,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Importance de la coopération internationale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,8 +383,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Biens publics.md",
+    "_economy.md",
     "Ressources du pool commun.md",
+    "Biens publics.md",
     "Subventions.md",
     "Yellow wallpaper work.md",
     "_english.md",
@@ -408,7 +415,6 @@
     "Objectif des prototypes pour présenter un système au client.md",
     "__dashboard.md",
     "_physics.md",
-    "Conservation masse-énergie.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
