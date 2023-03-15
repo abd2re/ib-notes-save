@@ -9,7 +9,7 @@ Created: 2023-02-27
 - Le modèle OSI a été établi par l'Organisation internationale de normalisation (ISO) et vise à faciliter la communication entre divers systèmes.
 - Il comporte sept couches.
 - Le modèle d'interconnexion des systèmes ouverts fournit une représentation et une explication abstraites du processus de communication du réseau. Il ne s'agit que d'un modèle de référence.
-<!--SR:!2023-03-15,2,230-->
+<!--SR:!2023-03-21,6,230-->
 
 Quelles sont les sept couches du modèle OSI:
 ?
