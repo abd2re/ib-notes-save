@@ -21,6 +21,18 @@
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":5.366666666666666}"
+                },
+                {
+                  "title": "TOK work 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK work 5.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"scroll\":12.644444444444444}"
                 },
                 {
@@ -40,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK work 5.md",
-                "mode": "preview",
+                "file": "Mathematics.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK work 5.md",
+                "file": "Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK work 5.md",
+                "file": "Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK work 5.md"
+                "file": "Mathematics.md"
               }
             }
           },
@@ -332,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK work 5.md",
+                "file": "Mathematics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -390,6 +402,7 @@
   },
   "lastOpenFiles": [
     "_TOK.md",
+    "Mathematics.md",
     "TOK work 5.md",
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
@@ -420,7 +433,6 @@
     "Modèle TCP",
     "Couche Physique.md",
     "Couche Liaison des Données.md",
-    "Couche Réseau.md",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",

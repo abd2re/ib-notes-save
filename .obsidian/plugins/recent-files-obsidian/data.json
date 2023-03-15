@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "TOK work 5",
-      "path": "TOK work 5.md"
+      "basename": "Mathematics",
+      "path": "Mathematics.md"
     },
     {
       "basename": "_TOK",
       "path": "_TOK.md"
+    },
+    {
+      "basename": "TOK work 5",
+      "path": "TOK work 5.md"
     },
     {
       "basename": "_economy",
@@ -195,10 +199,6 @@
     {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
-    },
-    {
-      "basename": "7 objectifs d'apprentissage CAS",
-      "path": "7 objectifs d'apprentissage CAS.md"
     }
   ],
   "omittedPaths": [],

@@ -15,7 +15,7 @@ How do we know ?
 - Knowledge and indigenous societies
 ## Part 3: Areas of Knowledge
 - [[History]]
-- Mathematics
+- [[Mathematics]]
 - [[Natural Sciences]]
 - [[Human Sciences]]
 - Arts
