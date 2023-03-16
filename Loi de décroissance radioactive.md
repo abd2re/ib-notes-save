@@ -40,3 +40,7 @@ On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller**
 <!--SR:!2023-03-18,4,188-->
 
 
+Formule Activité radioactives-Nombre de noyaux:
+?
+$$A=\lambda N$$
+- 
