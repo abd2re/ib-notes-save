@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -450,9 +449,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "Loi de décroissance radioactive.md",
+    "exercices decroissance radioactive (1).rtf",
+    "exercices decroissance radioactive (1).rtf.opdownload",
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
     "_physics.md",
     "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
@@ -492,8 +493,6 @@
     "exercises/math/theme 1/assets/Sequences & Series",
     "exercises/math/theme 1/assets",
     "assets/Peer-to-Peer (P2P)",
-    "assets/Personal Area Network (PAN)",
-    "assets/Virtual Private Network (VPN)",
-    "assets/Intranet"
+    "assets/Personal Area Network (PAN)"
   ]
 }
