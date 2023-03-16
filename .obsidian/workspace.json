@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Mathematics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mathematics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics.md",
+                "file": "__Current competitions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -344,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathematics.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -401,8 +407,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_TOK.md",
     "Mathematics.md",
+    "_TOK.md",
     "TOK work 5.md",
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
