@@ -18,7 +18,7 @@ Formule de la masse finale d'une substance radioactive:
 ?
 $$\Large{N=N_{0}\cdot \left(\frac{1}{2}\right)^\frac{t}{T_{1/2}}=N_{0}e^{-\lambda t}}$$
 $$\large{T_{1/2}=\frac{t}{\log_2\frac{N_{0}}{N}}}=\frac{\ln 2}{\lambda}$$
-$$\lambda=\ln\left(\frac{A_{0}}{A}\right)=\frac{\ln2}{T_{1/2}}$$
+$$\lambda=\frac{\ln\left(\frac{A_{0}}{A}\right)}{t}=\frac{\ln2}{T_{1/2}}$$
 - $N$ = Masse finale d'une substance radioactive
 - $N_0$ = Masse de départ d'une substance radioactive
 - $t$ =  temps passé
