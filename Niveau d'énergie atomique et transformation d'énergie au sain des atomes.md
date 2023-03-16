@@ -28,7 +28,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 ### Signification des spectres atomiques
 ?
 Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émises ou absorbées par un atome spécifique.
-<!--SR:!2023-03-15,1,173-->
+<!--SR:!2023-03-16,1,153-->
 
 ### Interprétation des spectres atomiques
 ?
