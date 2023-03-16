@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Désintégration radioactive.md"
+                "file": "assets/Désintégration radioactive/image-20230214112623193.png"
               }
             }
           },
@@ -379,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -431,11 +431,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6aa6c968f1b5c2ee",
+  "active": "5b269232d521d9fc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Désintégration radioactive.md",
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
     "__Current competitions.md",
     "Mathematics.md",
@@ -466,7 +467,6 @@
     "assets/Modèle OSI/image-20230312205020631.png",
     "assets/Modèle OSI/image-20230312205016502.png",
     "assets/Modèle OSI",
-    "Modèle TCP/IP.md",
     "Modèle TCP",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
