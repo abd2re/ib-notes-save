@@ -43,6 +43,6 @@ On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller**
 Formule Activité radioactives-Nombre de noyaux:
 ?
 $$A=\lambda N$$
-- $A$=Activité radioactive en Bq
-- $N$= Nombre de noyaux/masse
-- 
+- $A$ = Activité radioactive en Bq
+- $N$ = Nombre de noyaux/masse
+- $\lambda$ = Constante de désintégration d'un noyau,
