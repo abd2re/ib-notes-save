@@ -76,6 +76,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":32.42857142857143}"
+                },
+                {
+                  "title": "Désintégration radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Désintégration radioactive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Drawing 2023-03-16 14.33.07.excalidraw",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md\"}}",
@@ -86,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Désintégration radioactive.md",
+                "file": "Loi de décroissance radioactive.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -210,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -252,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
+                "file": "Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
+                "file": "Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Désintégration radioactive/image-20230214112623193.png"
+                "file": "Loi de décroissance radioactive.md"
               }
             }
           },
@@ -379,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Désintégration radioactive/image-20230214112623193.png",
+                "file": "Loi de décroissance radioactive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,7 +425,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -431,12 +445,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5b269232d521d9fc",
+  "active": "6aa6c968f1b5c2ee",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
+    "Loi de décroissance radioactive.md",
+    "_physics.md",
     "Désintégration radioactive.md",
+    "assets/Désintégration radioactive/image-20230214112623193.png",
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
     "__Current competitions.md",
     "Mathematics.md",
@@ -459,21 +478,15 @@
     "Fondamentaux des réseaux.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tunnelisation.md",
-    "Cryptage.md",
-    "Modèle TCP-IP.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
-    "Modèle OSI.md",
     "assets/Modèle OSI/image-20230312205020631.png",
     "assets/Modèle OSI/image-20230312205016502.png",
     "assets/Modèle OSI",
     "Modèle TCP",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
-    "assets/Désintégration radioactive/image-20230214112623193.png",
     "assets/Loi de décroissance radioactive/image-20230307091645899.png",
-    "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
     "exercises/math/theme 1/assets/Sequences & Series",
