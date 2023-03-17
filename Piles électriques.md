@@ -70,7 +70,7 @@ $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
 Schema du sens de parcours (rouge) et sens du courant (bleu) pour les piles et les résistances:
 ?
 ![[image-20230109170117486.png]]
-<!--SR:!2023-03-16,42,240-->
+<!--SR:!2023-06-25,101,240-->
 
 ## Association de piles
 **En série** (Avantage, branchement et formule)

@@ -8,7 +8,7 @@ Qu'est-ce qu'un pool commun ou des ressources d'accès commun ?
 ?
 Les ressources communes font référence aux ressources naturelles qui sont librement accessibles à tous, à un prix nul.
 Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts sont tous des exemples de ressources du pool commun ou **des ressources d'accès commun.** 
-<!--SR:!2023-03-16,2,150-->
+<!--SR:!2023-03-19,3,150-->
 
 - Les ressources du pool commun sont à la fois:: **rivale et non-exclusif**.
 <!--SR:!2023-03-28,13,230-->
@@ -31,4 +31,4 @@ Réponses du gouvernement aux menaces à  la durabilité:
 -   [[Subventions]] pour promotion d'énergie renouvelables
 -   [[Législation]]
 -   Auto-gouvernance collective
-<!--SR:!2023-03-16,2,176-->
+<!--SR:!2023-03-20,4,176-->
