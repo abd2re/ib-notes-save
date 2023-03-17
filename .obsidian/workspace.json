@@ -95,8 +95,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composantes CAS.md",
-                "mode": "preview",
+                "file": "7 objectifs d'apprentissage CAS.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composantes CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composantes CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composantes CAS.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -410,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composantes CAS.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -468,7 +468,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Expériences et projets CAS.md",
     "_CAS.md",
+    "Composantes CAS.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Excalidraw/Photon Energy and the Planck Constant exercises.md",
     "Loi de décroissance radioactive.md",
@@ -499,8 +501,6 @@
     "Yellow wallpaper work.md",
     "_english.md",
     "Chapitre 1 - Types de réseaux.md",
-    "_computer science.md",
-    "ROM.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
