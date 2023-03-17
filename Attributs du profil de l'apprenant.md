@@ -4,10 +4,10 @@ tags: [CAS]
 # Attributs du profil de l'apprenant
 Created: 2022-09-30
 
-Altruiste
+*Altruiste*
 Audacieux
 *Chercheur*
-Communicatif
+*Communicatif*
 *Equilibre*
 Sensé
 *Ouvert d’esprit*
