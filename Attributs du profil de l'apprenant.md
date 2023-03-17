@@ -10,7 +10,7 @@ Created: 2022-09-30
 **C**ommunicatif
 **E**quilibre
 **S**ensé
-**O**uvert d’esprit
+***O**uvert d’esprit*
 **I**nforme
 **I**ntègre
 **R**éfléchi
