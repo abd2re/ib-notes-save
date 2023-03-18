@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Attributs du profil de l'apprenant",
+  "attachmentFolderPath": "./assets/__C++",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false
 }
