@@ -4,3 +4,11 @@
 -   `char` - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
 -   `string` - stores text, such as "Hello World". String values are surrounded by double quotes
 -   `bool` - stores values with two states: true or false
+
+- A floating point number can also be a scientific number with an "e" to indicate the power of 10:
+```c++
+float f1 = 35e3;  
+double d1 = 12E4;  
+cout << f1;  
+cout << d1;
+```
