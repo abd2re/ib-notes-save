@@ -15,7 +15,7 @@ Les 4 types de radioactivité sont:
 - Beta+ ($\beta^+$)
 - Beta- ($\beta^-$)
 - Gamma ($\gamma$)
-<!--SR:!2023-03-17,20,250-->
+<!--SR:!2023-05-05,49,250-->
 
 
 Equations des 4 types de radioactivités:
@@ -46,4 +46,4 @@ Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de
 <!--SR:!2023-03-22,23,250-->
 
 - Rayonnement de fond=:: c'est la radioactivité propre a un endroit qui s'ajoute a la radioactivité d'une source. 
-<!--SR:!2023-03-17,4,195-->
+<!--SR:!2023-03-26,9,195-->

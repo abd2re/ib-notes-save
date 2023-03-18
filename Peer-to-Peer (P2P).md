@@ -7,7 +7,7 @@ Created: 2023-02-25
 ?
 - Le peer-to-peer est un modèle de réseau dans lequel des ordinateurs ou des dispositifs matériels échangent des fichiers.
 - Certains experts le décrivent comme un système de "client égal" dans lequel, au lieu d'accéder aux fichiers d'un serveur, les ordinateurs "pairs" les échangent simplement entre eux.
-<!--SR:!2023-03-17,7,250-->
+<!--SR:!2023-04-03,17,250-->
 
 Représentation d'un P2P:
 ?

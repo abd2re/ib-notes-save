@@ -11,4 +11,4 @@ Le gouvernement pourrait éduquer les gens et créer une prise de conscience par
 **Problèmes avec cette solution (1):**
 ?
 -   Les coûts peuvent être élevés et générer un coût d'opportunité pour le gouvernement, comme pour toute autre dépense gouvernementale.
-<!--SR:!2023-03-17,25,250-->
+<!--SR:!2023-05-19,63,250-->
