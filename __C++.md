@@ -75,3 +75,15 @@ cout << result;
 --- 
 ## C++ Switch Statements
 Use the `switch` statement to select one of many code blocks to be executed.
+```c++
+switch(_expression_) {  
+  case x:  
+    _// code block_  
+    break;  
+  case y:  
+    _// code block_  
+    break;  
+  default:  
+    _// code block_  
+}
+```
