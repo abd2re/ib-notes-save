@@ -105,3 +105,12 @@ do {
 }  
 while (i < 5);
 ```
+---
+## C++ For Loop
+
+When you know exactly how many times you want to loop through a block of code, use the `for` loop instead of a `while` loop:
+```c++
+for (_statement 1_; _statement 2_; _statement 3_) {  
+  _// code block to be executed_  
+}
+```
