@@ -73,3 +73,5 @@ string result = (time < 18) ? "Good day." : "Good evening.";
 cout << result;
 ```
 --- 
+## C++ Switch Statements
+Use the `switch` statement to select one of many code blocks to be executed.
