@@ -152,3 +152,12 @@ for (int i : myNumbers) {
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
 To declare an array, define the variable type, specify the name of the array followed by **square brackets** and specify the number of elements it should store:
+```c++
+string cars[3] = {"Volvo", "BMW", "Ford"}; // Also three arrays
+```
+## Omit Array Size
+
+In C++, you don't have to specify the size of the array. The compiler is smart enough to determine the size of the array based on the number of inserted values:
+```c++
+string cars[] = {"Volvo", "BMW", "Ford"}; // Three arrays
+```
