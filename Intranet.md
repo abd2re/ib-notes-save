@@ -13,5 +13,5 @@ Created: 2023-02-25
 Différence entre Intranet et Extranet:
 ?
 ![[image-20230225140242368.png]]
-<!--SR:!2023-03-18,8,250-->
+<!--SR:!2023-04-07,20,250-->
 

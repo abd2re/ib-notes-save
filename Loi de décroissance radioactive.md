@@ -37,7 +37,7 @@ Graphe de période radioactive:
 ## Détection de la radioactivité
 
 On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller** ou un [[champ électrique]] ou magnétique.  ![[image-20230307091645899.png]]
-<!--SR:!2023-03-18,4,188-->
+<!--SR:!2023-03-28,10,188-->
 
 
 Formule Activité radioactives-Nombre de noyaux:
@@ -46,4 +46,4 @@ $$A=\lambda N$$
 - $A$ = Activité radioactive en Bq
 - $N$ = Nombre de noyaux/masse
 - $\lambda$ = Constante de désintégration d'un noyau,
-<!--SR:!2023-03-18,2,243-->
+<!--SR:!2023-03-24,6,243-->

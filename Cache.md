@@ -11,6 +11,6 @@ Type de petite mémoire à grande vitesse située à l'intérieur de l'unité ce
 Représentation de la Cache dans CPU-RAM:
 ?
 ![[image-20230111154000511.png]]
-<!--SR:!2023-03-18,41,250-->
+<!--SR:!2023-06-29,103,250-->
 
 

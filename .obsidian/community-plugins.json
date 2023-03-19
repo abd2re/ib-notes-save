@@ -1,5 +1,4 @@
 [
-  "execute-code",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
@@ -10,7 +9,6 @@
   "url-into-selection",
   "recent-files-obsidian",
   "tag-wrangler",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
   "better-word-count",
   "obsidian-style-settings",
