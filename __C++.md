@@ -135,5 +135,14 @@ Statement 2 defines the condition for the loop to run (i must be less than 5). I
 Statement 3 increases a value (i++) each time the code block in the loop has been executed.
 ***
 ## The foreach Loop
+```c++
+for (_type variableName_ : _arrayName_) {  
+  // code block to be executed  
+}
 ```
+```c++
+int myNumbers[5] = {10, 20, 30, 40, 50};  
+for (int i : myNumbers) {  
+  cout << i << "\n";  
+}
 ```
