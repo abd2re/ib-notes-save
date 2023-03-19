@@ -161,3 +161,11 @@ In C++, you don't have to specify the size of the array. The compiler is smart e
 ```c++
 string cars[] = {"Volvo", "BMW", "Ford"}; // Three arrays
 ```
+## Omit Elements on Declaration
+```c++
+string cars[5];  
+cars[0] = "Volvo";  
+cars[1] = "BMW";  
+...
+```
+---
