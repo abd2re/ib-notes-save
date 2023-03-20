@@ -111,9 +111,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdee9d2157bf0886",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -272,7 +289,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key features of stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +314,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key features of stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -318,9 +333,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Key features of stories.md"
-              }
+              "state": {}
             }
           },
           {
@@ -399,7 +412,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key features of stories.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -452,14 +464,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4d3430053e379a1",
+  "active": "cdee9d2157bf0886",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Key features of stories.md",
     "__C++.md",
     "exercises/math/theme 1/Binomial Theorem.md",
-    "Key features of stories.md",
     "Key theories of language acquisition.md",
     "_english.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
