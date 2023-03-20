@@ -226,3 +226,19 @@ To declare a variable that uses the structure, use the name of the structure as 
 ```c++
 myDataType myVar;
 ```
+--- 
+## Creating References
+
+A reference variable is a "reference" to an existing variable, and it is created with the `&` operator:
+```c++
+string food = "Pizza";  // food variable  
+string &meal = food;    // reference to food
+```
+
+```c++
+string food = "Pizza";  
+string &meal = food;  
+  
+cout << food << "\n";  // Outputs Pizza  
+cout << meal << "\n";  // Outputs Pizza
+```
