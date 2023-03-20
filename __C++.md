@@ -175,3 +175,13 @@ Structures (also called structs) are a way to group several related variables in
 
 Unlike an [array](https://www.w3schools.com/cpp/cpp_arrays.asp), a structure can contain many different data types (int, string, bool, etc.).
 
+To create a structure, use the `struct` keyword and declare each of its members inside curly braces.
+
+After the declaration, specify the name of the structure variable (**myStructure** in the example below):
+
+```c++
+struct {             // Structure declaration  
+  int myNum;         // Member (int variable)  
+  string myString;   // Member (string variable)  
+} myStructure;       // Structure variable
+```
