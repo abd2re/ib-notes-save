@@ -89,6 +89,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Key theories of language acquisition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Key theories of language acquisition.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -99,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Key features of stories.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -266,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Key features of stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Key features of stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key theories of language acquisition.md"
+                "file": "Key features of stories.md"
               }
             }
           },
@@ -393,7 +399,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key theories of language acquisition.md",
+                "file": "Key features of stories.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -451,6 +457,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Key theories of language acquisition.md",
     "_english.md",
     "__C++.md",
     "exercises/math/theme 1/Binomial Theorem.md",
@@ -485,7 +492,6 @@
     "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Biens publics.md",
-    "Importance de la coopération internationale.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
