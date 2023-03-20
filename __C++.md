@@ -216,3 +216,13 @@ struct {
 By giving a name to the structure, you can treat it as a data type. This means that you can create variables with this structure anywhere in the program at any time.
 
 To create a named structure, put the name of the structure right after the `struct` keyword:
+```c++
+struct myDataType { // This structure is named "myDataType"  
+  int myNum;  
+  string myString;  
+};
+```
+To declare a variable that uses the structure, use the name of the structure as the data type of the variable:
+```c++
+myDataType myVar;
+```
