@@ -16,4 +16,6 @@ Created: 2023-03-20
 - Others warn Toundi that he is involved in matters that will only end in harm for him but he doesn't listen
 - The commandant finds out that Madame is having an affair, and he becomes mad
 - At the end of the entanglements, Toundi is viewed as as a person standing in judgement by all sides of the affair
-- As a result he is used as a scapegoat 
+- As a result he is used as a scapegoat and blamed for crimes he has not commited
+- He is beaten badly that he died from his injuries after fleeting to Spanish Guinea
+- Toundi's 
