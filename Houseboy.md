@@ -10,4 +10,5 @@ Created: 2023-03-20
 - His father becomes angry at Toundi for going to Father' Gilbert, the local European priest
 - He asked the priest to become his Houseboy, he soon learns to read and write
 - Toundi accompanies him to Dangan and begins to work at the Saint Peter Catholic Mission
-- 
+- Father Gilbert dies and Toundi becomes "The chief European's 'boy'-- the dog of the Commandant."
+- The comman
