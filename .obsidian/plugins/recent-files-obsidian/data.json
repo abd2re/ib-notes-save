@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Key features of stories",
       "path": "Key features of stories.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Binomial Theorem",
       "path": "exercises/math/theme 1/Binomial Theorem.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "exercices decroissance radioactive (1)",
