@@ -112,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -319,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key features of stories.md"
+                "file": "__C++.md"
               }
             }
           },
@@ -399,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Key features of stories.md",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -452,15 +451,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4d3430053e379a1",
+  "active": "6aa6c968f1b5c2ee",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/math/theme 1/Binomial Theorem.md",
+    "Key features of stories.md",
     "Key theories of language acquisition.md",
     "_english.md",
     "__C++.md",
-    "exercises/math/theme 1/Binomial Theorem.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
@@ -491,7 +491,6 @@
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Biens publics.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
