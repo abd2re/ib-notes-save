@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/math/theme 1/Binomial Theorem.md",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/math/theme 1/Binomial Theorem.md",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/math/theme 1/Binomial Theorem.md"
+                "file": "__C++.md"
               }
             }
           },
@@ -365,7 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/math/theme 1/Binomial Theorem.md",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,13 +417,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a75604e35963c30e",
+  "active": "6aa6c968f1b5c2ee",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__C++.md",
     "exercises/math/theme 1/Binomial Theorem.md",
+    "__C++.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
