@@ -13,7 +13,7 @@ Les externalités négatives de consommation se produisent lorsque la consommati
 <!--SR:!2023-04-04,32,230-->
 
 - Lorsque une externalité négative de la consommation se produit,:: le **bénéfice social marginal (MSB) est inférieur au bénéfice marginal privé (MPB)** , car le bénéfice de l'utilisation privée est diminué par l'impact négatif subi par le tiers.
-<!--SR:!2023-03-19,26,250-->
+<!--SR:!2023-05-27,69,250-->
 
 Réponses possibles du gouvernement (3):
 ?

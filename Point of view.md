@@ -11,7 +11,7 @@ Created: 2022-12-05
 <!--SR:!2023-04-02,67,230-->
 
 _first point of view_:: I 
-<!--SR:!2023-03-19,65,250-->
+<!--SR:!2023-08-30,164,250-->
 _second point of view_:: you, your 
 <!--SR:!2023-08-01,145,250-->
 _third point of view_:: she, he, it 

@@ -17,6 +17,6 @@ Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses rais
 <!--SR:!2023-04-18,60,190-->
 
 bien nuisible:: bien demerit/bien d'inaptitude
-<!--SR:!2023-03-19,36,270-->
+<!--SR:!2023-06-22,95,270-->
 
 <!--SR:!2023-03-11,45,210-->
