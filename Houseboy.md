@@ -14,4 +14,6 @@ Created: 2023-03-20
 - The commandant's wife was conveyed by all men and she had an affair with the prison director Mr. Moreau
 - Toundi found himself stuck in the middle of that affair, being the messenger against his will
 - Others warn Toundi that he is involved in matters that will only end in harm for him but he doesn't listen
-- The commandant finds out that Madame is having an affair, and he becomes 
+- The commandant finds out that Madame is having an affair, and he becomes mad
+- At the end of the entanglements, Toundi is viewed as as a person standing in judgement by all sides of the affair
+- As a result he is used as a scapegoat 
