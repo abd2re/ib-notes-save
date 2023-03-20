@@ -32,7 +32,7 @@ Son rôle est de récupérer, de décoder et d'exécuter des instructions de pro
 Le "machine cycle" dans le CPU:
 ?
 ![[CPU.png]]
-<!--SR:!2023-03-20,43,230-->
+<!--SR:!2023-06-27,99,230-->
 
 
 ## Registres
