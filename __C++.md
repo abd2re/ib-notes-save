@@ -169,3 +169,9 @@ cars[1] = "BMW";
 ...
 ```
 ---
+## C++ Structures
+
+Structures (also called structs) are a way to group several related variables into one place. Each variable in the structure is known as a **member** of the structure.
+
+Unlike an [array](https://www.w3schools.com/cpp/cpp_arrays.asp), a structure can contain many different data types (int, string, bool, etc.).
+
