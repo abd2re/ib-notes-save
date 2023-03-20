@@ -211,3 +211,8 @@ struct {
   string myString;  
 } myStruct1, myStruct2, myStruct3; // Multiple structure variables separated with commas
 ```
+
+## Named Structures
+By giving a name to the structure, you can treat it as a data type. This means that you can create variables with this structure anywhere in the program at any time.
+
+To create a named structure, put the name of the structure right after the `struct` keyword:
