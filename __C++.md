@@ -201,3 +201,13 @@ myStructure.myString = "Hello World!";
 cout << myStructure.myNum << "\n";  
 cout << myStructure.myString << "\n";
 ```
+
+## One Structure in Multiple Variables
+
+You can use a comma (`,`) to use one structure in many variables:
+```c++
+struct {  
+  int myNum;  
+  string myString;  
+} myStruct1, myStruct2, myStruct3; // Multiple structure variables separated with commas
+```
