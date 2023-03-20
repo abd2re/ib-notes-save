@@ -28,4 +28,4 @@ Created: 2023-03-20
 - **Toundi Ondoua (Joseph) {Houseboy}**: 
 	- He is the main character, whose activities were in the colonial ruled Cameroon
 	- He is forced to live away from his family due to both his father harshness and brutality and family poverty
-	- He represents poo
+	- He represents poor African children whose life is full of messiness.problems that are from birth to death
