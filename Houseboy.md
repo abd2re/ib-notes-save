@@ -23,6 +23,6 @@ Created: 2023-03-20
 - Gradually, preconceptions of the Europeans came crashing down on him as he struggles with his identity, his place in society and changing culture
 ---
 - It is explained in the prologue that Toundi dies so the reader already knows. The narrative is therefore an unravelling, meant to show exactly how this once carefree individual ended up on his deathbed, in a country not hos own, and with sobering story that deserves to be told as a cautionary tale against the abuse of power and the effects of racism
-
+---
 ## Characters
-- **Toundi Ondoua (Joseph) {Houseboy}**: He is the main character, who is the acti
+- **Toundi Ondoua (Joseph) {Houseboy}**: He is the main character, who the activities of circumstances of colonial rule in Cameroon
