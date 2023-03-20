@@ -121,13 +121,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -294,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -341,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "Houseboy.md"
               }
             }
           },
@@ -421,7 +427,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -479,11 +485,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
+    "Houseboy.md",
     "Key features of stories.md",
     "__C++.md",
     "exercises/math/theme 1/Binomial Theorem.md",
     "Key theories of language acquisition.md",
-    "_english.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
@@ -513,7 +520,6 @@
     "_economy.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",

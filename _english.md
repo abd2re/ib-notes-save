@@ -15,7 +15,7 @@ tags: [M]
 ## Books
 1. The Scarlet Letter
 2. King Lear
-3. Houseboy
+3. [[Houseboy]]
 4. Tartuffe
 5. Songs of Sorrow
 6. Strength to Love
