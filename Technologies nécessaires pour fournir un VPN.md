@@ -27,4 +27,4 @@ une communication privée sur Internet*)
 
 ## VPN sécurisé
 Le trafic sur le VPN doit être:: **crypté**, **authentifié**, puis envoyé le long de **tunnels virtuels**.
-<!--SR:!2023-03-20,4,210-->
+<!--SR:!2023-03-28,8,210-->
