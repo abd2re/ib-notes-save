@@ -30,3 +30,7 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 - $E_{A}$ = énergie de liaison par nucléon (en MeV/nucléon)
 - $E_{l}$ = énergie de liaison du noyau (en MeV)
 - A = nombre de nucléons du noyau
+
+- L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
+
+##  Courbe d'Aston
