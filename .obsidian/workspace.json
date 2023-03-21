@@ -49,7 +49,7 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":29.309288547677458}"
+                  "eState": "{\"scroll\":37.678978329613095}"
                 }
               ]
             },
@@ -408,10 +408,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__C++.md",
+    "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Energie de liaison du noyau.md",
     "_physics.md",
     "Conservation masse-énergie.md",
+    "assets/Energie de liaison du noyau",
+    "__C++.md",
     "__useful links.md",
     "Houseboy.md",
     "Key features of stories.md",
@@ -442,7 +444,6 @@
     "__Current competitions.md",
     "Mathematics.md",
     "_TOK.md",
-    "TOK work 5.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
@@ -451,8 +452,6 @@
     "Modèle TCP",
     "assets/Désintégration radioactive/image-20230214114403367.png",
     "assets/Désintégration radioactive/image-20230222131031797.png",
-    "assets/Loi de décroissance radioactive/image-20230307091645899.png",
-    "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw",
-    "exercises/math/theme 1/assets/Sequences & Series"
+    "Excalidraw/assets/Drawing 2023-03-07 08.58.56.excalidraw"
   ]
 }
