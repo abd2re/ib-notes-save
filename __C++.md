@@ -352,7 +352,7 @@ void myFunction() {
 }  
   
 int main() {  
-  **myFunction();** // call the function  
+  myFunction(); // call the function  
   return 0;  
 }  
   
