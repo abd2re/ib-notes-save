@@ -34,8 +34,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57bf8bcb480b5f61",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":27.87232862200056}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conservation masse-énergie.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__C++.md"
+                "file": "Conservation masse-énergie.md"
               }
             }
           },
@@ -321,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -374,15 +403,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e718b7f2d3617216",
+  "active": "57bf8bcb480b5f61",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
+    "__C++.md",
     "__useful links.md",
     "Houseboy.md",
     "Key features of stories.md",
-    "__C++.md",
     "exercises/math/theme 1/Binomial Theorem.md",
     "_english.md",
     "Key theories of language acquisition.md",
@@ -404,7 +434,6 @@
     "exercices decroissance radioactive (1).rtf",
     "exercices decroissance radioactive (1).rtf.opdownload",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "_physics.md",
     "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
