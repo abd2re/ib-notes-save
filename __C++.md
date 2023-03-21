@@ -359,6 +359,6 @@ int main() {
 // Outputs "I just got executed!"
 ```
 **Note:** If a user-defined function, such as `myFunction()` is declared after the `main()` function, **an error will occur**.
-
+## Default Parameter Value
 
 
