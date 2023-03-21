@@ -335,3 +335,6 @@ void _myFunction_() {
   // code to be executed  
 }
 ```
+-   `myFunction()` is the name of the function
+-   `void` means that the function does not have a return value. You will learn more about return values later in the next chapter
+-   inside the function (the body), add code that defines what the function should do
