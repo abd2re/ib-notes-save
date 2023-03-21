@@ -19,4 +19,7 @@ L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos
 
 Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
 ?
-$$\Large{E_{l}=}$$
+$$\Large{E_{l}=\Delta mc^{2}}$$
+- $E_{l}$ = énergie de liaison du noyau (en MeV)
+- $\Delta m$ =  défaut de masse du noyau (en kg)
+- $c$ = célérité de la lumière dans le vide (en m.s-1)
