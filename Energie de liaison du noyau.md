@@ -22,4 +22,8 @@ Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\D
 $$\Large{E_{l}=\Delta mc^{2}}$$
 - $E_{l}$ = énergie de liaison du noyau (en MeV)
 - $\Delta m$ =  défaut de masse du noyau (en kg)
-- $c$ = célérité de la lumière dans le vide (en m.s-1)
+- $c$ = célérité de la lumière dans le vide (en $ms^{-1}$)
+
+L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
+?
+$$\large{\frac{E_{l}}{A}}$$
