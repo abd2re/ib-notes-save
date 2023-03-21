@@ -39,24 +39,24 @@
             "id": "57bf8bcb480b5f61",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Conservation masse-énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation masse-énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":29.309288547677458}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Energie de liaison du noyau.md"
               }
             }
           },
@@ -350,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -408,8 +408,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Conservation masse-énergie.md",
     "_physics.md",
+    "Energie de liaison du noyau.md",
+    "Conservation masse-énergie.md",
     "__C++.md",
     "__useful links.md",
     "Houseboy.md",
@@ -442,7 +443,6 @@
     "Mathematics.md",
     "_TOK.md",
     "TOK work 5.md",
-    "_economy.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
