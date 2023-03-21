@@ -11,4 +11,6 @@ Postulat d’Einstein => Un système de masse m possède lorsqu'il est au repos,
 $$\LARGE{E=mc^{2}}$$
 - E = énergie du système en joules (J)
 - m = masse du système en kilogrammes (kg)
-- c = vitesse de la lumière dans le vide ($M$
+- c = vitesse de la lumière dans le vide ($3\cdot 10^{8} ms^{-1}$)
+
+## 
