@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "__C++.md"
               }
             }
           },
@@ -350,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -403,14 +402,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "57bf8bcb480b5f61",
+  "active": "e718b7f2d3617216",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
-    "_physics.md",
     "Conservation masse-énergie.md",
     "assets/Energie de liaison du noyau",
     "__C++.md",
