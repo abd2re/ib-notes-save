@@ -24,7 +24,7 @@ Son rôle est de récupérer, de décoder et d'exécuter des instructions de pro
 ![[CPU-7.png]]
 ![[CPU-8.png]]
 ![[CPU-9.png]]
-<!--SR:!2023-03-21,44,245-->
+<!--SR:!2023-07-07,108,245-->
 
 
 
