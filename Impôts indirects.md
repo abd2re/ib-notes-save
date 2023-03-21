@@ -35,7 +35,7 @@ Qu'advient-il du surplus du consommateur, du [[surplus du producteur]] et du bie
 ## Effet sur la société dans son ensemble
 ?
 En supposant que l'équilibre du [[marché]] libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'[[externalités]], alors la société dans son ensemble est moins bien lotie. En effet, l'imposition de la taxe fausse le marché, produisant une sous-allocation des ressources à la production de ce bien.
-<!--SR:!2023-03-21,33,204-->
+<!--SR:!2023-05-30,70,204-->
 
 ## Synthèse des effets d'un impôt indirect 
 Le prix pour les consommateurs=>::Augmente
