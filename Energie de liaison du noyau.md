@@ -17,4 +17,5 @@ $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\
 ?
 L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
 
-Lorsqu'on brise le noyau, sa masse augmente de $\Da$ et son énergie de ∆m.c2. On en déduit que l'énergie de liaison d'un noyau a pour expression:
+Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
+$$\L$$
