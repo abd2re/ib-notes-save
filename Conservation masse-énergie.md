@@ -19,4 +19,4 @@ Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On ut
 
 A cette échelle, il est possible d'utiliser comme unité de masse l'unité de masse atomique (notée u). L'unité de masse atomique est définie comme étant égale:: au douzième de la masse d'un atome de carbone .
 
-On utilise souvent le $MeVc^$
+On utilise souvent le $MeVc^{-2}$, donc pour exprimer $1u$ en 
