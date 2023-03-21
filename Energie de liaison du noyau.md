@@ -34,3 +34,5 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
 
 ##  Courbe d'Aston
+?
+La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
