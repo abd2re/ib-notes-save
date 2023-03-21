@@ -6,6 +6,7 @@ Created: 2023-03-21
 # Energie de liaison du noyau
 
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
+<!--SR:!2023-03-24,3,250-->
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
 <!--SR:!2023-03-24,3,250-->
 
