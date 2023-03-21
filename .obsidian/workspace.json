@@ -45,7 +45,7 @@
                   "title": "Conservation masse-énergie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation masse-énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":52}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "_physics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -409,8 +409,8 @@
   },
   "lastOpenFiles": [
     "Conservation masse-énergie.md",
-    "__C++.md",
     "_physics.md",
+    "__C++.md",
     "__useful links.md",
     "Houseboy.md",
     "Key features of stories.md",
