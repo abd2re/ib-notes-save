@@ -13,4 +13,6 @@ $$\LARGE{E=mc^{2}}$$
 - m = masse du système en kilogrammes (kg)
 - c = vitesse de la lumière dans le vide ($3\cdot 10^{8} ms^{-1}$)
 
-## 
+## Unités de masse et d'énergie
+Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
+
