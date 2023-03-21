@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__C++.md"
+                "file": "Conservation masse-énergie.md"
               }
             }
           },
@@ -349,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__C++.md",
+                "file": "Conservation masse-énergie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,14 +403,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e718b7f2d3617216",
+  "active": "57bf8bcb480b5f61",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__C++.md",
     "Conservation masse-énergie.md",
     "_physics.md",
-    "__C++.md",
     "__useful links.md",
     "Houseboy.md",
     "Key features of stories.md",
