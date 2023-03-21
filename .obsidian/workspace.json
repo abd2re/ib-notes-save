@@ -39,16 +39,16 @@
             "id": "57bf8bcb480b5f61",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Energie de liaison du noyau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie de liaison du noyau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":31.2287956237793}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -56,14 +56,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Contrôles des prix planchers.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__C++.md",
+                "file": "Contrôles des prix planchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__C++.md",
+                "file": "Contrôles des prix planchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__C++.md"
+                "file": "Contrôles des prix planchers.md"
               }
             }
           },
@@ -349,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__C++.md",
+                "file": "Contrôles des prix planchers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,17 +403,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e718b7f2d3617216",
+  "active": "57bf8bcb480b5f61",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Contrôles des prix planchers/image-20230117132748916.png",
+    "Contrôles des prix planchers.md",
     "_physics.md",
+    "__C++.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Conservation masse-énergie.md",
     "assets/Energie de liaison du noyau",
-    "__C++.md",
     "__useful links.md",
     "Houseboy.md",
     "Key features of stories.md",
@@ -442,7 +445,6 @@
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
     "__Current competitions.md",
     "Mathematics.md",
-    "_TOK.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
