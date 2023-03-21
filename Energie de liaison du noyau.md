@@ -11,5 +11,5 @@ Created: 2023-03-21
 ## Défaut de masse du noyau
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:
 ?
-$$\Large{Z\cdot m_{proton}+(A-Z)\cdot }$$
+$$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m}$$
  
