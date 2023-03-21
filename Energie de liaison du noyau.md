@@ -15,6 +15,7 @@ Expérimentalement, on a constaté que la masse du noyau atomique est inférieur
 ?
 $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\text{noyau}}}$$
 (Noter que $m$ est exprimée en $u$)
+<!--SR:!2023-03-24,3,250-->
 
 ## Energie de liaison
 ?
