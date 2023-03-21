@@ -19,6 +19,6 @@ Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On ut
 
 A cette échelle, il est possible d'utiliser comme unité de masse l'unité de masse atomique (notée u). L'unité de masse atomique est définie comme étant égale:: au douzième de la masse d'un atome de carbone .
 
-Pour convert un $1u$  en $MeVc^{-2}$:
+Pour convertir un $1u$  en $MeVc^{-2}$:
 ?
-$$\large{1u=931.5MeVc^{-2}}$$
+$\large{1u=931.5MeVc^{-2}}$
