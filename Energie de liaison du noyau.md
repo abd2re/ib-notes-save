@@ -27,4 +27,6 @@ $$\Large{E_{l}=\Delta mc^{2}}$$
 L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
 ?
 $$\large{E_{A}=\frac{E_{l}}{A}}$$
-- 
+- $E_{A}$ = énergie de liaison par nucléon (en MeV/nucléon)
+- $E_{l}$ = énergie de liaison du noyau (en MeV)
+- A = nombre de nucléons du noyau
