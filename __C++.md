@@ -338,3 +338,23 @@ void _myFunction_() {
 -   `myFunction()` is the name of the function
 -   `void` means that the function does not have a return value. You will learn more about return values later in the next chapter
 -   inside the function (the body), add code that defines what the function should do
+## Call a Function
+
+Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are called.
+
+To call a function, write the function's name followed by two parentheses `()` and a semicolon `;`
+
+In the following example, `myFunction()` is used to print a text (the action), when it is called:
+```c++
+// Create a function  
+void myFunction() {  
+  cout << "I just got executed!";  
+}  
+  
+int main() {  
+  **myFunction();** // call the function  
+  return 0;  
+}  
+  
+// Outputs "I just got executed!"
+```
