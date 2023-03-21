@@ -39,24 +39,24 @@
             "id": "57bf8bcb480b5f61",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Conservation masse-énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation masse-énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":52}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":27.87232862200056}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "_physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation masse-énergie.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -350,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -408,8 +408,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__C++.md",
     "Conservation masse-énergie.md",
+    "__C++.md",
     "_physics.md",
     "__useful links.md",
     "Houseboy.md",
