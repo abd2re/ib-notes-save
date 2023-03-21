@@ -16,3 +16,4 @@ $$\LARGE{E=mc^{2}}$$
 ## Unités de masse et d'énergie
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
 
+- Valeur de MeV =::  $1MeV$ = $1$06eV$ = 1.6010-13J
