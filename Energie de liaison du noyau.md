@@ -7,6 +7,7 @@ Created: 2023-03-21
 
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
+<!--SR:!2023-03-24,3,250-->
 
 ## Défaut de masse du noyau
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:
@@ -38,5 +39,6 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230321101145853.png|575]]
+<!--SR:!2023-03-24,3,250-->
 
 
