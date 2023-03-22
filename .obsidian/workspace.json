@@ -95,24 +95,24 @@
             "id": "daf75601b3253fea",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Transmission de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":32},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":20.441288806189405}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Transmission de données.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -459,12 +459,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c25af9f560a9ff48",
+  "active": "daf75601b3253fea",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
     "_computer science.md",
+    "Fondamentaux des réseaux.md",
     "Transmission de données.md",
     "Energie de liaison du noyau.md",
     "_physics.md",
@@ -501,7 +502,6 @@
     "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
-    "__Current competitions.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
