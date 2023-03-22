@@ -14,7 +14,7 @@ Created: 2023-03-21
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:
 ?
 $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\text{noyau}}=\sum\limits m_{\text{nucléons}}-\sum\limits m_{\text{noyau}}}$$
-$$\Large{\Delta m=\sum\limits m_{\text{réactifs}}$$
+$$\Large{\Delta m=\sum\limits m_{\text{réactifs}}-\sum\limits m_{\text{produits}}}$$
 $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réactifs})}}$$
 (Noter que $m$ est exprimée en $u$)
 <!--SR:!2023-03-24,3,250-->
