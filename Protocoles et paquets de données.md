@@ -10,3 +10,6 @@ Définition de protocole:
 plusieurs entités communicantes, ainsi que les actions entreprises lors de la
 transmission et/ou de la réception d'un message ou d'un autre événement.
 - Un protocole reconnu comme la norme pour un type de transfert spécifique est appelé protocole standard. *Exemple : le protocole TCP/IP*
+
+Définition de paquet de donnée:
+?
