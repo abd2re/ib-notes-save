@@ -19,7 +19,6 @@ Définition de paquet de donnée:
 - Lorsque des données doivent être transmises, elles sont décomposées en structures de données similaires avant la transmission (les paquets) qui sont réassemblées en morceaux de données d'origine une fois qu'elles atteignent leur destination.
 
 ## Composition d'un paquet de données
-?
 Normalement, un paquet comporte un en-tête et une charge utile. La structure d'un paquet dépend du type de paquet et du protocole. 
 
 Composition d'un paquet de données (représentation):
@@ -27,3 +26,10 @@ Composition d'un paquet de données (représentation):
 ![[image-20230322085123660.png]]
 - L'en-tête contient des informations générales sur le paquet, le service et d'autres données liées à la transmission.
 - La charge utile, qui représente l'essentiel du paquet (tout ce qui précède est considéré comme de l'overhead), et qui constitue en fait les données transportées.
+
+Par exemple, le transfert de données sur internet nécessite la décomposition des données en paquets IP, ce qui est défini dans IP (Internet Protocol), et un paquet IP comprend:
+?
+- L'adresse IP source, qui est l'adresse IP de la machine qui envoie les données.
+- L'adresse IP de destination, qui est la machine ou l'appareil auquel les données sont envoyées.
+- Le numéro de séquence des paquets, un numéro qui place les paquets dans un ordre tel qu'ils sont réassemblés de manière à retrouver les données originales telles qu'elles étaient avant la transmission.
+- Le type de service, les drapeaux et d'autres données techniques
