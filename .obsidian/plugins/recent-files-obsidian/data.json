@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Transmission de données",
-      "path": "Transmission de données.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
       "basename": "Energie de liaison du noyau",
       "path": "Energie de liaison du noyau.md"
+    },
+    {
+      "basename": "Transmission de données",
+      "path": "Transmission de données.md"
     },
     {
       "basename": "_physics",
@@ -19,10 +23,6 @@
     {
       "basename": "__C++",
       "path": "__C++.md"
-    },
-    {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
     },
     {
       "basename": "Conservation masse-énergie",

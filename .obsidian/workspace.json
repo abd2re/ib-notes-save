@@ -46,45 +46,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "Contrôles des prix planchers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contrôles des prix planchers.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da0a4bdb080f2f0a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Contrôles des prix planchers.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":35.453125}"
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -120,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -326,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transmission de données.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -406,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -459,18 +437,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "daf75601b3253fea",
+  "active": "57bf8bcb480b5f61",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Types de réseaux.md",
     "_computer science.md",
-    "Fondamentaux des réseaux.md",
-    "Transmission de données.md",
+    "Chapitre 2 - System design basics.md",
+    "Contrôles des prix planchers.md",
     "Energie de liaison du noyau.md",
+    "Transmission de données.md",
+    "Fondamentaux des réseaux.md",
     "_physics.md",
     "__C++.md",
-    "Contrôles des prix planchers.md",
     "assets/Contrôles des prix planchers/image-20230117132748916.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Conservation masse-énergie.md",
@@ -499,9 +479,7 @@
     "exercices decroissance radioactive (1).rtf",
     "exercices decroissance radioactive (1).rtf.opdownload",
     "assets/Loi de décroissance radioactive/image-20230222134710425.png",
-    "Désintégration radioactive.md",
     "assets/Désintégration radioactive/image-20230214112623193.png",
-    "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
