@@ -90,9 +90,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daf75601b3253fea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Transmission de données",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "Transmission de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "Transmission de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie de liaison du noyau.md"
+                "file": "Transmission de données.md"
               }
             }
           },
@@ -378,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "Transmission de données.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -431,16 +459,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da0a4bdb080f2f0a",
+  "active": "c25af9f560a9ff48",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
+    "Transmission de données.md",
+    "Energie de liaison du noyau.md",
     "_physics.md",
     "__C++.md",
     "Contrôles des prix planchers.md",
     "assets/Contrôles des prix planchers/image-20230117132748916.png",
-    "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Conservation masse-énergie.md",
     "assets/Energie de liaison du noyau",
@@ -472,7 +502,6 @@
     "assets/Désintégration radioactive/image-20230214112623193.png",
     "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md",
     "__Current competitions.md",
-    "Mathematics.md",
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
