@@ -42,7 +42,7 @@ Réponses possibles du gouvernement(2):
 ?
 - [[Subventionner les entreprises (Cout)]]
 - [[Prestation gouvernementale directe (Cout)]]
-<!--SR:!2023-03-22,26,230-->
+<!--SR:!2023-05-21,60,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
