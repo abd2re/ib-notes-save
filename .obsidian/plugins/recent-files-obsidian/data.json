@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Modèle OSI",
-      "path": "Modèle OSI.md"
+      "basename": "Vitesse de transmission des données sur un réseau",
+      "path": "Vitesse de transmission des données sur un réseau.md"
+    },
+    {
+      "basename": "Transmission de données",
+      "path": "Transmission de données.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
     },
     {
       "basename": "Fondamentaux des réseaux",
       "path": "Fondamentaux des réseaux.md"
     },
     {
-      "basename": "Nécessité des protocoles",
-      "path": "Nécessité des protocoles.md"
+      "basename": "Modèle OSI",
+      "path": "Modèle OSI.md"
     },
     {
-      "basename": "Transmission de données",
-      "path": "Transmission de données.md"
+      "basename": "Nécessité des protocoles",
+      "path": "Nécessité des protocoles.md"
     },
     {
       "basename": "Protocoles et paquets de données",
@@ -23,10 +31,6 @@
     {
       "basename": "__C++",
       "path": "__C++.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Contrôles des prix planchers",

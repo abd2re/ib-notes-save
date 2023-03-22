@@ -46,6 +46,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Transmission de données",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -68,37 +74,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamentaux des réseaux.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16f35ebdb55f7573",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modèle OSI.md",
-                "mode": "preview",
+                "file": "Vitesse de transmission des données sur un réseau.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -304,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modèle OSI.md"
+                "file": "Vitesse de transmission des données sur un réseau.md"
               }
             }
           },
@@ -384,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modèle OSI.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -437,20 +421,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "16f35ebdb55f7573",
+  "active": "57bf8bcb480b5f61",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Fondamentaux des réseaux.md",
-    "Nécessité des protocoles.md",
     "Transmission de données.md",
+    "Vitesse de transmission des données sur un réseau.md",
+    "_computer science.md",
+    "Fondamentaux des réseaux.md",
+    "Modèle OSI.md",
+    "Nécessité des protocoles.md",
     "Protocoles et paquets de données.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
     "__C++.md",
-    "_computer science.md",
     "Chapitre 1 - Types de réseaux.md",
     "Chapitre 2 - System design basics.md",
     "Contrôles des prix planchers.md",
@@ -475,8 +461,6 @@
     "_CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "Expériences et projets CAS.md",
-    "Composantes CAS.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "exercices decroissance radioactive (1).pdf.opdownload",
     "exercices decroissance radioactive (1).rtf",
