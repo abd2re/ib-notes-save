@@ -1,0 +1,9 @@
+---
+tags: [computer_science] 
+---
+Created: 2023-03-22
+
+# Nécessité des protocoles
+?
+- Les protocoles sont l'ensemble des règles que les ordinateurs suivent lorsqu'ils communiquent sur un réseau.
+- Sans eux, aucune information ne peut être transmise, car les ordinateurs ne savent pas comment interpréter les signaux qui passent par le réseau.

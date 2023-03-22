@@ -102,8 +102,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocoles et paquets de données.md",
-                "mode": "preview",
+                "file": "Nécessité des protocoles.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Nécessité des protocoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Nécessité des protocoles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocoles et paquets de données.md"
+                "file": "Nécessité des protocoles.md"
               }
             }
           },
@@ -396,7 +396,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protocoles et paquets de données.md",
+                "file": "Nécessité des protocoles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -454,12 +454,13 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Transmission de données.md",
+    "Nécessité des protocoles.md",
+    "Protocoles et paquets de données.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
     "__C++.md",
-    "Protocoles et paquets de données.md",
-    "Transmission de données.md",
     "Fondamentaux des réseaux.md",
     "_computer science.md",
     "Chapitre 1 - Types de réseaux.md",
@@ -497,7 +498,6 @@
     "assets/Modèle TCP-IP/image-20230312205118741.png",
     "assets/Modèle TCP-IP",
     "assets/Modèle OSI/image-20230312205020631.png",
-    "assets/Modèle OSI/image-20230312205016502.png",
     "assets/Modèle OSI",
     "Modèle TCP"
   ]
