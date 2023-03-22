@@ -43,7 +43,7 @@ Les noyaux β+ sont au dessus du niveau dee stabilité car ils ont trop de neu
 ?
 Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de leur numéro atomique _Z_ en abscisse et de leur nombre de neutrons _N_ en ordonnée (ou l’inverse). Un code couleur permet de différencier les noyaux stables des noyaux instables.
 ![[image-20230214115313454.png]]
-<!--SR:!2023-03-22,23,250-->
+<!--SR:!2023-05-17,56,250-->
 
 - Rayonnement de fond=:: c'est la radioactivité propre a un endroit qui s'ajoute a la radioactivité d'une source. 
 <!--SR:!2023-03-26,9,195-->
