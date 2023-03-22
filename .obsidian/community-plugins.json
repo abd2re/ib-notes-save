@@ -35,5 +35,6 @@
   "obsidian-file-color",
   "obsidian-hotkeys-for-templates",
   "emoji-shortcodes",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-codemirror-options"
 ]
