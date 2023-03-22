@@ -72,13 +72,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":35.453125}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -245,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Energie de liaison du noyau.md"
               }
             }
           },
@@ -372,7 +378,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Energie de liaison du noyau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,10 +436,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
     "__C++.md",
     "Contrôles des prix planchers.md",
     "assets/Contrôles des prix planchers/image-20230117132748916.png",
-    "_physics.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Conservation masse-énergie.md",
