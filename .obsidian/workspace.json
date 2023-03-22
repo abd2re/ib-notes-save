@@ -62,9 +62,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da0a4bdb080f2f0a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_physics.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contrôles des prix planchers.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contrôles des prix planchers.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contrôles des prix planchers.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -350,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Contrôles des prix planchers.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -403,15 +425,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "57bf8bcb480b5f61",
+  "active": "da0a4bdb080f2f0a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Contrôles des prix planchers/image-20230117132748916.png",
-    "Contrôles des prix planchers.md",
-    "_physics.md",
     "__C++.md",
+    "Contrôles des prix planchers.md",
+    "assets/Contrôles des prix planchers/image-20230117132748916.png",
+    "_physics.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "Conservation masse-énergie.md",
