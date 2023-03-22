@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Transmission de données",
+  "attachmentFolderPath": "./assets/Protocoles et paquets de données",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false
 }
