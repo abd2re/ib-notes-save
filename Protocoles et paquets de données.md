@@ -22,4 +22,4 @@ Définition de paquet de donnée:
 ?
 Normalement, un paquet comporte un en-tête et une charge utile. La structure d'un paquet dépend du type de paquet et du protocole. 
 
-Représent
+Composition d'un paquet de données (repr)
