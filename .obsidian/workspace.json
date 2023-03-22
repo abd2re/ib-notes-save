@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "daf75601b3253fea",
+            "id": "16f35ebdb55f7573",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -84,26 +84,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Transmission de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":32},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":20.441288806189405}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nécessité des protocoles.md",
-                "mode": "source",
+                "file": "Modèle OSI.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -269,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nécessité des protocoles.md",
+                "file": "Modèle OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nécessité des protocoles.md",
+                "file": "Modèle OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -316,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nécessité des protocoles.md"
+                "file": "Modèle OSI.md"
               }
             }
           },
@@ -396,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nécessité des protocoles.md",
+                "file": "Modèle OSI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -449,19 +437,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "daf75601b3253fea",
+  "active": "16f35ebdb55f7573",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Transmission de données.md",
+    "Fondamentaux des réseaux.md",
     "Nécessité des protocoles.md",
+    "Transmission de données.md",
     "Protocoles et paquets de données.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
     "__C++.md",
-    "Fondamentaux des réseaux.md",
     "_computer science.md",
     "Chapitre 1 - Types de réseaux.md",
     "Chapitre 2 - System design basics.md",

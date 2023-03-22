@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Modèle OSI",
+      "path": "Modèle OSI.md"
+    },
+    {
+      "basename": "Fondamentaux des réseaux",
+      "path": "Fondamentaux des réseaux.md"
+    },
+    {
       "basename": "Nécessité des protocoles",
       "path": "Nécessité des protocoles.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "__C++",
       "path": "__C++.md"
-    },
-    {
-      "basename": "Fondamentaux des réseaux",
-      "path": "Fondamentaux des réseaux.md"
     },
     {
       "basename": "_computer science",
