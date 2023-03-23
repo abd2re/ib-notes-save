@@ -49,3 +49,4 @@ Types de spectres de lumières et représentations:
 ![[image-20230222120641551.png]]
 <!--SR:!2023-03-31,20,214-->
 
+- Un spectre d'absorption e
