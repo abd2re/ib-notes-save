@@ -8,133 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e718b7f2d3617216",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "__useful links",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__useful links.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__C++.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa939ca102e2ba4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 8 - Défaillance du marché – externalités et ressources communes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 1-Micro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":13.399566160520608}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":1.4166666666666667}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_physics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f20203773577c348",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5284a64535e52f84",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Compression des données dans un réseau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compression des données dans un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.01974333662389}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transmission de données.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dba6b9b1848968be",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -156,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -517,13 +389,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Transmission de données.md",
+    "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
+    "__C++.md",
     "Caractéristiques des différents supports de transmission.md",
+    "Transmission de données.md",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "assets/Compression des données dans un réseau",
     "Vitesse de transmission des données sur un réseau.md",
-    "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "_computer science.md",
     "Theme 3-Réseaux.md",
     "Theme 2-Architecture des ordinateurs.md",
@@ -544,7 +417,6 @@
     "_economy.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Theme 3- Physique thermique.md",
-    "Fission et fusion nucléaire.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
