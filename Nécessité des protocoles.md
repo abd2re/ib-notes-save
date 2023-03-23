@@ -13,6 +13,6 @@ Les fonctions essentielles des protocoles sont:
 - Assurer l'intégrité des données
 - Gérer le contrôle du flux
 - Prévenir les impasses,
-- Gérer la congestion,
+- Gérer la congestion
 - Contrôler les erreurs
 
