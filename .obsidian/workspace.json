@@ -42,10 +42,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Theme 6-Mouvement circulaire uniforme et Gravitation",
+                  "title": "Theme 7-Physique nucléaire",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 6-Mouvement circulaire uniforme et Gravitation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":27},\"to\":{\"line\":7,\"ch\":27}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 7-Physique nucléaire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":34},\"to\":{\"line\":14,\"ch\":34}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -472,13 +472,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Intensité du courant électrique.md",
+    "Température.md",
     "_physics.md",
+    "Theme 3- Physique thermique.md",
     "Theme 5-Electricité et Magnétisme.md",
+    "Theme 7-Physique nucléaire.md",
+    "Intensité du courant électrique.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Loi de gravitation de Newton.md",
-    "Température.md",
-    "Theme 3- Physique thermique.md",
     "Déterminants prix de l'offre.md",
     "_economy.md",
     "__C++.md",
@@ -503,7 +504,6 @@
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
-    "Chapitre 1 - Types de réseaux.md",
     "assets/Contrôles des prix planchers/image-20230117132748916.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "assets/Energie de liaison du noyau",
