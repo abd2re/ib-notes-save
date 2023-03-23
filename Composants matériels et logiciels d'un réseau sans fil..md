@@ -17,7 +17,7 @@ Created: 2023-03-23
 ## Dispositifs logiciels nécessaires (7-8)
 ?
 - **DHCP : Dynamic Host Configuration Protocol** .C'est un protocole réseau qui permet à un serveur d'attribuer automatiquement une adresse IP à un appareil client. Lorsqu'un appareil sans fil entre dans le réseau sans fil, il peut être en mesure d'acquérir une adresse IP à partir du routeur. L'autre solution consiste à désactiver la fonctionnalité DHCP et à configurer chacun des périphériques du réseau sans fil avec une adresse IP statique
-- **Pare-feu logiciel**. Un système de sécurité réseau qui détermine quelles données entrent et sortent d'un réseau ou d'un PC
+- **Pare-feu logiciel**
 - **Nom / SSID: Service Set Identificatio**n .C'est un ensemble de 32 caractères alphanumériques. Il est utilisé pour différencier un WLAN d'un autre et est sensible à la casse
 - **Pilotes NIC**. Un pilote de périphérique pour la carte NIC. Il fait fonctionner ou contrôle le matériel de la carte. Il agit comme un traducteur entre la carte sans fil et les applications ou le système d'exploitation de l'appareil.
 - **[[Systèmes d'exploitation]]**
