@@ -7,14 +7,10 @@ banner_x: 0.5
 
 retour [[__dashboard]]
 
-# ![[Theme 3- Physique thermique]]
-# ![[Theme 5-Electricité et Magnétisme]]
-# Theme 6-Mouvement circulaire uniforme et Gravitation
-## 2. Gravitation (universelle)
-1. [[Loi de gravitation de Newton]]
-2. [[Champ de gravitation]]
+# ![[Theme 3- Physique thermique]]# ![[Theme 5-Electricité et Magnétisme]]# ![[Theme 6-Mouvement circulaire uniforme et Gravitation]]
 
-# Theme 7: Physique nucléaire
+
+# ![[Theme 7: Physique nucléaire]]
 ## 1. Energie discrete et Radioactivité
 1. [[Le modèle atomique de Rutherford]]
 2. [[Composition du noyau]]
