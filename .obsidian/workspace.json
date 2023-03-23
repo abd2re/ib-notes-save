@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -329,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -410,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -478,20 +478,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e95a004bcc1b9f21",
+  "active": "fa939ca102e2ba4b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 7-Physique nucléaire.md",
+    "_physics.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Biens publics.md",
     "Chapitre 9 - Défaillance du marché –  biens publics.md",
     "_economy.md",
-    "_physics.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Theme 3- Physique thermique.md",
-    "Theme 7-Physique nucléaire.md",
     "Fission et fusion nucléaire.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Theme 1-Micro-économie.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
