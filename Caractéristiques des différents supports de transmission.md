@@ -10,3 +10,8 @@ Nous pouvons comparer les différents types de médias sur 4 points différents:
 - Fiabilité
 - Coût
 - Vitesse de transmission
+
+Exemples de support de transmission filaire:
+?
+- Câble en cuivre
+- Câble à paires torsadées non blindées (UTP)
