@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Composants matériels et logiciels d'un réseau sans fil.",
+      "path": "Composants matériels et logiciels d'un réseau sans fil..md"
+    },
+    {
       "basename": "Réseaux sans fil",
       "path": "Réseaux sans fil.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-03-16 14.33.07.excalidraw",
       "path": "Excalidraw/Drawing 2023-03-16 14.33.07.excalidraw.md"
-    },
-    {
-      "basename": "__Current competitions",
-      "path": "__Current competitions.md"
     }
   ],
   "omittedPaths": [],
