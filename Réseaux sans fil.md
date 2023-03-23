@@ -16,4 +16,15 @@ Avantages (6):
 
 Inconvénients (5):
 ?
+- Interference
+	- le spectre de 2,4 GHz est souvent encombré par d'autres appareils
+- Portée et vitesse limitées
+- WEP
+	- ce cryptage n'est pas difficile à pirater mais le WPA2 a résolu ce problème
+- Points d'accès
+	- ils peuvent être utilisés pour voler des données
+- Problèmes de santé
 
+1. [[Composants
+matériels et logiciels
+d'un réseau sans fil.]]
