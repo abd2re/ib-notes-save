@@ -92,6 +92,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Biens publics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Biens publics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Chapitre 9 - Défaillance du marché –  biens publics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 9 - Défaillance du marché –  biens publics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -108,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biens publics.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -276,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biens publics.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biens publics.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -323,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biens publics.md"
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
               }
             }
           },
@@ -404,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biens publics.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -476,6 +482,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Biens publics.md",
     "Chapitre 9 - Défaillance du marché –  biens publics.md",
     "_economy.md",
     "_physics.md",
@@ -501,7 +508,6 @@
     "Composition du noyau.md",
     "Conservation masse-énergie.md",
     "Le modèle atomique de Rutherford.md",
-    "Vitesse de transmission des données sur un réseau.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
