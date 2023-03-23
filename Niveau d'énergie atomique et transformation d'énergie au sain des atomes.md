@@ -49,4 +49,4 @@ Types de spectres de lumières et représentations:
 ![[image-20230222120641551.png]]
 <!--SR:!2023-03-31,20,214-->
 
-- Un spectre d'absorption:: est constitué d'un fond coloré avec des bandes noires qui correspondent aux correspondent aux ra
+- Le spectre d'absorption est:: un spectre de la lumiere blanche ou ile ne figurre pas les longeurs d'ondes absorbés pas un élément.
