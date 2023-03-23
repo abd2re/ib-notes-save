@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Energie de liaison du noyau/image-20230323182347196.png",
+                "file": "Energie de liaison du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Energie de liaison du noyau/image-20230323182347196.png",
+                "file": "Energie de liaison du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Energie de liaison du noyau/image-20230323182347196.png"
+                "file": "Energie de liaison du noyau.md"
               }
             }
           },
@@ -346,7 +346,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Energie de liaison du noyau/image-20230323182347196.png",
+                "file": "Energie de liaison du noyau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -413,13 +413,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bc02c08ced2aa8a2",
+  "active": "da2fb6e048159549",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
+    "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "_physics.md",
     "Fission et fusion nucléaire.md",
