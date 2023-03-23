@@ -104,16 +104,16 @@
             "id": "5284a64535e52f84",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Vitesse de transmission des données sur un réseau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse de transmission des données sur un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "Transmission de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vitesse de transmission des données sur un réseau.md",
+                "file": "Compression des données dans un réseau.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitesse de transmission des données sur un réseau.md",
+                "file": "Transmission de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vitesse de transmission des données sur un réseau.md",
+                "file": "Transmission de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vitesse de transmission des données sur un réseau.md"
+                "file": "Transmission de données.md"
               }
             }
           },
@@ -423,7 +423,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vitesse de transmission des données sur un réseau.md",
+                "file": "Transmission de données.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -496,12 +496,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Compression des données dans un réseau.md",
+    "Vitesse de transmission des données sur un réseau.md",
     "Transmission de données.md",
+    "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "_computer science.md",
     "Theme 3-Réseaux.md",
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
-    "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 1 - Types de réseaux.md",
     "Représentation de données.md",
@@ -520,8 +522,6 @@
     "Theme 3- Physique thermique.md",
     "Fission et fusion nucléaire.md",
     "Theme 1-Micro-économie.md",
-    "Chapitre 2 - L'approvisionnement (L'offre).md",
-    "Chapitre 1 - La Demande.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
