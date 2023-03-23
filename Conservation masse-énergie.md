@@ -16,7 +16,7 @@ $$\LARGE{E=mc^{2}}$$
 
 ## Unités de masse et d'énergie
 ?
-L'unité de masse unifié correspo
+L'unité de masse unifié correspond a $\frac{1}{12}$ de la masse d'un atome de carbone-12.
 
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
 - Valeur de MeV =::  $1MeV$ = $10^{6}eV$ = $1.60\cdot 10^{-13}J$
