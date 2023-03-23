@@ -5,7 +5,7 @@ tags: [MOC]
 # Theme 1-Micro-économie
 *Problème 1*: Comment les producteurs et les consommateurs font-ils des choix pour tenter d'atteindre leurs objectifs économiques ?
 
- ![[Chapitre 1 - La Demande]]
+![[Chapitre 1 - La Demande]]
 ![[Chapitre 2 - L'approvisionnement (L'offre)]]
 ![[Chapitre 3 - L'Equilibre du marché]]
 Chapitre 4 - Critique du comportement maximisateur (HL)
