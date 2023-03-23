@@ -8,6 +8,7 @@ Created: 2023-03-22
 - La vitesse théorique des données sur un support est appelée largeur de bande (bandwidth) et dépend de la technique de signalisation utilisée et des propriétés physiques du support. Le taux de transfert réel est appelé débit et il est affecté par divers facteurs tels que les interférences, le trafic, le nombre d'appareils connectés et les erreurs.
 
 ## Facteurs influençant la vitesse de transmission
+(3)
 ?
 - Trafic
 - Infrastructure

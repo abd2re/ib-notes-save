@@ -104,16 +104,16 @@
             "id": "5284a64535e52f84",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Vitesse de transmission des données sur un réseau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse de transmission des données sur un réseau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Transmission de données",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transmission de données.md"
+                "file": "Compression des données dans un réseau.md"
               }
             }
           },
@@ -423,7 +423,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -496,9 +496,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Compression des données dans un réseau.md",
     "Vitesse de transmission des données sur un réseau.md",
     "Transmission de données.md",
+    "Compression des données dans un réseau.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "_computer science.md",
     "Theme 3-Réseaux.md",
