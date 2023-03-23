@@ -28,5 +28,5 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 
 ## Le modèle de Bohr
 ?
-Bohr indique que l'atome n'existait que selon des niveaux d'énergie bien défini
-
+- Bohr indique que l'atome n'existait que selon des niveaux d'énergie bien défini.
+- Lorsque l'atome se trouve sur un niveau 
