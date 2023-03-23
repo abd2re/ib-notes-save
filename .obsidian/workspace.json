@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 1 - Types de réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Caractéristiques des différents supports de transmission",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Caractéristiques des différents supports de transmission.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Transmission de données.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Transmission de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Transmission de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md"
+                "file": "Transmission de données.md"
               }
             }
           },
@@ -316,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Transmission de données.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -364,8 +376,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557,
-    "collapsed": true
+    "width": 557
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,9 +400,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Types de réseaux.md",
+    "Caractéristiques des différents supports de transmission.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "__C++.md",
-    "Caractéristiques des différents supports de transmission.md",
     "Transmission de données.md",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
@@ -402,7 +414,6 @@
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Chapitre 1 - Types de réseaux.md",
     "Représentation de données.md",
     "Importance de l'itération pendant le processus de conception.md",
     "Objectif des prototypes pour présenter un système au client.md",

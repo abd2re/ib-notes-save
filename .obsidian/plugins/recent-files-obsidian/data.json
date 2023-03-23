@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Transmission de données",
+      "path": "Transmission de données.md"
+    },
+    {
+      "basename": "Chapitre 1 - Types de réseaux",
+      "path": "Chapitre 1 - Types de réseaux.md"
+    },
+    {
       "basename": "Caractéristiques des différents supports de transmission",
       "path": "Caractéristiques des différents supports de transmission.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "__C++",
       "path": "__C++.md"
-    },
-    {
-      "basename": "Transmission de données",
-      "path": "Transmission de données.md"
     },
     {
       "basename": "Compression des données dans un réseau",
