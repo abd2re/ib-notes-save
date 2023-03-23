@@ -16,7 +16,7 @@ Les rares impacts sont des particules $\alpha$ qui ont heurté un noyau ou se so
 D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant Z protons autour duquel tourne Z électrons. Entre les électrons et le noyau il y a du vide.
 <!--SR:!2023-03-27,29,210-->
 
-Inconvenient du modèle de Ruthford:
+Inconvenient du modèle de Rutherford:
 ?
 Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau. 
 <!--SR:!2023-04-05,21,150-->
@@ -29,4 +29,5 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 ## Le modèle de Bohr
 ?
 - Bohr indique que l'atome n'existait que selon des niveaux d'énergie bien défini.
-- Lorsque l'atome se trouve sur un niveau 
+- Lorsque l'atome se trouve sur un niveau d'énergie il n'émet pas de rayonnement.
+- L'atome émet ou absorbe un rayonnement quand il passe 
