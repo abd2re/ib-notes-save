@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Chapitre 2 - System design basics",
+      "path": "Chapitre 2 - System design basics.md"
+    },
+    {
+      "basename": "Chapitre 1 - Les systèmes dans les organisations",
+      "path": "Chapitre 1 - Les systèmes dans les organisations.md"
+    },
+    {
+      "basename": "Chapitre 1 - Types de réseaux",
+      "path": "Chapitre 1 - Types de réseaux.md"
+    },
+    {
+      "basename": "Réseaux sans fil",
+      "path": "Réseaux sans fil.md"
+    },
+    {
       "basename": "Composants matériels et logiciels d'un réseau sans fil.",
       "path": "Composants matériels et logiciels d'un réseau sans fil..md"
     },
@@ -11,18 +31,6 @@
     {
       "basename": "Untitled 12",
       "path": "Untitled 12.md"
-    },
-    {
-      "basename": "Réseaux sans fil",
-      "path": "Réseaux sans fil.md"
-    },
-    {
-      "basename": "Chapitre 1 - Types de réseaux",
-      "path": "Chapitre 1 - Types de réseaux.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Caractéristiques des différents supports de transmission",
@@ -191,14 +199,6 @@
     {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "7 objectifs d'apprentissage CAS",
-      "path": "7 objectifs d'apprentissage CAS.md"
-    },
-    {
-      "basename": "Photon Energy and the Planck Constant exercises",
-      "path": "Excalidraw/Photon Energy and the Planck Constant exercises.md"
     }
   ],
   "omittedPaths": [],

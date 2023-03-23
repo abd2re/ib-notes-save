@@ -18,29 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Réseaux sans fil",
+                  "title": "Chapitre 2 - System design basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réseaux sans fil.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.7142857142857143}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - System design basics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Chapitre 1 - Types de réseaux",
+                  "title": "Chapitre 1 - Les systèmes dans les organisations",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Les systèmes dans les organisations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.749567269866247}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9150326797385621}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "_computer science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -372,7 +372,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4623325322580264,
+                  "scale": 0.27730895774434916,
                   "close": true
                 }
               }
@@ -406,12 +406,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Untitled 13.md",
-    "Composants matériels et logiciels d'un réseau sans fil..md",
-    "Untitled 12.md",
-    "Réseaux sans fil.md",
-    "Chapitre 1 - Types de réseaux.md",
+    "Chapitre 2 - System design basics.md",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
     "_computer science.md",
+    "Chapitre 1 - Types de réseaux.md",
+    "Réseaux sans fil.md",
+    "Composants matériels et logiciels d'un réseau sans fil..md",
+    "Untitled 13.md",
+    "Untitled 12.md",
     "Transmission de données.md",
     "Caractéristiques des différents supports de transmission.md",
     "Commutation de paquets.md",
@@ -432,10 +434,8 @@
     "Importance de l'itération pendant le processus de conception.md",
     "Objectif des prototypes pour présenter un système au client.md",
     "Theme 1-Notion fondamental sur les systèmes.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
     "Méthodes  d'obtention des  exigences des parties prenantes.md",
     "Installation d'un système.md",
-    "_physics.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
