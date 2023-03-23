@@ -36,76 +36,6 @@
             }
           },
           {
-            "id": "57bf8bcb480b5f61",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Theme 7-Physique nucléaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 7-Physique nucléaire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":34},\"to\":{\"line\":14,\"ch\":34}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Le modèle atomique de Rutherford",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Le modèle atomique de Rutherford.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":111},\"to\":{\"line\":33,\"ch\":111}},\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.168619791666668}"
-                },
-                {
-                  "title": "Vitesse de transmission des données sur un réseau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse de transmission des données sur un réseau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Transmission de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":17.782201405152225}"
-                },
-                {
-                  "title": "Contrôles des prix planchers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Contrôles des prix planchers.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa939ca102e2ba4b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -287,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -334,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -414,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -437,7 +367,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.45419979525405324,
+                  "scale": 0.44454865229924334,
                   "close": true
                 }
               }
@@ -447,8 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -467,24 +396,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "57bf8bcb480b5f61",
+  "active": "fa939ca102e2ba4b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Température.md",
+    "Ecriture mathématique de l'offre.md",
+    "_economy.md",
+    "__C++.md",
+    "Fission et fusion nucléaire.md",
+    "Désintégration radioactive.md",
+    "Theme 7-Physique nucléaire.md",
     "_physics.md",
     "Theme 3- Physique thermique.md",
+    "Température.md",
     "Theme 5-Electricité et Magnétisme.md",
-    "Theme 7-Physique nucléaire.md",
     "Intensité du courant électrique.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Loi de gravitation de Newton.md",
     "Déterminants prix de l'offre.md",
-    "_economy.md",
-    "__C++.md",
     "Energie de liaison du noyau.md",
-    "Fission et fusion nucléaire.md",
     "Composition du noyau.md",
     "Conservation masse-énergie.md",
     "Le modèle atomique de Rutherford.md",
@@ -499,8 +430,6 @@
     "_computer science.md",
     "Fondamentaux des réseaux.md",
     "Modèle OSI.md",
-    "Nécessité des protocoles.md",
-    "Protocoles et paquets de données.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
