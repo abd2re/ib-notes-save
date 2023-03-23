@@ -39,8 +39,14 @@
             "id": "fa939ca102e2ba4b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Theme 1-Micro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -217,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Demande.md"
               }
             }
           },
@@ -344,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Demande.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,14 +402,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa939ca102e2ba4b",
+  "active": "6bd4262cb165eba8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Ecriture mathématique de l'offre.md",
     "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "Chapitre 1 - La Demande.md",
     "__C++.md",
+    "Ecriture mathématique de l'offre.md",
     "Fission et fusion nucléaire.md",
     "Désintégration radioactive.md",
     "Theme 7-Physique nucléaire.md",
@@ -428,8 +436,6 @@
     "Excalidraw/Drawing 2023-03-22 11.30.44.excalidraw.md",
     "Transmission de données.md",
     "_computer science.md",
-    "Fondamentaux des réseaux.md",
-    "Modèle OSI.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
