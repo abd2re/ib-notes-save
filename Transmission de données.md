@@ -9,4 +9,4 @@ Created: 2023-03-22
 3. [[Vitesse de transmission des données sur un réseau]]
 4. [[Compression des données dans un réseau]]
 5. [[Caractéristiques des différents supports de transmission]]
-6. Commutation de paquets
+6. [[Commutation de paquets]]

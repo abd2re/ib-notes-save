@@ -5,6 +5,14 @@
       "path": "Transmission de données.md"
     },
     {
+      "basename": "Commutation de paquets",
+      "path": "Commutation de paquets.md"
+    },
+    {
+      "basename": "Protocoles et paquets de données",
+      "path": "Protocoles et paquets de données.md"
+    },
+    {
       "basename": "Chapitre 1 - Types de réseaux",
       "path": "Chapitre 1 - Types de réseaux.md"
     },
@@ -131,10 +139,6 @@
     {
       "basename": "Nécessité des protocoles",
       "path": "Nécessité des protocoles.md"
-    },
-    {
-      "basename": "Protocoles et paquets de données",
-      "path": "Protocoles et paquets de données.md"
     },
     {
       "basename": "Contrôles des prix planchers",
