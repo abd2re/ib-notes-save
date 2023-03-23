@@ -19,7 +19,7 @@ $$\LARGE{E=mc^{2}}$$
 L'unité de masse unifié correspond a $\frac{1}{12}$ de la masse d'un atome de carbone-12.
 
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
-- Valeur de MeV =::  $1MeV$ = $10^{6}eV$ = $1.60\cdot 10^{-13}J$
+- Valeur de MeV =:: $10^{6}eV$ = $1.60\cdot 10^{-13}J$
 <!--SR:!2023-03-25,3,250-->
 
 A cette échelle, il est possible d'utiliser comme unité de masse l'unité de masse atomique (notée u). L'unité de masse atomique est définie comme étant égale:: au douzième de la masse d'un atome de carbone .
