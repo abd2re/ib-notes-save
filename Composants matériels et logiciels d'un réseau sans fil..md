@@ -10,3 +10,6 @@ Created: 2023-03-23
 - Un **routeur** sans fil remplit une fonction similaire à celle des routeurs traditionnels des réseaux câblés. Dans la plupart des cas, il offre également les fonctions d'un point d'accès sans fil (utilisé pour se connecter à un réseau câblé existant)
 - Le point d'accès sans fil (**WAP**) permet le transfert de données sans fil entre un appareil et un réseau. Un routeur possède normalement des prises LAN pour d'autres appareils câblé
 - Un **adaptateur de réseau sans fil**, également appelé **NIC** sans fil (Wireless Network Interface Controller ou Wireless Network Interface Card), est nécessaire pour chaque appareil sur un réseau sans fil.
+- Un **appareil** capable de se connecter au réseau sans fil, tel qu'un PC, un ordinateur portable, un capteur, un téléphone intelligent, une imprimante, une console de jeu, une tablette, etc
+- **Antennes sans fil** : Les points d'accès et les routeurs utilisent souvent des antennes Wi-Fi qui augmentent considérablement la zone de communication effective du réseau sans fil
+- 
