@@ -15,6 +15,4 @@ retour [[__dashboard]]
 
 ![[Theme 1-Notion fondamental sur les systèmes]]
 ![[Theme 2-Architecture des ordinateurs]]
- 
-# Theme 3: Réseaux
-![[Chapitre 1 - Types de réseaux]]
+![[Theme 3-Réseaux]]
