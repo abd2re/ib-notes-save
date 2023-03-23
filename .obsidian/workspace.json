@@ -144,8 +144,14 @@
             "id": "5284a64535e52f84",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Theme 2-Architecture des ordinateurs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Architecture des ordinateurs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -524,9 +530,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthodes  d'obtention des  exigences des parties prenantes.md",
+    "Theme 2-Architecture des ordinateurs.md",
     "_computer science.md",
+    "Représentation de données.md",
+    "Importance de l'itération pendant le processus de conception.md",
+    "Objectif des prototypes pour présenter un système au client.md",
+    "Theme 1-Notion fondamental sur les systèmes.md",
     "Chapitre 1 - Les systèmes dans les organisations.md",
+    "Méthodes  d'obtention des  exigences des parties prenantes.md",
     "Installation d'un système.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
@@ -545,11 +556,6 @@
     "Chapitre 6 - Elasticités de l'offre.md",
     "Demande.md",
     "__C++.md",
-    "Ecriture mathématique de l'offre.md",
-    "Désintégration radioactive.md",
-    "Température.md",
-    "Intensité du courant électrique.md",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
