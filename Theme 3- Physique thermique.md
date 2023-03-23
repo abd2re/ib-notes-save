@@ -1,7 +1,6 @@
 ---
 tags: [MOC] 
 ---
-
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
 1. [[Température]] et échelle de température
