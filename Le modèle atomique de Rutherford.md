@@ -27,4 +27,3 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 <!--SR:!2023-04-20,32,194-->
 
 ## Le modèle de Bohr
-	
