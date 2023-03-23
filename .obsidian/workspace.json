@@ -49,7 +49,7 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":26.51851851851852}"
+                  "eState": "{\"scroll\":37.333333333333336}"
                 },
                 {
                   "title": "Le modèle atomique de Rutherford",
@@ -98,8 +98,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
-                "mode": "source",
+                "file": "Energie de liaison du noyau.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Energie de liaison du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Energie de liaison du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fission et fusion nucléaire.md"
+                "file": "Energie de liaison du noyau.md"
               }
             }
           },
@@ -392,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Energie de liaison du noyau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
