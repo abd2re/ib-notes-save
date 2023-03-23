@@ -42,10 +42,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Energie de liaison du noyau",
+                  "title": "Theme 3- Physique thermique",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie de liaison du noyau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":46.8448}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 3- Physique thermique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":61},\"to\":{\"line\":14,\"ch\":61}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -118,12 +118,17 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_economy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -329,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -409,7 +414,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -462,13 +467,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "57bf8bcb480b5f61",
+  "active": "fa939ca102e2ba4b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__C++.md",
     "_physics.md",
+    "Theme 3- Physique thermique.md",
+    "_economy.md",
+    "__C++.md",
     "Energie de liaison du noyau.md",
     "Fission et fusion nucléaire.md",
     "Composition du noyau.md",
@@ -500,8 +507,6 @@
     "Houseboy.md",
     "Key features of stories.md",
     "exercises/math/theme 1/Binomial Theorem.md",
-    "_english.md",
-    "Key theories of language acquisition.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
