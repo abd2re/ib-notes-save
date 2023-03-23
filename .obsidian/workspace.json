@@ -139,9 +139,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5284a64535e52f84",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -301,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -429,7 +451,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -497,13 +519,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f20203773577c348",
+  "active": "5284a64535e52f84",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_physics.md",
+    "Méthodes  d'obtention des  exigences des parties prenantes.md",
+    "_computer science.md",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
+    "Installation d'un système.md",
+    "Chapitre 1 - Le CPU et ses éléments.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
+    "_physics.md",
     "Theme 7-Physique nucléaire.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Biens publics.md",
@@ -523,11 +550,6 @@
     "Température.md",
     "Intensité du courant électrique.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Loi de gravitation de Newton.md",
-    "Déterminants prix de l'offre.md",
-    "Energie de liaison du noyau.md",
-    "Composition du noyau.md",
-    "Conservation masse-énergie.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
