@@ -4,50 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "80648f86be63b5d0",
+        "id": "38a533648b68eb83",
         "type": "tabs",
         "children": [
           {
-            "id": "dba6b9b1848968be",
+            "id": "da2fb6e048159549",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Protocoles et paquets de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Protocoles et paquets de données.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.10714285714285714}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Transmission de données",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Types de réseaux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Types de réseaux.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Caractéristiques des différents supports de transmission",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Caractéristiques des différents supports de transmission.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commutation de paquets.md",
-                "mode": "preview",
+                "file": "_computer science.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -212,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commutation de paquets.md",
+                "file": "Transmission de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commutation de paquets.md",
+                "file": "Transmission de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commutation de paquets.md"
+                "file": "Transmission de données.md"
               }
             }
           },
@@ -340,7 +316,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Commutation de paquets.md",
+                "file": "Transmission de données.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -378,7 +354,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5999460280494949,
+                  "scale": 0.4623325322580264,
                   "close": true
                 }
               }
@@ -388,7 +364,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 410
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -407,25 +383,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dba6b9b1848968be",
+  "active": "1b0106dc55c7b267",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
+    "Caractéristiques des différents supports de transmission.md",
+    "Chapitre 1 - Types de réseaux.md",
+    "Transmission de données.md",
+    "Commutation de paquets.md",
     "assets/Commutation de paquets/image-20230323174859502.png",
     "assets/Commutation de paquets",
     "Protocoles et paquets de données.md",
-    "Commutation de paquets.md",
-    "Transmission de données.md",
-    "Chapitre 1 - Types de réseaux.md",
-    "Caractéristiques des différents supports de transmission.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "__C++.md",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "assets/Compression des données dans un réseau",
     "Vitesse de transmission des données sur un réseau.md",
-    "_computer science.md",
     "Theme 3-Réseaux.md",
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
@@ -453,7 +429,6 @@
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
     "exercices decroissance radioactive (1).pdf.opdownload",
     "exercices decroissance radioactive (1).rtf",
     "exercices decroissance radioactive (1).rtf.opdownload",
