@@ -42,10 +42,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Theme 3- Physique thermique",
+                  "title": "Theme 5-Electricité et Magnétisme",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 3- Physique thermique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":61},\"to\":{\"line\":14,\"ch\":61}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 5-Electricité et Magnétisme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":24},\"to\":{\"line\":13,\"ch\":24}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -472,8 +472,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 3- Physique thermique.md",
+    "Theme 5-Electricité et Magnétisme.md",
     "_physics.md",
+    "Température.md",
+    "Theme 3- Physique thermique.md",
     "Déterminants prix de l'offre.md",
     "_economy.md",
     "__C++.md",
@@ -505,8 +507,6 @@
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "assets/Energie de liaison du noyau",
     "__useful links.md",
-    "Houseboy.md",
-    "Key features of stories.md",
     "exercises/math/theme 1/assets/Binomial Theorem/Pasted Image 20230319131242_452.png",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
