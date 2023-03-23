@@ -15,7 +15,7 @@ Un bien privé a deux caractéristiques:
 ?
 - Rivale
 - Exclusif
-<!--SR:!2023-03-23,9,250-->
+<!--SR:!2023-04-16,24,250-->
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
@@ -29,7 +29,7 @@ Un bien privé a deux caractéristiques:
 ## Le problème du passager clandestin
 ?
 Le problème de cavalier libre existe parce que personne n'est disposé à payer pour un bien ou un service alors qu'il pense que quelqu'un d'autre le paiera. C'est pourquoi le bien ne sera pas fourni par le marché libre.
-<!--SR:!2023-03-23,9,250-->
+<!--SR:!2023-04-15,23,250-->
 
 ## Biens quasi publics
 Il existe deux types de biens quasi publics:
