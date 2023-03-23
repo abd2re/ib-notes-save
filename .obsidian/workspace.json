@@ -80,9 +80,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e95a004bcc1b9f21",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 9 - Défaillance du marché –  biens publics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 9 - Défaillance du marché –  biens publics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biens publics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Biens publics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Biens publics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Biens publics.md"
               }
             }
           },
@@ -370,7 +404,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Biens publics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -408,7 +442,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.45347790100676316,
+                  "scale": 0.5999460280494949,
                   "close": true
                 }
               }
@@ -437,14 +471,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa939ca102e2ba4b",
+  "active": "e95a004bcc1b9f21",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 3- Physique thermique.md",
-    "_physics.md",
+    "Chapitre 9 - Défaillance du marché –  biens publics.md",
     "_economy.md",
+    "_physics.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Theme 3- Physique thermique.md",
+    "Theme 7-Physique nucléaire.md",
+    "Fission et fusion nucléaire.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Theme 1-Micro-économie.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
@@ -453,11 +491,8 @@
     "Demande.md",
     "__C++.md",
     "Ecriture mathématique de l'offre.md",
-    "Fission et fusion nucléaire.md",
     "Désintégration radioactive.md",
-    "Theme 7-Physique nucléaire.md",
     "Température.md",
-    "Theme 5-Electricité et Magnétisme.md",
     "Intensité du courant électrique.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Loi de gravitation de Newton.md",
@@ -467,7 +502,6 @@
     "Conservation masse-énergie.md",
     "Le modèle atomique de Rutherford.md",
     "Vitesse de transmission des données sur un réseau.md",
-    "Loi de décroissance radioactive.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
