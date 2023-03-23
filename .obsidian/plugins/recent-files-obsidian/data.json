@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
       "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Chapitre 1 - La Demande",
       "path": "Chapitre 1 - La Demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "__C++",
@@ -31,10 +35,6 @@
     {
       "basename": "Theme 7-Physique nucléaire",
       "path": "Theme 7-Physique nucléaire.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",

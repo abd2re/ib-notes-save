@@ -46,6 +46,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 8 - Défaillance du marché – externalités et ressources communes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Theme 1-Micro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -62,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -196,6 +208,7 @@
       {
         "id": "b2245dbf968ba28a",
         "type": "tabs",
+        "dimension": 42.88461538461538,
         "children": [
           {
             "id": "dece4891fc147e59",
@@ -229,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -340,6 +353,7 @@
       {
         "id": "faced5cec6514527",
         "type": "tabs",
+        "dimension": 57.11538461538461,
         "children": [
           {
             "id": "43caf70ec88c48f5",
@@ -356,7 +370,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -375,6 +389,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#M",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -387,8 +408,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3299395087270846,
-                  "close": false
+                  "scale": 0.301037765838524,
+                  "close": true
                 }
               }
             }
@@ -397,7 +418,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 557
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -421,12 +442,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 1-Micro-économie.md",
+    "_economy.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Theme 1-Micro-économie.md",
     "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
     "Chapitre 6 - Elasticités de l'offre.md",
-    "_economy.md",
     "Demande.md",
     "__C++.md",
     "Ecriture mathématique de l'offre.md",
