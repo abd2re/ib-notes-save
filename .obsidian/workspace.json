@@ -49,7 +49,7 @@
                   "title": "Theme 1-Micro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "eState": "{\"scroll\":13.399566160520608}"
                 },
                 {
                   "title": "_economy",
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - La Demande.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - La Demande.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - La Demande.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - La Demande.md"
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
               }
             }
           },
@@ -356,19 +356,27 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - La Demande.md",
+                "file": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#MOC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": -1.6,
@@ -379,8 +387,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4113048904451418,
-                  "close": true
+                  "scale": 0.3299395087270846,
+                  "close": false
                 }
               }
             }
@@ -414,8 +422,10 @@
   },
   "lastOpenFiles": [
     "Theme 1-Micro-économie.md",
-    "Chapitre 6 - Elasticités de l'offre.md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
     "Chapitre 1 - La Demande.md",
+    "Chapitre 6 - Elasticités de l'offre.md",
     "_economy.md",
     "Demande.md",
     "__C++.md",
@@ -437,11 +447,9 @@
     "Le modèle atomique de Rutherford.md",
     "Vitesse de transmission des données sur un réseau.md",
     "Loi de décroissance radioactive.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
-    "Excalidraw/Drawing 2023-03-22 11.30.44.excalidraw.md",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
