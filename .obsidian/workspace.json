@@ -104,6 +104,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa939ca102e2ba4b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -450,13 +467,13 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Energie de liaison du noyau.md",
+    "__C++.md",
     "_physics.md",
+    "Energie de liaison du noyau.md",
     "Fission et fusion nucléaire.md",
     "Composition du noyau.md",
     "Conservation masse-énergie.md",
     "Le modèle atomique de Rutherford.md",
-    "__C++.md",
     "Vitesse de transmission des données sur un réseau.md",
     "Loi de décroissance radioactive.md",
     "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
