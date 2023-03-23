@@ -111,6 +111,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Transmission de données",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission de données.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -121,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -289,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -336,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transmission de données.md"
+                "file": "Vitesse de transmission des données sur un réseau.md"
               }
             }
           },
@@ -417,7 +423,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Vitesse de transmission des données sur un réseau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -490,6 +496,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Transmission de données.md",
     "_computer science.md",
     "Theme 3-Réseaux.md",
     "Theme 2-Architecture des ordinateurs.md",
@@ -497,7 +504,6 @@
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "Chapitre 1 - Types de réseaux.md",
-    "Transmission de données.md",
     "Représentation de données.md",
     "Importance de l'itération pendant le processus de conception.md",
     "Objectif des prototypes pour présenter un système au client.md",
