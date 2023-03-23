@@ -9,3 +9,4 @@ Created: 2023-03-23
 - Un **modem** vous permet de vous connecter à un autre réseau (internet)
 - Un **routeur** sans fil remplit une fonction similaire à celle des routeurs traditionnels des réseaux câblés. Dans la plupart des cas, il offre également les fonctions d'un point d'accès sans fil (utilisé pour se connecter à un réseau câblé existant)
 - Le point d'accès sans fil (**WAP**) permet le transfert de données sans fil entre un appareil et un réseau. Un routeur possède normalement des prises LAN pour d'autres appareils câblé
+- Un **adaptateur de réseau sans fil**, également appelé **NIC** sans fil (Wireless Network Interface Controller ou Wireless Network Interface Card), est nécessaire pour chaque appareil sur un réseau sans fil.
