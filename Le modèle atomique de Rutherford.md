@@ -31,4 +31,4 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 - Bohr indique que l'atome n'existait que selon des niveaux d'énergie bien défini.
 - Lorsque l'atome se trouve sur un niveau d'énergie il n'émet pas de rayonnement.
 - L'atome émet ou absorbe un rayonnement quand il passe d'un niveau a l'autre
-- La fréquence de la lumière absorbée ou émise est proportionnelle a la différence d'énergie entre  
+- La fréquence de la lumière absorbée ou émise est proportionnelle a la différence d'énergie entre deux niveaux
