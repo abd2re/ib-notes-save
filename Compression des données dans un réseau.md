@@ -16,4 +16,6 @@ Raison de compresser (3/4):
 Types de compressions (2):
 ?
 - Compression de données avec pertes
-- 
+- Compression de données sans pertes
+![[image-20230323174214650.png]]
+
