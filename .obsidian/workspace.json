@@ -86,9 +86,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "598ef24a706c6a68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 1-Micro-économie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Theme 1-Micro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Theme 1-Micro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Macro-économie.md"
+                "file": "Theme 1-Micro-économie.md"
               }
             }
           },
@@ -374,7 +396,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Theme 1-Micro-économie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -441,13 +463,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b763a31e35b99b30",
+  "active": "598ef24a706c6a68",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_economy.md",
+    "Déterminants hors-prix de la demande.md",
+    "Theme 1-Micro-économie.md",
     "Theme 2-Macro-économie.md",
+    "_economy.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
@@ -476,8 +500,6 @@
     "Vitesse de transmission des données sur un réseau.md",
     "Theme 3-Réseaux.md",
     "Theme 2-Architecture des ordinateurs.md",
-    "Chapitre 1 - Le CPU et ses éléments.md",
-    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
