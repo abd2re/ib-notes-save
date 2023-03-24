@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Conservation masse-énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation masse-énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Local Area Network (LAN)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Local Area Network (LAN).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -70,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "__C++.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -271,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -318,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation masse-énergie.md"
+                "file": "__C++.md"
               }
             }
           },
@@ -398,7 +404,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -471,6 +477,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Conservation masse-énergie.md",
     "Local Area Network (LAN).md",
     "__C++.md",
     "Energie de liaison du noyau.md",
@@ -503,7 +510,6 @@
     "assets/Commutation de paquets",
     "Protocoles et paquets de données.md",
     "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
-    "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "assets/Compression des données dans un réseau",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
