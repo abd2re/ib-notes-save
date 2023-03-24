@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Local Area Network (LAN)",
+      "path": "Local Area Network (LAN).md"
+    },
+    {
       "basename": "__C++",
       "path": "__C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "exercices decroissance radioactive (1)",
-      "path": "exercices decroissance radioactive (1).pdf"
     }
   ],
   "omittedPaths": [],
