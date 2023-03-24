@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Theme 2-Macroéconomie",
+      "path": "Theme 2-Macroéconomie.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Attributs du profil de l'apprenant",
       "path": "Attributs du profil de l'apprenant.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     }
   ],
   "omittedPaths": [],

@@ -68,13 +68,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":1},\"to\":{\"line\":14,\"ch\":1}},\"scroll\":12.839495074352923}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Theme 2-Macroéconomie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -241,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Theme 2-Macroéconomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Theme 2-Macroéconomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Theme 2-Macroéconomie.md"
               }
             }
           },
@@ -368,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Theme 2-Macroéconomie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -440,6 +446,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_economy.md",
+    "Theme 2-Macroéconomie.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
@@ -470,7 +478,6 @@
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
     "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
-    "Représentation de données.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
