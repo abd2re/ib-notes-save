@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Definitions temp",
+  "attachmentFolderPath": "./assets/__C++",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false
 }

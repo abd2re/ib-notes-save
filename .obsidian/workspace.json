@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Energie de liaison du noyau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Energie de liaison du noyau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -52,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie de liaison du noyau.md",
-                "mode": "preview",
+                "file": "__C++.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -93,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -253,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions temp.md",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions temp.md",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -300,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions temp.md"
+                "file": "__C++.md"
               }
             }
           },
@@ -380,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definitions temp.md",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -428,7 +434,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 410,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -447,21 +454,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b763a31e35b99b30",
+  "active": "da2fb6e048159549",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Energie de liaison du noyau.md",
+    "Definitions temp.md",
     "assets/Definitions temp/image-20230324082721666.png",
     "assets/Definitions temp/image-20230324082720256.png",
     "assets/Definitions temp",
     "Theme 2-Macro-économie.md",
-    "Definitions temp.md",
     "Theme 1-Micro-économie.md",
     "Chapitre 5 - Elasticités de la demande.md",
     "Déterminants hors-prix de la demande.md",
     "_economy.md",
-    "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
     "_physics.md",
@@ -490,7 +497,6 @@
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
     "assets/Protocoles et paquets de données/image-20230322085132010.png",
-    "assets/Protocoles et paquets de données/image-20230322085123660.png",
     "assets/Protocoles et paquets de données",
     "assets/Energie de liaison du noyau",
     "exercises/math/theme 1/assets/Binomial Theorem",
