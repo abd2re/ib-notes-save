@@ -8,7 +8,7 @@ Created: 2023-03-21
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
 <!--SR:!2023-04-03,10,250-->
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
-<!--SR:!2023-03-24,3,250-->
+<!--SR:!2023-04-02,9,250-->
 
 ## Défaut de masse du noyau
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:
@@ -41,7 +41,7 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 <!--SR:!2023-03-24,3,250-->
 
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
-<!--SR:!2023-03-24,3,250-->
+<!--SR:!2023-03-31,7,250-->
 
 ##  Courbe d'Aston
 ?
