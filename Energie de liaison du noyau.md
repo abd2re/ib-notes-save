@@ -17,7 +17,7 @@ $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\
 $$\Large{\Delta m=\sum\limits m_{\text{réactifs}}-\sum\limits m_{\text{produits}}}$$
 $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réactifs})}}$$
 (Noter que $m$ est exprimée en $u$)
-<!--SR:!2023-03-24,3,250-->
+<!--SR:!2023-04-01,8,250-->
 
 ## Energie de liaison
 ?
@@ -47,6 +47,6 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230323182347196.png]]
-<!--SR:!2023-03-24,3,250-->
+<!--SR:!2023-04-02,9,250-->
 
 
