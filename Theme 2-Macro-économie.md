@@ -2,5 +2,5 @@
 tags: [MOC] 
 ---
 
-# Theme 2-Macroéconomie
+# Theme 2-Macro-économie
 ![[]]

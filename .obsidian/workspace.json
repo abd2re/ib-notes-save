@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Macroéconomie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Macroéconomie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Macroéconomie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Macroéconomie.md"
+                "file": "Theme 2-Macro-économie.md"
               }
             }
           },
@@ -374,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Macroéconomie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,7 +412,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27730895774434916,
+                  "scale": 0.5360712087694591,
                   "close": true
                 }
               }
@@ -447,7 +447,7 @@
   },
   "lastOpenFiles": [
     "_economy.md",
-    "Theme 2-Macroéconomie.md",
+    "Theme 2-Macro-économie.md",
     "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "assets/Energie de liaison du noyau/image-20230321101145853.png",
