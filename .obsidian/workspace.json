@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Local Area Network (LAN)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Local Area Network (LAN).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "__C++",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__C++.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -64,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Area Network (LAN).md",
+                "file": "Conservation masse-énergie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -265,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Area Network (LAN).md",
+                "file": "Conservation masse-énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Area Network (LAN).md",
+                "file": "Conservation masse-énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Area Network (LAN).md"
+                "file": "Conservation masse-énergie.md"
               }
             }
           },
@@ -392,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Local Area Network (LAN).md",
+                "file": "Conservation masse-énergie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,6 +471,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Local Area Network (LAN).md",
     "__C++.md",
     "Energie de liaison du noyau.md",
     "Definitions temp.md",
