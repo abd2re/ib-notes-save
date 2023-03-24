@@ -298,7 +298,7 @@ string* ptr = &food;    // Pointer declaration
 cout << ptr << "\n";  
   
 // Dereference: Output the value of food with the pointer (Pizza)  
-**cout << *ptr << "\n";**
+cout << *ptr << "\n";
 ```
 
 ## Modify the Pointer Value
