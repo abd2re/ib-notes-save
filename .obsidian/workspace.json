@@ -103,14 +103,14 @@
               "type": "markdown",
               "state": {
                 "file": "Theme 1-Micro-économie.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 1-Micro-économie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 1-Micro-économie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 1-Micro-économie.md"
+                "file": "Theme 2-Macro-économie.md"
               }
             }
           },
@@ -396,7 +396,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 1-Micro-économie.md",
+                "file": "Theme 2-Macro-économie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -463,13 +463,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "598ef24a706c6a68",
+  "active": "b763a31e35b99b30",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Déterminants hors-prix de la demande.md",
     "Theme 1-Micro-économie.md",
+    "Chapitre 5 - Elasticités de la demande.md",
+    "Déterminants hors-prix de la demande.md",
     "Theme 2-Macro-économie.md",
     "_economy.md",
     "Energie de liaison du noyau.md",
@@ -499,7 +500,6 @@
     "assets/Compression des données dans un réseau",
     "Vitesse de transmission des données sur un réseau.md",
     "Theme 3-Réseaux.md",
-    "Theme 2-Architecture des ordinateurs.md",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",

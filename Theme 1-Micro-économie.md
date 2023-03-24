@@ -8,7 +8,6 @@ tags: [MOC]
 ![[Chapitre 1 - La Demande]]
 ![[Chapitre 2 - L'approvisionnement (L'offre)]]
 ![[Chapitre 3 - L'Equilibre du marché]]
-Chapitre 4 - Critique du comportement maximisateur (HL)
 ![[Chapitre 5 - Elasticités de la demande]]
 ![[Chapitre 6 - Elasticités de l'offre]]
 ![[Chapitre 7 - Role du gouvernement en micro-économie]]
