@@ -19,5 +19,5 @@ Created: 2022-09-06
 <!--SR:!2023-05-15,174,310-->
 
 Technique DDEEE en test=:: Définir, Diagramme, Explications, Exemple, Évaluation(conclusion)
-<!--SR:!2023-03-25,26,256-->
+<!--SR:!2023-06-02,69,256-->
 
