@@ -31,7 +31,7 @@ Graphe de période radioactive:
 ?
 ![[image-20230222134540381.png|475]]
 ![[image-20230222134710425.png|475]]
-<!--SR:!2023-03-25,20,250-->
+<!--SR:!2023-05-14,50,250-->
 
 
 ## Détection de la radioactivité
