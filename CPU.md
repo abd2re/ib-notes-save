@@ -37,8 +37,7 @@ Le "machine cycle" dans le CPU:
 
 ## Registres
 ?
-La seule fonction de MAR est de contenir l'adresse RAM de
-l'instruction que le CPU doit exécuter. 
+La seule fonction de MAR est de contenir l'adresse RAM de l'instruction que le CPU doit exécuter. 
 <!--SR:!2023-03-25,48,250-->
 
 Il existe de nombreux registres, mais les trois plus importants sont les suivants:
