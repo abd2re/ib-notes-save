@@ -54,6 +54,7 @@ Types de spectres de lumières et représentations:
 
 ## Experience de spectre d'absorption
 ?
+(représentation)
 ![[image-20230323084755508.png]]
 <!--SR:!2023-03-25,1,186-->
 
