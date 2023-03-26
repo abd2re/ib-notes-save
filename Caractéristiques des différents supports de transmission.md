@@ -4,7 +4,7 @@ tags: [computer_science]
 Created: 2023-03-23
 
 # Caractéristiques des différents supports de transmission
-Nous pouvons comparer les différents types de médias sur 4 points différents:
+Nous pouvons comparer les différents types de supports de transmission sur 4 points différents:
 ?
 - Sécurité
 - Fiabilité
