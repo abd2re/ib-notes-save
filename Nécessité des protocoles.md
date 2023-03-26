@@ -7,7 +7,7 @@ Created: 2023-03-22
 ?
 - Les protocoles sont l'ensemble des règles que les ordinateurs suivent lorsqu'ils communiquent sur un réseau.
 - Sans eux, aucune information ne peut être transmise, car les ordinateurs ne savent pas comment interpréter les signaux qui passent par le réseau.
-<!--SR:!2023-03-26,2,230-->
+<!--SR:!2023-03-31,5,230-->
 
 Les fonctions essentielles des protocoles sont:
 ?
