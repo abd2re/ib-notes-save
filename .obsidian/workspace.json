@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Composants matériels et logiciels d'un réseau sans fil.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Composants matériels et logiciels d'un réseau sans fil..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":17.25030525030525}"
+                },
+                {
                   "title": "Caractéristiques des différents supports de transmission",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Caractéristiques des différents supports de transmission.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -94,8 +100,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
-                "mode": "source",
+                "file": "__C++.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -295,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "assets/__C++/image-20230326153440562.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "assets/__C++/image-20230326153440562.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md"
+                "file": "assets/__C++/image-20230326153440562.png"
               }
             }
           },
@@ -422,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composants matériels et logiciels d'un réseau sans fil..md",
+                "file": "assets/__C++/image-20230326153440562.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -490,14 +496,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da2fb6e048159549",
+  "active": "0d4065ade154de46",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__C++.md",
+    "assets/__C++/image-20230326153440562.png",
+    "assets/__C++",
+    "Composants matériels et logiciels d'un réseau sans fil..md",
     "Caractéristiques des différents supports de transmission.md",
     "Energie de liaison du noyau.md",
-    "__C++.md",
     "Conservation masse-énergie.md",
     "Local Area Network (LAN).md",
     "Definitions temp.md",
@@ -519,7 +528,6 @@
     "Chapitre 1 - Les systèmes dans les organisations.md",
     "Chapitre 1 - Types de réseaux.md",
     "Réseaux sans fil.md",
-    "Composants matériels et logiciels d'un réseau sans fil..md",
     "Untitled 13.md",
     "Untitled 12.md",
     "Transmission de données.md",
@@ -527,19 +535,16 @@
     "assets/Commutation de paquets/image-20230323174859502.png",
     "assets/Commutation de paquets",
     "Protocoles et paquets de données.md",
-    "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "assets/Compression des données dans un réseau",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230222120641551.png",
-    "assets/Protocoles et paquets de données/image-20230322085132010.png",
     "assets/Protocoles et paquets de données",
     "assets/Energie de liaison du noyau",
     "exercises/math/theme 1/assets/Binomial Theorem",
     "exercices decroissance radioactive (1).pdf",
     "exercices decroissance radioactive (1).pdf.opdownload",
-    "exercices decroissance radioactive (1).rtf",
-    "exercices decroissance radioactive (1).rtf.opdownload"
+    "exercices decroissance radioactive (1).rtf"
   ]
 }
