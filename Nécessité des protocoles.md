@@ -9,7 +9,7 @@ Created: 2023-03-22
 - Sans eux, aucune information ne peut être transmise, car les ordinateurs ne savent pas comment interpréter les signaux qui passent par le réseau.
 <!--SR:!2023-03-31,5,230-->
 
-Les fonctions essentielles des protocoles sont:
+Les fonctions essentielles des protocoles sont (5):
 ?
 - Assurer l'intégrité des données
 - Gérer le contrôle du flux
