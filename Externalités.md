@@ -21,7 +21,7 @@ Il y a deux types d'externalité:
 - BMP:: Bénéfice marginal privée
 <!--SR:!2023-05-21,67,250-->
 - CMS:: Coût marginal social
-<!--SR:!2023-03-26,33,270-->
+<!--SR:!2023-06-23,89,270-->
 - BMS:: Bénéfice marginal social
 <!--SR:!2023-04-07,46,290-->
 

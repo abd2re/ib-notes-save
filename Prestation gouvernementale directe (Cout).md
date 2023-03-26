@@ -6,7 +6,7 @@ Created: 2023-02-03
 # Prestation gouvernementale directe
 ?
 Les gouvernements financent souvent la recherche et le développement dans de nombreux domaines, notamment les nouvelles technologies, la médecine et les produits pharmaceutiques, l'apiculture et l'agriculture. Le gouvernement peut également fournir directement les biens et services qui présentent des externalités positives de production, par exemple les défenses contre les inondations.
-<!--SR:!2023-03-26,29,230-->
+<!--SR:!2023-06-04,70,230-->
 
 **Problèmes avec cette solution (3):**
 ?
