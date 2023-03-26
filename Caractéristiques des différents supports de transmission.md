@@ -18,5 +18,6 @@ Exemples de support de transmission filaire (5):
 - Câble à paires torsadées blindées
 - Câble coaxial
 - Câble à fibre optique
+<!--SR:!2023-03-29,3,250-->
 
 
