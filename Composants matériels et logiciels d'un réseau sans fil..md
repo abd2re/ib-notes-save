@@ -13,6 +13,7 @@ Created: 2023-03-23
 - Un **appareil** capable de se connecter au réseau sans fil, tel qu'un PC, un ordinateur portable, un capteur, un téléphone intelligent, une imprimante, une console de jeu, une tablette, etc
 - **Antennes sans fil** : Les points d'accès et les routeurs utilisent souvent des antennes Wi-Fi qui augmentent considérablement la zone de communication effective du réseau sans fil
 - Un **répéteur sans fil** (amplificateur de signal ou amplificateur de portée) se connecte à un routeur ou à un point d'accès. Leur but est de recevoir un signal existant d'un routeur ou d'un point d'accès sans fil et de le rediffuser.
+<!--SR:!2023-03-27,1,230-->
 
 ## Dispositifs logiciels nécessaires (7-8)
 ?
