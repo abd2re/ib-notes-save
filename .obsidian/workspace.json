@@ -101,7 +101,7 @@
               "type": "markdown",
               "state": {
                 "file": "__C++.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/__C++/image-20230326153440562.png",
+                "file": "__C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/__C++/image-20230326153440562.png",
+                "file": "__C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/__C++/image-20230326153440562.png"
+                "file": "__C++.md"
               }
             }
           },
@@ -428,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/__C++/image-20230326153440562.png",
+                "file": "__C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -496,13 +496,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d4065ade154de46",
+  "active": "da2fb6e048159549",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__C++.md",
     "assets/__C++/image-20230326153440562.png",
+    "__C++.md",
     "assets/__C++",
     "Composants matériels et logiciels d'un réseau sans fil..md",
     "Caractéristiques des différents supports de transmission.md",
