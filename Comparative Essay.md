@@ -14,7 +14,7 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 <!--SR:!2023-03-30,40,250-->
 
 *The Quest*=> :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way. 
-<!--SR:!2023-03-26,38,250-->
+<!--SR:!2023-06-28,94,250-->
 
 *Voyage and Return*=> :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
 <!--SR:!2023-05-05,64,250-->
