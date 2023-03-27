@@ -9,5 +9,5 @@ In language acquisition we have three key theories :
 1. [[Behaviorist theory]]
 2. [[Innatism or Nativism theory]] 
 3. [[Interactionist theory]]
-<!--SR:!2023-03-27,5,230-->
+<!--SR:!2023-04-08,12,230-->
 
