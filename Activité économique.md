@@ -32,5 +32,5 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si fuites = injections alors :: on est dans une économie équilibrée
 - Si fuites < injections alors:: on est dans une économie prospère
 
-
+### Conditions
 
