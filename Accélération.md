@@ -10,4 +10,9 @@ C'est la variation de la vitesse au cours du temps/
 ## Accélération moyenne
 Formule:
 ?
-$$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\vec{t}}}$$
+$$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
+
+## Accélération instantanée
+Formule:
+?
+$\LARGE{}$

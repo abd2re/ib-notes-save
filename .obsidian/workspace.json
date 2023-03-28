@@ -40,43 +40,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "38d8b7fdcf293487",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.3711340206185567}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vitesse.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vitesse.md"
+                "file": "Accélération.md"
               }
             }
           },
@@ -363,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -431,14 +396,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38d8b7fdcf293487",
+  "active": "680990e445bda8c8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 2-Mécanique.md",
-    "Accélération.md",
     "Vitesse.md",
+    "Accélération.md",
+    "Theme 2-Mécanique.md",
     "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru/image-20230328084223874.png",
     "assets/Déplacement et Distance parcouru",
