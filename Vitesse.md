@@ -15,4 +15,5 @@ $$\LARGE{v=\frac{d}{t}}$$
 ## Vecteur vitesse moyenne (velocity)
 Formule:
 ?
-$$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\dashrightarrow2}=\vec{M_1}/}$$
+$$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\dashrightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
+($M_{1}$ et $M_{2}$ )
