@@ -28,4 +28,5 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
-Si fuite
+### Fuites et injections
+- Si fuites = injections alors :: on est dans une é
