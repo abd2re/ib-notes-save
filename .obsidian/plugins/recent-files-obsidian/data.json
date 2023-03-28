@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Accélération",
+      "path": "Accélération.md"
+    },
+    {
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
       "basename": "Vitesse",
       "path": "Vitesse.md"
     },
     {
       "basename": "Déplacement et Distance parcouru",
       "path": "Déplacement et Distance parcouru.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
     },
     {
       "basename": "Comparaison of Houseboy and King Lear",
@@ -195,10 +199,6 @@
     {
       "basename": "Nécessité des protocoles",
       "path": "Nécessité des protocoles.md"
-    },
-    {
-      "basename": "Contrôles des prix planchers",
-      "path": "Contrôles des prix planchers.md"
     }
   ],
   "omittedPaths": [],
