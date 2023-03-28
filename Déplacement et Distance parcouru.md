@@ -10,6 +10,4 @@ Souvent la longueur du déplacement est différent de la distance parcourue. Dif
 - Distance parcouru est la trajectoire du mobile
 ![[image-20230328084223874.png]]
 
-
-
 Définition de trajectoire=:: L'ensemble des positions prises par le mobile au cours du temps.
