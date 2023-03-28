@@ -10,7 +10,9 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 
 ## Circuit économique
-(représentation)
+(représentation économie ouverte)
 ?
 ![[image-20230328180344539.png]]
+
+- Autarcie =:: économie fermée
 
