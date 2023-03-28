@@ -16,4 +16,6 @@ $$\LARGE{v=\frac{d}{t}}$$
 Formule:
 ?
 $$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\dashrightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
-($M_{1}$ et $M_{2}$ )
+($M_{1}$ et $M_{2}$ positions aux dates $t_1$ et $t_{2}$ )
+
+## Vitesse instantanée
