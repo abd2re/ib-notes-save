@@ -24,9 +24,13 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - I =:: Investissements
 - X =:: Exportations
 
-### Formules
+## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
 ### Fuites et injections
-- Si fuites = injections alors :: on est dans une é
+- Si fuites = injections alors :: on est dans une économie équilibrée
+- Si fuites < injections alors:: on est dans une économie prospère
+
+
+
