@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Definitions temp",
+      "path": "Definitions temp.md"
+    },
+    {
       "basename": "__C++",
       "path": "__C++.md"
     },
@@ -25,10 +37,6 @@
       "path": "Local Area Network (LAN).md"
     },
     {
-      "basename": "Definitions temp",
-      "path": "Definitions temp.md"
-    },
-    {
       "basename": "Theme 2-Macro-économie",
       "path": "Theme 2-Macro-économie.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "_economy",
       "path": "_economy.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "_computer science",
@@ -195,10 +199,6 @@
     {
       "basename": "Binomial Theorem",
       "path": "exercises/math/theme 1/Binomial Theorem.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     }
   ],
   "omittedPaths": [],
