@@ -15,3 +15,4 @@ $$\LARGE{v=\frac{d}{t}}$$
 ## Vecteur vitesse moyenne (velocity)
 Formule:
 ?
+$$\LARGE{\vec{v}=\frac{\vec{D}}{\Delta t}}$$
