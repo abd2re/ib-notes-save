@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Déplacement et Distance parcouru.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Déplacement et Distance parcouru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Déplacement et Distance parcouru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Mécanique.md"
+                "file": "Déplacement et Distance parcouru.md"
               }
             }
           },
@@ -322,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Déplacement et Distance parcouru.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -395,8 +401,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_physics.md",
     "Theme 2-Mécanique.md",
+    "Déplacement et Distance parcouru.md",
+    "_physics.md",
     "Theme 7-Physique nucléaire.md",
     "Fission et fusion nucléaire.md",
     "Theme 3- Physique thermique.md",
@@ -427,7 +434,6 @@
     "Réseaux sans fil.md",
     "Untitled 13.md",
     "Untitled 12.md",
-    "Transmission de données.md",
     "assets/Commutation de paquets/image-20230323174859502.png",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",

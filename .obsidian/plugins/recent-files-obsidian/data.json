@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Déplacement et Distance parcouru",
+      "path": "Déplacement et Distance parcouru.md"
+    },
+    {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Key features of stories",
       "path": "Key features of stories.md"
-    },
-    {
-      "basename": "Binomial Theorem",
-      "path": "exercises/math/theme 1/Binomial Theorem.md"
     }
   ],
   "omittedPaths": [],
