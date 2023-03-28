@@ -20,6 +20,8 @@ tags: [M]
 5. Songs of Sorrow
 6. Strength to Love
 
+[[Comparaison of Houseboy and King Lear]]
+
 **7 concepts**
 1. creativity
 2. perspective

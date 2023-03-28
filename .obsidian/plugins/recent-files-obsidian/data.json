@@ -5,6 +5,14 @@
       "path": "Déplacement et Distance parcouru.md"
     },
     {
+      "basename": "Comparaison of Houseboy and King Lear",
+      "path": "Comparaison of Houseboy and King Lear.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "__useful links",
       "path": "__useful links.md"
-    },
-    {
-      "basename": "Houseboy",
-      "path": "Houseboy.md"
-    },
-    {
-      "basename": "Key features of stories",
-      "path": "Key features of stories.md"
     }
   ],
   "omittedPaths": [],
