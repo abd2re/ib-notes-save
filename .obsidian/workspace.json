@@ -21,7 +21,7 @@
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.7647058823529411}"
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Theme 2-Mécanique.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
