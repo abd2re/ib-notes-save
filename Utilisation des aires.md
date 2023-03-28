@@ -9,4 +9,7 @@ Created: 2023-03-28
 ![[image-20230328093709147.png]]
 
 ## Diagramme a en fonction de t
+?
+![[image-20230328093918736.png]]
+
 
