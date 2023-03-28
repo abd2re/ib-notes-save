@@ -5,7 +5,7 @@ Created: 2023-03-28
 
 # Comparaison of Houseboy and King Lear
 King Lear written by William Shakespeare and House Boy a novel by Ferdinand Oyono are two literary works that differ in different ways, but they share some similarities in their themes, characters and settings. 
-
+***
 ### Differences 
 King Lear is a play that is written and set in England whereas House Boy is a novel written that was written in the 20s century and is set in Cameroon. King Lear is a tragedy about a aging King who divides his kingdom among his 3 daugthers and suffers  the consequences of his decisions. House Boy on the other hand is a coming of age story about a young boy named Toundi who works as a House boy for a French colonial administration in Cameroon. Another difference  between the 2 works is their POV . King Lear is written in the third person omniscient which means the reader is able to see into thoughts of all the characters. House Boy is written in first person POV which means the reader is only able to see things from the perspective of the narrator Toundi. Cultural context is another major difference between the 2 works. King Lear is set in the time where England was a monarchy and the King had absolute power over his subjects. House Boy on  the other had was set in Cameroon during the times of French Colonialism with the indigenous people where oppressed and exploited by colonizers.
 
@@ -61,3 +61,5 @@ Both King Lear and Houseboy also make use of symbolism to convey their themes an
 
 ### Themes
 One of the key similarities between King Lear and Houseboy is their exploration of themes related to power, authority and betrayal. Both literary works examine the complex relationship that exists between those in position of power and those who are subject to their authority. In King Lear this is explored through the relationship between Lear and his daughters as well as between the various noble families who are vying for power and influence. In Houseboy the relationship between Toundi and his various masters serves as a metaphor for the broader power dynamics that existed in the colonnial rule
+***
+In conclusion while there are many different differences bet
