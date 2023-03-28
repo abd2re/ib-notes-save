@@ -74,26 +74,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7cff55c5f10d97b1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,6 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Utilisation des aires/image-20230328093709147.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/Utilisation des aires/image-20230328093709147.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +282,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/Utilisation des aires/image-20230328093709147.png"
+              }
             }
           },
           {
@@ -376,6 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "assets/Utilisation des aires/image-20230328093709147.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -443,7 +431,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cff55c5f10d97b1",
+  "active": "ce4dbc20c3042c0c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
