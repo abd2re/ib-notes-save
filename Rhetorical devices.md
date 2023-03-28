@@ -20,6 +20,6 @@ Created: 2022-10-17
  7. Metaphor :: is a comparaison of two things by speaking of one in terms of the other. Such as "The mother of all battles " 
 <!--SR:!2023-05-08,122,250-->
  8. Alliteration :: is the repetition of same sounds or letter at the beginning of several words in a sequence. Such as "Let us go forth to lead the land we love" (JFK) 
-<!--SR:!2023-03-28,104,270-->
+<!--SR:!2024-01-03,281,270-->
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
 <!--SR:!2023-06-23,148,250-->
