@@ -33,4 +33,6 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si fuites < injections alors:: on est dans une économie prospère
 
 ### Conditions
+- Si T < G :: Défaut budgétaire
+- Si T > G 
 
