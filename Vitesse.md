@@ -24,4 +24,4 @@ C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la 
 
 Formule:
 ?
-$$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=}$$
+$$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
