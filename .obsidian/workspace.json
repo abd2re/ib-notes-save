@@ -69,13 +69,14 @@
               "type": "markdown",
               "state": {
                 "file": "Theme 2-Mécanique.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accélération.md",
+                "file": "Theme 2-Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accélération.md",
+                "file": "Theme 2-Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accélération.md"
+                "file": "Theme 2-Mécanique.md"
               }
             }
           },
@@ -362,7 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Accélération.md",
+                "file": "Theme 2-Mécanique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,15 +431,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "680990e445bda8c8",
+  "active": "217c3f13fa4ee9ef",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Accélération/image-20230328090601820.png",
     "Accélération.md",
-    "assets/Accélération",
     "Theme 2-Mécanique.md",
+    "assets/Accélération/image-20230328090601820.png",
+    "assets/Accélération",
     "Vitesse.md",
     "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru/image-20230328084223874.png",
