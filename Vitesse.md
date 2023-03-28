@@ -8,4 +8,10 @@ Created: 2023-03-28
 Formule:
 ?
 $$\LARGE{v=\frac{d}{t}}$$
-- $v$ = vitesse en ms
+- $v$ = vitesse en $ms^{-1}$
+- $d$ = distance en $m$
+- $t$ = temps en $s$
+
+## Vecteur vitesse moyenne (velocity)
+Formule:
+?
