@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":64},\"to\":{\"line\":7,\"ch\":64}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -211,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Macro-économie.md"
+                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
               }
             }
           },
@@ -338,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,8 +417,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 1-Micro-économie.md",
     "Theme 2-Macro-économie.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Theme 1-Micro-économie.md",
     "Utilisation des aires.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
