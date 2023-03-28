@@ -45,17 +45,17 @@
             "id": "217c3f13fa4ee9ef",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Vitesse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":17.544564026551523}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "_physics",
@@ -68,15 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vitesse.md",
-                "mode": "source",
+                "file": "Theme 2-Mécanique.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vitesse.md"
+                "file": "Accélération.md"
               }
             }
           },
@@ -363,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vitesse.md",
+                "file": "Accélération.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -431,13 +430,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "217c3f13fa4ee9ef",
+  "active": "680990e445bda8c8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 2-Mécanique.md",
+    "assets/Accélération/image-20230328090601820.png",
     "Accélération.md",
+    "assets/Accélération",
+    "Theme 2-Mécanique.md",
     "Vitesse.md",
     "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru/image-20230328084223874.png",
@@ -470,17 +471,14 @@
     "_computer science.md",
     "Theme 1-Notion fondamental sur les systèmes.md",
     "Chapitre 2 - System design basics.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
     "assets/Commutation de paquets/image-20230323174859502.png",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "assets/Compression des données dans un réseau",
     "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230214110458766.png",
-    "assets/Niveau d'énergie atomique et transformation d'énergie au sain des atomes/image-20230323084755508.png",
     "assets/Protocoles et paquets de données",
     "assets/Energie de liaison du noyau",
     "exercises/math/theme 1/assets/Binomial Theorem",
-    "exercices decroissance radioactive (1).pdf",
-    "exercices decroissance radioactive (1).pdf.opdownload"
+    "exercices decroissance radioactive (1).pdf"
   ]
 }
