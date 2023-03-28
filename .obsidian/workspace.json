@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -28,29 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa4b7031d2b1941",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theme 1-Micro-économie.md",
+                "file": "Activité économique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
+                "file": "Activité économique.md"
               }
             }
           },
@@ -344,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "Activité économique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -417,9 +401,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 2-Macro-économie.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Activité économique.md",
     "Theme 1-Micro-économie.md",
+    "Theme 2-Macro-économie.md",
     "Utilisation des aires.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
@@ -457,7 +442,6 @@
     "_economy.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "_computer science.md",
-    "Theme 1-Notion fondamental sur les systèmes.md",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
     "assets/Protocoles et paquets de données",
