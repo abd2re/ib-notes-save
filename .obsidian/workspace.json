@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48b38584e03a0f0b",
+        "id": "2696ba3bc3d280d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d60d802ad072a651",
+            "id": "a0b8605ff6cb26b9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,13 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparaison of Houseboy and King Lear.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -189,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparaison of Houseboy and King Lear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparaison of Houseboy and King Lear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,9 +228,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comparaison of Houseboy and King Lear.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,7 +307,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comparaison of Houseboy and King Lear.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -384,11 +374,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d60d802ad072a651",
+  "active": "a0b8605ff6cb26b9",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
     "Utilisation des aires.md",
     "assets/Utilisation des aires/image-20230328093709147.png",
@@ -403,7 +394,6 @@
     "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru/image-20230328084223874.png",
     "assets/Déplacement et Distance parcouru",
-    "Comparaison of Houseboy and King Lear.md",
     "_english.md",
     "_physics.md",
     "Theme 7-Physique nucléaire.md",
