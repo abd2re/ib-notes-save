@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Comparaison of Houseboy and King Lear.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -184,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comparaison of Houseboy and King Lear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comparaison of Houseboy and King Lear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +235,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comparaison of Houseboy and King Lear.md"
+              }
             }
           },
           {
@@ -307,6 +316,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Comparaison of Houseboy and King Lear.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",

@@ -19,11 +19,9 @@ Despite their differences, the 2 literary works share some similarities for exam
 The point of view pf King Lear is a third person omniscient which allow the reader to see into the thoughts and feelings of the characters. This gives the play the sense of objectivity and allows the reader to understand the motivation of all the characters. The point of view of House Boy is the first person where the reader can see things from the perspective of the narrator. This creates a sense of intimacy and allows the reader to empathize with Toundi struggles and experiences 
 
 ### Cultural Context : 
-
 The cultural context is set in England, a time when the monarchy had absolute power and the aristocracy held over the common people. The play explores issues of power, authority and the relationship between the ruler and the ruled. House Boy is set in Cameroon during the time of French colonialism. The novel explores issues of identities belonging and the struggle against colonialism. 
 
 ### Characters : 
-
 Between King Lear and House Boy, we notice the complexity and multi-dimensionality of their characters. Both works feature characters who are flawed and nuanced with their own motivation and desire. In King Lear for example, Lear himself is a complex character who undergoes a transformation or a chance over the course of the play. Initially arrogant and self-centered , He gradually comes to see the error on his ways and begun to sympathize with his subjects whereas in House Boy, Toundi is a character initially naive and innocent but who comes to see the cruelty and injustice of the system and under which he lives.
 
 ### Narrative Style : 
