@@ -36,4 +36,4 @@ Both King Lear and House Boy use figurative devices to convey their themes and m
 Both King Lear and Houseboy also make use of symbolism to convey their themes and messages. In King Lear, the fool serves as a symbol of the truth that the other characters are unable or unwilling to see. He speaks in riddles and paradoxes using humour and wit to expose the folly of those around him. In Houseboy, the bicycle represents Toundi's desire for freedom and independence, he longs to ride the bicycle but is denied this pleasure by his master, who sees it as a symbol of disobedience and rebellion .
 
 ### Themes
-One of the key similarities between King Lear and Houseboy is their exploration of themes related to power, authority and betrayal. Both literar
+One of the key similarities between King Lear and Houseboy is their exploration of themes related to power, authority and betrayal. Both literary works examine the complex relationship that exists between those in position of power and those who are subject to their authority.
