@@ -25,4 +25,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - X =:: Exportations
 
 ### Formules
-Fuites =:: Taxes(T) + Epar
+Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
+Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
+
+Si fuite
