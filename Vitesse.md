@@ -15,7 +15,7 @@ $$\LARGE{v=\frac{d}{t}}$$
 ## Vecteur vitesse moyenne (velocity)
 Formule:
 ?
-$$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\dashrightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
+$$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
 ($M_{1}$ et $M_{2}$ positions aux dates $t_1$ et $t_{2}$ )
 
 ## Vitesse instantanée
@@ -24,4 +24,4 @@ C'est le vecteur vitesse moyen pour deux positions très proches.
 
 Formule:
 ?
-$$\large{\vec{v}=\lim_{\Delta t\rightarrow}}$$
+$$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=}$$
