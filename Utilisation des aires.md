@@ -8,5 +8,5 @@ Created: 2023-03-28
 ?
 ![[image-20230328092747552.png|525]]![[image-20230328092841390.png|450]]
 
-
+## Diagramme v en fonction de t
 
