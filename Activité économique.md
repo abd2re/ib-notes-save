@@ -16,6 +16,9 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 - Autarcie =:: économie fermée
 
-## Symboles
-- T
+## Symboles en macro-économie
+- T =:: taxes
+- S =:: épargnes
+- M =:: importations
+- G =:: Dépenses gouvernemental
 
