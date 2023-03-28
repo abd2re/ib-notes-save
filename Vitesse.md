@@ -24,4 +24,4 @@ C'est le vecteur vitesse moyen pour deux positions très proches.
 
 Formule:
 ?
-$$\large{\vec{v}}$$
+$$\large{\vec{v}=\lim_{\Delta t\rightarrow}}$$
