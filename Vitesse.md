@@ -20,5 +20,8 @@ $$\large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\dashrightarrow2}
 
 ## Vitesse instantanée
 ?
-C'est le vecteur vitesse moyen pour deux positions tres proches.
+C'est le vecteur vitesse moyen pour deux positions très proches.
 
+Formule:
+?
+$$\large{\vec{v}}$$
