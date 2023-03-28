@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 7-Physique nucléaire.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 7-Physique nucléaire.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 7-Physique nucléaire.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -322,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 7-Physique nucléaire.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -390,13 +390,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1471c553bb63d6a5",
+  "active": "680990e445bda8c8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_physics.md",
     "Theme 7-Physique nucléaire.md",
+    "_physics.md",
     "Fission et fusion nucléaire.md",
     "Theme 3- Physique thermique.md",
     "Theme 2-Mécanique.md",
