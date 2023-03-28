@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
       "basename": "Déplacement et Distance parcouru",
       "path": "Déplacement et Distance parcouru.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "_english",
       "path": "_english.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
     },
     {
       "basename": "_physics",
@@ -195,10 +199,6 @@
     {
       "basename": "Contrôles des prix planchers",
       "path": "Contrôles des prix planchers.md"
-    },
-    {
-      "basename": "__useful links",
-      "path": "__useful links.md"
     }
   ],
   "omittedPaths": [],
