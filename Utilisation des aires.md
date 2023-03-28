@@ -10,6 +10,6 @@ Created: 2023-03-28
 
 ## Diagramme a en fonction de t
 ?
-![[image-20230328093918736.png]]
+![[image-20230328093918736.png|450]]
 
 
