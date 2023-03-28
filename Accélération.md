@@ -7,4 +7,7 @@ Created: 2023-03-28
 ?
 C'est la variation de la vitesse au cours du temps/
 
-## Accélération moye
+## Accélération moyenne
+Formule:
+?
+$$\LARGE{\vec{a}=\Delta \vec{v}/\vec{t}}$$
