@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Utilisation des aires",
+      "path": "Utilisation des aires.md"
+    },
+    {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modèle OSI",
       "path": "Modèle OSI.md"
-    },
-    {
-      "basename": "Nécessité des protocoles",
-      "path": "Nécessité des protocoles.md"
     }
   ],
   "omittedPaths": [],
