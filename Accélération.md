@@ -15,4 +15,4 @@ $$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
 ## Accélération instantanée
 Formule:
 ?
-$\LARGE{}$
+$$\LARGE{\vec{a}=\frac{d\vec{v}}{dt}}$$
