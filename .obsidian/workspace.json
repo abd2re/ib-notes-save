@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "Activité économique.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -401,10 +401,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Activité économique/image-20230328182846041.png",
+    "_economy.md",
+    "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Activité économique",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "Activité économique.md",
     "Theme 1-Micro-économie.md",
     "Theme 2-Macro-économie.md",
     "Utilisation des aires.md",
@@ -441,8 +443,6 @@
     "assets/Definitions temp",
     "Chapitre 5 - Elasticités de la demande.md",
     "Déterminants hors-prix de la demande.md",
-    "_economy.md",
-    "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
     "assets/Protocoles et paquets de données",

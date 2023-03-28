@@ -5,6 +5,10 @@
       "path": "Activité économique.md"
     },
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
       "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Local Area Network (LAN)",
       "path": "Local Area Network (LAN).md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_computer science",
