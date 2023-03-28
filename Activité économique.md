@@ -16,3 +16,6 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 - Autarcie =:: économie fermée
 
+## Symboles
+- T
+
