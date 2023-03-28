@@ -8,4 +8,4 @@ tags: [MOC]
 1. [[Déplacement et Distance parcouru]]
 2. [[Vitesse]]
 3. [[Accélération]]
-## # Les équations de la 
+## # Les équations de la cinématique 
