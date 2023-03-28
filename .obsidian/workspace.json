@@ -20,8 +20,35 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Theme 2-Macro-économie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aa4b7031d2b1941",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 1-Micro-économie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -184,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theme 2-Macro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theme 2-Macro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +257,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theme 2-Macro-économie.md"
+              }
             }
           },
           {
@@ -307,6 +338,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Theme 2-Macro-économie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -379,6 +411,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 1-Micro-économie.md",
+    "Theme 2-Macro-économie.md",
     "Utilisation des aires.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
@@ -411,8 +445,6 @@
     "assets/Definitions temp/image-20230324082721666.png",
     "assets/Definitions temp/image-20230324082720256.png",
     "assets/Definitions temp",
-    "Theme 2-Macro-économie.md",
-    "Theme 1-Micro-économie.md",
     "Chapitre 5 - Elasticités de la demande.md",
     "Déterminants hors-prix de la demande.md",
     "_economy.md",
