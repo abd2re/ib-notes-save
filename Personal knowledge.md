@@ -22,11 +22,11 @@ a priori=::purely bu reason
 theorem=:: A principal or statement that can be demonstrated or proved using logic, but is not self evident. 
 <!--SR:!2023-08-14,153,230-->
 truth=::In accord with fact or reality, or faithfulness to a standard
-<!--SR:!2023-03-28,37,263-->
+<!--SR:!2023-07-04,97,263-->
 
 <!--SR:!2023-04-30,96,230-->
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
-<!--SR:!2023-03-27,74,230-->
+<!--SR:!2023-09-22,177,230-->
 polymath=::a person of wide knowledge or learning.
 <!--SR:!2023-07-03,130,240-->
 values=::principles or standards of behavior; one's judgement of what is important in life.
