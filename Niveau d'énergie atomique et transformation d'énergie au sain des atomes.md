@@ -28,7 +28,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 ### Signification des spectres atomiques
 ?
 Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émises ou absorbées par un atome spécifique.
-<!--SR:!2023-03-29,1,130-->
+<!--SR:!2023-03-30,1,130-->
 
 ### Interprétation des spectres atomiques
 ?
@@ -50,7 +50,7 @@ Types de spectres de lumières et représentations:
 <!--SR:!2023-03-31,20,214-->
 
 - Le spectre d'absorption est:: un spectre de la lumière blanche ou il ne figure pas les longueurs d'ondes absorbés pas un élément.
-<!--SR:!2023-03-29,1,146-->
+<!--SR:!2023-03-30,1,146-->
 
 ## Experience de spectre d'absorption
 ?
