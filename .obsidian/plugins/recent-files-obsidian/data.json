@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
       "basename": "Activité économique",
       "path": "Activité économique.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
       "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
-    },
-    {
-      "basename": "Drawing 2023-03-22 11.30.44.excalidraw",
-      "path": "Excalidraw/Drawing 2023-03-22 11.30.44.excalidraw.md"
     }
   ],
   "omittedPaths": [],

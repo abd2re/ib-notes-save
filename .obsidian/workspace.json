@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Activité économique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -34,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activité économique.md",
-                "mode": "preview",
+                "file": "_TOK.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -201,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activité économique.md",
+                "file": "_TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activité économique.md",
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activité économique.md"
+                "file": "_TOK.md"
               }
             }
           },
@@ -328,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Activité économique.md",
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -401,10 +407,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Activité économique/image-20230328182846041.png",
-    "_economy.md",
     "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
+    "assets/Activité économique/image-20230328182846041.png",
+    "_economy.md",
     "assets/Activité économique",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 1-Micro-économie.md",
@@ -439,7 +445,6 @@
     "Conservation masse-énergie.md",
     "Local Area Network (LAN).md",
     "assets/Definitions temp/image-20230324082721666.png",
-    "assets/Definitions temp/image-20230324082720256.png",
     "assets/Definitions temp",
     "Chapitre 5 - Elasticités de la demande.md",
     "Déterminants hors-prix de la demande.md",
