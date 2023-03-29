@@ -19,4 +19,6 @@ Collaboration can lead to greater certainty and value in some areas, while indiv
 1. [Tok Maths Resources | IB Maths Resources from Intermathematics](https://ibmathsresources.com/ibtokmaths/)
 2. [4. MATHEMATICS — TOK RESOURCE.ORG](https://www.tokresource.org/4-mathematics)
 3. [Mathematics Notes - ToK](https://www.ibmastery.com/blog/mathematics-notes-theory-of-knowledge)
+4. [5. THE ARTS — TOK RESOURCE.ORG](https://www.tokresource.org/5-the-arts)
+5. 
 
