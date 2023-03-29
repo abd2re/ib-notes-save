@@ -15,3 +15,5 @@ Traditional methods of evaluation in the arts, such as standardized examinations
 Similar to how multiple-choice tests and standardized examinations may not accurately reflect a person's problem-solving skills or capacity for critical and creative thought, traditional methods of evaluation in mathematics may fall short.
 
 These kinds of evaluations could also perpetuate cultural prejudices and help explain why some groups are underrepresented in mathematics. Alternate assessment methods, including project-based evaluations or group problem-solving exercises, can offer a more thorough assessment of a person's skills and can promote a more inclusive approach to learning and knowledge creation.
+
+
