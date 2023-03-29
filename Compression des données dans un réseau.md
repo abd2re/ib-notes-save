@@ -6,7 +6,7 @@ Created: 2023-03-23
 # Compression des données dans un réseau
 ?
 La compression des données consiste à coder les informations de manière à utiliser moins de bits que l'entité de données d'origine.
-<!--SR:!2023-03-29,2,230-->
+<!--SR:!2023-04-04,6,230-->
 
 Raison de compresser (3/4):
 - Sauvegardes / Archivage

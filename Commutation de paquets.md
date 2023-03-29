@@ -7,5 +7,5 @@ Created: 2023-03-23
 ?
 - La commutation de paquets décrit le type de réseau dans lequel des unités de données relativement petites, appelées paquets, sont acheminées à travers un réseau en fonction de l'adresse de destination contenue dans chaque paquet.
 ![[image-20230323174859502.png]]
-<!--SR:!2023-03-29,2,230-->
+<!--SR:!2023-04-03,5,230-->
 

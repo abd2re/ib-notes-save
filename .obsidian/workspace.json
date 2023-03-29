@@ -52,8 +52,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92c823e2586fcc5e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compression des données dans un réseau.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK work 6.md",
+                "file": "Compression des données dans un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK work 6.md",
+                "file": "Compression des données dans un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK work 6.md"
+                "file": "Compression des données dans un réseau.md"
               }
             }
           },
@@ -340,7 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK work 6.md",
+                "file": "Compression des données dans un réseau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -408,13 +431,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c11d56ecdda7c1e2",
+  "active": "92c823e2586fcc5e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "TOK work 5.md",
     "TOK work 6.md",
+    "assets/Compression des données dans un réseau/image-20230323174214650.png",
+    "TOK work 5.md",
     "_TOK.md",
     "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
@@ -452,8 +476,6 @@
     "Caractéristiques des différents supports de transmission.md",
     "Energie de liaison du noyau.md",
     "Conservation masse-énergie.md",
-    "Local Area Network (LAN).md",
-    "assets/Definitions temp/image-20230324082721666.png",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
