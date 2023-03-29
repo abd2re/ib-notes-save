@@ -37,9 +37,11 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
+<!--SR:!2023-03-30,1,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
 - Si S < I $\rightarrow$:: Il faut emprunter
 - Si S > I $\rightarrow$:: Excédent d'épargnes
+<!--SR:!2023-04-01,3,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
 - SI X > M $\rightarrow$:: Balance commerciale excédent
 
