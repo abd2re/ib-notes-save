@@ -22,14 +22,17 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ### Symboles en macro-économie
 - T =:: Taxes
+<!--SR:!2023-04-02,4,270-->
 - S =:: Epargnes
 <!--SR:!2023-04-02,4,270-->
 - M =:: Importations
 <!--SR:!2023-04-02,4,270-->
 - G =:: Dépenses gouvernementales
+<!--SR:!2023-04-02,4,270-->
 - I =:: Investissements
 <!--SR:!2023-04-02,4,270-->
 - X =:: Exportations
+<!--SR:!2023-04-02,4,270-->
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
@@ -42,6 +45,7 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 - Si fuites = injections alors :: on est dans une économie équilibrée
 <!--SR:!2023-04-01,3,250-->
 - Si fuites < injections alors:: on est dans une économie prospère
+<!--SR:!2023-04-01,3,250-->
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
@@ -53,6 +57,7 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 - Si S > I $\rightarrow$:: Excédent d'épargnes
 <!--SR:!2023-04-01,3,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
+<!--SR:!2023-04-01,3,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
 <!--SR:!2023-04-01,3,250-->
 
