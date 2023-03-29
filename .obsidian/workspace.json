@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":31.336805555555557}"
+                },
+                {
                   "title": "Activité économique",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK work 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -207,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK work 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK work 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TOK.md"
+                "file": "TOK work 6.md"
               }
             }
           },
@@ -334,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK work 6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,6 +413,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_TOK.md",
+    "TOK work 6.md",
     "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Activité économique/image-20230328182846041.png",
@@ -447,7 +455,6 @@
     "assets/Definitions temp/image-20230324082721666.png",
     "assets/Definitions temp",
     "Chapitre 5 - Elasticités de la demande.md",
-    "Déterminants hors-prix de la demande.md",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
     "assets/Protocoles et paquets de données",

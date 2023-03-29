@@ -37,6 +37,7 @@ How do we know ?
 [[TOK idk]]
 [[TOK work 4]]
 [[TOK work 5]]
+[[TOK work 6]]
 
 Research following words:
 - value
