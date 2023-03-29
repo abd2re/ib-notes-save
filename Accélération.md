@@ -6,6 +6,7 @@ Created: 2023-03-28
 # Accélération
 ?
 C'est la variation de la vitesse au cours du temps.
+<!--SR:!2023-03-30,1,228-->
 
 ## Accélération moyenne
 Formule:
