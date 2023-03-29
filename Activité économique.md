@@ -21,7 +21,9 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 ### Symboles en macro-économie
 - T =:: Taxes
 - S =:: Epargnes
+<!--SR:!2023-04-02,4,270-->
 - M =:: Importations
+<!--SR:!2023-04-02,4,270-->
 - G =:: Dépenses gouvernementales
 - I =:: Investissements
 <!--SR:!2023-04-02,4,270-->
@@ -35,13 +37,16 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
+<!--SR:!2023-04-01,3,250-->
 - Si fuites < injections alors:: on est dans une économie prospère
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
 <!--SR:!2023-03-30,1,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
+<!--SR:!2023-04-01,3,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter
+<!--SR:!2023-03-30,1,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes
 <!--SR:!2023-04-01,3,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
