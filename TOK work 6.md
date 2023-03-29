@@ -19,7 +19,7 @@ The ways in which arts and mathematics are created can affect the degree to whic
 ## Does collaboration result in knowledge that is more certain or valuable than individually created knowledge?
 Collaboration can lead to greater certainty and value in some areas, while individual insights and creativity may be more valuable in others. The value and certainty of knowledge created through collaboration depends on various factors and can vary between different areas of knowledge and contexts. Collaboration can help ensure results are replicable and that findings are not influenced by individual biases or errors, while individual perspectives and insights may be more critical than collaboration. Ultimately, both collaboration and individual efforts have their unique strengths and limitations, and their relative value depends on the specific circumstances of the knowledge creation and use.
 
-
+---
 # Sources
 1. [Tok Maths Resources | IB Maths Resources from Intermathematics](https://ibmathsresources.com/ibtokmaths/)
 2. [4. MATHEMATICS — TOK RESOURCE.ORG](https://www.tokresource.org/4-mathematics)
