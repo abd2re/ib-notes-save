@@ -1,5 +1,4 @@
 ## Are there outside factors that affect knowledge construction in the arts and mathematics ?
-
 External factors can have an impact on knowledge production in both the arts and mathematics.
 
 External factors including cultural values, historical contexts, social norms, and political influences can affect how artists create and view their work. For instance, particular styles or subjects may be promoted or discouraged based on the present political or cultural climate, and this can have an impact on the choices artists make in their work. Access to materials, teaching, and training can also have an impact on how artists learn their skills and knowledge.
@@ -9,11 +8,17 @@ The way knowledge is created in mathematics can be influenced by external variab
 Overall, external variables can have a big impact on how the fields of mathematics and the arts build knowledge. To encourage a more equitable and inclusive approach to learning and knowledge growth in these domains, it is critical to acknowledge and address these concerns.
 
 ## Do the methods by which knowledge is assessed affect the extent to which individuals can make a contribution in the arts and mathematics?
-
 Traditional methods of evaluation in the arts, such as standardized examinations or assessments focused on technical proficiency or adherence to accepted standards, may not always accurately reflect a person's creative potential or capacity for innovation. This may result in a limited view of what constitutes creative skill and restrict possibilities for individuals who do not meet the predetermined standards. On the other hand, more open-ended kinds of assessment, such peer assessments or portfolio reviews, can enable a wider variety of viewpoints and can better find those with special abilities and potential.
 
 Similar to how multiple-choice tests and standardized examinations may not accurately reflect a person's problem-solving skills or capacity for critical and creative thought, traditional methods of evaluation in mathematics may fall short.
 
 These kinds of evaluations could also perpetuate cultural prejudices and help explain why some groups are underrepresented in mathematics. Alternate assessment methods, including project-based evaluations or group problem-solving exercises, can offer a more thorough assessment of a person's skills and can promote a more inclusive approach to learning and knowledge creation.
+
+## Do the ways in which arts and mathematics are created (or produced) make them conducive or resistant to collaboration? Are individual perspectives valued in mathematics and art?
+Whether or not mathematics and the arts are collaboratively friendly depends on how they are developed or produced. Individual viewpoints are, however, widely appreciated in both disciplines.
+
+Collaboration in the arts can take on a variety of shapes, including collaborative projects, group performances, or multidisciplinary partnerships. The creation of a unified piece requires the efforts of many people in some creative disciplines, such as theater or dance. Others, like painting or sculpture, might be more solitary in nature and depend on the creativity and talent of the individual artist. Yet, cooperation in the arts may result in fresh viewpoints, original concepts, and cutting-edge methods for producing art.
+
+
 
 
