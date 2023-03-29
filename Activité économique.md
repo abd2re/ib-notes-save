@@ -14,6 +14,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 (représentation économie ouverte)
 ?
 ![[image-20230328180344539.png]]
+<!--SR:!2023-04-01,3,250-->
 
 - Autarcie =:: économie fermée
 
@@ -23,6 +24,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - M =:: Importations
 - G =:: Dépenses gouvernementales
 - I =:: Investissements
+<!--SR:!2023-04-02,4,270-->
 - X =:: Exportations
 
 ## Formules
