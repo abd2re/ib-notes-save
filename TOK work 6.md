@@ -23,6 +23,7 @@ Individual knowledge generation could be preferable in some circumstances, espec
 
 
 # Sources
-1. [Fetching Title#u4wg](https://www.tok2022.net/mathematics.html)
+1. [Tok Maths Resources | IB Maths Resources from Intermathematics](https://ibmathsresources.com/ibtokmaths/)
 2. [4. MATHEMATICS — TOK RESOURCE.ORG](https://www.tokresource.org/4-mathematics)
-3. [Fetching Title#utbd](https://www.ibmastery.com/blog/mathematics-notes-theory-of-knowledge)
+3. [Mathematics Notes - ToK](https://www.ibmastery.com/blog/mathematics-notes-theory-of-knowledge)
+
