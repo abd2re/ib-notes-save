@@ -1,6 +1,7 @@
 # Is knowledge in the arts invented or discovered?
 ## Provide an argument that artistic knowledge is discovered and describe a work of art as an example to support this.
 
+
 ## Are there outside factors that affect knowledge construction in the arts and mathematics ?
 Outside factors such as perception, language, culture, history, and technology can have a significant impact on knowledge construction in both the arts and mathematics. Perception plays a significant role in how we interpret and understand visual art, music, and mathematical concepts, while language is a crucial tool for expressing and communicating ideas. Culture has its own perspectives and ways of understanding and expressing knowledge, while history and technology can shape the development and evolution of these fields. Recognizing and understanding these factors is essential for developing a well-rounded understanding of these fields in the context of TOK.
 
