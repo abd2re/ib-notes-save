@@ -9,6 +9,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-03-30,1,230-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
+<!--SR:!2023-04-01,3,250-->
 
 ## Circuit économique
 (représentation économie ouverte)
@@ -62,6 +63,7 @@ Différence entre PIB et PNB:
 - PNB tout ce qui appartient aux nationaux
 - PIB tout ce qui est produit a l'intérieur du pays
 ![[image-20230328182846041.png|475]]
+<!--SR:!2023-04-01,3,250-->
 
 Avantages du PIB (3):
 ?
@@ -76,3 +78,4 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte de la disparité dans la répartition des revenus**
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
+<!--SR:!2023-03-30,1,230-->
