@@ -18,6 +18,7 @@ Formule:
 ?
 $$\Large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
 ($M_{1}$ et $M_{2}$ positions aux dates $t_1$ et $t_{2}$ )
+<!--SR:!2023-03-30,1,230-->
 
 ## Vitesse instantanée
 ?
@@ -26,3 +27,4 @@ C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la 
 Formule:
 ?
 $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
+<!--SR:!2023-04-01,3,250-->
