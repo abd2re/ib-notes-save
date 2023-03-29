@@ -1,3 +1,6 @@
+# Is knowledge in the arts invented or discovered?
+## Provide an argument that artistic knowledge is discovered and describe a work of art as an example to support this.
+
 ## Are there outside factors that affect knowledge construction in the arts and mathematics ?
 External factors including cultural values, historical contexts, social norms, and political influences can affect how artists create and view their work. For instance, particular styles or subjects may be promoted or discouraged based on the present political or cultural climate, and this can have an impact on the choices artists make in their work. Access to materials, teaching, and training can also have an impact on how artists learn their skills and knowledge.
 
