@@ -13,7 +13,7 @@ Avantages (6):
 - Plus de flexibilité et de commodité
 - Le Wi-Fi peut prendre en charge l'itinérance entre les points d'accès
 	- Les utilisateurs peuvent passer automatiquement d'un routeur à l'autre en fonction de la meilleure connexion.
-<!--SR:!2023-03-29,2,230-->
+<!--SR:!2023-04-03,5,230-->
 
 Inconvénients (5):
 ?
