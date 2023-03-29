@@ -5,6 +5,10 @@
       "path": "TOK work 6.md"
     },
     {
+      "basename": "TOK work 5",
+      "path": "TOK work 5.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Le modèle atomique de Rutherford",
       "path": "Le modèle atomique de Rutherford.md"
-    },
-    {
-      "basename": "Loi de décroissance radioactive",
-      "path": "Loi de décroissance radioactive.md"
     }
   ],
   "omittedPaths": [],
