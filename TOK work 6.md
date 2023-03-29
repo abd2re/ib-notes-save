@@ -1,5 +1,8 @@
 # Is knowledge in the arts invented or discovered?
 ## Provide an argument that artistic knowledge is discovered and describe a work of art as an example to support this.
+The question of whether artistic knowledge is discovered or created is a subject of debate, but one argument that supports this argument is that it involves uncovering and revealing aspects of reality that were previously unknown or hidden. An example of this is the painting "Les Demoiselles d'Avignon" by Pablo Picasso, which was created in 1907 and is considered a masterpiece of Cubism. The painting depicts five women in a brothel in Barcelona and is known for its radical style, which broke away from traditional representational art. Picasso's painting is an example of how artists can discover new ways of seeing and representing the world around them, leading to new knowledge and insights. The process of creating the painting also involved a significant amount of experimentation and exploration, which is a hallmark of artistic discovery.
+
+## 
 
 
 ## Are there outside factors that affect knowledge construction in the arts and mathematics ?
