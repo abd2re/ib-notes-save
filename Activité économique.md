@@ -6,6 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
+<!--SR:!2023-03-30,1,230-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 
@@ -28,6 +29,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportations Nette
+<!--SR:!2023-03-30,1,230-->
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
@@ -57,6 +59,7 @@ Avantages du PIB (3):
 - **Permet la comparaison entre les pays**
 - **Informe les décideurs**
 - **Donne une indication du revenu moyen**
+<!--SR:!2023-03-30,1,230-->
 
 Inconvénients du PIB (4):
 ?
