@@ -11,6 +11,7 @@ $$\LARGE{v=\frac{d}{t}}$$
 - $v$ = vitesse en $ms^{-1}$
 - $d$ = distance en $m$
 - $t$ = temps en $s$
+<!--SR:!2023-04-01,3,250-->
 
 ## Vecteur vitesse moyenne (velocity)
 Formule:
