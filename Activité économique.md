@@ -18,6 +18,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-04-01,3,250-->
 
 - Autarcie =:: économie fermée
+<!--SR:!2023-04-01,3,250-->
 
 ### Symboles en macro-économie
 - T =:: Taxes
@@ -32,6 +33,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
+<!--SR:!2023-04-01,3,250-->
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportations Nette
 <!--SR:!2023-03-30,1,230-->
@@ -52,11 +54,13 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 <!--SR:!2023-04-01,3,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
 - SI X > M $\rightarrow$:: Balance commerciale excédent
+<!--SR:!2023-04-01,3,250-->
 
 ## PIB
 Définition:
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
+<!--SR:!2023-03-30,1,230-->
 
 Différence entre PIB et PNB:
 ?
