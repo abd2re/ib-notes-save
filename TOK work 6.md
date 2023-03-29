@@ -19,6 +19,6 @@ Whether or not mathematics and the arts are collaboratively friendly depends on 
 
 Collaboration in the arts can take on a variety of shapes, including collaborative projects, group performances, or multidisciplinary partnerships. The creation of a unified piece requires the efforts of many people in some creative disciplines, such as theater or dance. Others, like painting or sculpture, might be more solitary in nature and depend on the creativity and talent of the individual artist. Yet, cooperation in the arts may result in fresh viewpoints, original concepts, and cutting-edge methods for producing art.
 
-
+Collaboration is a key component of research and problem-solving in mathematics. Teams of researchers frequently collaborate in mathematics research to create new ideas, resolve challenging issues, and test mathematical models. Making advances in the subject may depend on a collaborative team's ability to bring a variety of viewpoints and skill sets together. Individual viewpoints and insights, however, are also highly appreciated in mathematics since they may result in novel strategies for problem-solving and the advancement of mathematical knowledge.
 
 
