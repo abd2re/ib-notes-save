@@ -4,6 +4,8 @@ The question of whether artistic knowledge is discovered or created is a subject
 
 ## Provide an argument that artistic knowledge is invented and describe a work of art to an example to support this.
 
+The question of whether artistic knowledge is invented or discovered is a subject of debate. An example of a work of art that supports this argument is the painting "Composition VII" by Wassily Kandinsky, which was created in 1913 and is considered a masterpiece of abstract art. Kandinsky's painting represents a significant shift in the history of art, and it is often cited as an example of how artistic knowledge can be invented. Kandinsky was able to invent a new form of artistic expression by creating an abstract composition that had no direct reference to reality, leading to new knowledge and insights. The process of creating the painting also involved a significant amount of experimentation and invention, which is a hallmark of artistic knowledge invention.
+
 
 ## Are there outside factors that affect knowledge construction in the arts and mathematics ?
 Outside factors such as perception, language, culture, history, and technology can have a significant impact on knowledge construction in both the arts and mathematics. Perception plays a significant role in how we interpret and understand visual art, music, and mathematical concepts, while language is a crucial tool for expressing and communicating ideas. Culture has its own perspectives and ways of understanding and expressing knowledge, while history and technology can shape the development and evolution of these fields. Recognizing and understanding these factors is essential for developing a well-rounded understanding of these fields in the context of TOK.
@@ -24,5 +26,7 @@ Collaboration can lead to greater certainty and value in some areas, while indiv
 3. [Mathematics Notes - ToK](https://www.ibmastery.com/blog/mathematics-notes-theory-of-knowledge)
 4. [5. THE ARTS — TOK RESOURCE.ORG](https://www.tokresource.org/5-the-arts)
 5. wikipedia.org/wiki/Les_Demoiselles_d%27Avignon
-6. 
+6. [Les Demoiselles d'Avignon - Wikipedia](https://en.wikipedia.org/wiki/Les_Demoiselles_d'Avignon)
+7. [Composition VII - Wikipedia](https://en.wikipedia.org/wiki/Composition_VII)
+8. 
 
