@@ -137,7 +137,7 @@
               "type": "markdown",
               "state": {
                 "file": "Utilisation des aires.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -504,11 +504,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Utilisation des aires/image-20230328093918736.png",
+    "Utilisation des aires.md",
+    "assets/Utilisation des aires/image-20230330155358977.png",
+    "assets/Utilisation des aires/image-20230330155417127.png",
+    "assets/Utilisation des aires/image-20230328093709147.png",
     "Theme 2-Mécanique.md",
     "Mouvement rectiligne uniforme.md",
-    "Utilisation des aires.md",
     "TOK work 6.md",
-    "assets/Utilisation des aires/image-20230328093918736.png",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "TOK work 5.md",
@@ -523,7 +526,6 @@
     "Theme 2-Macro-économie.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
-    "assets/Utilisation des aires/image-20230328093709147.png",
     "assets/Utilisation des aires/image-20230328092841390.png",
     "assets/Utilisation des aires/image-20230328092747552.png",
     "assets/Utilisation des aires",
@@ -531,7 +533,6 @@
     "assets/Accélération",
     "Vitesse.md",
     "Déplacement et Distance parcouru.md",
-    "assets/Déplacement et Distance parcouru/image-20230328084223874.png",
     "assets/Déplacement et Distance parcouru",
     "_english.md",
     "_physics.md",
@@ -540,7 +541,6 @@
     "Theme 3- Physique thermique.md",
     "Definitions temp.md",
     "__C++.md",
-    "assets/__C++/image-20230326153440562.png",
     "assets/__C++",
     "Composants matériels et logiciels d'un réseau sans fil..md",
     "Caractéristiques des différents supports de transmission.md",
