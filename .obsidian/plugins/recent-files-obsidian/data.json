@@ -5,6 +5,10 @@
       "path": "Theme 2-Mécanique.md"
     },
     {
+      "basename": "1-Cinématique",
+      "path": "1-Cinématique.md"
+    },
+    {
       "basename": "Utilisation des aires",
       "path": "Utilisation des aires.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",
       "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
-    },
-    {
-      "basename": "Theme 5-Electricité et Magnétisme",
-      "path": "Theme 5-Electricité et Magnétisme.md"
     }
   ],
   "omittedPaths": [],

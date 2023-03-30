@@ -94,10 +94,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Mouvement rectiligne uniforme",
+                  "title": "1-Cinématique",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement rectiligne uniforme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -115,7 +115,7 @@
               "type": "markdown",
               "state": {
                 "file": "Theme 2-Mécanique.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -504,8 +504,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Mouvement rectiligne uniforme.md",
+    "1-Cinématique.md",
     "Theme 2-Mécanique.md",
+    "Mouvement rectiligne uniforme.md",
     "Utilisation des aires.md",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "assets/Utilisation des aires/image-20230330155417127.png",
