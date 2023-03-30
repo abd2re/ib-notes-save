@@ -66,8 +66,8 @@
                 {
                   "title": "Theme 2-Mécanique",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":3},\"to\":{\"line\":12,\"ch\":3}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Compression des données dans un réseau",
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilisation des aires.md"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -449,9 +449,9 @@
   },
   "lastOpenFiles": [
     "Theme 2-Mécanique.md",
-    "TOK work 6.md",
     "Mouvement rectiligne uniforme.md",
     "Utilisation des aires.md",
+    "TOK work 6.md",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
