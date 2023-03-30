@@ -12,3 +12,6 @@ Les 5 variables SUVAT:
 - a = accélération en $ms^{-2}$
 - t = intervalle de temps en $s$
 
+4 formules SUVAT:
+?
+$$\large{v=u+at}$$
