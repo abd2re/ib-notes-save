@@ -86,9 +86,65 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2538499efe95206",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Mouvement rectiligne uniforme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement rectiligne uniforme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Compression des données dans un réseau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compression des données dans un réseau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme 2-Mécanique.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1861071b3771f97d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilisation des aires.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Utilisation des aires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Utilisation des aires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md"
+                "file": "Utilisation des aires.md"
               }
             }
           },
@@ -375,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Utilisation des aires.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -443,7 +499,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85d230582c66afbe",
+  "active": "1861071b3771f97d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
