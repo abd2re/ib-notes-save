@@ -39,7 +39,7 @@ Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 <!--SR:!2023-04-01,3,250-->
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportations Nette
-<!--SR:!2023-03-30,1,230-->
+<!--SR:!2023-04-01,2,230-->
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
