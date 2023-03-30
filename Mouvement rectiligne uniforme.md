@@ -18,6 +18,7 @@ Les 5 variables SUVAT:
 - $$\Large{\Delta x=\frac{u+v}{2}t}$$
 - $$\Large{\Delta x=ut+\frac{1}{2}at^{2}}=ut\text{ (si a=0)}$$
 - $$\Large{v^{2}=u^{2}+2a\Delta x}$$
+<!--SR:!2023-03-31,1,230-->
 
 Les équations SUVAT sont dérivées de ce graphe suivant:
 ?
