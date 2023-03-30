@@ -91,8 +91,12 @@
             "id": "c2538499efe95206",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
                 {
                   "title": "1-Cinématique",
                   "icon": "lucide-file",
@@ -100,8 +104,10 @@
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Compression des données dans un réseau",
@@ -114,30 +120,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Mécanique.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1861071b3771f97d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilisation des aires.md",
-                "mode": "preview",
+                "file": "Mouvement rectiligne uniforme.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -304,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Mécanique.md"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -431,7 +415,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -504,10 +488,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Utilisation des aires.md",
+    "Mouvement rectiligne uniforme.md",
     "1-Cinématique.md",
     "Theme 2-Mécanique.md",
-    "Mouvement rectiligne uniforme.md",
-    "Utilisation des aires.md",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "assets/Utilisation des aires/image-20230330155417127.png",
     "assets/Utilisation des aires/image-20230330155358977.png",
@@ -544,7 +528,6 @@
     "__C++.md",
     "assets/__C++",
     "Composants matériels et logiciels d'un réseau sans fil..md",
-    "Caractéristiques des différents supports de transmission.md",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
