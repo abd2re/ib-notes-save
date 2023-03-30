@@ -121,7 +121,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mouvement rectiligne uniforme.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -488,6 +488,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+    "assets/Mouvement rectiligne uniforme",
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
     "1-Cinématique.md",
@@ -531,7 +533,6 @@
     "assets/Definitions temp",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
-    "assets/Protocoles et paquets de données",
-    "assets/Energie de liaison du noyau"
+    "assets/Protocoles et paquets de données"
   ]
 }
