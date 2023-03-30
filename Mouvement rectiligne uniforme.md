@@ -14,4 +14,6 @@ Les 5 variables SUVAT:
 
 4 formules SUVAT:
 ?
-$$\large{v=u+at}$$
+- $$\large{v=u+at}$$
+- $$\Delta x=\frac{u+v}{2}t$$
+- $$$$
