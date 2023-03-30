@@ -65,7 +65,7 @@ PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportati
 Définition:
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-03-30,1,230-->
+<!--SR:!2023-03-31,1,210-->
 
 Différence entre PIB et PNB:
 ?
@@ -79,7 +79,7 @@ Avantages du PIB (3):
 - **Permet la comparaison entre les pays**
 - **Informe les décideurs**
 - **Donne une indication du revenu moyen**
-<!--SR:!2023-03-30,1,230-->
+<!--SR:!2023-04-01,2,230-->
 
 Inconvénients du PIB (4):
 ?
@@ -87,4 +87,4 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte de la disparité dans la répartition des revenus**
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
-<!--SR:!2023-03-30,1,230-->
+<!--SR:!2023-03-31,1,210-->
