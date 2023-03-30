@@ -62,13 +62,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Compression des données dans un réseau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compression des données dans un réseau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compression des données dans un réseau.md",
+                "file": "Utilisation des aires.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compression des données dans un réseau.md",
+                "file": "Utilisation des aires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compression des données dans un réseau.md",
+                "file": "Utilisation des aires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compression des données dans un réseau.md"
+                "file": "Utilisation des aires.md"
               }
             }
           },
@@ -363,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compression des données dans un réseau.md",
+                "file": "Utilisation des aires.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -436,6 +448,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 2-Mécanique.md",
+    "Compression des données dans un réseau.md",
     "TOK work 6.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "TOK work 5.md",
@@ -456,7 +470,6 @@
     "assets/Utilisation des aires/image-20230328092841390.png",
     "assets/Utilisation des aires/image-20230328092747552.png",
     "assets/Utilisation des aires",
-    "Theme 2-Mécanique.md",
     "assets/Accélération/image-20230328090601820.png",
     "assets/Accélération",
     "Vitesse.md",
