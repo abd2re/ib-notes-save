@@ -40,4 +40,4 @@ We often refer to the scientific method as if were a single way of correctly doi
 - making generalization
 - assessing results and theories 
 - communicating results
-<!--SR:!2023-03-30,40,222-->
+<!--SR:!2023-06-27,89,222-->
