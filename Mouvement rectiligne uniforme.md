@@ -9,4 +9,4 @@ Les 5 variables SUVAT:
 - $\Delta$x = déplacement en $m$
 - u = vitesse initiale
 - v = vitesse finale
-- a = 
+- a = accélération
