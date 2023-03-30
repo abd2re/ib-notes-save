@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Accélération
 ?
 C'est la variation de la vitesse au cours du temps.
-<!--SR:!2023-03-30,1,228-->
+<!--SR:!2023-04-01,2,228-->
 
 ## Accélération moyenne
 Formule:
@@ -17,10 +17,10 @@ $$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
 ## Accélération instantanée
 ?
 Pente de la tangente de la courbe v en fonction de t.
-<!--SR:!2023-03-30,1,230-->
+<!--SR:!2023-04-01,2,230-->
 
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{d\vec{v}}{dt}}$$![[image-20230328090601820.png]]
-<!--SR:!2023-03-30,1,228-->
+<!--SR:!2023-04-01,2,228-->
 

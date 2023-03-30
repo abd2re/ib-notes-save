@@ -12,7 +12,7 @@ $$\LARGE{E=mc^{2}}$$
 - E = énergie du système en joules (J)
 - m = masse du système en kilogrammes (kg)
 - c = vitesse de la lumière dans le vide ($3\cdot 10^{8} ms^{-1}$)
-<!--SR:!2023-03-30,6,250-->
+<!--SR:!2023-04-14,15,250-->
 
 ## Unités de masse et d'énergie
 
