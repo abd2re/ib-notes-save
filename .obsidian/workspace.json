@@ -57,17 +57,17 @@
             "id": "92c823e2586fcc5e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Utilisation des aires",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Utilisation des aires.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":7.4375}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Compression des données dans un réseau",
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Theme 2-Mécanique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Theme 2-Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Theme 2-Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilisation des aires.md"
+                "file": "Theme 2-Mécanique.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utilisation des aires.md",
+                "file": "Theme 2-Mécanique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -448,6 +448,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Utilisation des aires.md",
     "Theme 2-Mécanique.md",
     "Compression des données dans un réseau.md",
     "TOK work 6.md",
@@ -462,7 +463,6 @@
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 1-Micro-économie.md",
     "Theme 2-Macro-économie.md",
-    "Utilisation des aires.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
     "assets/Utilisation des aires/image-20230328093709147.png",
