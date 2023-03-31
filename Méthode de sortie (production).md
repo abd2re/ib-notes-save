@@ -7,6 +7,6 @@ Created: 2023-03-31
 ?
 Selon cette méthode de comptabilisation, les entreprises sont interrogées sur leur production au cours d' une période donnée . Il est important de noter que seule la valeur ajoutée à chaque étape de la production est comptabilisée et non la valeur totale de la production ; sinon, la production économique serait comptée deux fois.
 
-Formule PIB AVEC M:
+Formule PIB avec méthode de sortie:
 ?
-PIB 
+$$\Large{\text{PIB}=\sum\limits \text{valeurs ajout}}$$ 
