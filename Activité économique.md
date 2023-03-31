@@ -87,6 +87,8 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte des améliorations de la qualité de la production**
 <!--SR:!2023-03-31,1,210-->
 
-Les trois manières de calculer le PIB sont:
+Les trois méthodes de calculer le PIB sont:
 ?
-- 
+- [[Méthode de sortie]]
+- Méthode du revenu
+- Méthode des dépenses
