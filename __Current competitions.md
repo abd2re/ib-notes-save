@@ -33,7 +33,7 @@ CodeChef competitions (different starters):
 - [ ] In progress
 - [ ] Done
 
-CSA Africa Coding Contest 
+CSA Africa Coding Contest (3 april)
 - [x] Registered
 - [ ] In progress
 - [ ] Done
