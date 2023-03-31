@@ -52,4 +52,4 @@ Différence entre PIB et PNB:
 
 Formule du PNB:
 ?
-$$\large{\text{PNB = PIB + revenus en provenance d'autres pays – revenus allant aux autres pays}}$$
+$$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
