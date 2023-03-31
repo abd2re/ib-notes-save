@@ -41,13 +41,36 @@
               "type": "markdown",
               "state": {
                 "file": "Activité économique.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba8d8c1eec97439",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthode des dépenses (demande).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activité économique.md",
+                "file": "Méthode des dépenses (demande).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activité économique.md",
+                "file": "Méthode des dépenses (demande).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activité économique.md"
+                "file": "Méthode des dépenses (demande).md"
               }
             }
           },
@@ -334,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Activité économique.md",
+                "file": "Méthode des dépenses (demande).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,15 +425,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4ab18f47946f2be",
+  "active": "7ba8d8c1eec97439",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthode du revenu.md",
-    "Méthode de sortie (production).md",
     "Activité économique.md",
     "Méthode des dépenses (demande).md",
+    "Méthode du revenu.md",
+    "Méthode de sortie (production).md",
     "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
