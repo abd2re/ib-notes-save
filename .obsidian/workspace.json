@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "PIB.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIB.md",
+                "file": "assets/Activité économique/image-20230328182846041.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIB.md",
+                "file": "assets/Activité économique/image-20230328182846041.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIB.md"
+                "file": "assets/Activité économique/image-20230328182846041.png"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PIB.md",
+                "file": "assets/Activité économique/image-20230328182846041.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,13 +402,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4ab18f47946f2be",
+  "active": "5408d730ba258fd5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthode des dépenses (demande).md",
     "PIB.md",
+    "Méthode des dépenses (demande).md",
     "Méthode du revenu.md",
     "assets/Activité économique/image-20230328182846041.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
