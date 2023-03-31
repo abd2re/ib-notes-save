@@ -11,6 +11,7 @@ Selon cette méthode de comptabilisation, les entreprises sont interrogées sur 
 Formule PIB avec méthode de sortie:
 ?
 $$\Large{\text{PIB}=\sum\limits \text{valeur ajoutée des entreprises}}$$
+<!--SR:!2023-04-03,3,250-->
 
 - Valeur ajoutée =:: Chiffre d'affaire - Consommations intermédiaires
 <!--SR:!2023-04-03,3,250-->
