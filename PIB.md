@@ -42,9 +42,7 @@ Revenu = Production = Dépenses
 
 ## PNB 
 ?
-
-
-- Le PNB est aussi appelée:: RNB.
+Le PNB/RNB EST
 
 Différence entre PIB et PNB:
 ?
