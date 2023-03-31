@@ -41,36 +41,13 @@
               "type": "markdown",
               "state": {
                 "file": "PIB.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "320701089a6f0b16",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthode des dépenses (demande).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode des dépenses (demande).md"
+                "file": "PIB.md"
               }
             }
           },
@@ -357,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,19 +402,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "320701089a6f0b16",
+  "active": "c4ab18f47946f2be",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthode du revenu.md",
+    "Méthode des dépenses (demande).md",
     "PIB.md",
+    "Méthode du revenu.md",
     "assets/Activité économique/image-20230328182846041.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Macro-économie.md",
     "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
-    "Méthode des dépenses (demande).md",
     "Méthode de sortie (production).md",
     "Definitions temp.md",
     "_economy.md",

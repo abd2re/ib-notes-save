@@ -5,6 +5,10 @@
       "path": "PIB.md"
     },
     {
+      "basename": "Méthode des dépenses (demande)",
+      "path": "Méthode des dépenses (demande).md"
+    },
+    {
       "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
       "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Activité économique",
       "path": "Activité économique.md"
-    },
-    {
-      "basename": "Méthode des dépenses (demande)",
-      "path": "Méthode des dépenses (demande).md"
     },
     {
       "basename": "Méthode du revenu",

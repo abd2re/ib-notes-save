@@ -45,4 +45,5 @@ Revenu = Production = Dépenses
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
 
+L e PIB réel est aussi appelé :: PIB déflat
 
