@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PIB",
+      "path": "PIB.md"
+    },
+    {
+      "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
+      "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
+    },
+    {
       "basename": "Theme 2-Macro-économie",
       "path": "Theme 2-Macro-économie.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "_TOK",
       "path": "_TOK.md"
-    },
-    {
-      "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
-      "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
     },
     {
       "basename": "Theme 1-Micro-économie",
@@ -195,10 +199,6 @@
     {
       "basename": "Fission et fusion nucléaire",
       "path": "Fission et fusion nucléaire.md"
-    },
-    {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
     }
   ],
   "omittedPaths": [],

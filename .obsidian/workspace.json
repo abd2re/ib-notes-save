@@ -11,17 +11,23 @@
             "id": "c4ab18f47946f2be",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Activité économique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":27},\"to\":{\"line\":59,\"ch\":27}},\"scroll\":39.532407407407405}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":73},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "_economy",
@@ -34,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
-                "mode": "source",
+                "file": "PIB.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -201,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Macro-économie.md"
+                "file": "PIB.md"
               }
             }
           },
@@ -328,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -401,14 +407,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Activité économique/image-20230328182846041.png",
+    "PIB.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Theme 2-Macro-économie.md",
     "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
-    "Theme 2-Macro-économie.md",
     "Méthode des dépenses (demande).md",
     "Méthode du revenu.md",
     "Méthode de sortie (production).md",
-    "assets/Activité économique/image-20230328182846041.png",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Definitions temp.md",
     "_economy.md",
     "TOK work 6.md",
@@ -440,7 +447,6 @@
     "_english.md",
     "_physics.md",
     "Theme 7-Physique nucléaire.md",
-    "Fission et fusion nucléaire.md",
     "assets/__C++",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
