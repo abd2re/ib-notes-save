@@ -42,6 +42,8 @@ Revenu = Production = Dépenses
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
 
 ## PNB 
+- Le PNB est aussi appelée:: RNB.
+
 Différence entre PIB et PNB:
 ?
 - PNB tout ce qui appartient aux nationaux
@@ -51,4 +53,4 @@ Différence entre PIB et PNB:
 
 Formule du PNB:
 ?
-$$\large{\text{RNB = PIB + revenus en provenance d'autres pays – revenus en provenance d'autres pays}}$$
+$$\large{\text{PNB = PIB + revenus en provenance d'autres pays – revenus en provenance d'autres pays}}$$
