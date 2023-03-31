@@ -65,4 +65,8 @@ Formule du PNB réel:
 ?
 $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
 
-## PIB 
+## PIB total et PNB par habitant
+Formules:
+?
+
+
