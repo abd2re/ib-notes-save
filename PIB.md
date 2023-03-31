@@ -40,3 +40,8 @@ Les gouvernements peuvent comptabiliser le revenu national en additionnant toute
 ?
 Revenu = Production = Dépenses
 
+
+## PIB nominal et PIB réel
+- PIB nominal = C'est PIN non cor
+
+
