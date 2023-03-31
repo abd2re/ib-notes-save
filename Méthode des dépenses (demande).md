@@ -10,3 +10,5 @@ Cette méthode de comptabilisation du revenu national consiste à additionner le
 Formule du PIB avec méthode des dépenses:
 ?
 $$\text{PIB} = C + I + G + (X-M) = \text{Consommation + Investissement + Dépense + Exportations Nette}$$
+
+Si on a une économie en autarcie alors 
