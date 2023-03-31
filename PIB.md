@@ -8,13 +8,6 @@ Created: 2023-03-31
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
 <!--SR:!2023-03-31,1,210-->
 
-Différence entre PIB et PNB:
-?
-- PNB tout ce qui appartient aux nationaux
-- PIB tout ce qui est produit a l'intérieur du pays
-![[image-20230328182846041.png|475]]
-<!--SR:!2023-04-01,3,250-->
-
 Avantages du PIB (3):
 ?
 - **Permet la comparaison entre les pays**
@@ -48,3 +41,14 @@ Revenu = Production = Dépenses
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
 
+## PNB 
+Différence entre PIB et PNB:
+?
+- PNB tout ce qui appartient aux nationaux
+- PIB tout ce qui est produit a l'intérieur du pays
+![[image-20230328182846041.png|475]]
+<!--SR:!2023-04-01,3,250-->
+
+Formule du PNB:
+?
+$$\large{\text{RNB = PIB + revenus en provenance d'autres pays – revenus en provenance d'autres pays}}$$
