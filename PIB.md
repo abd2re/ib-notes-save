@@ -57,4 +57,7 @@ $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
 
 ## Produit intérieur brut (PIB) nominal et revenu national brut (RNB) nominal
 
-Formule du 
+Formule du PIB réel:
+?
+$$\large{\text{PIB réel = (PIB n)}}$$
+ 
