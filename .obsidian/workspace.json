@@ -46,68 +46,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7628c6d69c8ee18e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Activité économique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":84.28571428571429}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.933489935187408}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthode de sortie (production).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ba8d8c1eec97439",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthode des dépenses (demande).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -470,9 +408,9 @@
   },
   "lastOpenFiles": [
     "Méthode de sortie (production).md",
-    "Activité économique.md",
-    "Méthode du revenu.md",
     "Méthode des dépenses (demande).md",
+    "Méthode du revenu.md",
+    "Activité économique.md",
     "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",

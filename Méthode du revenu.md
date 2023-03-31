@@ -7,4 +7,5 @@ Created: 2023-03-31
 ?
 Cette méthode de comptabilisation consiste à additionner tous les revenus gagnés par les groupes lorsque les facteurs de production sont vendus sur les marchés des ressources. Les propriétaires des facteurs de production reçoivent des salaires, des loyers, des intérêts et des bénéfices.
 
-$$\Large{\text{PIB}=\sum\limits \text{ des entreprises}}$$
+Formule du PIB avec la 
+$$\large{\text{PIB}=\sum\limits \text{revenus des facteurs de production + profit de l'entreprise}}$$
