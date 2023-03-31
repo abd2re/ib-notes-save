@@ -11,16 +11,16 @@
             "id": "c4ab18f47946f2be",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Activité économique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":37.06666666666667}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "PIB.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
+                "file": "PIB.md"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,10 +407,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Activité économique.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
+    "PIB.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Activité économique.md",
     "Méthode des dépenses (demande).md",
     "Méthode du revenu.md",
     "Theme 2-Macro-économie.md",
