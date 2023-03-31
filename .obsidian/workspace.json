@@ -16,12 +16,29 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.933489935187408}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Activité économique.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -184,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +247,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Activité économique.md"
+              }
             }
           },
           {
@@ -307,6 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Activité économique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -379,6 +401,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Activité économique/image-20230328180344539.png",
+    "Activité économique.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Theme 2-Macro-économie.md",
+    "Definitions temp.md",
+    "_economy.md",
     "TOK work 6.md",
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
@@ -394,14 +422,9 @@
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "TOK work 5.md",
     "_TOK.md",
-    "Activité économique.md",
-    "assets/Activité économique/image-20230328180344539.png",
     "assets/Activité économique/image-20230328182846041.png",
-    "_economy.md",
     "assets/Activité économique",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 1-Micro-économie.md",
-    "Theme 2-Macro-économie.md",
     "Comparaison of Houseboy and King Lear.md",
     "Accélération.md",
     "assets/Utilisation des aires/image-20230328092841390.png",
@@ -416,7 +439,6 @@
     "Theme 7-Physique nucléaire.md",
     "Fission et fusion nucléaire.md",
     "Theme 3- Physique thermique.md",
-    "Definitions temp.md",
     "__C++.md",
     "assets/__C++",
     "Composants matériels et logiciels d'un réseau sans fil..md",
