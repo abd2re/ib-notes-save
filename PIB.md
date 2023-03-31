@@ -59,5 +59,5 @@ $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
 
 Formule du PIB réel:
 ?
-$$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
+$$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100=\frac{\text{PIB nominal}}{\text{IPC}}\cdot 100}$$
  
