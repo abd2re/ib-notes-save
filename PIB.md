@@ -68,6 +68,6 @@ $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\
 ## PIB total et PNB par habitant
 Formules:
 ?
-
+$$\large{\text{PIB par habitant}=\frac{\text{PIB}}{\text{population}}}$$
 
 
