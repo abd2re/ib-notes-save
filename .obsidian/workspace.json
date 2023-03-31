@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3bb9df8c2e0a6848",
+        "id": "bccf2e2605196bae",
         "type": "tabs",
         "children": [
           {
-            "id": "c11d56ecdda7c1e2",
+            "id": "c4ab18f47946f2be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,119 +16,15 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":31.336805555555557}"
-                },
-                {
-                  "title": "Activité économique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":64},\"to\":{\"line\":7,\"ch\":64}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK work 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d230582c66afbe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Compression des données dans un réseau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compression des données dans un réseau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mouvement rectiligne uniforme.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2538499efe95206",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1-Cinématique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Compression des données dans un réseau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compression des données dans un réseau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mouvement rectiligne uniforme.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -334,9 +228,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mouvement rectiligne uniforme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -415,7 +307,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -483,13 +374,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c2538499efe95206",
+  "active": "c4ab18f47946f2be",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+    "TOK work 6.md",
     "Mouvement rectiligne uniforme.md",
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
     "Utilisation des aires.md",
     "1-Cinématique.md",
@@ -498,7 +390,6 @@
     "assets/Utilisation des aires/image-20230330155417127.png",
     "assets/Utilisation des aires/image-20230330155358977.png",
     "assets/Utilisation des aires/image-20230328093709147.png",
-    "TOK work 6.md",
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "TOK work 5.md",
