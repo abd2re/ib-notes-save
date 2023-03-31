@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "__Current competitions",
+      "path": "__Current competitions.md"
+    },
+    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Biens publics",
       "path": "Biens publics.md"
-    },
-    {
-      "basename": "Chapitre 9 - Défaillance du marché –  biens publics",
-      "path": "Chapitre 9 - Défaillance du marché –  biens publics.md"
     }
   ],
   "omittedPaths": [],

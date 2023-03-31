@@ -2,7 +2,7 @@ picoCTF (CMU): [picoCTF - CMU Cybersecurity Competition](https://picoctf.org)
 *March 14 to March 28, 2023*
 - [x] Registered
 - [x] In progress
-- [ ] Done
+- [x] Done
 
 
 Algorea (Not certain to finish cuz dumb af)

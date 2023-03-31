@@ -51,22 +51,16 @@
             "id": "5d5128c2c3964e62",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Chapitre 1 - Notion de bases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Notion de bases.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+                  "title": "_computer science",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Pensée informatique, résolution de problèmes et programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -74,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "__Current competitions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -198,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -242,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -369,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -442,9 +435,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "_computer science.md",
     "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Architecture des ordinateurs.md",
