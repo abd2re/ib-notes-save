@@ -12,7 +12,7 @@ C'est la variation de la vitesse au cours du temps.
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
-<!--SR:!2023-03-31,2,248-->
+<!--SR:!2023-04-05,5,248-->
 
 ## Accélération instantanée
 ?
