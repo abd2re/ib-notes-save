@@ -40,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode du revenu.md",
-                "mode": "preview",
+                "file": "Méthode des dépenses (demande).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode du revenu.md",
+                "file": "Méthode des dépenses (demande).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode du revenu.md",
+                "file": "Méthode des dépenses (demande).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode du revenu.md"
+                "file": "Méthode des dépenses (demande).md"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthode du revenu.md",
+                "file": "Méthode des dépenses (demande).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,10 +407,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Activité économique.md",
+    "Méthode du revenu.md",
     "Méthode de sortie (production).md",
     "Méthode des dépenses (demande).md",
-    "Méthode du revenu.md",
-    "Activité économique.md",
     "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
