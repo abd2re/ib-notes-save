@@ -89,6 +89,6 @@ Inconvénients du PIB (4):
 
 Les trois méthodes de calculer le PIB sont:
 ?
-- [[Méthode de sortie]]
+- [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses]]
