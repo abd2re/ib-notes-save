@@ -33,7 +33,6 @@ Les gouvernements peuvent comptabiliser le revenu national en additionnant toute
 ?
 Revenu = Production = Dépenses
 
-
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
@@ -53,4 +52,4 @@ Différence entre PIB et PNB:
 
 Formule du PNB:
 ?
-$$\large{\text{PNB = PIB + revenus en provenance d'autres pays – revenus en provenance d'autres pays}}$$
+$$\large{\text{PNB = PIB + revenus en provenance d'autres pays – revenus allant aux autres pays}}$$
