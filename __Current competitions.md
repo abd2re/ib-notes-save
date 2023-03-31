@@ -33,6 +33,10 @@ CodeChef competitions (different starters):
 - [ ] In progress
 - [ ] Done
 
+CSA Africa Coding Contest 
+- [x] Registered
+- [ ] In progress
+- [ ] Done
 
 Helpful ressources:
 [Fetching Title#wieh](https://blog.prepscholar.com/computer-science-competitions-for-high-schoolers)
