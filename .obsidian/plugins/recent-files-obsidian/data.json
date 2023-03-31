@@ -5,6 +5,10 @@
       "path": "Méthode de sortie.md"
     },
     {
+      "basename": "Méthode du revenu",
+      "path": "Méthode du revenu.md"
+    },
+    {
       "basename": "Activité économique",
       "path": "Activité économique.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Theme 7-Physique nucléaire",
       "path": "Theme 7-Physique nucléaire.md"
-    },
-    {
-      "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",
-      "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
     }
   ],
   "omittedPaths": [],

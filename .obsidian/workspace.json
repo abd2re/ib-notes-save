@@ -42,6 +42,28 @@
             }
           },
           {
+            "id": "8d61fa0fee312fce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthode du revenu.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c0c792682bc0fff",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -64,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -424,6 +446,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Méthode du revenu.md",
     "Activité économique.md",
     "Méthode de sortie.md",
     "assets/Activité économique/image-20230328182846041.png",
@@ -465,7 +488,6 @@
     "Theme 3- Physique thermique.md",
     "__C++.md",
     "assets/__C++",
-    "Composants matériels et logiciels d'un réseau sans fil..md",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
     "assets/Compression des données dans un réseau",
