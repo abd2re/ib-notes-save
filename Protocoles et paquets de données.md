@@ -26,7 +26,7 @@ Composition d'un paquet de données (représentation):
 ![[image-20230322085123660.png]]
 - L'en-tête contient des informations générales sur le paquet, le service et d'autres données liées à la transmission.
 - La charge utile, qui représente l'essentiel du paquet (tout ce qui précède est considéré comme de l'overhead), et qui constitue en fait les données transportées.
-<!--SR:!2023-03-31,4,210-->
+<!--SR:!2023-04-09,9,210-->
 
 Par exemple, le transfert de données sur internet nécessite la décomposition des données en paquets IP, ce qui est défini dans IP (Internet Protocol), et un paquet IP comprend:
 ?
