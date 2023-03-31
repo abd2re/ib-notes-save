@@ -51,8 +51,20 @@
             "id": "5d5128c2c3964e62",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Chapitre 1 - Notion de bases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Notion de bases.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Pensée informatique, résolution de problèmes et programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -63,7 +75,7 @@
               "type": "markdown",
               "state": {
                 "file": "_computer science.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -430,8 +442,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Le CPU et ses éléments.md",
+    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "_computer science.md",
+    "Chapitre 1 - Notion de bases.md",
+    "Theme 2-Architecture des ordinateurs.md",
+    "Chapitre 1 - Le CPU et ses éléments.md",
     "Theme 3-Réseaux.md",
     "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
@@ -467,10 +482,7 @@
     "assets/Utilisation des aires/image-20230328092747552.png",
     "assets/Utilisation des aires",
     "assets/Accélération",
-    "Vitesse.md",
-    "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru",
-    "_english.md",
     "assets/__C++",
     "assets/Definitions temp",
     "assets/Commutation de paquets",

@@ -5,6 +5,14 @@
       "path": "_computer science.md"
     },
     {
+      "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+      "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
+    },
+    {
+      "basename": "Chapitre 1 - Notion de bases",
+      "path": "Chapitre 1 - Notion de bases.md"
+    },
+    {
       "basename": "PIB",
       "path": "PIB.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Chapitre 9 - Défaillance du marché –  biens publics",
       "path": "Chapitre 9 - Défaillance du marché –  biens publics.md"
-    },
-    {
-      "basename": "Chapitre 1 - La Demande",
-      "path": "Chapitre 1 - La Demande.md"
-    },
-    {
-      "basename": "Fission et fusion nucléaire",
-      "path": "Fission et fusion nucléaire.md"
     }
   ],
   "omittedPaths": [],
