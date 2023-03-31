@@ -5,6 +5,14 @@
       "path": "_computer science.md"
     },
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
+      "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
+    },
+    {
       "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
       "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "PIB",
       "path": "PIB.md"
-    },
-    {
-      "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
-      "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
     },
     {
       "basename": "Activité économique",
@@ -39,10 +43,6 @@
     {
       "basename": "Méthode de sortie (production)",
       "path": "Méthode de sortie (production).md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "TOK work 6",
