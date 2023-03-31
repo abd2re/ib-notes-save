@@ -42,6 +42,7 @@ Revenu = Production = Dépenses
 
 
 ## PIB nominal et PIB réel
-- PIB nominal = C'est PIN non cor
+- PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
+- PIB réel =:: C'est le PIB **corrigée** de l'inflation
 
 
