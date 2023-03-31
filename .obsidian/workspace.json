@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Activité économique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":75.37847222222223}"
+                },
+                {
                   "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -34,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activité économique.md",
-                "mode": "preview",
+                "file": "Méthode de sortie.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -62,31 +68,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c0c792682bc0fff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthode de sortie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -441,13 +424,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c0c792682bc0fff",
+  "active": "c4ab18f47946f2be",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthode du revenu.md",
     "Activité économique.md",
+    "Méthode des dépenses.md",
+    "Méthode du revenu.md",
     "Méthode de sortie.md",
     "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",
@@ -486,7 +470,6 @@
     "Theme 7-Physique nucléaire.md",
     "Fission et fusion nucléaire.md",
     "Theme 3- Physique thermique.md",
-    "__C++.md",
     "assets/__C++",
     "assets/Definitions temp",
     "assets/Commutation de paquets",

@@ -91,4 +91,4 @@ Les trois méthodes de calculer le PIB sont:
 ?
 - [[Méthode de sortie]]
 - [[Méthode du revenu]]
-- Méthode des dépenses
+- [[Méthode des dépenses]]
