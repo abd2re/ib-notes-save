@@ -21,7 +21,7 @@
                   "title": "Activité économique",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":71.60303687635574}"
+                  "eState": "{\"scroll\":73.20824295010846}"
                 },
                 {
                   "title": "Theme 2-Macro-économie",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode de sortie (production).md",
+                "file": "Méthode du revenu.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode de sortie (production).md",
+                "file": "Méthode du revenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode de sortie (production).md",
+                "file": "Méthode du revenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode de sortie (production).md"
+                "file": "Méthode du revenu.md"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthode de sortie (production).md",
+                "file": "Méthode du revenu.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,9 +407,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Méthode du revenu.md",
     "Méthode de sortie (production).md",
     "Activité économique.md",
+    "Méthode du revenu.md",
     "Méthode des dépenses (demande).md",
     "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",

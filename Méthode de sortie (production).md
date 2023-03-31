@@ -9,4 +9,6 @@ Selon cette méthode de comptabilisation, les entreprises sont interrogées sur 
 
 Formule PIB avec méthode de sortie:
 ?
-$$\Large{\text{PIB}=\sum\limits \text{valeur ajoutée des entreprises}}$$ 
+$$\Large{\text{PIB}=\sum\limits \text{valeur ajoutée des entreprises}}$$
+
+- Valeur ajoutée =:: Chiffre d'affaire - Consommations intermédiaires
