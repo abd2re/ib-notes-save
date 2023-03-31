@@ -9,3 +9,5 @@ Cette méthode de comptabilisation du revenu national consiste à additionner le
 
 Formule du PIB avec méthode des dépenses:
 ?
+PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportations Nette
+<!--SR:!2023-04-01,2,230-->
