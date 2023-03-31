@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Activité économique/image-20230328182846041.png",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Activité économique/image-20230328182846041.png",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Activité économique/image-20230328182846041.png"
+                "file": "PIB.md"
               }
             }
           },
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Activité économique/image-20230328182846041.png",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,15 +402,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5408d730ba258fd5",
+  "active": "c4ab18f47946f2be",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Activité économique/image-20230328182846041.png",
     "PIB.md",
     "Méthode des dépenses (demande).md",
     "Méthode du revenu.md",
-    "assets/Activité économique/image-20230328182846041.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Macro-économie.md",
     "Activité économique.md",
