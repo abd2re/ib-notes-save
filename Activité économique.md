@@ -38,8 +38,6 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 <!--SR:!2023-04-01,3,250-->
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
-PIB =:: C + I + G + (X-M) = Consommation + Investissement + Dépense + Exportations Nette
-<!--SR:!2023-04-01,2,230-->
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
@@ -88,3 +86,7 @@ Inconvénients du PIB (4):
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
 <!--SR:!2023-03-31,1,210-->
+
+Les trois manières de calculer le PIB sont:
+?
+- 
