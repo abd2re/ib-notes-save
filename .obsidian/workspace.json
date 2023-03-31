@@ -21,7 +21,7 @@
                   "title": "Activité économique",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Activité économique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":71.67151349614396}"
+                  "eState": "{\"scroll\":71.60303687635574}"
                 },
                 {
                   "title": "Theme 2-Macro-économie",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Méthode de sortie (production).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Méthode de sortie (production).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Méthode de sortie (production).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode des dépenses (demande).md"
+                "file": "Méthode de sortie (production).md"
               }
             }
           },
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Méthode de sortie (production).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
