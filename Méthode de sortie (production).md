@@ -9,4 +9,4 @@ Selon cette méthode de comptabilisation, les entreprises sont interrogées sur 
 
 Formule PIB avec méthode de sortie:
 ?
-$$\Large{\text{PIB}=\sum\limits \text{valeurs ajout}}$$ 
+$$\Large{\text{PIB}=\sum\limits \text{valeur ajoutée des entreprises}}$$ 
