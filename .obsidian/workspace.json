@@ -46,8 +46,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d5128c2c3964e62",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_computer science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIB.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIB.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIB.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -334,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PIB.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -402,13 +425,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4ab18f47946f2be",
+  "active": "5d5128c2c3964e62",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Activité économique/image-20230328182846041.png",
+    "Chapitre 1 - Le CPU et ses éléments.md",
+    "_computer science.md",
+    "Theme 3-Réseaux.md",
     "PIB.md",
+    "assets/Activité économique/image-20230328182846041.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Activité économique.md",
     "Méthode des dépenses (demande).md",
@@ -445,8 +471,6 @@
     "Déplacement et Distance parcouru.md",
     "assets/Déplacement et Distance parcouru",
     "_english.md",
-    "_physics.md",
-    "Theme 7-Physique nucléaire.md",
     "assets/__C++",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
