@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activité économique.md",
+                "file": "assets/Activité économique/image-20230328180344539.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activité économique.md",
+                "file": "assets/Activité économique/image-20230328180344539.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activité économique.md"
+                "file": "assets/Activité économique/image-20230328180344539.png"
               }
             }
           },
@@ -328,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Activité économique.md",
+                "file": "assets/Activité économique/image-20230328180344539.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,13 +396,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4ab18f47946f2be",
+  "active": "2a353677a1a9da74",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Activité économique/image-20230328182846041.png",
     "Activité économique.md",
+    "assets/Activité économique/image-20230328182846041.png",
     "assets/Activité économique/image-20230328180344539.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Macro-économie.md",
