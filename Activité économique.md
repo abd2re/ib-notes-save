@@ -9,7 +9,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-04-01,1,190-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-08,7,250-->
 
 ## Circuit économique
 (représentation économie ouverte)
@@ -18,7 +18,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-04-10,9,250-->
 
 - Autarcie =:: économie fermée
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-12,11,270-->
 
 ### Symboles en macro-économie
 - T =:: Taxes
@@ -36,12 +36,12 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-11,10,250-->
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-13,12,270-->
 - Si fuites < injections alors:: on est dans une économie prospère
 <!--SR:!2023-04-13,12,270-->
 
@@ -53,7 +53,7 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si S < I $\rightarrow$:: Il faut emprunter
 <!--SR:!2023-04-05,4,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-09,8,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
 <!--SR:!2023-04-09,8,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
