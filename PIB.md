@@ -37,7 +37,7 @@ Revenu = Production = Dépenses
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
-<!--SR:!2023-04-01,1,221-->
+<!--SR:!2023-04-02,1,201-->
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
 <!--SR:!2023-04-01,1,221-->
 
@@ -56,7 +56,7 @@ Différence entre PIB et PNB:
 - PNB tout ce qui appartient aux nationaux
 - PIB tout ce qui est produit a l'intérieur du pays
 ![[image-20230328182846041.png|475]]
-<!--SR:!2023-04-01,3,250-->
+<!--SR:!2023-04-10,9,250-->
 
 Formule du PNB:
 ?
