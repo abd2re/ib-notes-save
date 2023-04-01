@@ -68,7 +68,7 @@ $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
 Formule du PIB réel:
 ?
 $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100=\frac{\text{PIB nominal}}{\text{IPC}}\cdot 100}$$
-<!--SR:!2023-04-01,1,221-->
+<!--SR:!2023-04-03,2,221-->
 
 Formule du PNB réel:
 ?
