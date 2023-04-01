@@ -13,7 +13,7 @@ Il y a deux types d'externalité:
 ?
 - [[Externalité de la production]]
 - [[Externalité de la consommation]]
-<!--SR:!2023-04-01,39,270-->
+<!--SR:!2023-07-15,105,270-->
 
 ---
 - CMP:: Coût marginal privée
