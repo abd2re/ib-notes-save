@@ -44,7 +44,7 @@ Revenu = Production = Dépenses
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2023-04-02,2,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
-<!--SR:!2023-04-01,1,221-->
+<!--SR:!2023-04-03,2,221-->
 
 ## PNB 
 ?
@@ -73,7 +73,7 @@ $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\
 Formule du PNB réel:
 ?
 $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
-<!--SR:!2023-04-01,1,221-->
+<!--SR:!2023-04-03,2,221-->
 
 ## PIB par habitant et PNB par habitant
 Formules:
