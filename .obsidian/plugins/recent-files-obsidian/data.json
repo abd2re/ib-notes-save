@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Déplacement et Distance parcouru",
       "path": "Déplacement et Distance parcouru.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "_physics",

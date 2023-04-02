@@ -58,6 +58,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":22.88888888888889}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -68,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_english.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -235,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "_english.md"
               }
             }
           },
@@ -362,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_english.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -435,6 +441,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__Current competitions.md",
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
@@ -470,7 +477,6 @@
     "assets/Activité économique",
     "Theme 1-Micro-économie.md",
     "Comparaison of Houseboy and King Lear.md",
-    "Accélération.md",
     "assets/Utilisation des aires/image-20230328092841390.png",
     "assets/Utilisation des aires/image-20230328092747552.png",
     "assets/Utilisation des aires",
