@@ -24,13 +24,13 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - T =:: Taxes
 <!--SR:!2023-04-16,14,290-->
 - S =:: Epargnes
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-18,16,290-->
 - M =:: Importations
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-17,15,290-->
 - G =:: Dépenses gouvernementales
 <!--SR:!2023-04-15,13,290-->
 - I =:: Investissements
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-16,14,290-->
 - X =:: Exportations
 <!--SR:!2023-04-19,17,290-->
 
