@@ -11,7 +11,7 @@ Les 5 variables SUVAT:
 - v = vitesse finale en $ms^{-1}$
 - a = accélération en $ms^{-2}$
 - t = intervalle de temps en $s$
-<!--SR:!2023-04-02,3,250-->
+<!--SR:!2023-04-14,12,270-->
 
 4 formules SUVAT :
 ?
