@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Houseboy prompt",
+      "path": "Houseboy prompt.md"
+    },
+    {
       "basename": "_english",
       "path": "_english.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Theme 1-Notion fondamental sur les systèmes",
       "path": "Theme 1-Notion fondamental sur les systèmes.md"
-    },
-    {
-      "basename": "Biens publics",
-      "path": "Biens publics.md"
     }
   ],
   "omittedPaths": [],

@@ -58,6 +58,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":15.363425925925926}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -74,8 +80,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
-                "mode": "preview",
+                "file": "Houseboy prompt.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -241,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "Houseboy prompt.md"
               }
             }
           },
@@ -368,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -441,6 +447,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
+    "Houseboy prompt.md",
     "__Current competitions.md",
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
@@ -475,8 +483,6 @@
     "TOK work 5.md",
     "_TOK.md",
     "assets/Activité économique",
-    "Theme 1-Micro-économie.md",
-    "Comparaison of Houseboy and King Lear.md",
     "assets/Utilisation des aires/image-20230328092841390.png",
     "assets/Utilisation des aires/image-20230328092747552.png",
     "assets/Utilisation des aires",
