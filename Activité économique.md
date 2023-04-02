@@ -28,11 +28,11 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - M =:: Importations
 <!--SR:!2023-04-02,4,270-->
 - G =:: Dépenses gouvernementales
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-15,13,290-->
 - I =:: Investissements
 <!--SR:!2023-04-02,4,270-->
 - X =:: Exportations
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-19,17,290-->
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)

@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-04-02,2,210-->
+<!--SR:!2023-04-03,1,190-->
 
 Avantages du PIB (3):
 ?
@@ -21,7 +21,7 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte de la disparité dans la répartition des revenus**
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
-<!--SR:!2023-04-02,2,210-->
+<!--SR:!2023-04-06,4,210-->
 
 Les trois méthodes de calculer le PIB sont:
 ?
@@ -61,7 +61,7 @@ Différence entre PIB et PNB:
 Formule du PNB:
 ?
 $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
-<!--SR:!2023-04-02,2,241-->
+<!--SR:!2023-04-08,6,241-->
 
 ## Produit intérieur brut (PIB) nominal et revenu national brut (RNB) nominal
 
