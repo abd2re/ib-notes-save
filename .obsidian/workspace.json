@@ -34,6 +34,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8da64dc281ad411c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Houseboy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -394,9 +422,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Houseboy prompt/image-20230402151157811.png",
-    "Houseboy prompt.md",
+    "Houseboy.md",
     "_english.md",
+    "Houseboy prompt.md",
+    "assets/Houseboy prompt/image-20230402151157811.png",
     "PIB.md",
     "Untitled.md",
     "Untitled.canvas",

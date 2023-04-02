@@ -5,4 +5,4 @@ Find an extract of 20 lines related to the question and find an image that is no
 ![[image-20230402151107694.png]]
 ![[image-20230402151157811.png]]
 
-Houseboy is a 
+Houseboy, written in the form of Toundi's captivating diary, discloses his awe of the white world and a web of unpredictable experiences. In the novel, 
