@@ -20,7 +20,7 @@
               ]
             },
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
