@@ -8,7 +8,7 @@ Created: 2023-03-21
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
 <!--SR:!2023-04-03,10,250-->
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
-<!--SR:!2023-04-02,9,250-->
+<!--SR:!2023-04-28,26,250-->
 
 ## Défaut de masse du noyau
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:
@@ -22,7 +22,7 @@ $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réa
 ## Energie de liaison
 ?
 L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
-<!--SR:!2023-04-02,9,250-->
+<!--SR:!2023-04-27,25,250-->
 
 Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
 ?
@@ -47,6 +47,6 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230323182347196.png]]
-<!--SR:!2023-04-02,9,250-->
+<!--SR:!2023-04-25,23,250-->
 
 
