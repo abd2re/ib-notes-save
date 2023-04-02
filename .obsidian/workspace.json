@@ -447,6 +447,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Houseboy prompt/image-20230402151107694.png",
+    "assets/Houseboy prompt",
     "_english.md",
     "Houseboy prompt.md",
     "__Current competitions.md",
@@ -481,7 +483,6 @@
     "Compression des données dans un réseau.md",
     "assets/Compression des données dans un réseau/image-20230323174214650.png",
     "TOK work 5.md",
-    "_TOK.md",
     "assets/Activité économique",
     "assets/Utilisation des aires/image-20230328092841390.png",
     "assets/Utilisation des aires/image-20230328092747552.png",
@@ -491,7 +492,6 @@
     "assets/__C++",
     "assets/Definitions temp",
     "assets/Commutation de paquets",
-    "assets/Compression des données dans un réseau",
-    "assets/Protocoles et paquets de données"
+    "assets/Compression des données dans un réseau"
   ]
 }

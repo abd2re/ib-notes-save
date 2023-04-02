@@ -1,3 +1,6 @@
 Compare and contrast the treatment of Toundi by the french colonizers and by his fellow Africans. How do different characters view Toundi's role as a servant, and how does this impact Toundi's own sense of identity and belonging?
 
 Find an extract of 20 lines related to the question and find an image that is non-literary portraying to the question.
+
+![[image-20230402151107694.png]]
+
