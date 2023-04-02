@@ -3,4 +3,6 @@ Compare and contrast the treatment of Toundi by the french colonizers and by his
 Find an extract of 20 lines related to the question and find an image that is non-literary portraying to the question.
 
 ![[image-20230402151107694.png]]
+![[image-20230402151157811.png]]
+
 
