@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-path:template -path:assets line:\"tags\"  ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -109,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.07155243675816061,
+  "scale": 0.09312178933526571,
   "close": false
 }

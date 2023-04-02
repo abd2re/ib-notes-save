@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8eeea0274b39aba",
+        "id": "4d7287d6791d1e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "13384cdeebb5c96e",
+            "id": "6d287b6a5e6b8f3f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.363425925925927}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Houseboy prompt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -183,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +240,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Houseboy prompt.md"
+              }
             }
           },
           {
@@ -306,6 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -373,11 +389,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "13384cdeebb5c96e",
+  "active": "6d287b6a5e6b8f3f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
     "PIB.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -385,7 +402,6 @@
     "assets/Houseboy prompt/image-20230402151157811.png",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "assets/Houseboy prompt",
-    "_english.md",
     "__Current competitions.md",
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
