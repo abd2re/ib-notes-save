@@ -22,7 +22,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ### Symboles en macro-économie
 - T =:: Taxes
-<!--SR:!2023-04-02,4,270-->
+<!--SR:!2023-04-16,14,290-->
 - S =:: Epargnes
 <!--SR:!2023-04-02,4,270-->
 - M =:: Importations
