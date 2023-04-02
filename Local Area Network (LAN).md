@@ -6,7 +6,7 @@ Created: 2023-02-25
 # Local Area Network (LAN)
 ?
 Un réseau local est un réseau informatique qui relie des systèmes informatiques situés dans une zone géographique limitée, comme une pièce, une maison, un immeuble de bureaux ou une école.
-<!--SR:!2023-04-02,17,250-->
+<!--SR:!2023-05-15,43,250-->
 
 Il existe deux façons de mettre en œuvre Ethernet:
 ?
