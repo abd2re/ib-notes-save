@@ -5,4 +5,3 @@ Find an extract of 20 lines related to the question and find an image that is no
 ![[image-20230402151107694.png]]
 ![[image-20230402151157811.png]]
 
-
