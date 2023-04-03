@@ -46,6 +46,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.986528811311912}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.172890815175444}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -56,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
-                "mode": "source",
+                "file": "PIB.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "PIB.md"
               }
             }
           },
@@ -350,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -423,11 +435,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Activité économique/image-20230328182846041.png",
+    "PIB.md",
+    "_economy.md",
+    "_physics.md",
     "_english.md",
     "Houseboy prompt.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "Houseboy.md",
-    "PIB.md",
     "Untitled.md",
     "Untitled.canvas",
     "assets/Houseboy prompt/image-20230402151107694.png",
@@ -436,12 +451,10 @@
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
     "Theme 3-Réseaux.md",
-    "assets/Activité économique/image-20230328182846041.png",
     "Activité économique.md",
     "Méthode des dépenses (demande).md",
     "Méthode du revenu.md",
@@ -455,7 +468,6 @@
     "assets/Mouvement rectiligne uniforme",
     "Utilisation des aires.md",
     "1-Cinématique.md",
-    "Theme 2-Mécanique.md",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "assets/Utilisation des aires/image-20230330155417127.png",
     "assets/Utilisation des aires/image-20230330155358977.png",
