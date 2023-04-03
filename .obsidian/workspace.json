@@ -21,14 +21,14 @@
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.585648148148149}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.363425925925927}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Issue books.md"
+                "file": "Houseboy prompt.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -395,8 +395,8 @@
   },
   "lastOpenFiles": [
     "_english.md",
-    "Houseboy prompt.md",
     "Global Issue books.md",
+    "Houseboy prompt.md",
     "__dashboard.md",
     "_computer science.md",
     "_french B.md",
