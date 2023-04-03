@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Issue books.md"
+                "file": "Houseboy prompt.md"
               }
             }
           },
@@ -322,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,13 +396,13 @@
   },
   "lastOpenFiles": [
     "_english.md",
+    "Global Issue books.md",
     "__dashboard.md",
     "_computer science.md",
     "_french B.md",
     "_physics.md",
     "PIB.md",
     "_math.md",
-    "Global Issue books.md",
     "Houseboy prompt.md",
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
