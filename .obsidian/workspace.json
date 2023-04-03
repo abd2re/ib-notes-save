@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d287b6a5e6b8f3f",
+            "id": "b28cf1b04ebdb4bc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,32 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_english",
+                  "title": "PIB",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.363425925925927}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Issue books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28cf1b04ebdb4bc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PIB.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":60.39252336448598}"
                 },
                 {
                   "title": "_economy",
@@ -68,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIB.md",
+                "file": "_physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -187,7 +165,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -234,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Issue books.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -361,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -429,15 +408,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d287b6a5e6b8f3f",
+  "active": "b28cf1b04ebdb4bc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_english.md",
-    "Global Issue books.md",
-    "Houseboy prompt.md",
     "PIB.md",
+    "_math.md",
+    "Global Issue books.md",
+    "_english.md",
+    "Houseboy prompt.md",
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "_physics.md",
@@ -467,19 +447,8 @@
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
     "Utilisation des aires.md",
-    "1-Cinématique.md",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "assets/Utilisation des aires/image-20230330155417127.png",
     "assets/Utilisation des aires/image-20230330155358977.png",
     "assets/Utilisation des aires/image-20230328093709147.png",
-    "assets/Compression des données dans un réseau/image-20230323174214650.png",
-    "assets/Activité économique",
-    "assets/Utilisation des aires",
-    "assets/Accélération",
-    "assets/Déplacement et Distance parcouru",
-    "assets/__C++",
-    "assets/Definitions temp",
-    "assets/Commutation de paquets",
-    "assets/Compression des données dans un réseau"
-  ]
-}
+    "assets/Compression des données dans 
