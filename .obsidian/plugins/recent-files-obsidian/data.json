@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Houseboy prompt",
       "path": "Houseboy prompt.md"
     },
     {
       "basename": "Houseboy",
       "path": "Houseboy.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "PIB",
@@ -115,10 +119,6 @@
     {
       "basename": "Déplacement et Distance parcouru",
       "path": "Déplacement et Distance parcouru.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "__C++",
