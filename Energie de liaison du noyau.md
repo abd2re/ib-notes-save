@@ -30,7 +30,7 @@ $$\Large{E_{l}=\Delta mc^{2}}$$
 - $E_{l}$ = énergie de liaison du noyau (en MeV)
 - $\Delta m$ =  défaut de masse du noyau (en kg)
 - $c$ = célérité de la lumière dans le vide (en $ms^{-1}$)
-<!--SR:!2023-04-03,10,250-->
+<!--SR:!2023-04-27,24,250-->
 
 L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
 ?
