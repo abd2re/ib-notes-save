@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-04-03,1,190-->
+<!--SR:!2023-04-05,2,190-->
 
 Avantages du PIB (3):
 ?
@@ -68,7 +68,7 @@ $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
 Formule du PIB réel:
 ?
 $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100=\frac{\text{PIB nominal}}{\text{IPC}}\cdot 100}$$
-<!--SR:!2023-04-03,2,221-->
+<!--SR:!2023-04-07,4,221-->
 
 Formule du PNB réel:
 ?

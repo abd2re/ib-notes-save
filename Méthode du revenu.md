@@ -11,4 +11,4 @@ Cette méthode de comptabilisation consiste à additionner tous les revenus gagn
 Formule du PIB avec la méthode de revenu:
 ?
 $$\large{\text{PIB}=\sum\limits \text{revenus des facteurs de production + profit de l'entreprise}}$$
-<!--SR:!2023-04-03,2,230-->
+<!--SR:!2023-04-09,6,230-->
