@@ -1,6 +1,7 @@
 ## Culture, Identity and community: Racial segregation in hostile environment
 
 ![[image-20230402151107694.png]]
+*Second exercise book (page 73)*
 ![[image-20230402151157811.png]]
 *(Black people were used as transport in the colonial era, Unknown source)*
 
