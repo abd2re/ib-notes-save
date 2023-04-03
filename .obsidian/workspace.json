@@ -34,8 +34,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "930efc82d12225cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_french B.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_french B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_french B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Issue books.md"
+                "file": "_french B.md"
               }
             }
           },
@@ -321,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Global Issue books.md",
+                "file": "_french B.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,13 +412,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1da8f635dbca0bbc",
+  "active": "930efc82d12225cb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Houseboy prompt/image-20230402151107694.png",
     "Global Issue books.md",
+    "assets/Houseboy prompt/image-20230402151107694.png",
     "Analyzing poems.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "_english.md",
