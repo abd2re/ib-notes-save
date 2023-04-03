@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Houseboy prompt/image-20230402151107694.png",
+                "file": "Global Issue books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Houseboy prompt/image-20230402151107694.png",
+                "file": "Global Issue books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Houseboy prompt/image-20230402151107694.png"
+                "file": "Global Issue books.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Houseboy prompt/image-20230402151107694.png",
+                "file": "Global Issue books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,13 +389,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "afa3aea4a6af85d0",
+  "active": "1da8f635dbca0bbc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Global Issue books.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
+    "Global Issue books.md",
     "Analyzing poems.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "_english.md",
