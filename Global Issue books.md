@@ -1,2 +1,3 @@
-## Beliefs, Values and Education: the prominence of fear in individuals
+## Culture, Identity and community: Racial segregation in hostile environment
+
 
