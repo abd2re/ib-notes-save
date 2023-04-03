@@ -44,13 +44,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.296296296296296}"
+                },
+                {
+                  "title": "_french B",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_french B.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_french B.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_french B.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_french B.md"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -344,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_french B.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -417,6 +429,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
+    "Utilisation des aires.md",
+    "Mouvement rectiligne uniforme.md",
+    "_french B.md",
     "Global Issue books.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "Analyzing poems.md",
@@ -425,8 +441,6 @@
     "Houseboy prompt.md",
     "__dashboard.md",
     "_computer science.md",
-    "_french B.md",
-    "_physics.md",
     "PIB.md",
     "_math.md",
     "assets/Activité économique/image-20230328182846041.png",
@@ -447,7 +461,6 @@
     "Méthode du revenu.md",
     "Theme 2-Macro-économie.md",
     "assets/Activité économique/image-20230328180344539.png",
-    "Méthode de sortie (production).md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
     "assets/Utilisation des aires/image-20230328093918736.png",
