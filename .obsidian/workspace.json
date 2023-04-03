@@ -21,14 +21,14 @@
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.363425925925927}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.585648148148149}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Houseboy prompt.md",
+                "file": "Global Issue books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Houseboy prompt.md",
+                "file": "Global Issue books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Houseboy prompt.md",
+                "file": "Global Issue books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Houseboy prompt.md"
+                "file": "Global Issue books.md"
               }
             }
           },
@@ -322,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Houseboy prompt.md",
+                "file": "Global Issue books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,6 +396,7 @@
   },
   "lastOpenFiles": [
     "_english.md",
+    "Houseboy prompt.md",
     "Global Issue books.md",
     "__dashboard.md",
     "_computer science.md",
@@ -403,7 +404,6 @@
     "_physics.md",
     "PIB.md",
     "_math.md",
-    "Houseboy prompt.md",
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
