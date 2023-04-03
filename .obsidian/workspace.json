@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "8da64dc281ad411c",
+            "id": "b28cf1b04ebdb4bc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -44,26 +44,16 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Houseboy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +212,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,9 +256,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Houseboy prompt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,7 +335,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -417,13 +402,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d287b6a5e6b8f3f",
+  "active": "b28cf1b04ebdb4bc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Houseboy prompt/image-20230402151157811.png",
     "Houseboy prompt.md",
+    "assets/Houseboy prompt/image-20230402151157811.png",
     "Houseboy.md",
     "_english.md",
     "PIB.md",
