@@ -11,24 +11,24 @@
             "id": "6d287b6a5e6b8f3f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Houseboy prompt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Houseboy prompt.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":79},\"to\":{\"line\":12,\"ch\":79}},\"scroll\":8.851851851851851}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":16},\"to\":{\"line\":31,\"ch\":16}},\"scroll\":15.733796296296296}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "Houseboy prompt.md"
               }
             }
           },
@@ -361,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -434,12 +434,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
     "Houseboy prompt.md",
     "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "_physics.md",
-    "_english.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "Houseboy.md",
     "Untitled.md",
