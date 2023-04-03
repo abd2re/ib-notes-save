@@ -10,7 +10,7 @@ Nous pouvons comparer les différents types de supports de transmission sur 4 po
 - Fiabilité
 - Coût
 - Vitesse de transmission
-<!--SR:!2023-04-03,4,210-->
+<!--SR:!2023-04-13,10,210-->
 
 Exemples de support de transmission filaire (5):
 ?

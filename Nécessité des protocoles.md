@@ -16,5 +16,5 @@ Les fonctions essentielles des protocoles sont (5):
 - Prévenir les impasses,
 - Gérer la congestion
 - Contrôler les erreurs
-<!--SR:!2023-04-03,4,208-->
+<!--SR:!2023-04-13,10,208-->
 
