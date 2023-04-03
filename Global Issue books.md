@@ -2,7 +2,7 @@
 
 ![[image-20230402151107694.png]]
 ![[image-20230402151157811.png]]
-
+(Black people were used as transport in the colonial era, Unknown source)
 Houseboy, written in the form of Toundi's captivating diary, discloses his awe of the white world and a web of unpredictable experiences. In the novel, Toundi is a houseboy for the french colonizers who has great relations with his fellows Africans (except his father) who feel compassion and love for him, but has a very submissive relation with the french colonizers, which is based  upon the colon and the colonized. But how is Toundi's position as a servant perceived by other characters, and how does this affect Toundi's own feeling of self and belonging? To answer this we will see his perception through the lenses of Father Gilbert, a catholic missionnaire, and Madame, the commandant's wife.
 
 Father Gilbert is the local priest who hires Toundi to be his houseboy. He sees Toundi's role as a servant in purely functional terms. To him, Toundi is a tool to help him with his daily tasks, and his worth is measured by his ability to perform those tasks well. Father Gilbert is not interested in Toundi's personal aspirations or struggles, and he does not take the time to get to know Toundi as a person. This impersonal attitude makes Toundi feel like he is not valued as an individual and reinforces his sense of social isolation.
