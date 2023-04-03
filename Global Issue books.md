@@ -1,1 +1,1 @@
-Beliefs, Values and Educa.on: the prominence of fear in individuals
+## Beliefs, Values and Education: the prominence of fear in individuals
