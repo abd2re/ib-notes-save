@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIB.md",
+                "file": "Houseboy prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIB.md",
+                "file": "Houseboy prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIB.md"
+                "file": "Houseboy prompt.md"
               }
             }
           },
@@ -362,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PIB.md",
+                "file": "Houseboy prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,13 +429,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b28cf1b04ebdb4bc",
+  "active": "6d287b6a5e6b8f3f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Activité économique/image-20230328182846041.png",
     "PIB.md",
+    "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "_physics.md",
     "_english.md",
