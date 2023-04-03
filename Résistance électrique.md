@@ -20,7 +20,7 @@ $$R=\frac{\rho l}{A}$$
 ## Loi d'Ohm et conducteur ohmique
 
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
-<!--SR:!2023-04-03,64,230-->
+<!--SR:!2023-08-28,147,230-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
 <!--SR:!2023-04-26,78,230-->
 
