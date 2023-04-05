@@ -1,4 +1,7 @@
 - PicoCTF-Africa gold medalist 
 - School entrepreneurial competition gold medalist (OrientationSN)
 - Distinction-University of Waterloo for Euclid and Hypatia
-- 
+- Data Science internship at startup
+- Made a website for green energy and climate change
+- President of Chess club and Computer Science club
+- Won local
