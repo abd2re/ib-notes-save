@@ -20,4 +20,5 @@
 - *France IOI medalist*
 - *Distinction (Hopefully top 20) in Wharton Global High School  
 Investment Competition*
-- Udemy certificate on Data Sc
+- Udemy certificate on Data Science with Python
+	- 
