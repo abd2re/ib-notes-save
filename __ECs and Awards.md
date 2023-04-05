@@ -17,7 +17,7 @@
 - *Tutored underprivileged girls in Senegal on coding*
 - *STEM  summer camp in Canada*
 - *Published research paper on the comparaison of different chess search algorithm*
-- *France IOI semi-finalists (hopefully medalist)*
+- *France IOI quarter-finalists (hopefully medalist)*
 - *Distinction (Hopefully top 20) in Wharton Global High School  
 Investment Competition*
 - Udemy certificate on Data Science with Python (25 hours course)
