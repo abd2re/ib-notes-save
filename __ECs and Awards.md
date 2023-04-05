@@ -1,3 +1,3 @@
 - PicoCTF-Africa gold medalist 
 - School entrepreneurial competition gold medalist (OrientationSN)
-- 
+- Top 25% in 
