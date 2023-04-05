@@ -10,12 +10,12 @@
 9.  Are some things unknowable?/
 10.  What is the relationship between personal experience and knowledge?/
 11.  What role do experts play in influencing our consumption or acquisition of knowledge?/
-13.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
-15.  Does our knowledge depend on our interactions with other knowers?/
-16.  Does all knowledge impose ethical obligations on those who know it?/
-18.  Who owns knowledge?/
-20.  How can we judge when evidence is adequate?/
-22.  How is current knowledge shaped by its historical development?/
-24.  In what ways do values affect the production of knowledge?/
+12.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
+13.  Does our knowledge depend on our interactions with other knowers?/
+14.  Does all knowledge impose ethical obligations on those who know it?/
+15.  Who owns knowledge?/
+16.  How can we judge when evidence is adequate?/
+17.  How is current knowledge shaped by its historical development?/
+18.  In what ways do values affect the production of knowledge?/
 
 objects must be form the real word  objects must be thr r from the real world
