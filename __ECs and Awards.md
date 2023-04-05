@@ -7,4 +7,6 @@
 - Won local tennis table competitions at school
 - Won local chess competition at school
 - Math tutoring for 11th grade students
-- Robotics teacher 
+- Robotics teacher for students in Coding club (Intern)
+- France IOI winner
+- 
