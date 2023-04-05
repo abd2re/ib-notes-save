@@ -46,6 +46,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__dashboard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":22.37037037037037}"
+                },
+                {
+                  "title": "__ECs and Awards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5308641975308643}"
+                },
+                {
+                  "title": "TOK Exhibition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -86,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__ECs and Awards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -340,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md"
+                "file": "__ECs and Awards.md"
               }
             }
           },
@@ -420,7 +444,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -488,29 +512,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d02204e4287f052c",
+  "active": "930efc82d12225cb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Vitesse.md",
-    "Chapitre 1 - Cinématique.md",
-    "_physics.md",
-    "Mouvement rectiligne uniforme.md",
+    "__dashboard.md",
+    "__Current competitions.md",
     "__ECs and Awards.md",
     "TOK Exhibition.md",
+    "Global Issue books.md",
+    "Chapitre 1 - Cinématique.md",
+    "Vitesse.md",
+    "_physics.md",
+    "Mouvement rectiligne uniforme.md",
     "_TOK.md",
     "Position relative parabole et droite.md",
     "_math.md",
     "Utilisation des aires.md",
     "_french B.md",
-    "Global Issue books.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "Analyzing poems.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "_english.md",
     "Houseboy prompt.md",
-    "__dashboard.md",
     "_computer science.md",
     "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
@@ -518,7 +543,6 @@
     "Houseboy.md",
     "Untitled.canvas",
     "assets/Houseboy prompt",
-    "__Current competitions.md",
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",

@@ -15,14 +15,9 @@ Wharton investing competition (May 2023)
 - [ ] In progress
 - [ ] Done
 
-Bebras (Nov 2023)
-- [ ] Registered
-- [ ] In progress
-- [ ] Done
-
 Euclid Math competition:
 - [x] Registered
-- [ ] Done
+- [x] Done
 
 Hypatia Math competition:
 - [x] Registered
@@ -35,7 +30,7 @@ CodeChef competitions (different starters):
 
 CSA Africa Coding Contest (3 april)
 - [x] Registered
-- [ ] In progress
+- [x] In progress
 - [ ] Done
 
 Helpful ressources:
