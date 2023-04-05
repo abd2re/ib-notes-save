@@ -14,6 +14,7 @@
 - Valedictorian and modal student from 9th to 12th
 - 2 weeks Internship at school where I helped install and configure new computers for the IT department
 - Volunteering at a local underprivileged school
-- *Tutored underprivileged girls on coding*
+- *Tutored underprivileged girls in Senegal on coding*
 - *STEM  summer camp in Canada*
-- Published research paper on the comparaison of different chess search algorithm
+- Published research paper on the comparaison of different chess search algorithm in AI 
+- *France IOI medalist*
