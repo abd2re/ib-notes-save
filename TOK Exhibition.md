@@ -14,10 +14,8 @@
 15.  Does our knowledge depend on our interactions with other knowers?/
 16.  Does all knowledge impose ethical obligations on those who know it?/
 18.  Who owns knowledge?/
-20.  How can we judge when evidence is adequate?
-21.  What makes a good explanation?
-22.  How is current knowledge shaped by its historical development?
-23.  In what ways do our values affect our acquisition of knowledge?
-24.  In what ways do values affect the production of knowledge?
+20.  How can we judge when evidence is adequate?/
+22.  How is current knowledge shaped by its historical development?/
+24.  In what ways do values affect the production of knowledge?/
 
 objects must be form the real word  objects must be thr r from the real world
