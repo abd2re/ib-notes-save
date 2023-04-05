@@ -7,12 +7,9 @@
 12.  Is bias inevitable in the production of knowledge?/
 14.  Does some knowledge belong only to particular communities of knowers?/
 15.  What constraints are there on the pursuit of knowledge?/
-17.  Why do we seek knowledge?
-18.  Are some things unknowable?
-19.  What counts as a good justification for a claim?
-20.  What is the relationship between personal experience and knowledge?
-21.  What is the relationship between knowledge and culture?
-22.  What role do experts play in influencing our consumption or acquisition of knowledge?
+18.  Are some things unknowable?/
+20.  What is the relationship between personal experience and knowledge?/
+22.  What role do experts play in influencing our consumption or acquisition of knowledge?/
 23.  How important are material tools in the production or acquisition of knowledge?
 24.  How might the context in which knowledge is presented influence whether it is accepted or rejected?
 25.  How can we distinguish between knowledge, belief and opinion?
