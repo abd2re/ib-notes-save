@@ -1,12 +1,9 @@
 
 1. On what grounds might we doubt a claim?//
 2.  What are the implications of having, or not having, knowledge?//
-3.  What challenges are raised by the dissemination and/or communication of knowledge?/
-4.  Is bias inevitable in the production of knowledge?/
-5.  Does some knowledge belong only to particular communities of knowers?/
-6.  What constraints are there on the pursuit of knowledge?/
-7.  Are some things unknowable?/
-8.  What is the relationship between personal experience and knowledge?/
+4.  Is bias inevitable in the production of knowledge?//
+6.  What constraints are there on the pursuit of knowledge?//
+7.  Are some things unknowable?//
 9.  What role do experts play in influencing our consumption or acquisition of knowledge?/
 10.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
 11.  Does our knowledge depend on our interactions with other knowers?/
