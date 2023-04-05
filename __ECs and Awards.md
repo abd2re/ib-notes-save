@@ -8,5 +8,5 @@
 - Won local chess competition at school
 - Math tutoring for 11th grade students
 - Robotics teacher for students in Coding club (Intern)
-- France IOI winner
-- EtonX Entrepreneur
+- EtonX Entrepreneurship + + certificate (school club)
+- Visual and Motion graphic artist with +90k views on youube
