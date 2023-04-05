@@ -92,9 +92,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d02204e4287f052c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__ECs and Awards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -300,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "__ECs and Awards.md"
               }
             }
           },
@@ -380,7 +402,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -448,11 +470,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "930efc82d12225cb",
+  "active": "d02204e4287f052c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "TOK Exhibition.md",
+    "__ECs and Awards.md",
     "_TOK.md",
     "Position relative parabole et droite.md",
     "_math.md",
@@ -472,7 +496,6 @@
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "Houseboy.md",
-    "Untitled.md",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "__Current competitions.md",
@@ -483,7 +506,6 @@
     "Chapitre 1 - Le CPU et ses éléments.md",
     "Theme 3-Réseaux.md",
     "Activité économique.md",
-    "Méthode des dépenses (demande).md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
