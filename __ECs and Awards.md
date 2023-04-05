@@ -1,4 +1,4 @@
-- PicoCTF-Africa gold medalist 
+- PicoCTF-Africa 2023 gold medalist 
 - School entrepreneurial competition gold medalist (OrientationSN)
 - Distinction-University of Waterloo for Euclid and Hypatia
 - Data Science internship at startup
@@ -9,4 +9,6 @@
 - Math tutoring for 11th grade students
 - Robotics teacher for students in Coding club (Intern)
 - EtonX Entrepreneurship + + certificate (school club)
-- Visual and Motion graphic artist with +90k views on youube
+- Visual and Motion graphic artist with +90k views on YouTube
+- CSA Africa coding contest 2023 gold medalist
+- 
