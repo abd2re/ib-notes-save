@@ -46,6 +46,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mouvement rectiligne uniforme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement rectiligne uniforme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -62,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Position relative parabole et droite.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Position relative parabole et droite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Position relative parabole et droite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md"
+                "file": "Position relative parabole et droite.md"
               }
             }
           },
@@ -356,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "Position relative parabole et droite.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -429,9 +441,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_math.md",
+    "Mouvement rectiligne uniforme.md",
     "_physics.md",
     "Utilisation des aires.md",
-    "Mouvement rectiligne uniforme.md",
     "_french B.md",
     "Global Issue books.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
@@ -442,7 +455,6 @@
     "__dashboard.md",
     "_computer science.md",
     "PIB.md",
-    "_math.md",
     "assets/Activité économique/image-20230328182846041.png",
     "_economy.md",
     "Houseboy.md",

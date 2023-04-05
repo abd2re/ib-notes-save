@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "Mouvement rectiligne uniforme",
       "path": "Mouvement rectiligne uniforme.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "PIB",
       "path": "PIB.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_economy",
@@ -195,10 +199,6 @@
     {
       "basename": "Vitesse de transmission des données sur un réseau",
       "path": "Vitesse de transmission des données sur un réseau.md"
-    },
-    {
-      "basename": "Theme 2-Architecture des ordinateurs",
-      "path": "Theme 2-Architecture des ordinateurs.md"
     }
   ],
   "omittedPaths": [],
