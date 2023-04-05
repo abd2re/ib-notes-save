@@ -1,7 +1,7 @@
 - PicoCTF-Africa 2023 gold medalist 
 - School entrepreneurial competition gold medalist (Made a website called OrientationSN to help students in senegal find their universities and majors)
 - Distinction-University of Waterloo for Euclid and Hypatia
-- Data Science internship at startup
+- Data Science internship at startup (worked on an AI tool that help translate L)
 - Made a website for green energy and climate change, presented it to the school
 - President of Chess club (Organized tournaments) 
 - Founder of Computer Science club (*Helped student with  their websites and applications* and organized local hackathons)
@@ -20,5 +20,4 @@
 - *France IOI medalist*
 - *Distinction (Hopefully top 20) in Wharton Global High School  
 Investment Competition*
-- Udemy certificate on Data Science with Python
-	- 
+- Udemy certificate on Data Science with 
