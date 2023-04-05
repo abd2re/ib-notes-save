@@ -11,12 +11,9 @@
 10.  What is the relationship between personal experience and knowledge?/
 11.  What role do experts play in influencing our consumption or acquisition of knowledge?/
 13.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
-14.  How can we distinguish between knowledge, belief and opinion?
-15.  Does our knowledge depend on our interactions with other knowers?
-16.  Does all knowledge impose ethical obligations on those who know it?
-17.  To what extent is objectivity possible in the production or acquisition of knowledge?
-18.  Who owns knowledge?
-19.  What role does imagination play in producing knowledge about the world?
+15.  Does our knowledge depend on our interactions with other knowers?/
+16.  Does all knowledge impose ethical obligations on those who know it?/
+18.  Who owns knowledge?/
 20.  How can we judge when evidence is adequate?
 21.  What makes a good explanation?
 22.  How is current knowledge shaped by its historical development?
