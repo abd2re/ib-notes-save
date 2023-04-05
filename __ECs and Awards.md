@@ -9,4 +9,4 @@
 - Math tutoring for 11th grade students
 - Robotics teacher for students in Coding club (Intern)
 - France IOI winner
-- 
+- EtonX Entrepreneur
