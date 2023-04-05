@@ -1,11 +1,11 @@
 - PicoCTF-Africa 2023 gold medalist 
-- School entrepreneurial competition gold medalist (Made a website called Orientation )
+- School entrepreneurial competition gold medalist (Made a website called OrientationSN to help students in senegal find their universities and majors)
 - Distinction-University of Waterloo for Euclid and Hypatia
 - Data Science internship at startup
-- Made a website for green energy and climate change
+- Made a website for green energy and climate change, presented it to the school
 - President of Chess club (Organized tournaments) 
 - Computer Science club (Helped student with websites and organized local hackathons)
-- Won local tennis table competitions at school
+- Table Tennis player (played in various competitions and won)
 - Math tutoring for 11th grade students
 - Robotics teacher for students in Coding club (Intern)
 - EtonX Entrepreneurship + + certificate (school club)
