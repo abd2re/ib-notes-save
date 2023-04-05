@@ -46,6 +46,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "__C++",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__C++.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "__ECs and Awards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":18},\"to\":{\"line\":19,\"ch\":18}}}"
+                },
+                {
                   "title": "__dashboard",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -517,12 +535,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "__dashboard.md",
     "__Current competitions.md",
-    "__ECs and Awards.md",
-    "TOK Exhibition.md",
-    "Global Issue books.md",
+    "__C++.md",
     "Chapitre 1 - Cinématique.md",
+    "assets/Houseboy prompt/image-20230402151107694.png",
+    "Global Issue books.md",
+    "__ECs and Awards.md",
+    "__dashboard.md",
+    "TOK Exhibition.md",
     "Vitesse.md",
     "_physics.md",
     "Mouvement rectiligne uniforme.md",
@@ -531,7 +551,6 @@
     "_math.md",
     "Utilisation des aires.md",
     "_french B.md",
-    "assets/Houseboy prompt/image-20230402151107694.png",
     "Analyzing poems.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "_english.md",
@@ -546,8 +565,6 @@
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "Theme 2-Architecture des ordinateurs.md",
-    "Chapitre 1 - Le CPU et ses éléments.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",

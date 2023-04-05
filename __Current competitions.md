@@ -5,7 +5,7 @@ picoCTF (CMU): [picoCTF - CMU Cybersecurity Competition](https://picoctf.org)
 - [x] Done
 
 
-Algorea (Not certain to finish cuz dumb af)
+France IOI 3eme Niveau
 - [x] Registered
 - [x] In progress
 - [ ] Done

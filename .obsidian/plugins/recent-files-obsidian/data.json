@@ -5,24 +5,28 @@
       "path": "__ECs and Awards.md"
     },
     {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
     },
     {
-      "basename": "TOK Exhibition",
-      "path": "TOK Exhibition.md"
+      "basename": "__C++",
+      "path": "__C++.md"
+    },
+    {
+      "basename": "Chapitre 1 - Cinématique",
+      "path": "Chapitre 1 - Cinématique.md"
     },
     {
       "basename": "Global Issue books",
       "path": "Global Issue books.md"
     },
     {
-      "basename": "Chapitre 1 - Cinématique",
-      "path": "Chapitre 1 - Cinématique.md"
+      "basename": "__dashboard",
+      "path": "__dashboard.md"
+    },
+    {
+      "basename": "TOK Exhibition",
+      "path": "TOK Exhibition.md"
     },
     {
       "basename": "_physics",
@@ -147,10 +151,6 @@
     {
       "basename": "Déplacement et Distance parcouru",
       "path": "Déplacement et Distance parcouru.md"
-    },
-    {
-      "basename": "__C++",
-      "path": "__C++.md"
     },
     {
       "basename": "Composants matériels et logiciels d'un réseau sans fil.",
