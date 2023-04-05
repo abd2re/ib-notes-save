@@ -10,8 +10,7 @@
 9.  Are some things unknowable?/
 10.  What is the relationship between personal experience and knowledge?/
 11.  What role do experts play in influencing our consumption or acquisition of knowledge?/
-12.  How important are material tools in the production or acquisition of knowledge?
-13.  How might the context in which knowledge is presented influence whether it is accepted or rejected?
+13.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
 14.  How can we distinguish between knowledge, belief and opinion?
 15.  Does our knowledge depend on our interactions with other knowers?
 16.  Does all knowledge impose ethical obligations on those who know it?
@@ -24,4 +23,4 @@
 23.  In what ways do our values affect our acquisition of knowledge?
 24.  In what ways do values affect the production of knowledge?
 
-objects
+objects must be form the real word  objects must be thr r from the real world
