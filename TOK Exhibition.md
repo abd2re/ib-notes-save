@@ -2,10 +2,8 @@
 2. Are some types of knowledge more useful than others?/
 4.  On what grounds might we doubt a claim?/
 6.  How does the way that we organise or classify knowledge affect what we know?/
-7.  What are the implications of having, or not having, knowledge?
-8.  To what extent is certainty attainable?
-9.  Are some types of knowledge less open to interpretation than others?
-10.  What challenges are raised by the dissemination and/or communication of knowledge?
+7.  What are the implications of having, or not having, knowledge?/
+10.  What challenges are raised by the dissemination and/or communication of knowledge?/
 11.  Can new knowledge change established values or beliefs?
 12.  Is bias inevitable in the production of knowledge?
 13.  How can we know that current knowledge is an improvement upon past knowledge?
