@@ -46,6 +46,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.98611111111111}"
+                },
+                {
+                  "title": "Position relative parabole et droite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Position relative parabole et droite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -74,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position relative parabole et droite.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -241,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Position relative parabole et droite.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Position relative parabole et droite.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Position relative parabole et droite.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -368,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Position relative parabole et droite.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -441,6 +453,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_TOK.md",
+    "Position relative parabole et droite.md",
     "_math.md",
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
@@ -470,8 +484,6 @@
     "Theme 3-Réseaux.md",
     "Activité économique.md",
     "Méthode des dépenses (demande).md",
-    "Méthode du revenu.md",
-    "Theme 2-Macro-économie.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",

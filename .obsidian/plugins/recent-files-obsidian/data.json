@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TOK Exhibition",
+      "path": "TOK Exhibition.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
       "basename": "Position relative parabole et droite",
       "path": "Position relative parabole et droite.md"
     },
@@ -117,10 +125,6 @@
       "path": "TOK work 5.md"
     },
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
       "basename": "Theme 1-Micro-économie",
       "path": "Theme 1-Micro-économie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-03-23 11.01.51.excalidraw",
       "path": "Excalidraw/Drawing 2023-03-23 11.01.51.excalidraw.md"
-    },
-    {
-      "basename": "Vitesse de transmission des données sur un réseau",
-      "path": "Vitesse de transmission des données sur un réseau.md"
     }
   ],
   "omittedPaths": [],
