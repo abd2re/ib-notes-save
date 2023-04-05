@@ -4,7 +4,7 @@
 - Data Science internship at startup
 - Made a website for green energy and climate change, presented it to the school
 - President of Chess club (Organized tournaments) 
-- Founder of Computer Science club (*Helped student with  their websites and applications* and organized local hackathons)
+- Founder of Computer Science club (*Helped student with  their websites and applications* and *organized local hackathons*)
 - Table Tennis player (played in various competitions and won competitions at my school)
 - Math tutoring for 11th grade students
 - Robotics teacher for students in Coding club (Intern)
@@ -16,6 +16,6 @@
 - Volunteering at a local underprivileged school
 - *Tutored underprivileged girls in Senegal on coding*
 - *STEM  summer camp in Canada*
-- *Published research paper on the comparaison of different chess search algorithm in AI *
+- *Published research paper on the comparaison of different chess search algorithm*
 - *France IOI medalist*
 - 
