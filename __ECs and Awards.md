@@ -4,4 +4,7 @@
 - Data Science internship at startup
 - Made a website for green energy and climate change
 - President of Chess club and Computer Science club
-- Won local
+- Won local tennis table competitions at school
+- Won local chess competition at school
+- Math tutoring for 11th grade students
+- Robotics teacher 
