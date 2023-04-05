@@ -102,14 +102,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.666666666666667}"
+                },
+                {
+                  "title": "1-Cinématique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Cinématique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "__ECs and Awards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":103},\"to\":{\"line\":0,\"ch\":103}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__ECs and Awards.md",
-                "mode": "source",
+                "file": "Chapitre 1 - Cinématique.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -275,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Chapitre 1 - Cinématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Chapitre 1 - Cinématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__ECs and Awards.md"
+                "file": "Chapitre 1 - Cinématique.md"
               }
             }
           },
@@ -402,7 +420,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Chapitre 1 - Cinématique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -475,13 +493,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "TOK Exhibition.md",
+    "Vitesse.md",
+    "Chapitre 1 - Cinématique.md",
+    "_physics.md",
+    "Mouvement rectiligne uniforme.md",
     "__ECs and Awards.md",
+    "TOK Exhibition.md",
     "_TOK.md",
     "Position relative parabole et droite.md",
     "_math.md",
-    "Mouvement rectiligne uniforme.md",
-    "_physics.md",
     "Utilisation des aires.md",
     "_french B.md",
     "Global Issue books.md",
@@ -504,8 +524,6 @@
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Theme 2-Architecture des ordinateurs.md",
     "Chapitre 1 - Le CPU et ses éléments.md",
-    "Theme 3-Réseaux.md",
-    "Activité économique.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
