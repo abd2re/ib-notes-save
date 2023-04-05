@@ -1,9 +1,7 @@
 
-2. Are some types of knowledge more useful than others?
-3.  What features of knowledge have an impact on its reliability?
-4.  On what grounds might we doubt a claim?
-5.  What counts as good evidence for a claim?
-6.  How does the way that we organise or classify knowledge affect what we know?
+2. Are some types of knowledge more useful than others?/
+4.  On what grounds might we doubt a claim?/
+6.  How does the way that we organise or classify knowledge affect what we know?/
 7.  What are the implications of having, or not having, knowledge?
 8.  To what extent is certainty attainable?
 9.  Are some types of knowledge less open to interpretation than others?
