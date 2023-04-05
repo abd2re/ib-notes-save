@@ -1,5 +1,5 @@
-1. ~~What counts as knowledge?~~
-2.  Are some types of knowledge more useful than others?
+
+2. Are some types of knowledge more useful than others?
 3.  What features of knowledge have an impact on its reliability?
 4.  On what grounds might we doubt a claim?
 5.  What counts as good evidence for a claim?
