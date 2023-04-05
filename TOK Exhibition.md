@@ -4,8 +4,7 @@
 4.  Is bias inevitable in the production of knowledge?//
 6.  What constraints are there on the pursuit of knowledge?//
 7.  Are some things unknowable?//
-9.  What role do experts play in influencing our consumption or acquisition of knowledge?/
-10.  How might the context in which knowledge is presented influence whether it is accepted or rejected?/
+10.  How might the context in which knowledge is presented influence whether it is accepted or rejected?//
 11.  Does our knowledge depend on our interactions with other knowers?/
 12.  Does all knowledge impose ethical obligations on those who know it?/
 13.  Who owns knowledge?/
