@@ -1,8 +1,6 @@
 
-1. Are some types of knowledge more useful than others?/
-2.  On what grounds might we doubt a claim?/
-3.  How does the way that we organise or classify knowledge affect what we know?/
-4.  What are the implications of having, or not having, knowledge?/
+1. On what grounds might we doubt a claim?//
+4.  What are the implications of having, or not having, knowledge?//
 5.  What challenges are raised by the dissemination and/or communication of knowledge?/
 6.  Is bias inevitable in the production of knowledge?/
 7.  Does some knowledge belong only to particular communities of knowers?/
@@ -18,4 +16,7 @@
 17.  How is current knowledge shaped by its historical development?/
 18.  In what ways do values affect the production of knowledge?/
 
-objects must be form the real word  objects must be thr r from the real world
+objects must be form the real word  objects must be thr r from the real world.
+
+I have to refernce any object used in my exhibition.
+
