@@ -14,4 +14,4 @@ Created: 2023-03-22
 - Trafic
 - Infrastructure
 - Autres facteurs (Problèmes environnementaux, Limitations de l'infrastructure pour des raisons financières, type de données transmises)
-<!--SR:!2023-04-05,7,250-->
+<!--SR:!2023-04-23,18,250-->
