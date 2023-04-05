@@ -16,4 +16,4 @@
 - Volunteering at a local underprivileged school
 - *Tutored underprivileged girls on coding*
 - *STEM  summer camp in Canada*
-- Published research paper on the comparaison of different c
+- Published research paper on the comparaison of different chess search algorithm
