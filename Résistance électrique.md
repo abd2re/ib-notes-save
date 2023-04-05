@@ -15,7 +15,7 @@ $$R=\frac{\rho l}{A}$$
 - $\rho$ est la résistivité du matériau en ohm-metre
 - $l$ est la longueur du fil
 - $A$ est la surface du fil
-<!--SR:!2023-04-05,66,230-->
+<!--SR:!2023-09-04,152,230-->
 
 ## Loi d'Ohm et conducteur ohmique
 

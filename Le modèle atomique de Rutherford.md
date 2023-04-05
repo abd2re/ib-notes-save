@@ -19,7 +19,7 @@ D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant
 Inconvenient du modèle de Rutherford:
 ?
 Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau. 
-<!--SR:!2023-04-05,21,150-->
+<!--SR:!2023-05-07,32,150-->
 
 ### Interaction forte 
 ?
