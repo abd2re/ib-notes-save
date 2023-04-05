@@ -11,4 +11,6 @@
 - EtonX Entrepreneurship + + certificate (school club)
 - Visual and Motion graphic artist with +90k views on YouTube
 - CSA Africa coding contest 2023 gold medalist
-- Valedictorian and modal 
+- Valedictorian and modal student from 9th to 12th
+- 2 weeks Internship at school where I helped install and configure new computers for the IT department
+- 
