@@ -4,8 +4,7 @@
 6.  How does the way that we organise or classify knowledge affect what we know?/
 7.  What are the implications of having, or not having, knowledge?/
 10.  What challenges are raised by the dissemination and/or communication of knowledge?/
-11.  Can new knowledge change established values or beliefs?
-12.  Is bias inevitable in the production of knowledge?
+12.  Is bias inevitable in the production of knowledge?/
 13.  How can we know that current knowledge is an improvement upon past knowledge?
 14.  Does some knowledge belong only to particular communities of knowers?
 15.  What constraints are there on the pursuit of knowledge?
