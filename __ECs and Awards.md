@@ -7,7 +7,7 @@
 - Founder of Computer Science club (*Helped student with  their websites and applications* and organized local hackathons)
 - Table Tennis player (played in various competitions and *won competitions at my school*)
 - Math tutoring for 11th grade students
-- Robotics teacher for students in Coding club (Intern)
+- Robotics and coding teacher for students in Coding club (Intern)
 - EtonX Entrepreneurship + + certificate (school club)
 - Visual and Motion graphic artist with +90k views on YouTube
 - *CSA Africa coding contest 2023 gold medalist*
