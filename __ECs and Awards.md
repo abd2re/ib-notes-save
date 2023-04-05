@@ -11,4 +11,4 @@
 - EtonX Entrepreneurship + + certificate (school club)
 - Visual and Motion graphic artist with +90k views on YouTube
 - CSA Africa coding contest 2023 gold medalist
-- 
+- Valedictorian and modal 
