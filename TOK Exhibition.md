@@ -5,10 +5,8 @@
 7.  What are the implications of having, or not having, knowledge?/
 10.  What challenges are raised by the dissemination and/or communication of knowledge?/
 12.  Is bias inevitable in the production of knowledge?/
-13.  How can we know that current knowledge is an improvement upon past knowledge?
-14.  Does some knowledge belong only to particular communities of knowers?
-15.  What constraints are there on the pursuit of knowledge?
-16.  Should some knowledge not be sought on ethical grounds?
+14.  Does some knowledge belong only to particular communities of knowers?/
+15.  What constraints are there on the pursuit of knowledge?/
 17.  Why do we seek knowledge?
 18.  Are some things unknowable?
 19.  What counts as a good justification for a claim?
