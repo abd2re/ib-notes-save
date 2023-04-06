@@ -1,10 +1,7 @@
 
 1. What are the implications of having, or not having, knowledge?///
-4.  Is bias inevitable in the production of knowledge?//
-6.  What constraints are there on the pursuit of knowledge?//
-7.  Are some things unknowable?//
-10.  How might the context in which knowledge is presented influence whether it is accepted or rejected?//
-11.  Does our knowledge depend on our interactions with other knowers?/
+4.  Is bias inevitable in the production of knowledge?///
+10.  How might the context in which knowledge is presented influence whether it is accepted or rejected?///
 13.  Who owns knowledge?//
 15.  How is current knowledge shaped by its historical development?//
 
