@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Attributs du profil de l'apprenant",
-      "path": "Attributs du profil de l'apprenant.md"
+      "basename": "7 objectifs d'apprentissage CAS",
+      "path": "7 objectifs d'apprentissage CAS.md"
     },
     {
       "basename": "_CAS",
       "path": "_CAS.md"
+    },
+    {
+      "basename": "Attributs du profil de l'apprenant",
+      "path": "Attributs du profil de l'apprenant.md"
     },
     {
       "basename": "__ECs and Awards",
@@ -195,10 +199,6 @@
     {
       "basename": "Réseaux sans fil",
       "path": "Réseaux sans fil.md"
-    },
-    {
-      "basename": "Transmission de données",
-      "path": "Transmission de données.md"
     }
   ],
   "omittedPaths": [],

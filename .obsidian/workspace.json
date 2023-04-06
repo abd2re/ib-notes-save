@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -434,7 +434,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -508,6 +508,7 @@
   },
   "lastOpenFiles": [
     "_CAS.md",
+    "Attributs du profil de l'apprenant.md",
     "__ECs and Awards.md",
     "__Current competitions.md",
     "__C++.md",
@@ -537,7 +538,6 @@
     "assets/Houseboy prompt",
     "Chapitre 1 - Notion de bases.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
