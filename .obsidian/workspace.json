@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Global Issue books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Global Issue books.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -28,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Issue books.md",
-                "mode": "preview",
+                "file": "TOK Exhibition.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -153,8 +159,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -360,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -440,7 +445,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -508,11 +513,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "930efc82d12225cb",
+  "active": "1da8f635dbca0bbc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Global Issue books.md",
+    "_physics.md",
+    "Theme 3- Physique thermique.md",
     "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
     "Attributs du profil de l'apprenant.md",
@@ -521,11 +529,9 @@
     "__C++.md",
     "Chapitre 1 - Cinématique.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
-    "Global Issue books.md",
     "__dashboard.md",
     "TOK Exhibition.md",
     "Vitesse.md",
-    "_physics.md",
     "Mouvement rectiligne uniforme.md",
     "_TOK.md",
     "Position relative parabole et droite.md",
@@ -543,7 +549,6 @@
     "Houseboy.md",
     "Untitled.canvas",
     "assets/Houseboy prompt",
-    "Chapitre 1 - Notion de bases.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
