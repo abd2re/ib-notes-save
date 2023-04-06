@@ -50,7 +50,7 @@ Types de spectres de lumières et représentations:
 <!--SR:!2023-05-13,43,214-->
 
 - Le spectre d'absorption est:: un spectre de la lumière blanche ou il ne figure pas les longueurs d'ondes absorbés pas un élément.
-<!--SR:!2023-04-06,3,166-->
+<!--SR:!2023-04-10,4,166-->
 
 ## Experience de spectre d'absorption
 ?

@@ -17,10 +17,10 @@ $$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
 ## Accélération instantanée
 ?
 Pente de la tangente de la courbe v en fonction de t.
-<!--SR:!2023-04-06,5,230-->
+<!--SR:!2023-04-20,14,230-->
 
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{d\vec{v}}{dt}}$$![[image-20230328090601820.png]]
-<!--SR:!2023-04-06,5,228-->
+<!--SR:!2023-04-17,11,228-->
 
