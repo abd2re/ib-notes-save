@@ -46,6 +46,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "__ECs and Awards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":28},\"to\":{\"line\":7,\"ch\":28}},\"scroll\":0}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -128,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -295,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__ECs and Awards.md"
+                "file": "Attributs du profil de l'apprenant.md"
               }
             }
           },
@@ -422,7 +434,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -495,12 +507,13 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_CAS.md",
+    "__ECs and Awards.md",
     "__Current competitions.md",
     "__C++.md",
     "Chapitre 1 - Cinématique.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "Global Issue books.md",
-    "__ECs and Awards.md",
     "__dashboard.md",
     "TOK Exhibition.md",
     "Vitesse.md",

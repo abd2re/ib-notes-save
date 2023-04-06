@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Attributs du profil de l'apprenant",
+      "path": "Attributs du profil de l'apprenant.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "__ECs and Awards",
       "path": "__ECs and Awards.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Transmission de données",
       "path": "Transmission de données.md"
-    },
-    {
-      "basename": "Commutation de paquets",
-      "path": "Commutation de paquets.md"
-    },
-    {
-      "basename": "Protocoles et paquets de données",
-      "path": "Protocoles et paquets de données.md"
     }
   ],
   "omittedPaths": [],
