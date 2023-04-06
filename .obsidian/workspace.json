@@ -46,6 +46,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "7 objectifs d'apprentissage CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "_CAS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -140,8 +146,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
-                "mode": "source",
+                "file": "_physics.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -307,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -354,7 +360,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -434,7 +440,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -507,6 +513,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
     "Attributs du profil de l'apprenant.md",
     "__ECs and Awards.md",
@@ -537,7 +544,6 @@
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "Chapitre 1 - Notion de bases.md",
-    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
