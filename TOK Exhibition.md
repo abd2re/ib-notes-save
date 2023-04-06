@@ -1,6 +1,5 @@
 
-1. On what grounds might we doubt a claim?//
-2.  What are the implications of having, or not having, knowledge?//
+1. What are the implications of having, or not having, knowledge?///
 4.  Is bias inevitable in the production of knowledge?//
 6.  What constraints are there on the pursuit of knowledge?//
 7.  Are some things unknowable?//
