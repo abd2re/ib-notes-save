@@ -1,1 +1,1 @@
-## Who owsn k
+## Who owns knowledge ?
