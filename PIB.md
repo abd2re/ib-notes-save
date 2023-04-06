@@ -13,7 +13,7 @@ Avantages du PIB (3):
 - **Permet la comparaison entre les pays**
 - **Informe les décideurs**
 - **Donne une indication du revenu moyen**
-<!--SR:!2023-04-06,5,230-->
+<!--SR:!2023-04-18,12,230-->
 
 Inconvénients du PIB (4):
 ?
