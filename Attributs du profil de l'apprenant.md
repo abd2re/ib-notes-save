@@ -5,12 +5,12 @@ tags: [CAS]
 Created: 2022-09-30
 
 *Altruiste*
-Audacieux
+*Audacieux*
 *Chercheur*
 *Communicatif*
 *Equilibre*
-Sensé
+*Sensé*
 *Ouvert d’esprit*
 Informe
 *Intègre*
-Réfléchi
+*Réfléchi*
