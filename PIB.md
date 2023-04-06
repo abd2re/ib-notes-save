@@ -21,7 +21,7 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte de la disparité dans la répartition des revenus**
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
-<!--SR:!2023-04-06,4,210-->
+<!--SR:!2023-04-14,8,210-->
 
 Les trois méthodes de calculer le PIB sont:
 ?

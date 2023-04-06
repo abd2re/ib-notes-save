@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2023-04-06,1,130-->
+<!--SR:!2023-04-07,1,130-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 <!--SR:!2023-04-08,7,250-->
