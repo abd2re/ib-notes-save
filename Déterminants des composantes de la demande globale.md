@@ -8,6 +8,7 @@ Created: 2023-04-07
 Comment les déterminants affecte la courbe ? (représentation):
 ?
 ![[image-20230407093731053.png]]
+<!--SR:!2023-04-10,3,250-->
 
 ## Déterminants de la  consommation
 (7)
