@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Effet taux d'intérêt",
+                  "title": "Effet solde net",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Effet taux d'intérêt.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":262},\"to\":{\"line\":7,\"ch\":262}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Effet solde net.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":308},\"to\":{\"line\":7,\"ch\":308}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -430,10 +430,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Effet taux d'intérêt.md",
-    "Demande globale.md",
-    "Effet richesse.md",
     "assets/Demande globale/image-20230407091450203.png",
+    "Demande globale.md",
+    "Effet solde net.md",
+    "Effet taux d'intérêt.md",
+    "Effet richesse.md",
     "assets/Demande globale",
     "Méthode des dépenses (demande).md",
     "PIB.md",
@@ -461,8 +462,6 @@
     "__dashboard.md",
     "Vitesse.md",
     "Mouvement rectiligne uniforme.md",
-    "_TOK.md",
-    "Position relative parabole et droite.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "assets/Activité économique/image-20230328182846041.png",
     "Untitled.canvas",

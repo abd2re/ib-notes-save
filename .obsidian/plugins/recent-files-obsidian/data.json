@@ -5,6 +5,10 @@
       "path": "Demande globale.md"
     },
     {
+      "basename": "Effet solde net",
+      "path": "Effet solde net.md"
+    },
+    {
       "basename": "Effet taux d'intérêt",
       "path": "Effet taux d'intérêt.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Conservation masse-énergie",
       "path": "Conservation masse-énergie.md"
-    },
-    {
-      "basename": "Local Area Network (LAN)",
-      "path": "Local Area Network (LAN).md"
     }
   ],
   "omittedPaths": [],
