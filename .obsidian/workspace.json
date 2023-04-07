@@ -70,8 +70,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27655a5879b9b455",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +248,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +273,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,9 +292,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Demande globale.md"
-              }
+              "state": {}
             }
           },
           {
@@ -357,7 +371,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,13 +438,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1da8f635dbca0bbc",
+  "active": "27655a5879b9b455",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Demande globale/image-20230407091450203.png",
     "Demande globale.md",
+    "assets/Demande globale/image-20230407091450203.png",
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
