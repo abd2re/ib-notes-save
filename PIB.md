@@ -33,7 +33,7 @@ Les trois méthodes de calculer le PIB sont:
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2023-04-07,4,221-->
+<!--SR:!2023-04-17,10,221-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
@@ -44,7 +44,7 @@ Revenu = Production = Dépenses
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2023-04-08,6,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
-<!--SR:!2023-04-07,4,221-->
+<!--SR:!2023-04-16,9,221-->
 
 ## PNB 
 ?
@@ -68,12 +68,12 @@ $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
 Formule du PIB réel:
 ?
 $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100=\frac{\text{PIB nominal}}{\text{IPC}}\cdot 100}$$
-<!--SR:!2023-04-07,4,221-->
+<!--SR:!2023-04-18,11,221-->
 
 Formule du PNB réel:
 ?
 $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
-<!--SR:!2023-04-07,4,221-->
+<!--SR:!2023-04-15,8,221-->
 
 ## PIB par habitant et PNB par habitant
 Formules:
