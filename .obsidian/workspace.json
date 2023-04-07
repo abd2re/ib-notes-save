@@ -21,7 +21,7 @@
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.973726323971514}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.986528811311912}"
                 },
                 {
                   "title": "TOK Exhibition",
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIB.md",
+                "file": "Theme 2-Macro-économie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIB.md",
+                "file": "Theme 2-Macro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIB.md",
+                "file": "Theme 2-Macro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIB.md"
+                "file": "Theme 2-Macro-économie.md"
               }
             }
           },
@@ -339,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PIB.md",
+                "file": "Theme 2-Macro-économie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,7 +412,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Theme 2-Macro-économie.md",
     "_economy.md",
+    "PIB.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition/image-20230407071818467.png",
@@ -441,8 +444,6 @@
     "assets/Houseboy prompt/image-20230402151157811.png",
     "_english.md",
     "Houseboy prompt.md",
-    "_computer science.md",
-    "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
     "Untitled.canvas",
     "assets/Houseboy prompt",
