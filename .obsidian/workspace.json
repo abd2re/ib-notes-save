@@ -11,17 +11,17 @@
             "id": "1da8f635dbca0bbc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Déterminants des composantes de la demande globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0.01694915254237288}"
                 },
                 {
                   "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_computer science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -429,8 +429,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Déterminants des composantes de la demande globale.md",
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Déterminants des composantes de la demande globale/image-20230407093732063.png",
     "assets/Déterminants des composantes de la demande globale",
     "Demande globale.md",
