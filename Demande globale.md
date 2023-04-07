@@ -11,4 +11,9 @@ La demande globale (DA) est la demande totale de biens et de services produits d
 Formule de la demande globale:
 ?
 $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
-(mé)
+(méthode de dépense du PIB)
+
+Forme de la courbe de demande globale
+?
+![[image-20230407091450203.png]]
+
