@@ -11,8 +11,14 @@
             "id": "1da8f635dbca0bbc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Effet taux d'intérêt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Effet taux d'intérêt.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":262},\"to\":{\"line\":7,\"ch\":262}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -59,7 +65,7 @@
               "type": "markdown",
               "state": {
                 "file": "Demande globale.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -424,10 +430,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Effet taux d'intérêt.md",
+    "Demande globale.md",
+    "Effet richesse.md",
     "assets/Demande globale/image-20230407091450203.png",
     "assets/Demande globale",
     "Méthode des dépenses (demande).md",
-    "Demande globale.md",
     "PIB.md",
     "_economy.md",
     "Activité économique.md",
@@ -455,7 +463,6 @@
     "Mouvement rectiligne uniforme.md",
     "_TOK.md",
     "Position relative parabole et droite.md",
-    "_math.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "assets/Activité économique/image-20230328182846041.png",
     "Untitled.canvas",
@@ -464,7 +471,6 @@
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "assets/Mouvement rectiligne uniforme",
     "assets/Utilisation des aires/image-20230328093918736.png",
-    "assets/Utilisation des aires/image-20230330155417127.png",
     "assets/Activité économique",
     "assets/Utilisation des aires",
     "assets/Accélération",

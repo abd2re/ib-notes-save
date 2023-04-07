@@ -5,6 +5,14 @@
       "path": "Demande globale.md"
     },
     {
+      "basename": "Effet taux d'intérêt",
+      "path": "Effet taux d'intérêt.md"
+    },
+    {
+      "basename": "Effet richesse",
+      "path": "Effet richesse.md"
+    },
+    {
       "basename": "Méthode des dépenses (demande)",
       "path": "Méthode des dépenses (demande).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Local Area Network (LAN)",
       "path": "Local Area Network (LAN).md"
-    },
-    {
-      "basename": "Chapitre 2 - System design basics",
-      "path": "Chapitre 2 - System design basics.md"
-    },
-    {
-      "basename": "Chapitre 1 - Les systèmes dans les organisations",
-      "path": "Chapitre 1 - Les systèmes dans les organisations.md"
     }
   ],
   "omittedPaths": [],

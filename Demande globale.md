@@ -20,4 +20,5 @@ Forme de la courbe de demande globale:
 Trois raisons expliquent la pente négative de la courbe de demande globale :
 ?
 - L'[[Effet richesse]]
-- L
+- L'[[Effet taux d'intérêt]]
+- L'[[Effet solde net]]
