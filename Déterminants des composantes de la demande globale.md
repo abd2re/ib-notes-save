@@ -10,16 +10,13 @@ Comment les déterminants affecte la courbe ? (représentation):
 ![[image-20230407093731053.png]]
 
 ## Déterminants de la  consommation
+(5)
 ?
 - **Confiance**
 - **Chômage**
-- **
-
-Taux d'intérêt réels
-
-
-
-**
+- **Taux d'intérêt réels**
+- **Richesse**
+- **Impôts personnels**
 
 
 
