@@ -80,12 +80,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.008418778505538}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Loi de la demande.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -248,6 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,6 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +305,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Loi de la demande.md"
+              }
             }
           },
           {
@@ -371,6 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Loi de la demande.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -443,6 +459,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_economy.md",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Effet solde net.md",
@@ -451,7 +468,6 @@
     "assets/Demande globale",
     "Méthode des dépenses (demande).md",
     "PIB.md",
-    "_economy.md",
     "Activité économique.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "Theme 2-Macro-économie.md",

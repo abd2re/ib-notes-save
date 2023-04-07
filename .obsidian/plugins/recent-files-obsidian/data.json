@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Loi de la demande",
+      "path": "Loi de la demande.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Demande globale",
       "path": "Demande globale.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "PIB",
       "path": "PIB.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Activité économique",
@@ -195,10 +199,6 @@
     {
       "basename": "Energie de liaison du noyau",
       "path": "Energie de liaison du noyau.md"
-    },
-    {
-      "basename": "Conservation masse-énergie",
-      "path": "Conservation masse-énergie.md"
     }
   ],
   "omittedPaths": [],
