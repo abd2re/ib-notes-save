@@ -10,7 +10,7 @@ Created: 2022-10-17
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 
 <!--SR:!2023-08-03,178,250-->
  4. Chiasmus :: is the inversion of parts of sentences in sequence. Such as "fair is fool and fool is fair" 
-<!--SR:!2023-04-07,6,211-->
+<!--SR:!2023-04-22,15,211-->
 
 <!--SR:!2023-07-20,167,250-->
  5. Anadiplosis :: is the repetition of the last word of sentence as the first word of the next sentence. Such as "They call for you the general who became a slave; the slave who became a gladiator; the gladiator that defied an imperial" 
