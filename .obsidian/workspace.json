@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.973726323971514}"
+                },
+                {
+                  "title": "TOK Exhibition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}},\"scroll\":5.512980919612136}"
+                },
+                {
                   "title": "Global Issue books",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Global Issue books.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -34,126 +46,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "PIB.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "930efc82d12225cb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "7 objectifs d'apprentissage CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "__ECs and Awards",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":28},\"to\":{\"line\":7,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "__C++",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__C++.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "__ECs and Awards",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":18},\"to\":{\"line\":19,\"ch\":18}}}"
-                },
-                {
-                  "title": "__dashboard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":22.37037037037037}"
-                },
-                {
-                  "title": "__ECs and Awards",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5308641975308643}"
-                },
-                {
-                  "title": "TOK Exhibition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.98611111111111}"
-                },
-                {
-                  "title": "Position relative parabole et droite",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Position relative parabole et droite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mouvement rectiligne uniforme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement rectiligne uniforme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.296296296296296}"
-                },
-                {
-                  "title": "_french B",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_physics.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -318,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -365,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "PIB.md"
               }
             }
           },
@@ -445,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "PIB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -518,6 +412,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_economy.md",
+    "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition/image-20230407071818467.png",
     "assets/TOK Exhibition/image-20230406193359408.png",
@@ -534,7 +430,6 @@
     "Chapitre 1 - Cinématique.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "__dashboard.md",
-    "TOK Exhibition.md",
     "Vitesse.md",
     "Mouvement rectiligne uniforme.md",
     "_TOK.md",
@@ -549,7 +444,6 @@
     "_computer science.md",
     "PIB.md",
     "assets/Activité économique/image-20230328182846041.png",
-    "_economy.md",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Activité économique/image-20230328180344539.png",
@@ -557,7 +451,6 @@
     "assets/Mouvement rectiligne uniforme",
     "assets/Utilisation des aires/image-20230328093918736.png",
     "assets/Utilisation des aires/image-20230330155417127.png",
-    "assets/Utilisation des aires/image-20230330155358977.png",
     "assets/Activité économique",
     "assets/Utilisation des aires",
     "assets/Accélération",
