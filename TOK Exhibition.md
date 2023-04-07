@@ -1,5 +1,6 @@
 # Should some knowledge not be sought on ethical grounds?
 - Nuclear bombs
+- MKultra
 - Gain of function research
 
 ![[image-20230406193359408.png|500]]
