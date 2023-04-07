@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Effet solde net",
+                  "title": "Demande globale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Effet solde net.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":308},\"to\":{\"line\":7,\"ch\":308}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande globale.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -405,8 +405,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410,
-    "collapsed": true
+    "width": 410
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -430,8 +429,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Demande globale/image-20230407091450203.png",
     "Demande globale.md",
+    "Déterminants des composantes de la demande globale.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "assets/Demande globale/image-20230407091450203.png",
     "Loi de la demande.md",
     "assets/Loi de la demande/Loi de la demande.png",
     "_economy.md",
@@ -442,7 +443,6 @@
     "Méthode des dépenses (demande).md",
     "PIB.md",
     "Activité économique.md",
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "Theme 2-Macro-économie.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "TOK Exhibition.md",
