@@ -13,7 +13,11 @@ Formule de la demande globale:
 $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 (méthode de dépense du PIB)
 
-Forme de la courbe de demande globale
+Forme de la courbe de demande globale:
 ?
 ![[image-20230407091450203.png]]
 
+Trois raisons expliquent la pente négative de la courbe de demande globale :
+?
+- L'[[Effet richesse]]
+- L
