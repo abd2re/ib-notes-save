@@ -101,6 +101,34 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f9a963ef744d72b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3eeb35ba0fd41a7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loi de la demande.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -454,7 +482,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27655a5879b9b455",
+  "active": "f3eeb35ba0fd41a7",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
