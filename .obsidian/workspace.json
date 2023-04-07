@@ -64,8 +64,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d863620c150b5861",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.357755731331277}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activité économique.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande globale.md"
+                "file": "Activité économique.md"
               }
             }
           },
@@ -351,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Activité économique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -419,17 +448,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1da8f635dbca0bbc",
+  "active": "d863620c150b5861",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "Demande globale.md",
-    "Theme 2-Macro-économie.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "_economy.md",
     "PIB.md",
+    "Demande globale.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "Theme 2-Macro-économie.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition/image-20230407071818467.png",
