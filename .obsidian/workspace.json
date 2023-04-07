@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Demande globale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Macro-économie.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -339,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
+                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,8 +424,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "Demande globale.md",
     "Theme 2-Macro-économie.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "_economy.md",
     "PIB.md",
     "TOK Exhibition.md",
@@ -442,8 +456,6 @@
     "_french B.md",
     "Analyzing poems.md",
     "assets/Houseboy prompt/image-20230402151157811.png",
-    "_english.md",
-    "Houseboy prompt.md",
     "assets/Activité économique/image-20230328182846041.png",
     "Untitled.canvas",
     "assets/Houseboy prompt",
