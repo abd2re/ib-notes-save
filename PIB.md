@@ -28,7 +28,7 @@ Les trois méthodes de calculer le PIB sont:
 - [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses (demande)]]
-<!--SR:!2023-04-07,5,241-->
+<!--SR:!2023-04-21,14,241-->
 
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
