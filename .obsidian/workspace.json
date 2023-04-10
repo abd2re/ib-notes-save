@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Pensée informatique, résolution de problèmes et programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -70,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -236,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
+                "file": "Chapitre 2 - Pensée computationnelle.md"
               }
             }
           },
@@ -363,7 +369,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -435,8 +441,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Notion de problème.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+    "Chapitre 2 - Pensée computationnelle.md",
+    "Notion de problème.md",
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
     "Algorithme.md",
@@ -472,7 +479,6 @@
     "_physics.md",
     "Theme 3- Physique thermique.md",
     "7 objectifs d'apprentissage CAS.md",
-    "_CAS.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "Untitled.canvas",
     "assets/Houseboy prompt",

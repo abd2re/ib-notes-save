@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapitre 2 - Pensée computationnelle",
+      "path": "Chapitre 2 - Pensée computationnelle.md"
+    },
+    {
       "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
       "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Accélération",
       "path": "Accélération.md"
-    },
-    {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
     }
   ],
   "omittedPaths": [],
