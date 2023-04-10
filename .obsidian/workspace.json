@@ -11,17 +11,17 @@
             "id": "1da8f635dbca0bbc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Raisonnement simultané",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement simultané.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 2 - Pensée computationnelle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
@@ -82,8 +82,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement simultané.md",
-                "mode": "source",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement simultané.md"
+                "file": "Chapitre 2 - Pensée computationnelle.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement simultané.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -447,8 +447,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement simultané.md",
+    "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement par anticipation.md",
     "Algorithme.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
