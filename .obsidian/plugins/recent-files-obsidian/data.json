@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Raisonnement simultané",
+      "path": "Raisonnement simultané.md"
+    },
+    {
+      "basename": "Chapitre 2 - Pensée computationnelle",
+      "path": "Chapitre 2 - Pensée computationnelle.md"
+    },
+    {
       "basename": "Raisonnement par anticipation",
       "path": "Raisonnement par anticipation.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Chapitre 2 - Pensée computationnelle",
-      "path": "Chapitre 2 - Pensée computationnelle.md"
     },
     {
       "basename": "Raisonnement logique",
@@ -195,10 +199,6 @@
     {
       "basename": "Compression des données dans un réseau",
       "path": "Compression des données dans un réseau.md"
-    },
-    {
-      "basename": "image-20230323174214650",
-      "path": "assets/Compression des données dans un réseau/image-20230323174214650.png"
     }
   ],
   "omittedPaths": [],
