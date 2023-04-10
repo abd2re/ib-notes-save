@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-04-09,4,190-->
+<!--SR:!2023-04-19,10,190-->
 
 Avantages du PIB (3):
 ?
@@ -37,19 +37,19 @@ Revenu = Production = Dépenses
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
-<!--SR:!2023-04-08,4,201-->
+<!--SR:!2023-04-16,8,201-->
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
 <!--SR:!2023-04-18,11,221-->
 
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
-<!--SR:!2023-04-08,6,241-->
+<!--SR:!2023-04-24,16,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
 <!--SR:!2023-04-16,9,221-->
 
 ## PNB 
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2023-04-08,6,241-->
+<!--SR:!2023-04-22,14,241-->
 
 Différence entre PIB et PNB:
 ?
@@ -61,7 +61,7 @@ Différence entre PIB et PNB:
 Formule du PNB:
 ?
 $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
-<!--SR:!2023-04-08,6,241-->
+<!--SR:!2023-04-24,16,241-->
 
 ## Produit intérieur brut (PIB) nominal et revenu national brut (RNB) nominal
 

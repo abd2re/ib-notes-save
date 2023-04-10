@@ -31,7 +31,7 @@ $$I=nqAv$$
 - $I$ = intensité du courant en $A$
 - $q$ = charge des porteurs de charges en $c$
 - $n$ = nombre de porteurs de charge par unité de volume en $m^{-3}$
-<!--SR:!2023-04-08,62,208-->
+<!--SR:!2023-08-16,130,208-->
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité**:: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité

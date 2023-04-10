@@ -6,10 +6,10 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2023-04-09,2,150-->
+<!--SR:!2023-04-12,3,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
-<!--SR:!2023-04-08,7,250-->
+<!--SR:!2023-04-26,18,250-->
 
 ## Circuit économique
 (représentation économie ouverte)
@@ -53,8 +53,8 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si S < I $\rightarrow$:: Il faut emprunter
 <!--SR:!2023-04-14,9,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes
-<!--SR:!2023-04-09,8,250-->
+<!--SR:!2023-04-29,20,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
-<!--SR:!2023-04-09,8,250-->
+<!--SR:!2023-05-01,22,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
-<!--SR:!2023-04-08,7,250-->
+<!--SR:!2023-04-25,17,250-->
