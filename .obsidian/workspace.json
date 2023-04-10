@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement logique.md"
+                "file": "Raisonnement par anticipation.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -448,6 +448,7 @@
   },
   "lastOpenFiles": [
     "Chapitre 2 - Pensée computationnelle.md",
+    "Raisonnement par anticipation.md",
     "Raisonnement logique.md",
     "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230410181642994.png",
@@ -486,7 +487,6 @@
     "assets/TOK Exhibition/image-20230406193359408.png",
     "assets/TOK Exhibition",
     "Global Issue books.md",
-    "_physics.md",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Mouvement rectiligne uniforme",

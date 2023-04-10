@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Raisonnement logique",
-      "path": "Raisonnement logique.md"
+      "basename": "Raisonnement par anticipation",
+      "path": "Raisonnement par anticipation.md"
     },
     {
       "basename": "Chapitre 2 - Pensée computationnelle",
       "path": "Chapitre 2 - Pensée computationnelle.md"
+    },
+    {
+      "basename": "Raisonnement logique",
+      "path": "Raisonnement logique.md"
     },
     {
       "basename": "Raisonnement procédural",
@@ -195,10 +199,6 @@
     {
       "basename": "TOK work 5",
       "path": "TOK work 5.md"
-    },
-    {
-      "basename": "Theme 1-Micro-économie",
-      "path": "Theme 1-Micro-économie.md"
     }
   ],
   "omittedPaths": [],
