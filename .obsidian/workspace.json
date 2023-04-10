@@ -11,29 +11,17 @@
             "id": "1da8f635dbca0bbc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Organigrammes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organigrammes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.135802469135802}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 1 - Notion de bases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Notion de bases.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.772432257017687}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":72},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":17.9671426253448}"
                 },
                 {
                   "title": "Déterminants des composantes de la demande globale",
@@ -82,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
               }
             }
           },
@@ -375,7 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -447,13 +435,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Notion de problème.md",
+    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+    "_computer science.md",
+    "Chapitre 1 - Notion de bases.md",
+    "Algorithme.md",
     "Organigrammes.md",
     "assets/Organigrammes/image-20230410181149865.png",
     "assets/Organigrammes/image-20221118104345563.png",
-    "Algorithme.md",
-    "Chapitre 1 - Notion de bases.md",
-    "Notion de problème.md",
-    "_computer science.md",
     "Changements dans un environment.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
