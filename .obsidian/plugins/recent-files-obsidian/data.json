@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Raisonnement procédural",
+      "path": "Raisonnement procédural.md"
+    },
+    {
       "basename": "Chapitre 2 - Pensée computationnelle",
       "path": "Chapitre 2 - Pensée computationnelle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Comparaison of Houseboy and King Lear",
       "path": "Comparaison of Houseboy and King Lear.md"
-    },
-    {
-      "basename": "Accélération",
-      "path": "Accélération.md"
     }
   ],
   "omittedPaths": [],

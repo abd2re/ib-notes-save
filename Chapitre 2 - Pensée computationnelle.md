@@ -3,4 +3,4 @@ tags: [MOC]
 ---
 
 # Chapitre 2 - Pensée computationnelle
-1. 
+1. [[Raisonnement procédural]]
