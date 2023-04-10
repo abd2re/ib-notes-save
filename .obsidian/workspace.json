@@ -4,85 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "461aad4ce1609aaa",
+        "id": "52d03d5552cc94c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1da8f635dbca0bbc",
+            "id": "19a1e8b652201c14",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Raisonnement simultané",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement simultané.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Pensée informatique, résolution de problèmes et programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":72},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":17.9671426253448}"
-                },
-                {
-                  "title": "Déterminants des composantes de la demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0.01694915254237288}"
-                },
-                {
-                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.986528811311912}"
-                },
-                {
-                  "title": "TOK Exhibition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}},\"scroll\":5.512980919612136}"
-                },
-                {
-                  "title": "Global Issue books",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Global Issue books.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.416787264833575}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "_computer science.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -248,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -375,7 +315,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -442,13 +382,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1da8f635dbca0bbc",
+  "active": "19a1e8b652201c14",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Raisonnement simultané.md",
+    "Chapitre 1 - Notion de bases.md",
+    "_computer science.md",
     "Chapitre 2 - Pensée computationnelle.md",
+    "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
     "Algorithme.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
@@ -460,8 +402,6 @@
     "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230410181642994.png",
     "assets/Raisonnement procédural",
-    "_computer science.md",
-    "Chapitre 1 - Notion de bases.md",
     "Organigrammes.md",
     "assets/Organigrammes/image-20230410181149865.png",
     "assets/Organigrammes/image-20221118104345563.png",
