@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Raisonnement procédural",
-      "path": "Raisonnement procédural.md"
+      "basename": "Raisonnement logique",
+      "path": "Raisonnement logique.md"
     },
     {
       "basename": "Chapitre 2 - Pensée computationnelle",
       "path": "Chapitre 2 - Pensée computationnelle.md"
+    },
+    {
+      "basename": "Raisonnement procédural",
+      "path": "Raisonnement procédural.md"
     },
     {
       "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
@@ -195,10 +199,6 @@
     {
       "basename": "Theme 1-Micro-économie",
       "path": "Theme 1-Micro-économie.md"
-    },
-    {
-      "basename": "Comparaison of Houseboy and King Lear",
-      "path": "Comparaison of Houseboy and King Lear.md"
     }
   ],
   "omittedPaths": [],

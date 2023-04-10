@@ -21,7 +21,7 @@
                   "title": "Chapitre 2 - Pensée computationnelle",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement procédural.md"
+                "file": "Raisonnement logique.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -447,10 +447,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 2 - Pensée computationnelle.md",
+    "Raisonnement logique.md",
+    "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230410181642994.png",
     "assets/Raisonnement procédural",
-    "Chapitre 2 - Pensée computationnelle.md",
-    "Raisonnement procédural.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "Notion de problème.md",
     "_computer science.md",
@@ -486,7 +487,6 @@
     "assets/TOK Exhibition",
     "Global Issue books.md",
     "_physics.md",
-    "assets/Houseboy prompt/image-20230402151107694.png",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Mouvement rectiligne uniforme",
