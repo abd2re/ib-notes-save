@@ -76,8 +76,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aef565994b4355b8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion de problème.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Notion de bases.md",
+                "file": "Notion de problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Notion de bases.md",
+                "file": "Notion de problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Notion de bases.md"
+                "file": "Notion de problème.md"
               }
             }
           },
@@ -363,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Notion de bases.md",
+                "file": "Notion de problème.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,11 +453,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1da8f635dbca0bbc",
+  "active": "aef565994b4355b8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Notion de bases.md",
+    "Notion de problème.md",
     "_computer science.md",
     "Changements dans un environment.md",
     "Déterminants des composantes de la demande globale.md",
@@ -469,8 +494,6 @@
     "Attributs du profil de l'apprenant.md",
     "__ECs and Awards.md",
     "__Current competitions.md",
-    "__C++.md",
-    "Chapitre 1 - Cinématique.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
     "assets/Houseboy prompt/image-20230402151157811.png",
     "assets/Activité économique/image-20230328182846041.png",

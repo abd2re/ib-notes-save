@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Notion de problème",
+      "path": "Notion de problème.md"
+    },
+    {
       "basename": "Chapitre 1 - Notion de bases",
       "path": "Chapitre 1 - Notion de bases.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Composants matériels et logiciels d'un réseau sans fil.",
       "path": "Composants matériels et logiciels d'un réseau sans fil..md"
-    },
-    {
-      "basename": "Caractéristiques des différents supports de transmission",
-      "path": "Caractéristiques des différents supports de transmission.md"
     }
   ],
   "omittedPaths": [],
