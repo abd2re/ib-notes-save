@@ -5,6 +5,10 @@
       "path": "Raisonnement par anticipation.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Chapitre 2 - Pensée computationnelle",
       "path": "Chapitre 2 - Pensée computationnelle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "image-20230323174214650",
       "path": "assets/Compression des données dans un réseau/image-20230323174214650.png"
-    },
-    {
-      "basename": "TOK work 5",
-      "path": "TOK work 5.md"
     }
   ],
   "omittedPaths": [],
