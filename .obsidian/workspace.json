@@ -11,17 +11,17 @@
             "id": "1da8f635dbca0bbc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Organigrammes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organigrammes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":9.135802469135802}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Algorithme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Algorithme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":13},\"to\":{\"line\":20,\"ch\":13}}}"
                 },
                 {
                   "title": "Chapitre 1 - Notion de bases",
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organigrammes.md",
+                "file": "Algorithme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organigrammes.md",
+                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organigrammes.md",
+                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organigrammes.md"
+                "file": "Algorithme.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organigrammes.md",
+                "file": "Algorithme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -447,6 +447,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Organigrammes.md",
+    "assets/Organigrammes/image-20230410181149865.png",
+    "assets/Organigrammes/image-20221118104345563.png",
     "Algorithme.md",
     "Chapitre 1 - Notion de bases.md",
     "Notion de problème.md",
@@ -481,11 +484,7 @@
     "Theme 3- Physique thermique.md",
     "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
-    "Attributs du profil de l'apprenant.md",
-    "__ECs and Awards.md",
     "assets/Houseboy prompt/image-20230402151107694.png",
-    "assets/Houseboy prompt/image-20230402151157811.png",
-    "assets/Activité économique/image-20230328182846041.png",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Mouvement rectiligne uniforme",
