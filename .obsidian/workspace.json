@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Algorithme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Algorithme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":13},\"to\":{\"line\":20,\"ch\":13}}}"
+                },
+                {
                   "title": "Chapitre 1 - Notion de bases",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Notion de bases.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -76,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Organigrammes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Organigrammes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Organigrammes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "Organigrammes.md"
               }
             }
           },
@@ -369,7 +375,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Organigrammes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -441,8 +447,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Notion de bases.md",
     "Algorithme.md",
+    "Chapitre 1 - Notion de bases.md",
     "Notion de problème.md",
     "_computer science.md",
     "Changements dans un environment.md",

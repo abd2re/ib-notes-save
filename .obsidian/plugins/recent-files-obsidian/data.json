@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Organigrammes",
+      "path": "Organigrammes.md"
+    },
+    {
       "basename": "Algorithme",
       "path": "Algorithme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitesse",
       "path": "Vitesse.md"
-    },
-    {
-      "basename": "Déplacement et Distance parcouru",
-      "path": "Déplacement et Distance parcouru.md"
     }
   ],
   "omittedPaths": [],

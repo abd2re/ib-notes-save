@@ -11,11 +11,12 @@ Un algorithme est une série d'instructions non ambiguës conçues pour résoudr
 - finitude
 - définition
 - entrées/intrants
-- sortie, efficacité.
+- sortie
+- efficacité
 
 Un algorithme peut être exprimé de plusieurs manières, notamment:
 ?
 - le langage naturel
-- organigramme
+- [[Organigrammes]]
 - pseudo-code
 - langage de programmation.
