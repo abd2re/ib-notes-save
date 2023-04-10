@@ -56,7 +56,7 @@ Différence entre PIB et PNB:
 - PNB tout ce qui appartient aux nationaux
 - PIB tout ce qui est produit a l'intérieur du pays
 ![[image-20230328182846041.png|475]]
-<!--SR:!2023-04-10,9,250-->
+<!--SR:!2023-05-05,25,250-->
 
 Formule du PNB:
 ?

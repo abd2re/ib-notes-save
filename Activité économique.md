@@ -15,7 +15,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 (représentation économie ouverte)
 ?
 ![[image-20230328180344539.png]]
-<!--SR:!2023-04-10,9,250-->
+<!--SR:!2023-05-04,24,250-->
 
 - Autarcie =:: économie fermée
 <!--SR:!2023-04-12,11,270-->

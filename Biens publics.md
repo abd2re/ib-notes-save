@@ -23,7 +23,7 @@ Un bien privé a deux caractéristiques:
 - Ressources du pool commun=> ::Rival et Non-exclusif
 <!--SR:!2023-04-12,21,250-->
 - Articles de club=> ::Non-rival et Exclusif
-<!--SR:!2023-04-10,19,250-->
+<!--SR:!2023-06-01,52,250-->
 - Biens publics=> Non-rival et Non-exclusif
 
 ## Le problème du passager clandestin
