@@ -5,6 +5,14 @@
       "path": "Raisonnement par anticipation.md"
     },
     {
+      "basename": "Algorithme",
+      "path": "Algorithme.md"
+    },
+    {
+      "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+      "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -21,20 +29,12 @@
       "path": "Raisonnement procédural.md"
     },
     {
-      "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
-      "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
       "basename": "Chapitre 1 - Notion de bases",
       "path": "Chapitre 1 - Notion de bases.md"
-    },
-    {
-      "basename": "Algorithme",
-      "path": "Algorithme.md"
     },
     {
       "basename": "Organigrammes",
