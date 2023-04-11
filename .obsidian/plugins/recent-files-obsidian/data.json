@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chute libre",
+      "path": "Chute libre.md"
+    },
+    {
+      "basename": "Chapitre 1 - Cinématique",
+      "path": "Chapitre 1 - Cinématique.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -141,10 +149,6 @@
       "path": "__C++.md"
     },
     {
-      "basename": "Chapitre 1 - Cinématique",
-      "path": "Chapitre 1 - Cinématique.md"
-    },
-    {
       "basename": "__dashboard",
       "path": "__dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
-    },
-    {
-      "basename": "Compression des données dans un réseau",
-      "path": "Compression des données dans un réseau.md"
     }
   ],
   "omittedPaths": [],

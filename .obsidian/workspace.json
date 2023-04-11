@@ -18,10 +18,16 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 1 - Cinématique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":8.748745819397993}"
+                  "eState": "{\"scroll\":3.204081632653061}"
                 },
                 {
                   "title": "_computer science",
@@ -34,32 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
-                "mode": "preview",
+                "file": "Chute libre.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "8594e544b4c08613",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Chute libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Chute libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Chute libre.md"
               }
             }
           },
@@ -345,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Chute libre.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,15 +400,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "339a9aff0703aa6f",
+  "active": "19a1e8b652201c14",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chute libre.md",
+    "Chapitre 1 - Cinématique.md",
+    "_physics.md",
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Theme 3- Physique thermique.md",
-    "_physics.md",
     "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
     "Chapitre 2 - Pensée computationnelle.md",
@@ -454,7 +444,6 @@
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
     "assets/Demande globale",
-    "Méthode des dépenses (demande).md",
     "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition",
     "Untitled.canvas",
