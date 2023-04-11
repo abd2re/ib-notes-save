@@ -14,4 +14,4 @@ $$\text{PIB} = C + I + G + (X-M) = \text{Consommation + Investissement + Dépens
 <!--SR:!2023-04-28,18,250-->
 
 - Si on a une économie en autarcie alors pour la formule du PIB avec méthodes dépenses on élimine :: l'exportation nette (exportation et importation)
-<!--SR:!2023-04-11,8,250-->
+<!--SR:!2023-05-02,21,250-->
