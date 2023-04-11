@@ -14,7 +14,7 @@ Les organigrammes de systèmes sont fréquemment construits pendant les activit�
 ?
 ![[image-20230410181149865.png]]
 ![[image-20221118104345563.png]]
-<!--SR:!2023-04-11,83,230-->
+<!--SR:!2023-10-25,197,230-->
 
 ![[image-20221118104348265.png]]
 
