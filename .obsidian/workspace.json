@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chute libre.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -405,6 +405,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Chute libre/image-20230411094012047.png",
+    "assets/Chute libre/image-20230411094004531.png",
+    "assets/Chute libre/image-20230411093932682.png",
+    "assets/Chute libre/image-20230411093929840.png",
+    "assets/Chute libre",
     "Chute libre.md",
     "Chapitre 1 - Cinématique.md",
     "_physics.md",
@@ -436,21 +441,16 @@
     "assets/Déterminants des composantes de la demande globale",
     "Demande globale.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "assets/Demande globale/image-20230407091450203.png",
     "Loi de la demande.md",
-    "assets/Loi de la demande/Loi de la demande.png",
     "_economy.md",
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
-    "Effet richesse.md",
     "assets/Demande globale",
-    "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition",
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Mouvement rectiligne uniforme",
     "assets/Activité économique",
-    "assets/Utilisation des aires",
-    "assets/Accélération"
+    "assets/Utilisation des aires"
   ]
 }
