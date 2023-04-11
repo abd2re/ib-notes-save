@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chute libre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chute libre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Chapitre 1 - Cinématique",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chute libre.md",
+                "file": "Peace act structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -206,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chute libre.md",
+                "file": "Peace act structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chute libre.md",
+                "file": "Peace act structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chute libre.md"
+                "file": "Peace act structure.md"
               }
             }
           },
@@ -333,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chute libre.md",
+                "file": "Peace act structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -405,12 +411,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chute libre.md",
     "assets/Chute libre/image-20230411094012047.png",
     "assets/Chute libre/image-20230411094004531.png",
     "assets/Chute libre/image-20230411093932682.png",
     "assets/Chute libre/image-20230411093929840.png",
     "assets/Chute libre",
-    "Chute libre.md",
     "Chapitre 1 - Cinématique.md",
     "_physics.md",
     "Mouvement rectiligne uniforme.md",
@@ -437,7 +443,6 @@
     "Changements dans un environment.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
-    "assets/Déterminants des composantes de la demande globale/image-20230407093732063.png",
     "assets/Déterminants des composantes de la demande globale",
     "Demande globale.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
