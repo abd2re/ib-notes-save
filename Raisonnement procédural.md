@@ -1,6 +1,7 @@
 ---
 tags: [computer_science] 
 ---
+
 Quelles sont les 5 types de raisonnement:
 ?
 - Raisonnement procédural
@@ -20,3 +21,4 @@ Created: 2023-04-10
 ## Sous processus
 ?
 Un sous-processus ou sous-procédure est une partie nommée d'un processus plus large. Ce sous-processus peut être appelé plusieurs fois, comme une fonction. Un sous-processus accepte des données d'entrée, les traite et renvoie un résultat.
+<!--SR:!2023-04-12,1,230-->
