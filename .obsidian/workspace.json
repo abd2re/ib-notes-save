@@ -40,8 +40,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8594e544b4c08613",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -327,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -394,13 +412,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19a1e8b652201c14",
+  "active": "339a9aff0703aa6f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Mouvement rectiligne uniforme.md",
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Theme 3- Physique thermique.md",
     "_physics.md",
     "_computer science.md",
