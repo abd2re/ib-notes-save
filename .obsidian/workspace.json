@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Peace act structure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Peace act structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Chute libre",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chute libre.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -46,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peace act structure.md",
+                "file": "Algorithme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peace act structure.md",
+                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peace act structure.md",
+                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peace act structure.md"
+                "file": "Algorithme.md"
               }
             }
           },
@@ -339,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Peace act structure.md",
+                "file": "Algorithme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,6 +417,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Peace act structure.md",
     "Chute libre.md",
     "assets/Chute libre/image-20230411094012047.png",
     "assets/Chute libre/image-20230411094004531.png",
