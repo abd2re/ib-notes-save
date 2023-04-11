@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":8.748745819397993}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -315,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -387,8 +399,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Notion de bases.md",
+    "Theme 3- Physique thermique.md",
+    "_physics.md",
     "_computer science.md",
+    "Chapitre 1 - Notion de bases.md",
     "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
@@ -423,8 +437,6 @@
     "Méthode des dépenses (demande).md",
     "PIB.md",
     "Activité économique.md",
-    "Theme 2-Macro-économie.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "assets/TOK Exhibition/image-20230407072847881.png",
     "assets/TOK Exhibition/image-20230407071818467.png",
     "assets/TOK Exhibition",
