@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Raisonnement abstrait",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
+                },
+                {
                   "title": "Chapitre 2 - Pensée computationnelle",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -32,13 +38,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raisonnement abstrait.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -200,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement abstrait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement abstrait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,9 +245,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Raisonnement abstrait.md"
-              }
+              "state": {}
             }
           },
           {
@@ -327,7 +324,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement abstrait.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -399,8 +395,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Pensée computationnelle.md",
+    "Acceleration.md",
     "Raisonnement abstrait.md",
+    "Chapitre 2 - Pensée computationnelle.md",
     "_computer science.md",
     "_TOK.md",
     "TOK Exhibition.md",
@@ -438,7 +435,6 @@
     "assets/Déterminants des composantes de la demande globale",
     "Demande globale.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "Loi de la demande.md",
     "assets/Demande globale",
     "assets/TOK Exhibition",
     "Untitled.canvas",
