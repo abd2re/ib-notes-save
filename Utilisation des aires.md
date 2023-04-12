@@ -12,7 +12,7 @@ Created: 2023-03-28
 
 <!--SR:!2023-04-01,3,250-->
 
-## Diagramme a en fonction de t
+## Diagrammes a en fonction de t
 ?
 ![[image-20230328093918736.png|450]]![[image-20230330155417127.png]]
 <!--SR:!2023-04-12,10,250-->
