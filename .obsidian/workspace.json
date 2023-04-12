@@ -93,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "_TOK.md"
               }
             }
           },
@@ -379,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -446,13 +447,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19a1e8b652201c14",
+  "active": "83e89e13a034db38",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_TOK.md",
     "TOK Exhibition.md",
+    "_TOK.md",
     "assets/TOK Exhibition/image-20230406193359408.png",
     "Algorithme.md",
     "Peace act structure.md",
