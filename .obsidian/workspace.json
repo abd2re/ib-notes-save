@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Algorithme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Algorithme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Peace act structure",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Peace act structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "_TOK.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -218,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "_TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "_TOK.md"
               }
             }
           },
@@ -345,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithme.md",
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -417,6 +423,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Algorithme.md",
     "Peace act structure.md",
     "Chute libre.md",
     "assets/Chute libre/image-20230411094012047.png",
@@ -434,7 +441,6 @@
     "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
-    "Algorithme.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "Notion de problème.md",
     "assets/Raisonnement par anticipation/image-20230410182359557.png",
