@@ -1,5 +1,5 @@
 # Should some knowledge not be sought on ethical grounds? (knowledge and technology)
-- Nuclear bombs
+- Nuclear bombs (Hiroshima's nucle)
 - MKultra
 - Gain of function research
 
