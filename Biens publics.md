@@ -21,7 +21,7 @@ Un bien privé a deux caractéristiques:
 - Bien privée => ::Rival et Exclusif
 <!--SR:!2023-04-19,26,250-->
 - Ressources du pool commun=> ::Rival et Non-exclusif
-<!--SR:!2023-04-12,21,250-->
+<!--SR:!2023-06-05,54,250-->
 - Articles de club=> ::Non-rival et Exclusif
 <!--SR:!2023-06-01,52,250-->
 - Biens publics=> Non-rival et Non-exclusif

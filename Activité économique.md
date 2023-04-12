@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2023-04-12,3,150-->
+<!--SR:!2023-04-16,4,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 <!--SR:!2023-04-26,18,250-->
@@ -18,7 +18,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-05-04,24,250-->
 
 - Autarcie =:: économie fermée
-<!--SR:!2023-04-12,11,270-->
+<!--SR:!2023-05-23,41,290-->
 
 ### Symboles en macro-économie
 - T =:: Taxes

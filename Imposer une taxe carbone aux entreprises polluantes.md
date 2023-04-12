@@ -19,4 +19,4 @@ Le gouvernement pourrait imposer une taxe sur l'entreprise par unité de product
 - Il est souvent difficile de mesurer la pollution créée et de la valoriser pour établir le montant de la taxe.
 - Il est également difficile d'identifier quelles entreprises polluent et dans quelle mesure chaque entreprise est responsable de la pollution.
 - Les taxes obligent les entreprises à payer pour la pollution qu'elles créent, mais n'empêchent pas réellement la pollution de se produire.
-<!--SR:!2023-04-12,40,250-->
+<!--SR:!2023-07-20,99,250-->
