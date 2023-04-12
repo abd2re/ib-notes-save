@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Raisonnement abstrait",
+      "path": "Raisonnement abstrait.md"
+    },
+    {
+      "basename": "Chapitre 2 - Pensée computationnelle",
+      "path": "Chapitre 2 - Pensée computationnelle.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -31,14 +43,6 @@
     {
       "basename": "Mouvement rectiligne uniforme",
       "path": "Mouvement rectiligne uniforme.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "Chapitre 2 - Pensée computationnelle",
-      "path": "Chapitre 2 - Pensée computationnelle.md"
     },
     {
       "basename": "Raisonnement simultané",
@@ -195,10 +199,6 @@
     {
       "basename": "TOK work 6",
       "path": "TOK work 6.md"
-    },
-    {
-      "basename": "Utilisation des aires",
-      "path": "Utilisation des aires.md"
     }
   ],
   "omittedPaths": [],

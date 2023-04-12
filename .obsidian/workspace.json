@@ -16,12 +16,29 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 2 - Pensée computationnelle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.754259289307157}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Raisonnement abstrait.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -183,6 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Raisonnement abstrait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Raisonnement abstrait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +246,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Raisonnement abstrait.md"
+              }
             }
           },
           {
@@ -306,6 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Raisonnement abstrait.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,6 +399,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 2 - Pensée computationnelle.md",
+    "Raisonnement abstrait.md",
+    "_computer science.md",
     "_TOK.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230406193359408.png",
@@ -394,9 +419,7 @@
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Theme 3- Physique thermique.md",
-    "_computer science.md",
     "Chapitre 1 - Notion de bases.md",
-    "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
