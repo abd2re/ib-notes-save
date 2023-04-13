@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Raisonnement abstrait",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -38,8 +44,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "__ECs and Awards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -201,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +258,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__ECs and Awards.md"
+              }
             }
           },
           {
@@ -324,6 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -395,10 +411,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
     "Acceleration.md",
     "Raisonnement abstrait.md",
     "Chapitre 2 - Pensée computationnelle.md",
-    "_computer science.md",
     "_TOK.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230406193359408.png",
