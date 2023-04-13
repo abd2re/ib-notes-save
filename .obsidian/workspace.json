@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__ECs and Awards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -46,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "__Current competitions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__ECs and Awards.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -339,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,6 +417,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__ECs and Awards.md",
     "_computer science.md",
     "Acceleration.md",
     "Raisonnement abstrait.md",
@@ -450,7 +457,6 @@
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale",
     "Demande globale.md",
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Demande globale",
     "assets/TOK Exhibition",
     "Untitled.canvas",
