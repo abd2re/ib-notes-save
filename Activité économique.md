@@ -43,7 +43,7 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si fuites = injections alors :: on est dans une économie équilibrée
 <!--SR:!2023-04-13,12,270-->
 - Si fuites < injections alors:: on est dans une économie prospère
-<!--SR:!2023-04-13,12,270-->
+<!--SR:!2023-05-15,32,270-->
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
