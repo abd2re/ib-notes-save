@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.949950276053633}"
+                },
+                {
                   "title": "__Current competitions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -58,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -224,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -351,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -423,6 +429,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_economy.md",
     "__Current competitions.md",
     "__ECs and Awards.md",
     "_computer science.md",
@@ -461,7 +468,6 @@
     "Organigrammes.md",
     "assets/Organigrammes/image-20230410181149865.png",
     "Changements dans un environment.md",
-    "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale",
     "assets/Demande globale",
     "assets/TOK Exhibition",
