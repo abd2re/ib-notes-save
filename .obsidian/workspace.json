@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a826e865edd958a0",
+        "id": "e3f17e70c64f78b4",
         "type": "tabs",
         "children": [
           {
-            "id": "411eef9e2fc913c6",
+            "id": "025735c1c33afe4f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,46 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_economy",
+                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.949950276053633}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "__ECs and Awards",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Raisonnement abstrait",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
-                },
-                {
-                  "title": "Chapitre 2 - Pensée computationnelle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.754259289307157}"
                 }
               ]
             },
@@ -70,85 +34,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a09062addc6a90af",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.625}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}},\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.381631599328772}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "__ECs and Awards",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Raisonnement abstrait",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
-                },
-                {
-                  "title": "Chapitre 2 - Pensée computationnelle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Pensée computationnelle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.754259289307157}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -501,16 +388,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a09062addc6a90af",
+  "active": "025735c1c33afe4f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "test.md",
     "Déterminants des composantes de la demande globale.md",
+    "Test/Test.md",
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "__Current competitions.md",
@@ -540,7 +429,6 @@
     "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "Notion de problème.md",
     "assets/Raisonnement par anticipation/image-20230410182359557.png",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
