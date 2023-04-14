@@ -23,6 +23,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 <!--SR:!2023-04-14,1,170-->
 
 ## Déterminants de l'investissement
+(5)
 ?
 1. **Taux d'intérêt**
 2. **Confiance des entreprises**
