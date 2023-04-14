@@ -21,9 +21,3 @@ Comment les déterminants affecte la courbe ? (représentation):
 6. **Niveau d'endettement des ménages**
 7. **Attentes quant au niveau futur des prix**
 <!--SR:!2023-04-14,1,170-->
-
-
-
-
-
-
