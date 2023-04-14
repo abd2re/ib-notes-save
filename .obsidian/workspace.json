@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":16.19607843137255}"
+                },
+                {
+                  "title": "Chute libre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chute libre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -40,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chute libre.md",
-                "mode": "preview",
+                "file": "TOK Exhibition.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chute libre.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chute libre.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chute libre.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -333,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chute libre.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -405,8 +417,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Chute libre/image-20230411094012047.png",
+    "_TOK.md",
     "Chute libre.md",
+    "assets/Chute libre/image-20230411094012047.png",
     "_physics.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
@@ -423,7 +436,6 @@
     "Acceleration.md",
     "Raisonnement abstrait.md",
     "Chapitre 2 - Pensée computationnelle.md",
-    "_TOK.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230406193359408.png",
     "assets/TOK Exhibition/image-20230412134424293.png",
