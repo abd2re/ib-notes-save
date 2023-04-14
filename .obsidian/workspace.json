@@ -75,8 +75,14 @@
             "id": "a09062addc6a90af",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Demande globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":9.625}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -502,6 +508,8 @@
   "lastOpenFiles": [
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Déterminants des composantes de la demande globale.md",
+    "Demande globale.md",
+    "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
@@ -535,10 +543,7 @@
     "Notion de problème.md",
     "assets/Raisonnement par anticipation/image-20230410182359557.png",
     "assets/Raisonnement par anticipation",
-    "Untitled.md",
-    "assets/Raisonnement procédural/image-20230410181642994.png",
     "assets/Raisonnement procédural",
-    "assets/Organigrammes/image-20230410181149865.png",
     "assets/Déterminants des composantes de la demande globale",
     "assets/Demande globale",
     "assets/TOK Exhibition",
