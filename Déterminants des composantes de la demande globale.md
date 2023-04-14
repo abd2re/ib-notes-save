@@ -32,4 +32,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 5. **Niveau d'endettement des entreprises**
 
 ## Déterminants de la dépense du gouvernement
-1. 
+?
