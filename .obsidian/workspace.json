@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.8979591836734694}"
+                },
+                {
+                  "title": "Déterminants des composantes de la demande globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Chute libre.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Chute libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Chute libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "Chute libre.md"
               }
             }
           },
@@ -321,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Chute libre.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -393,8 +405,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+    "_physics.md",
     "Déterminants des composantes de la demande globale.md",
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "test.md",
     "Test/Test.md",
@@ -421,7 +434,6 @@
     "assets/Chute libre/image-20230411093929840.png",
     "assets/Chute libre",
     "Chapitre 1 - Cinématique.md",
-    "_physics.md",
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Theme 3- Physique thermique.md",
