@@ -36,4 +36,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 1. **Revenus des partenaires commerciaux**
 2. Taux d'échange
 3. Changements dans politiques commerciales
-4. 
+4. Manipulation des taux de change/exigences en matière de santé et de sécurité
