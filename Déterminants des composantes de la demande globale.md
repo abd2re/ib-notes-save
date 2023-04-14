@@ -28,14 +28,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 2. **Confiance des entreprises**
 3. **Technologie**
 4. **Taxes professionnelles**
-5. **Niveau d'endettement des entreprises
-
-
-
-
-
-
-
-
-
-**
+5. **Niveau d'endettement des entreprises**
