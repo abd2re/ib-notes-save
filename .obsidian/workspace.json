@@ -82,6 +82,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}},\"scroll\":0}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -128,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -295,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -422,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -494,6 +500,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Déterminants des composantes de la demande globale.md",
@@ -529,7 +536,6 @@
     "assets/Raisonnement par anticipation",
     "Untitled.md",
     "Raisonnement logique.md",
-    "Raisonnement procédural.md",
     "assets/Raisonnement procédural/image-20230410181642994.png",
     "assets/Raisonnement procédural",
     "assets/Organigrammes/image-20230410181149865.png",

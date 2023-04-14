@@ -21,3 +21,21 @@ Comment les déterminants affecte la courbe ? (représentation):
 6. **Niveau d'endettement des ménages**
 7. **Attentes quant au niveau futur des prix**
 <!--SR:!2023-04-14,1,170-->
+
+## Déterminants de l'investissement
+?
+1. **Taux d'intérêt**
+2. **Confiance des entreprises**
+3. **Technologie**
+4. **Taxes professionnelles**
+5. **Niveau d'endettement des entreprises
+
+
+
+
+
+
+
+
+
+**
