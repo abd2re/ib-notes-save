@@ -32,6 +32,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 5. **Niveau d'endettement des entreprises**
 
 ## Déterminants des exportations nettes
+(4, relis lecon svp)
 ? 
 1. **Revenus des partenaires commerciaux**
 2. Taux d'échange
