@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "__ECs and Awards",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -345,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -417,6 +423,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__Current competitions.md",
     "__ECs and Awards.md",
     "_computer science.md",
     "Acceleration.md",
@@ -456,7 +463,6 @@
     "Changements dans un environment.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale",
-    "Demande globale.md",
     "assets/Demande globale",
     "assets/TOK Exhibition",
     "Untitled.canvas",

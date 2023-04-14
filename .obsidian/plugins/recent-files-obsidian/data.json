@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Effet solde net",
