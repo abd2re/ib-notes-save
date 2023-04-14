@@ -135,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -341,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "_economy.md"
               }
             }
           },
@@ -421,7 +422,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "_economy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -488,13 +489,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "411eef9e2fc913c6",
+  "active": "a09062addc6a90af",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_economy.md",
     "Déterminants des composantes de la demande globale.md",
+    "_economy.md",
     "__Current competitions.md",
     "__ECs and Awards.md",
     "_computer science.md",
