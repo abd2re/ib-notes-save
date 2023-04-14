@@ -31,5 +31,5 @@ Comment les déterminants affecte la courbe ? (représentation):
 4. **Taxes professionnelles**
 5. **Niveau d'endettement des entreprises**
 
-## Déterminants de la dépense du gouvernement
+## Déterminants des exportations nettes
 ? 
