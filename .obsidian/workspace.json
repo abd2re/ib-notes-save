@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "TOK Exhibition.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -417,9 +417,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/TOK Exhibition/image-20230415131706208.png",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "TOK Exhibition.md",
+    "assets/TOK Exhibition/image-20230415132037403.png",
+    "assets/TOK Exhibition/image-20230415131706208.png",
     "assets/TOK Exhibition/image-20230415123019933.png",
     "assets/TOK Exhibition/image-20230415123010612.png",
     "assets/TOK Exhibition/image-20230415122404633.png",
@@ -443,8 +444,6 @@
     "Acceleration.md",
     "Raisonnement abstrait.md",
     "Chapitre 2 - Pensée computationnelle.md",
-    "assets/TOK Exhibition/image-20230406193359408.png",
-    "assets/TOK Exhibition/image-20230412134424293.png",
     "Algorithme.md",
     "Peace act structure.md",
     "assets/Chute libre",
