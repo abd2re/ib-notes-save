@@ -58,8 +58,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f534e4b8e093e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.223290736198958}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Déterminants des composantes de la demande globale.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -345,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,11 +441,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "025735c1c33afe4f",
+  "active": "71f534e4b8e093e8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_economy.md",
+    "TOK Exhibition.md",
     "_TOK.md",
     "Chute libre.md",
     "assets/Chute libre/image-20230411094012047.png",
@@ -428,7 +459,6 @@
     "Test/Test.md",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
-    "_economy.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "__Current competitions.md",
     "__ECs and Awards.md",
@@ -436,7 +466,6 @@
     "Acceleration.md",
     "Raisonnement abstrait.md",
     "Chapitre 2 - Pensée computationnelle.md",
-    "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230406193359408.png",
     "assets/TOK Exhibition/image-20230412134424293.png",
     "Algorithme.md",

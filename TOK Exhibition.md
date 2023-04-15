@@ -1,3 +1,4 @@
-# Are some things unknowable ?
-1. Dementia (Everywhere at the end of time stage 1-6 album covers)
-2. 
+#  Should some knowledge not be sought on ethical grounds?
+1. Head behind the Manhattan Project (Oppenheimer)
+2. CIA MK ultra experiments on medical patients (Allan Memorial Institute)
+3. Gain-of-function research (Influenza)

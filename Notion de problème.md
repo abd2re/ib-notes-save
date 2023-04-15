@@ -10,4 +10,4 @@ Etapes a suivre pour résoudre un problème:
 - **Sélection**: Explorer les différentes alternatives
 - **Développement**: Mise en œuvre
 - **Choisir la meilleure alternative**: Mettre en œuvre la solution choisie
-<!--SR:!2023-04-14,1,190-->
+<!--SR:!2023-04-16,2,190-->
