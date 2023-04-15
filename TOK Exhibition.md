@@ -1,7 +1,7 @@
 #  Should some knowledge not be sought on ethical grounds?
 1. Head behind the Manhattan Project (Object 1: Photo of Oppenheimer (left), father of the atomic bomb at ground zero of Trinity test atomic bomb site)
 2. CIA MK ultra experiments on medical patients (Object 2: Allan Memorial Institute, psychiatric hospital where illegal human experimentation by the CIA had taken place)
-3. Gain-of-function research (Colorized transmission electron micrograph of Avian influenza A H5N1 viruses)
+3. Gain-of-function research (Colorized transmission electron micrograph of Avian influenza A H5N1 viruses, )
 
 ![[image-20230415122230878.png]]
 ![[image-20230415122404633.png]]
