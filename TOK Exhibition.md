@@ -4,3 +4,5 @@
 3. Gain-of-function research (H5N1 flu virus)
 
 ![[image-20230415122230878.png]]
+![[image-20230415122404633.png]]
+
