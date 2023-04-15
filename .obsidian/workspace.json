@@ -11,8 +11,14 @@
             "id": "025735c1c33afe4f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "image-20230415122230878",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/TOK Exhibition/image-20230415122230878.png\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
