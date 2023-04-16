@@ -37,7 +37,7 @@ Revenu = Production = Dépenses
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
-<!--SR:!2023-04-16,8,201-->
+<!--SR:!2023-05-02,16,201-->
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
 <!--SR:!2023-04-18,11,221-->
 

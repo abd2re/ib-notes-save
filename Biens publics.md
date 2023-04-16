@@ -15,7 +15,7 @@ Un bien privé a deux caractéristiques:
 ?
 - Rivale
 - Exclusif
-<!--SR:!2023-04-16,24,250-->
+<!--SR:!2023-06-15,60,250-->
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
