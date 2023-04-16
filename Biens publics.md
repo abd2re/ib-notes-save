@@ -9,7 +9,7 @@ Les biens publics sont des biens qui ne seraient pas du tout fournis sur un marc
 <!--SR:!2023-04-19,20,190-->
 
 - Parce que le marché libre est incapable de fournir ces biens sans intervention, les biens publics sont:: un exemple de échec du marché.
-<!--SR:!2023-04-16,19,210-->
+<!--SR:!2023-05-26,40,210-->
 
 Un bien privé a deux caractéristiques:
 ?
