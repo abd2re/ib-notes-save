@@ -14,4 +14,4 @@ $$\Large{\text{PIB}=\sum\limits \text{valeur ajoutée des entreprises}}$$
 <!--SR:!2023-05-09,26,250-->
 
 - Valeur ajoutée =:: Chiffre d'affaire - Consommations intermédiaires
-<!--SR:!2023-04-16,13,270-->
+<!--SR:!2023-05-21,35,270-->

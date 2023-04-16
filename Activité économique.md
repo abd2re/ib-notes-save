@@ -22,7 +22,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ### Symboles en macro-économie
 - T =:: Taxes
-<!--SR:!2023-04-16,14,290-->
+<!--SR:!2023-06-10,55,310-->
 - S =:: Epargnes
 <!--SR:!2023-04-18,16,290-->
 - M =:: Importations
@@ -30,7 +30,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - G =:: Dépenses gouvernementales
 <!--SR:!2023-06-06,52,310-->
 - I =:: Investissements
-<!--SR:!2023-04-16,14,290-->
+<!--SR:!2023-06-11,56,310-->
 - X =:: Exportations
 <!--SR:!2023-04-19,17,290-->
 
