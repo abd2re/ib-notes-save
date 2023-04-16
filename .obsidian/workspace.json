@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "__useful links",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__useful links.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -28,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_CAS.md",
-                "mode": "source",
+                "file": "__ECs and Awards.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_CAS.md",
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_CAS.md",
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_CAS.md"
+                "file": "__ECs and Awards.md"
               }
             }
           },
@@ -321,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_CAS.md",
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -393,6 +405,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__Current competitions.md",
+    "_CAS.md",
     "__useful links.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415122230878.png",
@@ -415,7 +429,6 @@
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "__Current competitions.md",
     "__ECs and Awards.md",
     "_computer science.md",
     "Acceleration.md",
@@ -429,7 +442,6 @@
     "Theme 3- Physique thermique.md",
     "Chapitre 1 - Notion de bases.md",
     "Raisonnement simultané.md",
-    "Raisonnement par anticipation.md",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
     "assets/Déterminants des composantes de la demande globale",

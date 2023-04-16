@@ -16,7 +16,7 @@
 - Volunteering at a local underprivileged school
 - *Tutored underprivileged girls in Senegal on coding*
 - *STEM  summer camp in Canada*
-- *Published research paper on the comparaison of different chess search algorithm*
+- *Publish Old EE in Medium Article*
 - *France IOI quarter-finalists (hopefully medalist)*
 - *Distinction (Hopefully top 20) in Wharton Global High School  
 Investment Competition*
