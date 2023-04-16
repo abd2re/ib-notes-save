@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f17e70c64f78b4",
+        "id": "5c0ae4f9b1e5f218",
         "type": "tabs",
         "children": [
           {
-            "id": "025735c1c33afe4f",
+            "id": "24a330b8a94d8c96",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "image-20230415122230878",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/TOK Exhibition/image-20230415122230878.png\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.19607843137255}"
-                },
-                {
-                  "title": "Chute libre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chute libre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.8979591836734694}"
-                },
-                {
-                  "title": "Déterminants des composantes de la demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK Exhibition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -224,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,9 +227,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TOK Exhibition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -351,7 +306,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,13 +372,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "025735c1c33afe4f",
+  "active": "24a330b8a94d8c96",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/TOK Exhibition/image-20230415122230878.png",
     "TOK Exhibition.md",
+    "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/TOK Exhibition/image-20230415131706208.png",
     "assets/TOK Exhibition/image-20230415123019933.png",
