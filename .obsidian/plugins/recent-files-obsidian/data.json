@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
+      "basename": "__useful links",
+      "path": "__useful links.md"
+    },
+    {
       "basename": "TOK Exhibition",
       "path": "TOK Exhibition.md"
     },
@@ -153,10 +161,6 @@
       "path": "7 objectifs d'apprentissage CAS.md"
     },
     {
-      "basename": "_CAS",
-      "path": "_CAS.md"
-    },
-    {
       "basename": "Attributs du profil de l'apprenant",
       "path": "Attributs du profil de l'apprenant.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Méthode du revenu",
       "path": "Méthode du revenu.md"
-    },
-    {
-      "basename": "Méthode de sortie (production)",
-      "path": "Méthode de sortie (production).md"
     }
   ],
   "omittedPaths": [],

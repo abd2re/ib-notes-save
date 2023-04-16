@@ -16,12 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "__useful links",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__useful links.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_CAS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -183,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +240,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_CAS.md"
+              }
             }
           },
           {
@@ -306,6 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,6 +393,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__useful links.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/TOK Exhibition/image-20230415132037403.png",
