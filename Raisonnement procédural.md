@@ -9,7 +9,7 @@ Quelles sont les 5 types de raisonnement:
 - Raisonnement par anticipation
 - Raisonnement simultané
 - Raisonnement abstrait
-<!--SR:!2023-04-15,1,210-->
+<!--SR:!2023-04-17,2,210-->
 
 Created: 2023-04-10
 

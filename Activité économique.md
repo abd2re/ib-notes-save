@@ -28,7 +28,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - M =:: Importations
 <!--SR:!2023-04-17,15,290-->
 - G =:: Dépenses gouvernementales
-<!--SR:!2023-04-15,13,290-->
+<!--SR:!2023-06-06,52,310-->
 - I =:: Investissements
 <!--SR:!2023-04-16,14,290-->
 - X =:: Exportations

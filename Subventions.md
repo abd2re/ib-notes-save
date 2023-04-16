@@ -41,7 +41,7 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Les dépenses totales des consommateurs=>::Dépend du (PED)
 <!--SR:!2023-04-18,22,150-->
 - Recettes du gouvernement=>::Diminue
-<!--SR:!2023-04-15,49,250-->
+<!--SR:!2023-08-21,128,250-->
 - Bien-être social=>::Diminue
 <!--SR:!2023-05-30,73,230-->
 

@@ -6,7 +6,7 @@ Created: 2022-12-12
 # Résistance électrique
 ?
 Tout les matériaux ne conduisent pas le courant électrique de la meme manière, on définit la résistance électrique comme étant la formule::$$R=\frac{\Delta V}{I}$$
-<!--SR:!2023-04-15,72,230-->
+<!--SR:!2023-09-28,166,230-->
 
 La résistance d'un fil conducteur a comme formule:
 ?
