@@ -12,4 +12,4 @@ Il existe deux façons de mettre en œuvre Ethernet:
 ?
 - les câbles à paires torsadées (UTP)
 - sans fil (ondes radio Wi-Fi)
-<!--SR:!2023-04-17,21,210-->
+<!--SR:!2023-06-03,47,210-->
