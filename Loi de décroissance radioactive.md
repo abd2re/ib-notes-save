@@ -12,7 +12,7 @@ Created: 2023-02-14
 ## Désintégration $T_{1/2}$ ou période radioactive (demie-vie)
 ?
 C'est le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est désintégré.
-<!--SR:!2023-04-17,31,230-->
+<!--SR:!2023-06-27,71,230-->
 
 Formule de la masse finale d'une substance radioactive:
 ?
@@ -37,7 +37,7 @@ Graphe de période radioactive:
 ## Détection de la radioactivité
 
 On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller** ou un [[champ électrique]] ou magnétique.  ![[image-20230307091645899.png]]
-<!--SR:!2023-04-17,20,188-->
+<!--SR:!2023-05-27,40,188-->
 
 
 Formule Activité radioactives-Nombre de noyaux:
