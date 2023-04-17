@@ -46,8 +46,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69f13890f0105c76",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +224,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +249,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,9 +268,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "__ECs and Awards.md"
-              }
+              "state": {}
             }
           },
           {
@@ -333,7 +347,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -400,11 +413,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24a330b8a94d8c96",
+  "active": "69f13890f0105c76",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__ECs and Awards.md",
     "__Current competitions.md",
     "_CAS.md",
     "__useful links.md",
@@ -429,7 +443,6 @@
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "__ECs and Awards.md",
     "_computer science.md",
     "Acceleration.md",
     "Raisonnement abstrait.md",
