@@ -12,7 +12,7 @@ C'est la variation de la vitesse au cours du temps.
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{\Delta\vec{v}}{\Delta{t}}}$$
-<!--SR:!2023-04-17,12,248-->
+<!--SR:!2023-05-18,31,248-->
 
 ## Accélération instantanée
 ?
@@ -22,5 +22,5 @@ Pente de la tangente de la courbe v en fonction de t.
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{d\vec{v}}{dt}}$$![[image-20230328090601820.png]]
-<!--SR:!2023-04-17,11,228-->
+<!--SR:!2023-05-14,27,228-->
 
