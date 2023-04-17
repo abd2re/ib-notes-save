@@ -31,7 +31,7 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 
 ## Synthèse des effets d'une subvention
 - Le prix pour les consommateurs=>::Diminue
-<!--SR:!2023-04-17,50,250-->
+<!--SR:!2023-08-22,127,250-->
 - La quantité d'équilibre=>::Augmente
 <!--SR:!2023-07-27,110,250-->
 - Le prix final pour les producteurs=>::Augmente
