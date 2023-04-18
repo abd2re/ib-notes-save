@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
       "basename": "__ECs and Awards",
       "path": "__ECs and Awards.md"
+    },
+    {
+      "basename": "Utilisation des aires",
+      "path": "Utilisation des aires.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "__Current competitions",
@@ -41,10 +53,6 @@
       "path": "Chute libre.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
       "path": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations",
       "path": "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Raisonnement abstrait",
@@ -195,10 +199,6 @@
     {
       "basename": "Houseboy",
       "path": "Houseboy.md"
-    },
-    {
-      "basename": "Méthode du revenu",
-      "path": "Méthode du revenu.md"
     }
   ],
   "omittedPaths": [],
