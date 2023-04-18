@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.48148148148148}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.005360582963398}"
+                },
+                {
                   "title": "__ECs and Awards",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__ECs and Awards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "__ECs and Awards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "__ECs and Awards.md"
               }
             }
           },
@@ -339,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,11 +423,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__Current competitions.md",
+    "_computer science.md",
     "__ECs and Awards.md",
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
-    "__Current competitions.md",
     "_CAS.md",
     "__useful links.md",
     "TOK Exhibition.md",
@@ -438,7 +451,6 @@
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "_computer science.md",
     "Acceleration.md",
     "Raisonnement abstrait.md",
     "Chapitre 2 - Pensée computationnelle.md",
