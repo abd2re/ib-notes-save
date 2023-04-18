@@ -5,7 +5,7 @@
 - Made a website for green energy and climate change, presented it to the school
 - President of Chess club (Organized tournaments) 
 - Founder of Computer Science club (*Helped student with  their websites and applications* and organized local hackathons)
-- Table Tennis player (played in various competitions and *won competitions at my school*)
+- Table Tennis player (played in various competitions and won competitions at my school)
 - Math tutoring for 11th grade students
 - Robotics and coding teacher for students in Coding club (Intern)
 - EtonX Entrepreneurship + + certificate (school club)
