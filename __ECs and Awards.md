@@ -16,6 +16,7 @@
 - Volunteering at a local underprivileged school
 - *Tutored underprivileged girls in Senegal on coding*
 - *STEM  summer camp in Canada*
+- *Volounteering *
 - Published Research paper on search algorithms in Connect-4
 - *France IOI quarter-finalists (hopefully medalist)*
 - *Distinction (Hopefully top 20) in Wharton Global High School  
