@@ -25,4 +25,4 @@ Investment Competition*
 
 # Do SAT !
 
-I have been interested in AI and coding for more than 7 years now. Over the years I have programmed robots, developed games, created applications and recently started participating in coding competitions to help further boost my college application and  my understanding of computer science. Inspirit AI scholars program is a program that will greatly help me achieve my goals as learner 
+I have been interested in AI and coding for more than 7 years now. Over the years I have programmed robots, developed games, created applications and recently started participating in coding competitions to help further boost my college application and  my understanding of computer science. Inspirit AI scholars program is a program that will greatly help me achieve my goals as learner, the focus on AI that this programs which is a very relevant theme will 
