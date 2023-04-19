@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -243,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -290,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__ECs and Awards.md"
+                "file": "exercises/physics/theme 2/Motion.md"
               }
             }
           },
@@ -370,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -438,11 +440,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24a330b8a94d8c96",
+  "active": "c203b7ace9abbb50",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
+    "__ECs and Awards.md",
     "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419113010_679.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419111707_171.png",
@@ -456,7 +460,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419092317_470.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
-    "__ECs and Awards.md",
     "exercises/physics/theme 2",
     "__Current competitions.md",
     "_computer science.md",
