@@ -23,6 +23,5 @@ Investment Competition*
 - Udemy certificate on Data Science with Python (25 hours course)
 - Made a discord server for our cohort with some teachers (plentiful of studying ressources for each subjects)
 
-# Do SAT !
 
-I have been interested in coding for more than 7 years now. Over the years I have programmed robots, developed games, created applications and recently started participating in coding competitions to help further boost my college application and  my understanding of computer science. Inspirit AI scholars program is a program that will greatly help me achieve my goals as learner, the focus on AI that this programs offers is a very relevant theme that will undoubtedly be very relevant the future, so it will be an opportunity for me to work on real-world projects under the supervision of professionals that have industry knowledge and meet likeminded individuals who share the same passion for computer science and artificial in
+
