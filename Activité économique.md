@@ -24,7 +24,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - T =:: Taxes
 <!--SR:!2023-06-10,55,310-->
 - S =:: Epargnes
-<!--SR:!2023-04-18,16,290-->
+<!--SR:!2023-06-21,64,310-->
 - M =:: Importations
 <!--SR:!2023-06-16,60,310-->
 - G =:: Dépenses gouvernementales

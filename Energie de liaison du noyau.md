@@ -41,7 +41,7 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 <!--SR:!2023-04-29,26,250-->
 
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
-<!--SR:!2023-04-18,18,250-->
+<!--SR:!2023-06-04,47,250-->
 
 ##  Courbe d'Aston
 ?
