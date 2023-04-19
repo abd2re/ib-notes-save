@@ -80,7 +80,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md"
+                "file": "exercises/physics/theme 2/Motion.md"
               }
             }
           }
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -244,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md"
+                "file": "exercises/physics/theme 2/Motion.md"
               }
             }
           },
@@ -371,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -419,7 +420,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 410,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -443,8 +445,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419091813_196.png",
+    "exercises/physics/theme 2/assets/Motion",
+    "exercises/physics/theme 2/assets",
     "__ECs and Awards.md",
-    "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
+    "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2",
     "__Current competitions.md",
     "_computer science.md",
@@ -480,15 +485,12 @@
     "Peace act structure.md",
     "assets/Chute libre",
     "Chapitre 1 - Cinématique.md",
-    "Theme 3- Physique thermique.md",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
     "assets/Déterminants des composantes de la demande globale",
     "assets/Demande globale",
     "assets/TOK Exhibition",
     "Untitled.canvas",
-    "assets/Houseboy prompt",
-    "assets/Mouvement rectiligne uniforme",
-    "assets/Activité économique"
+    "assets/Houseboy prompt"
   ]
 }
