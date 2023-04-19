@@ -49329,6 +49329,49 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 			]
 		},
 		{
+			"id": "gxYUdx8ICTLrIqdPb21yw",
+			"type": "line",
+			"x": -918.323266431063,
+			"y": 8534.427372901288,
+			"width": 73.51811256392966,
+			"height": 1.289791448491087,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1358652083,
+			"version": 15,
+			"versionNonce": 330955283,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681901367215,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					73.51811256392966,
+					-1.289791448491087
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "eP6013135mXpAOTwk1fha",
 			"type": "freedraw",
 			"x": -695.4575163398694,
@@ -76129,7 +76172,7 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#c92a2a",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -76142,7 +76185,7 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1296.232160838631,
-		"scrollY": -8152.004208424005,
+		"scrollY": -7507.108484179007,
 		"zoom": {
 			"value": 0.7753191426185505
 		},
