@@ -11,4 +11,4 @@ Types d'interface utilisateur:
 - Interfaces en ligne de commande (CLI) où l'utilisateur tape des codes,
 - Les interfaces en langage naturel (NLI) où l'utilisateur parle à l'interface.
 - les interfaces à base de menus (MBI), qui offrent à l'utilisateur une sélection d'options.
-<!--SR:!2023-04-19,53,250-->
+<!--SR:!2023-08-30,133,250-->
