@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "__ECs and Awards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "__ECs and Awards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "__ECs and Awards.md"
               }
             }
           },
@@ -372,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "__ECs and Awards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -440,14 +439,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c203b7ace9abbb50",
+  "active": "24a330b8a94d8c96",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
     "__ECs and Awards.md",
-    "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419113010_679.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419111707_171.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419110202_000.png",
@@ -457,7 +456,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419093927_370.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419093519_047.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419092721_436.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419092317_470.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
