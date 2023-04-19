@@ -64,8 +64,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c203b7ace9abbb50",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__ECs and Awards.md"
+                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md"
               }
             }
           },
@@ -351,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__ECs and Awards.md",
+                "file": "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,14 +438,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24a330b8a94d8c96",
+  "active": "c203b7ace9abbb50",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "__ECs and Awards.md",
+    "exercises/physics/theme 2/Drawing 2023-04-19 09.17.27.excalidraw.md",
+    "exercises/physics/theme 2",
     "__Current competitions.md",
     "_computer science.md",
-    "__ECs and Awards.md",
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
@@ -459,7 +481,6 @@
     "assets/Chute libre",
     "Chapitre 1 - Cinématique.md",
     "Theme 3- Physique thermique.md",
-    "Chapitre 1 - Notion de bases.md",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
     "assets/Déterminants des composantes de la demande globale",
@@ -468,7 +489,6 @@
     "Untitled.canvas",
     "assets/Houseboy prompt",
     "assets/Mouvement rectiligne uniforme",
-    "assets/Activité économique",
-    "assets/Utilisation des aires"
+    "assets/Activité économique"
   ]
 }
