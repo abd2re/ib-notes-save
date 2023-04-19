@@ -32,7 +32,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - I =:: Investissements
 <!--SR:!2023-06-11,56,310-->
 - X =:: Exportations
-<!--SR:!2023-04-19,17,290-->
+<!--SR:!2023-06-28,70,310-->
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
