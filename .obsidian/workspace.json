@@ -80,7 +80,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "exercises/physics/theme 2/Motion1.md"
+                "file": "exercises/physics/theme 2/Motion.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Motion1.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Motion1.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Motion1.md"
+                "file": "exercises/physics/theme 2/Motion.md"
               }
             }
           },
@@ -372,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Motion1.md",
+                "file": "exercises/physics/theme 2/Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -445,12 +445,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "exercises/physics/theme 2/assets/Motion1/Pasted Image 20230419091929_513.png",
-    "exercises/physics/theme 2/assets/Motion1/Pasted Image 20230419091813_196.png",
-    "exercises/physics/theme 2/assets/Motion1",
+    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419091929_513.png",
+    "exercises/physics/theme 2/Motion.md",
+    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419091813_196.png",
+    "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "__ECs and Awards.md",
-    "exercises/physics/theme 2/Motion1.md",
     "exercises/physics/theme 2",
     "__Current competitions.md",
     "_computer science.md",
@@ -472,7 +472,6 @@
     "_TOK.md",
     "Chute libre.md",
     "assets/Chute libre/image-20230411094012047.png",
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "test.md",
     "Test/Test.md",
