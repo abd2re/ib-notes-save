@@ -34293,7 +34293,7 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 		{
 			"id": "ApNBKbG-5GTG2mlH7_R5N",
 			"type": "image",
-			"x": -610.7336551251649,
+			"x": -610.2688258922138,
 			"y": 7425.5619141353845,
 			"width": 1007,
 			"height": 764,
@@ -34308,11 +34308,11 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 46316307,
-			"version": 46,
-			"versionNonce": 291147923,
+			"version": 47,
+			"versionNonce": 542461523,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681901389634,
+			"updated": 1681901453685,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -49493,11 +49493,11 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 				"type": 2
 			},
 			"seed": 135678099,
-			"version": 163,
-			"versionNonce": 791031667,
+			"version": 165,
+			"versionNonce": 1278593299,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681901423691,
+			"updated": 1681901436175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49508,6 +49508,49 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 				[
 					338.1347520051046,
 					1.185095198127783
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "IF2AcY06GUJSGBvbBGVcd",
+			"type": "line",
+			"x": -279.26056218590975,
+			"y": 8160.414769293862,
+			"width": 330.4935846281883,
+			"height": 148.74535454433226,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 56700595,
+			"version": 97,
+			"versionNonce": 941448371,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681901453260,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					330.4935846281883,
+					-148.74535454433226
 				]
 			],
 			"lastCommittedPoint": null,
@@ -76603,7 +76646,7 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#c92a2a",
+		"currentItemStrokeColor": "#1864ab",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -76615,10 +76658,10 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 575.3567835757212,
-		"scrollY": -7918.935982775799,
+		"scrollX": 1676.5109437295014,
+		"scrollY": -8378.228385999053,
 		"zoom": {
-			"value": 2.151327690066628
+			"value": 0.764007540085982
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
