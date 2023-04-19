@@ -80,7 +80,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "exercises/physics/theme 2/Motion1.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "exercises/physics/theme 2/Motion1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "exercises/physics/theme 2/Motion1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "exercises/physics/theme 2/Motion1.md"
               }
             }
           },
@@ -372,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "exercises/physics/theme 2/Motion1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -445,11 +445,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419091813_196.png",
-    "exercises/physics/theme 2/assets/Motion",
+    "exercises/physics/theme 2/assets/Motion1/Pasted Image 20230419091929_513.png",
+    "exercises/physics/theme 2/assets/Motion1/Pasted Image 20230419091813_196.png",
+    "exercises/physics/theme 2/assets/Motion1",
     "exercises/physics/theme 2/assets",
     "__ECs and Awards.md",
-    "exercises/physics/theme 2/Motion.md",
+    "exercises/physics/theme 2/Motion1.md",
     "exercises/physics/theme 2",
     "__Current competitions.md",
     "_computer science.md",
@@ -476,7 +477,6 @@
     "test.md",
     "Test/Test.md",
     "Demande globale.md",
-    "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Acceleration.md",
     "Raisonnement abstrait.md",
