@@ -22,6 +22,7 @@
 Investment Competition*
 - Udemy certificate on Data Science with Python (25 hours course)
 - Made a discord server for our cohort with some teachers (plentiful of studying ressources for each subjects)
+- *InspiritAI program*
 
 
 
