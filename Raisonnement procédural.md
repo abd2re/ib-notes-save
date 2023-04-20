@@ -18,7 +18,7 @@ Created: 2023-04-10
 - La pensée procédurale est une méthode disciplinée qui consiste à penser en séquence, dans l'ordre et de manière logique : trouver la procédure appropriée pour résoudre un problème.
 - La pensée procédurale peut se traduire par un organigramme.
 ![[image-20230410181642994.png]]
-<!--SR:!2023-04-20,6,230-->
+<!--SR:!2023-05-06,16,230-->
 
 ## Sous processus
 ?

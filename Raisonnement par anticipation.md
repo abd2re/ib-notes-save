@@ -5,7 +5,7 @@ Created: 2023-04-10
 
 # Raisonnement par anticipation
 - **Entrée** = :: Ce qui est introduit, pris en charge ou utilisé par un processus ou un système.
-<!--SR:!2023-04-20,6,226-->
+<!--SR:!2023-05-04,14,226-->
 - **Sortie** = :: Ce qui est produit, livré ou fourni (données) par un processus ou un système.
 <!--SR:!2023-04-28,10,226-->
 
