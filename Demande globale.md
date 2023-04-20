@@ -13,7 +13,7 @@ Formule de la demande globale:
 ?
 $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 (méthode de dépense du PIB)
-<!--SR:!2023-04-20,10,250-->
+<!--SR:!2023-05-16,26,250-->
 
 Forme de la courbe de demande globale:
 ?

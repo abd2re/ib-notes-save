@@ -47,7 +47,7 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
-<!--SR:!2023-04-20,14,230-->
+<!--SR:!2023-05-23,33,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
 <!--SR:!2023-05-07,26,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter
