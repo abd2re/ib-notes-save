@@ -39,4 +39,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 2. Taux d'échange
 3. Changements dans politiques commerciales
 4. Manipulation des taux de change/exigences en matière de santé et de sécurité
-<!--SR:!2023-04-21,1,130-->
+<!--SR:!2023-04-22,1,130-->

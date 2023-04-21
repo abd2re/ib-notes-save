@@ -6,7 +6,7 @@ Created: 2023-03-11
 # Importance de la coopération internationale
 ?
 Dans de nombreux cas d'externalités positives et négatives, les solutions exigent que les pays travaillent ensemble et parviennent à un accord international pour assurer un avenir durable.
-<!--SR:!2023-04-21,28,250-->
+<!--SR:!2023-07-04,74,250-->
 
 
 Défis rencontrés dans la coopération internationale:
@@ -14,4 +14,4 @@ Défis rencontrés dans la coopération internationale:
 - Absence de responsabilité partagée
 - Inégalité des ressources
 - Désaccords politiques
-<!--SR:!2023-04-21,21,210-->
+<!--SR:!2023-06-07,47,210-->
