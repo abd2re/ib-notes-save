@@ -7,7 +7,7 @@ Created: 2023-01-17
 ?
 Deux masses ponctuelles $m_1$ et $m_{2}$ exercent l'une sur l'autre des forces opposées. Cette force est proportionnelle au produit des deux masses et inversement proportionnelle au carré de la distance séparant ces qui les séparent.
 ![[image-20230117092558622.png]]
-<!--SR:!2023-04-22,56,230-->
+<!--SR:!2023-08-27,127,230-->
 
 
 Formule de la force de gravitation scalaire et vectorielle:
