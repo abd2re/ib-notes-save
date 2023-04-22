@@ -12,7 +12,7 @@ Les objectifs du prix plancher sont:
 ?
 - d'augmenter les revenus des producteurs de biens et de services que le gouvernement considère comme importants, tels que les produits agricoles, qui sont soumis à de fortes fluctuations de prix ou à une grande concurrence étrangère.
 - de protéger les travailleurs, en fixant un salaire minimum qui leur assure un revenu suffisant pour avoir un niveau de vie raisonnable.
-<!--SR:!2023-04-21,52,228-->
+<!--SR:!2023-08-23,124,228-->
 
 
 Figure de contrôles des prix minimums:
