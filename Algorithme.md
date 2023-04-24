@@ -23,4 +23,4 @@ Un algorithme peut être exprimé de plusieurs manières, notamment:
 - [[Organigrammes]]
 - pseudo-code
 - langage de programmation.
-<!--SR:!2023-04-24,10,250-->
+<!--SR:!2023-05-21,27,250-->
