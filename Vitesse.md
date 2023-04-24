@@ -18,7 +18,7 @@ Formule:
 ?
 $$\Large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
 ($M_{1}$ et $M_{2}$ positions aux dates $t_1$ et $t_{2}$ )
-<!--SR:!2023-04-23,16,230-->
+<!--SR:!2023-05-31,38,230-->
 
 ## Vitesse instantanée
 ?
