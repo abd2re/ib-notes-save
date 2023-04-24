@@ -42,7 +42,7 @@ Revenu = Production = Dépenses
 <!--SR:!2023-05-15,27,221-->
 
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
-<!--SR:!2023-04-24,16,241-->
+<!--SR:!2023-06-04,41,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
 <!--SR:!2023-05-06,20,221-->
 
