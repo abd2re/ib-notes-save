@@ -4,10 +4,9 @@ picoCTF (CMU): [picoCTF - CMU Cybersecurity Competition](https://picoctf.org)
 - [x] In progress
 - [x] Done
 
-
-France IOI 3eme Niveau
-- [x] Registered
-- [x] In progress
+France IOI (30 mai au 12 juin)
+- [ ] Registered
+- [ ] In progress
 - [ ] Done
 
 Wharton investing competition (May 2023)

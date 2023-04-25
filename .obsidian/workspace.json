@@ -86,17 +86,27 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Motion",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 2/Motion.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "__Current competitions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__Current competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__Current competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -302,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "__Current competitions.md"
               }
             }
           },
@@ -382,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "__Current competitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -450,17 +460,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24a330b8a94d8c96",
+  "active": "c203b7ace9abbb50",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/physics/theme 2/Motion.md",
+    "TOK Exhibition.md",
     "_TOK.md",
     "__ECs and Awards.md",
     "Excalidraw/Drawing 2023-04-20 11.14.05.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
-    "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419113010_679.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419111707_171.png",
@@ -480,7 +491,6 @@
     "_physics.md",
     "_CAS.md",
     "__useful links.md",
-    "TOK Exhibition.md",
     "Déterminants des composantes de la demande globale.md",
     "_economy.md",
     "Chute libre.md",
