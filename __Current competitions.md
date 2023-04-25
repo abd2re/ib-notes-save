@@ -20,7 +20,7 @@ Euclid Math competition:
 
 Hypatia Math competition:
 - [x] Registered
-- [ ] Done
+- [x] Done
 
 CodeChef competitions (different starters):
 - [x] Registered
@@ -30,7 +30,7 @@ CodeChef competitions (different starters):
 CSA Africa Coding Contest (3 april)
 - [x] Registered
 - [x] In progress
-- [ ] Done
+- [x] Done
 
 Helpful ressources:
 [Fetching Title#wieh](https://blog.prepscholar.com/computer-science-competitions-for-high-schoolers)
