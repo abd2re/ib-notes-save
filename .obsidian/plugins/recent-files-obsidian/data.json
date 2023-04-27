@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Fonctions linéaires",
+      "path": "Fonctions linéaires.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "Mathematics",
+      "path": "Mathematics.md"
+    },
+    {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "__C++",
       "path": "__C++.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Position relative parabole et droite",
-      "path": "Position relative parabole et droite.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     }
   ],
   "omittedPaths": [],

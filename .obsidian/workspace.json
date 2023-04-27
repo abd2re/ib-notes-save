@@ -81,11 +81,29 @@
             "id": "c203b7ace9abbb50",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Fonctions linéaires",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions linéaires.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":19},\"to\":{\"line\":4,\"ch\":19}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Mathematics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mathematics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "__Current competitions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.37037037037037}"
                 },
                 {
                   "title": "Motion",
@@ -98,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_math.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -265,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Current competitions.md"
+                "file": "_math.md"
               }
             }
           },
@@ -392,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Current competitions.md",
+                "file": "_math.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,6 +483,12 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Fonctions linéaires.md",
+    "_math.md",
+    "Formules de Viète.md",
+    "Position relative parabole et droite.md",
+    "Mathematics.md",
+    "__Current competitions.md",
     "exercises/physics/theme 2/Motion.md",
     "TOK Exhibition.md",
     "_TOK.md",
@@ -484,7 +508,6 @@
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
-    "__Current competitions.md",
     "_computer science.md",
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
@@ -500,10 +523,6 @@
     "Demande globale.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "Acceleration.md",
-    "Raisonnement abstrait.md",
-    "Chapitre 2 - Pensée computationnelle.md",
-    "Algorithme.md",
-    "Peace act structure.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
