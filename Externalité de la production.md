@@ -13,7 +13,7 @@ Lorsque le processus de production d'un bien ou d'un *service* génère un effet
 <!--SR:!2023-05-08,50,210-->
 
 - Lorsqu'une externalité négative de la production se produit,:: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
-<!--SR:!2023-04-25,49,250-->
+<!--SR:!2023-08-26,123,250-->
 
 Réponses possibles du gouvernement(3):
 ?

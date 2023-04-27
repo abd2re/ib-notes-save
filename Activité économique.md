@@ -9,7 +9,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-05-02,10,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
-<!--SR:!2023-04-26,18,250-->
+<!--SR:!2023-05-07,11,230-->
 
 ## Circuit économique
 (représentation économie ouverte)
@@ -57,4 +57,4 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
 <!--SR:!2023-05-01,22,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
-<!--SR:!2023-04-25,17,250-->
+<!--SR:!2023-06-09,45,250-->
