@@ -84,10 +84,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Fonctions linéaires",
+                  "title": "Formules de Viète",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions linéaires.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":19},\"to\":{\"line\":4,\"ch\":19}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formules de Viète.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -483,9 +483,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Fonctions linéaires.md",
-    "_math.md",
     "Formules de Viète.md",
+    "_math.md",
+    "Fonctions linéaires.md",
     "Position relative parabole et droite.md",
     "Mathematics.md",
     "__Current competitions.md",

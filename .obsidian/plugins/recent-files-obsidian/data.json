@@ -5,12 +5,12 @@
       "path": "_math.md"
     },
     {
-      "basename": "Fonctions linéaires",
-      "path": "Fonctions linéaires.md"
-    },
-    {
       "basename": "Formules de Viète",
       "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "Fonctions linéaires",
+      "path": "Fonctions linéaires.md"
     },
     {
       "basename": "Position relative parabole et droite",
