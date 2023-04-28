@@ -5,12 +5,12 @@
       "path": "Séries et Séquences.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "TOK Exhibition",
       "path": "TOK Exhibition.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
     },
     {
       "basename": "Logarithmes",

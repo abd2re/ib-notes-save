@@ -11,4 +11,6 @@ $$\LARGE{u_{1}+(n-1)d}$$
 
 $S_n$=
 ?
-$$\LARGE{\frac{n}{2}()}$$
+$$\LARGE{\frac{n}{2}(2u_{1}+(n-1)d)=\frac{n}{2}(u_{1}+u_{n})}$$
+
+## Géometrique
