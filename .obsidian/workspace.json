@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "c203b7ace9abbb50",
+            "id": "930a28cfc6636450",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -86,65 +86,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Déterminants des composantes de la demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":1.92}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.381631599328772}"
-                },
-                {
-                  "title": "Raisonnement abstrait",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":222},\"to\":{\"line\":17,\"ch\":222}},\"scroll\":3.3703703703703702}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.394376291050126}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mathematics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mathematics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "__Current competitions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__Current competitions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.37037037037037}"
-                },
-                {
-                  "title": "Motion",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 2/Motion.md\"}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarithmes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -307,7 +254,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +279,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -353,9 +298,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logarithmes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -434,7 +377,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Logarithmes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -502,19 +444,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c203b7ace9abbb50",
+  "active": "930a28cfc6636450",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "TOK Exhibition.md",
+    "Logarithmes.md",
+    "Déterminants des composantes de la demande globale.md",
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
-    "Déterminants des composantes de la demande globale.md",
     "template/math template.md",
     "template/physics template.md",
-    "Logarithmes.md",
     "_math.md",
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Demande globale.md",
     "_economy.md",
     "Raisonnement abstrait.md",
@@ -528,7 +471,6 @@
     "Mathematics.md",
     "__Current competitions.md",
     "exercises/physics/theme 2/Motion.md",
-    "TOK Exhibition.md",
     "_TOK.md",
     "__ECs and Awards.md",
     "Excalidraw/Drawing 2023-04-20 11.14.05.excalidraw.md",
@@ -540,7 +482,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419110202_000.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419105130_198.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419104340_172.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419102516_157.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
