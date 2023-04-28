@@ -88,6 +88,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.381631599328772}"
+                },
+                {
+                  "title": "Raisonnement abstrait",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Raisonnement abstrait.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":222},\"to\":{\"line\":17,\"ch\":222}},\"scroll\":3.3703703703703702}"
+                },
+                {
                   "title": "_computer science",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -122,8 +134,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement abstrait.md",
-                "mode": "source",
+                "file": "Déterminants des composantes de la demande globale.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -289,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -336,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement abstrait.md"
+                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png"
               }
             }
           },
@@ -416,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -484,11 +496,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c203b7ace9abbb50",
+  "active": "9e8162acf5f401e2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Déterminants des composantes de la demande globale.md",
+    "Demande globale.md",
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+    "_economy.md",
+    "Raisonnement abstrait.md",
     "_computer science.md",
     "_math.md",
     "Excalidraw/Drawing 2023-04-27 21.26.05.excalidraw.md",
@@ -513,7 +530,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419105130_198.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419104340_172.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419102516_157.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419093927_370.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
@@ -522,13 +538,10 @@
     "_physics.md",
     "_CAS.md",
     "__useful links.md",
-    "Déterminants des composantes de la demande globale.md",
-    "_economy.md",
     "Chute libre.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "test.md",
     "Test/Test.md",
-    "Demande globale.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",

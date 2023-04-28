@@ -33,10 +33,9 @@ Comment les déterminants affecte la courbe ? (représentation):
 <!--SR:!2023-04-30,5,161-->
 
 ## Déterminants des exportations nettes
-(4, relis leçon svp)
+(4)
 ?
 1. **Revenus des partenaires commerciaux**
-2. Taux d'échange
-3. Changements dans politiques commerciales
-4. Manipulation des taux de change/exigences en matière de santé et de sécurité
-<!--SR:!2023-04-28,1,130-->
+2. **Taux d'échange**
+3. **Changements dans politiques commerciales**
+4. **Manipulation des taux de change/exigences en matière de santé et de sécurité**
