@@ -11,4 +11,6 @@ $$\LARGE{z=a+bi}$$
 - Im($z$) =:: $b$
 
 --- 
-
+$(a+bi)(c+di)$=
+?
+$$\Large{(ac-bd)(ad+bc)}$$
