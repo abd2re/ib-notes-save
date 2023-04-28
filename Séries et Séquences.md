@@ -13,4 +13,11 @@ $S_n$=
 ?
 $$\LARGE{\frac{n}{2}(2u_{1}+(n-1)d)=\frac{n}{2}(u_{1}+u_{n})}$$
 
-## Géometrique
+## Géométrique
+$u_{n}$=
+?
+$$\LARGE{u_{1}r^{n-1}}$$
+
+$S_{n}$=
+?
+$$\LARGE{u_{1}/}$$
