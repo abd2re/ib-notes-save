@@ -22,4 +22,6 @@ $S_{n}$=
 ?
 $$\LARGE{u_{1}\frac{r^{n}-1}{r-1}=u_{1}\frac{1-r^{n}}{1-r}}$$
 
-$$
+$S_{\infty}$=
+?
+$$\LARGE{\frac{u_{1}}{1-r},\abs{}}$$
