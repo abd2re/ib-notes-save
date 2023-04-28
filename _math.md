@@ -4,6 +4,7 @@ tags: [M]
 banner: "![[SinAndCosFunctionPlot-1.webp]]"
 ---
 # Theme 1: Nombre et Algèbre
+1. [[Logarithmes]]
 
 # Theme 2: Fonctions
 1. [[Fonctions linéaires]]
