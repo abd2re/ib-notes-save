@@ -81,17 +81,23 @@
             "id": "c203b7ace9abbb50",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Formules de Viète",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formules de Viète.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.394376291050126}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Mathematics",
@@ -116,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_math.md",
+                "file": "Raisonnement abstrait.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -240,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -284,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_math.md",
+                "file": "Raisonnement abstrait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_math.md",
+                "file": "Raisonnement abstrait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -331,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_math.md"
+                "file": "Raisonnement abstrait.md"
               }
             }
           },
@@ -411,7 +416,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_math.md",
+                "file": "Raisonnement abstrait.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -484,10 +489,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
+    "_math.md",
     "Excalidraw/Drawing 2023-04-27 21.26.05.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw/Pasted Image 20230427212621_802.png",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
-    "_math.md",
     "Formules de Viète.md",
     "Fonctions linéaires.md",
     "Position relative parabole et droite.md",
@@ -511,7 +517,6 @@
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
-    "_computer science.md",
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
