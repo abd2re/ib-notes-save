@@ -27,4 +27,6 @@ $S_{\infty}$=
 $$\LARGE{\frac{u_{1}}{1-r},|r|<1}$$
 
 ## Intérêt composé
-$FV$
+$FV$=
+?
+$$\LARGE{PV\times\left(1+ \frac{r}{100k}\right)^{kn}}$$
