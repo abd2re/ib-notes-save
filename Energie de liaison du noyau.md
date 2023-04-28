@@ -22,7 +22,7 @@ $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réa
 ## Energie de liaison
 ?
 L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
-<!--SR:!2023-04-27,25,250-->
+<!--SR:!2023-06-29,63,250-->
 
 Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
 ?
@@ -30,7 +30,7 @@ $$\Large{E_{l}=\Delta mc^{2}}$$
 - $E_{l}$ = énergie de liaison du noyau (en MeV)
 - $\Delta m$ =  défaut de masse du noyau (en kg)
 - $c$ = célérité de la lumière dans le vide (en $ms^{-1}$)
-<!--SR:!2023-04-27,24,250-->
+<!--SR:!2023-06-30,64,250-->
 
 L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
 ?
