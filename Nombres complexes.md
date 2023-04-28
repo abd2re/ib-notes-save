@@ -17,6 +17,12 @@ $$\Large{(ac-bd)+i(ad+bc)}$$
 
 $(a+bi)^{2}$=
 ?
-$$\Large{a^{2}}$$
+$$\Large{a^{2}-b^{2}+i2ab}$$
+
+$(a-bi)^{2}$=
+?
+$$\Large{a^{2}-b^{2}-i2ab}$$
+
+$(a+ib)(a-ib)$
 
 ---
