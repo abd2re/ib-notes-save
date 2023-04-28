@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Théorème Binomial",
+      "path": "Théorème Binomial.md"
+    },
+    {
       "basename": "_math",
       "path": "_math.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PIB",
       "path": "PIB.md"
-    },
-    {
-      "basename": "Activité économique",
-      "path": "Activité économique.md"
     }
   ],
   "omittedPaths": [],

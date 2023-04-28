@@ -81,25 +81,25 @@
             "id": "930a28cfc6636450",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Séries et Séquences",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Séries et Séquences.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.614688856729378}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.8576051779935275}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_math.md",
-                "mode": "preview",
+                "file": "Théorème Binomial.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_math.md",
+                "file": "Théorème Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_math.md",
+                "file": "Théorème Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_math.md"
+                "file": "Théorème Binomial.md"
               }
             }
           },
@@ -392,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_math.md",
+                "file": "Théorème Binomial.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,9 +465,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_math.md",
+    "Théorème Binomial.md",
     "Séries et Séquences.md",
     "TOK Exhibition.md",
-    "_math.md",
     "Logarithmes.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
@@ -506,7 +507,6 @@
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
     "_CAS.md",
-    "__useful links.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
