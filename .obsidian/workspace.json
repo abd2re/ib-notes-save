@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorème Binomial.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -392,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -466,6 +466,7 @@
   },
   "lastOpenFiles": [
     "_math.md",
+    "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "TOK Exhibition.md",
@@ -506,7 +507,6 @@
     "Utilisation des aires.md",
     "Mouvement rectiligne uniforme.md",
     "_physics.md",
-    "_CAS.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",

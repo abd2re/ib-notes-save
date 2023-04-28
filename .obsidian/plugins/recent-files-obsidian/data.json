@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nombres complexes",
+      "path": "Nombres complexes.md"
+    },
+    {
       "basename": "_math",
       "path": "_math.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Méthode des dépenses (demande)",
       "path": "Méthode des dépenses (demande).md"
-    },
-    {
-      "basename": "PIB",
-      "path": "PIB.md"
     }
   ],
   "omittedPaths": [],

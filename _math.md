@@ -7,6 +7,7 @@ banner: "![[SinAndCosFunctionPlot-1.webp]]"
 1. [[Logarithmes]]
 2. [[Séries et Séquences]]
 3. [[Théorème Binomial]]
+4. [[Nombres complexes]]
 
 # Theme 2: Fonctions
 1. [[Fonctions linéaires]]
