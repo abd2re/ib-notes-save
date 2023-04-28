@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -428,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -496,14 +496,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e8162acf5f401e2",
+  "active": "c203b7ace9abbb50",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Déterminants des composantes de la demande globale.md",
     "Demande globale.md",
-    "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "_economy.md",
     "Raisonnement abstrait.md",
     "_computer science.md",
@@ -541,7 +541,6 @@
     "Chute libre.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "test.md",
-    "Test/Test.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
