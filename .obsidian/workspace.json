@@ -86,12 +86,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.8576051779935275}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Séries et Séquences.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -254,6 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Séries et Séquences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Séries et Séquences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +311,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Séries et Séquences.md"
+              }
             }
           },
           {
@@ -377,6 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Séries et Séquences.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -449,6 +465,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_math.md",
+    "Séries et Séquences.md",
     "TOK Exhibition.md",
     "Logarithmes.md",
     "Déterminants des composantes de la demande globale.md",
@@ -457,7 +475,6 @@
     "assets/Logarithmes",
     "template/math template.md",
     "template/physics template.md",
-    "_math.md",
     "Demande globale.md",
     "_economy.md",
     "Raisonnement abstrait.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Séries et Séquences",
+      "path": "Séries et Séquences.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "TOK Exhibition",
       "path": "TOK Exhibition.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_economy",
@@ -195,10 +199,6 @@
     {
       "basename": "Activité économique",
       "path": "Activité économique.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
     }
   ],
   "omittedPaths": [],
