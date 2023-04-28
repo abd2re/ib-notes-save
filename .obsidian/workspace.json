@@ -88,6 +88,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Déterminants des composantes de la demande globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Déterminants des composantes de la demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":1.92}"
+                },
+                {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -134,8 +140,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
-                "mode": "preview",
+                "file": "Logarithmes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -301,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -428,7 +434,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Logarithmes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -501,11 +507,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Déterminants des composantes de la demande globale.md",
     "template/math template.md",
     "template/physics template.md",
     "Logarithmes.md",
     "_math.md",
-    "Déterminants des composantes de la demande globale.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "Demande globale.md",
     "_economy.md",

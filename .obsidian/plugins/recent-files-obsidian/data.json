@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Logarithmes",
+      "path": "Logarithmes.md"
+    },
+    {
       "basename": "Déterminants des composantes de la demande globale",
       "path": "Déterminants des composantes de la demande globale.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "Logarithmes",
-      "path": "Logarithmes.md"
     },
     {
       "basename": "_math",
