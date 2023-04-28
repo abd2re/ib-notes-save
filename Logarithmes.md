@@ -10,5 +10,3 @@ Lois des logarithmes (addition, soustraction, multiplication)
 ?
 ![[image-20230428202937182.png]]
 
-- $log_{a}(1)$=::0
-- 
