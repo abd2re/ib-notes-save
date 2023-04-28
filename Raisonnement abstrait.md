@@ -13,4 +13,5 @@ C'est quoi l'abstraction ?
 L'abstraction est le processus qui consiste à enlever ou à supprimer des caractéristiques d'une chose afin de la réduire à un ensemble de caractéristiques essentielles.
 
 
-
+## Programmation Orientée Objet
+?
