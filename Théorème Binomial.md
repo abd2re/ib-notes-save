@@ -6,7 +6,7 @@ Created: 2023-04-28
 # Théorème Binomial
 $(a+b)^{n}$=
 ?
-$$\LARGE{\sum_r=0}$$
+$$\LARGE{\sum^n_{r=0}\binom{n}{r}a^{r}b^{n-r}}$$
 
 $\binom{n}{r}$=
 ?
