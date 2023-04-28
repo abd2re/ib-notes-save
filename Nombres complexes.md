@@ -13,4 +13,6 @@ $$\LARGE{z=a+bi}$$
 --- 
 $(a+bi)(c+di)$=
 ?
-$$\Large{(ac-bd)(ad+bc)}$$
+$$\Large{(ac-bd)+i(ad+bc)}$$
+
+---
