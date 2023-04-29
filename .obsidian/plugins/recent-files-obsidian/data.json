@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Nombres complexes",
-      "path": "Nombres complexes.md"
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
     },
     {
       "basename": "_math",
       "path": "_math.md"
+    },
+    {
+      "basename": "Nombres complexes",
+      "path": "Nombres complexes.md"
     },
     {
       "basename": "Théorème Binomial",
@@ -195,10 +199,6 @@
     {
       "basename": "Effet richesse",
       "path": "Effet richesse.md"
-    },
-    {
-      "basename": "Méthode des dépenses (demande)",
-      "path": "Méthode des dépenses (demande).md"
     }
   ],
   "omittedPaths": [],

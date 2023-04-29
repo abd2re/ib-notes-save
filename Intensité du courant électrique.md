@@ -14,7 +14,7 @@ $$I=\frac{q}{t}$$
 - $I$ = intensité du courant électrique en ampère
 - $q$ = charge en coulomb
 - $t$ = en secondes
-<!--SR:!2023-04-28,82,230-->
+<!--SR:!2023-11-04,190,230-->
 
 ## Nature du courant électrique
 ?

@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Fonctions quadratiques.md"
               }
             }
           },
@@ -392,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -466,6 +466,7 @@
   },
   "lastOpenFiles": [
     "_math.md",
+    "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
@@ -485,7 +486,6 @@
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw/Pasted Image 20230427212621_802.png",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Formules de Viète.md",
-    "Fonctions linéaires.md",
     "Position relative parabole et droite.md",
     "Mathematics.md",
     "__Current competitions.md",
