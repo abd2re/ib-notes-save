@@ -47,7 +47,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 <!--SR:!2023-05-19,84,222-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
-<!--SR:!2023-04-29,82,242-->
+<!--SR:!2023-11-13,198,242-->
 
 ## Utilisation des appareils de mesure
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
