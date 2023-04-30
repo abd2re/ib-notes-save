@@ -15,7 +15,7 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 - Un bien est considéré comme rival si:: une fois consommé, il ne peut plus être consommé par une autre personne.
 <!--SR:!2023-06-13,61,250-->
 - Les ressources du pool commun ne sont pas exclusives car:: il n'est pas possible d'exclure qui que ce soit de son utilisation et **elles n'ont pas de prix** et n'importe qui peut les utiliser sans paiement.
-<!--SR:!2023-04-30,32,230-->
+<!--SR:!2023-07-13,74,230-->
 - **Les ressources d'accès commun** sont à la différence des biens privés en ce qu'elles:: **ne sont pas exclusives**.
 <!--SR:!2023-06-24,63,230-->
 - **Les ressources d'accès commun** sont  à la différence des [[biens publics]] en ce qu'elles:: sont **rivales** .
@@ -31,4 +31,4 @@ Réponses du gouvernement aux menaces à  la durabilité:
 -   [[Subventions]] pour promotion d'énergie renouvelables
 -   [[Législation]]
 -   Auto-gouvernance collective
-<!--SR:!2023-04-30,23,176-->
+<!--SR:!2023-06-11,42,176-->
