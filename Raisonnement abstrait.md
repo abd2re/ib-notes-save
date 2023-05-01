@@ -7,7 +7,7 @@ Created: 2023-04-12
 ?
 En informatique, l'abstraction est une technique permettant de gérer la complexité des systèmes informatiques.
  
-<!--SR:!2023-05-01,2,230-->
+<!--SR:!2023-05-05,4,230-->
 
 C'est quoi l'abstraction ?
 ?
