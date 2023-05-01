@@ -55,6 +55,6 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si S > I $\rightarrow$:: Excédent d'épargnes
 <!--SR:!2023-06-18,50,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
-<!--SR:!2023-05-01,22,250-->
+<!--SR:!2023-06-25,55,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
 <!--SR:!2023-06-09,45,250-->
