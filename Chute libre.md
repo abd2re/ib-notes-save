@@ -7,7 +7,7 @@ Created: 2023-04-11
 ?
 Un objet tombe en chute libre s'il n'est soumis qu'a son poids, pas de résistance de l'air. (application de MRUV)
 ![[image-20230411094012047.png]]
-<!--SR:!2023-04-30,10,190-->
+<!--SR:!2023-05-20,20,190-->
 
 - Un objet qui tombe en chute libre a l'acceleration:: $\vec{a}=\vec{g}$
 <!--SR:!2023-05-04,14,230-->

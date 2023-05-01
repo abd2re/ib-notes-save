@@ -28,4 +28,4 @@ C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la 
 Formule:
 ?
 $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
-<!--SR:!2023-04-30,21,250-->
+<!--SR:!2023-06-23,54,250-->
