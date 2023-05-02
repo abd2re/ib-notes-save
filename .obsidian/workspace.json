@@ -46,37 +46,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8590f240b17de6ec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.95601851851852}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparative Essay.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparative Essay.md",
+                "file": "HL essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparative Essay.md",
+                "file": "HL essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparative Essay.md"
+                "file": "HL essay.md"
               }
             }
           },
@@ -362,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comparative Essay.md",
+                "file": "HL essay.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,11 +401,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8590f240b17de6ec",
+  "active": "d56ec789e71d18c3",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Comparative Essay.md",
     "_english.md",
     "HL essay.md",
     "_math.md",
@@ -466,7 +438,6 @@
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw/Pasted Image 20230427212621_802.png",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Formules de Viète.md",
-    "Position relative parabole et droite.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
