@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Mouvement rectiligne uniforme/image-20230330161512194.png"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -345,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -413,11 +413,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2be1ac14db49deb1",
+  "active": "930a28cfc6636450",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Mouvement rectiligne uniforme.md",
     "Chapitre 1 - Cinématique.md",
     "Mouvement d'un projectile.md",
@@ -448,7 +449,6 @@
     "Formules de Viète.md",
     "Position relative parabole et droite.md",
     "Mathematics.md",
-    "__Current competitions.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
@@ -456,7 +456,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419111707_171.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419110202_000.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419105130_198.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419104340_172.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
