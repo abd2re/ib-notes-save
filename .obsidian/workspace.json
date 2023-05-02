@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement d'un projectile.md",
-                "mode": "source",
+                "file": "Mouvement rectiligne uniforme.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -345,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Mouvement rectiligne uniforme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,9 +418,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "TOK Exhibition.md",
-    "Mouvement d'un projectile.md",
     "Chapitre 1 - Cinématique.md",
+    "Mouvement rectiligne uniforme.md",
+    "Mouvement d'un projectile.md",
+    "TOK Exhibition.md",
     "Utilisation des aires.md",
     "Theme 2-Mécanique.md",
     "_physics.md",
@@ -448,7 +449,6 @@
     "Position relative parabole et droite.md",
     "Mathematics.md",
     "__Current competitions.md",
-    "exercises/physics/theme 2/Motion.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
