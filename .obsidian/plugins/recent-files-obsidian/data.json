@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TOK Exhibition",
+      "path": "TOK Exhibition.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "7 objectifs d'apprentissage CAS",
+      "path": "7 objectifs d'apprentissage CAS.md"
+    },
+    {
       "basename": "HL essay",
       "path": "HL essay.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Mouvement d'un projectile",
       "path": "Mouvement d'un projectile.md"
-    },
-    {
-      "basename": "TOK Exhibition",
-      "path": "TOK Exhibition.md"
     },
     {
       "basename": "Theme 2-Mécanique",
@@ -117,10 +125,6 @@
       "path": "exercises/physics/theme 2/Motion.md"
     },
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
       "basename": "__ECs and Awards",
       "path": "__ECs and Awards.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chapitre 1 - Notion de bases",
       "path": "Chapitre 1 - Notion de bases.md"
-    },
-    {
-      "basename": "Organigrammes",
-      "path": "Organigrammes.md"
     }
   ],
   "omittedPaths": [],

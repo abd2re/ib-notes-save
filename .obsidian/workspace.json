@@ -11,16 +11,28 @@
             "id": "d56ec789e71d18c3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Peace act structure",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Peace act structure.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":15.548387096774194}"
+                },
+                {
+                  "title": "7 objectifs d'apprentissage CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "HL essay",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HL essay.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HL essay.md",
+                "file": "TOK Exhibition.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HL essay.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HL essay.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HL essay.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -339,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HL essay.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,8 +424,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Peace act structure.md",
+    "_TOK.md",
+    "Perspective.md",
+    "7 objectifs d'apprentissage CAS.md",
     "HL essay.md",
+    "Peace act structure.md",
     "Attributs du profil de l'apprenant.md",
     "Comparative Essay.md",
     "_english.md",
@@ -439,9 +454,6 @@
     "template/math template.md",
     "template/physics template.md",
     "Demande globale.md",
-    "_economy.md",
-    "Raisonnement abstrait.md",
-    "_computer science.md",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw/Pasted Image 20230427212621_802.png",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
