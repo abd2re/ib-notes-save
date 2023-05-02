@@ -88,6 +88,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 1 - Cinématique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.074074074074074}"
+                },
+                {
+                  "title": "Fonctions quadratiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.883680555555557}"
+                },
+                {
                   "title": "_math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -98,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Mouvement d'un projectile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -265,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -392,7 +416,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Mouvement d'un projectile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,6 +489,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Cinématique.md",
+    "Mouvement d'un projectile.md",
+    "Theme 2-Mécanique.md",
+    "_physics.md",
+    "Fonctions quadratiques.md",
     "_math.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
@@ -491,8 +520,6 @@
     "__Current competitions.md",
     "exercises/physics/theme 2/Motion.md",
     "_TOK.md",
-    "__ECs and Awards.md",
-    "Excalidraw/Drawing 2023-04-20 11.14.05.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
@@ -504,9 +531,6 @@
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
-    "Utilisation des aires.md",
-    "Mouvement rectiligne uniforme.md",
-    "_physics.md",
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",

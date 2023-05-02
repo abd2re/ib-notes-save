@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Mouvement d'un projectile",
+      "path": "Mouvement d'un projectile.md"
+    },
+    {
+      "basename": "Chapitre 1 - Cinématique",
+      "path": "Chapitre 1 - Cinématique.md"
+    },
+    {
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
     },
@@ -97,10 +113,6 @@
       "path": "Utilisation des aires.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "_CAS",
       "path": "_CAS.md"
     },
@@ -139,10 +151,6 @@
     {
       "basename": "Peace act structure",
       "path": "Peace act structure.md"
-    },
-    {
-      "basename": "Chapitre 1 - Cinématique",
-      "path": "Chapitre 1 - Cinématique.md"
     },
     {
       "basename": "Mouvement rectiligne uniforme",
@@ -191,14 +199,6 @@
     {
       "basename": "Effet solde net",
       "path": "Effet solde net.md"
-    },
-    {
-      "basename": "Effet taux d'intérêt",
-      "path": "Effet taux d'intérêt.md"
-    },
-    {
-      "basename": "Effet richesse",
-      "path": "Effet richesse.md"
     }
   ],
   "omittedPaths": [],
