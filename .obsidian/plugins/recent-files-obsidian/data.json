@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "HL essay",
+      "path": "HL essay.md"
+    },
+    {
       "basename": "_english",
       "path": "_english.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
     },
     {
       "basename": "Mouvement rectiligne uniforme",
@@ -31,10 +39,6 @@
     {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Nombres complexes",
@@ -195,10 +199,6 @@
     {
       "basename": "Notion de problème",
       "path": "Notion de problème.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
     }
   ],
   "omittedPaths": [],

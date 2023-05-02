@@ -16,13 +16,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.324167872648335}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":15},\"to\":{\"line\":40,\"ch\":3}},\"scroll\":20.84490740740741}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_english.md",
+                "file": "HL essay.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_english.md",
+                "file": "HL essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_english.md",
+                "file": "HL essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_english.md"
+                "file": "HL essay.md"
               }
             }
           },
@@ -315,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_english.md",
+                "file": "HL essay.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -388,6 +406,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_english.md",
+    "HL essay.md",
+    "_math.md",
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Chapitre 1 - Cinématique.md",
@@ -397,7 +418,6 @@
     "Theme 2-Mécanique.md",
     "_physics.md",
     "Fonctions quadratiques.md",
-    "_math.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Théorème Binomial.md",
@@ -418,7 +438,6 @@
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Formules de Viète.md",
     "Position relative parabole et droite.md",
-    "Mathematics.md",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
