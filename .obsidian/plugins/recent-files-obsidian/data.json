@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "HL essay",
-      "path": "HL essay.md"
+      "basename": "Comparative Essay",
+      "path": "Comparative Essay.md"
     },
     {
       "basename": "_english",
       "path": "_english.md"
+    },
+    {
+      "basename": "HL essay",
+      "path": "HL essay.md"
     },
     {
       "basename": "_math",
@@ -195,10 +199,6 @@
     {
       "basename": "Organigrammes",
       "path": "Organigrammes.md"
-    },
-    {
-      "basename": "Notion de problème",
-      "path": "Notion de problème.md"
     }
   ],
   "omittedPaths": [],

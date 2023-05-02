@@ -46,8 +46,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8590f240b17de6ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.95601851851852}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparative Essay.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HL essay.md",
+                "file": "Comparative Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HL essay.md",
+                "file": "Comparative Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HL essay.md"
+                "file": "Comparative Essay.md"
               }
             }
           },
@@ -333,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HL essay.md",
+                "file": "Comparative Essay.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -401,7 +430,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d56ec789e71d18c3",
+  "active": "8590f240b17de6ec",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
