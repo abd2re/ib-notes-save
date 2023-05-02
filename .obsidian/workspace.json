@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "HL essay",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HL essay.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":3}"
+                },
+                {
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HL essay.md",
+                "file": "Peace act structure.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -206,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HL essay.md",
+                "file": "Peace act structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HL essay.md",
+                "file": "Peace act structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HL essay.md"
+                "file": "Peace act structure.md"
               }
             }
           },
@@ -333,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HL essay.md",
+                "file": "Peace act structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -406,8 +412,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Attributs du profil de l'apprenant.md",
     "HL essay.md",
+    "Attributs du profil de l'apprenant.md",
     "Comparative Essay.md",
     "_english.md",
     "_math.md",
