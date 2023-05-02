@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0ae4f9b1e5f218",
+        "id": "2b3eb85268c67d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "930a28cfc6636450",
+            "id": "d56ec789e71d18c3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,44 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Cinématique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Cinématique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.074074074074074}"
-                },
-                {
-                  "title": "Fonctions quadratiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fonctions quadratiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.883680555555557}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.8576051779935275}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
-                "mode": "preview",
+                "file": "_english.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -218,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md"
+                "file": "_english.md"
               }
             }
           },
@@ -345,7 +315,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "_english.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -413,13 +383,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "930a28cfc6636450",
+  "active": "d56ec789e71d18c3",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Mouvement rectiligne uniforme.md",
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Chapitre 1 - Cinématique.md",
     "Mouvement d'un projectile.md",
     "TOK Exhibition.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Mouvement rectiligne uniforme",
       "path": "Mouvement rectiligne uniforme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Loi de la demande",
       "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Effet solde net",
-      "path": "Effet solde net.md"
     }
   ],
   "omittedPaths": [],
