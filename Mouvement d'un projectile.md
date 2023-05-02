@@ -5,3 +5,4 @@ Created: 2023-05-02
 
 # Mouvement d'un projectile
 ?
+Si on néglige la résistance de l'air
