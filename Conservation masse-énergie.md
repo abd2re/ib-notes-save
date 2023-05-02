@@ -18,7 +18,7 @@ $$\LARGE{E=mc^{2}}$$
 
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
 - Valeur de MeV =:: $10^{6}eV$ = $1.60\cdot 10^{-13}J$
-<!--SR:!2023-05-02,28,250-->
+<!--SR:!2023-07-11,70,250-->
 
 A cette échelle, il est possible d'utiliser comme unité de masse l'unité de masse atomique (notée u). L'unité de masse atomique est définie comme étant égale:: au douzième de la masse d'un atome de carbone .
 <!--SR:!2023-06-17,55,250-->
