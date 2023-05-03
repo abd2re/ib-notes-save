@@ -7,9 +7,8 @@ Created: 2023-05-02
 Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son pods $\vec{p}$ son accélération sera $\vec{a}=\vec{g}$.
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
-$a_{x}$=0 selon l'axe des x le mouvement est rectiligne uniforme (MRV)
-$a_{y}$=-g selon l'axe des y le mouvement est MRUV
----
+$a_{x}$=::0
+$a_{y}$=-g
 $v_{0}$=::vitesse initiale
 $\theta$=::angle de projection
 
