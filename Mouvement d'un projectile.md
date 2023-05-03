@@ -10,4 +10,4 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son pods
 $a_{x}$=0 selon l'axe des x le mouvement est rectiligne uniforme (MRV)
 $a_{x}$=-g selon l'axe des y le mouvement est MRUV
 
-- Equation horaires
+Equation de x::$$\large$$
