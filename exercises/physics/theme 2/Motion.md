@@ -25,6 +25,7 @@ ddfa0ef7ea66c10c29e49c3f71b0315ebe7402d1: [[Pasted Image 20230419092721_436.png]
 445e9364b8f53d4bb2b55707631fe09c9ce22e51: [[Pasted Image 20230503190933_255.png]]
 888d8e1fad9de2e17b0316b4f29c97da8fa496c7: [[Pasted Image 20230503191204_982.png]]
 a51567b0d760ff364df044d343b9d123ed8eb661: [[Pasted Image 20230503191908_979.png]]
+701f1f8919fbb0857462066d564621b404a04c53: [[Pasted Image 20230503192603_059.png]]
 
 %%
 # Drawing
@@ -128248,6 +128249,38 @@ a51567b0d760ff364df044d343b9d123ed8eb661: [[Pasted Image 20230503191908_979.png]
 			]
 		},
 		{
+			"id": "E1s36CnfD_FTPk1S54T6V",
+			"type": "image",
+			"x": -1398.3563966075933,
+			"y": 25385.238207348844,
+			"width": 1337.1117134071167,
+			"height": 1061.70250364252,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 602114138,
+			"version": 47,
+			"versionNonce": 1574686790,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683141962169,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "701f1f8919fbb0857462066d564621b404a04c53",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"id": "RnO_0SkFN2JeWmE_WXEiR",
 			"type": "freedraw",
 			"x": -1184.1637981556664,
@@ -130847,10 +130880,10 @@ a51567b0d760ff364df044d343b9d123ed8eb661: [[Pasted Image 20230503191908_979.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1757.437885587424,
-		"scrollY": -24407.41050944365,
+		"scrollX": 2561.9403320249285,
+		"scrollY": -24896.950816826884,
 		"zoom": {
-			"value": 0.9260605273952389
+			"value": 0.5260605273952386
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
