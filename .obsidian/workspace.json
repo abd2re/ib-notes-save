@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_computer science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.394376291050126}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_computer science.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -196,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_computer science.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_computer science.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_computer science.md"
+                "file": "Chapitre 2 - Pensée computationnelle.md"
               }
             }
           },
@@ -323,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_computer science.md",
+                "file": "Chapitre 2 - Pensée computationnelle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -396,6 +402,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_computer science.md",
     "Mouvement d'un projectile.md",
     "_physics.md",
     "Arts.md",
@@ -425,7 +432,6 @@
     "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
