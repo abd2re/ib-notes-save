@@ -13,4 +13,5 @@ $v_{0}$=::vitesse initiale
 $\theta$=::angle de projection
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
-- Equation de y::$$\large{y=\frac{-1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
+- Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
+- Equation de $v_{x}$:: $$$$
