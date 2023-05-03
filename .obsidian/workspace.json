@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -414,6 +415,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "Mouvement d'un projectile.md",
     "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
     "_physics.md",
@@ -443,7 +445,6 @@
     "Theme 2-Mécanique.md",
     "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
-    "Nombres complexes.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
