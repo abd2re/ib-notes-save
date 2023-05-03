@@ -4,11 +4,11 @@ tags: [physics]
 Created: 2023-05-02
 
 # Mouvement d'un projectile
-Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son pods $\vec{p}$ son accélération sera $\vec{a}=\vec{g}$.
+Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poids $\vec{p}$ son accélération sera $\vec{a}=\vec{g}$.
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
 $a_{x}$=::0
-$a_{y}$=-g
+$a_{y}$=::-g
 $v_{0}$=::vitesse initiale
 $\theta$=::angle de projection
 
@@ -16,3 +16,4 @@ $\theta$=::angle de projection
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)}$$
+- Equation de fleche (H):: $$$$
