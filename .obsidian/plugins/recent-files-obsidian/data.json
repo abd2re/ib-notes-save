@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raisonnement procédural",
       "path": "Raisonnement procédural.md"
-    },
-    {
-      "basename": "Chapitre 1 - Notion de bases",
-      "path": "Chapitre 1 - Notion de bases.md"
     }
   ],
   "omittedPaths": [],

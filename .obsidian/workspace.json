@@ -11,17 +11,17 @@
             "id": "d56ec789e71d18c3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "TOK Exhibition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "7 objectifs d'apprentissage CAS",
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TOK.md",
+                "file": "Knowers and Knowing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_TOK.md",
+                "file": "Knowers and Knowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_TOK.md",
+                "file": "Knowers and Knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TOK.md"
+                "file": "Knowers and Knowing.md"
               }
             }
           },
@@ -393,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_TOK.md",
+                "file": "Knowers and Knowing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -466,8 +466,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "TOK Exhibition.md",
     "_TOK.md",
+    "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/TOK Exhibition/image-20230415123019933.png",
