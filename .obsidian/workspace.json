@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":22},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.8543689320388349}"
+                },
+                {
+                  "title": "Arts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":136},\"to\":{\"line\":14,\"ch\":136}},\"scroll\":0.711864406779661}"
+                },
+                {
                   "title": "_TOK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -58,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arts.md",
+                "file": "Mouvement d'un projectile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -232,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arts.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arts.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arts.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -359,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arts.md",
+                "file": "Mouvement d'un projectile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -432,10 +444,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
+    "Arts.md",
     "TOK Exhibition.md",
     "_TOK.md",
     "TOK idk.md",
-    "Arts.md",
     "Knowers and Knowing.md",
     "Knowledge.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
@@ -455,7 +468,6 @@
     "Mouvement d'un projectile.md",
     "Utilisation des aires.md",
     "Theme 2-Mécanique.md",
-    "_physics.md",
     "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",

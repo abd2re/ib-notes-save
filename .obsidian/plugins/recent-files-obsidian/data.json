@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mouvement d'un projectile",
+      "path": "Mouvement d'un projectile.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Arts",
       "path": "Arts.md"
     },
@@ -53,16 +61,8 @@
       "path": "Chapitre 1 - Cinématique.md"
     },
     {
-      "basename": "Mouvement d'un projectile",
-      "path": "Mouvement d'un projectile.md"
-    },
-    {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Fonctions quadratiques",
