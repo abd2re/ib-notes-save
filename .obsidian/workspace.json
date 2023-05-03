@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3eb85268c67d5a",
+        "id": "e504be1827ffd706",
         "type": "tabs",
         "children": [
           {
-            "id": "d56ec789e71d18c3",
+            "id": "fa447a7249163601",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,62 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":22},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.8543689320388349}"
-                },
-                {
-                  "title": "Arts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":136},\"to\":{\"line\":14,\"ch\":136}},\"scroll\":0.711864406779661}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.138929088277858}"
-                },
-                {
-                  "title": "7 objectifs d'apprentissage CAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "HL essay",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HL essay.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.324167872648335}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":15},\"to\":{\"line\":40,\"ch\":3}},\"scroll\":20.84490740740741}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement d'un projectile.md",
-                "mode": "preview",
+                "file": "_computer science.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -244,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "_computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "_computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -291,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "_computer science.md"
               }
             }
           },
@@ -371,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "_computer science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -439,11 +391,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d56ec789e71d18c3",
+  "active": "fa447a7249163601",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Mouvement d'un projectile.md",
     "_physics.md",
     "Arts.md",
     "TOK Exhibition.md",
@@ -465,7 +418,6 @@
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Chapitre 1 - Cinématique.md",
-    "Mouvement d'un projectile.md",
     "Utilisation des aires.md",
     "Theme 2-Mécanique.md",
     "Fonctions quadratiques.md",
