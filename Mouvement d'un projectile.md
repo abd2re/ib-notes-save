@@ -16,5 +16,5 @@ $\theta$=::angle de projection
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)}$$
-- Equation de fleche (H):: $$\large{H=\frac{v^{2}\sin^2(\theta)}{2g}}$$
-- Equation de portée (R):: $$\large{R=\frac{v^{2}\sin^{2}(2\theta)}{g}}$$
+- Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
+- Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
