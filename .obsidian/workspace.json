@@ -11,17 +11,17 @@
             "id": "d56ec789e71d18c3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "TOK Exhibition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK Exhibition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_TOK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":15.548387096774194}"
                 },
                 {
                   "title": "7 objectifs d'apprentissage CAS",
@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
-                "mode": "source",
+                "file": "_TOK.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -314,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "_TOK.md"
               }
             }
           },
@@ -394,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "_TOK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -462,14 +461,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "74c2bb541ce205b7",
+  "active": "d56ec789e71d18c3",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "TOK Exhibition.md",
     "_TOK.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
-    "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/TOK Exhibition/image-20230415123019933.png",
     "Perspective.md",
