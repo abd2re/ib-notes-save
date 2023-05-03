@@ -8,4 +8,6 @@ Created: 2023-05-03
 Georgia O'Keeffe
 
 - Art can say more things than words
-- We can find unparalled 
+- We can find unparalleled beauty in art
+
+1. I agree with that quotation, 
