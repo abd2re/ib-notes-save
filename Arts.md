@@ -7,7 +7,9 @@ Created: 2023-05-03
 	“I found that I could say things with color and shapes that I couldn't say in any other way—things that I had no words for.”
 Georgia O'Keeffe
 
-- Art can say more things than words
-- We can find unparalleled beauty in art
 
-1. I agree with that quotation, 
+
+1. I agree with that quotation.
+2. Visual arts like painting.
+3. Art can say more things than words. We can find unparalleled beauty in art.
+4. 
