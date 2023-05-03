@@ -14,9 +14,12 @@ $\theta$=::angle de projection
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
+<!--SR:!2023-05-06,3,250-->
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
 <!--SR:!2023-05-06,3,250-->
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)=\sqrt{v_{0}^{2}\sin^{2}(\theta)-2gy}}$$
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
+<!--SR:!2023-05-06,3,250-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
+<!--SR:!2023-05-04,1,230-->
 - Equation du temps (t):: $$\large{t=\frac{2v_{0}\sin(\theta)}{g}}$$
