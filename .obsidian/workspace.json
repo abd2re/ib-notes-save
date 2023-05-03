@@ -11,17 +11,17 @@
             "id": "d56ec789e71d18c3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Knowers and Knowing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Knowers and Knowing.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.138929088277858}"
                 },
                 {
                   "title": "7 objectifs d'apprentissage CAS",
@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TOK.md",
-                "mode": "preview",
+                "file": "Arts.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_TOK.md",
+                "file": "Arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_TOK.md",
+                "file": "Arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TOK.md"
+                "file": "Arts.md"
               }
             }
           },
@@ -393,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_TOK.md",
+                "file": "Arts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -466,9 +466,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_TOK.md",
+    "Arts.md",
     "Knowers and Knowing.md",
     "Knowledge.md",
-    "_TOK.md",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/TOK Exhibition/image-20230415122230878.png",
@@ -498,7 +499,6 @@
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
-    "template/math template.md",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw/Pasted Image 20230427212621_802.png",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw/Pasted Image 20230420111420_205.png",

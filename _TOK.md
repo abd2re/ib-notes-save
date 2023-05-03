@@ -18,7 +18,7 @@ How do we know ?
 - [[Mathematics]]
 - [[Natural Sciences]]
 - [[Human Sciences]]
-- Arts
+- [[Arts]]
 ## Part 4: Assessments
 ### [[TOK Exhibition]]
 - 35 prompts (Core theme/Optional themes)

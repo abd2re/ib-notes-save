@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Arts",
+      "path": "Arts.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raisonnement logique",
       "path": "Raisonnement logique.md"
-    },
-    {
-      "basename": "Raisonnement procédural",
-      "path": "Raisonnement procédural.md"
     }
   ],
   "omittedPaths": [],
