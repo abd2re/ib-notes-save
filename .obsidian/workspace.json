@@ -34,8 +34,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cfb105ab9b65acb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,6 +170,15 @@
           {
             "id": "23c82c68923dd4e8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -202,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md"
               }
             }
           },
@@ -329,7 +358,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -397,16 +426,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "adc9423d5d699bfb",
+  "active": "7cfb105ab9b65acb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Mouvement d'un projectile.md",
+    "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
     "_physics.md",
     "Utilisation des aires.md",
     "Chapitre 2 - Pensée computationnelle.md",
     "_computer science.md",
-    "Mouvement d'un projectile.md",
     "Arts.md",
     "TOK Exhibition.md",
     "_TOK.md",
@@ -431,7 +461,6 @@
     "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
-    "Théorème Binomial.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
