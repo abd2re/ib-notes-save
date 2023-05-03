@@ -76,6 +76,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.097222222222221}"
+                },
+                {
                   "title": "Release Notes 1.2.7",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.2.7\"}}",
@@ -86,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -261,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TOK.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -388,7 +394,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_TOK.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -461,11 +467,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_TOK.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/TOK Exhibition/image-20230415123019933.png",
-    "_TOK.md",
     "Perspective.md",
     "7 objectifs d'apprentissage CAS.md",
     "HL essay.md",
@@ -499,7 +505,6 @@
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419115551_390.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419113010_679.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230419111707_171.png",
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
