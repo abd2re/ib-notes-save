@@ -5,16 +5,20 @@
       "path": "Arts.md"
     },
     {
+      "basename": "TOK Exhibition",
+      "path": "TOK Exhibition.md"
+    },
+    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
     {
-      "basename": "Knowers and Knowing",
-      "path": "Knowers and Knowing.md"
+      "basename": "TOK idk",
+      "path": "TOK idk.md"
     },
     {
-      "basename": "TOK Exhibition",
-      "path": "TOK Exhibition.md"
+      "basename": "Knowers and Knowing",
+      "path": "Knowers and Knowing.md"
     },
     {
       "basename": "7 objectifs d'apprentissage CAS",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Raisonnement logique",
-      "path": "Raisonnement logique.md"
     }
   ],
   "omittedPaths": [],

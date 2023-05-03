@@ -12,4 +12,4 @@ Georgia O'Keeffe
 1. I agree with that quotation.
 2. Visual arts like painting.
 3. Art can say more things than words. We can find unparalleled beauty in art.
-4. 
+4. This quotation could be linked to Human Sciences, where art
