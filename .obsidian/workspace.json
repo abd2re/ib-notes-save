@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e504be1827ffd706",
+        "id": "2a94d0b9c7b31844",
         "type": "tabs",
         "children": [
           {
-            "id": "fa447a7249163601",
+            "id": "adc9423d5d699bfb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_computer science",
+                  "title": "_physics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.394376291050126}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.359614265104154}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "Mouvement d'un projectile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -329,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - Pensée computationnelle.md",
+                "file": "Mouvement d'un projectile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -397,14 +397,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa447a7249163601",
+  "active": "adc9423d5d699bfb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_physics.md",
+    "Utilisation des aires.md",
+    "Chapitre 2 - Pensée computationnelle.md",
     "_computer science.md",
     "Mouvement d'un projectile.md",
-    "_physics.md",
     "Arts.md",
     "TOK Exhibition.md",
     "_TOK.md",
@@ -425,13 +427,11 @@
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "Chapitre 1 - Cinématique.md",
-    "Utilisation des aires.md",
     "Theme 2-Mécanique.md",
     "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "assets/Déterminants des composantes de la demande globale/image-20230407093731053.png",
     "assets/Logarithmes/image-20230428202937182.png",
     "assets/Logarithmes",
