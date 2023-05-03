@@ -64,8 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74c2bb541ce205b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,6 +186,14 @@
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "23c82c68923dd4e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -419,7 +438,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d56ec789e71d18c3",
+  "active": "74c2bb541ce205b7",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
