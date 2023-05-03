@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -364,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Mouvement d'un projectile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -432,13 +433,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "adc9423d5d699bfb",
+  "active": "ae50a327bbb5cc72",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/Motion.md",
+    "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191204_982.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
