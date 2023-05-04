@@ -5,6 +5,10 @@
       "path": "_physics.md"
     },
     {
+      "basename": "Chaleur massique",
+      "path": "Chaleur massique.md"
+    },
+    {
       "basename": "Température",
       "path": "Température.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Algorithme",
       "path": "Algorithme.md"
-    },
-    {
-      "basename": "Raisonnement simultané",
-      "path": "Raisonnement simultané.md"
     }
   ],
   "omittedPaths": [],
