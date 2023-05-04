@@ -5,6 +5,10 @@
       "path": "Theme 2-Mécanique.md"
     },
     {
+      "basename": "Chapitre 12- Force et lois de Newton",
+      "path": "Chapitre 12- Force et lois de Newton.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raisonnement par anticipation",
       "path": "Raisonnement par anticipation.md"
-    },
-    {
-      "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
-      "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     }
   ],
   "omittedPaths": [],

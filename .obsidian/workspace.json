@@ -42,8 +42,14 @@
             "id": "9e3885e7645a1cfa",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Chapitre 12- Force et lois de Newton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 12- Force et lois de Newton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -250,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Chapitre 12- Force et lois de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Chapitre 12- Force et lois de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 2-Mécanique.md"
+                "file": "Chapitre 12- Force et lois de Newton.md"
               }
             }
           },
@@ -377,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 2-Mécanique.md",
+                "file": "Chapitre 12- Force et lois de Newton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -445,13 +451,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3885e7645a1cfa",
+  "active": "52b829c11d028a90",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 1 - Cinématique.md",
     "Theme 2-Mécanique.md",
+    "Chapitre 12- Force et lois de Newton.md",
+    "Chapitre 1 - Cinématique.md",
     "_physics.md",
     "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/Motion.md",
