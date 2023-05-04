@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Force a distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Force a distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Force a distance.md"
               }
             }
           },
@@ -451,7 +451,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Force a distance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -519,20 +519,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "80854a856d777448",
+  "active": "aee73592a0537b70",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Capacité calorifique.md",
     "_physics.md",
     "Force a distance.md",
+    "Loi de gravitation de Newton.md",
+    "Capacité calorifique.md",
     "Loi de Coulomb.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Champ électrique.md",
     "Rappel d'électrostatique.md",
     "Chapitre 2 - Forces et lois de Newton.md",
-    "Loi de gravitation de Newton.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Champ de gravitation.md",
     "Theme 2-Mécanique.md",
