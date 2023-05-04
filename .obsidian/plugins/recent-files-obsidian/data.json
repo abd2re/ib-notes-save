@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapitre 2 - Forces et lois de Newton",
+      "path": "Chapitre 2 - Forces et lois de Newton.md"
+    },
+    {
       "basename": "Force a distance",
       "path": "Force a distance.md"
+    },
+    {
+      "basename": "Loi de gravitation de Newton",
+      "path": "Loi de gravitation de Newton.md"
+    },
+    {
+      "basename": "Motion",
+      "path": "exercises/physics/theme 2/Motion.md"
     },
     {
       "basename": "_physics",
@@ -23,14 +35,6 @@
     {
       "basename": "Rappel d'électrostatique",
       "path": "Rappel d'électrostatique.md"
-    },
-    {
-      "basename": "Chapitre 2 - Forces et lois de Newton",
-      "path": "Chapitre 2 - Forces et lois de Newton.md"
-    },
-    {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
     },
     {
       "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",
@@ -59,10 +63,6 @@
     {
       "basename": "Chapitre 1 - Cinématique",
       "path": "Chapitre 1 - Cinématique.md"
-    },
-    {
-      "basename": "Motion",
-      "path": "exercises/physics/theme 2/Motion.md"
     },
     {
       "basename": "Drawing 2023-05-03 19.08.10.excalidraw",
