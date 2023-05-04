@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mouvement d'un projectile",
+      "path": "Mouvement d'un projectile.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Chapitre 1 - Cinématique",
       "path": "Chapitre 1 - Cinématique.md"
-    },
-    {
-      "basename": "Mouvement d'un projectile",
-      "path": "Mouvement d'un projectile.md"
     },
     {
       "basename": "Motion",
