@@ -5,8 +5,24 @@
       "path": "Chapitre 2 - Forces et lois de Newton.md"
     },
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "main_image_star-forming_region_carina_nircam_final-1280",
+      "path": "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg"
+    },
+    {
       "basename": "Force a distance",
       "path": "Force a distance.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
     },
     {
       "basename": "Loi de gravitation de Newton",
@@ -17,20 +33,12 @@
       "path": "exercises/physics/theme 2/Motion.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
     },
     {
       "basename": "Theme 5-Electricité et Magnétisme",
       "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Champ électrique",
-      "path": "Champ électrique.md"
     },
     {
       "basename": "Rappel d'électrostatique",
@@ -191,14 +199,6 @@
     {
       "basename": "__ECs and Awards",
       "path": "__ECs and Awards.md"
-    },
-    {
-      "basename": "Drawing 2023-04-20 11.14.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-20 11.14.05.excalidraw.md"
-    },
-    {
-      "basename": "Utilisation des aires",
-      "path": "Utilisation des aires.md"
     }
   ],
   "omittedPaths": [],

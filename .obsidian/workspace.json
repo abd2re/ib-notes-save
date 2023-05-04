@@ -8,47 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adc9423d5d699bfb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mouvement d'un projectile",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement d'un projectile.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.222222222222221}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.359614265104154}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
-              }
-            }
-          },
-          {
             "id": "9e3885e7645a1cfa",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 3,
               "stack": [
+                {
+                  "title": "Loi de décroissance radioactive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loi de décroissance radioactive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":32.77328077433456}"
+                },
+                {
+                  "title": "Champ électrique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Champ électrique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.67759994939271}"
+                },
                 {
                   "title": "Force a distance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force a distance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force a distance.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -83,31 +64,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "80854a856d777448",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -483,14 +441,16 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Force a distance.md",
+    "_physics.md",
+    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg",
     "Chapitre 2 - Forces et lois de Newton.md",
+    "Force a distance.md",
+    "Loi de décroissance radioactive.md",
+    "Champ électrique.md",
     "Loi de gravitation de Newton.md",
     "exercises/physics/theme 2/Motion.md",
     "Loi de Coulomb.md",
     "assets/Champ électrique/image-20221129092504068.png",
-    "Champ électrique.md",
-    "_physics.md",
     "Capacité calorifique.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Rappel d'électrostatique.md",
@@ -516,8 +476,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191204_982.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
-    "Utilisation des aires.md",
-    "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
