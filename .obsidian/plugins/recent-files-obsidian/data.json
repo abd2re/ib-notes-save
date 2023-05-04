@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Motion",
-      "path": "exercises/physics/theme 2/Motion.md"
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Mouvement d'un projectile",
       "path": "Mouvement d'un projectile.md"
     },
     {
-      "basename": "Drawing 2023-05-03 19.08.10.excalidraw",
-      "path": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md"
+      "basename": "Motion",
+      "path": "exercises/physics/theme 2/Motion.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Drawing 2023-05-03 19.08.10.excalidraw",
+      "path": "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md"
     },
     {
       "basename": "Chapitre 2 - Pensée computationnelle",
@@ -75,10 +79,6 @@
     {
       "basename": "Chapitre 1 - Cinématique",
       "path": "Chapitre 1 - Cinématique.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
     },
     {
       "basename": "Fonctions quadratiques",

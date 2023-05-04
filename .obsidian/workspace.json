@@ -47,20 +47,33 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mouvement d'un projectile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement d'un projectile.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Theme 2-Mécanique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Theme 2-Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Theme 2-Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md"
+                "file": "Theme 2-Mécanique.md"
               }
             }
           },
@@ -364,7 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exercises/physics/theme 2/Motion.md",
+                "file": "Theme 2-Mécanique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -432,11 +445,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "adc9423d5d699bfb",
+  "active": "9e3885e7645a1cfa",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Cinématique.md",
+    "Theme 2-Mécanique.md",
+    "_physics.md",
     "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
@@ -447,7 +463,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191204_982.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
-    "_physics.md",
     "Utilisation des aires.md",
     "Chapitre 2 - Pensée computationnelle.md",
     "_computer science.md",
@@ -469,8 +484,6 @@
     "_english.md",
     "_math.md",
     "Mouvement rectiligne uniforme.md",
-    "Chapitre 1 - Cinématique.md",
-    "Theme 2-Mécanique.md",
     "Fonctions quadratiques.md",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
