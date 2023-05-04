@@ -82,16 +82,16 @@
             "id": "aee73592a0537b70",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Chapitre 2 - Forces et lois de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -111,15 +111,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Mécanique.md",
-                "mode": "preview",
+                "file": "Chapitre 2 - Forces et lois de Newton.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -491,14 +491,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3885e7645a1cfa",
+  "active": "aee73592a0537b70",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
     "Theme 2-Mécanique.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
     "Chapitre 1 - Cinématique.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "_physics.md",
     "Mouvement d'un projectile.md",
     "Loi des gaz parfait.md",
