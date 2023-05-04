@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Theme 5-Electricité et Magnétisme",
-      "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Rappel d'électrostatique",
-      "path": "Rappel d'électrostatique.md"
-    },
-    {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
     },
     {
+      "basename": "Theme 5-Electricité et Magnétisme",
+      "path": "Theme 5-Electricité et Magnétisme.md"
+    },
+    {
       "basename": "Force a distance",
       "path": "Force a distance.md"
+    },
+    {
+      "basename": "Champ électrique",
+      "path": "Champ électrique.md"
+    },
+    {
+      "basename": "Rappel d'électrostatique",
+      "path": "Rappel d'électrostatique.md"
     },
     {
       "basename": "Chapitre 2 - Forces et lois de Newton",
@@ -195,10 +199,6 @@
     {
       "basename": "Utilisation des aires",
       "path": "Utilisation des aires.md"
-    },
-    {
-      "basename": "_CAS",
-      "path": "_CAS.md"
     }
   ],
   "omittedPaths": [],
