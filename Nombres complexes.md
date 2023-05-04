@@ -67,4 +67,8 @@ $|z|^{2}$=
 $$\Large{zz^{*}}$$
 <!--SR:!2023-05-12,10,250-->
 
-Propriétés des sommes, soustractions, multiplication et division de deux conjugées ($z^
+Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
+?
+![[image-20230504104418313.png|299]]
+
+

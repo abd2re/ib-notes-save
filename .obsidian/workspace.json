@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "Nombres complexes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -441,6 +441,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Nombres complexes/image-20230504104418313.png",
+    "assets/Nombres complexes",
     "_math.md",
     "Réaction d'un support.md",
     "Chapitre 2 - Forces et lois de Newton.md",
@@ -469,7 +471,6 @@
     "Température.md",
     "Mole.md",
     "Chaleur.md",
-    "Energie interne.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503194828_018.png",
@@ -486,7 +487,6 @@
     "assets/Chute libre",
     "assets/Raisonnement par anticipation",
     "assets/Raisonnement procédural",
-    "assets/Déterminants des composantes de la demande globale",
     "Untitled.canvas"
   ]
 }
