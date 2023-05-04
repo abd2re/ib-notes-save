@@ -117,9 +117,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e3300978fedb3f4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 6-Mouvement circulaire uniforme et Gravitation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 6-Mouvement circulaire uniforme et Gravitation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loi de gravitation de Newton.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - Forces et lois de Newton.md",
+                "file": "Loi de gravitation de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - Forces et lois de Newton.md",
+                "file": "Loi de gravitation de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -343,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - Forces et lois de Newton.md"
+                "file": "Loi de gravitation de Newton.md"
               }
             }
           },
@@ -423,7 +451,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - Forces et lois de Newton.md",
+                "file": "Loi de gravitation de Newton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -491,14 +519,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aee73592a0537b70",
+  "active": "9e3300978fedb3f4",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Champ de gravitation.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "Theme 2-Mécanique.md",
     "Chapitre 1 - Cinématique.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
     "_physics.md",
     "Mouvement d'un projectile.md",
     "Loi des gaz parfait.md",
@@ -528,8 +558,6 @@
     "TOK Exhibition.md",
     "_TOK.md",
     "TOK idk.md",
-    "Knowers and Knowing.md",
-    "Knowledge.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/Logarithmes",
