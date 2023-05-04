@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
-                "mode": "preview",
+                "file": "7 objectifs d'apprentissage CAS.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md"
+                "file": "7 objectifs d'apprentissage CAS.md"
               }
             }
           },
@@ -381,7 +381,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attributs du profil de l'apprenant.md",
+                "file": "7 objectifs d'apprentissage CAS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -454,8 +454,8 @@
   },
   "lastOpenFiles": [
     "_CAS.md",
-    "Etapes d'une expérience et projet CAS.md",
     "Attributs du profil de l'apprenant.md",
+    "Etapes d'une expérience et projet CAS.md",
     "7 objectifs d'apprentissage CAS.md",
     "Nombres complexes.md",
     "assets/Nombres complexes/image-20230504104418313.png",
