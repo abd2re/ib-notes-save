@@ -23,7 +23,7 @@ Pour réussir il faut atteindre les 7 objectifs suivants
     *Démontrer des compétences et reconnaître les bénéfices du travail en collaboration*
 
 - **Objectif 6**
-    Démontrer son engagement dans les questions d’importances mondiale
+    *Démontrer son engagement dans les questions d’importances mondiale*
 
 - **Objectif 7**
     *Reconnaître et réfléchir a l’ethic des choix et des actions* 
