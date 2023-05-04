@@ -31,4 +31,3 @@ $\theta$=::angle de projection
 <!--SR:!2023-05-06,3,250-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
 <!--SR:!2023-05-04,1,230-->
-- Equation du temps (t):: $$\large{t=\frac{2v_{0}\sin(\theta)}{g}}$$
