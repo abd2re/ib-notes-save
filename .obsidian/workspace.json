@@ -49,6 +49,52 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Theme 2-Mécanique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":5.346938775510204}"
+                },
+                {
+                  "title": "Mouvement d'un projectile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement d'un projectile.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 2 - Forces et lois de Newton.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee73592a0537b70",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Chapitre 2 - Forces et lois de Newton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -250,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "Chapitre 2 - Forces et lois de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "Chapitre 2 - Forces et lois de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md"
+                "file": "Chapitre 2 - Forces et lois de Newton.md"
               }
             }
           },
@@ -377,7 +423,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 1 - Cinématique.md",
+                "file": "Chapitre 2 - Forces et lois de Newton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -445,16 +491,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c700d2d9e442c77",
+  "active": "9e3885e7645a1cfa",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
     "Theme 2-Mécanique.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "Chapitre 1 - Cinématique.md",
     "_physics.md",
     "Mouvement d'un projectile.md",
-    "Chapitre 2- Force et lois de Newton.md",
     "Loi des gaz parfait.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Chaleur latente.md",
