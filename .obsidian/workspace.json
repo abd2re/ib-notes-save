@@ -123,9 +123,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11a16e0fdd6f7cc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 5-Electricité et Magnétisme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 5-Electricité et Magnétisme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rappel d'électrostatique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -302,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Rappel d'électrostatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Rappel d'électrostatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -349,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Force a distance.md"
+                "file": "Rappel d'électrostatique.md"
               }
             }
           },
@@ -429,7 +457,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Rappel d'électrostatique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -497,13 +525,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aee73592a0537b70",
+  "active": "11a16e0fdd6f7cc2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Forces et lois de Newton.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Loi de Coulomb.md",
     "Force a distance.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "Loi de gravitation de Newton.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Champ de gravitation.md",
@@ -512,7 +542,6 @@
     "_physics.md",
     "Mouvement d'un projectile.md",
     "Loi des gaz parfait.md",
-    "Theme 5-Electricité et Magnétisme.md",
     "Chaleur latente.md",
     "Theme 3- Physique thermique.md",
     "Chaleur massique.md",
@@ -535,7 +564,6 @@
     "Chapitre 2 - Pensée computationnelle.md",
     "_computer science.md",
     "Arts.md",
-    "TOK Exhibition.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
     "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/Logarithmes",
