@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "c33a8877543ba5c0",
+            "id": "80854a856d777448",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -133,19 +133,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Theme 5-Electricité et Magnétisme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 5-Electricité et Magnétisme.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi de Coulomb.md",
+                "file": "_physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -330,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loi de Coulomb.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loi de Coulomb.md",
+                "file": "_physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loi de Coulomb.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -457,7 +451,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loi de Coulomb.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -525,29 +519,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c33a8877543ba5c0",
+  "active": "80854a856d777448",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 5-Electricité et Magnétisme.md",
+    "Capacité calorifique.md",
+    "_physics.md",
     "Force a distance.md",
+    "Loi de Coulomb.md",
+    "Theme 5-Electricité et Magnétisme.md",
     "Champ électrique.md",
     "Rappel d'électrostatique.md",
-    "Loi de Coulomb.md",
     "Chapitre 2 - Forces et lois de Newton.md",
     "Loi de gravitation de Newton.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Champ de gravitation.md",
     "Theme 2-Mécanique.md",
     "Chapitre 1 - Cinématique.md",
-    "_physics.md",
     "Mouvement d'un projectile.md",
     "Loi des gaz parfait.md",
     "Chaleur latente.md",
     "Theme 3- Physique thermique.md",
     "Chaleur massique.md",
-    "Capacité calorifique.md",
     "assets/Chaleur/image-20221011104855058.png",
     "Température.md",
     "Mole.md",

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Force a distance",
+      "path": "Force a distance.md"
+    },
+    {
       "basename": "Loi de Coulomb",
       "path": "Loi de Coulomb.md"
     },
     {
       "basename": "Theme 5-Electricité et Magnétisme",
       "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Force a distance",
-      "path": "Force a distance.md"
     },
     {
       "basename": "Champ électrique",
@@ -39,10 +43,6 @@
     {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Mouvement d'un projectile",
