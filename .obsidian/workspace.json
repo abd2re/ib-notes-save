@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nombres complexes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nombres complexes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "_math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -58,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Attributs du profil de l'apprenant.md"
               }
             }
           },
@@ -369,7 +381,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Attributs du profil de l'apprenant.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -441,6 +453,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_CAS.md",
+    "Etapes d'une expérience et projet CAS.md",
+    "Attributs du profil de l'apprenant.md",
+    "7 objectifs d'apprentissage CAS.md",
+    "Nombres complexes.md",
     "assets/Nombres complexes/image-20230504104418313.png",
     "assets/Nombres complexes",
     "_math.md",
@@ -466,18 +483,13 @@
     "Loi des gaz parfait.md",
     "Chaleur latente.md",
     "Theme 3- Physique thermique.md",
-    "Chaleur massique.md",
     "assets/Chaleur/image-20221011104855058.png",
-    "Température.md",
-    "Mole.md",
-    "Chaleur.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503194828_018.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503192603_059.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191908_979.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191204_982.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",

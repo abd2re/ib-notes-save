@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Attributs du profil de l'apprenant",
+      "path": "Attributs du profil de l'apprenant.md"
+    },
+    {
+      "basename": "_CAS",
+      "path": "_CAS.md"
+    },
+    {
       "basename": "Nombres complexes",
       "path": "Nombres complexes.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Position relative parabole et droite",
       "path": "Position relative parabole et droite.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "Mathematics.md"
-    },
-    {
-      "basename": "__Current competitions",
-      "path": "__Current competitions.md"
     }
   ],
   "omittedPaths": [],
