@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Nombres complexes",
+      "path": "Nombres complexes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "Réaction d'un support",
       "path": "Réaction d'un support.md"
     },
@@ -129,20 +137,12 @@
       "path": "_english.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Mouvement rectiligne uniforme",
       "path": "Mouvement rectiligne uniforme.md"
     },
     {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "Nombres complexes",
-      "path": "Nombres complexes.md"
     },
     {
       "basename": "Théorème Binomial",

@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Réaction d'un support",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réaction d'un support.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Chapitre 2 - Forces et lois de Newton",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réaction d'un support.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -357,7 +369,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -429,8 +441,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Forces et lois de Newton.md",
+    "_math.md",
     "Réaction d'un support.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "_physics.md",
     "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg",
     "Force a distance.md",
@@ -464,7 +477,6 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191908_979.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503191204_982.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
-    "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
