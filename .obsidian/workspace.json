@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Theme 2-Mécanique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Theme 2-Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Theme 2-Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "Theme 2-Mécanique.md"
               }
             }
           },
@@ -377,7 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Theme 2-Mécanique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -450,10 +450,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 1 - Cinématique.md",
     "Theme 2-Mécanique.md",
     "_physics.md",
+    "Mouvement d'un projectile.md",
     "Chapitre 2- Force et lois de Newton.md",
-    "Chapitre 1 - Cinématique.md",
     "Loi des gaz parfait.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Chaleur latente.md",
@@ -465,7 +466,6 @@
     "Mole.md",
     "Chaleur.md",
     "Energie interne.md",
-    "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
