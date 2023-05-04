@@ -42,19 +42,13 @@
             "id": "9e3885e7645a1cfa",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 1,
               "stack": [
                 {
-                  "title": "Chapitre 2- Force et lois de Newton",
+                  "title": "Température",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2- Force et lois de Newton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":7},\"to\":{\"line\":5,\"ch\":7}}}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Température.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -256,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Chaleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Chaleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -303,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Chaleur.md"
               }
             }
           },
@@ -383,7 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Chaleur.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -451,15 +445,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3885e7645a1cfa",
+  "active": "0fb40a79a5b67b18",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 3- Physique thermique.md",
+    "_physics.md",
+    "Energie interne.md",
+    "Chaleur.md",
+    "Température.md",
     "Theme 2-Mécanique.md",
     "Chapitre 2- Force et lois de Newton.md",
     "Chapitre 1 - Cinématique.md",
-    "_physics.md",
     "Mouvement d'un projectile.md",
     "exercises/physics/theme 2/Motion.md",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
@@ -488,10 +486,6 @@
     "Peace act structure.md",
     "Attributs du profil de l'apprenant.md",
     "Comparative Essay.md",
-    "_english.md",
-    "_math.md",
-    "Mouvement rectiligne uniforme.md",
-    "Fonctions quadratiques.md",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",

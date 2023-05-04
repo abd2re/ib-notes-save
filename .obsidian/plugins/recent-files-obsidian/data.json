@@ -5,6 +5,10 @@
       "path": "_physics.md"
     },
     {
+      "basename": "Température",
+      "path": "Température.md"
+    },
+    {
       "basename": "Theme 2-Mécanique",
       "path": "Theme 2-Mécanique.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raisonnement simultané",
       "path": "Raisonnement simultané.md"
-    },
-    {
-      "basename": "Raisonnement par anticipation",
-      "path": "Raisonnement par anticipation.md"
     }
   ],
   "omittedPaths": [],
