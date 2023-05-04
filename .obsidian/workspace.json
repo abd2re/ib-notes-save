@@ -89,6 +89,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Force a distance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force a distance.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Chapitre 2 - Forces et lois de Newton",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -117,8 +123,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force a distance.md",
-                "mode": "source",
+                "file": "Loi de gravitation de Newton.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -324,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Loi de gravitation de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Loi de gravitation de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Force a distance.md"
+                "file": "Loi de gravitation de Newton.md"
               }
             }
           },
@@ -451,7 +457,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Force a distance.md",
+                "file": "Loi de gravitation de Newton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -524,13 +530,14 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_physics.md",
     "Force a distance.md",
+    "Loi de Coulomb.md",
+    "assets/Champ électrique/image-20221129092504068.png",
+    "Champ électrique.md",
+    "_physics.md",
     "Loi de gravitation de Newton.md",
     "Capacité calorifique.md",
-    "Loi de Coulomb.md",
     "Theme 5-Electricité et Magnétisme.md",
-    "Champ électrique.md",
     "Rappel d'électrostatique.md",
     "Chapitre 2 - Forces et lois de Newton.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
@@ -557,9 +564,7 @@
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503190933_255.png",
     "Excalidraw/Drawing 2023-05-03 19.08.10.excalidraw.md",
     "Utilisation des aires.md",
-    "Chapitre 2 - Pensée computationnelle.md",
     "assets/TOK Exhibition/image-20230415132037403.png",
-    "assets/TOK Exhibition/image-20230415122230878.png",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
