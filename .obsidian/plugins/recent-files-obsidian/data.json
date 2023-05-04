@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Réaction d'un support",
+      "path": "Réaction d'un support.md"
+    },
+    {
       "basename": "Chapitre 2 - Forces et lois de Newton",
       "path": "Chapitre 2 - Forces et lois de Newton.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "__Current competitions",
       "path": "__Current competitions.md"
-    },
-    {
-      "basename": "__ECs and Awards",
-      "path": "__ECs and Awards.md"
     }
   ],
   "omittedPaths": [],
