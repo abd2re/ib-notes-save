@@ -7,7 +7,7 @@ Created: 2023-05-02
 Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poids $\vec{p}$ son accélération sera $\vec{a}=\vec{g}$.
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
-- Selon $o_{x}$
+- Selon $o_{x}$ le mouvement est mouvement rectiligne uniforme (MRU)
 
 $a_{x}$=::0
 <!--SR:!2023-05-06,3,250-->
