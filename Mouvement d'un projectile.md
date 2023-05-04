@@ -17,6 +17,7 @@ $\theta$=::angle de projection
 <!--SR:!2023-05-06,3,250-->
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
+<!--SR:!2023-05-06,3,250-->
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
 <!--SR:!2023-05-06,3,250-->
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
