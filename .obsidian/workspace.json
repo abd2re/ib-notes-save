@@ -163,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -340,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -387,7 +388,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Néo-classique (monétariste).md"
+                "file": "Keynésienne.md"
               }
             }
           },
@@ -467,7 +468,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -535,13 +536,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3885e7645a1cfa",
+  "active": "1a2311f315e5d145",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "Néo-classique (monétariste).md",
+    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "Keynésienne.md",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/Keynésienne",
