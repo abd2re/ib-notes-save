@@ -15,7 +15,7 @@ $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 (méthode de dépense du PIB)
 <!--SR:!2023-05-16,26,250-->
 
-Forme de la courbe de demande globale:
+Forme de la courbe de demande globale (AD):
 ?
 ![[image-20230407091450203.png]]
 <!--SR:!2023-05-08,20,250-->
