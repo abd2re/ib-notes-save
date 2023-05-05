@@ -7,5 +7,5 @@ Created: 2023-05-05
 ?
 L'offre globale est la **quantité totale** de biens et de services **produits** dans une **économie** (*PIB réel*) sur une période donnée à **différents niveaux de prix**.
 
-- Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les prix des ressources restent relativement constants.
+- Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les **prix des ressources** restent relativement **constants**.
 
