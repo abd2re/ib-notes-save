@@ -5,6 +5,10 @@
       "path": "Offre globale.md"
     },
     {
+      "basename": "Demande globale",
+      "path": "Demande globale.md"
+    },
+    {
       "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
       "path": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raisonnement abstrait",
       "path": "Raisonnement abstrait.md"
-    },
-    {
-      "basename": "Drawing 2023-04-27 21.26.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-27 21.26.05.excalidraw.md"
     }
   ],
   "omittedPaths": [],

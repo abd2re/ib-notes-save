@@ -100,6 +100,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f3b838773f4a39d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demande globale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -478,8 +500,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "Demande globale.md",
     "Offre globale.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "Theme 2-Macro-économie.md",
     "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
     "_economy.md",
@@ -507,7 +530,6 @@
     "Rappel d'électrostatique.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Champ de gravitation.md",
-    "Theme 2-Mécanique.md",
     "assets/Chaleur/image-20221011104855058.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
