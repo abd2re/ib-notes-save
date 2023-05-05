@@ -20,5 +20,5 @@ Déterminants de l'offre globale à court terme (OGCT):
 
 Les deux vues alternatives de l'offre globale:
 ?
-- **Néo-classique (monétariste)**
-- [[K]]
+- [[Néo-classique (monétariste)]]
+- [[Keynésienne]]
