@@ -18,4 +18,7 @@ Déterminants de l'offre globale à court terme (OGCT):
 -   Subventions gouvernementales
 -   Chocs d'approvisionnement (externe)
 
-Les d
+Les deux vues alternatives de l'offre globale:
+?
+- **Néo-classique (monétariste)**
+- [[K]]
