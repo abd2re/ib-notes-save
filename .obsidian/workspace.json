@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":13.706395348837209}"
+                },
+                {
+                  "title": "7 objectifs d'apprentissage CAS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7 objectifs d'apprentissage CAS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
+                },
+                {
                   "title": "_CAS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_CAS.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -70,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Offre globale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -254,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Offre globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Offre globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md"
+                "file": "Offre globale.md"
               }
             }
           },
@@ -381,7 +405,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 objectifs d'apprentissage CAS.md",
+                "file": "Offre globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -429,7 +453,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 410,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -453,10 +478,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "Offre globale.md",
+    "Theme 2-Macro-économie.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "_economy.md",
+    "7 objectifs d'apprentissage CAS.md",
     "_CAS.md",
     "Attributs du profil de l'apprenant.md",
     "Etapes d'une expérience et projet CAS.md",
-    "7 objectifs d'apprentissage CAS.md",
     "Nombres complexes.md",
     "assets/Nombres complexes/image-20230504104418313.png",
     "assets/Nombres complexes",
@@ -478,11 +508,6 @@
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Champ de gravitation.md",
     "Theme 2-Mécanique.md",
-    "Chapitre 1 - Cinématique.md",
-    "Mouvement d'un projectile.md",
-    "Loi des gaz parfait.md",
-    "Chaleur latente.md",
-    "Theme 3- Physique thermique.md",
     "assets/Chaleur/image-20221011104855058.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",

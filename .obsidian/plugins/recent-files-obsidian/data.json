@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Offre globale",
+      "path": "Offre globale.md"
+    },
+    {
+      "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+      "path": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
+    },
+    {
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "7 objectifs d'apprentissage CAS",
       "path": "7 objectifs d'apprentissage CAS.md"
     },
@@ -177,28 +193,12 @@
       "path": "template/physics template.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Raisonnement abstrait",
       "path": "Raisonnement abstrait.md"
     },
     {
       "basename": "Drawing 2023-04-27 21.26.05.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-27 21.26.05.excalidraw.md"
-    },
-    {
-      "basename": "Formules de Viète",
-      "path": "Formules de Viète.md"
-    },
-    {
-      "basename": "Fonctions linéaires",
-      "path": "Fonctions linéaires.md"
-    },
-    {
-      "basename": "Position relative parabole et droite",
-      "path": "Position relative parabole et droite.md"
     }
   ],
   "omittedPaths": [],
