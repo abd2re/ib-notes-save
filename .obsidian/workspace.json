@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offre globale.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -456,7 +456,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -524,14 +524,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a2311f315e5d145",
+  "active": "8f3b838773f4a39d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "Demande globale.md",
     "Offre globale.md",
+    "Demande globale.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Offre globale/image-20230505082645978.png",
     "assets/Offre globale",
     "Theme 2-Macro-économie.md",
