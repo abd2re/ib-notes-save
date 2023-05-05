@@ -108,28 +108,6 @@
             }
           },
           {
-            "id": "8f3b838773f4a39d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demande globale.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a2311f315e5d145",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -162,9 +140,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f3b838773f4a39d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demande globale.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "assets/Néo-classique (monétariste)/image-20230505092449721.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "assets/Néo-classique (monétariste)/image-20230505092449721.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -388,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keynésienne.md"
+                "file": "assets/Néo-classique (monétariste)/image-20230505092449721.png"
               }
             }
           },
@@ -468,7 +467,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "assets/Néo-classique (monétariste)/image-20230505092449721.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -536,7 +535,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a2311f315e5d145",
+  "active": "6d7d85031ab89b64",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
@@ -544,11 +543,11 @@
     "Néo-classique (monétariste).md",
     "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "Keynésienne.md",
+    "Demande globale.md",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
     "Offre globale.md",
-    "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Offre globale/image-20230505082645978.png",
@@ -583,9 +582,4 @@
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
-    "exercises/physics/theme 2/assets/Motion",
-    "exercises/physics/theme 2/assets",
-    "exercises/physics/theme 2",
-    "Untitled.canvas"
-  ]
-}
+    "exercises/phys
