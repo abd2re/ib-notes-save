@@ -127,24 +127,24 @@
             "id": "1a2311f315e5d145",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Demande globale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.407407407407407}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Offre globale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Offre globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Offre globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
+                "file": "Offre globale.md"
               }
             }
           },
@@ -456,7 +456,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+                "file": "Offre globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -529,8 +529,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Demande globale.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "Demande globale.md",
     "Offre globale.md",
     "assets/Offre globale/image-20230505082645978.png",
     "assets/Offre globale",
