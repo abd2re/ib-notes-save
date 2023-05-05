@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Néo-classique (monétariste)",
-      "path": "Néo-classique (monétariste).md"
+      "basename": "Keynésienne",
+      "path": "Keynésienne.md"
     },
     {
       "basename": "Offre globale",
       "path": "Offre globale.md"
+    },
+    {
+      "basename": "Néo-classique (monétariste)",
+      "path": "Néo-classique (monétariste).md"
     },
     {
       "basename": "Demande globale",
@@ -195,10 +199,6 @@
     {
       "basename": "math template",
       "path": "template/math template.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
     }
   ],
   "omittedPaths": [],

@@ -150,7 +150,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -382,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Néo-classique (monétariste).md"
+                "file": "Keynésienne.md"
               }
             }
           },
@@ -462,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Keynésienne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -536,6 +536,7 @@
   },
   "lastOpenFiles": [
     "Offre globale.md",
+    "Keynésienne.md",
     "Néo-classique (monétariste).md",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
@@ -567,7 +568,6 @@
     "Capacité calorifique.md",
     "Theme 5-Electricité et Magnétisme.md",
     "Rappel d'électrostatique.md",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "assets/Chaleur/image-20221011104855058.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
