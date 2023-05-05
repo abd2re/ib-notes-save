@@ -8,7 +8,7 @@ Created: 2022-10-17
 1. Nature du document
 2. Origine et contexte de l'oeuvre
 3. Sujet général
-<!--SR:!2023-05-04,45,130-->
+<!--SR:!2023-07-02,59,130-->
 
 ## Etape 2: Analyse du document
 ?

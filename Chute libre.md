@@ -10,4 +10,4 @@ Un objet tombe en chute libre s'il n'est soumis qu'a son poids, pas de résistan
 <!--SR:!2023-05-20,20,190-->
 
 - Un objet qui tombe en chute libre a l'acceleration:: $\vec{a}=\vec{g}$
-<!--SR:!2023-05-04,14,230-->
+<!--SR:!2023-06-07,34,230-->

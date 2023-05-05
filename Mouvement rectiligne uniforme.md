@@ -24,5 +24,5 @@ Les 5 variables SUVAT:
 Les équations SUVAT sont dérivées de ce graphe suivant:
 ?
 ![[image-20230330161512194.png|575]]
-<!--SR:!2023-05-04,23,250-->
+<!--SR:!2023-06-30,57,250-->
 

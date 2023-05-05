@@ -8,7 +8,9 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
 - Selon $o_{x}$ le mouvement est:: mouvement rectiligne uniforme (MRU)
+<!--SR:!2023-05-06,2,249-->
 - Selon $o_{y}$ le mouvement est:: mouvement rectiligne uniforme variée (MRUV)
+<!--SR:!2023-05-06,2,249-->
 
 $a_{x}$=::0
 <!--SR:!2023-05-06,3,250-->
@@ -30,4 +32,4 @@ $\theta$=::angle de projection
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
 <!--SR:!2023-05-06,3,250-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
-<!--SR:!2023-05-04,1,230-->
+<!--SR:!2023-05-05,1,210-->
