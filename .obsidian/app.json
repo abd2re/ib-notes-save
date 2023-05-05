@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Néo-classique (monétariste)",
+  "attachmentFolderPath": "./assets/Demande globale",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false,
   "pdfExportSettings": {
@@ -15,5 +15,4 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
-}
+  

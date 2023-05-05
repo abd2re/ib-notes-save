@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Néo-classique (monétariste)",
-      "path": "Néo-classique (monétariste).md"
+      "basename": "Demande globale",
+      "path": "Demande globale.md"
+    },
+    {
+      "basename": "exo economie",
+      "path": "exo economie.md"
+    },
+    {
+      "basename": "Offre globale",
+      "path": "Offre globale.md"
     },
     {
       "basename": "Keynésienne",
       "path": "Keynésienne.md"
     },
     {
-      "basename": "Demande globale",
-      "path": "Demande globale.md"
-    },
-    {
-      "basename": "Offre globale",
-      "path": "Offre globale.md"
+      "basename": "Néo-classique (monétariste)",
+      "path": "Néo-classique (monétariste).md"
     },
     {
       "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
@@ -195,10 +199,6 @@
     {
       "basename": "Déterminants des composantes de la demande globale",
       "path": "Déterminants des composantes de la demande globale.md"
-    },
-    {
-      "basename": "math template",
-      "path": "template/math template.md"
     }
   ],
   "omittedPaths": [],

@@ -121,7 +121,7 @@
                   "title": "Offre globale",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.29646061001468}"
+                  "eState": "{\"scroll\":11.739063774261947}"
                 },
                 {
                   "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
@@ -134,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "exo economie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -163,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -340,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -387,7 +388,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Néo-classique (monétariste).md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -467,7 +468,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Demande globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -535,19 +536,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3885e7645a1cfa",
+  "active": "8f3b838773f4a39d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
-    "Néo-classique (monétariste).md",
+    "exo economie.md",
+    "Offre globale.md",
     "Keynésienne.md",
     "Demande globale.md",
+    "Néo-classique (monétariste).md",
+    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
-    "Offre globale.md",
     "assets/Demande globale/image-20230407091450203.png",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Offre globale/image-20230505082645978.png",
@@ -585,6 +587,4 @@
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
-    "Untitled.canvas"
-  ]
-}
+    "Untitled.c

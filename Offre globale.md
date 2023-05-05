@@ -22,3 +22,7 @@ Les deux vues alternatives de l'offre globale:
 ?
 - [[Néo-classique (monétariste)]] (OGLT)
 - [[Keynésienne]]
+
+
+---
+[[exo economie]]
