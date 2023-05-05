@@ -11,5 +11,7 @@ L'offre globale est la **quantité totale** de biens et de services **produits**
 
 Graphe de l'offre globale à court terme (SRAS)::![[image-20230505082645978.png]]
 
+-
+
 
 
