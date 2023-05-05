@@ -5,6 +5,10 @@
       "path": "exo economie.md"
     },
     {
+      "basename": "Néo-classique (monétariste)",
+      "path": "Néo-classique (monétariste).md"
+    },
+    {
       "basename": "Offre globale",
       "path": "Offre globale.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Keynésienne",
       "path": "Keynésienne.md"
-    },
-    {
-      "basename": "Néo-classique (monétariste)",
-      "path": "Néo-classique (monétariste).md"
     },
     {
       "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
