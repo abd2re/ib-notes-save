@@ -150,13 +150,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Demande globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demande globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":12.391304347826086}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Offre globale.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -164,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
+                "file": "exo economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +373,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
+                "file": "exo economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -388,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande globale.md"
+                "file": "exo economie.md"
               }
             }
           },
@@ -468,7 +474,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demande globale.md",
+                "file": "exo economie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -536,15 +542,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f3b838773f4a39d",
+  "active": "1a2311f315e5d145",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "exo economie.md",
     "Offre globale.md",
-    "Keynésienne.md",
     "Demande globale.md",
+    "exo economie.md",
+    "Keynésienne.md",
     "Néo-classique (monétariste).md",
     "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "assets/Keynésienne/image-20230505092514830.png",
@@ -587,4 +593,6 @@
     "exercises/physics/theme 2/assets/Motion",
     "exercises/physics/theme 2/assets",
     "exercises/physics/theme 2",
-    "Untitled.c
+    "Untitled.canvas"
+  ]
+}
