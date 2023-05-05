@@ -163,8 +163,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "Néo-classique (monétariste).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "Néo-classique (monétariste).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -388,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keynésienne.md"
+                "file": "Néo-classique (monétariste).md"
               }
             }
           },
@@ -468,7 +467,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "Néo-classique (monétariste).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -536,20 +535,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a2311f315e5d145",
+  "active": "9e3885e7645a1cfa",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
+    "Néo-classique (monétariste).md",
+    "Keynésienne.md",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/Keynésienne",
-    "Néo-classique (monétariste).md",
-    "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "assets/Néo-classique (monétariste)",
     "Offre globale.md",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
-    "Keynésienne.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Offre globale/image-20230505082645978.png",
     "assets/Offre globale",
@@ -580,7 +579,6 @@
     "assets/Chaleur/image-20221011104855058.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
     "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503194828_018.png",
     "assets/Logarithmes",
     "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
     "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
