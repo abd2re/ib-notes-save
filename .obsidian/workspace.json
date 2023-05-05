@@ -40,8 +40,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7db0451b988dc381",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offre globale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exo economie.md",
+                "file": "Offre globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exo economie.md",
+                "file": "Offre globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exo economie.md"
+                "file": "Offre globale.md"
               }
             }
           },
@@ -345,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exo economie.md",
+                "file": "Offre globale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -413,13 +436,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a2311f315e5d145",
+  "active": "7db0451b988dc381",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Néo-classique (monétariste).md",
     "exo economie.md",
+    "Néo-classique (monétariste).md",
     "Offre globale.md",
     "Demande globale.md",
     "Keynésienne.md",
