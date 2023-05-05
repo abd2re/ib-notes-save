@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Néo-classique (monétariste)",
+      "path": "Néo-classique (monétariste).md"
+    },
+    {
       "basename": "Offre globale",
       "path": "Offre globale.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "Raisonnement abstrait",
-      "path": "Raisonnement abstrait.md"
     }
   ],
   "omittedPaths": [],

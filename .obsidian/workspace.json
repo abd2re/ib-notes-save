@@ -134,6 +134,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Offre globale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":11.29646061001468}"
+                },
+                {
                   "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -144,8 +150,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offre globale.md",
-                "mode": "preview",
+                "file": "Néo-classique (monétariste).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -329,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offre globale.md"
+                "file": "Néo-classique (monétariste).md"
               }
             }
           },
@@ -456,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -529,9 +535,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Offre globale.md",
+    "Néo-classique (monétariste).md",
     "Demande globale.md",
     "assets/Demande globale/image-20230407091450203.png",
-    "Offre globale.md",
     "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "assets/Offre globale/image-20230505082645978.png",
     "assets/Offre globale",
