@@ -7,15 +7,15 @@ Created: 2023-04-12
 ?
 En informatique, l'abstraction est une technique permettant de gérer la complexité des systèmes informatiques.
  
-<!--SR:!2023-05-05,4,230-->
+<!--SR:!2023-05-15,10,230-->
 
 C'est quoi l'abstraction ?
 ?
 L'abstraction est le processus qui consiste à enlever ou à supprimer des caractéristiques d'une chose afin de la réduire à un ensemble de caractéristiques essentielles.
-<!--SR:!2023-05-06,4,210-->
+<!--SR:!2023-05-14,8,210-->
 
 
 ## Programmation Orientée Objet
 ?
 La programmation orientée objet utilise l'abstraction et repose sur le principe selon lequel toutes les tâches quotidiennes peuvent être considérées comme des entités. Ces entités sont soit des objets, soit des événements.
-<!--SR:!2023-05-06,5,230-->
+<!--SR:!2023-05-18,12,230-->

@@ -8,7 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a2311f315e5d145",
+            "id": "ab9accf442e18679",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "extract no country for old men",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"pdf/extract no country for old men.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":23.511574074074073}"
+                },
+                {
+                  "title": "Tension d'un ressort",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tension d'un ressort.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}}}"
+                },
+                {
+                  "title": "Chapitre 2 - Forces et lois de Newton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.481481481481482}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oral 1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22a8ed4478b4aa65",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/extract no country for old men.pdf"
+              }
+            }
+          },
+          {
+            "id": "d6d76cdb35dbde3b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,16 +89,16 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Offre globale",
+                  "title": "Theme 1-Micro-économie",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Offre globale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.739063774261947}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.638306550289583}"
                 },
                 {
-                  "title": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
+                  "title": "_economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9061488673139159}"
                 }
               ]
             },
@@ -40,31 +111,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7db0451b988dc381",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Offre globale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2ea108b96cda228",
@@ -241,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offre globale.md",
+                "file": "exo economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offre globale.md",
+                "file": "exo economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offre globale.md"
+                "file": "exo economie.md"
               }
             }
           },
@@ -368,7 +416,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Offre globale.md",
+                "file": "exo economie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -436,57 +484,57 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7db0451b988dc381",
+  "active": "d6d76cdb35dbde3b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Theme 1-Micro-économie.md",
+    "Importance de la coopération internationale.md",
     "exo economie.md",
-    "Néo-classique (monétariste).md",
+    "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md",
+    "_economy.md",
     "Offre globale.md",
-    "Demande globale.md",
-    "Keynésienne.md",
+    "Oral 1.md",
+    "pdf/extract no country for old men.pdf",
+    "_english.md",
+    "Oral.md",
+    "HL essay.md",
+    "Tension d'un ressort.md",
+    "Tension d'un fil.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
+    "Méthode de résolution de problème de dynamique.md",
+    "assets/Tension d'un fil/image-20230509102514804.png",
+    "assets/Tension d'un fil",
+    "Réaction d'un support.md",
+    "Tension.md",
+    "PEEL.md",
+    "Arts.md",
+    "assets/Réaction d'un support/image-20230509081429970.png",
+    "Théorème Binomial.md",
+    "_math.md",
+    "Radians.md",
+    "Nombres complexes.md",
+    "Lois des sinus et cosinus.md",
+    "Chapitre 1 - Cinématique.md",
+    "Troisième loi de Newton.md",
+    "Deuxième loi de Newton.md",
+    "assets/Tension/image-20230509083801163.png",
+    "assets/Tension",
+    "assets/Réaction d'un support",
+    "Excalidraw/assets/Drawing 2023-05-08 15.49.20.excalidraw/Pasted Image 20230508192029_760.png",
+    "Excalidraw/assets/Drawing 2023-05-08 15.49.20.excalidraw/Pasted Image 20230508184345_753.png",
+    "Excalidraw/assets/Drawing 2023-05-08 15.49.20.excalidraw/Pasted Image 20230508181853_745.png",
+    "Excalidraw/assets/Drawing 2023-05-08 15.49.20.excalidraw/Pasted Image 20230508154935_168.png",
+    "Excalidraw/assets/Drawing 2023-05-08 15.49.20.excalidraw",
     "assets/Néo-classique (monétariste)/image-20230505092449721.png",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/Keynésienne",
     "assets/Néo-classique (monétariste)",
     "assets/Demande globale/image-20230407091450203.png",
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "assets/Offre globale/image-20230505082645978.png",
     "assets/Offre globale",
-    "Theme 2-Macro-économie.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "_economy.md",
-    "7 objectifs d'apprentissage CAS.md",
-    "_CAS.md",
-    "Attributs du profil de l'apprenant.md",
-    "Etapes d'une expérience et projet CAS.md",
-    "Nombres complexes.md",
-    "assets/Nombres complexes/image-20230504104418313.png",
     "assets/Nombres complexes",
-    "_math.md",
-    "Réaction d'un support.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
-    "_physics.md",
-    "assets/_Images/main_image_star-forming_region_carina_nircam_final-1280.jpg",
-    "Force a distance.md",
-    "Loi de décroissance radioactive.md",
-    "Champ électrique.md",
-    "Loi de gravitation de Newton.md",
-    "exercises/physics/theme 2/Motion.md",
-    "Loi de Coulomb.md",
-    "assets/Champ électrique/image-20221129092504068.png",
-    "Capacité calorifique.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "assets/Chaleur/image-20221011104855058.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195715_452.png",
-    "exercises/physics/theme 2/assets/Motion/Pasted Image 20230503195115_127.png",
     "assets/Logarithmes",
-    "Excalidraw/assets/Drawing 2023-04-27 21.26.05.excalidraw",
-    "Excalidraw/assets/Drawing 2023-04-20 11.14.05.excalidraw",
-    "exercises/physics/theme 2/assets/Motion",
-    "exercises/physics/theme 2/assets",
-    "exercises/physics/theme 2",
     "Untitled.canvas"
   ]
 }

@@ -2,6 +2,7 @@
 ---
 tags: [M] 
 banner: "![[SinAndCosFunctionPlot-1.webp]]"
+banner_y: 0.5
 ---
 # Theme 1: Nombre et Algèbre
 1. [[Logarithmes]]
@@ -15,3 +16,7 @@ banner: "![[SinAndCosFunctionPlot-1.webp]]"
 3. [[Etude graphique des fonctions quadratiques]]
 4. [[Formules de Viète]]
 5. [[Position relative parabole et droite]]
+
+# Theme 3: Géométrie et Trigonométrie
+1. [[Radians]]
+2. [[Lois des sinus et cosinus]]

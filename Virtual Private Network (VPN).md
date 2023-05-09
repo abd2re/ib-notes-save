@@ -13,6 +13,6 @@ Représentation du VPN avec [[Local Area Network (LAN)]] et l'[[Internet]]:
 ?
 ![[image-20230225140457593.png]]
 ![[image-20230225140535814.png|625]]
-<!--SR:!2023-05-08,38,250-->
+<!--SR:!2023-08-11,95,250-->
 
 

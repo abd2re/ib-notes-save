@@ -6,6 +6,7 @@ Created: 2023-05-05
 # Offre globale
 ?
 L'offre globale est la **quantité totale** de biens et de services **produits** dans une **économie** (*PIB réel*) sur une **période donnée** à **différents niveaux de prix**.
+<!--SR:!2023-05-09,3,250-->
 
 - Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les **prix des ressources** restent relativement **constants**, en particulier les salaires.
 
@@ -22,6 +23,7 @@ Les deux vues alternatives de l'offre globale:
 ?
 - [[Néo-classique (monétariste)]] (OGLT)
 - [[Keynésienne]]
+<!--SR:!2023-05-11,3,250-->
 
 
 ---

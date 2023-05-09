@@ -9,7 +9,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-05-17,15,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
-<!--SR:!2023-05-07,11,230-->
+<!--SR:!2023-06-01,25,230-->
 
 ## Circuit économique
 (représentation économie ouverte)
@@ -36,7 +36,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
-<!--SR:!2023-05-06,25,250-->
+<!--SR:!2023-07-09,64,250-->
 Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 
 ### Fuites et injections
@@ -49,9 +49,9 @@ Injection = Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 - Si T < G $\rightarrow$:: Défaut budgétaire
 <!--SR:!2023-05-23,33,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
-<!--SR:!2023-05-07,26,250-->
+<!--SR:!2023-07-14,68,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter
-<!--SR:!2023-05-05,21,230-->
+<!--SR:!2023-06-20,46,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes
 <!--SR:!2023-06-18,50,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale

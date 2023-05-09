@@ -7,7 +7,7 @@ Created: 2023-04-07
 ?
 La demande globale (DA) est la **demande totale** de biens et de services **produits** dans une économie a **différent niveaux de prix**. 
 - Il comprend les dépenses de consommation, les dépenses publiques, les dépenses d'investissement et les dépenses d'exportations nettes au cours d'une période donnée.
-<!--SR:!2023-05-05,9,170-->
+<!--SR:!2023-05-22,17,170-->
 
 Formule de la demande globale:
 ?
@@ -18,11 +18,11 @@ $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 Forme de la courbe de demande globale (AD):
 ?
 ![[image-20230407091450203.png]]
-<!--SR:!2023-05-08,20,250-->
+<!--SR:!2023-06-28,51,250-->
 
 Trois raisons expliquent la pente négative de la courbe de demande globale :
 ?
 - L'[[Effet richesse]]
 - L'[[Effet taux d'intérêt]]
 - L'[[Effet solde net]]
-<!--SR:!2023-05-08,14,230-->
+<!--SR:!2023-06-11,34,230-->

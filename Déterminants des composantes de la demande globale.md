@@ -8,7 +8,7 @@ Created: 2023-04-07
 Comment les déterminants affecte la courbe ? (représentation):
 ?
 ![[image-20230407093731053.png]]
-<!--SR:!2023-05-07,20,250-->
+<!--SR:!2023-06-26,50,250-->
 
 ## Déterminants de la  consommation
 (7)
@@ -39,4 +39,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 2. **Taux d'échange**
 3. **Changements dans politiques commerciales**
 4. **Manipulation des taux de change/exigences en matière de santé et de sécurité**
-<!--SR:!2023-05-06,4,191-->
+<!--SR:!2023-05-13,7,191-->

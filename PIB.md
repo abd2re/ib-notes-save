@@ -44,7 +44,7 @@ Revenu = Production = Dépenses
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2023-06-04,41,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
-<!--SR:!2023-05-06,20,221-->
+<!--SR:!2023-06-19,44,221-->
 
 ## PNB 
 ?
@@ -56,7 +56,7 @@ Différence entre PIB et PNB:
 - PNB tout ce qui appartient aux nationaux
 - PIB tout ce qui est produit a l'intérieur du pays
 ![[image-20230328182846041.png|475]]
-<!--SR:!2023-05-05,25,250-->
+<!--SR:!2023-07-08,64,250-->
 
 Formule du PNB:
 ?

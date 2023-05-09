@@ -5,7 +5,7 @@ Created: 2023-04-28
 
 # Nombres complexes
 $\sqrt{-1}$=::$i$
-<!--SR:!2023-05-08,7,250-->
+<!--SR:!2023-05-26,18,250-->
 
 $$\LARGE{z=a+bi}$$
 - Re($z$) =:: $a$
@@ -17,7 +17,7 @@ $$\LARGE{z=a+bi}$$
 $(a+bi)(c+di)$=
 ?
 $$\Large{(ac-bd)+i(ad+bc)}$$
-<!--SR:!2023-05-08,7,250-->
+<!--SR:!2023-05-26,18,250-->
 
 $(a+bi)^{2}$=
 ?
@@ -27,7 +27,7 @@ $$\Large{a^{2}-b^{2}+i2ab}$$
 $(a-bi)^{2}$=
 ?
 $$\Large{a^{2}-b^{2}-i2ab}$$
-<!--SR:!2023-05-07,6,250-->
+<!--SR:!2023-05-24,17,250-->
 
 $(a+ib)(a-ib)$=
 ?
@@ -70,6 +70,6 @@ $$\Large{zz^{*}}$$
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[image-20230504104418313.png|299]]
-<!--SR:!2023-05-07,3,250-->
+<!--SR:!2023-05-17,10,250-->
 
 

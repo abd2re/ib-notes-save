@@ -18,7 +18,7 @@ Created: 2022-10-17
  6. Amplification :: is the repetition of a word or phrase with the addition of more details in order to emphasis something. Such as "America has given the negro people a bad check, a check which has come back marked insufficient funds" (Martin Luther King) 
 <!--SR:!2023-07-25,170,250-->
  7. Metaphor :: is a comparaison of two things by speaking of one in terms of the other. Such as "The mother of all battles " 
-<!--SR:!2023-05-08,122,250-->
+<!--SR:!2024-03-08,305,250-->
  8. Alliteration :: is the repetition of same sounds or letter at the beginning of several words in a sequence. Such as "Let us go forth to lead the land we love" (JFK) 
 <!--SR:!2024-01-03,281,270-->
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 

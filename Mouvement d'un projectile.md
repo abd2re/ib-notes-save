@@ -8,28 +8,28 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
 - Selon $o_{x}$ le mouvement est:: mouvement rectiligne uniforme (MRU)
-<!--SR:!2023-05-06,2,249-->
+<!--SR:!2023-05-12,6,249-->
 - Selon $o_{y}$ le mouvement est:: mouvement rectiligne uniforme variée (MRUV)
-<!--SR:!2023-05-06,2,249-->
+<!--SR:!2023-05-11,5,249-->
 
 $a_{x}$=::0
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-15,9,250-->
 $a_{y}$=::-g
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-16,10,250-->
 $v_{0}$=::vitesse initiale
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-14,8,250-->
 $\theta$=::angle de projection
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-13,7,250-->
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-16,10,250-->
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-13,7,250-->
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-14,8,250-->
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)=\sqrt{v_{0}^{2}\sin^{2}(\theta)-2gy}}$$
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-15,9,250-->
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
-<!--SR:!2023-05-06,3,250-->
+<!--SR:!2023-05-15,9,250-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
-<!--SR:!2023-05-05,1,210-->
+<!--SR:!2023-05-12,4,190-->

@@ -14,4 +14,4 @@ $$Q = \mu \Delta \theta$$
 $Q$ = Quantité de chaleur en $J$
 $\mu$ = Capacité calorifique d'un corps en $J\degree C^{-1}$ = $cm$([[Chaleur massique]] et masse)
 $\Delta \theta$= différence de température en $\degree C$
-<!--SR:!2023-05-05,124,250-->
+<!--SR:!2024-03-10,310,250-->

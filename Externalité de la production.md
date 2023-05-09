@@ -10,7 +10,7 @@ Définition et graphe:
 ?
 Lorsque le processus de production d'un bien ou d'un *service* génère un effet **négatif** sur un **tiers** ou sur la **société** dans son ensemble, on dit qu'il y a une externalité négative de la production.
 ![[image-20230203083115173.png]]
-<!--SR:!2023-05-08,50,210-->
+<!--SR:!2023-08-21,105,210-->
 
 - Lorsqu'une externalité négative de la production se produit,:: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
 <!--SR:!2023-08-26,123,250-->
@@ -47,4 +47,4 @@ Réponses possibles du gouvernement(2):
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
 <iframe src="https://www.geogebra.org/material/iframe/id/kdvkd48v/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
-<!--SR:!2023-05-08,59,250-->
+<!--SR:!2023-10-03,148,250-->

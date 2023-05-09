@@ -5,4 +5,4 @@ Created: 2023-04-10
 
 # Raisonnement logique (pensée logique)
 Une règle logique est une règle qui présente au moins l'une des caractéristiques suivantes:: IF - AND - OR - NOT - NAND - NOR - XOR
-<!--SR:!2023-05-05,15,230-->
+<!--SR:!2023-06-10,36,230-->
