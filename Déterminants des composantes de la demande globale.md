@@ -30,7 +30,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 3. **Technologie**
 4. **Taxes professionnelles**
 5. **Niveau d'endettement des entreprises**
-<!--SR:!2023-05-10,10,161-->
+<!--SR:!2023-05-26,16,161-->
 
 ## Déterminants des exportations nettes
 (4)

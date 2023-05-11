@@ -33,7 +33,7 @@ Définition et graphe:
 ?
 lorsque le processus de production d'un bien ou d'un *service* génère un effet **positif** sur un **tiers** ou sur la **société** dans son ensemble, on parle d'une externalité positive de la production.
 ![[image-20230203093001379.png]]
-<!--SR:!2023-05-09,51,210-->
+<!--SR:!2023-08-24,107,210-->
 
 - Lorsque une externalité positive de la production se produit,:: **le coût marginal social de production (MSC) est inférieur au coût marginal de production privé (MPC)**.
 <!--SR:!2023-07-09,93,250-->

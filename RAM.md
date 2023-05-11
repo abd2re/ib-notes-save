@@ -9,10 +9,10 @@ Created: 2023-01-11
 - La mémoire primaire peut contenir à la fois des données et des instructions qui sont en cours d'exécution sur le système informatique.
 - Ces données et instructions sont stockées dans la mémoire primaire sous forme de code machine binaire.
 - La RAM contient également tout ce que l'utilisateur a ouvert/chargé depuis le démarrage du système et perd son contenu en cas de rupture d'alimentation.
-<!--SR:!2023-05-09,66,230-->
+<!--SR:!2023-10-08,152,230-->
 
 RAM c'est une abbreviation pour:: Random Access Memory
-<!--SR:!2023-05-10,65,250-->
+<!--SR:!2023-10-20,163,250-->
 
 <!--SR:!2023-02-16,22,250-->
 

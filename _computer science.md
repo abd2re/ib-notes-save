@@ -12,6 +12,7 @@ retour [[__dashboard]]
 [[exercices info 2]]
 [[exercices info 3]]
 [[questions infos 2]]
+[[entrainement test]]
 
 ![[Theme 1-Notion fondamental sur les systèmes]]
 ![[Theme 2-Architecture des ordinateurs]]

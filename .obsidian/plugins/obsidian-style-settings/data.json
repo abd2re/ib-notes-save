@@ -15,5 +15,7 @@
   "minimal-style@@ui2@@dark": "#00FF41",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings@@anp-background-image-light": "url(\"https://link-to-image.png\")"
 }
