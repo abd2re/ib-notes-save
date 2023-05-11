@@ -15,4 +15,3 @@ tags: [MOC]
 3. [[Troisième loi de Newton]]
 ### 3. Application des Lois de Newton
 1. [[Méthode de résolution de problème de dynamique]]
-2. [[Application de la première loi de Newton]]

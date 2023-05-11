@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application de la première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application de la première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application de la première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application de la première loi de Newton.md"
+                "file": "Méthode de résolution de problème de dynamique.md"
               }
             }
           },
@@ -363,7 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Application de la première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -436,7 +436,9 @@
   },
   "lastOpenFiles": [
     "Chapitre 2 - Forces et lois de Newton.md",
+    "Troisième loi de Newton.md",
     "Application de la première loi de Newton.md",
+    "Première loi de Newton.md",
     "Méthode de résolution de problème de dynamique.md",
     "_physics.md",
     "Tension d'un ressort.md",
@@ -465,8 +467,6 @@
     "Excalidraw/assets/Drawing 2023-05-10 09.08.21.excalidraw",
     "Chapitre 2 - Pensée computationnelle.md",
     "Raisonnement procédural.md",
-    "Oral 1.md",
-    "Deuxième loi de Newton.md",
     "assets/Poussée d'Archimede/image-20230509082207472.png",
     "assets/Poussée d'Archimede/image-20230509082205046.png",
     "assets/Poussée d'Archimede",
